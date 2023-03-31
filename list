@@ -3,10 +3,6 @@
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр HD
-http://hls.peers.tv/streaming/tvc_hd/126/copy/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
-http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
 #EXTINF:-1,Первый канал СНГ
