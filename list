@@ -1,171 +1,177 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
-https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
-https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр HD
-http://hls.peers.tv/streaming/tvc_hd/126/copy/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
-http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
-https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ (iptvlist.ru)
-http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=orh6o
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/79.png",СТС
-http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
-http://flu.ttk.mx:9090/Domashni/index.m3u8?token=orh6o
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/898.png",Ю
-http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота! HD
-https://bl.uma.media/live/317845/HLS/4614144_3/1/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота! HD
-https://bl.uma.media/live/410336/HLS/6307840_6/1/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота! HD
-https://bl.uma.media/live/407373/HLS/6307840_6/1/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2078.png",Мир 24
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/743.png",РБК ТВ
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2508.png",Глазами туриста
-https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/1612.png",Discovery HD
-https://livetv.mylifeisgood.ml/channels/discovery.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3067.png",Discovery Science HD
+#EXTINF:-1 ,Первый HD
+https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
+#EXTINF:-1 ,Россия 1
+https://livetv.mylifeisgood.ml/channels/russia1.m3u8
+#EXTINF:-1 ,Россия К
+https://livetv.mylifeisgood.ml/channels/russiak.m3u8
+#EXTINF:-1 ,Россия 24
+https://livetv.mylifeisgood.ml/channels/russia24.m3u8
+#EXTINF:-1 ,Москва 24
+https://livetv.mylifeisgood.ml/channels/moscow24.m3u8
+#EXTINF:-1 ,НТВ HD
+https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
+#EXTINF:-1 ,ТНТ HD
+https://livetv.mylifeisgood.ml/channels/tnthd.m3u8
+#EXTINF:-1 ,ТНТ4 HD
+https://livetv.mylifeisgood.ml/channels/tnt4.m3u8
+#EXTINF:-1 ,НТВ Хит
+https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
+#EXTINF:-1 ,НТВ Сериал
+https://livetv.mylifeisgood.ml/channels/ntvserial24.m3u8
+#EXTINF:-1 ,НТВ Право
+https://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8
+#EXTINF:-1 ,НТВ Стиль
+https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
+#EXTINF:-1 ,DTX HD
+https://livetv.mylifeisgood.ml/channels/discoverydtx.m3u8
+#EXTINF:-1 ,Discovery Science HD
 https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2507.png",Investigation Discovery HD
+#EXTINF:-1 ,Моя Планета
+https://livetv.mylifeisgood.ml/channels/myplanet.m3u8
+#EXTINF:-1 ,Загородный Int
+https://livetv.mylifeisgood.ml/channels/zagorodint.m3u8
+#EXTINF:-1 ,HD Life
+https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
+#EXTINF:-1 ,Приключения HD
+https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8
+#EXTINF:-1 ,Первый Космический HD
+https://livetv.mylifeisgood.ml/channels/firstspace.m3u8
+#EXTINF:-1 ,Viasat History HD
+https://livetv.mylifeisgood.ml/channels/viasat_history.m3u8
+#EXTINF:-1 ,Viasat Explore HD
+https://livetv.mylifeisgood.ml/channels/viasat_explore.m3u8
+#EXTINF:-1 ,Viasat Nature HD
+https://livetv.mylifeisgood.ml/channels/viasat_nature.m3u8
+#EXTINF:-1 ,Viasat Nature/History HD
+https://livetv.mylifeisgood.ml/channels/viasatnaturehistory.m3u8
+#EXTINF:-1 ,TERRA
+https://livetv.mylifeisgood.ml/channels/national_geographic.m3u8
+#EXTINF:-1 ,Animal Planet HD
+https://livetv.mylifeisgood.ml/channels/animalplanethd.m3u8
+#EXTINF:-1 ,Discovery channel HD
+https://livetv.mylifeisgood.ml/channels/discovery.m3u8
+#EXTINF:-1 ,Investigation Discovery HD
 https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/990.png",Animal Planet HD
-https://livetv.mylifeisgood.ml/channels/animalplanethd
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2498.png",В мире животных HD
-http://hls.peers.tv/streaming/animal_family_hd/16/tvrec/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2627.png",Диалоги о рыбалке
-http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
-#EXTINF:-1  tvg-logo="https://iptvxcdn.ml/start.png",Старт
-https://livetv.mylifeisgood.ml/channels/startlive
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2812.png",SETANTA SPORTS 1 HD
-https://livetv.mylifeisgood.ml/channels/setantahd
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2813.png",Setanta Sports 2 HD
-https://livetv.mylifeisgood.ml/channels/setantaplus
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2052.png",Eurosport 1 HD
-https://livetv.mylifeisgood.ml/channels/eurosport1ru
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/4313.png",Eurosport 2 HD
-https://livetv.mylifeisgood.ml/channels/eurosport2
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2004.png",Viasat Sport HD
-http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://antifriztv.com/storage/images/pack_logos/51de7a32b761165b4e7ac15866b2af76.png",Спортивный HD
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://antifriztv.com/storage/images/pack_logos/51de7a32b761165b4e7ac15866b2af76.png",Спортивный HD
-https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2782.png",Телеканал Футбол
-http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2506.png",Кино ТВ HD
+#EXTINF:-1 ,Top Secret
+https://livetv.mylifeisgood.ml/channels/sovsec127.m3u8
+#EXTINF:-1 ,Оружие
+https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
+#EXTINF:-1 ,Глазами Туриста
+https://livetv.mylifeisgood.ml/channels/glazamiturista.m3u8
+#EXTINF:-1 ,Живая природа
+https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
+#EXTINF:-1 ,Наша Сибирь HD
+https://livetv.mylifeisgood.ml/channels/nashasibirhd.m3u8
+#EXTINF:-1 ,Наша сибирь 4K
+https://livetv.mylifeisgood.ml/channels/nashasibir4k.m3u8
+#EXTINF:-1 ,ОТР
+https://livetv.mylifeisgood.ml/channels/otr24.m3u8
+#EXTINF:-1 ,МИР HD
+http://livetv.mylifeisgood.ml/channels/mirhdorig.m3u8
+#EXTINF:-1 ,Пятый канал
+https://livetv.mylifeisgood.ml/channels/5tv.m3u8
+#EXTINF:-1 ,ТВЦ
+https://livetv.mylifeisgood.ml/channels/tvc24.m3u8
+#EXTINF:-1 ,СПАС
+https://livetv.mylifeisgood.ml/channels/spas.m3u8
+#EXTINF:-1 ,Домашний HD
+https://livetv.mylifeisgood.ml/channels/domashnii
+#EXTINF:-1 ,ТВ3 HD
+https://livetv.mylifeisgood.ml/channels/tv3.m3u8
+#EXTINF:-1 ,Пятница HD
+https://livetv.mylifeisgood.ml/channels/friday.m3u8
+#EXTINF:-1 ,Звезда
+https://livetv.mylifeisgood.ml/channels/zvezda.m3u8
+#EXTINF:-1 ,Кино ТВ
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2823.png",ViP Comedy HD
-https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2824.png",VIP Megahit HD
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2822.png",VIP Premiere HD
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2838.png",ViP Serial HD
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3302.png",TV 1000 HD
-https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3301.png",TV 1000 Action HD
-https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/3303.png",TV 1000 Русское кино HD
-https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
-https://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
-https://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
-https://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/4770.png",BackusTV
-https://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/4662.png",BackusTV Страшное
-https://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/309.png",TV XXI
-http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2771.png",Победа
-http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2834.png",Кинопоказ
-http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/352.png",Еврокино
-http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2549.png",Cinema
-http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2403.png",Иллюзион +
-http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
-http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/897.png",Муз ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1  tvg-logo="https://tv2club.com/wp-content/uploads/2020/12/cz-ocko-8142.jpg",Ocko
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-expres-6319.jpg",Ocko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-star-6827.jpg",Ocko Star
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1  tvg-logo="https://ritsatv.ru/files/poster/medium/300102.jpg",RITSA TV
-https://live.prd.dlive.tv/hls/live/fila007.m3u8
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/M/M2-logo-719227FCEC-seeklogo.com.png",M2 HD
-http://live.m2.tv/hls3/720/stream.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU",Первый Музыкальный RU
-http://rtmp.one.by:2200
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU",Первый Музыкальный RU HD
-http://rtmp.one.by:2300
-#EXTINF:-1  tvg-logo="https://online-red.com/images/tv/one-hd.png",Первый Музыкальный BY
-http://rtmp.one.by:1200
-#EXTINF:-1  tvg-logo="https://online-red.com/images/tv/one-hd.png",Первый Музыкальный BY HD
-http://rtmp.one.by:1300
-#EXTINF:-1  tvg-logo="https://sat-one.info/news-imeg/58892.jpg",VIVA TV
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:-1  tvg-logo="https://online-red.com/images/radio-logo/strana-fm.png",Страна FM
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Шансон-ТВ
-http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Radio Шансон-ТВ
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Radio Шансон-ТВ
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2277.png",RU.TV
-https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
-#EXTINF:-1  tvg-logo="https://smotrimkino.vip/uploads/posts/2019-07/1564013659_kronehit.jpg",Kronehit TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2743.png",Ultra HD Cinema 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2803.png",Russian Extreme UHD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/146.png",Первый
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/711.png",Россия 1
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/162.png",НТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/726.png",Мир
-https://s91412.cdn.ngenix.net/mdrm/CH_MIR/variant.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/405.png",Звезда
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/1000.png",ОТР
-https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/79.png",СТС
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 ,СТС Love
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/1598.png",Че
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 ,Кинеко
+https://livetv.mylifeisgood.ml/channels/fox.m3u8
+#EXTINF:-1 ,Сапфир
+https://livetv.mylifeisgood.ml/channels/foxlife.m3u8
+#EXTINF:-1 ,Start Air HD
+https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
+#EXTINF:-1 ,Start World HD
+https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
+#EXTINF:-1 ,Vip Megahit HD
+https://livetv.mylifeisgood.ml/channels/vip_megahit.m3u8
+#EXTINF:-1 ,Vip Comedy HD
+https://livetv.mylifeisgood.ml/channels/vip_comedy.m3u8
+#EXTINF:-1 ,Vip Premiere HD
+https://livetv.mylifeisgood.ml/channels/vip_premiere.m3u8
+#EXTINF:-1 ,Vip Serial HD
+https://livetv.mylifeisgood.ml/channels/vip_serial.m3u8
+#EXTINF:-1 ,TV1000 HD
+http://livetv.mylifeisgood.ml/channels/tv1000.m3u8
+#EXTINF:-1 ,TV1000 Action HD
+https://livetv.mylifeisgood.ml/channels/tv1000action.m3u8
+#EXTINF:-1 ,TV1000 Русское Кино HD
+https://livetv.mylifeisgood.ml/channels/tv1000ruskino.m3u8
+#EXTINF:-1 ,Феникс+Кино
+https://livetv.mylifeisgood.ml/channels/fenixkino.m3u8
+#EXTINF:-1 ,Trash
+https://livetv.mylifeisgood.ml/channels/trash.m3u8
+#EXTINF:-1 ,Москва Доверие
+https://livetv.mylifeisgood.ml/channels/moscvadoverie.m3u8
+#EXTINF:-1 ,ЧЕ
+https://livetv.mylifeisgood.ml/channels/che.m3u8
 #EXTINF:-1 ,Ю
-https://s91412.cdn.ngenix.net/mdrm/CH_U/variant.m3u8
+https://livetv.mylifeisgood.ml/channels/u_ott_tv.m3u8
+#EXTINF:-1 ,Суббота
+https://livetv.mylifeisgood.ml/channels/subbota.m3u8
+#EXTINF:-1 ,2x2
+https://livetv.mylifeisgood.ml/channels/2x2.m3u8
+#EXTINF:-1 ,Paramount Comedy
+https://livetv.mylifeisgood.ml/channels/paramount_comedy.m3u8
+#EXTINF:-1 ,Paramount Channel
+https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
+#EXTINF:-1 ,360°
+https://livetv.mylifeisgood.ml/channels/ch360.m3u8
+#EXTINF:-1 ,360 новости
+https://livetv.mylifeisgood.ml/channels/ch360news.m3u8
+#EXTINF:-1 ,Анекдот ТВ
+https://livetv.mylifeisgood.ml/channels/anekdot.m3u8
+#EXTINF:-1 ,Живи Активно HD
+https://livetv.mylifeisgood.ml/channels/jiviactivno.m3u8
+#EXTINF:-1 ,Известия
+https://livetv.mylifeisgood.ml/channels/iz.m3u8
+#EXTINF:-1 ,МузТВ
+https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
+#EXTINF:-1 ,ТНТ Music
+https://livetv.mylifeisgood.ml/channels/tntmusicru.m3u8
+#EXTINF:-1 ,Европа Плюс ТВ
+https://livetv.mylifeisgood.ml/channels/europaplustv24.m3u8
+#EXTINF:-1 ,1HD
+https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
+#EXTINF:-1 ,Bridge TV
+https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
+#EXTINF:-1 ,Bridge TV Classic
+https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
+#EXTINF:-1 ,Bridge TV Deluxe
+https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
+#EXTINF:-1 ,Bridge TV Hits
+https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
+#EXTINF:-1 ,Bridge TV Русский хит
+https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
+#EXTINF:-1 ,Bridge TV Шлягер
+https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
+#EXTINF:-1 ,Bridge TV Фрэш
+https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
+#EXTINF:-1 ,СОЛНЦЕ
+https://livetv.mylifeisgood.ml/channels/disney.m3u8
+#EXTINF:-1 ,Nickelodeon HD
+https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8
+#EXTINF:-1 ,Смайлик ТВ
+https://livetv.mylifeisgood.ml/channels/smile.m3u8
+#EXTINF:-1 ,Da Vinci
+https://livetv.mylifeisgood.ml/channels/davinci.m3u8
+#EXTINF:-1 ,СТС Kids HD
+https://livetv.mylifeisgood.ml/channels/ctckids.m3u8
+#EXTINF:-1 ,Gulli Girl
+https://livetv.mylifeisgood.ml/channels/gulli.m3u8
+#EXTINF:-1 ,TIJI
+https://livetv.mylifeisgood.ml/channels/tiji.m3u8
+#EXTINF:-1 ,Рыжий
+https://livetv.mylifeisgood.ml/channels/ryjii.m3u8
+#EXTINF:-1 ,Карусель
+https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
