@@ -3,6 +3,8 @@
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:0,Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-sd/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
 #EXTINF:-1,Первый канал СНГ
