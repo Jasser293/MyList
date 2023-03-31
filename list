@@ -99,12 +99,8 @@ https://livetv.mylifeisgood.ml/channels/vip_megahit.m3u8
 https://livetv.mylifeisgood.ml/channels/vip_comedy.m3u8
 #EXTINF:-1 ,Vip Premiere HD
 https://livetv.mylifeisgood.ml/channels/vip_premiere.m3u8
-#EXTINF:-1 ,Vip Serial HD
-https://livetv.mylifeisgood.ml/channels/vip_serial.m3u8
 #EXTINF:-1 ,TV1000 HD
 http://livetv.mylifeisgood.ml/channels/tv1000.m3u8
-#EXTINF:-1 ,TV1000 Action HD
-https://livetv.mylifeisgood.ml/channels/tv1000action.m3u8
 #EXTINF:-1 ,TV1000 Русское Кино HD
 https://livetv.mylifeisgood.ml/channels/tv1000ruskino.m3u8
 #EXTINF:-1 ,Феникс+Кино
@@ -115,8 +111,6 @@ https://livetv.mylifeisgood.ml/channels/trash.m3u8
 https://livetv.mylifeisgood.ml/channels/moscvadoverie.m3u8
 #EXTINF:-1 ,ЧЕ
 https://livetv.mylifeisgood.ml/channels/che.m3u8
-#EXTINF:-1 ,Ю
-https://livetv.mylifeisgood.ml/channels/u_ott_tv.m3u8
 #EXTINF:-1 ,Суббота
 https://livetv.mylifeisgood.ml/channels/subbota.m3u8
 #EXTINF:-1 ,2x2
@@ -155,10 +149,6 @@ https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
 https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
 #EXTINF:-1 ,Bridge TV Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 ,Bridge TV Фрэш
-https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 ,СОЛНЦЕ
-https://livetv.mylifeisgood.ml/channels/disney.m3u8
 #EXTINF:-1 ,Nickelodeon HD
 https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8
 #EXTINF:-1 ,Смайлик ТВ
