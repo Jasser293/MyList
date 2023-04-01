@@ -18,17 +18,10 @@ http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
 #EXTINF:0,Пятница HD
-#EXTGRP:Федеральные
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
-
-
 #EXTINF:0,Суббота HD
-#EXTGRP:Федеральные
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
-
-
 #EXTINF:-1,Рен ТВ HD 
-#EXTGRP:Федеральные
 https://rentv-live-megafon2.mediavitrina.ru/hls-live1/streams/ren-tv/3s/ren-tv.m3u8?token_version=v2&hash1=j6w03naKGsakri41ehZe23yLwQMhtIO0Z-7IJ_TiwdU&hash2=FD2NZODi3J76JUTJ6gPgmFA_Nr8Y9fzdRXizUh1r2Z8&timestamp=1680884980&random=e25b26a3f8558c03d6e6a481f53ad00a
 #EXTINF:-1,Первый канал СНГ
 http://176.222.190.76/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
