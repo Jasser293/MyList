@@ -3,8 +3,18 @@
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:0,Россия 1
+#EXTINF:-1 ,Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-sd/index.m3u8
+#EXTINF:-1 ,Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 ,Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 ,Мир [HD]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 ,РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 ,Вместе РФ HD
+http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
 #EXTINF:-1,Первый канал СНГ
