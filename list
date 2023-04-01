@@ -23,6 +23,12 @@ https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 #EXTINF:0,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1 ,Матч ТВ
+https://mhd116.iptv2022.com/p/SRRWRMaILSOnUlHvvCGt1A,1680375232/streaming/matchott/324/1/index.m3u8
+#EXTINF:-1 ,НТВ
+https://mhd116.iptv2022.com/p/49kLhK4PEmiF7n90h_wImg,1680375233/streaming/ntvnn/324/1/index.m3u8
+#EXTINF:-1 ,5 канал
+https://mhd116.iptv2022.com/p/FP2Atmi0onNAT4yRP3N6oQ,1680375233/streaming/5kanalott/324/1/index.m3u8
 #EXTINF:-1,Рен ТВ HD 
 https://rentv-live-megafon2.mediavitrina.ru/hls-live1/streams/ren-tv/3s/ren-tv.m3u8?token_version=v2&hash1=j6w03naKGsakri41ehZe23yLwQMhtIO0Z-7IJ_TiwdU&hash2=FD2NZODi3J76JUTJ6gPgmFA_Nr8Y9fzdRXizUh1r2Z8&timestamp=1680884980&random=e25b26a3f8558c03d6e6a481f53ad00a
 #EXTINF:-1,Первый канал СНГ
