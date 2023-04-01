@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 , Первый HD
+#EXTINF:-1 ,Первый HD
 https://mhd116.iptv2022.com/p/UBZp_9UZip--wfA7PDhVnQ,1680375231/streaming/1kanalott/324/1/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Россия 1
+#EXTINF:-1 ,Россия 1
 https://mhd116.iptv2022.com/p/dPl1OILbxDZMokwe7ler1g,1680375232/streaming/rossia1ott/324/1/index.m3u8
-#EXTINF:0,Россия 1 HD
-https://telecola-live.gcdn.co/cdn_origin2_ssd/rossia1hd/chunks.m3u8
 #EXTINF:-1 ,Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,Мир Premium HD
@@ -19,9 +17,9 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
-#EXTINF:0,Пятница HD
+#EXTINF:-1 ,Пятница HD
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
-#EXTINF:0,Суббота HD
+#EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,Матч ТВ
 https://mhd116.iptv2022.com/p/SRRWRMaILSOnUlHvvCGt1A,1680375232/streaming/matchott/324/1/index.m3u8
@@ -29,17 +27,17 @@ https://mhd116.iptv2022.com/p/SRRWRMaILSOnUlHvvCGt1A,1680375232/streaming/matcho
 https://mhd116.iptv2022.com/p/49kLhK4PEmiF7n90h_wImg,1680375233/streaming/ntvnn/324/1/index.m3u8
 #EXTINF:-1 ,5 канал
 https://mhd116.iptv2022.com/p/FP2Atmi0onNAT4yRP3N6oQ,1680375233/streaming/5kanalott/324/1/index.m3u8
-#EXTINF:-1,Рен ТВ HD 
+#EXTINF:-1 ,Рен ТВ HD
 https://rentv-live-megafon2.mediavitrina.ru/hls-live1/streams/ren-tv/3s/ren-tv.m3u8?token_version=v2&hash1=j6w03naKGsakri41ehZe23yLwQMhtIO0Z-7IJ_TiwdU&hash2=FD2NZODi3J76JUTJ6gPgmFA_Nr8Y9fzdRXizUh1r2Z8&timestamp=1680884980&random=e25b26a3f8558c03d6e6a481f53ad00a
-#EXTINF:-1,Первый канал СНГ
+#EXTINF:-1 ,Первый канал СНГ
 http://176.222.190.76/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
-#EXTINF:-1,Россия 24
+#EXTINF:-1 ,Россия 24
 http://176.222.190.76/btv/icon/R24/R24.m3u8
-#EXTINF:-1,Россия Культура
+#EXTINF:-1 ,Россия Культура
 http://176.222.190.76/btv/icon/RussiaK/RussiaK.m3u8
-#EXTINF:-1,ТНТ International СНГ
+#EXTINF:-1 ,ТНТ International СНГ
 http://176.222.190.76/btv/SWM/TNT_HD_RUS/TNT_HD_RUS.m3u8
-#EXTINF:-1,ТНТ International KZ
+#EXTINF:-1 ,ТНТ International KZ
 http://176.222.190.76/btv/SWM/TNT_HD/TNT_HD.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",НТВ-Мир
 http://176.222.190.76/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
@@ -59,11 +57,11 @@ http://176.222.190.76/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
 http://176.222.190.76/btv/SWM/HistoryHD/HistoryHD.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Discovery HD
 http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8
-#EXTINF:-1,Viasat Explore
+#EXTINF:-1 ,Viasat Explore
 http://176.222.190.76/btv/SWM/viasatexplorerhd/viasatexplorerhd.m3u8
-#EXTINF:-1,Viasat History
+#EXTINF:-1 ,Viasat History
 http://176.222.190.76/btv/SWM/viasathistoryhd/viasathistoryhd.m3u8
-#EXTINF:-1,Viasat Nature
+#EXTINF:-1 ,Viasat Nature
 http://176.222.190.76/btv/SWM/viasatnaturehd/viasatnaturehd.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",TLC HD
 http://176.222.190.76/btv/SWM/tlc_hd/tlc_hd.m3u8
@@ -77,31 +75,31 @@ http://176.222.190.76/btv/SWM/animal_hd/animal_hd.m3u8
 http://176.222.190.76/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",H2
 http://176.222.190.76/btv/SWM/History2HD/History2HD.m3u8
-#EXTINF:-1,Terra
+#EXTINF:-1 ,Terra
 http://176.222.190.76/btv/SWM/terra_hd/terra_hd.m3u8
-#EXTINF:-1,Глазами туриста HD
+#EXTINF:-1 ,Глазами туриста HD
 http://176.222.190.76/btv/SWM/Glazamy_Turista_HD/Glazamy_Turista_HD.m3u8
-#EXTINF:-1,Дикая охота
+#EXTINF:-1 ,Дикая охота
 http://176.222.190.76/btv/SWM/dikaya_ohota_hd/dikaya_ohota_hd.m3u8
-#EXTINF:-1,Дикая рыбалка
+#EXTINF:-1 ,Дикая рыбалка
 http://176.222.190.76/btv/SWM/dikaya_rybalka_hd/dikaya_rybalka_hd.m3u8
-#EXTINF:-1,Домашние Животные
+#EXTINF:-1 ,Домашние Животные
 http://176.222.190.76/btv/SWM/Dom_Jivotnye_SWM/Dom_Jivotnye_SWM.m3u8
-#EXTINF:-1,Живая природа
+#EXTINF:-1 ,Живая природа
 http://176.222.190.76/btv/SWM/Zhivaya_priroda_HD/Zhivaya_priroda_HD.m3u8
-#EXTINF:-1,Оружие
+#EXTINF:-1 ,Оружие
 http://176.222.190.76/btv/SWM/oruzhie/oruzhie.m3u8
-#EXTINF:-1,Первый Космический HD
+#EXTINF:-1 ,Первый Космический HD
 http://176.222.190.76/btv/SWM/1_kosmo_HD/1_kosmo_HD.m3u8
-#EXTINF:-1,Приключения
+#EXTINF:-1 ,Приключения
 http://176.222.190.76/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya_HD.m3u8
-#EXTINF:-1,Рыбалка и охота
+#EXTINF:-1 ,Рыбалка и охота
 http://176.222.190.76/btv/icon/Ohota_i_rybalka/Ohota_i_rybalka.m3u8
-#EXTINF:-1,Техно 24
+#EXTINF:-1 ,Техно 24
 http://176.222.190.76/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
-#EXTINF:-1,Охотник и рыболов
+#EXTINF:-1 ,Охотник и рыболов
 http://176.222.190.76/btv/SWM/Ohotnik_i_ribolov/Ohotnik_i_ribolov.m3u8
-#EXTINF:-1,Дача
+#EXTINF:-1 ,Дача
 http://176.222.190.76/btv/SWM/dacha_hd/dacha_hd.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",НАШЕ ЛЮБИМОЕ КИНО
 http://176.222.190.76/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino.m3u8
@@ -133,43 +131,43 @@ http://176.222.190.76/btv/SWM/Pobeda/Pobeda.m3u8
 http://176.222.190.76/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Hollywood
 http://176.222.190.76/btv/SWM/Hollywood/Hollywood.m3u8
-#EXTINF:-1,.Black
+#EXTINF:-1 ,.Black
 http://176.222.190.76/btv/SWM/Black/Black.m3u8
-#EXTINF:-1,.Red
+#EXTINF:-1 ,.Red
 http://176.222.190.76/btv/SWM/Red/Red.m3u8
-#EXTINF:-1,.Sci-Fi
+#EXTINF:-1 ,.Sci-Fi
 http://176.222.190.76/btv/SWM/Sci-Fi/Sci-Fi.m3u8
-#EXTINF:-1,TV XXI
+#EXTINF:-1 ,TV XXI
 http://176.222.190.76/btv/SWM/tv21/tv21.m3u8
-#EXTINF:-1,TV1000
+#EXTINF:-1 ,TV1000
 http://176.222.190.76/btv/SWM/tv1000hd/tv1000hd.m3u8
-#EXTINF:-1,TV1000 Action
+#EXTINF:-1 ,TV1000 Action
 http://176.222.190.76/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
-#EXTINF:-1,TV1000 Русское кино
+#EXTINF:-1 ,TV1000 Русское кино
 http://176.222.190.76/btv/SWM/tv1000rukinohd/tv1000rukinohd.m3u8
-#EXTINF:-1,VIP Comedy
+#EXTINF:-1 ,VIP Comedy
 http://176.222.190.76/btv/SWM/vip_comedy_hd/vip_comedy_hd.m3u8
-#EXTINF:-1,VIP Megahit
+#EXTINF:-1 ,VIP Megahit
 http://176.222.190.76/btv/SWM/vip_megahit_hd/vip_megahit_hd.m3u8
-#EXTINF:-1,VIP Premiere
+#EXTINF:-1 ,VIP Premiere
 http://176.222.190.76/btv/SWM/vip_premiere_hd/vip_premiere_hd.m3u8
-#EXTINF:-1,VIP Serial
+#EXTINF:-1 ,VIP Serial
 http://176.222.190.76/btv/SWM/vip_serial_hd/vip_serial_hd.m3u8
-#EXTINF:-1,Капитан Фантастика
+#EXTINF:-1 ,Капитан Фантастика
 http://176.222.190.76/btv/SWM/Fantastica_HD/Fantastica_HD.m3u8
-#EXTINF:-1,Мир сериала
+#EXTINF:-1 ,Мир сериала
 http://176.222.190.76/btv/SWM/mir_seriala/mir_seriala.m3u8
-#EXTINF:-1,Мосфильм. Золотая коллекция
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://176.222.190.76/btv/SWM/mosfilm/mosfilm.m3u8
-#EXTINF:-1,Сапфир
+#EXTINF:-1 ,Сапфир
 http://176.222.190.76/btv/SWM/sapfir_hd/sapfir_hd.m3u8
-#EXTINF:-1,СТС International
+#EXTINF:-1 ,СТС International
 http://176.222.190.76/btv/icon/CTC_International/CTC_International.m3u8
-#EXTINF:-1,Кинеко
+#EXTINF:-1 ,Кинеко
 http://176.222.190.76/btv/SWM/kineko_hd/kineko_hd.m3u8
-#EXTINF:-1,START Air
+#EXTINF:-1 ,START Air
 http://176.222.190.76/btv/SWM/start_air_hd/start_air_hd.m3u8
-#EXTINF:-1,START World
+#EXTINF:-1 ,START World
 http://176.222.190.76/btv/SWM/start_world_hd/start_world_hd.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Еврокино
 http://176.222.190.76/btv/SWM/Eurokino/Eurokino.m3u8
@@ -193,9 +191,9 @@ http://176.222.190.76/btv/SWM/O/O.m3u8
 http://176.222.190.76/btv/SWM/Boomerang/Boomerang.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",ТВЦ
 http://176.222.190.76/btv/SWM/TVCentr/TVCentr.m3u8
-#EXTINF:-1,ЦТВ
+#EXTINF:-1 ,ЦТВ
 http://176.222.190.76/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
-#EXTINF:-1,Феникс+Кино
+#EXTINF:-1 ,Феникс+Кино
 http://176.222.190.76/btv/SWM/phoenix/phoenix.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",ТНБ
 http://176.222.190.76/btv/SWM/tnv_tatarstan/tnv_tatarstan.m3u8
@@ -209,193 +207,193 @@ http://176.222.190.76/btv/SWM/FilmUADrama/FilmUADrama.m3u8
 http://176.222.190.76/btv/SWM/Muzhskoy/Muzhskoy.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",БЕЛАРУСЬ 24
 http://176.222.190.76/btv/SWM/Belarus/Belarus.m3u8
-#EXTINF:-1,Анекдот ТВ
+#EXTINF:-1 ,Анекдот ТВ
 http://176.222.190.76/btv/SWM/anekdot_tv/anekdot_tv.m3u8
-#EXTINF:-1,Вопросы и ответы
+#EXTINF:-1 ,Вопросы и ответы
 http://176.222.190.76/btv/SWM/Voprosy-Otvety_SWM/Voprosy-Otvety_SWM.m3u8
-#EXTINF:-1,Дидар
+#EXTINF:-1 ,Дидар
 http://176.222.190.76/btv/SWM/Didar/Didar.m3u8
-#EXTINF:-1,Первый вегетарианский
+#EXTINF:-1 ,Первый вегетарианский
 http://176.222.190.76/btv/SWM/1_vegan_hd/1_vegan_hd.m3u8
-#EXTINF:-1,Домашний Int
+#EXTINF:-1 ,Домашний Int
 http://176.222.190.76/btv/SWM/Domashniy_int/Domashniy_int.m3u8
-#EXTINF:-1,Евроновости
+#EXTINF:-1 ,Евроновости
 http://176.222.190.76/btv/SWM/SWM_Euronews_alt/SWM_Euronews_alt.m3u8
-#EXTINF:-1,Еда Премиум
+#EXTINF:-1 ,Еда Премиум
 http://176.222.190.76/btv/SWM/eda_premium_hd/eda_premium_hd.m3u8
-#EXTINF:-1,Жетысу ТВ
+#EXTINF:-1 ,Жетысу ТВ
 http://176.222.190.76/btv/SWM/Zhetisy/Zhetisu.m3u8
-#EXTINF:-1,Здоровое ТВ
+#EXTINF:-1 ,Здоровое ТВ
 http://176.222.190.76/btv/SWM/zdorovoe_tv/zdorovoe_tv.m3u8
-#EXTINF:-1,Иллюзион +
+#EXTINF:-1 ,Иллюзион +
 http://176.222.190.76/btv/SWM/Illuzion-Plus_SWM/Illuzion-Plus_SWM.m3u8
-#EXTINF:-1,Ключ
+#EXTINF:-1 ,Ключ
 http://176.222.190.76/btv/SWM/klyuch_hd/klyuch_hd.m3u8
-#EXTINF:-1,КТК
+#EXTINF:-1 ,КТК
 http://176.222.190.76/btv/SWM/SWM_KTK/SWM_KTK.m3u8
-#EXTINF:-1,Кто Куда
+#EXTINF:-1 ,Кто Куда
 http://176.222.190.76/btv/SWM/mir_uvlecheniy/mir_uvlecheniy.m3u8
-#EXTINF:-1,МИР 24
+#EXTINF:-1 ,МИР 24
 http://176.222.190.76/btv/SWM/SWM_MIR24/SWM_MIR24.m3u8
-#EXTINF:-1,Мир
+#EXTINF:-1 ,Мир
 http://176.222.190.76/btv/SWM/SWM_MIR/SWM_MIR.m3u8
-#EXTINF:-1,НТК
+#EXTINF:-1 ,НТК
 http://176.222.190.76/btv/SWM/SWM_NTK/SWM_NTK.m3u8
-#EXTINF:-1,Психология 21
+#EXTINF:-1 ,Психология 21
 http://176.222.190.76/btv/SWM/Psychology21_SWM/Psychology21_SWM.m3u8
-#EXTINF:-1,Пятница Int
+#EXTINF:-1 ,Пятница Int
 http://176.222.190.76/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
-#EXTINF:-1,Пятый Int
+#EXTINF:-1 ,Пятый Int
 http://176.222.190.76/btv/SWM/SWM_5kanal/SWM_5kanal.m3u8
-#EXTINF:-1,РИКА ТВ
+#EXTINF:-1 ,РИКА ТВ
 http://176.222.190.76/btv/SWM/RIKA_TV/RIKA_TV.m3u8
-#EXTINF:-1,РТР-Планета Азия
+#EXTINF:-1 ,РТР-Планета Азия
 http://176.222.190.76/btv/SWM/SWM_RTR/SWM_RTR.m3u8
-#EXTINF:-1,Русский иллюзион
+#EXTINF:-1 ,Русский иллюзион
 http://176.222.190.76/btv/SWM/Russky-Illuzion_SWM/Russky-Illuzion_SWM.m3u8
-#EXTINF:-1,Тараз 24
+#EXTINF:-1 ,Тараз 24
 http://176.222.190.76/btv/SWM/Taraz_TV/Taraz_TV.m3u8
-#EXTINF:-1,ТВ3 International
+#EXTINF:-1 ,ТВ3 International
 http://176.222.190.76/btv/SWM/TB_3_International/TB_3_International.m3u8
-#EXTINF:-1,ТВК 6
+#EXTINF:-1 ,ТВК 6
 http://176.222.190.76/btv/SWM/Test_TVK6/Test_TVK6.m3u8
-#EXTINF:-1,Твоё ТВ
+#EXTINF:-1 ,Твоё ТВ
 http://176.222.190.76/btv/icon/TvoyTV/TvoyTV.m3u8
-#EXTINF:-1,ТДК 42
+#EXTINF:-1 ,ТДК 42
 http://176.222.190.76/btv/SWM/TDK42/TDK42.m3u8
-#EXTINF:-1,Телекафе
+#EXTINF:-1 ,Телекафе
 http://176.222.190.76/btv/icon/Telecafe/Telecafe.m3u8
-#EXTINF:-1,Той Думан
+#EXTINF:-1 ,Той Думан
 http://176.222.190.76/btv/SWM/Toy_Duman/Toy_Duman.m3u8
-#EXTINF:-1,Туркестан
+#EXTINF:-1 ,Туркестан
 http://176.222.190.76/btv/SWM/Turkestan/Turkestan.m3u8
-#EXTINF:-1,Успех
+#EXTINF:-1 ,Успех
 http://176.222.190.76/btv/SWM/uspeh/uspeh.m3u8
-#EXTINF:-1,Хабар
+#EXTINF:-1 ,Хабар
 http://176.222.190.76/btv/SWM/Khabar_HD/Khabar_HD.m3u8
-#EXTINF:-1,Хабар 24
+#EXTINF:-1 ,Хабар 24
 http://176.222.190.76/btv/SWM/Khabar_24_HD/Khabar_24_HD.m3u8
-#EXTINF:-1,1 Карагандинский
+#EXTINF:-1 ,1 Карагандинский
 http://176.222.190.76/btv/SWM/1Karagand/1Karagand.m3u8
-#EXTINF:-1,31 Канал
+#EXTINF:-1 ,31 Канал
 http://176.222.190.76/btv/icon/31kanal/31kanal.m3u8
-#EXTINF:-1,5 канал Караганда
+#EXTINF:-1 ,5 канал Караганда
 http://176.222.190.76/btv/SWM/5kanal/5kanal.m3u8
-#EXTINF:-1,7 канал Казахстан
+#EXTINF:-1 ,7 канал Казахстан
 http://176.222.190.76/btv/SWM/SWM_7/SWM_7.m3u8
-#EXTINF:-1,77 TV
+#EXTINF:-1 ,77 TV
 http://176.222.190.76/btv/SWM/SWM_77TV/SWM_77TV.m3u8
-#EXTINF:-1,8 канал International
+#EXTINF:-1 ,8 канал International
 http://176.222.190.76/btv/SWM/SWM_8/SWM_8.m3u8
-#EXTINF:-1,Abai TV
+#EXTINF:-1 ,Abai TV
 http://176.222.190.76/btv/icon/ABayTV/ABayTV.m3u8
-#EXTINF:-1,ALTAI
+#EXTINF:-1 ,ALTAI
 http://176.222.190.76/btv/SWM/Kazakhstan_Oskemen/Kazakhstan_Oskemen.m3u8
-#EXTINF:-1,Aqjaiyq
+#EXTINF:-1 ,Aqjaiyq
 http://176.222.190.76/btv/icon/Kazakhstan_Oral/Kazakhstan_Oral.m3u8
-#EXTINF:-1,AQSHAM
+#EXTINF:-1 ,AQSHAM
 http://176.222.190.76/btv/SWM/Aksham/Aksham.m3u8
-#EXTINF:-1,Astana
+#EXTINF:-1 ,Astana
 http://176.222.190.76/btv/SWM/SWM_ASTANA/SWM_ASTANA.m3u8
-#EXTINF:-1,Atameken Business
+#EXTINF:-1 ,Atameken Business
 http://176.222.190.76/btv/SWM/Atameken/Atameken.m3u8
-#EXTINF:-1,ATYRAY
+#EXTINF:-1 ,ATYRAY
 http://176.222.190.76/btv/SWM/Kazakhstan_Atyrau/Kazakhstan_Atyrau.m3u8
-#EXTINF:-1,Balapan
+#EXTINF:-1 ,Balapan
 http://176.222.190.76/btv/SWM/Balapan_HD/Balapan_HD.m3u8
-#EXTINF:-1,BBC World
+#EXTINF:-1 ,BBC World
 http://176.222.190.76/btv/SWM/BBC_World/BBC_World.m3u8
-#EXTINF:-1,Big Planet
+#EXTINF:-1 ,Big Planet
 http://176.222.190.76/btv/SWM/big_planet_hd/big_planet_hd.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 ,Cartoon Network
 http://176.222.190.76/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
-#EXTINF:-1,Caspian News
+#EXTINF:-1 ,Caspian News
 http://176.222.190.76/btv/SWM/CaspioNews/CaspioNews.m3u8
-#EXTINF:-1,CNN
+#EXTINF:-1 ,CNN
 http://176.222.190.76/btv/SWM/CNN/CNN.m3u8
-#EXTINF:-1,Da Vinci
+#EXTINF:-1 ,Da Vinci
 http://176.222.190.76/btv/SWM/davinchi/davinchi.m3u8
-#EXTINF:-1,Deutsche Welle
+#EXTINF:-1 ,Deutsche Welle
 http://176.222.190.76/btv/SWM/Deutsche_Welle/Deutsche_Welle.m3u8
-#EXTINF:-1,El Arna
+#EXTINF:-1 ,El Arna
 http://176.222.190.76/btv/SWM/SWM_Elarna/SWM_Elarna.m3u8
-#EXTINF:-1,English Club TV
+#EXTINF:-1 ,English Club TV
 http://176.222.190.76/btv/SWM/English_Club_TV/English_Club_TV.m3u8
-#EXTINF:-1,Ertis
+#EXTINF:-1 ,Ertis
 http://176.222.190.76/btv/SWM/ertis/ertis.m3u8
-#EXTINF:-1,Euronews EN
+#EXTINF:-1 ,Euronews EN
 http://176.222.190.76/btv/SWM/EuroNews_English_HD/EuroNews_English_HD.m3u8
-#EXTINF:-1,FASHION & Lifestyle HD
+#EXTINF:-1 ,FASHION & Lifestyle HD
 http://176.222.190.76/btv/SWM/Fashion_ONE/Fashion_ONE.m3u8
-#EXTINF:-1,France 24 Eng
+#EXTINF:-1 ,France 24 Eng
 http://176.222.190.76/btv/SWM/SWM_France24_test/SWM_France24.m3u8
-#EXTINF:-1,Gakku
+#EXTINF:-1 ,Gakku
 http://176.222.190.76/btv/SWM/SWM_Gakku/SWM_Gakku.m3u8
-#EXTINF:-1,Galaxy TV HD
+#EXTINF:-1 ,Galaxy TV HD
 http://176.222.190.76/btv/SWM/tayni_galaktiki_hd/tayni_galaktiki_hd.m3u8
-#EXTINF:-1,Game Show
+#EXTINF:-1 ,Game Show
 http://176.222.190.76/btv/SWM/etv/etv.m3u8
-#EXTINF:-1,Irbis
+#EXTINF:-1 ,Irbis
 http://176.222.190.76/btv/SWM/Irbis/Irbis.m3u8
-#EXTINF:-1,Jambyl
+#EXTINF:-1 ,Jambyl
 http://176.222.190.76/btv/SWM/jambyl/jambyl.m3u8
-#EXTINF:-1,Jibek Joly
+#EXTINF:-1 ,Jibek Joly
 http://176.222.190.76/btv/SWM/SWM_Bilim/SWM_Bilim.m3u8
-#EXTINF:-1,Kókshe
+#EXTINF:-1 ,Kókshe
 http://176.222.190.76/btv/icon/Kazakhstan_Kokshetau/Kazakhstan_Kokshetau.m3u8
-#EXTINF:-1,Mangystay
+#EXTINF:-1 ,Mangystay
 http://176.222.190.76/btv/icon/Kazakhstan_Aktau/Kazakhstan_Aktau.m3u8
-#EXTINF:-1,ONTUSTIK
+#EXTINF:-1 ,ONTUSTIK
 http://176.222.190.76/btv/SWM/Kazakhstan_Shymkent/Kazakhstan_Shymkent.m3u8
-#EXTINF:-1,OTYRAR
+#EXTINF:-1 ,OTYRAR
 http://176.222.190.76/btv/SWM/Otyrar/Otyrar.m3u8
-#EXTINF:-1,Plan B
+#EXTINF:-1 ,Plan B
 http://176.222.190.76/btv/SWM/plan_b/plan_b.m3u8
-#EXTINF:-1,Qazaqstan
+#EXTINF:-1 ,Qazaqstan
 http://176.222.190.76/btv/SWM/Qazaqstan_HD/Qazaqstan_HD.m3u8
-#EXTINF:-1,Qazaqstan int
+#EXTINF:-1 ,Qazaqstan int
 http://176.222.190.76/btv/SWM/Qazaqstan_HD_int/Qazaqstan_HD_int.m3u8
-#EXTINF:-1,QinoAlem
+#EXTINF:-1 ,QinoAlem
 http://176.222.190.76/btv/SWM/KinoAlem/KinoAlem.m3u8
-#EXTINF:-1,QinoHit
+#EXTINF:-1 ,QinoHit
 http://176.222.190.76/btv/SWM/KinoHit/KinoHit.m3u8
-#EXTINF:-1,Qostanai
+#EXTINF:-1 ,Qostanai
 http://176.222.190.76/btv/icon/Kazakhstan_Kostanay/Kazakhstan_Kostanay.m3u8
-#EXTINF:-1,Qyzylorda
+#EXTINF:-1 ,Qyzylorda
 http://176.222.190.76/btv/icon/Kazakhstan_Kyzylorda/Kazakhstan_Kyzylorda.m3u8
-#EXTINF:-1,SARYARQA
+#EXTINF:-1 ,SARYARQA
 http://176.222.190.76/btv/SWM/Kazakhstan_Karaganda/Kazakhstan_Karaganda.m3u8
-#EXTINF:-1,SEMEI
+#EXTINF:-1 ,SEMEI
 http://176.222.190.76/btv/SWM/semei/semei.m3u8
-#EXTINF:-1,Talim TV
+#EXTINF:-1 ,Talim TV
 http://176.222.190.76/btv/SWM/SWM_AsylArna/SWM_AsylArna.m3u8
-#EXTINF:-1,Tiji
+#EXTINF:-1 ,Tiji
 http://176.222.190.76/btv/SWM/TiJi_Alt_SWM/TiJi_Alt_SWM.m3u8
-#EXTINF:-1,Tiji KZ
+#EXTINF:-1 ,Tiji KZ
 http://176.222.190.76/btv/SWM/TiJi_KZ/TiJi_KZ.m3u8
-#EXTINF:-1,Trash TV
+#EXTINF:-1 ,Trash TV
 http://176.222.190.76/btv/SWM/trash_hd/trash_hd.m3u8
-#EXTINF:-1,TuranTV
+#EXTINF:-1 ,TuranTV
 http://176.222.190.76/btv/SWM/SWM_TuranTV/SWM_TuranTV.m3u8
-#EXTINF:-1,Zooпарк
+#EXTINF:-1 ,Zooпарк
 http://176.222.190.76/btv/SWM/Zoopark_SWM/Zoopark_SWM.m3u8
-#EXTINF:-1,Авто 24
+#EXTINF:-1 ,Авто 24
 http://176.222.190.76/btv/icon/Avto24/Avto24.m3u8
-#EXTINF:-1,Айгак ТВ
+#EXTINF:-1 ,Айгак ТВ
 http://176.222.190.76/btv/SWM/Aigak/Aigak.m3u8
-#EXTINF:-1,Алау ТВ
+#EXTINF:-1 ,Алау ТВ
 http://176.222.190.76/btv/SWM/Alau_tv/Alau_tv.m3u8
-#EXTINF:-1,Алматы
+#EXTINF:-1 ,Алматы
 http://176.222.190.76/btv/SWM/SWM_Almaty-Alt/SWM_Almaty-Alt.m3u8
-#EXTINF:-1,Turkish Music Box
+#EXTINF:-1 ,Turkish Music Box
 http://176.222.190.76/btv/SWM/TMB_TV/TMB_TV.m3u8
-#EXTINF:-1,MEZZO
+#EXTINF:-1 ,MEZZO
 http://176.222.190.76/btv/SWM/Mezzo_Alt_SWM/Mezzo_Alt_SWM.m3u8
-#EXTINF:-1,MTV 00s
+#EXTINF:-1 ,MTV 00s
 http://176.222.190.76/btv/SWM/mtv_00/mtv_00.m3u8
-#EXTINF:-1,HIT TV
+#EXTINF:-1 ,HIT TV
 http://176.222.190.76/btv/SWM/SWM_HitTV/SWM_HitTV.m3u8
-#EXTINF:-1,1HD
+#EXTINF:-1 ,1HD
 http://176.222.190.76/btv/SWM/1HD_Music_Television/1HD_Music_Television.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",ШАНСОН ТВ
 http://176.222.190.76/btv/SWM/Shanson_TV/Shanson_TV.m3u8
@@ -411,7 +409,7 @@ http://176.222.190.76/btv/SWM/MCM/MCM.m3u8
 http://176.222.190.76/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",ТНТ Music
 http://176.222.190.76/btv/SWM/Tnt_music/Tnt_music.m3u8
-#EXTINF:-1,Gulli
+#EXTINF:-1 ,Gulli
 http://176.222.190.76/btv/SWM/Guilli/Guilli.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",ДЕТСКИЙ МИР
 http://176.222.190.76/btv/SWM/DetskyMir/DetskyMir.m3u8
@@ -419,123 +417,118 @@ http://176.222.190.76/btv/SWM/DetskyMir/DetskyMir.m3u8
 http://176.222.190.76/btv/SWM/U_Skazki/U_Skazki.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Бобёр
 http://176.222.190.76/btv/SWM/Bober/Bober.m3u8
-#EXTINF:-1,Уникум
+#EXTINF:-1 ,Уникум
 http://176.222.190.76/btv/SWM/Detsky_SWM/Detsky_SWM.m3u8
-#EXTINF:-1,Рыжий
+#EXTINF:-1 ,Рыжий
 http://176.222.190.76/btv/SWM/Ryzhyi/Ryzhyi.m3u8
-#EXTINF:-1,Мульт
+#EXTINF:-1 ,Мульт
 http://176.222.190.76/btv/SWM/SWM_Mult/SWM_Mult.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Карусель Int.
 http://176.222.190.76/btv/SWM/Karusel/Karusel.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 ,Nick Jr
 http://176.222.190.76/btv/icon/Nick_Jr/Nick_Jr.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 ,Nickelodeon
 http://176.222.190.76/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
-#EXTINF:-1,Nickelodeon KZ
+#EXTINF:-1 ,Nickelodeon KZ
 http://176.222.190.76/btv/SWM/Nikelodeon/Nikelodeon.m3u8
-#EXTINF:-1,Nicktoons
+#EXTINF:-1 ,Nicktoons
 http://176.222.190.76/btv/SWM/nicktoons/nicktoons.m3u8
-#EXTINF:-1,СТС Kids
+#EXTINF:-1 ,СТС Kids
 http://176.222.190.76/btv/icon/CTC_kids/CTC_kids.m3u8
-#EXTINF:-1,Супергерои
+#EXTINF:-1 ,Супергерои
 http://176.222.190.76/btv/SWM/supergeroi/supergeroi.m3u8
-#EXTINF:-1,Setanta Qazaqstan
+#EXTINF:-1 ,Setanta Qazaqstan
 http://176.222.190.76/btv/SWM/Sentanta_Kaz/Sentanta_Kaz.m3u8
-#EXTINF:-1,Setanta Qazaqstan KZ
+#EXTINF:-1 ,Setanta Qazaqstan KZ
 http://176.222.190.76/btv/SWM/SetantaKZ_HD/SetantaKZ_HD.m3u8
-#EXTINF:-1,Setanta Sports 1 HD
+#EXTINF:-1 ,Setanta Sports 1 HD
 http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
-#EXTINF:-1,Setanta Sports 1 HD KZ
+#EXTINF:-1 ,Setanta Sports 1 HD KZ
 http://176.222.190.76/btv/SWM/setantasports1hdkz/setantasports1hdkz.m3u8
-#EXTINF:-1,Setanta Sports 2 HD
+#EXTINF:-1 ,Setanta Sports 2 HD
 http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
-#EXTINF:-1,Setanta Sports 2 HD KZ
+#EXTINF:-1 ,Setanta Sports 2 HD KZ
 http://176.222.190.76/btv/SWM/setantasports2hdkz/setantasports2hdkz.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Q СПОРТ
 http://176.222.190.76/btv/SWM/Q/Q.m3u8
 #EXTINF:-1 group-title="Орбита Плюс",Qazsport HD
 http://176.222.190.76/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
-#EXTINF:-1,Eurosport 1
+#EXTINF:-1 ,Eurosport 1
 http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
-#EXTINF:-1,Eurosport 2
+#EXTINF:-1 ,Eurosport 2
 http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
-#EXTINF:-1,Q Sport International
+#EXTINF:-1 ,Q Sport International
 http://176.222.190.76/btv/SWM/Qsport_international/Qsport_international.m3u8
-#EXTINF:-1,Viasat Sport
+#EXTINF:-1 ,Viasat Sport
 http://176.222.190.76/btv/SWM/viasatsport/viasatsport.m3u8
-#EXTINF:-1,Удар
+#EXTINF:-1 ,Удар
 http://176.222.190.76/btv/SWM/udar_hd/udar_hd.m3u8
-#EXTINF:-1,RTVI
+#EXTINF:-1 ,RTVI
 http://138.201.67.145:8081/rtvi/index.m3u8
-#EXTINF:-1,ТСВ
+#EXTINF:-1 ,ТСВ
 https://iptv-hls.idc.md/hls/2/live2.m3u8
-#EXTINF:-1,1+1
+#EXTINF:-1 ,1+1
 http://91.146.94.234:10001/play/a04i
-#EXTINF:-1,2+2
+#EXTINF:-1 ,2+2
 http://91.146.94.234:10001/play/a04r
-#EXTINF:-1,Animal Planet Europe HD
+#EXTINF:-1 ,Animal Planet Europe HD
 http://91.146.94.234:10001/play/a042
-#EXTINF:-1,Discovery Central Europe HD
+#EXTINF:-1 ,Discovery Central Europe HD
 http://91.146.94.234:10001/play/a041
-#EXTINF:-1,Discovery Central Europe HD AU1
+#EXTINF:-1 ,Discovery Central Europe HD AU1
 http://91.146.94.234:10001/play/a05i
-#EXTINF:-1,Discovery Turbo Xtra HD
+#EXTINF:-1 ,Discovery Turbo Xtra HD
 http://91.146.94.234:10001/play/a05d
-#EXTINF:-1,Enter-фильм
+#EXTINF:-1 ,Enter-фильм
 http://91.146.94.234:10001/play/a057
-#EXTINF:-1,Eurosport 1 International HD
+#EXTINF:-1 ,Eurosport 1 International HD
 http://91.146.94.234:10001/play/a05b
-#EXTINF:-1,Eurosport 2 International HD
+#EXTINF:-1 ,Eurosport 2 International HD
 http://91.146.94.234:10001/play/a05c
-#EXTINF:-1,ICTV
+#EXTINF:-1 ,ICTV
 http://91.146.94.234:10001/play/a04k
-#EXTINF:-1,ID Pan Regional HD
+#EXTINF:-1 ,ID Pan Regional HD
 http://91.146.94.234:10001/play/a045
-#EXTINF:-1,Iнтер UA
+#EXTINF:-1 ,Iнтер UA
 http://91.146.94.234:10001/play/a04m
-#EXTINF:-1,Iнтер
+#EXTINF:-1 ,Iнтер
 http://138.201.67.145:8081/inter/index.m3u8
-#EXTINF:-1,K1
+#EXTINF:-1 ,K1
 http://91.146.94.234:10001/play/a053
-#EXTINF:-1,K2
+#EXTINF:-1 ,K2
 http://91.146.94.234:10001/play/a054
-#EXTINF:-1,M1
+#EXTINF:-1 ,M1
 http://91.146.94.234:10001/play/a052
-#EXTINF:-1,Science Europe HD
+#EXTINF:-1 ,Science Europe HD
 http://91.146.94.234:10001/play/a03q
-#EXTINF:-1,TLC Balkans HD
+#EXTINF:-1 ,TLC Balkans HD
 http://91.146.94.234:10001/play/a04e
-#EXTINF:-1,TLC Pan Regional SD
-http://91.146.94.234:10001/play/a03r
-#EXTINF:-1,Travel EMEA HD
+#EXTINF:-1 ,Travel EMEA HD
 http://91.146.94.234:10001/play/a04c
-#EXTINF:-1,VH1
+#EXTINF:-1 ,VH1
 http://91.146.94.234:10001/play/a03k
-#EXTINF:-1,Xsport
+#EXTINF:-1 ,Xsport
 http://91.146.94.234:10001/play/a059
-#EXTINF:-1,Zoom
+#EXTINF:-1 ,Zoom
 http://91.146.94.234:10001/play/a055
-#EXTINF:-1,Еспресо TV 
+#EXTINF:-1 ,Еспресо TV
 http://91.146.94.234:10001/play/a056
-#EXTINF:-1,Мега
+#EXTINF:-1 ,Мега
 http://91.146.94.234:10001/play/a04u
-#EXTINF:-1,НЛО TV
+#EXTINF:-1 ,НЛО TV
 http://91.146.94.234:10001/play/a04s
-#EXTINF:-1,НТН
+#EXTINF:-1 ,НТН
 http://91.146.94.234:10001/play/a04t
-#EXTINF:-1,Новий канал
+#EXTINF:-1 ,Новий канал
 http://91.146.94.234:10001/play/a04o
-#EXTINF:-1,Перший
+#EXTINF:-1 ,Перший
 http://91.146.94.234:10001/play/a04d
-#EXTINF:-1,ПлюсПлюс
+#EXTINF:-1 ,ПлюсПлюс
 http://91.146.94.234:10001/play/a04v
-#EXTINF:-1,ТЕТ
+#EXTINF:-1 ,ТЕТ
 http://91.146.94.234:10001/play/a04p
-#EXTINF:-1,Телеканал Піксель
+#EXTINF:-1 ,Телеканал Піксель
 http://91.146.94.234:10001/play/a058
-#EXTINF:-1,Телеканал СТБ
+#EXTINF:-1 ,Телеканал СТБ
 http://91.146.94.234:10001/play/a04l
-#EXTINF:-1,Украина 24
-http://91.146.94.234:10001/play/a04j
-
 
