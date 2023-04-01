@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
-https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:-1 , Первый HD
+https://mhd116.iptv2022.com/p/UBZp_9UZip--wfA7PDhVnQ,1680375231/streaming/1kanalott/324/1/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Россия 1
+https://mhd116.iptv2022.com/p/dPl1OILbxDZMokwe7ler1g,1680375232/streaming/rossia1ott/324/1/index.m3u8
 #EXTINF:0,Россия 1 HD
 https://telecola-live.gcdn.co/cdn_origin2_ssd/rossia1hd/chunks.m3u8
 #EXTINF:-1 ,Мир 24 HD
