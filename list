@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,Первый HD
-https://mhd116.iptv2022.com/p/UBZp_9UZip--wfA7PDhVnQ,1680375231/streaming/1kanalott/324/1/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Россия 1
-https://mhd116.iptv2022.com/p/dPl1OILbxDZMokwe7ler1g,1680375232/streaming/rossia1ott/324/1/index.m3u8
 #EXTINF:-1 ,Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,Мир Premium HD
@@ -21,12 +17,6 @@ https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 #EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
-#EXTINF:-1 ,Матч ТВ
-https://mhd116.iptv2022.com/p/SRRWRMaILSOnUlHvvCGt1A,1680375232/streaming/matchott/324/1/index.m3u8
-#EXTINF:-1 ,НТВ
-https://mhd116.iptv2022.com/p/49kLhK4PEmiF7n90h_wImg,1680375233/streaming/ntvnn/324/1/index.m3u8
-#EXTINF:-1 ,5 канал
-https://mhd116.iptv2022.com/p/FP2Atmi0onNAT4yRP3N6oQ,1680375233/streaming/5kanalott/324/1/index.m3u8
 #EXTINF:-1 ,Рен ТВ HD
 https://rentv-live-megafon2.mediavitrina.ru/hls-live1/streams/ren-tv/3s/ren-tv.m3u8?token_version=v2&hash1=j6w03naKGsakri41ehZe23yLwQMhtIO0Z-7IJ_TiwdU&hash2=FD2NZODi3J76JUTJ6gPgmFA_Nr8Y9fzdRXizUh1r2Z8&timestamp=1680884980&random=e25b26a3f8558c03d6e6a481f53ad00a
 #EXTINF:-1 ,Первый канал СНГ
@@ -531,4 +521,3 @@ http://91.146.94.234:10001/play/a04p
 http://91.146.94.234:10001/play/a058
 #EXTINF:-1 ,Телеканал СТБ
 http://91.146.94.234:10001/play/a04l
-
