@@ -273,6 +273,142 @@ http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
 http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIRUSNET",МАТЧ! ПЛАНЕТА
 http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hetzner",НТВ Хит
+http://streamer1.ruslanatv.ru/russia/ntv_hit_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",НТВ-Мир
+http://streamer1.ruslanatv.ru/russia/ntv_mir_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",НТВ Право
+http://streamer1.ruslanatv.ru/russia/ntv_pravo_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Galaxy
+http://streamer1.ruslanatv.ru/russia/galaxy_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",History HD
+http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Discovery Channel
+http://streamer1.ruslanatv.ru/russia/discovery_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Моя планета
+http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Viasat Explore
+http://streamer1.ruslanatv.ru/russia/viasat_explorer_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",История
+http://streamer1.ruslanatv.ru/russia/istoriya_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Amedia 1
+http://streamer1.ruslanatv.ru/russia/amedia_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Amedia Premium HD
+http://streamer1.ruslanatv.ru/russia/amedia_premium_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Авто 24
+http://streamer1.ruslanatv.ru/russia/avto24_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Авто Плюс
+http://streamer1.ruslanatv.ru/russia/avto_plus_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Доктор
+http://streamer1.ruslanatv.ru/russia/doktor_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Дом Кино
+http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Домашний
+http://streamer1.ruslanatv.ru/russia/domashniy_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Дорама
+http://streamer1.ruslanatv.ru/russia/dorama_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Душевное HD
+http://streamer1.ruslanatv.ru/russia/dushevnoe_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Fox life HD
+http://streamer1.ruslanatv.ru/russia/fox_life_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Иллюзион+
+http://streamer1.ruslanatv.ru/russia/illuzion_plus_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Известия
+http://streamer1.ruslanatv.ru/russia/izvestiya_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Кино ТВ
+http://streamer1.ruslanatv.ru/russia/kino_tv_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",TV1000
+http://streamer1.ruslanatv.ru/russia/tv1000_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Кинокомедия
+http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Кинохит
+http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Киномикс
+http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Кинопоказ
+http://streamer1.ruslanatv.ru/russia/kinopokaz_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Кинопремьера HD
+http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Киносемья
+http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Киносвидание
+http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",КВН ТВ
+http://streamer1.ruslanatv.ru/russia/kvn_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Мир
+http://streamer1.ruslanatv.ru/russia/mir_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Мир 24
+http://streamer1.ruslanatv.ru/russia/mir24_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Москва 24
+http://streamer1.ruslanatv.ru/russia/moskva24_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Наше мужское HD
+http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Победа
+http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Поехали!
+http://streamer1.ruslanatv.ru/russia/poehali_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",RTVI
+http://streamer1.ruslanatv.ru/russia/rtvi_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Русский бестселлер
+http://streamer1.ruslanatv.ru/russia/russkij_bestseller_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Санкт-Петербург
+http://streamer1.ruslanatv.ru/russia/sankt_peterburg_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",.sci_fi
+http://streamer1.ruslanatv.ru/russia/sci_fi_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Start Air HD
+http://streamer1.ruslanatv.ru/russia/startair_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Телекафе
+http://streamer1.ruslanatv.ru/russia/telekafe_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",ТВЦ
+http://streamer1.ruslanatv.ru/russia/tvc_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Жара
+http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",RU.TV
+http://streamer1.ruslanatv.ru/russia/rutv_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",ТНТ Music
+http://streamer1.ruslanatv.ru/russia/tntmusic_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",МузТВ
+http://streamer1.ruslanatv.ru/russia/muz_tv_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",СуперГерои
+http://streamer1.ruslanatv.ru/russia/malish_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Jimjam
+http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Disney
+http://streamer1.ruslanatv.ru/russia/disney_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Ani
+http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Nckelodeon
+http://streamer1.ruslanatv.ru/russia/nickelodeon_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Cartoon network
+http://streamer1.ruslanatv.ru/russia/cartoon_network_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Детский мир
+http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Мама
+http://streamer1.ruslanatv.ru/russia/mama_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Матч! Арена
+http://streamer1.ruslanatv.ru/russia/match_arena_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Матч! Боец
+http://streamer1.ruslanatv.ru/russia/match_boets_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Матч! Футбол 1
+http://streamer1.ruslanatv.ru/russia/match_futbol_1_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Матч! Футбол 2
+http://streamer1.ruslanatv.ru/russia/match_futbol_2_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Матч! Футбол 3
+http://streamer1.ruslanatv.ru/russia/match_futbol_3_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Матч! Премьер
+http://streamer1.ruslanatv.ru/russia/match_premier_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Матч! Страна
+http://streamer1.ruslanatv.ru/russia/match_strana_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Матч ТВ
+http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Телеканал Футбол
+http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Eurosport 2
+http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Extreme sports
+http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Мир Баскетбола
+http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Мир 24 HD
