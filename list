@@ -259,18 +259,12 @@ http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
 http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIRUSNET",Filmzone HD
 http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",21TV
-http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIRUSNET",Авто плюс
 http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",Домашний
-http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIRUSNET",СОЛНЦЕ
 http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIRUSNET",Карусель
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",VIASAT Sport
-http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIRUSNET",МАТЧ! ПЛАНЕТА
 http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hetzner",НТВ Хит
@@ -427,8 +421,6 @@ https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 #EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
-#EXTINF:-1 ,Рен ТВ HD
-https://rentv-live-megafon2.mediavitrina.ru/hls-live1/streams/ren-tv/3s/ren-tv.m3u8?token_version=v2&hash1=j6w03naKGsakri41ehZe23yLwQMhtIO0Z-7IJ_TiwdU&hash2=FD2NZODi3J76JUTJ6gPgmFA_Nr8Y9fzdRXizUh1r2Z8&timestamp=1680884980&random=e25b26a3f8558c03d6e6a481f53ad00a
 #EXTINF:-1 ,Первый канал СНГ
 http://176.222.190.76/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
 #EXTINF:-1 ,Россия 24
@@ -907,32 +899,8 @@ http://91.146.94.234:10001/play/a04e
 http://91.146.94.234:10001/play/a04c
 #EXTINF:-1 ,VH1
 http://91.146.94.234:10001/play/a03k
-#EXTINF:-1 ,Xsport
-http://91.146.94.234:10001/play/a059
-#EXTINF:-1 ,Zoom
-http://91.146.94.234:10001/play/a055
-#EXTINF:-1 ,Еспресо TV
-http://91.146.94.234:10001/play/a056
-#EXTINF:-1 ,Мега
-http://91.146.94.234:10001/play/a04u
-#EXTINF:-1 ,НЛО TV
-http://91.146.94.234:10001/play/a04s
-#EXTINF:-1 ,НТН
-http://91.146.94.234:10001/play/a04t
-#EXTINF:-1 ,Новий канал
-http://91.146.94.234:10001/play/a04o
-#EXTINF:-1 ,Перший
-http://91.146.94.234:10001/play/a04d
 #EXTINF:-1 ,ПлюсПлюс
 http://91.146.94.234:10001/play/a04v
-#EXTINF:-1 ,ТЕТ
-http://91.146.94.234:10001/play/a04p
-#EXTINF:-1 ,Телеканал Піксель
-http://91.146.94.234:10001/play/a058
-#EXTINF:-1 ,Телеканал СТБ
-http://91.146.94.234:10001/play/a04l
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11305.png",AliПокупки
-http://fs2.persik.by/488890/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11311.png",Healthy Food
 http://fs2.persik.by/488215/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11166.png",Horror Movies HD
@@ -1225,10 +1193,6 @@ https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
 https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
 #EXTINF:-1 ,Bridge TV Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 ,Bridge TV Фрэш
-https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 ,СОЛНЦЕ
-https://livetv.mylifeisgood.ml/channels/disney.m3u8
 #EXTINF:-1 ,Nickelodeon HD
 https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8
 #EXTINF:-1 ,Смайлик ТВ
@@ -1245,6 +1209,3 @@ https://livetv.mylifeisgood.ml/channels/tiji.m3u8
 https://livetv.mylifeisgood.ml/channels/ryjii.m3u8
 #EXTINF:-1 ,Карусель
 https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
-
-
-
