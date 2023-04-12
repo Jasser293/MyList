@@ -935,8 +935,6 @@ http://fs2.persik.by/395002/index.m3u8
 http://fs2.persik.by/485457/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11226.png",Кино про супергероев
 http://fs2.persik.by/485407/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11269.png",Кино с субтитрами
-http://fs1.persik.by/394984/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/10691.png",Комедия HD
 http://fs1.persik.by/409116/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11135.png",Лёгкое кино
@@ -947,8 +945,6 @@ http://fs1.persik.by/488505/index.m3u8
 http://fs2.persik.by/393805/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11270.png",Маньяки
 http://fs2.persik.by/462724/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10699.png",Мелодрама HD
-http://fs1.persik.by/409118/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11177.png",Мини-сериалы
 http://fs1.persik.by/489802/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11303.png",Мир на ладони
@@ -957,8 +953,6 @@ http://fs2.persik.by/410219/index.m3u8
 http://fs1.persik.by/488248/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11158.png",Новогодние фильмы HD
 http://fs1.persik.by/488891/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11275.png",Новые комедии
-http://fs1.persik.by/396985/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11147.png",Отечественное кино
 http://fs1.persik.by/488549/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11218.png",Поп Наука
@@ -969,8 +963,6 @@ http://fs2.persik.by/405064/index.m3u8
 http://fs2.persik.by/450854/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11029.png",Романтик комедии
 http://fs1.persik.by/482751/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10710.png",Семья HD
-http://fs1.persik.by/409122/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11178.png",Сериалы мелодрамы HD
 http://fs1.persik.by/489803/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11297.png",Сказки Eng
@@ -979,8 +971,6 @@ http://fs2.persik.by/487432/index.m3u8
 http://fs1.persik.by/409124/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/10713.png",Триллеры HD
 http://fs1.persik.by/409125/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11277.png",Триллеры и Боевики
-http://fs1.persik.by/462739/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/11296.png",Учим English
 http://fs2.persik.by/405070/index.m3u8
 #EXTINF:-1 group-title="https://persik.by/media/channels/logos/10715.png",Фантастика HD
@@ -1083,12 +1073,8 @@ https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
 https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
 #EXTINF:-1 ,Vip Megahit HD
 https://livetv.mylifeisgood.ml/channels/vip_megahit.m3u8
-#EXTINF:-1 ,Vip Comedy HD
-https://livetv.mylifeisgood.ml/channels/vip_comedy.m3u8
 #EXTINF:-1 ,Vip Premiere HD
 https://livetv.mylifeisgood.ml/channels/vip_premiere.m3u8
-#EXTINF:-1 ,Vip Serial HD
-https://livetv.mylifeisgood.ml/channels/vip_serial.m3u8
 #EXTINF:-1 ,TV1000 HD
 http://livetv.mylifeisgood.ml/channels/tv1000.m3u8
 #EXTINF:-1 ,TV1000 Action HD
@@ -1157,5 +1143,3 @@ https://livetv.mylifeisgood.ml/channels/gulli.m3u8
 https://livetv.mylifeisgood.ml/channels/tiji.m3u8
 #EXTINF:-1 ,Рыжий
 https://livetv.mylifeisgood.ml/channels/ryjii.m3u8
-#EXTINF:-1 ,Карусель
-https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
