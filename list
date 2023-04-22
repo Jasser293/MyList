@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 ,Первый канал
 http://185.23.80.28:8080/Pervyj/index.m3u8
-#EXTINF:-1 ,ТНТ
-http://185.23.80.28:8080/TNT/index.m3u8
-#EXTINF:-1 ,Россия К
-http://185.23.80.28:8080/RossiyaK/index.m3u8
 #EXTINF:-1 ,Россия 1
 http://185.23.80.28:8080/Rossiya1/index.m3u8
-#EXTINF:-1 ,Россия 24
-http://185.23.80.28:8080/Rossiya24/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://185.23.80.28:8080/REN/index.m3u8
 #EXTINF:-1 ,НТВ
 http://185.23.80.28:8080/NTV/index.m3u8
+#EXTINF:-1 ,ТНТ
+http://185.23.80.28:8080/TNT/index.m3u8
+#EXTINF:-1 ,Россия К
+http://185.23.80.28:8080/RossiyaK/index.m3u8
+#EXTINF:-1 ,Россия 24
+http://185.23.80.28:8080/Rossiya24/index.m3u8
 #EXTINF:-1 ,НТВ Право
 http://185.23.80.28:8080/NTVPravo/index.m3u8
 #EXTINF:-1 ,НТВ Стиль
@@ -1441,3 +1441,4 @@ https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
 https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 #EXTINF:-1 group-title="RELAX",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
