@@ -3,8 +3,6 @@
 http://185.23.80.28:8080/Pervyj/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://185.23.80.28:8080/TNT/index.m3u8
-#EXTINF:-1 ,ТНТ4
-http://185.23.80.28:8080/TNT4/index.m3u8
 #EXTINF:-1 ,Россия К
 http://185.23.80.28:8080/RossiyaK/index.m3u8
 #EXTINF:-1 ,Россия 1
@@ -103,8 +101,6 @@ http://185.23.80.28:8080/Kino_TV/index.m3u8
 http://185.23.80.28:8080/FAN/index.m3u8
 #EXTINF:-1 ,Капитан Фантастика
 http://185.23.80.28:8080/KapitanFantastika/index.m3u8
-#EXTINF:-1 ,Суббота!
-http://185.23.80.28:8080/Super/index.m3u8
 #EXTINF:-1 ,ТОЧКА ОТРЫВА
 http://185.23.80.28:8080/TochkoOtryva/index.m3u8
 #EXTINF:-1 ,Сарафан
@@ -115,8 +111,6 @@ http://185.23.80.28:8080/Arsenal_HD/index.m3u8
 http://185.23.80.28:8080/AVTO24/index.m3u8
 #EXTINF:-1 ,Драйв
 http://185.23.80.28:8080/Draiv/index.m3u8
-#EXTINF:-1 ,Еда HD
-http://185.23.80.28:8080/Eda/index.m3u8
 #EXTINF:-1 ,Известия Воронеж
 http://185.23.80.28:8080/IzvestiyaVoronezh/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -185,8 +179,6 @@ http://185.23.80.28:8080/Multilandiya/index.m3u8
 http://185.23.80.28:8080/Mama/index.m3u8
 #EXTINF:-1 ,Мультимузыка
 http://185.23.80.28:8080/Multimuzyka/index.m3u8
-#EXTINF:-1 ,СОЛНЦЕ
-http://185.23.80.28:8080/Disney/index.m3u8
 #EXTINF:-1 ,Рыжий
 http://185.23.80.28:8080/Ryzhij/index.m3u8
 #EXTINF:-1 ,Ani
