@@ -217,6 +217,56 @@ http://185.23.80.28:8080/Football/index.m3u8
 http://185.23.80.28:8080/START/index.m3u8
 #EXTINF:-1 ,Моторспорт ТВ
 http://185.23.80.28:8080/Motorsport_HD/index.m3u8
+#EXTINF:-1,7TV
+http://146.158.0.56:80/7TV/index.m3u8
+#EXTINF:-1,1HD
+http://146.158.0.56:80/1HD/index.m3u8
+#EXTINF:-1,360°
+http://146.158.0.56:80/360HD/index.m3u8
+#EXTINF:-1,365 Дней
+http://146.158.0.56:80/365dney/index.m3u8
+#EXTINF:-1,8 Канал
+http://146.158.0.56:80/8kanal/index.m3u8
+#EXTINF:-1,ЕГЭ
+http://146.158.0.56:80/EGETV/index.m3u8
+#EXTINF:-1,FashionBox
+http://146.158.0.56:80/FashionBox/index.m3u8
+#EXTINF:-1,Galaxy
+http://146.158.0.56:80/Galaxy/index.m3u8
+#EXTINF:-1,Кто есть кто
+http://146.158.0.56:80/KtoEstKto/index.m3u8
+#EXTINF:-1,Кухня тв
+http://146.158.0.56:80/KuhnyaTV/index.m3u8
+#EXTINF:-1,КВН ТВ
+http://146.158.0.56:80/KVN/index.m3u8
+#EXTINF:-1,Luxury HD
+http://146.158.0.56:80/Luxury/index.m3u8
+#EXTINF:-1,Ля-минор
+http://146.158.0.56:80/Lya-Minor/index.m3u8
+#EXTINF:-1,Кто куда
+http://146.158.0.56:80/MirUvlecheniy/index.m3u8
+#EXTINF:-1,Моторспорт тв
+http://146.158.0.56:80/Motosport/index.m3u8
+#EXTINF:-1,Муз союз
+http://146.158.0.56:80/MuzSouz/index.m3u8
+#EXTINF:-1,Ностальгия
+http://146.158.0.56:80/Nostalgiya/index.m3u8
+#EXTINF:-1,Ocean TV
+http://146.158.0.56:80/OceanTV/index.m3u8
+#EXTINF:-1,Открытый мир
+http://146.158.0.56:80/OtkritiyMir/index.m3u8
+#EXTINF:-1,Pro100TV
+http://146.158.0.56:80/Pro100TV/index.m3u8
+#EXTINF:-1,Шансон ТВ
+http://146.158.0.56:80/ShansonTV/index.m3u8
+#EXTINF:-1,Театр
+http://146.158.0.56:80/Teatr/index.m3u8
+#EXTINF:-1,Успех
+http://146.158.0.56:80/Uspeh/index.m3u8
+#EXTINF:-1,Загородная жизнь
+http://146.158.0.56:80/ZagorodnayaJizn/index.m3u8
+#EXTINF:-1,Звезда плюс
+http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 #EXTINF:-1 group-title="VIRUSNET",Первый канал
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIRUSNET",ТНТ HD
