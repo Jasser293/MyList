@@ -19,6 +19,8 @@ http://93.125.34.51:30002/ren_tv/index.m3u8
 http://streamer1.ruslanatv.ru/russia/avto24_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Hetzner Online AG",Авто Плюс
 http://streamer1.ruslanatv.ru/russia/avto_plus_2023/playlist.m3u8
+#EXTINF:-1 group-title="NTL-LT",Ю
+http://88.216.83.245/u/index.m3u8
 #EXTINF:-1 group-title="Сети плюс",ТНТ
 http://93.125.34.51:30002/tnt/index.m3u8
 #EXTINF:-1 group-title="Сети плюс",ТНТ 4
@@ -388,3 +390,68 @@ rtmp://5.182.231.251//2123
 #EXTINF:-1 group-title="Познавательные",Загородный int HD
 rtmp://5.182.231.251//2124
 #EXTINF:-1 group-title="Познавательные",Нано ТВ HD
+#EXTINF:-1 group-title="NTL-LT",НТВ Сериал
+http://88.216.83.245/ntvserial/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",НТВ Право
+http://88.216.83.245/ntvpravo/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",НТВ Стиль
+http://88.216.83.245/ntvstil/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",RTG int.
+http://88.216.83.245/rtg/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",History
+http://88.216.83.245/history/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Discovery Channel HD
+http://88.216.83.245/discovery/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Travel Channel HD
+http://88.216.83.245/travel/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Перец
+http://88.216.83.245/perec/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Пятница
+http://88.216.83.245/friday/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Кинеко
+http://88.216.83.245/fox/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Euronews
+http://88.216.83.245/euronews/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Дом кино
+http://88.216.83.245/domkino/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Киномикс
+http://88.216.83.245/kinomix/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",ТЕРРА
+http://88.216.83.245/drive/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",CNN
+http://88.216.83.245/cnn/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Киносат
+http://88.216.83.245/nicktoons/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Телекафе
+http://88.216.83.245/telekafe/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",RTVI
+http://88.216.83.245/rtvi/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Солнце
+http://88.216.83.245/disney/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Карусель
+http://88.216.83.245/karusel/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Бобёр
+http://88.216.83.245/bober/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",RU.TV
+http://88.216.83.245/RuTV/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",MTV
+http://88.216.83.245/mtv/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Bridge TV
+http://88.216.83.245/tntmusic/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Bridge TV HITS
+http://88.216.83.245/mirhd/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",TV8 LT
+http://88.216.83.245/tv8/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",TV6 LV
+http://88.216.83.245/tv6/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",TV3 LT
+http://88.216.83.245/tv3/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Sport 1 HD LT
+http://88.216.83.245/sport1/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",TVRUS+
+http://88.216.83.245/nauka/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Матч! Планета
+http://88.216.83.245/match/index.m3u8
+#EXTINF:-1 group-title="NTL-LT",Бокс ТВ
+http://88.216.83.245/bokstv/index.m3u8
+
