@@ -389,7 +389,6 @@ rtmp://5.182.231.251//2118
 rtmp://5.182.231.251//2123
 #EXTINF:-1 group-title="Познавательные",Загородный int HD
 rtmp://5.182.231.251//2124
-#EXTINF:-1 group-title="Познавательные",Нано ТВ HD
 #EXTINF:-1 group-title="NTL-LT",НТВ Сериал
 http://88.216.83.245/ntvserial/index.m3u8
 #EXTINF:-1 group-title="NTL-LT",НТВ Право
