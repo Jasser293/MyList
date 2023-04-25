@@ -9,6 +9,8 @@ http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
 http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIRUSNET",РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Lime HD" , Рен ТВ
+https://mhd116.iptv2022.com/p/qUHj8X5sL0RFdo0sKTDq3A,1682276161/streaming/rentvott/324/1/index.m3u8
 #EXTINF:-1 ,Россия К
 http://185.23.80.28:8080/RossiyaK/index.m3u8
 #EXTINF:-1 ,Россия 24
