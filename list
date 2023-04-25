@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1 ,Первый канал
-http://185.23.80.28:8080/Pervyj/index.m3u8
-#EXTINF:-1 ,Россия 1
-http://185.23.80.28:8080/Rossiya1/index.m3u8
-#EXTINF:-1 ,РЕН ТВ
-http://185.23.80.28:8080/REN/index.m3u8
-#EXTINF:-1 ,НТВ
-http://185.23.80.28:8080/NTV/index.m3u8
-#EXTINF:-1 ,ТНТ
-http://185.23.80.28:8080/TNT/index.m3u8
+#EXTINF:-1 group-title="Сети плюс" ,РОССИЯ 1
+http://93.125.34.51:30002/rossiahd/index.m3u8
+#EXTINF:-1 group-title="Сети плюс" ,РОССИЯ К
+http://93.125.34.51:30002/RossiyaK/index.m3u8
+#EXTINF:-1 group-title="Сети плюс" ,РЕН ТВ
+http://93.125.34.51:30002/ren_tv/index.m3u8
+#EXTINF:-1 group-title="Сети плюс" ,ТНТ
+http://93.125.34.51:30002/tnt/index.m3u8
+#EXTINF:-1 group-title="Сети плюс" ,ТНТ 4
+http://93.125.34.51:30002/tnt4/index.m3u8
+#EXTINF:-1 group-title="Сети плюс" ,НТВ
+http://93.125.34.51:30002/ntvhd/index.m3u8
 #EXTINF:-1 ,Россия К
 http://185.23.80.28:8080/RossiyaK/index.m3u8
 #EXTINF:-1 ,Россия 24
