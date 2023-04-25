@@ -11,6 +11,44 @@ http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сети плюс" ,РЕН ТВ
 http://93.125.34.51:30002/ren_tv/index.m3u8
+#EXTINF:-1 group-title="Hetzner",Авто 24
+http://streamer1.ruslanatv.ru/russia/avto24_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Авто Плюс
+http://streamer1.ruslanatv.ru/russia/avto_plus_2023/playlist.m3u8
+#EXTINF:-1 group-title="Hetzner",Поехали!
+http://streamer1.ruslanatv.ru/russia/poehali_2023/playlist.m3u8
+#EXTINF:-1 group-title="VIRUSNET",Nat Geo Wild
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",National Geographic
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",КИНОХИТ HD
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",Кинопремьера HD
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",21TV
+http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",МИР
+http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",ДОМАШНИЙ
+http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",СТС HD
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",Kentron AM
+http://45.159.74.13:80/Kentron/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",Atv HD AM
+http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",КИНОМАН HD
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",Filmzone HD
+http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",Авто плюс
+http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",СОЛНЦЕ
+http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",Карусель
+http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="VIRUSNET",МАТЧ! ПЛАНЕТА
+http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1,7TV
 http://146.158.0.56:80/7TV/index.m3u8
 #EXTINF:-1,1HD
@@ -61,48 +99,6 @@ http://146.158.0.56:80/Uspeh/index.m3u8
 http://146.158.0.56:80/ZagorodnayaJizn/index.m3u8
 #EXTINF:-1,Звезда плюс
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
-#EXTINF:-1 group-title="VIRUSNET",Первый канал
-http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",ТНТ HD
-http://45.159.74.13:80/THT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",НТВ
-http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",РОССИЯ 1
-http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",РОССИЯ РТР
-http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",Nat Geo Wild
-http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",National Geographic
-http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",КИНОХИТ HD
-http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",Кинопремьера HD
-http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",21TV
-http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",МИР
-http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",ДОМАШНИЙ
-http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",СТС HD
-http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",Kentron AM
-http://45.159.74.13:80/Kentron/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",Atv HD AM
-http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",КИНОМАН HD
-http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",Filmzone HD
-http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",Авто плюс
-http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",СОЛНЦЕ
-http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",Карусель
-http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="VIRUSNET",МАТЧ! ПЛАНЕТА
-http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hetzner",НТВ Хит
 http://streamer1.ruslanatv.ru/russia/ntv_hit_2023/playlist.m3u8
 #EXTINF:-1 group-title="Hetzner",НТВ-Мир
@@ -125,10 +121,6 @@ http://streamer1.ruslanatv.ru/russia/istoriya_2023/playlist.m3u8
 http://streamer1.ruslanatv.ru/russia/amedia_2023/playlist.m3u8
 #EXTINF:-1 group-title="Hetzner",Amedia Premium HD
 http://streamer1.ruslanatv.ru/russia/amedia_premium_2023/playlist.m3u8
-#EXTINF:-1 group-title="Hetzner",Авто 24
-http://streamer1.ruslanatv.ru/russia/avto24_sd_2023/playlist.m3u8
-#EXTINF:-1 group-title="Hetzner",Авто Плюс
-http://streamer1.ruslanatv.ru/russia/avto_plus_2023/playlist.m3u8
 #EXTINF:-1 group-title="Hetzner",Доктор
 http://streamer1.ruslanatv.ru/russia/doktor_2023/playlist.m3u8
 #EXTINF:-1 group-title="Hetzner",Дом Кино
@@ -175,8 +167,6 @@ http://streamer1.ruslanatv.ru/russia/moskva24_2023/playlist.m3u8
 http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
 #EXTINF:-1 group-title="Hetzner",Победа
 http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
-#EXTINF:-1 group-title="Hetzner",Поехали!
-http://streamer1.ruslanatv.ru/russia/poehali_2023/playlist.m3u8
 #EXTINF:-1 group-title="Hetzner",RTVI
 http://streamer1.ruslanatv.ru/russia/rtvi_2023/playlist.m3u8
 #EXTINF:-1 group-title="Hetzner",Русский бестселлер
@@ -1285,4 +1275,5 @@ https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
 https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 #EXTINF:-1 group-title="RELAX",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
 
