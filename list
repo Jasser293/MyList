@@ -11,8 +11,8 @@ http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сети плюс" ,РЕН ТВ
 http://93.125.34.51:30002/ren_tv/index.m3u8
-#EXTINF:-1 ,Рен ТВ HD
-rtmp://5.182.231.251//2024
+#EXTINF:-1,Рен ТВ
+http://77.240.45.106:18888/play/a01d
 #EXTINF:-1 group-title="Hetzner",Авто 24
 http://streamer1.ruslanatv.ru/russia/avto24_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Hetzner",Авто Плюс
