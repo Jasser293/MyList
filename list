@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="VIRUSNET",Первый канал
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал HD
-https://mhd116.iptv2022.com/p/0GD2_4_lbbEY1UrSpAZL9w,1682535415/streaming/1kanalott/324/1/index.m3u8
+http://95.181.17.26/dvr01/hd1/1kanal_hd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIzIDc6MTk6MzcgQU0maGFzaF92YWx1ZT1BaS9ISDBzdFhnN05XUHJ2VWVxY1l3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 group-title="VIRUSNET",НТВ
 http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIRUSNET",РОССИЯ 1
