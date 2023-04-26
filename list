@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="VIRUSNET",Первый канал
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Первый канал Евразия
-http://176.222.190.76/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz.m3u8
 #EXTINF:-1 ,Первый канал HD
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8
 #EXTINF:-1 group-title="VIRUSNET",НТВ
