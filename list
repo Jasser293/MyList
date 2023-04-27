@@ -3,10 +3,8 @@
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый
 http://178.160.249.210:8000/play/a2rj/index.m3u8
-#EXTINF:-1 ,ПЕРВЫЙ
+#EXTINF:-1 ,ПЕРВЫЙ HD
 http://176.107.250.4:8001/ch1
-#EXTINF:-1 ,Первый канал HD
-https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8
 #EXTINF:-1 group-title="VIRUSNET",НТВ
 http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIRUSNET",РОССИЯ 1
