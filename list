@@ -3,8 +3,6 @@
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый HD
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8
-#EXTINF:-1 ,Первый Канал FHD
-http://bl2.provds.pw/~30173682E35395A6164305950436B/35985/
 #EXTINF:-1 group-title="VIRUSNET",НТВ
 http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIRUSNET",РОССИЯ 1
@@ -17,8 +15,6 @@ http://93.125.34.51:30002/rossiahd/index.m3u8
 http://93.125.34.51:30002/RossiyaK/index.m3u8
 #EXTINF:-1 group-title="Сети плюс",РЕН ТВ
 http://93.125.34.51:30002/ren_tv/index.m3u8
-#EXTINF:-1 ,РЕН ТВ HD
-http://bl2.provds.pw/~30173682E35395A6164305950436B/125/
 #EXTINF:-1 group-title="Hetzner Online AG",Авто 24
 http://streamer1.ruslanatv.ru/russia/avto24_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Hetzner Online AG",Авто Плюс
@@ -29,8 +25,6 @@ http://88.216.83.245/u/index.m3u8
 http://93.125.34.51:30002/tnt/index.m3u8
 #EXTINF:-1 group-title="Сети плюс",ТНТ 4
 http://93.125.34.51:30002/tnt4/index.m3u8
-#EXTINF:-1 ,ТНТ FHD
-http://bl2.provds.pw/~30173682E35395A6164305950436B/27934/
 #EXTINF:-1 group-title="Сети плюс",НТВ
 http://93.125.34.51:30002/ntvhd/index.m3u8
 #EXTINF:-1 group-title="Сети плюс",МОЯ ПЛАНЕТА HD
