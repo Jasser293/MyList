@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="VIRUSNET",Первый канал
+#EXTINF:-1 group-title="VIRUSNET",Первый +4
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый
 http://193.33.88.172/ort_msk/tracks-v1a1/mono.m3u8
