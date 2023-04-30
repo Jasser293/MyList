@@ -5,13 +5,13 @@ http://hlstv.kem.211.ru/239.211.200.1/stream.m3u8
 http://176.107.250.4:8001/ch1
 #EXTINF:-1 group-title="Сторм Системс",Первый канал HD
 http://tbs-tv.com:8080/live/dark/kittylinetv/12867.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Первый Канал
+#EXTINF:-1 group-title="Армения Телефон Компани",Первый Канал
 http://178.160.249.200:8000/play/ort/index.m3u8
 #EXTINF:-1 group-title="Сторм Системс",РЕН ТВ International
 http://tbs-tv.com:8080/live/dark/kittylinetv/12858.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,РЕН ТВ
+#EXTINF:-1 group-title="Армения Телефон Компани",РЕН ТВ
 http://178.160.249.200:8000/play/REN/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,НТВ
+#EXTINF:-1 group-title="Армения Телефон Компани",НТВ
 http://178.160.249.200:8000/play/NTV/index.m3u8
 #EXTINF:-1 group-title="Сторм Системс",Россия 1
 http://tbs-tv.com:8080/live/dark/kittylinetv/12856.m3u8
@@ -25,7 +25,7 @@ http://tbs-tv.com:8080/live/dark/kittylinetv/12852.m3u8
 http://tbs-tv.com:8080/live/dark/kittylinetv/12851.m3u8
 #EXTINF:-1 group-title="Сторм Системс",Авто плюс
 http://tbs-tv.com:8080/live/dark/kittylinetv/12875.m3u8
-#EXTINF:-1 group-title="🟢" ,АВТО 24
+#EXTINF:-1 group-title="🟢",АВТО 24
 http://176.107.250.4:8002/ch80
 #EXTINF:-1 group-title="Сторм Системс",Домашний
 http://tbs-tv.com:8080/live/dark/kittylinetv/12884.m3u8
@@ -33,21 +33,20 @@ http://tbs-tv.com:8080/live/dark/kittylinetv/12884.m3u8
 http://tbs-tv.com:8080/live/dark/kittylinetv/12828.m3u8
 #EXTINF:-1 group-title="Сторм Системс",Ю
 http://tbs-tv.com:8080/live/dark/kittylinetv/12840.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Россия К
+#EXTINF:-1 group-title="Армения Телефон Компани",Россия К
 http://178.160.249.200:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Россия 1
+#EXTINF:-1 group-title="Армения Телефон Компани",Россия 1
 http://178.160.249.200:8000/play/Rossia1/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Россия 24
+#EXTINF:-1 group-title="Армения Телефон Компани",Россия 24
 http://178.160.249.200:8000/play/Rossia24/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,НТВ-ХИТ
+#EXTINF:-1 group-title="Армения Телефон Компани",НТВ-ХИТ
 http://178.160.249.200:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,НТВ Стиль
+#EXTINF:-1 group-title="Армения Телефон Компани",НТВ Стиль
 http://178.160.249.200:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,НТВ Сериал
+#EXTINF:-1 group-title="Армения Телефон Компани",НТВ Сериал
 http://178.160.249.200:8000/play/ntvserial/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,НТВ Право
+#EXTINF:-1 group-title="Армения Телефон Компани",НТВ Право
 http://178.160.249.200:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,ТНТ4
 #EXTINF:-1 group-title="Сторм Системс",Кухня ТВ
 http://tbs-tv.com:8080/live/dark/kittylinetv/12902.m3u8
 #EXTINF:-1 group-title="Сторм Системс",Перец
@@ -142,588 +141,587 @@ http://tbs-tv.com:8080/live/dark/kittylinetv/12837.m3u8
 http://tbs-tv.com:8080/live/dark/kittylinetv/12835.m3u8
 #EXTINF:-1 group-title="Сторм Системс",Setanta Sports 2
 http://tbs-tv.com:8080/live/dark/kittylinetv/12889.m3u8
-#EXTINF:-1 group-title="🟢" ,ПЕРВЫЙ КАНАЛ
-http://176.107.250.4:8001/ch1
-#EXTINF:-1 group-title="🟢" ,РОССИЯ 1
+#EXTINF:-1 group-title="🟢",РОССИЯ 1
 http://176.107.250.4:8001/ch2
-#EXTINF:-1 group-title="🟢" ,РОССИЯ К
+#EXTINF:-1 group-title="🟢",РОССИЯ К
 http://176.107.250.4:8001/ch6
-#EXTINF:-1 group-title="🟢" ,РОССИЯ 24
+#EXTINF:-1 group-title="🟢",РОССИЯ 24
 http://176.107.250.4:8001/ch7
-#EXTINF:-1 group-title="🟢" ,ТНТ
+#EXTINF:-1 group-title="🟢",ТНТ
 http://176.107.250.4:8001/ch19
-#EXTINF:-1 group-title="🟢" ,ТНТ4
+#EXTINF:-1 group-title="🟢",ТНТ4
 http://176.107.250.4:8001/ch40
-#EXTINF:-1 group-title="🟢" ,НТВ
+#EXTINF:-1 group-title="🟢",НТВ
 http://176.107.250.4:8001/ch4
-#EXTINF:-1 group-title="🟢" ,НТВ СЕРИАЛ
+#EXTINF:-1 group-title="🟢",НТВ СЕРИАЛ
 http://176.107.250.4:8004/ch122
-#EXTINF:-1 group-title="🟢" ,НТВ ХИТ
+#EXTINF:-1 group-title="🟢",НТВ ХИТ
 http://176.107.250.4:8004/ch125
-#EXTINF:-1 group-title="🟢" ,TRAVEL+ADVENTURE
+#EXTINF:-1 group-title="🟢",TRAVEL+ADVENTURE
 http://176.107.250.4:8001/ch24
-#EXTINF:-1 group-title="🟢" ,ДИАЛОГИ О РЫБАЛКЕ
+#EXTINF:-1 group-title="🟢",ДИАЛОГИ О РЫБАЛКЕ
 http://176.107.250.4:8001/ch162
-#EXTINF:-1 group-title="🟢" ,ТОЧКА ОТРЫВА
+#EXTINF:-1 group-title="🟢",ТОЧКА ОТРЫВА
 http://176.107.250.4:8001/ch163
-#EXTINF:-1 group-title="🟢" ,BIG PLANET
+#EXTINF:-1 group-title="🟢",BIG PLANET
 http://176.107.250.4:8001/ch166
-#EXTINF:-1 group-title="🟢" ,TERRA
+#EXTINF:-1 group-title="🟢",TERRA
 http://176.107.250.4:8001/ch168
-#EXTINF:-1 group-title="🟢" ,ДИКИЙ
+#EXTINF:-1 group-title="🟢",ДИКИЙ
 http://176.107.250.4:8002/ch57
-#EXTINF:-1 group-title="🟢" ,ОТКРЫТЫЙ МИР
+#EXTINF:-1 group-title="🟢",ОТКРЫТЫЙ МИР
 http://176.107.250.4:8002/ch58
-#EXTINF:-1 group-title="🟢" ,ЖИВАЯ ПРИРОДА
+#EXTINF:-1 group-title="🟢",ЖИВАЯ ПРИРОДА
 http://176.107.250.4:8002/ch59
-#EXTINF:-1 group-title="🟢" ,ОХОТА И РЫБАЛКА
+#EXTINF:-1 group-title="🟢",ОХОТА И РЫБАЛКА
 http://176.107.250.4:8002/ch69
-#EXTINF:-1 group-title="🟢" ,VIASAT NATURE
+#EXTINF:-1 group-title="🟢",VIASAT NATURE
 http://176.107.250.4:8002/ch76
-#EXTINF:-1 group-title="🟢" ,RTG HD
+#EXTINF:-1 group-title="🟢",RTG HD
 http://176.107.250.4:8002/ch77
-#EXTINF:-1 group-title="🟢" ,МОЯ ПЛАНЕТА
+#EXTINF:-1 group-title="🟢",МОЯ ПЛАНЕТА
 http://176.107.250.4:8002/ch174
-#EXTINF:-1 group-title="🟢" ,TRAVEL HD
+#EXTINF:-1 group-title="🟢",TRAVEL HD
 http://176.107.250.4:8002/ch171
-#EXTINF:-1 group-title="🟢" ,ГЛАЗАМИ ТУРИСТА HD
+#EXTINF:-1 group-title="🟢",ГЛАЗАМИ ТУРИСТА HD
 http://176.107.250.4:8003/ch84
-#EXTINF:-1 group-title="🟢" ,МОЯ СТИХИЯ
+#EXTINF:-1 group-title="🟢",МОЯ СТИХИЯ
 http://176.107.250.4:8003/ch115
-#EXTINF:-1 group-title="🟢" ,ТЕХНО 24
+#EXTINF:-1 group-title="🟢",ТЕХНО 24
 http://176.107.250.4:8002/ch72
-#EXTINF:-1 group-title="🟢" ,НАУКА
+#EXTINF:-1 group-title="🟢",НАУКА
 http://176.107.250.4:8003/ch90
-#EXTINF:-1 group-title="🟢" ,ИСТОРИЯ
+#EXTINF:-1 group-title="🟢",ИСТОРИЯ
 http://176.107.250.4:8003/ch85
-#EXTINF:-1 group-title="🟢" ,ТАНЦУЙ
+#EXTINF:-1 group-title="🟢",ТАНЦУЙ
 http://176.107.250.4:8002/ch41
-#EXTINF:-1 group-title="🟢" ,САПФИР
+#EXTINF:-1 group-title="🟢",САПФИР
 http://176.107.250.4:8001/ch167
-#EXTINF:-1 group-title="🟢" ,ДРАЙВ
+#EXTINF:-1 group-title="🟢",ДРАЙВ
 http://176.107.250.4:8002/ch42
-#EXTINF:-1 group-title="🟢" ,ОРУЖИЕ
+#EXTINF:-1 group-title="🟢",ОРУЖИЕ
 http://176.107.250.4:8002/ch45
-#EXTINF:-1 group-title="🟢" ,СТС Love
+#EXTINF:-1 group-title="🟢",СТС Love
 http://176.107.250.4:8002/ch46
-#EXTINF:-1 group-title="🟢" ,СТС
+#EXTINF:-1 group-title="🟢",СТС
 http://176.107.250.4:8001/ch13
-#EXTINF:-1 group-title="🟢" ,ЧЕ
+#EXTINF:-1 group-title="🟢",ЧЕ
 http://176.107.250.4:8002/ch49
-#EXTINF:-1 group-title="🟢" ,ОТР
+#EXTINF:-1 group-title="🟢",ОТР
 http://176.107.250.4:8001/ch9
-#EXTINF:-1 group-title="🟢" ,ТВЦ
+#EXTINF:-1 group-title="🟢",ТВЦ
 http://176.107.250.4:8001/ch10
-#EXTINF:-1 group-title="🟢" ,ДОМАШНИЙ
+#EXTINF:-1 group-title="🟢",ДОМАШНИЙ
 http://176.107.250.4:8001/ch14
-#EXTINF:-1 group-title="🟢" ,ТВ3
+#EXTINF:-1 group-title="🟢",ТВ3
 http://176.107.250.4:8001/ch15
-#EXTINF:-1 group-title="🟢" ,ПЯТНИЦА
+#EXTINF:-1 group-title="🟢",ПЯТНИЦА
 http://176.107.250.4:8001/ch16
-#EXTINF:-1 group-title="🟢" ,ЗВЕЗДА
+#EXTINF:-1 group-title="🟢",ЗВЕЗДА
 http://176.107.250.4:8001/ch17
-#EXTINF:-1 group-title="🟢" ,МИР
+#EXTINF:-1 group-title="🟢",МИР
 http://176.107.250.4:8001/ch18
-#EXTINF:-1 group-title="🟢" ,ЛИПЕЦКОЕ ВРЕМЯ
+#EXTINF:-1 group-title="🟢",ЛИПЕЦКОЕ ВРЕМЯ
 http://176.107.250.4:8001/ch21
-#EXTINF:-1 group-title="🟢" ,360 HD
+#EXTINF:-1 group-title="🟢",360 HD
 http://176.107.250.4:8001/ch23
-#EXTINF:-1 group-title="🟢" ,Ю
+#EXTINF:-1 group-title="🟢",Ю
 http://176.107.250.4:8002/ch50
-#EXTINF:-1 group-title="🟢" ,2X2
+#EXTINF:-1 group-title="🟢",2X2
 http://176.107.250.4:8002/ch51
-#EXTINF:-1 group-title="🟢" ,8 КАНАЛ
+#EXTINF:-1 group-title="🟢",8 КАНАЛ
 http://176.107.250.4:8002/ch52
-#EXTINF:-1 group-title="🟢" ,ФЕНИКС+КИНО
+#EXTINF:-1 group-title="🟢",ФЕНИКС+КИНО
 http://176.107.250.4:8002/ch55
-#EXTINF:-1 group-title="🟢" ,ПРОДВИЖЕНИЕ
+#EXTINF:-1 group-title="🟢",ПРОДВИЖЕНИЕ
 http://176.107.250.4:8002/ch60
-#EXTINF:-1 group-title="🟢" ,CGTN
+#EXTINF:-1 group-title="🟢",CGTN
 http://176.107.250.4:8001/ch25
-#EXTINF:-1 group-title="🟢" ,МИР 24 HD
+#EXTINF:-1 group-title="🟢",МИР 24 HD
 http://176.107.250.4:8001/ch27
-#EXTINF:-1 group-title="🟢" ,ПЯТЫЙ КАНАЛ
+#EXTINF:-1 group-title="🟢",ПЯТЫЙ КАНАЛ
 http://176.107.250.4:8001/ch5
-#EXTINF:-1 group-title="🟢" ,Липецкое время
+#EXTINF:-1 group-title="🟢",Липецкое время
 http://176.107.250.4:8001/ch28
-#EXTINF:-1 group-title="🟢" ,РБК
+#EXTINF:-1 group-title="🟢",РБК
 http://176.107.250.4:8001/ch30
-#EXTINF:-1 group-title="🟢" ,ИЗВЕСТИЯ
+#EXTINF:-1 group-title="🟢",ИЗВЕСТИЯ
 http://176.107.250.4:8001/ch35
-#EXTINF:-1 group-title="🟢" ,TV1000
+#EXTINF:-1 group-title="🟢",TV1000
 http://176.107.250.4:8001/ch36
-#EXTINF:-1 group-title="🟢" ,Women's Magazine
+#EXTINF:-1 group-title="🟢",Women's Magazine
 http://176.107.250.4:8001/ch37
-#EXTINF:-1 group-title="🟢" ,СОMEDY CENTRAL
+#EXTINF:-1 group-title="🟢",СОMEDY CENTRAL
 http://176.107.250.4:8001/ch39
-#EXTINF:-1 group-title="🟢" ,МОСКВА 24
+#EXTINF:-1 group-title="🟢",МОСКВА 24
 http://176.107.250.4:8001/ch159
-#EXTINF:-1 group-title="🟢" ,РАДОСТЬ МОЯ
+#EXTINF:-1 group-title="🟢",РАДОСТЬ МОЯ
 http://176.107.250.4:8001/ch160
-#EXTINF:-1 group-title="🟢" ,HOLLYWOOD
+#EXTINF:-1 group-title="🟢",HOLLYWOOD
 http://176.107.250.4:8001/ch161
-#EXTINF:-1 group-title="🟢" ,САРАФАН
+#EXTINF:-1 group-title="🟢",САРАФАН
 http://176.107.250.4:8002/ch61
-#EXTINF:-1 group-title="🟢" ,ЕДА HD
+#EXTINF:-1 group-title="🟢",ЕДА HD
 http://176.107.250.4:8002/ch62
-#EXTINF:-1 group-title="🟢" ,ТЕЛЕКАФЕ
+#EXTINF:-1 group-title="🟢",ТЕЛЕКАФЕ
 http://176.107.250.4:8002/ch63
-#EXTINF:-1 group-title="🟢" ,КВН ТВ
+#EXTINF:-1 group-title="🟢",КВН ТВ
 http://176.107.250.4:8002/ch64
-#EXTINF:-1 group-title="🟢" ,ВОПРОСЫ И ОТВЕТЫ
+#EXTINF:-1 group-title="🟢",ВОПРОСЫ И ОТВЕТЫ
 http://176.107.250.4:8002/ch65
-#EXTINF:-1 group-title="🟢" ,ДОМАШНИЕ ЖИВОТНЫЕ
+#EXTINF:-1 group-title="🟢",ДОМАШНИЕ ЖИВОТНЫЕ
 http://176.107.250.4:8002/ch66
-#EXTINF:-1 group-title="🟢" ,ЗДОРОВОЕ ТВ
+#EXTINF:-1 group-title="🟢",ЗДОРОВОЕ ТВ
 http://176.107.250.4:8002/ch67
-#EXTINF:-1 group-title="🟢" ,КАЛЕЙДОСКОП ТВ
+#EXTINF:-1 group-title="🟢",КАЛЕЙДОСКОП ТВ
 http://176.107.250.4:8002/ch68
-#EXTINF:-1 group-title="🟢" ,ПСИХОЛОГИЯ 21
+#EXTINF:-1 group-title="🟢",ПСИХОЛОГИЯ 21
 http://176.107.250.4:8002/ch70
-#EXTINF:-1 group-title="🟢" ,КИНОСЕМЬЯ
+#EXTINF:-1 group-title="🟢",КИНОСЕМЬЯ
 http://176.107.250.4:8002/ch71
-#EXTINF:-1 group-title="🟢" ,КИНОХИТ
+#EXTINF:-1 group-title="🟢",КИНОХИТ
 http://176.107.250.4:8002/ch169
-#EXTINF:-1 group-title="🟢" ,КИНОУЖАС
+#EXTINF:-1 group-title="🟢",КИНОУЖАС
 http://176.107.250.4:8003/ch97
-#EXTINF:-1 group-title="🟢" ,ТНОМЕР
+#EXTINF:-1 group-title="🟢",ТНОМЕР
 http://176.107.250.4:8002/ch73
-#EXTINF:-1 group-title="🟢" ,УСАДЬБА
+#EXTINF:-1 group-title="🟢",УСАДЬБА
 http://176.107.250.4:8002/ch74
-#EXTINF:-1 group-title="🟢" ,СУББОТА
+#EXTINF:-1 group-title="🟢",СУББОТА
 http://176.107.250.4:8002/ch75
-#EXTINF:-1 group-title="🟢" ,TLC
+#EXTINF:-1 group-title="🟢",TLC
 http://176.107.250.4:8002/ch78
-#EXTINF:-1 group-title="🟢" ,ЗООПАРК
+#EXTINF:-1 group-title="🟢",ЗООПАРК
 http://176.107.250.4:8002/ch79
-#EXTINF:-1 group-title="🟢" ,WORLD FASHION TV
+#EXTINF:-1 group-title="🟢",WORLD FASHION TV
 http://176.107.250.4:8002/ch172
-#EXTINF:-1 group-title="🟢" ,ПОЕХАЛИ!
+#EXTINF:-1 group-title="🟢",ПОЕХАЛИ!
 http://176.107.250.4:8002/ch173
-#EXTINF:-1 group-title="🟢" ,ЖАРА
+#EXTINF:-1 group-title="🟢",ЖАРА
 http://176.107.250.4:8002/ch175
-#EXTINF:-1 group-title="🟢" ,AMEDIA HIT
+#EXTINF:-1 group-title="🟢",AMEDIA HIT
 http://176.107.250.4:8002/ch176
-#EXTINF:-1 group-title="🟢" ,Amedia Premium
+#EXTINF:-1 group-title="🟢",Amedia Premium
 http://176.107.250.4:8002/ch177
-#EXTINF:-1 group-title="🟢" ,Amedia 1
+#EXTINF:-1 group-title="🟢",Amedia 1
 http://176.107.250.4:8002/ch178
-#EXTINF:-1 group-title="🟢" ,ПОБЕДА
+#EXTINF:-1 group-title="🟢",ПОБЕДА
 http://176.107.250.4:8002/ch47
-#EXTINF:-1 group-title="🟢" ,БОБЕР
+#EXTINF:-1 group-title="🟢",БОБЕР
 http://176.107.250.4:8003/ch81
-#EXTINF:-1 group-title="🟢" ,ВРЕМЯ
+#EXTINF:-1 group-title="🟢",ВРЕМЯ
 http://176.107.250.4:8003/ch82
-#EXTINF:-1 group-title="🟢" ,ДОКТОР
+#EXTINF:-1 group-title="🟢",ДОКТОР
 http://176.107.250.4:8003/ch83
-#EXTINF:-1 group-title="🟢" ,SHOT TV
+#EXTINF:-1 group-title="🟢",SHOT TV
 http://176.107.250.4:8003/ch91
-#EXTINF:-1 group-title="🟢" ,АIVA
+#EXTINF:-1 group-title="🟢",АIVA
 http://176.107.250.4:8003/ch92
-#EXTINF:-1 group-title="🟢" ,БЕЛРОС
+#EXTINF:-1 group-title="🟢",БЕЛРОС
 http://176.107.250.4:8003/ch93
-#EXTINF:-1 group-title="🟢" ,Успех
+#EXTINF:-1 group-title="🟢",Успех
 http://176.107.250.4:8003/ch95
-#EXTINF:-1 group-title="🟢" ,ЛЮБИМОЕ КИНО
+#EXTINF:-1 group-title="🟢",ЛЮБИМОЕ КИНО
 http://176.107.250.4:8003/ch98
-#EXTINF:-1 group-title="🟢" ,РЕТРО
+#EXTINF:-1 group-title="🟢",РЕТРО
 http://176.107.250.4:8003/ch99
-#EXTINF:-1 group-title="🟢" ,HOLLYWOOD HD
+#EXTINF:-1 group-title="🟢",HOLLYWOOD HD
 http://176.107.250.4:8003/ch100
-#EXTINF:-1 group-title="🟢" ,ДОМ КИНО
+#EXTINF:-1 group-title="🟢",ДОМ КИНО
 http://176.107.250.4:8003/ch102
-#EXTINF:-1 group-title="🟢" ,ДОМ КИНО ПРЕМИУМ HD
+#EXTINF:-1 group-title="🟢",ДОМ КИНО ПРЕМИУМ HD
 http://176.107.250.4:8003/ch103
-#EXTINF:-1 group-title="🟢" ,ЕВРОКИНО
+#EXTINF:-1 group-title="🟢",ЕВРОКИНО
 http://176.107.250.4:8003/ch104
-#EXTINF:-1 group-title="🟢" ,ИЛЛЮЗИОН+
+#EXTINF:-1 group-title="🟢",ИЛЛЮЗИОН+
 http://176.107.250.4:8003/ch105
-#EXTINF:-1 group-title="🟢" ,КИНО ТВ
+#EXTINF:-1 group-title="🟢",КИНО ТВ
 http://176.107.250.4:8003/ch106
-#EXTINF:-1 group-title="🟢" ,КОМЕДИЯ
+#EXTINF:-1 group-title="🟢",КОМЕДИЯ
 http://176.107.250.4:8003/ch108
-#EXTINF:-1 group-title="🟢" ,НСТ
+#EXTINF:-1 group-title="🟢",НСТ
 http://176.107.250.4:8003/ch109
-#EXTINF:-1 group-title="🟢" ,РУССКИЙ БЕСТСЕЛЛЕР
+#EXTINF:-1 group-title="🟢",РУССКИЙ БЕСТСЕЛЛЕР
 http://176.107.250.4:8003/ch110
-#EXTINF:-1 group-title="🟢" ,РУССКИЙ ДЕТЕКТИВ
+#EXTINF:-1 group-title="🟢",РУССКИЙ ДЕТЕКТИВ
 http://176.107.250.4:8003/ch111
-#EXTINF:-1 group-title="🟢" ,РУССКИЙ ИЛЛЮЗИОН
+#EXTINF:-1 group-title="🟢",РУССКИЙ ИЛЛЮЗИОН
 http://176.107.250.4:8003/ch112
-#EXTINF:-1 group-title="🟢" ,Amedia 2
+#EXTINF:-1 group-title="🟢",Amedia 2
 http://176.107.250.4:8003/ch179
-#EXTINF:-1 group-title="🟢" ,Cinema
+#EXTINF:-1 group-title="🟢",Cinema
 http://176.107.250.4:8003/ch180
-#EXTINF:-1 group-title="🟢" ,.RED
+#EXTINF:-1 group-title="🟢",.RED
 http://176.107.250.4:8003/ch181
-#EXTINF:-1 group-title="🟢" ,.SCI-FI
+#EXTINF:-1 group-title="🟢",.SCI-FI
 http://176.107.250.4:8003/ch182
-#EXTINF:-1 group-title="🟢" ,.BLACK
+#EXTINF:-1 group-title="🟢",.BLACK
 http://176.107.250.4:8003/ch183
-#EXTINF:-1 group-title="🟢" ,TV XXI
+#EXTINF:-1 group-title="🟢",TV XXI
 http://176.107.250.4:8003/ch184
-#EXTINF:-1 group-title="🟢" ,РОДНОЕ КИНО
+#EXTINF:-1 group-title="🟢",РОДНОЕ КИНО
 http://176.107.250.4:8003/ch185
-#EXTINF:-1 group-title="🟢" ,РУССКИЙ РОМАН
+#EXTINF:-1 group-title="🟢",РУССКИЙ РОМАН
 http://176.107.250.4:8003/ch186
-#EXTINF:-1 group-title="🟢" ,Trash
+#EXTINF:-1 group-title="🟢",Trash
 http://176.107.250.4:8004/ch142
-#EXTINF:-1 group-title="🟢" ,КОННЫЙ МИР HD
+#EXTINF:-1 group-title="🟢",КОННЫЙ МИР HD
 http://176.107.250.4:8004/ch145
-#EXTINF:-1 group-title="🟢" ,БЕЛАРУСЬ 24 HD
+#EXTINF:-1 group-title="🟢",БЕЛАРУСЬ 24 HD
 http://176.107.250.4:8004/ch152
-#EXTINF:-1 group-title="🟢" ,КРАСНАЯ ЛИНИЯ
+#EXTINF:-1 group-title="🟢",КРАСНАЯ ЛИНИЯ
 http://176.107.250.4:8004/ch153
-#EXTINF:-1 group-title="🟢" ,Da Vinci
+#EXTINF:-1 group-title="🟢",Da Vinci
 http://176.107.250.4:8004/ch154
-#EXTINF:-1 group-title="🟢" ,СПАС
+#EXTINF:-1 group-title="🟢",СПАС
 http://176.107.250.4:8004/ch155
-#EXTINF:-1 group-title="🟢" ,ТНВ-ПЛАНЕТА
+#EXTINF:-1 group-title="🟢",ТНВ-ПЛАНЕТА
 http://176.107.250.4:8004/ch156
-#EXTINF:-1 group-title="🟢" ,Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="🟢",Мосфильм. Золотая коллекция
 http://176.107.250.4:8004/ch157
-#EXTINF:-1 group-title="🟢" ,MEZZO LIVE
+#EXTINF:-1 group-title="🟢",MEZZO LIVE
 http://176.107.250.4:8004/ch189
-#EXTINF:-1 group-title="🟢" ,MTV 90s
+#EXTINF:-1 group-title="🟢",MTV 90s
 http://176.107.250.4:8004/ch190
-#EXTINF:-1 group-title="🟢" ,МУЗСОЮЗ
+#EXTINF:-1 group-title="🟢",МУЗСОЮЗ
 http://176.107.250.4:8004/ch191
-#EXTINF:-1 group-title="🟢" ,1HD
+#EXTINF:-1 group-title="🟢",1HD
 http://176.107.250.4:8003/ch114
-#EXTINF:-1 group-title="🟢" ,О!2
+#EXTINF:-1 group-title="🟢",О!2
 http://176.107.250.4:8002/ch43
-#EXTINF:-1 group-title="🟢" ,МузТВ
+#EXTINF:-1 group-title="🟢",МузТВ
 http://176.107.250.4:8001/ch20
-#EXTINF:-1 group-title="🟢" ,ЕВРОПА ПЛЮС ТВ
+#EXTINF:-1 group-title="🟢",ЕВРОПА ПЛЮС ТВ
 http://176.107.250.4:8003/ch118
-#EXTINF:-1 group-title="🟢" ,RU.TV
+#EXTINF:-1 group-title="🟢",RU.TV
 http://176.107.250.4:8003/ch119
-#EXTINF:-1 group-title="🟢" ,RUSSIAN MUSIC BOX
+#EXTINF:-1 group-title="🟢",RUSSIAN MUSIC BOX
 http://176.107.250.4:8003/ch120
-#EXTINF:-1 group-title="🟢" ,BRIDGE РУССКИЙ ХИТ
+#EXTINF:-1 group-title="🟢",BRIDGE РУССКИЙ ХИТ
 http://176.107.250.4:8003/ch187
-#EXTINF:-1 group-title="🟢" ,MEZZO
+#EXTINF:-1 group-title="🟢",MEZZO
 http://176.107.250.4:8003/ch188
-#EXTINF:-1 group-title="🟢" ,C MUSIC HD
+#EXTINF:-1 group-title="🟢",C MUSIC HD
 http://176.107.250.4:8004/ch121
-#EXTINF:-1 group-title="🟢" ,BRIDGE DELUXE HD
+#EXTINF:-1 group-title="🟢",BRIDGE DELUXE HD
 http://176.107.250.4:8003/ch116
-#EXTINF:-1 group-title="🟢" ,BRIDGE TV
+#EXTINF:-1 group-title="🟢",BRIDGE TV
 http://176.107.250.4:8003/ch117
-#EXTINF:-1 group-title="🟢" ,BRIDGE TV CLASSIC
+#EXTINF:-1 group-title="🟢",BRIDGE TV CLASSIC
 http://176.107.250.4:8004/ch123
-#EXTINF:-1 group-title="🟢" ,BRIDGE TV HITS
+#EXTINF:-1 group-title="🟢",BRIDGE TV HITS
 http://176.107.250.4:8004/ch124
-#EXTINF:-1 group-title="🟢" ,МУЗЫКА ПЕРВОГО
+#EXTINF:-1 group-title="🟢",МУЗЫКА ПЕРВОГО
 http://176.107.250.4:8004/ch126
-#EXTINF:-1 group-title="🟢" ,ШАНСОН ТВ
+#EXTINF:-1 group-title="🟢",ШАНСОН ТВ
 http://176.107.250.4:8004/ch192
-#EXTINF:-1 group-title="🟢" ,GULLI GIRL
+#EXTINF:-1 group-title="🟢",GULLI GIRL
 http://176.107.250.4:8004/ch193
-#EXTINF:-1 group-title="🟢" ,СОЛНЦЕ
+#EXTINF:-1 group-title="🟢",СОЛНЦЕ
 http://176.107.250.4:8004/ch127
-#EXTINF:-1 group-title="🟢" ,МАМА
+#EXTINF:-1 group-title="🟢",МАМА
 http://176.107.250.4:8003/ch86
-#EXTINF:-1 group-title="🟢" ,КАРУСЕЛЬ
+#EXTINF:-1 group-title="🟢",КАРУСЕЛЬ
 http://176.107.250.4:8001/ch8
-#EXTINF:-1 group-title="🟢" ,NICKELODEON HD
+#EXTINF:-1 group-title="🟢",NICKELODEON HD
 http://176.107.250.4:8004/ch128
-#EXTINF:-1 group-title="🟢" ,О!
+#EXTINF:-1 group-title="🟢",О!
 http://176.107.250.4:8004/ch129
-#EXTINF:-1 group-title="🟢" ,МУЛЬТ
+#EXTINF:-1 group-title="🟢",МУЛЬТ
 http://176.107.250.4:8004/ch130
-#EXTINF:-1 group-title="🟢" ,МУЛЬТИМУЗЫКА
+#EXTINF:-1 group-title="🟢",МУЛЬТИМУЗЫКА
 http://176.107.250.4:8004/ch131
-#EXTINF:-1 group-title="🟢" ,В ГОСТЯХ У СКАЗКИ
+#EXTINF:-1 group-title="🟢",В ГОСТЯХ У СКАЗКИ
 http://176.107.250.4:8004/ch133
-#EXTINF:-1 group-title="🟢" ,УНИКУМ
+#EXTINF:-1 group-title="🟢",УНИКУМ
 http://176.107.250.4:8004/ch134
-#EXTINF:-1 group-title="🟢" ,NICKELODEON HD
+#EXTINF:-1 group-title="🟢",NICKELODEON HD
 http://176.107.250.4:8004/ch135
-#EXTINF:-1 group-title="🟢" ,TIJI
+#EXTINF:-1 group-title="🟢",TIJI
 http://176.107.250.4:8004/ch137
-#EXTINF:-1 group-title="🟢" ,РАДОСТЬ МОЯ
+#EXTINF:-1 group-title="🟢",РАДОСТЬ МОЯ
 http://176.107.250.4:8004/ch138
-#EXTINF:-1 group-title="🟢" ,СТС KIDS
+#EXTINF:-1 group-title="🟢",СТС KIDS
 http://176.107.250.4:8004/ch139
-#EXTINF:-1 group-title="🟢" ,NICK JR
+#EXTINF:-1 group-title="🟢",NICK JR
 http://176.107.250.4:8004/ch194
-#EXTINF:-1 group-title="🟢" ,БОКС ТВ
+#EXTINF:-1 group-title="🟢",БОКС ТВ
 http://176.107.250.4:8004/ch140
-#EXTINF:-1 group-title="🟢" ,Телеканал Футбол
+#EXTINF:-1 group-title="🟢",Телеканал Футбол
 http://176.107.250.4:8004/ch141
-#EXTINF:-1 group-title="🟢" ,VIASAT SPORT
+#EXTINF:-1 group-title="🟢",VIASAT SPORT
 http://176.107.250.4:8004/ch144
-#EXTINF:-1 group-title="🟢" ,KHL PRIME
+#EXTINF:-1 group-title="🟢",KHL PRIME
 http://176.107.250.4:8002/ch170
-#EXTINF:-1 group-title="🟢" ,Eurosport 1 HD
+#EXTINF:-1 group-title="🟢",Eurosport 1 HD
 http://176.107.250.4:8001/ch26
-#EXTINF:-1 group-title="🟢" ,МАТЧ ТВ
+#EXTINF:-1 group-title="🟢",МАТЧ ТВ
 http://176.107.250.4:8001/ch3
-#EXTINF:-1 group-title="🟢" ,Extreme Sports
+#EXTINF:-1 group-title="🟢",Extreme Sports
 http://176.107.250.4:8004/ch196
-#EXTINF:-1 group-title="🟢" ,МАТЧ! ИГРА
+#EXTINF:-1 group-title="🟢",МАТЧ! ИГРА
 http://176.107.250.4:8004/ch215
-#EXTINF:-1 group-title="🟢" ,МАТЧ! АРЕНА
+#EXTINF:-1 group-title="🟢",МАТЧ! АРЕНА
 http://176.107.250.4:8004/ch216
+#EXTINF:-1 group-title="🟢",ТНТ ПРЕМЬЕРА
 http://178.160.249.200:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Nat Geo Wild
+#EXTINF:-1 group-title="Армения Телефон Компани",Nat Geo Wild
 http://178.160.249.200:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,National Geographic
+#EXTINF:-1 group-title="Армения Телефон Компани",National Geographic
 http://178.160.249.200:8000/play/NationalGeographic/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Viasat Nature
+#EXTINF:-1 group-title="Армения Телефон Компани",Viasat Nature
 http://178.160.249.200:8000/play/ViasatNature/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Viasat History
+#EXTINF:-1 group-title="Армения Телефон Компани",Viasat History
 http://178.160.249.200:8000/play/ViasatHistory/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Viasat Explore
+#EXTINF:-1 group-title="Армения Телефон Компани",Viasat Explore
 http://178.160.249.200:8000/play/ViasatExplore/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Моя стихия
+#EXTINF:-1 group-title="Армения Телефон Компани",Моя стихия
 http://178.160.249.200:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Рыбалка и охота
+#EXTINF:-1 group-title="Армения Телефон Компани",Рыбалка и охота
 http://178.160.249.200:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Дикая Охота HD
+#EXTINF:-1 group-title="Армения Телефон Компани",Дикая Охота HD
 http://178.160.249.200:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Живая Планета
+#EXTINF:-1 group-title="Армения Телефон Компани",Живая Планета
 http://178.160.249.200:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Победа
+#EXTINF:-1 group-title="Армения Телефон Компани",Победа
 http://178.160.249.200:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Звезда
+#EXTINF:-1 group-title="Армения Телефон Компани",Звезда
 http://178.160.249.200:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Дом Кино
+#EXTINF:-1 group-title="Армения Телефон Компани",Дом Кино
 http://178.160.249.200:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Зоо ТВ
+#EXTINF:-1 group-title="Армения Телефон Компани",Зоо ТВ
 http://178.160.249.200:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,FashionBox
+#EXTINF:-1 group-title="Армения Телефон Компани",FashionBox
 http://178.160.249.200:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,TV1000 Русское кино
+#EXTINF:-1 group-title="Армения Телефон Компани",TV1000 Русское кино
 http://178.160.249.200:8000/play/TV1000Ru/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,TV1000 Action
+#EXTINF:-1 group-title="Армения Телефон Компани",TV1000 Action
 http://178.160.249.200:8000/play/TV1000Action/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,TV1000
+#EXTINF:-1 group-title="Армения Телефон Компани",TV1000
 http://178.160.249.200:8000/play/TV1000/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Мир Сериала
+#EXTINF:-1 group-title="Армения Телефон Компани",Мир Сериала
 http://178.160.249.200:8000/play/Mujskoy/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,FilmBOX
+#EXTINF:-1 group-title="Армения Телефон Компани",FilmBOX
 http://178.160.249.200:8000/play/FilmBOX/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,FightBOX
+#EXTINF:-1 group-title="Армения Телефон Компани",FightBOX
 http://178.160.249.200:8000/play/FightBOX/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,FastNFunBOX
+#EXTINF:-1 group-title="Армения Телефон Компани",FastNFunBOX
 http://178.160.249.200:8000/play/FastNFunBOX/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,КИНОМИКС
+#EXTINF:-1 group-title="Армения Телефон Компани",КИНОМИКС
 http://178.160.249.200:8000/play/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,МУЖСКОЕ КИНО
+#EXTINF:-1 group-title="Армения Телефон Компани",МУЖСКОЕ КИНО
 http://178.160.249.200:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,НАШЕ НОВОЕ КИНО
+#EXTINF:-1 group-title="Армения Телефон Компани",НАШЕ НОВОЕ КИНО
 http://178.160.249.200:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,КИНОХИТ
+#EXTINF:-1 group-title="Армения Телефон Компани",КИНОХИТ
 http://178.160.249.200:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,КИНОУЖАС
+#EXTINF:-1 group-title="Армения Телефон Компани",КИНОУЖАС
 http://178.160.249.200:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,КИНОСЕРИЯ
+#EXTINF:-1 group-title="Армения Телефон Компани",КИНОСЕРИЯ
 http://178.160.249.200:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,КИНОСВИДАНИЕ
+#EXTINF:-1 group-title="Армения Телефон Компани",КИНОСВИДАНИЕ
 http://178.160.249.200:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,КИНОКОМЕДИЯ
+#EXTINF:-1 group-title="Армения Телефон Компани",КИНОКОМЕДИЯ
 http://178.160.249.200:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,РОДНОЕ КИНО
+#EXTINF:-1 group-title="Армения Телефон Компани",РОДНОЕ КИНО
 http://178.160.249.200:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,ИНДИЙСКОЕ КИНО
+#EXTINF:-1 group-title="Армения Телефон Компани",ИНДИЙСКОЕ КИНО
 http://178.160.249.200:8000/play/IndiskiKino/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,КИНОСЕМЬЯ
+#EXTINF:-1 group-title="Армения Телефон Компани",КИНОСЕМЬЯ
 http://178.160.249.200:8000/play/Disney/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Кинопремьера HD
+#EXTINF:-1 group-title="Армения Телефон Компани",Кинопремьера HD
 http://178.160.249.200:8000/play/DikayaOxtaHD/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Cinema
+#EXTINF:-1 group-title="Армения Телефон Компани",Cinema
 http://178.160.249.200:8000/play/avto24/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Любимое кино
+#EXTINF:-1 group-title="Армения Телефон Компани",Любимое кино
 http://178.160.249.200:8000/play/dtx/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Авто 24
+#EXTINF:-1 group-title="Армения Телефон Компани",Авто 24
 http://178.160.249.200:8000/play/Sineman/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Мир 24
+#EXTINF:-1 group-title="Армения Телефон Компани",Мир 24
 http://178.160.249.200:8000/play/Ani/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Hollywood
+#EXTINF:-1 group-title="Армения Телефон Компани",Hollywood
 http://178.160.249.200:8000/play/utv/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Домашний
+#EXTINF:-1 group-title="Армения Телефон Компани",Домашний
 http://178.160.249.200:8000/play/domashni/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Перец
+#EXTINF:-1 group-title="Армения Телефон Компани",Перец
 http://178.160.249.200:8000/play/che/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Русский Роман
+#EXTINF:-1 group-title="Армения Телефон Компани",Русский Роман
 http://178.160.249.200:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Русский Детектив
+#EXTINF:-1 group-title="Армения Телефон Компани",Русский Детектив
 http://178.160.249.200:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Русский Бестселлер
+#EXTINF:-1 group-title="Армения Телефон Компани",Русский Бестселлер
 http://178.160.249.200:8000/play/a03l/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,ТВЦ
+#EXTINF:-1 group-title="Армения Телефон Компани",ТВЦ
 http://178.160.249.200:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Пятница
+#EXTINF:-1 group-title="Армения Телефон Компани",Пятница
 http://178.160.249.200:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Gags Network
+#EXTINF:-1 group-title="Армения Телефон Компани",Gags Network
 http://178.160.249.200:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Timeless Dizi Channel
+#EXTINF:-1 group-title="Армения Телефон Компани",Timeless Dizi Channel
 http://178.160.249.200:8000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Star Cinema
+#EXTINF:-1 group-title="Армения Телефон Компани",Star Cinema
 http://178.160.249.200:8000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,E TV
+#EXTINF:-1 group-title="Армения Телефон Компани",E TV
 http://178.160.249.200:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,DocuBox
+#EXTINF:-1 group-title="Армения Телефон Компани",DocuBox
 http://178.160.249.200:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Суббота
+#EXTINF:-1 group-title="Армения Телефон Компани",Суббота
 http://178.160.249.200:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Спас
+#EXTINF:-1 group-title="Армения Телефон Компани",Спас
 http://178.160.249.200:8000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Продвижение
+#EXTINF:-1 group-title="Армения Телефон Компани",Продвижение
 http://178.160.249.200:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,ОТР
+#EXTINF:-1 group-title="Армения Телефон Компани",ОТР
 http://178.160.249.200:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Ностальгия
+#EXTINF:-1 group-title="Армения Телефон Компани",Ностальгия
 http://178.160.249.200:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Мультимузыка
+#EXTINF:-1 group-title="Армения Телефон Компани",Мультимузыка
 http://178.160.249.200:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Мир Увлечений
+#EXTINF:-1 group-title="Армения Телефон Компани",Мир Увлечений
 http://178.160.249.200:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Мир Белогорья
+#EXTINF:-1 group-title="Армения Телефон Компани",Мир Белогорья
 http://178.160.249.200:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Майдан
+#EXTINF:-1 group-title="Армения Телефон Компани",Майдан
 http://178.160.249.200:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Зал суда
+#EXTINF:-1 group-title="Армения Телефон Компани",Зал суда
 http://178.160.249.200:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,ЕГЭ
+#EXTINF:-1 group-title="Армения Телефон Компани",ЕГЭ
 http://178.160.249.200:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Живи активно HD
+#EXTINF:-1 group-title="Армения Телефон Компани",Живи активно HD
 http://178.160.249.200:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Дорама
+#EXTINF:-1 group-title="Армения Телефон Компани",Дорама
 http://178.160.249.200:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Успех
+#EXTINF:-1 group-title="Армения Телефон Компани",Успех
 http://178.160.249.200:8000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,БСТ
+#EXTINF:-1 group-title="Армения Телефон Компани",БСТ
 http://178.160.249.200:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,БелРос
+#EXTINF:-1 group-title="Армения Телефон Компани",БелРос
 http://178.160.249.200:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Театр
+#EXTINF:-1 group-title="Армения Телефон Компани",Театр
 http://178.160.249.200:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Москва Доверие
+#EXTINF:-1 group-title="Армения Телефон Компани",Москва Доверие
 http://178.160.249.200:8000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,FAN
+#EXTINF:-1 group-title="Армения Телефон Компани",FAN
 http://178.160.249.200:8000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Кто есть кто
+#EXTINF:-1 group-title="Армения Телефон Компани",Кто есть кто
 http://178.160.249.200:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Сарафан
+#EXTINF:-1 group-title="Армения Телефон Компани",Сарафан
 http://178.160.249.200:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,История
+#EXTINF:-1 group-title="Армения Телефон Компани",История
 http://178.160.249.200:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Петербург 5 канал
+#EXTINF:-1 group-title="Армения Телефон Компани",Петербург 5 канал
 http://178.160.249.200:8000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Кухня ТВ
+#EXTINF:-1 group-title="Армения Телефон Компани",Кухня ТВ
 http://178.160.249.200:8000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,ЖИВИ
+#EXTINF:-1 group-title="Армения Телефон Компани",ЖИВИ
 http://178.160.249.200:8000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Star Family
+#EXTINF:-1 group-title="Армения Телефон Компани",Star Family
 http://178.160.249.200:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Комедия
+#EXTINF:-1 group-title="Армения Телефон Компани",Комедия
 http://178.160.249.200:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Индия
+#EXTINF:-1 group-title="Армения Телефон Компани",Индия
 http://178.160.249.200:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,СТС Love
+#EXTINF:-1 group-title="Армения Телефон Компани",СТС Love
 http://178.160.249.200:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="Армения Телефон Компани",Мосфильм. Золотая коллекция
 http://178.160.249.200:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,FilmBox Arthouse
+#EXTINF:-1 group-title="Армения Телефон Компани",FilmBox Arthouse
 http://178.160.249.200:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,START World
+#EXTINF:-1 group-title="Армения Телефон Компани",START World
 http://178.160.249.200:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,START Air
+#EXTINF:-1 group-title="Армения Телефон Компани",START Air
 http://178.160.249.200:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Карусель
+#EXTINF:-1 group-title="Армения Телефон Компани",Карусель
 http://178.160.249.200:8000/play/Zvezda/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Da Vinci
+#EXTINF:-1 group-title="Армения Телефон Компани",Da Vinci
 http://178.160.249.200:8000/play/DaVinchi/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Детский мир
+#EXTINF:-1 group-title="Армения Телефон Компани",Детский мир
 http://178.160.249.200:8000/play/DikiMir/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,TiJi
+#EXTINF:-1 group-title="Армения Телефон Компани",TiJi
 http://178.160.249.200:8000/play/TiJi/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Gulli
+#EXTINF:-1 group-title="Армения Телефон Компани",Gulli
 http://178.160.249.200:8000/play/Gulli/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Bolt
+#EXTINF:-1 group-title="Армения Телефон Компани",Bolt
 http://178.160.249.200:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,В гостях у сказки
+#EXTINF:-1 group-title="Армения Телефон Компани",В гостях у сказки
 http://178.160.249.200:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Ani
+#EXTINF:-1 group-title="Армения Телефон Компани",Ani
 http://178.160.249.200:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Мультиландия
+#EXTINF:-1 group-title="Армения Телефон Компани",Мультиландия
 http://178.160.249.200:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,СуперГерои
+#EXTINF:-1 group-title="Армения Телефон Компани",СуперГерои
 http://178.160.249.200:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Мульт
+#EXTINF:-1 group-title="Армения Телефон Компани",Мульт
 http://178.160.249.200:8000/play/a024/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Жара
+#EXTINF:-1 group-title="Армения Телефон Компани",Жара
 http://178.160.249.200:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Европа Плюс ТВ
+#EXTINF:-1 group-title="Армения Телефон Компани",Европа Плюс ТВ
 http://178.160.249.200:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Classic Music
+#EXTINF:-1 group-title="Армения Телефон Компани",Classic Music
 http://178.160.249.200:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,MuzZone
+#EXTINF:-1 group-title="Армения Телефон Компани",MuzZone
 http://178.160.249.200:8000/play/0023/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Ля-минор
+#EXTINF:-1 group-title="Армения Телефон Компани",Ля-минор
 http://178.160.249.200:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,9 Волна
+#EXTINF:-1 group-title="Армения Телефон Компани",9 Волна
 http://178.160.249.200:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Шансон ТВ
+#EXTINF:-1 group-title="Армения Телефон Компани",Шансон ТВ
 http://178.160.249.200:8000/play/ShansonTV/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,RU.TV
+#EXTINF:-1 group-title="Армения Телефон Компани",RU.TV
 http://178.160.249.200:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Музыка Первого
+#EXTINF:-1 group-title="Армения Телефон Компани",Музыка Первого
 http://178.160.249.200:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,BRIDGE CLASSIC
+#EXTINF:-1 group-title="Армения Телефон Компани",BRIDGE CLASSIC
 http://178.160.249.200:8000/play/Moyaplaneta/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,FITNES
+#EXTINF:-1 group-title="Армения Телефон Компани",FITNES
 http://178.160.249.200:8000/play/0022/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,BAZMOC
+#EXTINF:-1 group-title="Армения Телефон Компани",BAZMOC
 http://178.160.249.200:8000/play/0021/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Armnews 24
+#EXTINF:-1 group-title="Армения Телефон Компани",Armnews 24
 http://178.160.249.200:8000/play/0020/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,FILMZONE
+#EXTINF:-1 group-title="Армения Телефон Компани",FILMZONE
 http://178.160.249.200:8000/play/0019/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,KINOMAN
+#EXTINF:-1 group-title="Армения Телефон Компани",KINOMAN
 http://178.160.249.200:8000/play/0018/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,XAXALIQ
+#EXTINF:-1 group-title="Армения Телефон Компани",XAXALIQ
 http://178.160.249.200:8000/play/0017/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,HAYTV
+#EXTINF:-1 group-title="Армения Телефон Компани",HAYTV
 http://178.160.249.200:8000/play/0015/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Dar 21 AM
+#EXTINF:-1 group-title="Армения Телефон Компани",Dar 21 AM
 http://178.160.249.200:8000/play/0013/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Erkir AM
+#EXTINF:-1 group-title="Армения Телефон Компани",Erkir AM
 http://178.160.249.200:8000/play/0012/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,5TV AM
+#EXTINF:-1 group-title="Армения Телефон Компани",5TV AM
 http://178.160.249.200:8000/play/0011/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Kentron AM
+#EXTINF:-1 group-title="Армения Телефон Компани",Kentron AM
 http://178.160.249.200:8000/play/0010/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,New Armenia
+#EXTINF:-1 group-title="Армения Телефон Компани",New Armenia
 http://178.160.249.200:8000/play/0009/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,FreeNews
+#EXTINF:-1 group-title="Армения Телефон Компани",FreeNews
 http://178.160.249.200:8000/play/0008/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Nur TV
+#EXTINF:-1 group-title="Армения Телефон Компани",Nur TV
 http://178.160.249.200:8000/play/0007/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,MMA-TV.COM
+#EXTINF:-1 group-title="Армения Телефон Компани",MMA-TV.COM
 http://178.160.249.200:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" tvg-id="7090" tvg-logo="http://epg.it999.ru/img/7090.png",VivaroSports+
+#EXTINF:-1 group-title="Армения Телефон Компани" tvg-logo="http://epg.it999.ru/img/7090.png",VivaroSports+
 http://178.160.249.200:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" tvg-id="7089" tvg-logo="http://epg.it999.ru/img/7089.png",VivaroSports
+#EXTINF:-1 group-title="Армения Телефон Компани" tvg-logo="http://epg.it999.ru/img/7089.png",VivaroSports
 http://178.160.249.200:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Vivaro Arena
+#EXTINF:-1 group-title="Армения Телефон Компани",Vivaro Arena
 http://178.160.249.200:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Viasat Sport
+#EXTINF:-1 group-title="Армения Телефон Компани",Viasat Sport
 http://178.160.249.200:8000/play/ViasatSport/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Матч! Футбол 1
+#EXTINF:-1 group-title="Армения Телефон Компани",Матч! Футбол 1
 http://178.160.249.200:8000/play/footbol1/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Матч! Футбол 2
+#EXTINF:-1 group-title="Армения Телефон Компани",Матч! Футбол 2
 http://178.160.249.200:8000/play/footbol2/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Матч! Футбол 3
+#EXTINF:-1 group-title="Армения Телефон Компани",Матч! Футбол 3
 http://178.160.249.200:8000/play/footbol3/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Матч! Игра
+#EXTINF:-1 group-title="Армения Телефон Компани",Матч! Игра
 http://178.160.249.200:8000/play/MatchIgra/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Матч ТВ
+#EXTINF:-1 group-title="Армения Телефон Компани",Матч ТВ
 http://178.160.249.200:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Матч! Боец
+#EXTINF:-1 group-title="Армения Телефон Компани",Матч! Боец
 http://178.160.249.200:8000/play/Matchboec/index.m3u8
-#EXTINF:-1 group-title="Армения Телефон Компани" ,Матч! Арена
+#EXTINF:-1 group-title="Армения Телефон Компани",Матч! Арена
 http://178.160.249.200:8000/play/MatchArena/index.m3u8
