@@ -19,6 +19,8 @@ http://tbs-tv.com:8080/live/dark/kittylinetv/12866.m3u8
 http://tbs-tv.com:8080/live/dark/kittylinetv/12852.m3u8
 #EXTINF:-1 group-title="Сторм Системс",ТНТ4
 http://tbs-tv.com:8080/live/dark/kittylinetv/12851.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Авто плюс
+http://tbs-tv.com:8080/live/dark/kittylinetv/12875.m3u8
 #EXTINF:-1 group-title="Сторм Системс",Animal Planet
 http://tbs-tv.com:8080/live/dark/kittylinetv/12864.m3u8
 #EXTINF:-1 group-title="Сторм Системс",Blues TV
@@ -61,8 +63,6 @@ http://tbs-tv.com:8080/live/dark/kittylinetv/12842.m3u8
 http://tbs-tv.com:8080/live/dark/kittylinetv/12894.m3u8
 #EXTINF:-1 group-title="Сторм Системс",ViP Megahit HD
 http://tbs-tv.com:8080/live/dark/kittylinetv/12844.m3u8
-#EXTINF:-1 group-title="Сторм Системс",Авто плюс
-http://tbs-tv.com:8080/live/dark/kittylinetv/12875.m3u8
 #EXTINF:-1 group-title="Сторм Системс",Дождь
 http://tbs-tv.com:8080/live/dark/kittylinetv/12885.m3u8
 #EXTINF:-1 group-title="Сторм Системс",Дом Кино Премиум
