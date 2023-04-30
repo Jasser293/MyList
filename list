@@ -3,10 +3,124 @@
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ +4
 http://hlstv.kem.211.ru/239.211.200.1/stream.m3u8
-#EXTINF:-1 ,Первый
-http://tbs-tv.com:8080/live/dark/kittylinetv/12867.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ HD
 http://176.107.250.4:8001/ch1
+#EXTINF:-1 group-title="Сторм Системс",Первый канал HD
+http://tbs-tv.com:8080/live/dark/kittylinetv/12867.m3u8
+#EXTINF:-1 group-title="Сторм Системс",РЕН ТВ International
+http://tbs-tv.com:8080/live/dark/kittylinetv/12858.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Россия 1
+http://tbs-tv.com:8080/live/dark/kittylinetv/12856.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Россия 24
+http://tbs-tv.com:8080/live/dark/kittylinetv/12854.m3u8
+#EXTINF:-1 group-title="Сторм Системс",НТВ-Мир
+http://tbs-tv.com:8080/live/dark/kittylinetv/12866.m3u8
+#EXTINF:-1 group-title="Сторм Системс",ТНТ
+http://tbs-tv.com:8080/live/dark/kittylinetv/12852.m3u8
+#EXTINF:-1 group-title="Сторм Системс",ТНТ4
+http://tbs-tv.com:8080/live/dark/kittylinetv/12851.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Animal Planet
+http://tbs-tv.com:8080/live/dark/kittylinetv/12864.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Blues TV
+http://tbs-tv.com:8080/live/dark/kittylinetv/12876.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Discovery Channel
+http://tbs-tv.com:8080/live/dark/kittylinetv/12880.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Discovery Science
+http://tbs-tv.com:8080/live/dark/kittylinetv/12881.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Fashion TV
+http://tbs-tv.com:8080/live/dark/kittylinetv/12891.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Fastnfunbox
+http://tbs-tv.com:8080/live/dark/kittylinetv/12833.m3u8
+#EXTINF:-1 group-title="Сторм Системс",National Geographic
+http://tbs-tv.com:8080/live/dark/kittylinetv/12865.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Travel+Adventure
+http://tbs-tv.com:8080/live/dark/kittylinetv/12847.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Viasat History
+http://tbs-tv.com:8080/live/dark/kittylinetv/12829.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Viasat Nature
+http://tbs-tv.com:8080/live/dark/kittylinetv/12841.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Моя планета
+http://tbs-tv.com:8080/live/dark/kittylinetv/12832.m3u8
+#EXTINF:-1 group-title="Сторм Системс",История
+http://tbs-tv.com:8080/live/dark/kittylinetv/12895.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Кинопремьера HD
+http://tbs-tv.com:8080/live/dark/kittylinetv/12900.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Кинохит HD
+http://tbs-tv.com:8080/live/dark/kittylinetv/12897.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Мужское кино HD
+http://tbs-tv.com:8080/live/dark/kittylinetv/12898.m3u8
+#EXTINF:-1 group-title="Сторм Системс",2x2
+http://tbs-tv.com:8080/live/dark/kittylinetv/12861.m3u8
+#EXTINF:-1 group-title="Сторм Системс",5 канал
+http://tbs-tv.com:8080/live/dark/kittylinetv/12869.m3u8
+#EXTINF:-1 group-title="Сторм Системс",TLC
+http://tbs-tv.com:8080/live/dark/kittylinetv/12883.m3u8
+#EXTINF:-1 group-title="Сторм Системс",TV1000 Action
+http://tbs-tv.com:8080/live/dark/kittylinetv/12842.m3u8
+#EXTINF:-1 group-title="Сторм Системс",VIP Comedy HD
+http://tbs-tv.com:8080/live/dark/kittylinetv/12894.m3u8
+#EXTINF:-1 group-title="Сторм Системс",ViP Megahit HD
+http://tbs-tv.com:8080/live/dark/kittylinetv/12844.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Авто плюс
+http://tbs-tv.com:8080/live/dark/kittylinetv/12875.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Дождь
+http://tbs-tv.com:8080/live/dark/kittylinetv/12885.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Дом Кино Премиум
+http://tbs-tv.com:8080/live/dark/kittylinetv/12870.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Домашний
+http://tbs-tv.com:8080/live/dark/kittylinetv/12884.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Звезда
+http://tbs-tv.com:8080/live/dark/kittylinetv/12828.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Ю
+http://tbs-tv.com:8080/live/dark/kittylinetv/12840.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Кухня ТВ
+http://tbs-tv.com:8080/live/dark/kittylinetv/12902.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Перец
+http://tbs-tv.com:8080/live/dark/kittylinetv/12879.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Поехали!
+http://tbs-tv.com:8080/live/dark/kittylinetv/12848.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Пятница
+http://tbs-tv.com:8080/live/dark/kittylinetv/12862.m3u8
+#EXTINF:-1 group-title="Сторм Системс",ТВ3
+http://tbs-tv.com:8080/live/dark/kittylinetv/12849.m3u8
+#EXTINF:-1 group-title="Сторм Системс",ТВЦ
+http://tbs-tv.com:8080/live/dark/kittylinetv/12850.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Шансон ТВ
+http://tbs-tv.com:8080/live/dark/kittylinetv/12859.m3u8
+#EXTINF:-1 group-title="Сторм Системс",RU.TV
+http://tbs-tv.com:8080/live/dark/kittylinetv/12888.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Первый музыкальный
+http://tbs-tv.com:8080/live/dark/kittylinetv/12905.m3u8
+#EXTINF:-1 group-title="Сторм Системс",MTV Hits
+http://tbs-tv.com:8080/live/dark/kittylinetv/12904.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Солнце
+http://tbs-tv.com:8080/live/dark/kittylinetv/12863.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Мульт HD
+http://tbs-tv.com:8080/live/dark/kittylinetv/12896.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Карусель
+http://tbs-tv.com:8080/live/dark/kittylinetv/12878.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Nick Jr
+http://tbs-tv.com:8080/live/dark/kittylinetv/12831.m3u8
+#EXTINF:-1 group-title="Сторм Системс",О!
+http://tbs-tv.com:8080/live/dark/kittylinetv/12846.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Матч HD
+http://tbs-tv.com:8080/live/dark/kittylinetv/12834.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Матч! Боец
+http://tbs-tv.com:8080/live/dark/kittylinetv/12843.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Матч! Планета
+http://tbs-tv.com:8080/live/dark/kittylinetv/12836.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Матч! Страна HD
+http://tbs-tv.com:8080/live/dark/kittylinetv/12873.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Матч! Футбол 1
+http://tbs-tv.com:8080/live/dark/kittylinetv/12839.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Матч! Футбол 2 HD
+http://tbs-tv.com:8080/live/dark/kittylinetv/12838.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Матч! Футбол 3
+http://tbs-tv.com:8080/live/dark/kittylinetv/12837.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Setanta Sports 1
+http://tbs-tv.com:8080/live/dark/kittylinetv/12835.m3u8
+#EXTINF:-1 group-title="Сторм Системс",Setanta Sports 2
+http://tbs-tv.com:8080/live/dark/kittylinetv/12889.m3u8
 #EXTINF:-1 group-title="VIRUSNET",НТВ
 http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VIRUSNET",РОССИЯ 1
