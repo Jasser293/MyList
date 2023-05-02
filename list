@@ -37,6 +37,8 @@ http://tbs-tv.com:8080/live/dark/kittylinetv/12902.m3u8
 http://tbs-tv.com:8080/live/dark/kittylinetv/12879.m3u8
 #EXTINF:-1 group-title="Сторм Системс",Поехали!
 http://tbs-tv.com:8080/live/dark/kittylinetv/12848.m3u8
+#EXTINF:-1 group-title="🟢",ПЯТНИЦА
+http://176.107.250.4:8001/ch16
 #EXTINF:-1 group-title="Сторм Системс",Пятница
 http://tbs-tv.com:8080/live/dark/kittylinetv/12862.m3u8
 #EXTINF:-1 group-title="Сторм Системс",Animal Planet
@@ -199,8 +201,6 @@ http://176.107.250.4:8001/ch10
 http://176.107.250.4:8001/ch14
 #EXTINF:-1 group-title="🟢",ТВ3
 http://176.107.250.4:8001/ch15
-#EXTINF:-1 group-title="🟢",ПЯТНИЦА
-http://176.107.250.4:8001/ch16
 #EXTINF:-1 group-title="🟢",ЗВЕЗДА
 http://176.107.250.4:8001/ch17
 #EXTINF:-1 group-title="🟢",МИР
