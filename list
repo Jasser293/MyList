@@ -11,8 +11,12 @@ http://91.236.103.35:10110/play/a00a
 http://91.236.103.35:10110/play/a05a
 #EXTINF:-1 group-title="Паутина",Рен ТВ
 http://91.236.103.35:10110/play/a05g
+#EXTINF:-1 group-title="Сторм Системс",РЕН ТВ International
+http://tbs-tv.com:8080/live/dark/kittylinetv/12858.m3u8
 #EXTINF:-1 group-title="Паутина",НТВ
 http://91.236.103.35:10110/play/a003
+#EXTINF:-1 group-title="Сторм Системс",НТВ-Мир
+http://tbs-tv.com:8080/live/dark/kittylinetv/12866.m3u8
 #EXTINF:-1 group-title="Паутина",ТНТ4
 http://91.236.103.35:10110/play/a05z
 #EXTINF:-1 group-title="Паутина",ТНТ
