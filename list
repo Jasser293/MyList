@@ -21,8 +21,10 @@ http://tbs-tv.com:8080/live/dark/kittylinetv/12866.m3u8
 http://tbs-tv.com:8080/live/dark/kittylinetv/12852.m3u8
 #EXTINF:-1 group-title="Сторм Системс",ТНТ4
 http://tbs-tv.com:8080/live/dark/kittylinetv/12851.m3u8
-#EXTINF:-1 group-title="Сторм Системс",Авто плюс
-http://tbs-tv.com:8080/live/dark/kittylinetv/12875.m3u8
+# #EXTINF:-1 group-title="Сторм Системс",Авто плюс
+# http://tbs-tv.com:8080/live/dark/kittylinetv/12875.m3u8
+#EXTINF:-1 group-title="Паутина",Авто плюс
+http://91.236.103.35:10110/play/a03a
 #EXTINF:-1 group-title="🟢",АВТО 24
 http://176.107.250.4:8002/ch80
 #EXTINF:-1 group-title="Сторм Системс",Домашний
