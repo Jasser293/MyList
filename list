@@ -7,21 +7,21 @@ http://45.151.28.21:8000/play/a00y/index.m3u8
 http://176.107.250.4:8001/ch2
 #EXTINF:-1 ,Rossia 1
 http://45.151.28.21:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="🟢" ,ROSSIA К
+#EXTINF:-1 ,ROSSIA К
 http://176.107.250.4:8001/ch6
-#EXTINF:-1 group-title="🟢" ,Rossia 24
+#EXTINF:-1 ,Rossia 24
 http://176.107.250.4:8001/ch7
-#EXTINF:-1 group-title="🟢" ,ТНТ
+#EXTINF:-1 ,TNT
 http://176.107.250.4:8001/ch19
-#EXTINF:-1 group-title="OlimpTelecom",ТНТ
+#EXTINF:-1 ,TNT
 http://45.151.28.21:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="🟢" ,ТНТ4
+#EXTINF:-1 ,TNT 4
 http://176.107.250.4:8001/ch40
-#EXTINF:-1 group-title="🟢" ,НТВ
+#EXTINF:-1 ,NTV
 http://176.107.250.4:8001/ch4
-#EXTINF:-1 group-title="OlimpTelecom",НТВ
+#EXTINF:-1 ,NTV
 http://45.151.28.21:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="OlimpTelecom",РЕН ТВ
+#EXTINF:-1 ,REN TV
 http://45.151.28.21:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="🟢" ,НТВ СЕРИАЛ
 http://176.107.250.4:8004/ch122
