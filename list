@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="🟢" ,Pervij
 http://176.107.250.4:8001/ch1
-#EXTINF:-1 group-title="🟢" ,РОССИЯ 1
+#EXTINF:-1 group-title="🟢" ,Rossia 1
 http://176.107.250.4:8001/ch2
-#EXTINF:-1 group-title="🟢" ,РОССИЯ К
+#EXTINF:-1 group-title="🟢" ,Rossia К
 http://176.107.250.4:8001/ch6
-#EXTINF:-1 group-title="🟢" ,РОССИЯ 24
+#EXTINF:-1 group-title="🟢" ,Rossia 24
 http://176.107.250.4:8001/ch7
 #EXTINF:-1 group-title="Паутина",Первый канал HD +4
 http://91.236.103.35:10110/play/a05o
