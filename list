@@ -1,342 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="🟢" ,ПЕРВЫЙ КАНАЛ
-http://176.107.250.4:8001/ch1
-#EXTINF:-1 group-title="🟢" ,РОССИЯ 1
-http://176.107.250.4:8001/ch2
-#EXTINF:-1 group-title="🟢" ,РОССИЯ К
-http://176.107.250.4:8001/ch6
-#EXTINF:-1 group-title="🟢" ,РОССИЯ 24
-http://176.107.250.4:8001/ch7
 #EXTINF:-1 group-title="Паутина",Первый канал HD +4
 http://91.236.103.35:10110/play/a05o
 #EXTINF:-1 group-title="Паутина",Первый канал
 http://91.236.103.35:10110/play/a059
 #EXTINF:-1 group-title="Паутина",НТВ
 http://91.236.103.35:10110/play/a003
-#EXTINF:-1 group-title="🟢" ,ТНТ
-http://176.107.250.4:8001/ch19
-#EXTINF:-1 group-title="🟢" ,ТНТ4
-http://176.107.250.4:8001/ch40
-#EXTINF:-1 group-title="Паутина",Рен ТВ
-http://91.236.103.35:10110/play/a05g
-#EXTINF:-1 group-title="🟢" ,НТВ
-http://176.107.250.4:8001/ch4
-#EXTINF:-1 group-title="🟢" ,НТВ СЕРИАЛ
-http://176.107.250.4:8004/ch122
-#EXTINF:-1 group-title="🟢" ,НТВ ХИТ
-http://176.107.250.4:8004/ch125
-#EXTINF:-1 group-title="Паутина",Авто плюс
-http://91.236.103.35:10110/play/a03a
-#EXTINF:-1 group-title="Паутина",Авто 24
-http://91.236.103.35:10110/play/a03u
-#EXTINF:-1 group-title="🟢" ,Ю
-http://176.107.250.4:8002/ch50
-#EXTINF:-1 group-title="🟢" ,ПЯТНИЦА
-http://176.107.250.4:8001/ch16
-#EXTINF:-1 group-title="🟢" ,ЗВЕЗДА
-http://176.107.250.4:8001/ch17
-#EXTINF:-1 group-title="🟢" ,ДРАЙВ
-http://176.107.250.4:8002/ch42
-#EXTINF:-1 group-title="🟢" ,ОРУЖИЕ
-http://176.107.250.4:8002/ch45
-#EXTINF:-1 group-title="🟢" ,СТС Love
-http://176.107.250.4:8002/ch46
-#EXTINF:-1 group-title="🟢" ,СТС
-http://176.107.250.4:8001/ch13
-#EXTINF:-1 group-title="🟢" ,ЧЕ
-http://176.107.250.4:8002/ch49
-#EXTINF:-1 group-title="🟢" ,ОТР
-http://176.107.250.4:8001/ch9
-#EXTINF:-1 group-title="🟢" ,ТВЦ
-http://176.107.250.4:8001/ch10
-#EXTINF:-1 group-title="🟢" ,ПЯТЫЙ КАНАЛ
-http://176.107.250.4:8001/ch5
-#EXTINF:-1 group-title="🟢" ,ДОМАШНИЙ
-http://176.107.250.4:8001/ch14
-#EXTINF:-1 group-title="🟢" ,ТВ3
-http://176.107.250.4:8001/ch15
-#EXTINF:-1 group-title="🟢" ,МИР
-http://176.107.250.4:8001/ch18
-#EXTINF:-1 group-title="🟢" ,TRAVEL+ADVENTURE
-http://176.107.250.4:8001/ch24
-#EXTINF:-1 group-title="🟢" ,ДИАЛОГИ О РЫБАЛКЕ
-http://176.107.250.4:8001/ch162
-#EXTINF:-1 group-title="🟢" ,ТОЧКА ОТРЫВА
-http://176.107.250.4:8001/ch163
-#EXTINF:-1 group-title="🟢" ,BIG PLANET
-http://176.107.250.4:8001/ch166
-#EXTINF:-1 group-title="🟢" ,TERRA
-http://176.107.250.4:8001/ch168
-#EXTINF:-1 group-title="🟢" ,ДИКИЙ
-http://176.107.250.4:8002/ch57
-#EXTINF:-1 group-title="🟢" ,ОТКРЫТЫЙ МИР
-http://176.107.250.4:8002/ch58
-#EXTINF:-1 group-title="🟢" ,ЖИВАЯ ПРИРОДА
-http://176.107.250.4:8002/ch59
-#EXTINF:-1 group-title="🟢" ,ОХОТА И РЫБАЛКА
-http://176.107.250.4:8002/ch69
-#EXTINF:-1 group-title="🟢" ,VIASAT NATURE
-http://176.107.250.4:8002/ch76
-#EXTINF:-1 group-title="🟢" ,RTG HD
-http://176.107.250.4:8002/ch77
-#EXTINF:-1 group-title="🟢" ,МОЯ ПЛАНЕТА
-http://176.107.250.4:8002/ch174
-#EXTINF:-1 group-title="🟢" ,TRAVEL HD
-http://176.107.250.4:8002/ch171
-#EXTINF:-1 group-title="🟢" ,ГЛАЗАМИ ТУРИСТА HD
-http://176.107.250.4:8003/ch84
-#EXTINF:-1 group-title="🟢" ,МОЯ СТИХИЯ
-http://176.107.250.4:8003/ch115
-#EXTINF:-1 group-title="🟢" ,ТЕХНО 24
-http://176.107.250.4:8002/ch72
-#EXTINF:-1 group-title="🟢" ,НАУКА
-http://176.107.250.4:8003/ch90
-#EXTINF:-1 group-title="🟢" ,ИСТОРИЯ
-http://176.107.250.4:8003/ch85
-#EXTINF:-1 group-title="🟢" ,ТАНЦУЙ
-http://176.107.250.4:8002/ch41
-#EXTINF:-1 group-title="🟢" ,САПФИР
-http://176.107.250.4:8001/ch167
-#EXTINF:-1 group-title="🟢" ,ЛИПЕЦКОЕ ВРЕМЯ
-http://176.107.250.4:8001/ch21
-#EXTINF:-1 group-title="🟢" ,360 HD
-http://176.107.250.4:8001/ch23
-#EXTINF:-1 group-title="🟢" ,2X2
-http://176.107.250.4:8002/ch51
-#EXTINF:-1 group-title="🟢" ,8 КАНАЛ
-http://176.107.250.4:8002/ch52
-#EXTINF:-1 group-title="🟢" ,ФЕНИКС+КИНО
-http://176.107.250.4:8002/ch55
-#EXTINF:-1 group-title="🟢" ,ПРОДВИЖЕНИЕ
-http://176.107.250.4:8002/ch60
-#EXTINF:-1 group-title="🟢" ,CGTN
-http://176.107.250.4:8001/ch25
-#EXTINF:-1 group-title="🟢" ,МИР 24 HD
-http://176.107.250.4:8001/ch27
-#EXTINF:-1 group-title="🟢" ,Липецкое время
-http://176.107.250.4:8001/ch28
-#EXTINF:-1 group-title="🟢" ,РБК
-http://176.107.250.4:8001/ch30
-#EXTINF:-1 group-title="🟢" ,ИЗВЕСТИЯ
-http://176.107.250.4:8001/ch35
-#EXTINF:-1 group-title="🟢" ,TV1000
-http://176.107.250.4:8001/ch36
-#EXTINF:-1 group-title="🟢" ,Women's Magazine
-http://176.107.250.4:8001/ch37
-#EXTINF:-1 group-title="🟢" ,СОMEDY CENTRAL
-http://176.107.250.4:8001/ch39
-#EXTINF:-1 group-title="🟢" ,МОСКВА 24
-http://176.107.250.4:8001/ch159
-#EXTINF:-1 group-title="🟢" ,РАДОСТЬ МОЯ
-http://176.107.250.4:8001/ch160
-#EXTINF:-1 group-title="🟢" ,HOLLYWOOD
-http://176.107.250.4:8001/ch161
-#EXTINF:-1 group-title="🟢" ,САРАФАН
-http://176.107.250.4:8002/ch61
-#EXTINF:-1 group-title="🟢" ,ЕДА HD
-http://176.107.250.4:8002/ch62
-#EXTINF:-1 group-title="🟢" ,ТЕЛЕКАФЕ
-http://176.107.250.4:8002/ch63
-#EXTINF:-1 group-title="🟢" ,КВН ТВ
-http://176.107.250.4:8002/ch64
-#EXTINF:-1 group-title="🟢" ,ВОПРОСЫ И ОТВЕТЫ
-http://176.107.250.4:8002/ch65
-#EXTINF:-1 group-title="🟢" ,ДОМАШНИЕ ЖИВОТНЫЕ
-http://176.107.250.4:8002/ch66
-#EXTINF:-1 group-title="🟢" ,ЗДОРОВОЕ ТВ
-http://176.107.250.4:8002/ch67
-#EXTINF:-1 group-title="🟢" ,КАЛЕЙДОСКОП ТВ
-http://176.107.250.4:8002/ch68
-#EXTINF:-1 group-title="🟢" ,ПСИХОЛОГИЯ 21
-http://176.107.250.4:8002/ch70
-#EXTINF:-1 group-title="🟢" ,КИНОСЕМЬЯ
-http://176.107.250.4:8002/ch71
-#EXTINF:-1 group-title="🟢" ,КИНОХИТ
-http://176.107.250.4:8002/ch169
-#EXTINF:-1 group-title="🟢" ,КИНОУЖАС
-http://176.107.250.4:8003/ch97
-#EXTINF:-1 group-title="🟢" ,ТНОМЕР
-http://176.107.250.4:8002/ch73
-#EXTINF:-1 group-title="🟢" ,УСАДЬБА
-http://176.107.250.4:8002/ch74
-#EXTINF:-1 group-title="🟢" ,СУББОТА
-http://176.107.250.4:8002/ch75
-#EXTINF:-1 group-title="🟢" ,TLC
-http://176.107.250.4:8002/ch78
-#EXTINF:-1 group-title="🟢" ,ЗООПАРК
-http://176.107.250.4:8002/ch79
-#EXTINF:-1 group-title="🟢" ,АВТО 24
-http://176.107.250.4:8002/ch80
-#EXTINF:-1 group-title="🟢" ,WORLD FASHION TV
-http://176.107.250.4:8002/ch172
-#EXTINF:-1 group-title="🟢" ,ПОЕХАЛИ!
-http://176.107.250.4:8002/ch173
-#EXTINF:-1 group-title="🟢" ,ЖАРА
-http://176.107.250.4:8002/ch175
-#EXTINF:-1 group-title="🟢" ,AMEDIA HIT
-http://176.107.250.4:8002/ch176
-#EXTINF:-1 group-title="🟢" ,Amedia Premium
-http://176.107.250.4:8002/ch177
-#EXTINF:-1 group-title="🟢" ,Amedia 1
-http://176.107.250.4:8002/ch178
-#EXTINF:-1 group-title="🟢" ,ПОБЕДА
-http://176.107.250.4:8002/ch47
-#EXTINF:-1 group-title="🟢" ,БОБЕР
-http://176.107.250.4:8003/ch81
-#EXTINF:-1 group-title="🟢" ,ВРЕМЯ
-http://176.107.250.4:8003/ch82
-#EXTINF:-1 group-title="🟢" ,ДОКТОР
-http://176.107.250.4:8003/ch83
-#EXTINF:-1 group-title="🟢" ,SHOT TV
-http://176.107.250.4:8003/ch91
-#EXTINF:-1 group-title="🟢" ,АIVA
-http://176.107.250.4:8003/ch92
-#EXTINF:-1 group-title="🟢" ,БЕЛРОС
-http://176.107.250.4:8003/ch93
-#EXTINF:-1 group-title="🟢" ,Успех
-http://176.107.250.4:8003/ch95
-#EXTINF:-1 group-title="🟢" ,ЛЮБИМОЕ КИНО
-http://176.107.250.4:8003/ch98
-#EXTINF:-1 group-title="🟢" ,РЕТРО
-http://176.107.250.4:8003/ch99
-#EXTINF:-1 group-title="🟢" ,HOLLYWOOD HD
-http://176.107.250.4:8003/ch100
-#EXTINF:-1 group-title="🟢" ,ДОМ КИНО
-http://176.107.250.4:8003/ch102
-#EXTINF:-1 group-title="🟢" ,ДОМ КИНО ПРЕМИУМ HD
-http://176.107.250.4:8003/ch103
-#EXTINF:-1 group-title="🟢" ,ЕВРОКИНО
-http://176.107.250.4:8003/ch104
-#EXTINF:-1 group-title="🟢" ,ИЛЛЮЗИОН+
-http://176.107.250.4:8003/ch105
-#EXTINF:-1 group-title="🟢" ,КИНО ТВ
-http://176.107.250.4:8003/ch106
-#EXTINF:-1 group-title="🟢" ,КОМЕДИЯ
-http://176.107.250.4:8003/ch108
-#EXTINF:-1 group-title="🟢" ,НСТ
-http://176.107.250.4:8003/ch109
-#EXTINF:-1 group-title="🟢" ,РУССКИЙ БЕСТСЕЛЛЕР
-http://176.107.250.4:8003/ch110
-#EXTINF:-1 group-title="🟢" ,РУССКИЙ ДЕТЕКТИВ
-http://176.107.250.4:8003/ch111
-#EXTINF:-1 group-title="🟢" ,РУССКИЙ ИЛЛЮЗИОН
-http://176.107.250.4:8003/ch112
-#EXTINF:-1 group-title="🟢" ,Amedia 2
-http://176.107.250.4:8003/ch179
-#EXTINF:-1 group-title="🟢" ,Cinema
-http://176.107.250.4:8003/ch180
-#EXTINF:-1 group-title="🟢" ,.RED
-http://176.107.250.4:8003/ch181
-#EXTINF:-1 group-title="🟢" ,.SCI-FI
-http://176.107.250.4:8003/ch182
-#EXTINF:-1 group-title="🟢" ,.BLACK
-http://176.107.250.4:8003/ch183
-#EXTINF:-1 group-title="🟢" ,TV XXI
-http://176.107.250.4:8003/ch184
-#EXTINF:-1 group-title="🟢" ,РОДНОЕ КИНО
-http://176.107.250.4:8003/ch185
-#EXTINF:-1 group-title="🟢" ,РУССКИЙ РОМАН
-http://176.107.250.4:8003/ch186
-#EXTINF:-1 group-title="🟢" ,Trash
-http://176.107.250.4:8004/ch142
-#EXTINF:-1 group-title="🟢" ,КОННЫЙ МИР HD
-http://176.107.250.4:8004/ch145
-#EXTINF:-1 group-title="🟢" ,БЕЛАРУСЬ 24 HD
-http://176.107.250.4:8004/ch152
-#EXTINF:-1 group-title="🟢" ,КРАСНАЯ ЛИНИЯ
-http://176.107.250.4:8004/ch153
-#EXTINF:-1 group-title="🟢" ,Da Vinci
-http://176.107.250.4:8004/ch154
-#EXTINF:-1 group-title="🟢" ,СПАС
-http://176.107.250.4:8004/ch155
-#EXTINF:-1 group-title="🟢" ,ТНВ-ПЛАНЕТА
-http://176.107.250.4:8004/ch156
-#EXTINF:-1 group-title="🟢" ,Мосфильм. Золотая коллекция
-http://176.107.250.4:8004/ch157
-#EXTINF:-1 group-title="🟢" ,MEZZO LIVE HD
-http://176.107.250.4:8004/ch189
-#EXTINF:-1 group-title="🟢" ,MTV 90s
-http://176.107.250.4:8004/ch190
-#EXTINF:-1 group-title="🟢" ,МУЗСОЮЗ
-http://176.107.250.4:8004/ch191
-#EXTINF:-1 group-title="🟢" ,1HD
-http://176.107.250.4:8003/ch114
-#EXTINF:-1 group-title="🟢" ,О!2
-http://176.107.250.4:8002/ch43
-#EXTINF:-1 group-title="🟢" ,МузТВ
-http://176.107.250.4:8001/ch20
-#EXTINF:-1 group-title="🟢" ,ЕВРОПА ПЛЮС ТВ
-http://176.107.250.4:8003/ch118
-#EXTINF:-1 group-title="🟢" ,RU.TV
-http://176.107.250.4:8003/ch119
-#EXTINF:-1 group-title="🟢" ,RUSSIAN MUSIC BOX
-http://176.107.250.4:8003/ch120
-#EXTINF:-1 group-title="🟢" ,BRIDGE РУССКИЙ ХИТ
-http://176.107.250.4:8003/ch187
-#EXTINF:-1 group-title="🟢" ,MEZZO
-http://176.107.250.4:8003/ch188
-#EXTINF:-1 group-title="🟢" ,C MUSIC HD
-http://176.107.250.4:8004/ch121
-#EXTINF:-1 group-title="🟢" ,BRIDGE DELUXE HD
-http://176.107.250.4:8003/ch116
-#EXTINF:-1 group-title="🟢" ,BRIDGE TV
-http://176.107.250.4:8003/ch117
-#EXTINF:-1 group-title="🟢" ,BRIDGE TV CLASSIC
-http://176.107.250.4:8004/ch123
-#EXTINF:-1 group-title="🟢" ,BRIDGE TV HITS
-http://176.107.250.4:8004/ch124
-#EXTINF:-1 group-title="🟢" ,МУЗЫКА ПЕРВОГО
-http://176.107.250.4:8004/ch126
-#EXTINF:-1 group-title="🟢" ,ШАНСОН ТВ
-http://176.107.250.4:8004/ch192
-#EXTINF:-1 group-title="🟢" ,GULLI GIRL
-http://176.107.250.4:8004/ch193
-#EXTINF:-1 group-title="🟢" ,СОЛНЦЕ
-http://176.107.250.4:8004/ch127
-#EXTINF:-1 group-title="🟢" ,МАМА
-http://176.107.250.4:8003/ch86
-#EXTINF:-1 group-title="🟢" ,КАРУСЕЛЬ
-http://176.107.250.4:8001/ch8
-#EXTINF:-1 group-title="🟢" ,NICKELODEON HD
-http://176.107.250.4:8004/ch128
-#EXTINF:-1 group-title="🟢" ,О!
-http://176.107.250.4:8004/ch129
-#EXTINF:-1 group-title="🟢" ,МУЛЬТ
-http://176.107.250.4:8004/ch130
-#EXTINF:-1 group-title="🟢" ,МУЛЬТИМУЗЫКА
-http://176.107.250.4:8004/ch131
-#EXTINF:-1 group-title="🟢" ,В ГОСТЯХ У СКАЗКИ
-http://176.107.250.4:8004/ch133
-#EXTINF:-1 group-title="🟢" ,УНИКУМ
-http://176.107.250.4:8004/ch134
-#EXTINF:-1 group-title="🟢" ,NICKELODEON HD
-http://176.107.250.4:8004/ch135
-#EXTINF:-1 group-title="🟢" ,TIJI
-http://176.107.250.4:8004/ch137
-#EXTINF:-1 group-title="🟢" ,РАДОСТЬ МОЯ
-http://176.107.250.4:8004/ch138
-#EXTINF:-1 group-title="🟢" ,СТС KIDS
-http://176.107.250.4:8004/ch139
-#EXTINF:-1 group-title="🟢" ,NICK JR
-http://176.107.250.4:8004/ch194
-#EXTINF:-1 group-title="🟢" ,БОКС ТВ
-http://176.107.250.4:8004/ch140
-#EXTINF:-1 group-title="🟢" ,Телеканал Футбол
-http://176.107.250.4:8004/ch141
-#EXTINF:-1 group-title="🟢" ,VIASAT SPORT
-http://176.107.250.4:8004/ch144
-#EXTINF:-1 group-title="🟢" ,KHL PRIME
-http://176.107.250.4:8002/ch170
-#EXTINF:-1 group-title="🟢" ,Eurosport 1 HD
-http://176.107.250.4:8001/ch26
-#EXTINF:-1 group-title="🟢" ,МАТЧ ТВ
-http://176.107.250.4:8001/ch3
-#EXTINF:-1 group-title="🟢" ,Extreme Sports
-http://176.107.250.4:8004/ch196
-#EXTINF:-1 group-title="🟢" ,МАТЧ! ИГРА
-http://176.107.250.4:8004/ch215
-#EXTINF:-1 group-title="🟢" ,МАТЧ! АРЕНА
-http://176.107.250.4:8004/ch21
 #EXTINF:-1 group-title="Паутина",ТНТ4
 http://91.236.103.35:10110/play/a05z
 #EXTINF:-1 group-title="Паутина",ТНТ
@@ -349,6 +17,8 @@ http://91.236.103.35:10110/play/a05n
 http://91.236.103.35:10110/play/a00a
 #EXTINF:-1 group-title="Паутина",Россия 1
 http://91.236.103.35:10110/play/a05a
+#EXTINF:-1 group-title="Паутина",Рен ТВ
+http://91.236.103.35:10110/play/a05g
 #EXTINF:-1 group-title="Паутина",Приключения HD
 http://91.236.103.35:10110/play/a08h
 #EXTINF:-1 group-title="Паутина",Поехали!
@@ -593,6 +263,10 @@ http://91.236.103.35:10110/play/a09m
 http://91.236.103.35:10110/play/a012
 #EXTINF:-1 group-title="Паутина",АИСТ
 http://91.236.103.35:10110/play/a09z
+#EXTINF:-1 group-title="Паутина",Авто плюс
+http://91.236.103.35:10110/play/a03a
+#EXTINF:-1 group-title="Паутина",Авто 24
+http://91.236.103.35:10110/play/a03u
 #EXTINF:-1 group-title="Паутина",World Fashion Channel HD
 http://91.236.103.35:10110/play/a09s
 #EXTINF:-1 group-title="Паутина",TV XXI
@@ -733,4 +407,5 @@ http://91.236.103.35:10110/play/a024
 http://91.236.103.35:10110/play/a04u
 #EXTINF:-1 group-title="Паутина",MMA-TV.COM
 http://91.236.103.35:10110/play/a07z
-
+#EXTINF:-1 group-title="Паутина",Extreme Sports
+http://91.236.103.35:10110/play/a025
