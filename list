@@ -7,7 +7,7 @@ http://45.151.28.21:8000/play/a00y/index.m3u8
 http://176.107.250.4:8001/ch2
 #EXTINF:-1 group-title="OlimpTelecom",Россия 1
 http://45.151.28.21:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="🟢" ,РОССИЯ К
+#EXTINF:-1 group-title="🟢" ,ROSSIA К
 http://176.107.250.4:8001/ch6
 #EXTINF:-1 group-title="🟢" ,РОССИЯ 24
 http://176.107.250.4:8001/ch7
