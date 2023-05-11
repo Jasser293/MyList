@@ -1,62 +1,34 @@
 #EXTM3U
-#EXTINF:-1 group-title="🟢" ,Pervij
+#EXTINF:-1 group-title="🟢" ,ПЕРВЫЙ КАНАЛ
 http://176.107.250.4:8001/ch1
-#EXTINF:-1 group-title="🟢" ,Rossia 1
+#EXTINF:-1 group-title="OlimpTelecom",Первый канал
+http://45.151.28.21:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="🟢" ,РОССИЯ 1
 http://176.107.250.4:8001/ch2
-#EXTINF:-1 group-title="🟢" ,Rossia К
+#EXTINF:-1 group-title="OlimpTelecom",Россия 1
+http://45.151.28.21:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="🟢" ,РОССИЯ К
 http://176.107.250.4:8001/ch6
-#EXTINF:-1 group-title="🟢" ,Rossia 24
+#EXTINF:-1 group-title="🟢" ,РОССИЯ 24
 http://176.107.250.4:8001/ch7
-#EXTINF:-1 group-title="Паутина",Первый канал HD +4
-http://91.236.103.35:10110/play/a05o
-#EXTINF:-1 group-title="Паутина",Первый канал
-http://91.236.103.35:10110/play/a059
-#EXTINF:-1 group-title="Паутина",НТВ
-http://91.236.103.35:10110/play/a003
 #EXTINF:-1 group-title="🟢" ,ТНТ
 http://176.107.250.4:8001/ch19
+#EXTINF:-1 group-title="OlimpTelecom",ТНТ
+http://45.151.28.21:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="🟢" ,ТНТ4
 http://176.107.250.4:8001/ch40
-#EXTINF:-1 group-title="Паутина",Рен ТВ
-http://91.236.103.35:10110/play/a05g
 #EXTINF:-1 group-title="🟢" ,НТВ
 http://176.107.250.4:8001/ch4
+#EXTINF:-1 group-title="OlimpTelecom",НТВ
+http://45.151.28.21:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",РЕН ТВ
+http://45.151.28.21:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="🟢" ,НТВ СЕРИАЛ
 http://176.107.250.4:8004/ch122
 #EXTINF:-1 group-title="🟢" ,НТВ ХИТ
 http://176.107.250.4:8004/ch125
-#EXTINF:-1 group-title="Паутина",Авто плюс
-http://91.236.103.35:10110/play/a03a
-#EXTINF:-1 group-title="Паутина",Авто 24
-http://91.236.103.35:10110/play/a03u
-#EXTINF:-1 group-title="🟢" ,Ю
-http://176.107.250.4:8002/ch50
-#EXTINF:-1 group-title="🟢" ,ПЯТНИЦА
-http://176.107.250.4:8001/ch16
-#EXTINF:-1 group-title="🟢" ,ЗВЕЗДА
-http://176.107.250.4:8001/ch17
-#EXTINF:-1 group-title="🟢" ,ДРАЙВ
-http://176.107.250.4:8002/ch42
-#EXTINF:-1 group-title="🟢" ,ОРУЖИЕ
-http://176.107.250.4:8002/ch45
-#EXTINF:-1 group-title="🟢" ,СТС Love
-http://176.107.250.4:8002/ch46
-#EXTINF:-1 group-title="🟢" ,СТС
-http://176.107.250.4:8001/ch13
-#EXTINF:-1 group-title="🟢" ,ЧЕ
-http://176.107.250.4:8002/ch49
-#EXTINF:-1 group-title="🟢" ,ОТР
-http://176.107.250.4:8001/ch9
-#EXTINF:-1 group-title="🟢" ,ТВЦ
-http://176.107.250.4:8001/ch10
-#EXTINF:-1 group-title="🟢" ,ПЯТЫЙ КАНАЛ
-http://176.107.250.4:8001/ch5
-#EXTINF:-1 group-title="🟢" ,ДОМАШНИЙ
-http://176.107.250.4:8001/ch14
-#EXTINF:-1 group-title="🟢" ,ТВ3
-http://176.107.250.4:8001/ch15
-#EXTINF:-1 group-title="🟢" ,МИР
-http://176.107.250.4:8001/ch18
+#EXTINF:-1 group-title="🟢" ,АВТО 24
+http://176.107.250.4:8002/ch80
 #EXTINF:-1 group-title="🟢" ,TRAVEL+ADVENTURE
 http://176.107.250.4:8001/ch24
 #EXTINF:-1 group-title="🟢" ,ДИАЛОГИ О РЫБАЛКЕ
@@ -97,10 +69,36 @@ http://176.107.250.4:8003/ch85
 http://176.107.250.4:8002/ch41
 #EXTINF:-1 group-title="🟢" ,САПФИР
 http://176.107.250.4:8001/ch167
+#EXTINF:-1 group-title="🟢" ,ДРАЙВ
+http://176.107.250.4:8002/ch42
+#EXTINF:-1 group-title="🟢" ,ОРУЖИЕ
+http://176.107.250.4:8002/ch45
+#EXTINF:-1 group-title="🟢" ,СТС Love
+http://176.107.250.4:8002/ch46
+#EXTINF:-1 group-title="🟢" ,СТС
+http://176.107.250.4:8001/ch13
+#EXTINF:-1 group-title="🟢" ,ЧЕ
+http://176.107.250.4:8002/ch49
+#EXTINF:-1 group-title="🟢" ,ОТР
+http://176.107.250.4:8001/ch9
+#EXTINF:-1 group-title="🟢" ,ТВЦ
+http://176.107.250.4:8001/ch10
+#EXTINF:-1 group-title="🟢" ,ДОМАШНИЙ
+http://176.107.250.4:8001/ch14
+#EXTINF:-1 group-title="🟢" ,ТВ3
+http://176.107.250.4:8001/ch15
+#EXTINF:-1 group-title="🟢" ,ЗВЕЗДА
+http://176.107.250.4:8001/ch17
+#EXTINF:-1 group-title="🟢" ,ПЯТНИЦА
+http://176.107.250.4:8001/ch16
+#EXTINF:-1 group-title="🟢" ,МИР
+http://176.107.250.4:8001/ch18
 #EXTINF:-1 group-title="🟢" ,ЛИПЕЦКОЕ ВРЕМЯ
 http://176.107.250.4:8001/ch21
 #EXTINF:-1 group-title="🟢" ,360 HD
 http://176.107.250.4:8001/ch23
+#EXTINF:-1 group-title="🟢" ,Ю
+http://176.107.250.4:8002/ch50
 #EXTINF:-1 group-title="🟢" ,2X2
 http://176.107.250.4:8002/ch51
 #EXTINF:-1 group-title="🟢" ,8 КАНАЛ
@@ -113,6 +111,8 @@ http://176.107.250.4:8002/ch60
 http://176.107.250.4:8001/ch25
 #EXTINF:-1 group-title="🟢" ,МИР 24 HD
 http://176.107.250.4:8001/ch27
+#EXTINF:-1 group-title="🟢" ,ПЯТЫЙ КАНАЛ
+http://176.107.250.4:8001/ch5
 #EXTINF:-1 group-title="🟢" ,Липецкое время
 http://176.107.250.4:8001/ch28
 #EXTINF:-1 group-title="🟢" ,РБК
@@ -165,8 +165,6 @@ http://176.107.250.4:8002/ch75
 http://176.107.250.4:8002/ch78
 #EXTINF:-1 group-title="🟢" ,ЗООПАРК
 http://176.107.250.4:8002/ch79
-#EXTINF:-1 group-title="🟢" ,АВТО 24
-http://176.107.250.4:8002/ch80
 #EXTINF:-1 group-title="🟢" ,WORLD FASHION TV
 http://176.107.250.4:8002/ch172
 #EXTINF:-1 group-title="🟢" ,ПОЕХАЛИ!
@@ -337,401 +335,113 @@ http://176.107.250.4:8004/ch196
 http://176.107.250.4:8004/ch215
 #EXTINF:-1 group-title="🟢" ,МАТЧ! АРЕНА
 http://176.107.250.4:8004/ch21
-#EXTINF:-1 group-title="Паутина",ТНТ4
-http://91.236.103.35:10110/play/a05z
-#EXTINF:-1 group-title="Паутина",ТНТ
-http://91.236.103.35:10110/play/a004
-#EXTINF:-1 group-title="Паутина",Россия К
-http://91.236.103.35:10110/play/a05h
-#EXTINF:-1 group-title="Паутина",Россия HD
-http://91.236.103.35:10110/play/a05n
-#EXTINF:-1 group-title="Паутина",Россия 24
-http://91.236.103.35:10110/play/a00a
-#EXTINF:-1 group-title="Паутина",Россия 1
-http://91.236.103.35:10110/play/a05a
-#EXTINF:-1 group-title="Паутина",Приключения HD
-http://91.236.103.35:10110/play/a08h
-#EXTINF:-1 group-title="Паутина",Поехали!
-http://91.236.103.35:10110/play/a091
-#EXTINF:-1 group-title="Паутина",Планета HD
-http://91.236.103.35:10110/play/a072
-#EXTINF:-1 group-title="Паутина",Первый Образовательный
-http://91.236.103.35:10110/play/a03f
-#EXTINF:-1 group-title="Паутина",Охотник и рыболов HD
-http://91.236.103.35:10110/play/a08c
-#EXTINF:-1 group-title="Паутина",Охотник и рыболов
-http://91.236.103.35:10110/play/a071
-#EXTINF:-1 group-title="Паутина",Охота и Рыбалка
-http://91.236.103.35:10110/play/a03v
-#EXTINF:-1 group-title="Паутина",Живая природа HD
-http://91.236.103.35:10110/play/a0a6
-#EXTINF:-1 group-title="Паутина",Живая планета
-http://91.236.103.35:10110/play/a07k
-#EXTINF:-1 group-title="Паутина",Глазами туриста HD
-http://91.236.103.35:10110/play/a0a7
-#EXTINF:-1 group-title="Паутина",RTG TV
-http://91.236.103.35:10110/play/a03c
-#EXTINF:-1 group-title="Паутина",RTG HD
-http://91.236.103.35:10110/play/a05q
-#EXTINF:-1 group-title="Паутина",Ocean TV
-http://91.236.103.35:10110/play/a03x
-#EXTINF:-1 group-title="Паутина",HD life
-http://91.236.103.35:10110/play/a08m
-#EXTINF:-1 group-title="Паутина",Дикий
-http://91.236.103.35:10110/play/a07j
-#EXTINF:-1 group-title="Паутина",Terra HD
-http://91.236.103.35:10110/play/a09p
-#EXTINF:-1 group-title="Паутина",Большая Азия HD
-http://91.236.103.35:10110/play/a09d
-#EXTINF:-1 group-title="Паутина",Galaxy
-http://91.236.103.35:10110/play/a040
-#EXTINF:-1 group-title="Паутина",Ювелирочка
-http://91.236.103.35:10110/play/a0a0
-#EXTINF:-1 group-title="Паутина",Ю
-http://91.236.103.35:10110/play/a04k
-#EXTINF:-1 group-title="Паутина",Че
-http://91.236.103.35:10110/play/a00b
-#EXTINF:-1 group-title="Паутина",Три Ангела
-http://91.236.103.35:10110/play/a09a
-#EXTINF:-1 group-title="Паутина",Точка ТВ
-http://91.236.103.35:10110/play/a07d
-#EXTINF:-1 group-title="Паутина",Тномер
-http://91.236.103.35:10110/play/a09g
-#EXTINF:-1 group-title="Паутина",ТНВ-Татарстан
-http://91.236.103.35:10110/play/a015
-#EXTINF:-1 group-title="Паутина",ТНВ-Планета
-http://91.236.103.35:10110/play/a07f
-#EXTINF:-1 group-title="Паутина",ТИВИСИ HD
-http://91.236.103.35:10110/play/a09y
-#EXTINF:-1 group-title="Паутина",Телекафе
-http://91.236.103.35:10110/play/a092
-#EXTINF:-1 group-title="Паутина",2x2
-http://91.236.103.35:10110/play/a045
-#EXTINF:-1 group-title="Паутина",Теледом HD
-http://91.236.103.35:10110/play/a08n
-#EXTINF:-1 group-title="Паутина",Театр
-http://91.236.103.35:10110/play/a09x
-#EXTINF:-1 group-title="Паутина",ТДК
-http://91.236.103.35:10110/play/a04n
-#EXTINF:-1 group-title="Паутина",ТВЦ
-http://91.236.103.35:10110/play/a05e
-#EXTINF:-1 group-title="Паутина",ТВ3
-http://91.236.103.35:10110/play/a006
-#EXTINF:-1 group-title="Паутина",ТБН
-http://91.236.103.35:10110/play/a00n
-#EXTINF:-1 group-title="Паутина",Супергерои
-http://91.236.103.35:10110/play/a06e
-#EXTINF:-1 group-title="Паутина",Суббота
-http://91.236.103.35:10110/play/a087
-#EXTINF:-1 group-title="Паутина",СТС Love
-http://91.236.103.35:10110/play/a043
-#EXTINF:-1 group-title="Паутина",СТС
-http://91.236.103.35:10110/play/a005
-#EXTINF:-1 group-title="Паутина",Спас
-http://91.236.103.35:10110/play/a05k
-#EXTINF:-1 group-title="Паутина",Союз
-http://91.236.103.35:10110/play/a00c
-#EXTINF:-1 group-title="Паутина",Солнце
-http://91.236.103.35:10110/play/a01m
-#EXTINF:-1 group-title="Паутина",Совершенно секретно
-http://91.236.103.35:10110/play/a03z
-#EXTINF:-1 group-title="Паутина",Сарафан
-http://91.236.103.35:10110/play/a052
-#EXTINF:-1 group-title="Паутина",Сапфир
-http://91.236.103.35:10110/play/a02k
-#EXTINF:-1 group-title="Паутина",Санкт-Петербург
-http://91.236.103.35:10110/play/a00y
-#EXTINF:-1 group-title="Паутина",Русский роман HD
-http://91.236.103.35:10110/play/a06t
-#EXTINF:-1 group-title="Паутина",Русский роман
-http://91.236.103.35:10110/play/a02v
-#EXTINF:-1 group-title="Паутина",Русский Иллюзион
-http://91.236.103.35:10110/play/a021
-#EXTINF:-1 group-title="Паутина",Русский детектив
-http://91.236.103.35:10110/play/a06w
-#EXTINF:-1 group-title="Паутина",Русский бестселлер
-http://91.236.103.35:10110/play/a02u
-#EXTINF:-1 group-title="Паутина",Родное кино
-http://91.236.103.35:10110/play/a067
-#EXTINF:-1 group-title="Паутина",РЖД ТВ
-http://91.236.103.35:10110/play/a09i
-#EXTINF:-1 group-title="Паутина",РБК
-http://91.236.103.35:10110/play/a00m
-#EXTINF:-1 group-title="Паутина",Ратник
-http://91.236.103.35:10110/play/a07w
-#EXTINF:-1 group-title="Паутина",Радость моя
-http://91.236.103.35:10110/play/a01k
-#EXTINF:-1 group-title="Паутина",Пятница
-http://91.236.103.35:10110/play/a009
-#EXTINF:-1 group-title="Паутина",Просвещение
-http://91.236.103.35:10110/play/a032
-#EXTINF:-1 group-title="Паутина",ОТР
-http://91.236.103.35:10110/play/a05i
-#EXTINF:-1 group-title="Паутина",Открытый мир
-http://91.236.103.35:10110/play/a09e
-#EXTINF:-1 group-title="Паутина",Оружие
-http://91.236.103.35:10110/play/a03r
-#EXTINF:-1 group-title="Паутина",О2ТВ HD
-http://91.236.103.35:10110/play/a094
-#EXTINF:-1 group-title="Паутина",О! Кино
-http://91.236.103.35:10110/play/a08w
-#EXTINF:-1 group-title="Паутина",О!
-http://91.236.103.35:10110/play/a08s
-#EXTINF:-1 group-title="Паутина",НСТВ
-http://91.236.103.35:10110/play/a02l
-#EXTINF:-1 group-title="Паутина",Ностальгия
-http://91.236.103.35:10110/play/a01a
-#EXTINF:-1 group-title="Паутина",Наше новое кино
-http://91.236.103.35:10110/play/a02f
-#EXTINF:-1 group-title="Паутина",Наука 2.0
-http://91.236.103.35:10110/play/a03t
-#EXTINF:-1 group-title="Паутина",Нано ТВ
-http://91.236.103.35:10110/play/a06g
-#EXTINF:-1 group-title="Паутина",Мужской
-http://91.236.103.35:10110/play/a03y
-#EXTINF:-1 group-title="Паутина",Мужское кино HD
-http://91.236.103.35:10110/play/a07y
-#EXTINF:-1 group-title="Паутина",Моя планета
-http://91.236.103.35:10110/play/a03w
-#EXTINF:-1 group-title="Паутина",Мир сериала
-http://91.236.103.35:10110/play/a06b
-#EXTINF:-1 group-title="Паутина",Мир 24
-http://91.236.103.35:10110/play/a00k
-#EXTINF:-1 group-title="Паутина",Мир
-http://91.236.103.35:10110/play/a05j
-#EXTINF:-1 group-title="Паутина",Мама
-http://91.236.103.35:10110/play/a08z
-#EXTINF:-1 group-title="Паутина",Ля-минор
-http://91.236.103.35:10110/play/a04m
-#EXTINF:-1 group-title="Паутина",Любимое кино
-http://91.236.103.35:10110/play/a064
-#EXTINF:-1 group-title="Паутина",ЛДПР ТВ
-http://91.236.103.35:10110/play/a00q
-#EXTINF:-1 group-title="Паутина",Кухня ТВ
-http://91.236.103.35:10110/play/a02y
-#EXTINF:-1 group-title="Паутина",Кто есть кто
-http://91.236.103.35:10110/play/a03o
-#EXTINF:-1 group-title="Паутина",Красная Линия
-http://91.236.103.35:10110/play/a00g
-#EXTINF:-1 group-title="Паутина",Кинохит HD
-http://91.236.103.35:10110/play/a063
-#EXTINF:-1 group-title="Паутина",Киноужас
-http://91.236.103.35:10110/play/a07p
-#EXTINF:-1 group-title="Паутина",Киносерия HD
-http://91.236.103.35:10110/play/a066
-#EXTINF:-1 group-title="Паутина",Киносемья HD
-http://91.236.103.35:10110/play/a07i
-#EXTINF:-1 group-title="Паутина",Индийское Кино
-http://91.236.103.35:10110/play/a02e
-#EXTINF:-1 group-title="Паутина",Киносвидание HD
-http://91.236.103.35:10110/play/a02h
-#EXTINF:-1 group-title="Паутина",Кинопремьера HD
-http://91.236.103.35:10110/play/a060
-#EXTINF:-1 group-title="Паутина",Кинопоказ
-http://91.236.103.35:10110/play/a06v
-#EXTINF:-1 group-title="Паутина",Киномикс HD
-http://91.236.103.35:10110/play/a065
-#EXTINF:-1 group-title="Паутина",Киноман
-http://91.236.103.35:10110/play/a0a3
-#EXTINF:-1 group-title="Паутина",Кинокомедия HD
-http://91.236.103.35:10110/play/a01z
-#EXTINF:-1 group-title="Паутина",Кино ТВ HD
-http://91.236.103.35:10110/play/a06s
-#EXTINF:-1 group-title="Паутина",Кино ТВ
-http://91.236.103.35:10110/play/a02q
-#EXTINF:-1 group-title="Паутина",Кинеко
-http://91.236.103.35:10110/play/a06r
-#EXTINF:-1 group-title="Паутина",КВН ТВ
-http://91.236.103.35:10110/play/a08b
-#EXTINF:-1 group-title="Паутина",Калейдоскоп ТВ
-http://91.236.103.35:10110/play/a09h
-#EXTINF:-1 group-title="Паутина",История
-http://91.236.103.35:10110/play/a073
-#EXTINF:-1 group-title="Паутина",Индия
-http://91.236.103.35:10110/play/a062
-#EXTINF:-1 group-title="Паутина",Известия HD
-http://91.236.103.35:10110/play/a0a1
-#EXTINF:-1 group-title="Паутина",Зоопарк
-http://91.236.103.35:10110/play/a03m
-#EXTINF:-1 group-title="Паутина",Зоо ТВ
-http://91.236.103.35:10110/play/a07x
-#EXTINF:-1 group-title="Паутина",Здоровье
-http://91.236.103.35:10110/play/a09f
-#EXTINF:-1 group-title="Паутина",Звезда
-http://91.236.103.35:10110/play/a05f
-#EXTINF:-1 group-title="Паутина",Загородная жизнь
-http://91.236.103.35:10110/play/a06h
-#EXTINF:-1 group-title="Паутина",Жара
-http://91.236.103.35:10110/play/a09k
-#EXTINF:-1 group-title="Паутина",Еда Премиум
-http://91.236.103.35:10110/play/a08g
-#EXTINF:-1 group-title="Паутина",Еда
-http://91.236.103.35:10110/play/a03i
-#EXTINF:-1 group-title="Паутина",ЕГЭ ТВ
-http://91.236.103.35:10110/play/a089
-#EXTINF:-1 group-title="Паутина",Европа Плюс ТВ
-http://91.236.103.35:10110/play/a04l
-#EXTINF:-1 group-title="Паутина",Еврокино
-http://91.236.103.35:10110/play/a02d
-#EXTINF:-1 group-title="Паутина",Домашний
-http://91.236.103.35:10110/play/a05c
-#EXTINF:-1 group-title="Паутина",Дом Кино Премиум HD
-http://91.236.103.35:10110/play/a08v
-#EXTINF:-1 group-title="Паутина",Дом Кино
-http://91.236.103.35:10110/play/a031
-#EXTINF:-1 group-title="Паутина",Доктор
-http://91.236.103.35:10110/play/a08y
-#EXTINF:-1 group-title="Паутина",Губерния
-http://91.236.103.35:10110/play/a001
-#EXTINF:-1 group-title="Паутина",Время
-http://91.236.103.35:10110/play/a09l
-#EXTINF:-1 group-title="Паутина",Вместе-РФ
-http://91.236.103.35:10110/play/a00l
-#EXTINF:-1 group-title="Паутина",БелРос
-http://91.236.103.35:10110/play/a09m
-#EXTINF:-1 group-title="Паутина",Беларусь 24
-http://91.236.103.35:10110/play/a012
-#EXTINF:-1 group-title="Паутина",АИСТ
-http://91.236.103.35:10110/play/a09z
-#EXTINF:-1 group-title="Паутина",World Fashion Channel HD
-http://91.236.103.35:10110/play/a09s
-#EXTINF:-1 group-title="Паутина",TV XXI
-http://91.236.103.35:10110/play/a02x
-#EXTINF:-1 group-title="Паутина",TV 1000 Русское кино
-http://91.236.103.35:10110/play/a02o
-#EXTINF:-1 group-title="Паутина",TV 1000
-http://91.236.103.35:10110/play/a02n
-#EXTINF:-1 group-title="Паутина",TOP SHOP TV
-http://91.236.103.35:10110/play/a00u
-#EXTINF:-1 group-title="Паутина",.Sci-fi
-http://91.236.103.35:10110/play/a01u
-#EXTINF:-1 group-title="Паутина",Gags Network
-http://91.236.103.35:10110/play/a0a4
-#EXTINF:-1 group-title="Паутина",FoodTime
-http://91.236.103.35:10110/play/a0a5
-#EXTINF:-1 group-title="Паутина",Fashion One HD
-http://91.236.103.35:10110/play/a095
-#EXTINF:-1 group-title="Паутина",Fashion HD
-http://91.236.103.35:10110/play/a05s
-#EXTINF:-1 group-title="Паутина",Fan
-http://91.236.103.35:10110/play/a09c
-#EXTINF:-1 group-title="Паутина",Amedia Premium HD
-http://91.236.103.35:10110/play/a056
-#EXTINF:-1 group-title="Паутина",Amedia Hit HD
-http://91.236.103.35:10110/play/a058
-#EXTINF:-1 group-title="Паутина",Amedia 2
-http://91.236.103.35:10110/play/a054
-#EXTINF:-1 group-title="Паутина",Amedia 1
-http://91.236.103.35:10110/play/a053
-#EXTINF:-1 group-title="Паутина",9 Волна
-http://91.236.103.35:10110/play/a04f
-#EXTINF:-1 group-title="Паутина",8 Канал
-http://91.236.103.35:10110/play/a013
-#EXTINF:-1 group-title="Паутина",7 TV
-http://91.236.103.35:10110/play/a09j
-#EXTINF:-1 group-title="Паутина",5 Канал
-http://91.236.103.35:10110/play/a05d
-#EXTINF:-1 group-title="Паутина",365 дней
-http://91.236.103.35:10110/play/a03n
-#EXTINF:-1 group-title="Паутина",.red
-http://91.236.103.35:10110/play/a02j
-#EXTINF:-1 group-title="Паутина",.black
-http://91.236.103.35:10110/play/a036
-#EXTINF:-1 group-title="Паутина",Ani
-http://91.236.103.35:10110/play/a07q
-#EXTINF:-1 group-title="Паутина",Карусель
-http://91.236.103.35:10110/play/a05b
-#EXTINF:-1 group-title="Паутина",Мультимузыка
-http://91.236.103.35:10110/play/a07h
-#EXTINF:-1 group-title="Паутина",Мультиландия
-http://91.236.103.35:10110/play/a07r
-#EXTINF:-1 group-title="Паутина",Рыжий
-http://91.236.103.35:10110/play/a07s
-#EXTINF:-1 group-title="Паутина",Бобер
-http://91.236.103.35:10110/play/a090
-#EXTINF:-1 group-title="Паутина",Смайлик ТВ
-http://91.236.103.35:10110/play/a09o
-#EXTINF:-1 group-title="Паутина",Детский мир
-http://91.236.103.35:10110/play/a01p
-#EXTINF:-1 group-title="Паутина",СТС Kids HD
-http://91.236.103.35:10110/play/a08u
-#EXTINF:-1 group-title="Паутина",Уникум
-http://91.236.103.35:10110/play/a07v
-#EXTINF:-1 group-title="Паутина",Мульт HD
-http://91.236.103.35:10110/play/a08r
-#EXTINF:-1 group-title="Паутина",Мульт
-http://91.236.103.35:10110/play/a01o
-#EXTINF:-1 group-title="Паутина",1HD
-http://91.236.103.35:10110/play/a08a
-#EXTINF:-1 group-title="Паутина",AIVA HD
-http://91.236.103.35:10110/play/a083
-#EXTINF:-1 group-title="Паутина",Europa Plus TV HD
-http://91.236.103.35:10110/play/a0a8
-#EXTINF:-1 group-title="Паутина",RUSSIAN MUSICBOX
-http://91.236.103.35:10110/play/a041
-#EXTINF:-1 group-title="Паутина",Музыка первого
-http://91.236.103.35:10110/play/a01v
-#EXTINF:-1 group-title="Паутина",МУЗ ТВ
-http://91.236.103.35:10110/play/a007
-#EXTINF:-1 group-title="Паутина",ТНТ Music
-http://91.236.103.35:10110/play/a079
-#EXTINF:-1 group-title="Паутина",Шансон ТВ
-http://91.236.103.35:10110/play/a04x
-#EXTINF:-1 group-title="Паутина",RU.TV
-http://91.236.103.35:10110/play/a04c
-#EXTINF:-1 group-title="Паутина",Bridge TV Русский Хит
-http://91.236.103.35:10110/play/a09t
-#EXTINF:-1 group-title="Паутина",Bridge TV Hits
-http://91.236.103.35:10110/play/a093
-#EXTINF:-1 group-title="Паутина",Bridge TV Deluxe
-http://91.236.103.35:10110/play/a084
-#EXTINF:-1 group-title="Паутина",Bridge TV Classic
-http://91.236.103.35:10110/play/a07b
-#EXTINF:-1 group-title="Паутина",Bridge TV
-http://91.236.103.35:10110/play/a04h
-#EXTINF:-1 group-title="Паутина",МАТЧ! Футбол 1 HD
-http://91.236.103.35:10110/play/a08k
-#EXTINF:-1 group-title="Паутина",МАТЧ! Футбол 2 HD
-http://91.236.103.35:10110/play/a048
-#EXTINF:-1 group-title="Паутина",МАТЧ! Футбол 3 HD
-http://91.236.103.35:10110/play/a04a
-#EXTINF:-1 group-title="Паутина",МАТЧ! Футбол 1
-http://91.236.103.35:10110/play/a01y
-#EXTINF:-1 group-title="Паутина",Старт HD
-http://91.236.103.35:10110/play/a09v
-#EXTINF:-1 group-title="Паутина",Футбол HD
-http://91.236.103.35:10110/play/a080
-#EXTINF:-1 group-title="Паутина",Футбол
-http://91.236.103.35:10110/play/a01w
-#EXTINF:-1 group-title="Паутина",Матч! Страна
-http://91.236.103.35:10110/play/a06l
-#EXTINF:-1 group-title="Паутина",Матч! Игра HD
-http://91.236.103.35:10110/play/a06n
-#EXTINF:-1 group-title="Паутина",Матч! Игра
-http://91.236.103.35:10110/play/a06k
-#EXTINF:-1 group-title="Паутина",Матч! БОЕЦ
-http://91.236.103.35:10110/play/a02b
-#EXTINF:-1 group-title="Паутина",Матч! Арена HD
-http://91.236.103.35:10110/play/a06m
-#EXTINF:-1 group-title="Паутина",Матч! Арена
-http://91.236.103.35:10110/play/a06i
-#EXTINF:-1 group-title="Паутина",Матч ТВ HD
-http://91.236.103.35:10110/play/a05t
-#EXTINF:-1 group-title="Паутина",Матч ТВ
-http://91.236.103.35:10110/play/a008
-#EXTINF:-1 group-title="Паутина",Бокс ТВ
-http://91.236.103.35:10110/play/a06j
-#EXTINF:-1 group-title="Паутина",Мир баскетбола
-http://91.236.103.35:10110/play/a08j
-#EXTINF:-1 group-title="Паутина",Матч Премьер HD
-http://91.236.103.35:10110/play/a08q
-#EXTINF:-1 group-title="Паутина",Матч Премьер
-http://91.236.103.35:10110/play/a081
-#EXTINF:-1 group-title="Паутина",КХЛ
-http://91.236.103.35:10110/play/a024
-#EXTINF:-1 group-title="Паутина",KHL HD
-http://91.236.103.35:10110/play/a04u
-#EXTINF:-1 group-title="Паутина",MMA-TV.COM
-http://91.236.103.35:10110/play/a07z
-#EXTINF:-1 group-title="Паутина",Extreme Sports
-http://91.236.103.35:10110/play/a025
+#EXTINF:-1 group-title="OlimpTelecom",Россия К
+http://45.151.28.21:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Россия 24
+http://45.151.28.21:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Моя планета
+http://45.151.28.21:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Охота и рыбалка
+http://45.151.28.21:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Пятый канал
+http://45.151.28.21:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",ОТР
+http://45.151.28.21:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",ТВЦ
+http://45.151.28.21:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",СПАС
+http://45.151.28.21:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",СТС
+http://45.151.28.21:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Домашний
+http://45.151.28.21:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",ТВ3
+http://45.151.28.21:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",ПЯТНИЦА
+http://45.151.28.21:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Звезда
+http://45.151.28.21:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",МИР
+http://45.151.28.21:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",2X2
+http://45.151.28.21:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Дом Кино
+http://45.151.28.21:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",ЕвроКино
+http://45.151.28.21:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Русский Иллюзион
+http://45.151.28.21:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",КИНО ТВ
+http://45.151.28.21:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Комедия
+http://45.151.28.21:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Русский бестселлер
+http://45.151.28.21:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",СТС Love
+http://45.151.28.21:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Че
+http://45.151.28.21:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Иллюзион+
+http://45.151.28.21:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Ю
+http://45.151.28.21:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Время
+http://45.151.28.21:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Усадьба
+http://45.151.28.21:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Доктор
+http://45.151.28.21:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",ЖИВИ!
+http://45.151.28.21:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",World Fashion
+http://45.151.28.21:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Москва Доверие
+http://45.151.28.21:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",ДОМАШНИЕ ЖИВОТНЫЕ
+http://45.151.28.21:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",РБК
+http://45.151.28.21:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Русский роман
+http://45.151.28.21:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",TV1000 Action
+http://45.151.28.21:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",TV1000
+http://45.151.28.21:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",TV1000 Русское кино
+http://45.151.28.21:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Домашний
+http://45.151.28.21:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Звезда
+http://45.151.28.21:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",БОБЁР
+http://45.151.28.21:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",КАРУСЕЛЬ
+http://45.151.28.21:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",ПОБЕДА
+http://45.151.28.21:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",ТВ3
+http://45.151.28.21:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",BRIDGE TV Русский Хит
+http://45.151.28.21:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Муз ТВ
+http://45.151.28.21:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Музыка Первого
+http://45.151.28.21:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",ТНТ MUSIC
+http://45.151.28.21:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",МАМА
+http://45.151.28.21:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",В гостях у сказки
+http://45.151.28.21:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Мульт
+http://45.151.28.21:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",Солнце
+http://45.151.28.21:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",МАТЧ ТВ
+http://45.151.28.21:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",МАТЧ ПРЕМЬЕР
+http://45.151.28.21:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",МАТЧ! БОЕЦ
+http://45.151.28.21:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="OlimpTelecom",KHL
+http://45.151.28.21:8000/play/a00d/index.m3u8
