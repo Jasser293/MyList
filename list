@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="🟢" ,Pervij
+#EXTINF:-1 ,Pervij
 http://176.107.250.4:8001/ch1
-#EXTINF:-1 group-title="OlimpTelecom",Pervij
+#EXTINF:-1 ,Pervij
 http://45.151.28.21:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="🟢" ,Rossia 1
+#EXTINF:-1 ,Rossia 1
 http://176.107.250.4:8001/ch2
-#EXTINF:-1 group-title="OlimpTelecom",Rossia 1
+#EXTINF:-1 ,Rossia 1
 http://45.151.28.21:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="🟢" ,ROSSIA К
 http://176.107.250.4:8001/ch6
-#EXTINF:-1 group-title="🟢" ,РОССИЯ 24
+#EXTINF:-1 group-title="🟢" ,Rossia 24
 http://176.107.250.4:8001/ch7
 #EXTINF:-1 group-title="🟢" ,ТНТ
 http://176.107.250.4:8001/ch19
