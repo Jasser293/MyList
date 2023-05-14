@@ -1,745 +1,767 @@
 #EXTM3U
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://176.107.250.4:8001/ch1
+#EXTINF:-1 ,Первый канал HD +4
+http://5.153.190.251:8001/play/a0b4
+#EXTINF:-1 ,Первый канал HD
+http://5.153.190.251:8001/play/a04e
+#EXTINF:-1 ,Первый канал +4
+http://5.153.190.251:8001/play/a0b3
+#EXTINF:-1 ,Первый канал +2
+http://5.153.190.251:8001/play/a0b2
 #EXTINF:-1 ,Первый канал
-http://45.151.28.21:8000/play/a00y/index.m3u8
-#EXTINF:-1 ,РОССИЯ 1
-http://176.107.250.4:8001/ch2
-#EXTINF:-1 ,Россия 1
-http://45.151.28.21:8000/play/a010/index.m3u8
-#EXTINF:-1 ,РОССИЯ К
-http://176.107.250.4:8001/ch6
-#EXTINF:-1 ,РОССИЯ 24
-http://176.107.250.4:8001/ch7
-#EXTINF:-1 ,ТНТ
-http://176.107.250.4:8001/ch19
-#EXTINF:-1 ,ТНТ
-http://45.151.28.21:8000/play/a00n/index.m3u8
-#EXTINF:-1 ,ТНТ4
-http://176.107.250.4:8001/ch40
-#EXTINF:-1 ,НТВ
-http://176.107.250.4:8001/ch4
-#EXTINF:-1 ,НТВ
-http://45.151.28.21:8000/play/a00o/index.m3u8
+http://5.153.190.251:8003/play/a04f
+#EXTINF:-1 ,РЕН ТВ +4
+http://5.153.190.251:8001/play/a0b9
+#EXTINF:-1 ,РЕН ТВ +2
+http://5.153.190.251:8001/play/a0b8
 #EXTINF:-1 ,РЕН ТВ
-http://45.151.28.21:8000/play/a013/index.m3u8
-#EXTINF:-1 ,НТВ СЕРИАЛ
-http://176.107.250.4:8004/ch122
-#EXTINF:-1 ,НТВ ХИТ
-http://176.107.250.4:8004/ch125
-#EXTINF:-1 ,АВТО 24
-http://176.107.250.4:8002/ch80
-#EXTINF:-1 ,TRAVEL+ADVENTURE
-http://176.107.250.4:8001/ch24
-#EXTINF:-1 ,ДИАЛОГИ О РЫБАЛКЕ
-http://176.107.250.4:8001/ch162
-#EXTINF:-1 ,ТОЧКА ОТРЫВА
-http://176.107.250.4:8001/ch163
-#EXTINF:-1 ,BIG PLANET
-http://176.107.250.4:8001/ch166
-#EXTINF:-1 ,TERRA
-http://176.107.250.4:8001/ch168
-#EXTINF:-1 ,ДИКИЙ
-http://176.107.250.4:8002/ch57
-#EXTINF:-1 ,ОТКРЫТЫЙ МИР
-http://176.107.250.4:8002/ch58
-#EXTINF:-1 ,ЖИВАЯ ПРИРОДА
-http://176.107.250.4:8002/ch59
-#EXTINF:-1 ,ОХОТА И РЫБАЛКА
-http://176.107.250.4:8002/ch69
-#EXTINF:-1 ,VIASAT NATURE
-http://176.107.250.4:8002/ch76
-#EXTINF:-1 ,RTG HD
-http://176.107.250.4:8002/ch77
-#EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://176.107.250.4:8002/ch174
-#EXTINF:-1 ,TRAVEL HD
-http://176.107.250.4:8002/ch171
-#EXTINF:-1 ,ГЛАЗАМИ ТУРИСТА HD
-http://176.107.250.4:8003/ch84
-#EXTINF:-1 ,МОЯ СТИХИЯ
-http://176.107.250.4:8003/ch115
-#EXTINF:-1 ,ТЕХНО 24
-http://176.107.250.4:8002/ch72
-#EXTINF:-1 ,НАУКА
-http://176.107.250.4:8003/ch90
-#EXTINF:-1 ,ИСТОРИЯ
-http://176.107.250.4:8003/ch85
-#EXTINF:-1 ,ТАНЦУЙ
-http://176.107.250.4:8002/ch41
-#EXTINF:-1 ,САПФИР
-http://176.107.250.4:8001/ch167
-#EXTINF:-1 ,ДРАЙВ
-http://176.107.250.4:8002/ch42
-#EXTINF:-1 ,ОРУЖИЕ
-http://176.107.250.4:8002/ch45
-#EXTINF:-1 ,СТС Love
-http://176.107.250.4:8002/ch46
-#EXTINF:-1 ,СТС
-http://176.107.250.4:8001/ch13
-#EXTINF:-1 ,ЧЕ
-http://176.107.250.4:8002/ch49
-#EXTINF:-1 ,ОТР
-http://176.107.250.4:8001/ch9
-#EXTINF:-1 ,ТВЦ
-http://176.107.250.4:8001/ch10
-#EXTINF:-1 ,ДОМАШНИЙ
-http://176.107.250.4:8001/ch14
-#EXTINF:-1 ,ТВ3
-http://176.107.250.4:8001/ch15
-#EXTINF:-1 ,ЗВЕЗДА
-http://176.107.250.4:8001/ch17
-#EXTINF:-1 ,ПЯТНИЦА
-http://176.107.250.4:8001/ch16
-#EXTINF:-1 ,МИР
-http://176.107.250.4:8001/ch18
-#EXTINF:-1 ,ЛИПЕЦКОЕ ВРЕМЯ
-http://176.107.250.4:8001/ch21
-#EXTINF:-1 ,360 HD
-http://176.107.250.4:8001/ch23
-#EXTINF:-1 ,Ю
-http://176.107.250.4:8002/ch50
-#EXTINF:-1 ,2X2
-http://176.107.250.4:8002/ch51
-#EXTINF:-1 ,8 КАНАЛ
-http://176.107.250.4:8002/ch52
-#EXTINF:-1 ,ФЕНИКС+КИНО
-http://176.107.250.4:8002/ch55
-#EXTINF:-1 ,ПРОДВИЖЕНИЕ
-http://176.107.250.4:8002/ch60
-#EXTINF:-1 ,CGTN
-http://176.107.250.4:8001/ch25
-#EXTINF:-1 ,МИР 24 HD
-http://176.107.250.4:8001/ch27
-#EXTINF:-1 ,ПЯТЫЙ КАНАЛ
-http://176.107.250.4:8001/ch5
-#EXTINF:-1 ,Липецкое время
-http://176.107.250.4:8001/ch28
-#EXTINF:-1 ,РБК
-http://176.107.250.4:8001/ch30
-#EXTINF:-1 ,ИЗВЕСТИЯ
-http://176.107.250.4:8001/ch35
-#EXTINF:-1 ,TV1000
-http://176.107.250.4:8001/ch36
-#EXTINF:-1 ,Women's Magazine
-http://176.107.250.4:8001/ch37
-#EXTINF:-1 ,СОMEDY CENTRAL
-http://176.107.250.4:8001/ch39
-#EXTINF:-1 ,МОСКВА 24
-http://176.107.250.4:8001/ch159
-#EXTINF:-1 ,РАДОСТЬ МОЯ
-http://176.107.250.4:8001/ch160
-#EXTINF:-1 ,HOLLYWOOD
-http://176.107.250.4:8001/ch161
-#EXTINF:-1 ,САРАФАН
-http://176.107.250.4:8002/ch61
-#EXTINF:-1 ,ЕДА HD
-http://176.107.250.4:8002/ch62
-#EXTINF:-1 ,ТЕЛЕКАФЕ
-http://176.107.250.4:8002/ch63
-#EXTINF:-1 ,КВН ТВ
-http://176.107.250.4:8002/ch64
-#EXTINF:-1 ,ВОПРОСЫ И ОТВЕТЫ
-http://176.107.250.4:8002/ch65
-#EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
-http://176.107.250.4:8002/ch66
-#EXTINF:-1 ,ЗДОРОВОЕ ТВ
-http://176.107.250.4:8002/ch67
-#EXTINF:-1 ,КАЛЕЙДОСКОП ТВ
-http://176.107.250.4:8002/ch68
-#EXTINF:-1 ,ПСИХОЛОГИЯ 21
-http://176.107.250.4:8002/ch70
-#EXTINF:-1 ,КИНОСЕМЬЯ
-http://176.107.250.4:8002/ch71
-#EXTINF:-1 ,КИНОХИТ
-http://176.107.250.4:8002/ch169
-#EXTINF:-1 ,КИНОУЖАС
-http://176.107.250.4:8003/ch97
-#EXTINF:-1 ,ТНОМЕР
-http://176.107.250.4:8002/ch73
-#EXTINF:-1 ,УСАДЬБА
-http://176.107.250.4:8002/ch74
-#EXTINF:-1 ,СУББОТА
-http://176.107.250.4:8002/ch75
-#EXTINF:-1 ,TLC
-http://176.107.250.4:8002/ch78
-#EXTINF:-1 ,ЗООПАРК
-http://176.107.250.4:8002/ch79
-#EXTINF:-1 ,WORLD FASHION TV
-http://176.107.250.4:8002/ch172
-#EXTINF:-1 ,ПОЕХАЛИ!
-http://176.107.250.4:8002/ch173
-#EXTINF:-1 ,ЖАРА
-http://176.107.250.4:8002/ch175
-#EXTINF:-1 ,AMEDIA HIT
-http://176.107.250.4:8002/ch176
-#EXTINF:-1 ,Amedia Premium
-http://176.107.250.4:8002/ch177
-#EXTINF:-1 ,Amedia 1
-http://176.107.250.4:8002/ch178
-#EXTINF:-1 ,ПОБЕДА
-http://176.107.250.4:8002/ch47
-#EXTINF:-1 ,БОБЕР
-http://176.107.250.4:8003/ch81
-#EXTINF:-1 ,ВРЕМЯ
-http://176.107.250.4:8003/ch82
-#EXTINF:-1 ,ДОКТОР
-http://176.107.250.4:8003/ch83
-#EXTINF:-1 ,SHOT TV
-http://176.107.250.4:8003/ch91
-#EXTINF:-1 ,АIVA
-http://176.107.250.4:8003/ch92
-#EXTINF:-1 ,БЕЛРОС
-http://176.107.250.4:8003/ch93
-#EXTINF:-1 ,Успех
-http://176.107.250.4:8003/ch95
-#EXTINF:-1 ,ЛЮБИМОЕ КИНО
-http://176.107.250.4:8003/ch98
-#EXTINF:-1 ,РЕТРО
-http://176.107.250.4:8003/ch99
-#EXTINF:-1 ,HOLLYWOOD HD
-http://176.107.250.4:8003/ch100
-#EXTINF:-1 ,ДОМ КИНО
-http://176.107.250.4:8003/ch102
-#EXTINF:-1 ,ДОМ КИНО ПРЕМИУМ HD
-http://176.107.250.4:8003/ch103
-#EXTINF:-1 ,ЕВРОКИНО
-http://176.107.250.4:8003/ch104
-#EXTINF:-1 ,ИЛЛЮЗИОН+
-http://176.107.250.4:8003/ch105
-#EXTINF:-1 ,КИНО ТВ
-http://176.107.250.4:8003/ch106
-#EXTINF:-1 ,КОМЕДИЯ
-http://176.107.250.4:8003/ch108
-#EXTINF:-1 ,НСТ
-http://176.107.250.4:8003/ch109
-#EXTINF:-1 ,РУССКИЙ БЕСТСЕЛЛЕР
-http://176.107.250.4:8003/ch110
-#EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
-http://176.107.250.4:8003/ch111
-#EXTINF:-1 ,РУССКИЙ ИЛЛЮЗИОН
-http://176.107.250.4:8003/ch112
-#EXTINF:-1 ,Amedia 2
-http://176.107.250.4:8003/ch179
-#EXTINF:-1 ,Cinema
-http://176.107.250.4:8003/ch180
-#EXTINF:-1 ,.RED
-http://176.107.250.4:8003/ch181
-#EXTINF:-1 ,.SCI-FI
-http://176.107.250.4:8003/ch182
-#EXTINF:-1 ,.BLACK
-http://176.107.250.4:8003/ch183
-#EXTINF:-1 ,TV XXI
-http://176.107.250.4:8003/ch184
-#EXTINF:-1 ,РОДНОЕ КИНО
-http://176.107.250.4:8003/ch185
-#EXTINF:-1 ,РУССКИЙ РОМАН
-http://176.107.250.4:8003/ch186
-#EXTINF:-1 ,Trash
-http://176.107.250.4:8004/ch142
-#EXTINF:-1 ,КОННЫЙ МИР HD
-http://176.107.250.4:8004/ch145
-#EXTINF:-1 ,БЕЛАРУСЬ 24 HD
-http://176.107.250.4:8004/ch152
-#EXTINF:-1 ,КРАСНАЯ ЛИНИЯ
-http://176.107.250.4:8004/ch153
-#EXTINF:-1 ,Da Vinci
-http://176.107.250.4:8004/ch154
-#EXTINF:-1 ,СПАС
-http://176.107.250.4:8004/ch155
-#EXTINF:-1 ,ТНВ-ПЛАНЕТА
-http://176.107.250.4:8004/ch156
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://176.107.250.4:8004/ch157
-#EXTINF:-1 ,MEZZO LIVE HD
-http://176.107.250.4:8004/ch189
-#EXTINF:-1 ,MTV 90s
-http://176.107.250.4:8004/ch190
-#EXTINF:-1 ,МУЗСОЮЗ
-http://176.107.250.4:8004/ch191
-#EXTINF:-1 ,1HD
-http://176.107.250.4:8003/ch114
-#EXTINF:-1 ,О!2
-http://176.107.250.4:8002/ch43
-#EXTINF:-1 ,МузТВ
-http://176.107.250.4:8001/ch20
-#EXTINF:-1 ,ЕВРОПА ПЛЮС ТВ
-http://176.107.250.4:8003/ch118
-#EXTINF:-1 ,RU.TV
-http://176.107.250.4:8003/ch119
-#EXTINF:-1 ,RUSSIAN MUSIC BOX
-http://176.107.250.4:8003/ch120
-#EXTINF:-1 ,BRIDGE РУССКИЙ ХИТ
-http://176.107.250.4:8003/ch187
-#EXTINF:-1 ,MEZZO
-http://176.107.250.4:8003/ch188
-#EXTINF:-1 ,C MUSIC HD
-http://176.107.250.4:8004/ch121
-#EXTINF:-1 ,BRIDGE DELUXE HD
-http://176.107.250.4:8003/ch116
-#EXTINF:-1 ,BRIDGE TV
-http://176.107.250.4:8003/ch117
-#EXTINF:-1 ,BRIDGE TV CLASSIC
-http://176.107.250.4:8004/ch123
-#EXTINF:-1 ,BRIDGE TV HITS
-http://176.107.250.4:8004/ch124
-#EXTINF:-1 ,МУЗЫКА ПЕРВОГО
-http://176.107.250.4:8004/ch126
-#EXTINF:-1 ,ШАНСОН ТВ
-http://176.107.250.4:8004/ch192
-#EXTINF:-1 ,GULLI GIRL
-http://176.107.250.4:8004/ch193
-#EXTINF:-1 ,СОЛНЦЕ
-http://176.107.250.4:8004/ch127
-#EXTINF:-1 ,МАМА
-http://176.107.250.4:8003/ch86
-#EXTINF:-1 ,КАРУСЕЛЬ
-http://176.107.250.4:8001/ch8
-#EXTINF:-1 ,NICKELODEON HD
-http://176.107.250.4:8004/ch128
-#EXTINF:-1 ,О!
-http://176.107.250.4:8004/ch129
-#EXTINF:-1 ,МУЛЬТ
-http://176.107.250.4:8004/ch130
-#EXTINF:-1 ,МУЛЬТИМУЗЫКА
-http://176.107.250.4:8004/ch131
-#EXTINF:-1 ,В ГОСТЯХ У СКАЗКИ
-http://176.107.250.4:8004/ch133
-#EXTINF:-1 ,УНИКУМ
-http://176.107.250.4:8004/ch134
-#EXTINF:-1 ,NICKELODEON HD
-http://176.107.250.4:8004/ch135
-#EXTINF:-1 ,TIJI
-http://176.107.250.4:8004/ch137
-#EXTINF:-1 ,РАДОСТЬ МОЯ
-http://176.107.250.4:8004/ch138
-#EXTINF:-1 ,СТС KIDS
-http://176.107.250.4:8004/ch139
-#EXTINF:-1 ,NICK JR
-http://176.107.250.4:8004/ch194
-#EXTINF:-1 ,БОКС ТВ
-http://176.107.250.4:8004/ch140
-#EXTINF:-1 ,Телеканал Футбол
-http://176.107.250.4:8004/ch141
-#EXTINF:-1 ,VIASAT SPORT
-http://176.107.250.4:8004/ch144
-#EXTINF:-1 ,KHL PRIME
-http://176.107.250.4:8002/ch170
-#EXTINF:-1 ,Eurosport 1 HD
-http://176.107.250.4:8001/ch26
-#EXTINF:-1 ,МАТЧ ТВ
-http://176.107.250.4:8001/ch3
-#EXTINF:-1 ,Extreme Sports
-http://176.107.250.4:8004/ch196
-#EXTINF:-1 ,МАТЧ! ИГРА
-http://176.107.250.4:8004/ch215
-#EXTINF:-1 ,МАТЧ! АРЕНА
-http://176.107.250.4:8004/ch21
+http://5.153.190.251:8003/play/a04m
 #EXTINF:-1 ,Россия К
-http://45.151.28.21:8000/play/a014/index.m3u8
+http://5.153.190.251:8001/play/a04t
 #EXTINF:-1 ,Россия 24
-http://45.151.28.21:8000/play/a015/index.m3u8
-#EXTINF:-1 ,Моя планета
-http://45.151.28.21:8000/play/a01d/index.m3u8
-#EXTINF:-1 ,Охота и рыбалка
-http://45.151.28.21:8000/play/a01z/index.m3u8
-#EXTINF:-1 ,Пятый канал
-http://45.151.28.21:8000/play/a012/index.m3u8
-#EXTINF:-1 ,ОТР
-http://45.151.28.21:8000/play/a004/index.m3u8
-#EXTINF:-1 ,ТВЦ
-http://45.151.28.21:8000/play/a01y/index.m3u8
-#EXTINF:-1 ,СПАС
-http://45.151.28.21:8000/play/a016/index.m3u8
-#EXTINF:-1 ,СТС
-http://45.151.28.21:8000/play/a00t/index.m3u8
-#EXTINF:-1 ,Домашний
-http://45.151.28.21:8000/play/a00r/index.m3u8
-#EXTINF:-1 ,ТВ3
-http://45.151.28.21:8000/play/a017/index.m3u8
-#EXTINF:-1 ,ПЯТНИЦА
-http://45.151.28.21:8000/play/a018/index.m3u8
-#EXTINF:-1 ,Звезда
-http://45.151.28.21:8000/play/a00m/index.m3u8
-#EXTINF:-1 ,МИР
-http://45.151.28.21:8000/play/a019/index.m3u8
-#EXTINF:-1 ,2X2
-http://45.151.28.21:8000/play/a025/index.m3u8
-#EXTINF:-1 ,Дом Кино
-http://45.151.28.21:8000/play/a01j/index.m3u8
-#EXTINF:-1 ,ЕвроКино
-http://45.151.28.21:8000/play/a021/index.m3u8
-#EXTINF:-1 ,Русский Иллюзион
-http://45.151.28.21:8000/play/a01f/index.m3u8
-#EXTINF:-1 ,КИНО ТВ
-http://45.151.28.21:8000/play/a00w/index.m3u8
-#EXTINF:-1 ,Комедия
-http://45.151.28.21:8000/play/a00x/index.m3u8
-#EXTINF:-1 ,Русский бестселлер
-http://45.151.28.21:8000/play/a02w/index.m3u8
-#EXTINF:-1 ,СТС Love
-http://45.151.28.21:8000/play/a00u/index.m3u8
-#EXTINF:-1 ,Че
-http://45.151.28.21:8000/play/a00v/index.m3u8
-#EXTINF:-1 ,Иллюзион+
-http://45.151.28.21:8000/play/a01g/index.m3u8
+http://5.153.190.251:8003/play/a04s
+#EXTINF:-1 ,Россия 1 HD
+http://5.153.190.251:8001/play/a04r
+#EXTINF:-1 ,Россия 1 +2
+http://5.153.190.251:8001/play/a0ba
+#EXTINF:-1 ,Россия 1
+http://5.153.190.251:8003/play/a04q
+#EXTINF:-1 ,НТВ Хит
+http://5.153.190.251:8001/play/a045
+#EXTINF:-1 ,НТВ Стиль
+http://5.153.190.251:8002/play/a044
+#EXTINF:-1 ,НТВ Сериал
+http://5.153.190.251:8001/play/a043
+#EXTINF:-1 ,НТВ Право
+http://5.153.190.251:8001/play/a042
+#EXTINF:-1 ,НТВ HD
+http://5.153.190.251:8001/play/a041
+#EXTINF:-1 ,НТВ +4
+http://5.153.190.251:8001/play/a0ay
+#EXTINF:-1 ,НТВ +2
+http://5.153.190.251:8001/play/a0ax
+#EXTINF:-1 ,НТВ
+http://5.153.190.251:8003/play/a040
+#EXTINF:-1 ,Авто Плюс
+http://5.153.190.251:8003/play/a01r
+#EXTINF:-1 ,Авто 24
+http://5.153.190.251:8003/play/a01q
+#EXTINF:-1 ,ТНТ4
+http://5.153.190.251:8001/play/a05a
+#EXTINF:-1 ,ТНТ Music
+http://5.153.190.251:8000/play/a059
+#EXTINF:-1 ,ТНТ HD
+http://5.153.190.251:8001/play/a058
+#EXTINF:-1 ,ТНТ +4
+http://5.153.190.251:8001/play/a0bm
+#EXTINF:-1 ,ТНТ +2
+http://5.153.190.251:8001/play/a0bl
+#EXTINF:-1 ,ТНТ
+http://5.153.190.251:8003/play/a057
 #EXTINF:-1 ,Ю
-http://45.151.28.21:8000/play/a00f/index.m3u8
-#EXTINF:-1 ,Время
-http://45.151.28.21:8000/play/a01i/index.m3u8
-#EXTINF:-1 ,Усадьба
-http://45.151.28.21:8000/play/a02p/index.m3u8
-#EXTINF:-1 ,Доктор
-http://45.151.28.21:8000/play/a005/index.m3u8
-#EXTINF:-1 ,ЖИВИ!
-http://45.151.28.21:8000/play/a02u/index.m3u8
-#EXTINF:-1 ,World Fashion
-http://45.151.28.21:8000/play/a00h/index.m3u8
-#EXTINF:-1 ,Москва Доверие
-http://45.151.28.21:8000/play/a02t/index.m3u8
-#EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
-http://45.151.28.21:8000/play/a02o/index.m3u8
-#EXTINF:-1 ,РБК
-http://45.151.28.21:8000/play/a00c/index.m3u8
-#EXTINF:-1 ,Русский роман
-http://45.151.28.21:8000/play/a02y/index.m3u8
-#EXTINF:-1 ,TV1000 Action
-http://45.151.28.21:8000/play/a02m/index.m3u8
-#EXTINF:-1 ,TV1000
-http://45.151.28.21:8000/play/a02l/index.m3u8
-#EXTINF:-1 ,TV1000 Русское кино
-http://45.151.28.21:8000/play/a02n/index.m3u8
+http://5.153.190.251:8000/play/a05i
+#EXTINF:-1 ,Домашний +4
+http://5.153.190.251:8000/play/a0a2
+#EXTINF:-1 ,Домашний +2
+http://5.153.190.251:8001/play/a0a1
 #EXTINF:-1 ,Домашний
-http://45.151.28.21:8000/play/a035/index.m3u8
-#EXTINF:-1 ,Звезда
-http://45.151.28.21:8000/play/a038/index.m3u8
-#EXTINF:-1 ,БОБЁР
-http://45.151.28.21:8000/play/a01h/index.m3u8
-#EXTINF:-1 ,КАРУСЕЛЬ
-http://45.151.28.21:8000/play/a03i/index.m3u8
-#EXTINF:-1 ,ПОБЕДА
-http://45.151.28.21:8000/play/a01a/index.m3u8
+http://5.153.190.251:8003/play/a027
+#EXTINF:-1 ,Пятница!
+http://5.153.190.251:8003/play/a04k
+#EXTINF:-1 ,Суббота!
+http://5.153.190.251:8001/play/a02l
+#EXTINF:-1 ,СТС Love
+http://5.153.190.251:8001/play/a051
+#EXTINF:-1 ,СТС HD
+http://5.153.190.251:8001/play/a05p
+#EXTINF:-1 ,СТС +4
+http://5.153.190.251:8001/play/a0bc
+#EXTINF:-1 ,СТС +2
+http://5.153.190.251:8001/play/a0bb
+#EXTINF:-1 ,СТС
+http://5.153.190.251:8003/play/a04z
+#EXTINF:-1 ,ТНВ-Планета
+http://5.153.190.251:8000/play/a0bk
+#EXTINF:-1 ,Техно 24
+http://5.153.190.251:8002/play/a002
+#EXTINF:-1 ,Приключения HD
+http://5.153.190.251:8002/play/a06w
+#EXTINF:-1 ,Первый космический HD
+http://5.153.190.251:8002/play/a06v
+#EXTINF:-1 ,Первый вегетарианский
+http://5.153.190.251:8000/play/a0b1
+#EXTINF:-1 ,Охотник и рыболов HD
+http://5.153.190.251:8003/play/a07t
+#EXTINF:-1 ,Охота и рыбалка
+http://5.153.190.251:8003/play/a04d
+#EXTINF:-1 ,Моя стихия
+http://5.153.190.251:8002/play/a0at
+#EXTINF:-1 ,Моя Планета HD
+http://5.153.190.251:8002/play/a0as
+#EXTINF:-1 ,Моя Планета
+http://5.153.190.251:8002/play/a03s
+#EXTINF:-1 ,Живая природа HD
+http://5.153.190.251:8002/play/a0a5
+#EXTINF:-1 ,Живая планета
+http://5.153.190.251:8002/play/a02c
+#EXTINF:-1 ,Дикий
+http://5.153.190.251:8003/play/a022
+#EXTINF:-1 ,Дикая рыбалка HD
+http://5.153.190.251:8003/play/a021
+#EXTINF:-1 ,Дикая охота HD
+http://5.153.190.251:8003/play/a020
+#EXTINF:-1 ,Диалоги о рыбалке
+http://5.153.190.251:8003/play/a01z
+#EXTINF:-1 ,Глазами туриста HD
+http://5.153.190.251:8002/play/a09z
+#EXTINF:-1 ,Большая Азия
+http://5.153.190.251:8000/play/a06p
+#EXTINF:-1 ,Viasat Nature/History HD
+http://5.153.190.251:8000/play/a01j
+#EXTINF:-1 ,Viasat Nature
+http://5.153.190.251:8002/play/a01i
+#EXTINF:-1 ,Viasat History
+http://5.153.190.251:8002/play/a09o
+#EXTINF:-1 ,Viasat Explore
+http://5.153.190.251:8002/play/a01h
+#EXTINF:-1 ,TERRA HD
+http://5.153.190.251:8002/play/a012
+#EXTINF:-1 ,TERRA
+http://5.153.190.251:8000/play/a011
+#EXTINF:-1 ,RTG TV
+http://5.153.190.251:8002/play/a06n
+#EXTINF:-1 ,RTG HD
+http://5.153.190.251:8000/play/a015
+#EXTINF:-1 ,Ocean TV
+http://5.153.190.251:8002/play/a09a
+#EXTINF:-1 ,HD Life
+http://5.153.190.251:8002/play/a00t
+#EXTINF:-1 ,Discovery Science
+http://5.153.190.251:8002/play/a08n
+#EXTINF:-1 ,Discovery Channel
+http://5.153.190.251:8002/play/a06j
+#EXTINF:-1 ,Big Planet
+http://5.153.190.251:8002/play/a08g
+#EXTINF:-1 ,Animal Planet
+http://5.153.190.251:8002/play/a06i
+#EXTINF:-1 ,В мире животных HD
+http://5.153.190.251:8002/play/a06q
+#EXTINF:-1 ,Galaxy TV HD
+http://5.153.190.251:8002/play/a06x
+#EXTINF:-1 ,Galaxy TV
+http://5.153.190.251:8002/play/a0bn
+#EXTINF:-1 ,Премиальное HD
+http://5.153.190.251:8001/play/a05o
+#EXTINF:-1 ,Телепутешествия
+http://5.153.190.251:8002/play/a06y
+#EXTINF:-1 ,Юнион
+http://5.153.190.251:8003/play/a05b
+#EXTINF:-1 ,Шокирующее HD
+http://5.153.190.251:8000/play/a06h
+#EXTINF:-1 ,Шансон ТВ
+http://5.153.190.251:8000/play/a0bs
+#EXTINF:-1 ,Че!
+http://5.153.190.251:8000/play/a05h
+#EXTINF:-1 ,ЧГТРК Грозный
+http://5.153.190.251:8000/play/a0br
+#EXTINF:-1 ,ЦТВ
+http://5.153.190.251:8000/play/a07k
+#EXTINF:-1 ,Хит
+http://5.153.190.251:8000/play/a06g
+#EXTINF:-1 ,Феникс+Кино
+http://5.153.190.251:8000/play/a06f
+#EXTINF:-1 ,Успех
+http://5.153.190.251:8000/play/a09w
+#EXTINF:-1 ,Усадьба
+http://5.153.190.251:8000/play/a05g
+#EXTINF:-1 ,Удмуртия
+http://5.153.190.251:8000/play/a0bq
+#EXTINF:-1 ,Точка ТВ
+http://5.153.190.251:8001/play/a089
+#EXTINF:-1 ,Точка отрыва
+http://5.153.190.251:8002/play/a05e
+#EXTINF:-1 ,Тонус
+http://5.153.190.251:8000/play/a07y
+#EXTINF:-1 ,Тномер
+http://5.153.190.251:8002/play/a07x
+#EXTINF:-1 ,Телекафе
+http://5.153.190.251:8001/play/a05d
+#EXTINF:-1 ,Театр
+http://5.153.190.251:8000/play/a0bo
+#EXTINF:-1 ,ТДК
+http://5.153.190.251:8000/play/a088
+#EXTINF:-1 ,ТВЦ +2
+http://5.153.190.251:8001/play/a0bj
+#EXTINF:-1 ,ТВЦ
+http://5.153.190.251:8003/play/a056
 #EXTINF:-1 ,ТВ3
-http://45.151.28.21:8000/play/a036/index.m3u8
-#EXTINF:-1 ,BRIDGE TV Русский Хит
-http://45.151.28.21:8000/play/a024/index.m3u8
-#EXTINF:-1 ,Муз ТВ
-http://45.151.28.21:8000/play/a008/index.m3u8
-#EXTINF:-1 ,Музыка Первого
-http://45.151.28.21:8000/play/a01l/index.m3u8
-#EXTINF:-1 ,ТНТ MUSIC
-http://45.151.28.21:8000/play/a00i/index.m3u8
-#EXTINF:-1 ,МАМА
-http://45.151.28.21:8000/play/a03m/index.m3u8
-#EXTINF:-1 ,В гостях у сказки
-http://45.151.28.21:8000/play/a02z/index.m3u8
-#EXTINF:-1 ,Мульт
-http://45.151.28.21:8000/play/a02s/index.m3u8
+http://5.153.190.251:8001/play/a055
+#EXTINF:-1 ,Танцуй!
+http://5.153.190.251:8000/play/a05c
+#EXTINF:-1 ,Страшное HD
+http://5.153.190.251:8001/play/a0bh
+#EXTINF:-1 ,Спас
+http://5.153.190.251:8003/play/a053
+#EXTINF:-1 ,Союз
+http://5.153.190.251:8000/play/a0bg
 #EXTINF:-1 ,Солнце
-http://45.151.28.21:8000/play/a007/index.m3u8
-#EXTINF:-1 ,МАТЧ ТВ
-http://45.151.28.21:8000/play/a011/index.m3u8
-#EXTINF:-1 ,МАТЧ ПРЕМЬЕР
-http://45.151.28.21:8000/play/a009/index.m3u8
-#EXTINF:-1 ,МАТЧ! БОЕЦ
-http://45.151.28.21:8000/play/a003/index.m3u8
+http://5.153.190.251:8002/play/a02k
+#EXTINF:-1 ,Совершенно Секретно
+http://5.153.190.251:8002/play/a0bf
+#EXTINF:-1 ,Сериал UHD
+http://5.153.190.251:8001/play/a06e
+#EXTINF:-1 ,Сарафан
+http://5.153.190.251:8001/play/a052
+#EXTINF:-1 ,Сапфир HD
+http://5.153.190.251:8001/play/a010
+#EXTINF:-1 ,Сапфир
+http://5.153.190.251:8001/play/a00q
+#EXTINF:-1 ,Санкт-Петербург
+http://5.153.190.251:8000/play/a0bd
+#EXTINF:-1 ,Русский роман
+http://5.153.190.251:8001/play/a04y
+#EXTINF:-1 ,Русский иллюзион
+http://5.153.190.251:8001/play/a04v
+#EXTINF:-1 ,Русский детектив
+http://5.153.190.251:8001/play/a04x
+#EXTINF:-1 ,Русский бестселлер
+http://5.153.190.251:8001/play/a04w
+#EXTINF:-1 ,Русская комедия
+http://5.153.190.251:8001/play/a04u
+#EXTINF:-1 ,Романтичное HD
+http://5.153.190.251:8001/play/a06d
+#EXTINF:-1 ,РБК
+http://5.153.190.251:8001/play/a04l
+#EXTINF:-1 ,Радость моя
+http://5.153.190.251:8002/play/a04o
+#EXTINF:-1 ,Пятый канал +2
+http://5.153.190.251:8001/play/a0b5
+#EXTINF:-1 ,Пятый кaнaл
+http://5.153.190.251:8003/play/a006
+#EXTINF:-1 ,Продвижение +4
+http://5.153.190.251:8001/play/a0b6
+#EXTINF:-1 ,Продвижение
+http://5.153.190.251:8001/play/a04j
+#EXTINF:-1 ,Про любовь
+http://5.153.190.251:8001/play/a06b
+#EXTINF:-1 ,Поехали!
+http://5.153.190.251:8002/play/a04i
+#EXTINF:-1 ,Победа
+http://5.153.190.251:8000/play/a04h
+#EXTINF:-1 ,Пес и Ко
+http://5.153.190.251:8000/play/a07u
+#EXTINF:-1 ,Первый Республиканский
+http://5.153.190.251:8003/play/a04g
+#EXTINF:-1 ,ОТР
+http://5.153.190.251:8003/play/a04a
+#EXTINF:-1 ,Открытый мир
+http://5.153.190.251:8000/play/a087
+#EXTINF:-1 ,ОТВ Челябинск
+http://5.153.190.251:8000/play/a0b0
+#EXTINF:-1 ,Остросюжетное HD
+http://5.153.190.251:8001/play/a05n
+#EXTINF:-1 ,Оружие
+http://5.153.190.251:8003/play/a06u
+#EXTINF:-1 ,Оплот 2
+http://5.153.190.251:8003/play/a04b
+#EXTINF:-1 ,Оплот
+http://5.153.190.251:8003/play/a04c
+#EXTINF:-1 ,О2ТВ
+http://5.153.190.251:8000/play/a099
+#EXTINF:-1 ,О!
+http://5.153.190.251:8002/play/a013
+#EXTINF:-1 ,НСТ
+http://5.153.190.251:8001/play/a03z
+#EXTINF:-1 ,Ностальгия
+http://5.153.190.251:8000/play/a049
+#EXTINF:-1 ,Новороссия ТВ
+http://5.153.190.251:8003/play/a048
+#EXTINF:-1 ,Наше мужское
+http://5.153.190.251:8001/play/a06a
+#EXTINF:-1 ,Наше любимое кино
+http://5.153.190.251:8001/play/a030
+#EXTINF:-1 ,Наше HD
+http://5.153.190.251:8001/play/a069
+#EXTINF:-1 ,Наша тема
+http://5.153.190.251:8000/play/a06t
+#EXTINF:-1 ,Наш кинопоказ
+http://5.153.190.251:8001/play/a068
+#EXTINF:-1 ,Наука 2.0
+http://5.153.190.251:8002/play/a046
+#EXTINF:-1 ,Нано ТВ
+http://5.153.190.251:8002/play/a086
+#EXTINF:-1 ,Музыка Первого
+http://5.153.190.251:8000/play/a03v
+#EXTINF:-1 ,МузСоюз
+http://5.153.190.251:8000/play/a07h
+#EXTINF:-1 ,Муз ТВ
+http://5.153.190.251:8003/play/a03u
+#EXTINF:-1 ,Мужской
+http://5.153.190.251:8003/play/a0av
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://5.153.190.251:8001/play/a03q
+#EXTINF:-1 ,Москва. Доверие
+http://5.153.190.251:8001/play/a0ar
+#EXTINF:-1 ,Москва 24
+http://5.153.190.251:8001/play/a03p
+#EXTINF:-1 ,Мир сериала
+http://5.153.190.251:8001/play/a03n
+#EXTINF:-1 ,Мир Белогорья
+http://5.153.190.251:8000/play/a0ap
+#EXTINF:-1 ,Ля-минор
+http://5.153.190.251:8000/play/a031
+#EXTINF:-1 ,Любимое кино
+http://5.153.190.251:8000/play/a030
+#EXTINF:-1 ,Любимое HD
+http://5.153.190.251:8000/play/a067
+#EXTINF:-1 ,Лен ТВ 24
+http://5.153.190.251:8001/play/a0am
+#EXTINF:-1 ,Лёва HD
+http://5.153.190.251:8002/play/a090
+#EXTINF:-1 ,Кухня ТВ
+http://5.153.190.251:8000/play/a02y
+#EXTINF:-1 ,Курай ТВ
+http://5.153.190.251:8000/play/a0al
+#EXTINF:-1 ,Кто Куда
+http://5.153.190.251:8000/play/a0ak
+#EXTINF:-1 ,Кто есть кто
+http://5.153.190.251:8002/play/a02x
+#EXTINF:-1 ,Красная линия
+http://5.153.190.251:8000/play/a085
+#EXTINF:-1 ,Конный мир HD
+http://5.153.190.251:8003/play/a02w
+#EXTINF:-1 ,Конный мир
+http://5.153.190.251:8003/play/a076
+#EXTINF:-1 ,Комедия
+http://5.153.190.251:8000/play/a04u
+#EXTINF:-1 ,Комедийное HD
+http://5.153.190.251:8001/play/a066
+#EXTINF:-1 ,Ключ
+http://5.153.190.251:8002/play/a0aj
+#EXTINF:-1 ,Мужское кино HD
+http://5.153.190.251:8001/play/a0au
+#EXTINF:-1 ,Мужское кино
+http://5.153.190.251:8001/play/a03t
+#EXTINF:-1 ,Наше новое кино
+http://5.153.190.251:8001/play/a047
+#EXTINF:-1 ,Родное кино
+http://5.153.190.251:8001/play/a04p
+#EXTINF:-1 ,Кинохит HD
+http://5.153.190.251:8001/play/a0ai
+#EXTINF:-1 ,Кинохит
+http://5.153.190.251:8001/play/a02u
+#EXTINF:-1 ,Киноужас
+http://5.153.190.251:8001/play/a02t
+#EXTINF:-1 ,Киносерия
+http://5.153.190.251:8001/play/a02s
+#EXTINF:-1 ,Киносемья HD
+http://5.153.190.251:8001/play/a0ah
+#EXTINF:-1 ,Киносемья
+http://5.153.190.251:8001/play/a02r
+#EXTINF:-1 ,Киносвидание
+http://5.153.190.251:8001/play/a02q
+#EXTINF:-1 ,Кинопремьера HD
+http://5.153.190.251:8001/play/a02p
+#EXTINF:-1 ,Кинопоказ
+http://5.153.190.251:8001/play/a065
+#EXTINF:-1 ,Киномикс HD
+http://5.153.190.251:8001/play/a0ag
+#EXTINF:-1 ,Киномикс
+http://5.153.190.251:8001/play/a02o
+#EXTINF:-1 ,Индийское кино
+http://5.153.190.251:8001/play/a02g
+#EXTINF:-1 ,Киноман
+http://5.153.190.251:8001/play/a064
+#EXTINF:-1 ,Кинокомедия
+http://5.153.190.251:8001/play/a02v
+#EXTINF:-1 ,Кино ТВ
+http://5.153.190.251:8001/play/a02n
+#EXTINF:-1 ,Кино UHD
+http://5.153.190.251:8001/play/a063
+#EXTINF:-1 ,КИНЕКО HD
+http://5.153.190.251:8000/play/a00p
+#EXTINF:-1 ,КИНЕКО
+http://5.153.190.251:8001/play/a00o
+#EXTINF:-1 ,КВН ТВ
+http://5.153.190.251:8000/play/a02i
+#EXTINF:-1 ,Катунь 24
+http://5.153.190.251:8000/play/a0ae
+#EXTINF:-1 ,Карусель +2
+http://5.153.190.251:8000/play/a0ad
+#EXTINF:-1 ,Карусель
+http://5.153.190.251:8003/play/a02m
+#EXTINF:-1 ,Капитан Фантастика HD
+http://5.153.190.251:8002/play/a07b
+#EXTINF:-1 ,Камеди
+http://5.153.190.251:8001/play/a062
+#EXTINF:-1 ,Калейдоскоп ТВ
+http://5.153.190.251:8000/play/a084
+#EXTINF:-1 ,История
+http://5.153.190.251:8002/play/a02h
+#EXTINF:-1 ,Индия
+http://5.153.190.251:8001/play/a01p
+#EXTINF:-1 ,Иллюзион+
+http://5.153.190.251:8001/play/a02f
+#EXTINF:-1 ,Известия
+http://5.153.190.251:8000/play/a02e
+#EXTINF:-1 ,Зоо ТВ
+http://5.153.190.251:8002/play/a06s
+#EXTINF:-1 ,Звезда Плюс
+http://5.153.190.251:8001/play/a0a7
+#EXTINF:-1 ,Звезда +4
+http://5.153.190.251:8000/play/a0ab
+#EXTINF:-1 ,Звезда +4
+http://5.153.190.251:8001/play/a0ab
+#EXTINF:-1 ,Звезда +2
+http://5.153.190.251:8000/play/a0aa
+#EXTINF:-1 ,Звезда +2
+http://5.153.190.251:8001/play/a0aa
+#EXTINF:-1 ,Звезда
+http://5.153.190.251:8001/play/a02d
+#EXTINF:-1 ,Зал суда
+http://5.153.190.251:8000/play/a0a9
+#EXTINF:-1 ,Загородный
+http://5.153.190.251:8000/play/a07r
+#EXTINF:-1 ,Загородная жизнь
+http://5.153.190.251:8000/play/a0a8
+#EXTINF:-1 ,Живи!
+http://5.153.190.251:8000/play/a02b
+#EXTINF:-1 ,Живи активно HD
+http://5.153.190.251:8003/play/a0a6
+#EXTINF:-1 ,Жара
+http://5.153.190.251:8000/play/a02a
+#EXTINF:-1 ,Енисей
+http://5.153.190.251:8000/play/a0a4
+#EXTINF:-1 ,ЕГЭ ТВ
+http://5.153.190.251:8002/play/a0a3
+#EXTINF:-1 ,Еврокино
+http://5.153.190.251:8001/play/a028
+#EXTINF:-1 ,Душевное HD
+http://5.153.190.251:8001/play/a061
+#EXTINF:-1 ,Дорама
+http://5.153.190.251:8001/play/a00i
+#EXTINF:-1 ,ДОН 24
+http://5.153.190.251:8000/play/a0a0
+#EXTINF:-1 ,Домашние животные
+http://5.153.190.251:8002/play/a026
+#EXTINF:-1 ,Дом кино Премиум HD
+http://5.153.190.251:8001/play/a05q
+#EXTINF:-1 ,Дом кино
+http://5.153.190.251:8000/play/a024
+#EXTINF:-1 ,Доктор
+http://5.153.190.251:8002/play/a023
+#EXTINF:-1 ,ДКТ HD
+http://5.153.190.251:8001/play/a060
+#EXTINF:-1 ,Время
+http://5.153.190.251:8000/play/a01x
+#EXTINF:-1 ,Время
+http://5.153.190.251:8002/play/a01x
+#EXTINF:-1 ,Восток ТВ
+http://5.153.190.251:8000/play/a09y
+#EXTINF:-1 ,Волга
+http://5.153.190.251:8000/play/a09x
+#EXTINF:-1 ,БСТ
+http://5.153.190.251:8000/play/a09u
+#EXTINF:-1 ,Большой эфир
+http://5.153.190.251:8003/play/a075
+#EXTINF:-1 ,Бобер
+http://5.153.190.251:8000/play/a01t
+#EXTINF:-1 ,Блокбастер
+http://5.153.190.251:8001/play/a05z
+#EXTINF:-1 ,БелРос
+http://5.153.190.251:8000/play/a01s
+#EXTINF:-1 ,Беларусь 24
+http://5.153.190.251:8000/play/a080
+#EXTINF:-1 ,Арсенал HD
+http://5.153.190.251:8003/play/a05y
+#EXTINF:-1 ,Анекдот ТВ
+http://5.153.190.251:8000/play/a07j
+#EXTINF:-1 ,ZooПарк
+http://5.153.190.251:8002/play/a09t
+#EXTINF:-1 ,World Fashion
+http://5.153.190.251:8000/play/a01o
+#EXTINF:-1 ,VIVA Russia HD
+http://5.153.190.251:8000/play/a09r
+#EXTINF:-1 ,ViP Serial HD
+http://5.153.190.251:8001/play/a09q
+#EXTINF:-1 ,ViP Premiere HD
+http://5.153.190.251:8001/play/a01n
+#EXTINF:-1 ,ViP Megahit HD
+http://5.153.190.251:8001/play/a01m
+#EXTINF:-1 ,ViP Comedy HD
+http://5.153.190.251:8001/play/a01l
+#EXTINF:-1 ,Ultra HD Cinema
+http://5.153.190.251:8001/play/a05x
+#EXTINF:-1 ,TV1000 Русское кино
+http://5.153.190.251:8000/play/a01g
+#EXTINF:-1 ,TV1000 Action
+http://5.153.190.251:8000/play/a01f
+#EXTINF:-1 ,TV1000
+http://5.153.190.251:8001/play/a01e
+#EXTINF:-1 ,TV XXI
+http://5.153.190.251:8001/play/a09n
+#EXTINF:-1 ,Travel+Adventure
+http://5.153.190.251:8002/play/a01d
+#EXTINF:-1 ,TRASH
+http://5.153.190.251:8001/play/a05w
+#EXTINF:-1 ,Trace Sport Stars
+http://5.153.190.251:8000/play/a03o
+#EXTINF:-1 ,TLC
+http://5.153.190.251:8002/play/a01c
+#EXTINF:-1 ,Timeless Dizi Channel
+http://5.153.190.251:8001/play/a09l
+#EXTINF:-1 ,START World
+http://5.153.190.251:8001/play/a09k
+#EXTINF:-1 ,START Air
+http://5.153.190.251:8001/play/a09j
+#EXTINF:-1 ,Star Family
+http://5.153.190.251:8001/play/a09i
+#EXTINF:-1 ,Star cinema
+http://5.153.190.251:8001/play/a09h
+#EXTINF:-1 ,SHOT TV
+http://5.153.190.251:8001/play/a018
+#EXTINF:-1 ,Shop&Show
+http://5.153.190.251:8000/play/a09g
+#EXTINF:-1 ,Russian Extreme Ultra
+http://5.153.190.251:8003/play/a074
+#EXTINF:-1 ,Russian Extreme HD
+http://5.153.190.251:8003/play/a073
+#EXTINF:-1 ,RU.TV
+http://5.153.190.251:8000/play/a016
+#EXTINF:-1 ,Plan B HD
+http://5.153.190.251:8001/play/a09d
+#EXTINF:-1 ,Paramount Comedy
+http://5.153.190.251:8001/play/a09c
+#EXTINF:-1 ,Paramount Channel
+http://5.153.190.251:8001/play/a09b
+#EXTINF:-1 ,Music Box Russia
+http://5.153.190.251:8000/play/a07g
+#EXTINF:-1 ,MTV Hits
+http://5.153.190.251:8000/play/a095
+#EXTINF:-1 ,MTV 90s
+http://5.153.190.251:8000/play/a094
+#EXTINF:-1 ,MTV 80s
+http://5.153.190.251:8000/play/a093
+#EXTINF:-1 ,MTV 00s
+http://5.153.190.251:8000/play/a092
+#EXTINF:-1 ,Mezzo Live HD
+http://5.153.190.251:8000/play/a00y
+#EXTINF:-1 ,Mezzo
+http://5.153.190.251:8000/play/a091
+#EXTINF:-1 ,MCM Top
+http://5.153.190.251:8000/play/a00x
+#EXTINF:-1 ,Leomax 24
+http://5.153.190.251:8001/play/a08z
+#EXTINF:-1 ,KinoLiving
+http://5.153.190.251:8001/play/a08y
+#EXTINF:-1 ,KinoJam 2
+http://5.153.190.251:8001/play/a05t
+#EXTINF:-1 ,KinoJam 1
+http://5.153.190.251:8001/play/a05s
+#EXTINF:-1 ,Insight UHD
+http://5.153.190.251:8002/play/a06m
+#EXTINF:-1 ,Investigation Discovery
+http://5.153.190.251:8002/play/a06l
+#EXTINF:-1 ,iConcerts HD
+http://5.153.190.251:8000/play/a08x
+#EXTINF:-1 ,Hollywood HD
+http://5.153.190.251:8001/play/a00v
+#EXTINF:-1 ,Hollywood
+http://5.153.190.251:8000/play/a00u
+#EXTINF:-1 ,Gags Network
+http://5.153.190.251:8000/play/a08u
+#EXTINF:-1 ,Food Time HD
+http://5.153.190.251:8000/play/a07o
+#EXTINF:-1 ,Flix Snip
+http://5.153.190.251:8000/play/a00n
+#EXTINF:-1 ,Filmbox Arthouse
+http://5.153.190.251:8001/play/a00m
+#EXTINF:-1 ,Filmbox
+http://5.153.190.251:8001/play/a00l
+#EXTINF:-1 ,Fast & FunBox
+http://5.153.190.251:8003/play/a08s
+#EXTINF:-1 ,Fashionbox
+http://5.153.190.251:8000/play/a08r
+#EXTINF:-1 ,Fashion TV HD
+http://5.153.190.251:8000/play/a08q
+#EXTINF:-1 ,Fashion & Style 4K
+http://5.153.190.251:8000/play/a07m
+#EXTINF:-1 ,FAN
+http://5.153.190.251:8002/play/a00k
+#EXTINF:-1 ,Europa Plus TV
+http://5.153.190.251:8000/play/a029
+#EXTINF:-1 ,English Class
+http://5.153.190.251:8002/play/a07l
+#EXTINF:-1 ,E TV HD
+http://5.153.190.251:8000/play/a07i
+#EXTINF:-1 ,Duck TV
+http://5.153.190.251:8000/play/a08p
+#EXTINF:-1 ,Docubox
+http://5.153.190.251:8002/play/a08o
+#EXTINF:-1 ,Da Vinci
+http://5.153.190.251:8002/play/a01y
+#EXTINF:-1 ,Classic Music
+http://5.153.190.251:8000/play/a00h
+#EXTINF:-1 ,Cinema HD
+http://5.153.190.251:8000/play/a08m
+#EXTINF:-1 ,Cinema
+http://5.153.190.251:8001/play/a08l
+#EXTINF:-1 ,C Music TV HD
+http://5.153.190.251:8000/play/a08k
+#EXTINF:-1 ,Bridge TV Шлягер
+http://5.153.190.251:8000/play/a07f
+#EXTINF:-1 ,Bridge TV Русский Хит
+http://5.153.190.251:8000/play/a00g
+#EXTINF:-1 ,Bridge TV Hits
+http://5.153.190.251:8000/play/a08j
+#EXTINF:-1 ,Bridge TV Fresh
+http://5.153.190.251:8000/play/a07e
+#EXTINF:-1 ,Bridge Deluxe HD
+http://5.153.190.251:8000/play/a00e
+#EXTINF:-1 ,Bridge TV Classic
+http://5.153.190.251:8000/play/a08i
+#EXTINF:-1 ,Bridge TV
+http://5.153.190.251:8000/play/a00f
+#EXTINF:-1 ,Bollywood HD
+http://5.153.190.251:8001/play/a00d
+#EXTINF:-1 ,Amedia Premium HD
+http://5.153.190.251:8000/play/a00b
+#EXTINF:-1 ,Amedia Premium
+http://5.153.190.251:8001/play/a08f
+#EXTINF:-1 ,Amedia Hit HD
+http://5.153.190.251:8001/play/a08e
+#EXTINF:-1 ,Amedia Hit
+http://5.153.190.251:8001/play/a00a
+#EXTINF:-1 ,Amedia 2 HD
+http://5.153.190.251:8001/play/a08d
+#EXTINF:-1 ,Amedia 2
+http://5.153.190.251:8001/play/a009
+#EXTINF:-1 ,Amedia 1
+http://5.153.190.251:8000/play/a008
+#EXTINF:-1 ,9 Волна
+http://5.153.190.251:8000/play/a08c
+#EXTINF:-1 ,8 канал
+http://5.153.190.251:8000/play/a007
+#EXTINF:-1 ,49 канал Новосибирск
+http://5.153.190.251:8000/play/a08b
+#EXTINF:-1 ,365 дней ТВ
+http://5.153.190.251:8002/play/a005
+#EXTINF:-1 ,2x2
+http://5.153.190.251:8001/play/a003
+#EXTINF:-1 ,12 Канал Омск
+http://5.153.190.251:8000/play/a08a
+#EXTINF:-1 ,.sci-fi
+http://5.153.190.251:8001/play/a019
+#EXTINF:-1 ,.red HD
+http://5.153.190.251:8001/play/a05v
+#EXTINF:-1 ,.red
+http://5.153.190.251:8001/play/a001
+#EXTINF:-1 ,.black
+http://5.153.190.251:8001/play/a01a
+#EXTINF:-1 ,Bolt
+http://5.153.190.251:8000/play/a08h
+#EXTINF:-1 ,Ani
+http://5.153.190.251:8002/play/a00c
+#EXTINF:-1 ,NickToons
+http://5.153.190.251:8002/play/a098
+#EXTINF:-1 ,Nickelodeon
+http://5.153.190.251:8000/play/a097
+#EXTINF:-1 ,TiJi
+http://5.153.190.251:8002/play/a01b
+#EXTINF:-1 ,Gulli Girl
+http://5.153.190.251:8002/play/a00s
+#EXTINF:-1 ,Мама
+http://5.153.190.251:8002/play/a032
+#EXTINF:-1 ,Рыжий
+http://5.153.190.251:8000/play/a07c
+#EXTINF:-1 ,СуперГерои
+http://5.153.190.251:8002/play/a0bi
+#EXTINF:-1 ,В гостях у сказки
+http://5.153.190.251:8000/play/a01w
+#EXTINF:-1 ,Уникум
+http://5.153.190.251:8000/play/a05f
+#EXTINF:-1 ,Детский мир
+http://5.153.190.251:8000/play/a05r
+#EXTINF:-1 ,СТС Kids HD
+http://5.153.190.251:8002/play/a050
+#EXTINF:-1 ,СТС Kids
+http://5.153.190.251:8002/play/a07d
+#EXTINF:-1 ,Мультимузыка
+http://5.153.190.251:8002/play/a03x
+#EXTINF:-1 ,Мультиландия
+http://5.153.190.251:8002/play/a03y
+#EXTINF:-1 ,Мульт HD
+http://5.153.190.251:8002/play/a0aw
+#EXTINF:-1 ,Мульт
+http://5.153.190.251:8002/play/a03w
+#EXTINF:-1 ,Nick Jr
+http://5.153.190.251:8002/play/a096
+#EXTINF:-1 ,Extreme Sports
+http://5.153.190.251:8003/play/a00j
+#EXTINF:-1 ,Eurosport 2 HD
+http://5.153.190.251:8003/play/a072
+#EXTINF:-1 ,Eurosport 2
+http://5.153.190.251:8000/play/a071
+#EXTINF:-1 ,Eurosport 1 HD
+http://5.153.190.251:8003/play/a070
+#EXTINF:-1 ,Eurosport 1
+http://5.153.190.251:8003/play/a06z
+#EXTINF:-1 ,MMA-TV.com
+http://5.153.190.251:8003/play/a00w
+#EXTINF:-1 ,Мир баскетбола
+http://5.153.190.251:8003/play/a03m
+#EXTINF:-1 ,Матч! Футбол 3 HD
+http://5.153.190.251:8003/play/a03j
+#EXTINF:-1 ,Матч! Футбол 3
+http://5.153.190.251:8003/play/a03i
+#EXTINF:-1 ,Матч! Футбол 2 HD
+http://5.153.190.251:8003/play/a03h
+#EXTINF:-1 ,Матч! Футбол 2
+http://5.153.190.251:8003/play/a03g
+#EXTINF:-1 ,Матч! Футбол 1 HD
+http://5.153.190.251:8003/play/a03f
+#EXTINF:-1 ,Матч! Футбол 1
+http://5.153.190.251:8003/play/a03e
+#EXTINF:-1 ,Матч! Страна HD
+http://5.153.190.251:8003/play/a03d
+#EXTINF:-1 ,Матч! Страна
+http://5.153.190.251:8003/play/a03c
+#EXTINF:-1 ,Матч! Премьер HD
+http://5.153.190.251:8003/play/a033
+#EXTINF:-1 ,Матч! Премьер
+http://5.153.190.251:8003/play/a03b
+#EXTINF:-1 ,Матч! Планета
+http://5.153.190.251:8003/play/a077
+#EXTINF:-1 ,Матч! Игра HD
+http://5.153.190.251:8003/play/a03a
+#EXTINF:-1 ,Матч! Игра
+http://5.153.190.251:8003/play/a0ao
+#EXTINF:-1 ,Матч! Боец HD
+http://5.153.190.251:8003/play/a039
+#EXTINF:-1 ,Матч! Боец
+http://5.153.190.251:8003/play/a01u
+#EXTINF:-1 ,Матч! Арена HD
+http://5.153.190.251:8003/play/a037
+#EXTINF:-1 ,Матч! Арена
+http://5.153.190.251:8003/play/a036
+#EXTINF:-1 ,Матч! HD
+http://5.153.190.251:8003/play/a035
+#EXTINF:-1 ,Матч!
+http://5.153.190.251:8003/play/a034
+#EXTINF:-1 ,Моторспорт ТВ HD
+http://5.153.190.251:8003/play/a078
+#EXTINF:-1 ,Моторспорт ТВ
+http://5.153.190.251:8003/play/a03r
+#EXTINF:-1 ,KHL Prime
+http://5.153.190.251:8000/play/a025
 #EXTINF:-1 ,KHL
-http://45.151.28.21:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11101.png" tvg-logo="https://persik.by/media/channels/logos/11101.png",Aillion
-http://fs2.persik.by/486707/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11260.png" tvg-logo="https://persik.by/media/channels/logos/11260.png",Alasdar
-http://fs2.persik.by/391594/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11127.png" tvg-logo="https://persik.by/media/channels/logos/11127.png",Among Your Gods
-http://fs2.persik.by/487678/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10603.png" tvg-logo="https://persik.by/media/channels/logos/10603.png",ATESTA
-http://fs2.persik.by/394996/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11261.png" tvg-logo="https://persik.by/media/channels/logos/11261.png",Aygad
-http://fs2.persik.by/404443/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11248.png" tvg-logo="https://persik.by/media/channels/logos/11248.png",Best clips
-http://fs2.persik.by/484411/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11126.png" tvg-logo="https://persik.by/media/channels/logos/11126.png",Christ
-http://fs2.persik.by/487600/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11235.png" tvg-logo="https://persik.by/media/channels/logos/11235.png",Cotton Buds
-http://fs2.persik.by/394994/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10532.png" tvg-logo="https://persik.by/media/channels/logos/10532.png",Coup de Coeur Online
-http://fs2.persik.by/387381/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11252.png" tvg-logo="https://persik.by/media/channels/logos/11252.png",Dance!
-http://fs2.persik.by/481389/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11111.png" tvg-logo="https://persik.by/media/channels/logos/11111.png",MOYO TEBE
-http://fs2.persik.by/487173/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11176.png" tvg-logo="https://persik.by/media/channels/logos/11176.png",OliA
-http://fs2.persik.by/491035/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11254.png" tvg-logo="https://persik.by/media/channels/logos/11254.png",POP-ROCK
-http://fs2.persik.by/484594/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11307.png" tvg-logo="https://persik.by/media/channels/logos/11307.png",PRO Питание
-http://fs2.persik.by/464782/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11223.png" tvg-logo="https://persik.by/media/channels/logos/11223.png",Relax
-http://fs2.persik.by/488886/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11312.png" tvg-logo="https://persik.by/media/channels/logos/11312.png",Salad TV
-http://fs2.persik.by/488296/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11170.png" tvg-logo="https://persik.by/media/channels/logos/11170.png",Sluhay RADIO
-http://fs2.persik.by/490136/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10970.png" tvg-logo="https://persik.by/media/channels/logos/10970.png",Sluhay.by
-http://fs2.persik.by/476399/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11102.png" tvg-logo="https://persik.by/media/channels/logos/11102.png",Sluhay.by COVER
-http://fs2.persik.by/486668/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10973.png" tvg-logo="https://persik.by/media/channels/logos/10973.png",Sluhay.by EDM
-http://fs2.persik.by/477422/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11083.png" tvg-logo="https://persik.by/media/channels/logos/11083.png",Sluhay.by MOVA
-http://fs2.persik.by/486041/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10974.png" tvg-logo="https://persik.by/media/channels/logos/10974.png",Sluhay.by RAP
-http://fs2.persik.by/477426/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10971.png" tvg-logo="https://persik.by/media/channels/logos/10971.png",Sluhay.by ROCK
-http://fs2.persik.by/476991/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11253.png" tvg-logo="https://persik.by/media/channels/logos/11253.png",Techno
-http://fs2.persik.by/439404/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11109.png" tvg-logo="https://persik.by/media/channels/logos/11109.png",The Glitchhh
-http://fs2.persik.by/486892/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11124.png" tvg-logo="https://persik.by/media/channels/logos/11124.png",XTIP
-http://fs2.persik.by/487602/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11232.png" tvg-logo="https://persik.by/media/channels/logos/11232.png",Demi Mo
-http://fs2.persik.by/410229/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11225.png" tvg-logo="https://persik.by/media/channels/logos/11225.png",DJ
-http://fs2.persik.by/488887/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11238.png" tvg-logo="https://persik.by/media/channels/logos/11238.png",Etsinancy
-http://fs2.persik.by/394992/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11343.png" tvg-logo="https://persik.by/media/channels/logos/11343.png",Fishing
-http://fs2.persik.by/482164/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11311.png" tvg-logo="https://persik.by/media/channels/logos/11311.png",Healthy Food
-http://fs2.persik.by/488215/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11245.png" tvg-logo="https://persik.by/media/channels/logos/11245.png",HITS
-http://fs2.persik.by/462740/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11240.png" tvg-logo="https://persik.by/media/channels/logos/11240.png",Lear
-http://fs2.persik.by/394991/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11125.png" tvg-logo="https://persik.by/media/channels/logos/11125.png",Lenadi
-http://fs2.persik.by/487598/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11241.png" tvg-logo="https://persik.by/media/channels/logos/11241.png",M J Rock Band
-http://fs2.persik.by/462400/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11106.png" tvg-logo="https://persik.by/media/channels/logos/11106.png",Markuts Band
-http://fs2.persik.by/486891/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11229.png" tvg-logo="https://persik.by/media/channels/logos/11229.png",Megakip MK
-http://fs2.persik.by/488212/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10605.png" tvg-logo="https://persik.by/media/channels/logos/10605.png",Minsk 4K
-http://fs2.persik.by/395342/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11262.png" tvg-logo="https://persik.by/media/channels/logos/11262.png",Английские субтитры
-http://fs2.persik.by/460333_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10607.png" tvg-logo="https://persik.by/media/channels/logos/10607.png",Андрей Сенькевич
-http://fs2.persik.by/394999/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11292.png" tvg-logo="https://persik.by/media/channels/logos/11292.png",Анекдот ТВ
-http://fs2.persik.by/464778/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11128.png" tvg-logo="https://persik.by/media/channels/logos/11128.png",Аниме
-http://fs1.persik.by/487612/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11110.png" tvg-logo="https://persik.by/media/channels/logos/11110.png",Априори
-http://fs2.persik.by/487011/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11257.png" tvg-logo="https://persik.by/media/channels/logos/11257.png",Бабанцуйка
-http://fs2.persik.by/462865/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11219.png" tvg-logo="https://persik.by/media/channels/logos/11219.png",Бандероль
-http://fs2.persik.by/484055/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11166.png" tvg-logo="https://persik.by/media/channels/logos/11166.png",Horror Movies HD
-http://fs1.persik.by/489112/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11070.png" tvg-logo="https://persik.by/media/channels/logos/11070.png",Бесплатная подписка
-http://fs2.persik.by/485212/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11041.png" tvg-logo="https://persik.by/media/channels/logos/11041.png",Биография
-http://fs1.persik.by/483541/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11313.png" tvg-logo="https://persik.by/media/channels/logos/11313.png",Большой завтрак
-http://fs2.persik.by/488213/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10753.png" tvg-logo="https://persik.by/media/channels/logos/10753.png",Вдохновение HD
-http://fs2.persik.by/447588/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11263.png" tvg-logo="https://persik.by/media/channels/logos/11263.png",Версия
-http://fs2.persik.by/439402/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11273.png" tvg-logo="https://persik.by/media/channels/logos/11273.png",Военные сериалы
-http://fs1.persik.by/462721_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11167.png" tvg-logo="https://persik.by/media/channels/logos/11167.png",Военные фильмы HD
-http://fs1.persik.by/489152_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11342.png" tvg-logo="https://persik.by/media/channels/logos/11342.png",Всё для рыбалки
-http://fs2.persik.by/488674/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11294.png" tvg-logo="https://persik.by/media/channels/logos/11294.png",Всё о мозге
-http://fs2.persik.by/393802_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11272.png" tvg-logo="https://persik.by/media/channels/logos/11272.png",Вторая мировая
-http://fs1.persik.by/462722_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11309.png" tvg-logo="https://persik.by/media/channels/logos/11309.png",Выпечка
-http://fs2.persik.by/466202/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11304.png" tvg-logo="https://persik.by/media/channels/logos/11304.png",Голос Мудрости
-http://fs2.persik.by/487431/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10634.png" tvg-logo="https://persik.by/media/channels/logos/10634.png",Граф Чапский
-http://fs2.persik.by/397007/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11233.png" tvg-logo="https://persik.by/media/channels/logos/11233.png",Гурт Раница
-http://fs2.persik.by/405076/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10687.png" tvg-logo="https://persik.by/media/channels/logos/10687.png",Детектив HD
-http://fs1.persik.by/409110/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11047.png" tvg-logo="https://persik.by/media/channels/logos/11047.png",Детективное кино HD
-http://fs1.persik.by/484045/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11179.png" tvg-logo="https://persik.by/media/channels/logos/11179.png",Детективные сериалы HD
-http://fs1.persik.by/489789_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10746.png" tvg-logo="https://persik.by/media/channels/logos/10746.png",Детские мультфильмы HD
-http://fs2.persik.by/409143/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11028.png" tvg-logo="https://persik.by/media/channels/logos/11028.png",Документальное кино HD
-http://fs1.persik.by/482870/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10756.png" tvg-logo="https://persik.by/media/channels/logos/10756.png",Дружба HD
-http://fs2.persik.by/447586/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11300.png" tvg-logo="https://persik.by/media/channels/logos/11300.png",Живое слово
-http://fs2.persik.by/476231/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11305.png" tvg-logo="https://persik.by/media/channels/logos/11305.png",AliПокупки
-http://fs2.persik.by/488890/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11259.png" tvg-logo="https://persik.by/media/channels/logos/11259.png",Закон Гука
-http://fs2.persik.by/394982/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11228.png" tvg-logo="https://persik.by/media/channels/logos/11228.png",Закон Оригами
-http://fs2.persik.by/488884/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11129.png" tvg-logo="https://persik.by/media/channels/logos/11129.png",Зарубежное кино
-http://fs1.persik.by/487672_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11258.png" tvg-logo="https://persik.by/media/channels/logos/11258.png",Зеленахвостыя
-http://fs2.persik.by/394983/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11271.png" tvg-logo="https://persik.by/media/channels/logos/11271.png",Зомби-апокалипсис
-http://fs1.persik.by/462723_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10690.png" tvg-logo="https://persik.by/media/channels/logos/10690.png",История HD
-http://fs1.persik.by/409114_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11290.png" tvg-logo="https://persik.by/media/channels/logos/11290.png",История кратко
-http://fs2.persik.by/395002_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11266.png" tvg-logo="https://persik.by/media/channels/logos/11266.png",Кино выходного дня
-http://fs1.persik.by/389396_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11037.png" tvg-logo="https://persik.by/media/channels/logos/11037.png",Кино Микс HD
-http://fs1.persik.by/483444_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11216.png" tvg-logo="https://persik.by/media/channels/logos/11216.png",Кино по книгам
-http://fs2.persik.by/485457/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11268.png" tvg-logo="https://persik.by/media/channels/logos/11268.png",Кино про дружбу
-http://fs1.persik.by/462864/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11226.png" tvg-logo="https://persik.by/media/channels/logos/11226.png",Кино про супергероев
-http://fs2.persik.by/485407/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11269.png" tvg-logo="https://persik.by/media/channels/logos/11269.png",Кино с субтитрами
-http://fs1.persik.by/394984_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11213.png" tvg-logo="https://persik.by/media/channels/logos/11213.png",Кино-антистресс
-http://fs2.persik.by/485815_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10716.png" tvg-logo="https://persik.by/media/channels/logos/10716.png",КиноТОП HD
-http://fs1.persik.by/409135/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11231.png" tvg-logo="https://persik.by/media/channels/logos/11231.png",Коктейль Шаляпина
-http://fs2.persik.by/405074/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11237.png" tvg-logo="https://persik.by/media/channels/logos/11237.png",Комедийные боевики
-http://fs1.persik.by/394995_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11274.png" tvg-logo="https://persik.by/media/channels/logos/11274.png",Комедийные сериалы
-http://fs1.persik.by/394447_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11168.png" tvg-logo="https://persik.by/media/channels/logos/11168.png",Комедийные фильмы HD
-http://fs1.persik.by/489192_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11293.png" tvg-logo="https://persik.by/media/channels/logos/11293.png",Космос
-http://fs2.persik.by/464781/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10696.png" tvg-logo="https://persik.by/media/channels/logos/10696.png",Криминал HD
-http://fs1.persik.by/409117/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11135.png" tvg-logo="https://persik.by/media/channels/logos/11135.png",Лёгкое кино
-http://fs1.persik.by/488004_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11048.png" tvg-logo="https://persik.by/media/channels/logos/11048.png",Лучшие драмы HD
-http://fs1.persik.by/484056/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11145.png" tvg-logo="https://persik.by/media/channels/logos/11145.png",Лучшие сериалы HD
-http://fs1.persik.by/488505_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10751.png" tvg-logo="https://persik.by/media/channels/logos/10751.png",Любовь HD
-http://fs2.persik.by/447585/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11301.png" tvg-logo="https://persik.by/media/channels/logos/11301.png",Люди и история
-http://fs2.persik.by/393805/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11270.png" tvg-logo="https://persik.by/media/channels/logos/11270.png",Маньяки
-http://fs2.persik.by/462724/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11306.png" tvg-logo="https://persik.by/media/channels/logos/11306.png",Мастер-класс
-http://fs2.persik.by/488359/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11096.png" tvg-logo="https://persik.by/media/channels/logos/11096.png",Машков
-http://fs1.persik.by/486362/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10699.png" tvg-logo="https://persik.by/media/channels/logos/10699.png",Мелодрама HD
-http://fs1.persik.by/409118_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11303.png" tvg-logo="https://persik.by/media/channels/logos/11303.png",Мир на ладони
-http://fs2.persik.by/410219_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11295.png" tvg-logo="https://persik.by/media/channels/logos/11295.png",Мир фокусов
-http://fs2.persik.by/463790/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11138.png" tvg-logo="https://persik.by/media/channels/logos/11138.png",Мировое кино HD
-http://fs1.persik.by/488248/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11078.png" tvg-logo="https://persik.by/media/channels/logos/11078.png",Миронов
-http://fs1.persik.by/485755/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10755.png" tvg-logo="https://persik.by/media/channels/logos/10755.png",Молодость HD
-http://fs2.persik.by/447590/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10747.png" tvg-logo="https://persik.by/media/channels/logos/10747.png",Музыкальные фильмы HD
-http://fs1.persik.by/447582/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11032.png" tvg-logo="https://persik.by/media/channels/logos/11032.png",Мультики HD
-http://fs1.persik.by/483151/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10748.png" tvg-logo="https://persik.by/media/channels/logos/10748.png",Мультсериалы HD
-http://fs1.persik.by/447816_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11030.png" tvg-logo="https://persik.by/media/channels/logos/11030.png",Наши сериалы HD
-http://fs1.persik.by/483074/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11027.png" tvg-logo="https://persik.by/media/channels/logos/11027.png",Новинки HD
-http://fs1.persik.by/482832_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11158.png" tvg-logo="https://persik.by/media/channels/logos/11158.png",Новогодние фильмы HD
-http://fs1.persik.by/488891/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10738.png" tvg-logo="https://persik.by/media/channels/logos/10738.png",Новое кино HD
-http://fs1.persik.by/409137/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11275.png" tvg-logo="https://persik.by/media/channels/logos/11275.png",Новые комедии
-http://fs1.persik.by/396985_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11234.png" tvg-logo="https://persik.by/media/channels/logos/11234.png",Нямiга
-http://fs2.persik.by/446283/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10752.png" tvg-logo="https://persik.by/media/channels/logos/10752.png",Остросюжетные сериалы HD
-http://fs1.persik.by/409140/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11074.png" tvg-logo="https://persik.by/media/channels/logos/11074.png",Подписка SLUHAY бесплатно
-http://fs2.persik.by/485519/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11249.png" tvg-logo="https://persik.by/media/channels/logos/11249.png",Поп
-http://fs2.persik.by/484463/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11218.png" tvg-logo="https://persik.by/media/channels/logos/11218.png",Поп Наука
-http://fs2.persik.by/476225/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11308.png" tvg-logo="https://persik.by/media/channels/logos/11308.png",ПОП Психология
-http://fs2.persik.by/405064/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11024.png" tvg-logo="https://persik.by/media/channels/logos/11024.png",Популярное кино HD
-http://fs1.persik.by/482801_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11310.png" tvg-logo="https://persik.by/media/channels/logos/11310.png",ПП Десерты
-http://fs2.persik.by/450854/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10707.png" tvg-logo="https://persik.by/media/channels/logos/10707.png",Приключения HD
-http://fs1.persik.by/409119_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11256.png" tvg-logo="https://persik.by/media/channels/logos/11256.png",Проект "Юго-Запд"
-http://fs2.persik.by/462866/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11265.png" tvg-logo="https://persik.by/media/channels/logos/11265.png",Психологические ужасы
-http://fs2.persik.by/462720_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11278.png" tvg-logo="https://persik.by/media/channels/logos/11278.png",Путешествие во времени
-http://fs1.persik.by/462737_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11029.png" tvg-logo="https://persik.by/media/channels/logos/11029.png",Романтик комедии
-http://fs1.persik.by/482751/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11136.png" tvg-logo="https://persik.by/media/channels/logos/11136.png",Романтические фильмы
-http://fs1.persik.by/488227_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10717.png" tvg-logo="https://persik.by/media/channels/logos/10717.png",РосКино HD
-http://fs1.persik.by/409136/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11131.png" tvg-logo="https://persik.by/media/channels/logos/11131.png",Семейные фильмы
-http://fs1.persik.by/487750_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10710.png" tvg-logo="https://persik.by/media/channels/logos/10710.png",Семья HD
-http://fs1.persik.by/409122_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11297.png" tvg-logo="https://persik.by/media/channels/logos/11297.png",Сказки Eng
-http://fs2.persik.by/487432/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10745.png" tvg-logo="https://persik.by/media/channels/logos/10745.png",Сказки HD
-http://fs2.persik.by/446714/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11302.png" tvg-logo="https://persik.by/media/channels/logos/11302.png",Тесты
-http://fs2.persik.by/464888/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11018.png" tvg-logo="https://persik.by/media/channels/logos/11018.png",Топ кино HD
-http://fs1.persik.by/482444_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11046.png" tvg-logo="https://persik.by/media/channels/logos/11046.png",Триллер HD
-http://fs1.persik.by/483870/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10713.png" tvg-logo="https://persik.by/media/channels/logos/10713.png",Триллеры HD
-http://fs1.persik.by/409125_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11277.png" tvg-logo="https://persik.by/media/channels/logos/11277.png",Триллеры и Боевики
-http://fs1.persik.by/462739_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11276.png" tvg-logo="https://persik.by/media/channels/logos/11276.png",Триллеры и Драма
-http://fs2.persik.by/396982_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11215.png" tvg-logo="https://persik.by/media/channels/logos/11215.png",Триллеры США
-http://fs1.persik.by/404439_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11296.png" tvg-logo="https://persik.by/media/channels/logos/11296.png",Учим English
-http://fs2.persik.by/405070/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10740.png" tvg-logo="https://persik.by/media/channels/logos/10740.png",Фестивальное кино HD
-http://fs1.persik.by/482900_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11169.png" tvg-logo="https://persik.by/media/channels/logos/11169.png",Фильмы Боевики HD
-http://fs1.persik.by/489224_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11264.png" tvg-logo="https://persik.by/media/channels/logos/11264.png",Фильмы катастрофы
-http://fs1.persik.by/404445/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11045.png" tvg-logo="https://persik.by/media/channels/logos/11045.png",Фильмы приключения HD
-http://fs1.persik.by/483816/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11133.png" tvg-logo="https://persik.by/media/channels/logos/11133.png",Фильмы про отдых
-http://fs1.persik.by/487850/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11013.png" tvg-logo="https://persik.by/media/channels/logos/11013.png",Фильмы ужасов HD
-http://fs1.persik.by/482498/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11060.png" tvg-logo="https://persik.by/media/channels/logos/11060.png",Фэнтези HD
-http://fs1.persik.by/484146/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11122.png" tvg-logo="https://persik.by/media/channels/logos/11122.png",Чиповская
-http://fs1.persik.by/487169/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11242.png" tvg-logo="https://persik.by/media/channels/logos/11242.png",Шпионы и разведчики
-http://fs1.persik.by/447124_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/10754.png" tvg-logo="https://persik.by/media/channels/logos/10754.png",Экранизации HD
-http://fs2.persik.by/447587_2/index.m3u8
-#EXTINF:-1 group-title="https://persik.by/media/channels/logos/11132.png" tvg-logo="https://persik.by/media/channels/logos/11132.png",Экшн-фильмы
-http://fs1.persik.by/487969_2/index.m3u8
+http://5.153.190.251:8000/play/a02j
+#EXTINF:-1 ,Футбол
+http://5.153.190.251:8000/play/a07a
+#EXTINF:-1 ,Viasat Sport
+http://5.153.190.251:8003/play/a01k
+#EXTINF:-1 ,Старт
+http://5.153.190.251:8003/play/a054
+#EXTINF:-1 ,Спортивный HD
+http://5.153.190.251:8003/play/a079
+#EXTINF:-1 ,Бокс ТВ
+http://5.153.190.251:8003/play/a01v
