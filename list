@@ -193,3 +193,65 @@ http://81.177.197.13:8000/play/a00h/index.m3u8
 http://81.177.197.13:8000/play/a00j/index.m3u8
 #EXTINF:-1 ,МАТЧ ТВ
 http://81.177.197.13:8000/play/a002/index.m3u8
+#EXTINF:-1 ,DISCOVERY CHANNEL
+http://94.158.54.107/60/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ЗДОРОВОЕ ТВ
+http://94.158.54.107/73/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ИСТОРИЯ
+http://94.158.54.107/161/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ЖИВАЯ ПЛАНЕТА
+http://94.158.54.107/162/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ГЛАЗАМИ ТУРИСТА HD
+http://94.158.54.107/163/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ВОПРОСЫ И ОТВЕТЫ
+http://94.158.54.107/74/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,HD Life
+http://94.158.54.107/75/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,АВТО 24
+http://94.158.54.107/76/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ДРАЙВ
+http://94.158.54.107/77/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КУХНЯ ТВ
+http://94.158.54.107/19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ДОРАМА
+http://94.158.54.107/80/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,DUCK TV
+http://94.158.54.107/149/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,В ГОСТЯХ У СКАЗКИ
+http://94.158.54.107/152/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КАПИТАН ФАНТАСТИКА HD
+http://94.158.54.107/153/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Первый космический
+http://94.158.54.107/155/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,INSIGHT TV HD
+http://94.158.54.107/158/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МАМА
+http://94.158.54.107/160/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,САРАФАН
+http://94.158.54.107/165/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ЖИВИ АКТИВНО HD
+http://94.158.54.107/81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,В МИРЕ ЖИВОТНЫХ HD
+http://94.158.54.107/82/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,CGTN
+http://94.158.54.107/87/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ЗООПАРК
+http://94.158.54.107/89/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ТНВ-ПЛАНЕТА
+http://94.158.54.107/91/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КИНОКОМЕДИЯ
+http://94.158.54.107/92/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КИНОСЕРИЯ
+http://94.158.54.107/93/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,8 КАНАЛ
+http://94.158.54.107/151/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,KHL
+http://94.158.54.107/85/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Матч! Футбол 2
+http://94.158.54.107/86/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MMA-TV.COM
+http://94.158.54.107/88/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Setanta Sports 1 HD
+http://94.158.54.107/94/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Setanta Sports 2 HD
+http://94.158.54.107/95/tracks-v1a1/mono.m3u8
