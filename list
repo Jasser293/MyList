@@ -157,14 +157,10 @@ http://93.125.34.51:30002/Telecafe/index.m3u8
 http://93.125.34.51:30002/MTV/index.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://93.125.34.51:30002/Usadba/index.m3u8
-#EXTINF:-1 ,Центральное телевидение
-http://93.125.34.51:30002/tvc/index.m3u8
 #EXTINF:-1 ,ЧЕ
 http://93.125.34.51:30002/che/index.m3u8
 #EXTINF:-1 ,Мультиландия
 http://93.125.34.51:30002/Multimania/index.m3u8
-#EXTINF:-1 ,TiJi
-http://93.125.34.51:30002/TiJi/index.m3u8
 #EXTINF:-1 ,УНИКУМ
 http://93.125.34.51:30002/Detsky/index.m3u8
 #EXTINF:-1 ,МУЛЬТ HD
@@ -175,8 +171,6 @@ http://93.125.34.51:30002/Karusel/index.m3u8
 http://93.125.34.51:30002/MuzTV/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://93.125.34.51:30002/THT_Music/index.m3u8
-#EXTINF:-1 ,MCM Top
-http://93.125.34.51:30002/MCM_Top/index.m3u8
 #EXTINF:-1 ,RU.TV
 http://93.125.34.51:30002/RU_TV/index.m3u8
 #EXTINF:-1 ,ШАНСОН ТВ
