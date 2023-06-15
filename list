@@ -56,6 +56,8 @@ http://93.125.34.51:30002/sts/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
 http://93.125.34.51:30002/RTVI/index.m3u8
 #EXTINF:-1 ,Ю
+http://192.162.64.222:4000/play/a00u/index.m3u8
+#EXTINF:-1 ,Ю
 http://93.125.34.51:30002/u/index.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА HD
 http://93.125.34.51:30002/MoyaPlaneta/index.m3u8
