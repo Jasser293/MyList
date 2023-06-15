@@ -253,3 +253,31 @@ http://94.158.54.107/88/tracks-v1a1/mono.m3u8
 http://94.158.54.107/94/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2 HD
 http://94.158.54.107/95/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Матч! Арена
+http://192.162.64.99:5000/play/a02e/index.m3u8
+#EXTINF:-1 ,Матч! Боец
+http://192.162.64.99:5000/play/a02a/index.m3u8
+#EXTINF:-1 ,Матч! Игра
+http://192.162.64.99:5000/play/a031/index.m3u8
+#EXTINF:-1 ,Матч! Планета
+http://192.162.64.99:5000/play/a02d/index.m3u8
+#EXTINF:-1 ,Матч! Премьер
+http://192.162.64.99:5000/play/a02b/index.m3u8
+#EXTINF:-1 ,Матч! Страна
+http://192.162.64.99:5000/play/a032/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 1
+http://192.162.64.99:5000/play/a02y/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 2
+http://192.162.64.99:5000/play/a02z/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 3
+http://192.162.64.99:5000/play/a030/index.m3u8
+#EXTINF:-1 ,Старт
+http://192.162.64.99:5000/play/a02h/index.m3u8
+#EXTINF:-1 ,Футбол
+http://192.162.64.99:5000/play/a03h/index.m3u8
+#EXTINF:-1 ,KHL
+http://192.162.64.99:5200/play/a024/index.m3u8
+#EXTINF:-1 ,Мир баскетбола
+http://192.162.64.99:5200/play/a01n/index.m3u8
+#EXTINF:-1 ,Русский экстрим
+http://192.162.64.99:5200/play/a01w/index.m3u8
