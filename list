@@ -35,8 +35,8 @@ http://81.177.197.13:8000/play/a00i/index.m3u8
 http://93.125.34.51:30002/VH1_Classic/index.m3u8
 #EXTINF:-1 ,ТНТ 4
 http://80.251.49.103:8002/play/129
-#EXTINF:-1 ,АВТО 24
-http://94.158.54.107/76/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Авто 24
+http://192.162.64.99:5000/play/a01o/index.m3u8
 #EXTINF:-1 ,АВТО ПЛЮС
 http://93.125.34.51:30002/AvtoPlus/index.m3u8
 #EXTINF:-1 ,СТС
@@ -197,62 +197,410 @@ http://81.177.197.13:8000/play/a00h/index.m3u8
 http://81.177.197.13:8000/play/a00j/index.m3u8
 #EXTINF:-1 ,МАТЧ ТВ
 http://81.177.197.13:8000/play/a002/index.m3u8
-#EXTINF:-1 ,ЗДОРОВОЕ ТВ
-http://94.158.54.107/73/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ИСТОРИЯ
-http://94.158.54.107/161/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ЖИВАЯ ПЛАНЕТА
-http://94.158.54.107/162/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ГЛАЗАМИ ТУРИСТА HD
-http://94.158.54.107/163/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ВОПРОСЫ И ОТВЕТЫ
-http://94.158.54.107/74/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,HD Life
-http://94.158.54.107/75/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ДРАЙВ
-http://94.158.54.107/77/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,КУХНЯ ТВ
-http://94.158.54.107/19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ДОРАМА
-http://94.158.54.107/80/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,DUCK TV
-http://94.158.54.107/149/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,В ГОСТЯХ У СКАЗКИ
-http://94.158.54.107/152/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,КАПИТАН ФАНТАСТИКА HD
-http://94.158.54.107/153/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Первый космический
-http://94.158.54.107/155/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,INSIGHT TV HD
-http://94.158.54.107/158/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,МАМА
-http://94.158.54.107/160/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,САРАФАН
-http://94.158.54.107/165/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ЖИВИ АКТИВНО HD
-http://94.158.54.107/81/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,В МИРЕ ЖИВОТНЫХ HD
-http://94.158.54.107/82/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,CGTN
-http://94.158.54.107/87/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ЗООПАРК
-http://94.158.54.107/89/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ТНВ-ПЛАНЕТА
-http://94.158.54.107/91/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,КИНОКОМЕДИЯ
-http://94.158.54.107/92/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,КИНОСЕРИЯ
-http://94.158.54.107/93/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,8 КАНАЛ
-http://94.158.54.107/151/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,KHL
-http://94.158.54.107/85/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,MMA-TV.COM
-http://94.158.54.107/88/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Setanta Sports 1 HD
-http://94.158.54.107/94/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Setanta Sports 2 HD
-http://94.158.54.107/95/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Первый канал
+http://192.162.64.99:4000/play/a00e/index.m3u8
+#EXTINF:-1 ,Россия 1
+http://192.162.64.99:4000/play/a00f/index.m3u8
+#EXTINF:-1 ,НТВ
+http://192.162.64.99:4000/play/a011/index.m3u8
+#EXTINF:-1 ,Россия К
+http://192.162.64.99:4000/play/a053/index.m3u8
+#EXTINF:-1 ,Россия 24
+http://192.162.64.99:4000/play/a013/index.m3u8
+#EXTINF:-1 ,ОТР
+http://192.162.64.99:4000/play/a03t/index.m3u8
+#EXTINF:-1 ,ТВЦ
+http://192.162.64.99:4000/play/a00i/index.m3u8
+#EXTINF:-1 ,РЕН ТВ
+http://192.162.64.99:4000/play/a00q/index.m3u8
+#EXTINF:-1 ,НТВ Право
+http://192.162.64.99:5100/play/a02p/index.m3u8
+#EXTINF:-1 ,НТВ Сериал
+http://192.162.64.99:5100/play/a02o/index.m3u8
+#EXTINF:-1 ,НТВ Стиль
+http://192.162.64.99:5100/play/a02q/index.m3u8
+#EXTINF:-1 ,НТВ Хит
+http://192.162.64.99:5100/play/a02l/index.m3u8
+#EXTINF:-1 ,RTG TV
+http://192.162.64.99:5000/play/a02u/index.m3u8
+#EXTINF:-1 ,Viasat Explore
+http://192.162.64.99:5000/play/a02o/index.m3u8
+#EXTINF:-1 ,Viasat History
+http://192.162.64.99:5000/play/a02r/index.m3u8
+#EXTINF:-1 ,Viasat Nature
+http://192.162.64.99:5000/play/a02p/index.m3u8
+#EXTINF:-1 ,Большая Азия
+http://192.162.64.99:5000/play/a02v/index.m3u8
+#EXTINF:-1 ,Диалоги о рыбалке
+http://192.162.64.99:5000/play/a03b/index.m3u8
+#EXTINF:-1 ,Дикая охота HD
+http://192.162.64.99:5000/play/a03a/index.m3u8
+#EXTINF:-1 ,Дикая рыбалка HD
+http://192.162.64.99:5000/play/a039/index.m3u8
+#EXTINF:-1 ,Дикий
+http://192.162.64.99:5000/play/a02k/index.m3u8
+#EXTINF:-1 ,Живая планета
+http://192.162.64.99:5000/play/a033/index.m3u8
+#EXTINF:-1 ,История
+http://192.162.64.99:5000/play/a026/index.m3u8
+#EXTINF:-1 ,Нано ТВ
+http://192.162.64.99:5000/play/a02x/index.m3u8
+#EXTINF:-1 ,Телепутешествия
+http://192.162.64.99:5200/play/a021/index.m3u8
+#EXTINF:-1 ,Глазами туриста
+http://192.162.64.99:5200/play/a01a/index.m3u8
+#EXTINF:-1 ,TRAVEL+ADVENTURE
+http://192.162.64.99:5200/play/a025/index.m3u8
+#EXTINF:-1 ,Охота и рыбалка
+http://192.162.64.99:5000/play/a038/index.m3u8
+#EXTINF:-1 ,Первый Вегетарианский
+http://192.162.64.99:5000/play/a03e/index.m3u8
+#EXTINF:-1 ,Совершенно секретно
+http://192.162.64.99:5000/play/a03d/index.m3u8
+#EXTINF:-1 ,Тайны галактики
+http://192.162.64.99:5300/play/a02k/index.m3u8
+#EXTINF:-1 ,Техно 24
+http://192.162.64.99:5000/play/a028/index.m3u8
+#EXTINF:-1 ,Доктор
+http://192.162.64.99:5000/play/a03c/index.m3u8
+#EXTINF:-1 ,Драйв
+http://192.162.64.99:5000/play/a02t/index.m3u8
+#EXTINF:-1 ,Зал суда
+http://192.162.64.99:5000/play/a02n/index.m3u8
+#EXTINF:-1 ,Звезда плюс
+http://192.162.64.99:5000/play/a03g/index.m3u8
+#EXTINF:-1 ,КВН ТВ
+http://192.162.64.99:5000/play/a02l/index.m3u8
+#EXTINF:-1 ,Кто Куда
+http://192.162.64.99:5000/play/a03f/index.m3u8
+#EXTINF:-1 ,Лапки live
+http://192.162.64.99:5000/play/a02w/index.m3u8
+#EXTINF:-1 ,Моя планета
+http://192.162.64.99:5000/play/a029/index.m3u8
+#EXTINF:-1 ,Zooпарк
+http://192.162.64.99:5000/play/a02q/index.m3u8
+#EXTINF:-1 ,Gags Network
+http://192.162.64.99:5000/play/a02j/index.m3u8
+#EXTINF:-1 ,Наука 2.0
+http://192.162.64.99:5000/play/a027/index.m3u8
+#EXTINF:-1 ,Наша тема
+http://192.162.64.99:5000/play/a02c/index.m3u8
+#EXTINF:-1 ,Ностальгия
+http://192.162.64.99:5000/play/a02m/index.m3u8
+#EXTINF:-1 ,Тномер
+http://192.162.64.99:5000/play/a02s/index.m3u8
+#EXTINF:-1 ,Точка отрыва
+http://192.162.64.99:5000/play/a037/index.m3u8
+#EXTINF:-1 ,Авто Плюс
+http://192.162.64.99:5200/play/a017/index.m3u8
+#EXTINF:-1 ,Время
+http://192.162.64.99:5200/play/a019/index.m3u8
+#EXTINF:-1 ,Живи
+http://192.162.64.99:5200/play/a01d/index.m3u8
+#EXTINF:-1 ,Здоровое ТВ
+http://192.162.64.99:5200/play/a01f/index.m3u8
+#EXTINF:-1 ,Кто есть кто
+http://192.162.64.99:5200/play/a01h/index.m3u8
+#EXTINF:-1 ,Пятый канал
+http://192.162.64.99:4000/play/a00j/index.m3u8
+#EXTINF:-1 ,Мама
+http://192.162.64.99:5200/play/a01i/index.m3u8
+#EXTINF:-1 ,Моя стихия
+http://192.162.64.99:5200/play/a01p/index.m3u8
+#EXTINF:-1 ,Оружие
+http://192.162.64.99:5200/play/a01r/index.m3u8
+#EXTINF:-1 ,Поехали!
+http://192.162.64.99:5200/play/a01t/index.m3u8
+#EXTINF:-1 ,Усадьба
+http://192.162.64.99:5200/play/a023/index.m3u8
+#EXTINF:-1 ,6 ТВ Горловка
+http://192.162.64.99:4000/play/a06k/index.m3u8
+#EXTINF:-1 ,Крым 24
+http://192.162.64.99:4000/play/a069/index.m3u8
+#EXTINF:-1 ,Мир Белогорья
+http://192.162.64.99:4000/play/a06j/index.m3u8
+#EXTINF:-1 ,Новороссия HD
+http://192.162.64.99:4000/play/a02c/index.m3u8
+#EXTINF:-1 ,Оплот ТВ HD
+http://192.162.64.99:4000/play/a02a/index.m3u8
+#EXTINF:-1 ,Первый Крымский
+http://192.162.64.222:4000/play/a068/index.m3u8
+#EXTINF:-1 ,Юнион HD
+http://192.162.64.222:4000/play/a02d/index.m3u8
+#EXTINF:-1 ,360° НОВОСТИ
+http://192.162.64.99:4000/play/a00b/index.m3u8
+#EXTINF:-1 ,360° Подмосковье HD
+http://192.162.64.99:4000/play/a05k/index.m3u8
+#EXTINF:-1 ,5 канал Int
+http://192.162.64.99:4000/play/a05e/index.m3u8
+#EXTINF:-1 ,7ТВ
+http://192.162.64.99:4000/play/a066/index.m3u8
+#EXTINF:-1 ,8 канал
+http://192.162.64.99:4000/play/a010/index.m3u8
+#EXTINF:-1 ,Беларусь 24
+http://192.162.64.99:4000/play/a00n/index.m3u8
+#EXTINF:-1 ,Беларусь 24
+http://192.162.64.222:4000/play/a00n/index.m3u8
+#EXTINF:-1 ,БелРос
+http://192.162.64.99:4000/play/a01l/index.m3u8
+#EXTINF:-1 ,Вместе-РФ
+http://192.162.64.99:4000/play/a04l/index.m3u8
+#EXTINF:-1 ,Домашний
+http://192.162.64.222:4000/play/a00v/index.m3u8
+#EXTINF:-1 ,Домашний international
+http://192.162.64.99:4000/play/a05i/index.m3u8
+#EXTINF:-1 ,Звезда
+http://192.162.64.99:4000/play/a00o/index.m3u8
+#EXTINF:-1 ,Известия
+http://192.162.64.99:4000/play/a06a/index.m3u8
+#EXTINF:-1 ,Калейдоскоп ТВ
+http://192.162.64.99:4000/play/a03u/index.m3u8
+#EXTINF:-1 ,Карусель
+http://192.162.64.99:4000/play/a05b/index.m3u8
+#EXTINF:-1 ,Красная линия
+http://192.162.64.222:4000/play/a062/index.m3u8
+#EXTINF:-1 ,ЛДПР ТВ
+http://192.162.64.99:4000/play/a061/index.m3u8
+#EXTINF:-1 ,Луганск 24
+http://192.162.64.222:4000/play/a00k/index.m3u8
+#EXTINF:-1 ,Мир
+http://192.162.64.99:4000/play/a05d/index.m3u8
+#EXTINF:-1 ,Мир  24
+http://192.162.64.222:4000/play/a014/index.m3u8
+#EXTINF:-1 ,Москва 24
+http://192.162.64.99:4000/play/a05j/index.m3u8
+#EXTINF:-1 ,Москва. Доверие
+http://192.162.64.99:4000/play/a03v/index.m3u8
+#EXTINF:-1 ,Муз ТВ
+http://192.162.64.99:4000/play/a029/index.m3u8
+#EXTINF:-1 ,Открытый мир
+http://192.162.64.99:4000/play/a06m/index.m3u8
+#EXTINF:-1 ,Перец international
+http://192.162.64.222:4000/play/a05g/index.m3u8
+#EXTINF:-1 ,Победа
+http://192.162.64.99:4000/play/a00p/index.m3u8
+#EXTINF:-1 ,Продвижение
+http://192.162.64.222:4000/play/a06i/index.m3u8
+#EXTINF:-1 ,Пятница
+http://192.162.64.99:4000/play/a027/index.m3u8
+#EXTINF:-1 ,Пятый канал
+http://192.162.64.222:4000/play/a00j/index.m3u8
+#EXTINF:-1 ,РБК
+http://192.162.64.99:4000/play/a015/index.m3u8
+#EXTINF:-1 ,Соловьев live
+http://192.162.64.99:4000/play/a06d/index.m3u8
+#EXTINF:-1 ,Союз
+http://192.162.64.99:4000/play/a056/index.m3u8
+#EXTINF:-1 ,Домашние животные
+http://192.162.64.99:5300/play/a027/index.m3u8
+#EXTINF:-1 ,Кухня ТВ
+http://192.162.64.99:5300/play/a025/index.m3u8
+#EXTINF:-1 ,Психология 21
+http://192.162.64.99:5300/play/a028/index.m3u8
+#EXTINF:-1 ,Спас
+http://192.162.64.222:4000/play/a05c/index.m3u8
+#EXTINF:-1 ,СТС
+http://192.162.64.99:4000/play/a00s/index.m3u8
+#EXTINF:-1 ,СТС International
+http://192.162.64.99:4000/play/a05h/index.m3u8
+#EXTINF:-1 ,СТС Love
+http://192.162.64.99:4000/play/a00t/index.m3u8
+#EXTINF:-1 ,Суббота
+http://192.162.64.222:4000/play/a00w/index.m3u8
+#EXTINF:-1 ,ТВ Центр International
+http://192.162.64.222:4000/play/a00z/index.m3u8
+#EXTINF:-1 ,ТВ3
+http://192.162.64.222:4000/play/a051/index.m3u8
+#EXTINF:-1 ,ТВЦ
+http://192.162.64.222:4000/play/a00i/index.m3u8
+#EXTINF:-1 ,Центральное телевидение
+http://192.162.64.222:4000/play/a05y/index.m3u8
+#EXTINF:-1 ,Че
+http://192.162.64.222:4000/play/a00r/index.m3u8
+#EXTINF:-1 ,Ю
+http://192.162.64.222:4000/play/a00u/index.m3u8
+#EXTINF:-1 ,Ювелирочка
+http://192.162.64.222:4000/play/a059/index.m3u8
+#EXTINF:-1 ,.Black
+http://192.162.64.99:5100/play/a036/index.m3u8
+#EXTINF:-1 ,.Red
+http://192.162.64.99:5100/play/a037/index.m3u8
+#EXTINF:-1 ,.Sci-Fi
+http://192.162.64.99:5100/play/a038/index.m3u8
+#EXTINF:-1 ,Hollywood
+http://192.162.64.99:5100/play/a02i/index.m3u8
+#EXTINF:-1 ,KinoJam 2
+http://192.162.64.99:5100/play/a02h/index.m3u8
+#EXTINF:-1 ,Plan B HD
+http://192.162.64.99:5100/play/a02t/index.m3u8
+#EXTINF:-1 ,SHOT TV
+http://192.162.64.99:5100/play/a02y/index.m3u8
+#EXTINF:-1 ,Star Cinema
+http://192.162.64.99:5100/play/a02v/index.m3u8
+#EXTINF:-1 ,Star Family
+http://192.162.64.99:5100/play/a02u/index.m3u8
+#EXTINF:-1 ,TV1000
+http://192.162.64.99:5100/play/a024/index.m3u8
+#EXTINF:-1 ,TV1000 Action
+http://192.162.64.99:5100/play/a025/index.m3u8
+#EXTINF:-1 ,TV1000 Русское кино
+http://192.162.64.99:5100/play/a023/index.m3u8
+#EXTINF:-1 ,BOLT
+http://192.162.64.99:5100/play/a02x/index.m3u8
+#EXTINF:-1 ,Дом Кино
+http://192.162.64.99:5100/play/a01y/index.m3u8
+#EXTINF:-1 ,Еврокино
+http://192.162.64.99:5100/play/a02s/index.m3u8
+#EXTINF:-1 ,Иллюзион +
+http://192.162.64.99:5100/play/a02j/index.m3u8
+#EXTINF:-1 ,Индийское кино
+http://192.162.64.99:5100/play/a02m/index.m3u8
+#EXTINF:-1 ,Кино ТВ
+http://192.162.64.99:5100/play/a02b/index.m3u8
+#EXTINF:-1 ,Киномикс HD
+http://192.162.64.99:5100/play/a02g/index.m3u8
+#EXTINF:-1 ,Родное кино
+http://192.162.64.99:5100/play/a01z/index.m3u8
+#EXTINF:-1 ,Мужское кино HD
+http://192.162.64.99:5100/play/a028/index.m3u8
+#EXTINF:-1 ,Наше Новое Кино
+http://192.162.64.99:5100/play/a02z/index.m3u8
+#EXTINF:-1 ,Кинопремьера
+http://192.162.64.99:5100/play/a02a/index.m3u8
+#EXTINF:-1 ,Кинокомедия
+http://192.162.64.99:5200/play/a02o/index.m3u8
+#EXTINF:-1 ,Киносерия
+http://192.162.64.99:5200/play/a02p/index.m3u8
+#EXTINF:-1 ,Киноужас
+http://192.162.64.99:5200/play/a02s/index.m3u8
+#EXTINF:-1 ,Киносат
+http://192.162.64.99:5100/play/a02d/index.m3u8
+#EXTINF:-1 ,Киносвидание
+http://192.162.64.99:5100/play/a029/index.m3u8
+#EXTINF:-1 ,Киносемья
+http://192.162.64.99:5100/play/a026/index.m3u8
+#EXTINF:-1 ,Кинохит HD
+http://192.162.64.99:5100/play/a027/index.m3u8
+#EXTINF:-1 ,Комедия
+http://192.162.64.99:5100/play/a02k/index.m3u8
+#EXTINF:-1 ,Любимое кино
+http://192.162.64.99:5100/play/a02w/index.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://192.162.64.99:5100/play/a02e/index.m3u8
+#EXTINF:-1 ,НСТ
+http://192.162.64.99:5100/play/a02c/index.m3u8
+#EXTINF:-1 ,Русский бестселлер
+http://192.162.64.99:5100/play/a020/index.m3u8
+#EXTINF:-1 ,Русский детектив
+http://192.162.64.99:5100/play/a021/index.m3u8
+#EXTINF:-1 ,Русский Иллюзион
+http://192.162.64.99:5100/play/a02r/index.m3u8
+#EXTINF:-1 ,Русский Роман
+http://192.162.64.99:5100/play/a022/index.m3u8
+#EXTINF:-1 ,A2
+http://192.162.64.99:5200/play/a027/index.m3u8
+#EXTINF:-1 ,Cinema
+http://192.162.64.99:5200/play/a029/index.m3u8
+#EXTINF:-1 ,START air
+http://192.162.64.99:5200/play/a02u/index.m3u8
+#EXTINF:-1 ,START World HD
+http://192.162.64.99:5200/play/a02b/index.m3u8
+#EXTINF:-1 ,Timeless Dizi Channel
+http://192.162.64.99:5200/play/a02l/index.m3u8
+#EXTINF:-1 ,VIP Comedy HD
+http://192.162.64.99:5200/play/a02d/index.m3u8
+#EXTINF:-1 ,VIP Megahit HD
+http://192.162.64.99:5200/play/a02e/index.m3u8
+#EXTINF:-1 ,VIP Premiere HD
+http://192.162.64.99:5200/play/a02f/index.m3u8
+#EXTINF:-1 ,Сапфир
+http://192.162.64.99:5200/play/a02m/index.m3u8
+#EXTINF:-1 ,2x2
+http://192.162.64.99:4000/play/a028/index.m3u8
+#EXTINF:-1 ,Ani
+http://192.162.64.99:5100/play/a031/index.m3u8
+#EXTINF:-1 ,Da Vinci
+http://192.162.64.99:5100/play/a030/index.m3u8
+#EXTINF:-1 ,В гостях у сказки
+http://192.162.64.99:5100/play/a033/index.m3u8
+#EXTINF:-1 ,Детский мир
+http://192.162.64.99:4000/play/a06e/index.m3u8
+#EXTINF:-1 ,Лёва HD
+http://192.162.64.99:5100/play/a035/index.m3u8
+#EXTINF:-1 ,Мульт
+http://192.162.64.99:4000/play/a026/index.m3u8
+#EXTINF:-1 ,Мультиландия
+http://192.162.64.99:5100/play/a034/index.m3u8
+#EXTINF:-1 ,Мультимузыка
+http://192.162.64.99:5100/play/a032/index.m3u8
+#EXTINF:-1 ,Планета Дети
+http://192.162.64.222:4000/play/a05n/index.m3u8
+#EXTINF:-1 ,Солнце
+http://192.162.64.99:4000/play/a057/index.m3u8
+#EXTINF:-1 ,СТС Kids
+http://192.162.64.222:4000/play/a05q/index.m3u8
+#EXTINF:-1 ,Уникум
+http://192.162.64.99:4000/play/a06f/index.m3u8
+#EXTINF:-1 ,Gulli Girl
+http://192.162.64.99:5200/play/a03e/index.m3u8
+#EXTINF:-1 ,TiJi
+http://192.162.64.99:5200/play/a03f/index.m3u8
+#EXTINF:-1 ,О!
+http://192.162.64.99:5200/play/a039/index.m3u8
+#EXTINF:-1 ,Рыжий
+http://192.162.64.99:5200/play/a038/index.m3u8
+#EXTINF:-1 ,Смайлик ТВ
+http://192.162.64.99:5200/play/a03a/index.m3u8
+#EXTINF:-1 ,СуперГерои
+http://192.162.64.99:5200/play/a03b/index.m3u8
+#EXTINF:-1 ,Baby Time
+http://192.162.64.222:4000/play/a05u/index.m3u8
+#EXTINF:-1 ,Bridge TV
+http://192.162.64.99:4000/play/a03n/index.m3u8
+#EXTINF:-1 ,Bridge TV Classic
+http://192.162.64.99:4000/play/a05s/index.m3u8
+#EXTINF:-1 ,Bridge TV hits
+http://192.162.64.99:4000/play/a05o/index.m3u8
+#EXTINF:-1 ,Bridge tv Rock
+http://192.162.64.99:4000/play/a05t/index.m3u8
+#EXTINF:-1 ,Bridge TV Русский Хит
+http://192.162.64.99:4000/play/a05p/index.m3u8
+#EXTINF:-1 ,Bridge TV Шлягер
+http://192.162.64.99:4000/play/a05r/index.m3u8
+#EXTINF:-1 ,Classic Music
+http://192.162.64.222:4000/play/a06g/index.m3u8
+#EXTINF:-1 ,Europa Plus TV
+http://192.162.64.222:4000/play/a06o/index.m3u8
+#EXTINF:-1 ,MusicBox
+http://192.162.64.222:4000/play/a065/index.m3u8
+#EXTINF:-1 ,RU.TV
+http://192.162.64.99:4000/play/a05v/index.m3u8
+#EXTINF:-1 ,Жара
+http://192.162.64.99:4000/play/a06h/index.m3u8
+#EXTINF:-1 ,О2ТВ
+http://192.162.64.222:4000/play/a06b/index.m3u8
+#EXTINF:-1 ,ТНТ music
+http://192.162.64.222:4000/play/a058/index.m3u8
+#EXTINF:-1 ,Шансон-TB
+http://192.162.64.222:4000/play/a067/index.m3u8
+#EXTINF:-1 ,Bridge TV Deluxe
+http://192.162.64.99:5200/play/a03g/index.m3u8
+#EXTINF:-1 ,MusicBox Gold
+http://192.162.64.99:5200/play/a03h/index.m3u8
+#EXTINF:-1 ,Жара kids
+http://192.162.64.99:5200/play/a032/index.m3u8
+#EXTINF:-1 ,Музыка Первого
+http://192.162.64.99:5200/play/a035/index.m3u8
+#EXTINF:-1 ,Extreme Sports
+http://192.162.64.99:5000/play/a02f/index.m3u8
+#EXTINF:-1 ,VIASAT Sport
+http://192.162.64.99:5000/play/a02g/index.m3u8
+#EXTINF:-1 ,Конный мир
+http://192.162.64.99:5000/play/a02i/index.m3u8
+#EXTINF:-1 ,Матч HD
+http://192.162.64.99:5000/play/a036/index.m3u8
+#EXTINF:-1 ,Матч ТВ
+http://192.162.64.222:4000/play/a01j/index.m3u8
 #EXTINF:-1 ,Матч! Арена
 http://192.162.64.99:5000/play/a02e/index.m3u8
 #EXTINF:-1 ,Матч! Боец
@@ -281,3 +629,7 @@ http://192.162.64.99:5200/play/a024/index.m3u8
 http://192.162.64.99:5200/play/a01n/index.m3u8
 #EXTINF:-1 ,Русский экстрим
 http://192.162.64.99:5200/play/a01w/index.m3u8
+#EXTINF:-1 ,Моторспорт ТВ
+http://192.162.64.99:5300/play/a02h/index.m3u8
+#EXTINF:-1 ,MMA-TV.COM
+http://192.162.64.99:5300/play/a029/index.m3u8
