@@ -32,7 +32,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,ТНТ
 http://81.177.197.13:8000/play/a00i/index.m3u8
 #EXTINF:-1 ,ТНТ 4
-http://80.251.49.103:8002/play/129
+https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,Авто 24
 http://192.162.64.99:5000/play/a01o/index.m3u8
 #EXTINF:-1 ,Авто Плюс
