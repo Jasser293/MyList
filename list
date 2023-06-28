@@ -3,295 +3,197 @@
 http://81.177.197.13:8000/play/a001/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:-1 ,Первый канал
-rtmp://178.159.112.198//pervyj
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
+#EXTINF:-1 ,Первый канал
+http://80.251.49.103:8002/play/3
 #EXTINF:-1 ,НТВ
 http://81.177.197.13:8000/play/a003/index.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:-1 ,НТВ
-rtmp://178.159.112.198//ntv
 #EXTINF:-1 ,НТВ HD
-rtmp://178.159.112.198//ntv_hd
+http://80.251.49.103:8003/play/116
 #EXTINF:-1 ,РОССИЯ К
 http://81.177.197.13:8000/play/a005/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://81.177.197.13:8000/play/a00l/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://europe3.livetv.az/russia/rossiya24_sd_new_2023/playlist.m3u8
+#EXTINF:-1 ,Россия 24
+http://80.251.49.103:8001/play/30
 #EXTINF:-1 ,РОССИЯ 1
 http://81.177.197.13:8000/play/a00k/index.m3u8
 #EXTINF:-1 ,Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,Россия HD
-rtmp://178.159.112.198//russia_hd
+#EXTINF:-1 ,Россия 1 HD
+http://80.251.49.103:8003/play/110
+#EXTINF:-1 ,Россия 1
+http://80.251.49.103:8003/play/4
 #EXTINF:-1 ,РЕН ТВ
 http://81.177.197.13:8000/play/a00a/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
-#EXTINF:-1 ,Рен ТВ
-rtmp://178.159.112.198//rentv
+#EXTINF:-1 ,РЕН ТВ
+http://80.251.49.103:8004/play/1
 #EXTINF:-1 ,ТНТ
 http://81.177.197.13:8000/play/a00i/index.m3u8
 #EXTINF:-1 ,ТНТ 4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ
-rtmp://178.159.112.198//tnt
-#EXTINF:-1 ,ТНТ HD
-rtmp://178.159.112.198//tnt_hd
+http://80.251.49.103:8001/play/7
 #EXTINF:-1 ,ТНТ4
-rtmp://178.159.112.198//tnt4
+http://80.251.49.103:8002/play/129
 #EXTINF:-1 ,СТС
 http://81.177.197.13:8000/play/a00c/index.m3u8
 #EXTINF:-1 ,Домашний
 http://81.177.197.13:8000/play/a00d/index.m3u8
 #EXTINF:-1 ,Домашний
-rtmp://178.159.112.198//domashnij
+http://80.251.49.103:8003/play/160
 #EXTINF:-1 ,ТВ3
 http://81.177.197.13:8000/play/a00e/index.m3u8
 #EXTINF:-1 ,Пятница
 http://81.177.197.13:8000/play/a00f/index.m3u8
-#EXTINF:-1 ,Пятница
-rtmp://178.159.112.198//pjatnica
 #EXTINF:-1 ,ПЯТНИЦА
 http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Звезда
 http://81.177.197.13:8000/play/a00g/index.m3u8
+#EXTINF:-1 ,Звезда плюс
+http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 #EXTINF:-1 ,Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
-#EXTINF:-1 ,Ю
-rtmp://178.159.112.198//yu
-#EXTINF:-1 ,КАРУСЕЛЬ
-http://81.177.197.13:8000/play/a006/index.m3u8
-#EXTINF:-1 ,ОТР
-http://81.177.197.13:8000/play/a00m/index.m3u8
-#EXTINF:-1 ,ТВЦ
-http://81.177.197.13:8000/play/a007/index.m3u8
-#EXTINF:-1 ,ПЯТЫЙ КАНАЛ
-http://81.177.197.13:8000/play/a004/index.m3u8
-#EXTINF:-1 ,Спас
-http://81.177.197.13:8000/play/a00b/index.m3u8
-#EXTINF:-1 ,МИР
-http://81.177.197.13:8000/play/a00h/index.m3u8
-#EXTINF:-1 ,МУЗ ТВ
-http://81.177.197.13:8000/play/a00j/index.m3u8
-#EXTINF:-1 ,МАТЧ ТВ
-http://81.177.197.13:8000/play/a002/index.m3u8
-#EXTINF:-1 ,АВТО 24
-http://138.201.67.145:8081/Avto24/index.m3u8
-#EXTINF:-1 ,Авто 24
-rtmp://178.159.112.198//avto_24
-#EXTINF:-1 ,СТС
-rtmp://178.159.112.198//sts
-#EXTINF:-1 ,Суббота!
-rtmp://178.159.112.198//super
-#EXTINF:-1 ,ТВ3
-rtmp://178.159.112.198//tv3
-#EXTINF:-1 ,ТВЦ
-rtmp://178.159.112.198//tvc
-#EXTINF:-1 ,Усадьба
-rtmp://178.159.112.198//usadba
-#EXTINF:-1 ,Animal Planet HD
-rtmp://178.159.112.198//animal_planet
-#EXTINF:-1 ,Discovery HD
-rtmp://178.159.112.198//discovery
-#EXTINF:-1 ,Нано ТВ
-rtmp://178.159.112.198//nano
-#EXTINF:-1 ,Планета HD
-rtmp://178.159.112.198//planeta_hd
-#EXTINF:-1 ,Travel Channel
-rtmp://178.159.112.198//travel
-#EXTINF:-1 ,TV1000
-rtmp://178.159.112.198//tv1000
-#EXTINF:-1 ,2x2
-rtmp://178.159.112.198//2x2
-#EXTINF:-1 ,Amedia 1
-rtmp://178.159.112.198//a1
-#EXTINF:-1 ,Amedia 2 HD
-rtmp://178.159.112.198//a2
-#EXTINF:-1 ,Че
-rtmp://178.159.112.198//che
-#EXTINF:-1 ,Cinema
-rtmp://178.159.112.198//cinema
-#EXTINF:-1 ,Дом Кино
-rtmp://178.159.112.198//dom_kino
-#EXTINF:-1 ,Дом Кино Премиум HD
-rtmp://178.159.112.198//dom_kino_premium_hd
-#EXTINF:-1 ,Еврокино
-rtmp://178.159.112.198//evrokino
+#EXTINF:-1 ,Загородная жизнь
+http://146.158.0.56:80/ZagorodnayaJizn/index.m3u8
+#EXTINF:-1 ,НТВ Сериал
+http://80.251.49.103:8003/play/151
+#EXTINF:-1 ,RTG TV
+http://80.251.49.103:8003/play/106
+#EXTINF:-1 ,HD Life
+http://80.251.49.103:8003/play/174
 #EXTINF:-1 ,Galaxy
-rtmp://178.159.112.198//galaxy
-#EXTINF:-1 ,Иллюзион+
-rtmp://178.159.112.198//illuzion_plus
-#EXTINF:-1 ,Кино ТВ
-rtmp://178.159.112.198//kino_tv
-#EXTINF:-1 ,Кино ТВ HD
-rtmp://178.159.112.198//kino_tv_hd
-#EXTINF:-1 ,Кинохит
-rtmp://178.159.112.198//kinohit
-#EXTINF:-1 ,Кинопоказ
-rtmp://178.159.112.198//kinopokaz
-#EXTINF:-1 ,Киносемья
-rtmp://178.159.112.198//kinosemja
-#EXTINF:-1 ,Мужское кино
-rtmp://178.159.112.198//muzhskoe_kino
-#EXTINF:-1 ,Киносвидание
-rtmp://178.159.112.198//kinosvidanie
-#EXTINF:-1 ,Комедия
-rtmp://178.159.112.198//komedija
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
-rtmp://178.159.112.198//mosfilm
-#EXTINF:-1 ,Москва 24
-rtmp://178.159.112.198//moskva_24
-#EXTINF:-1 ,НСТ
-rtmp://178.159.112.198//nst
-#EXTINF:-1 ,О!
-rtmp://178.159.112.198//o
-#EXTINF:-1 ,ОТР
-rtmp://178.159.112.198//otr
-#EXTINF:-1 ,Победа
-rtmp://178.159.112.198//pobeda
-#EXTINF:-1 ,Поехали!
-rtmp://178.159.112.198//poehali
-#EXTINF:-1 ,Психология 21
-rtmp://178.159.112.198//psihologia21
-#EXTINF:-1 ,Ретро
-rtmp://178.159.112.198//retro
-#EXTINF:-1 ,Русский бестселлер
-rtmp://178.159.112.198//rus_bestseller
+http://80.251.49.103:8002/play/131
+#EXTINF:-1 ,Дикий
+http://80.251.49.103:8003/play/38
+#EXTINF:-1 ,TERRA
+http://80.251.49.103:8001/play/17
+#EXTINF:-1 ,Viasat Nature/History HD
+http://80.251.49.103:8003/play/217
+#EXTINF:-1 ,FAN
+http://80.251.49.103:8003/play/143
+#EXTINF:-1 ,ЖАРА
+http://80.251.49.103:8003/play/144
+#EXTINF:-1 ,БСТ
+http://80.251.49.103:8003/play/153
 #EXTINF:-1 ,Русский роман
-rtmp://178.159.112.198//rus_roman
-#EXTINF:-1 ,Театр
-rtmp://178.159.112.198//teatr
-#EXTINF:-1 ,Телекафе
-rtmp://178.159.112.198//telekafe
-#EXTINF:-1 ,TLC
-rtmp://178.159.112.198//tlc
-#EXTINF:-1 ,ТНОМЕР
-rtmp://178.159.112.198//tnomer
-#EXTINF:-1 ,Точка
-rtmp://178.159.112.198//tochka
-#EXTINF:-1 ,Точка отрыва
-rtmp://178.159.112.198//tochka_otryva
-#EXTINF:-1 ,VIP Comedy HD
-rtmp://178.159.112.198//vip_comedy
-#EXTINF:-1 ,VIP Megahit HD
-rtmp://178.159.112.198//vip_megahit
-#EXTINF:-1 ,TV XXI
-rtmp://178.159.112.198//xxi
-#EXTINF:-1 ,Здоровое ТВ
-rtmp://178.159.112.198//zdorovoe_tv
-#EXTINF:-1 ,Зоопарк
-rtmp://178.159.112.198//zoopark
-#EXTINF:-1 ,Звезда
-rtmp://178.159.112.198//zvezda
-#EXTINF:-1 ,RU.TV
-rtmp://178.159.112.198//rutv
-#EXTINF:-1 ,Шансон ТВ
-rtmp://178.159.112.198//shanson
-#EXTINF:-1 ,Мультимузыка
-rtmp://178.159.112.198//strana
-#EXTINF:-1 ,Уникум
-rtmp://178.159.112.198//unikum
+http://80.251.49.103:8003/play/162
+#EXTINF:-1 ,Мир сериала
+http://80.251.49.103:8003/play/165
+#EXTINF:-1 ,Кинохит
+http://80.251.49.103:8003/play/99
+#EXTINF:-1 ,Киномикс HD
+http://80.251.49.103:8002/play/136
+#EXTINF:-1 ,Кинокомедия
+http://80.251.49.103:8002/play/27
+#EXTINF:-1 ,Киносерия
+http://80.251.49.103:8001/play/25
+#EXTINF:-1 ,Родное кино
+http://80.251.49.103:8001/play/53
+#EXTINF:-1 ,Ностальгия
+http://80.251.49.103:8003/play/169
+#EXTINF:-1 ,Plan B
+http://80.251.49.103:8003/play/19
+#EXTINF:-1 ,Русский Иллюзион
+http://80.251.49.103:8003/play/190
+#EXTINF:-1 ,VIP Comedy
+http://80.251.49.103:8003/play/215
+#EXTINF:-1 ,Сити Гид
+http://80.251.49.103:8003/play/219
+#EXTINF:-1 ,Shot TV
+http://80.251.49.103:8003/play/23
+#EXTINF:-1 ,СТС Love
+http://80.251.49.103:8003/play/45
+#EXTINF:-1 ,СТС
+http://80.251.49.103:8003/play/5
+#EXTINF:-1 ,Че
+http://80.251.49.103:8003/play/56
+#EXTINF:-1 ,Индийское кино
+http://80.251.49.103:8003/play/78
+#EXTINF:-1 ,Хит HD
+http://80.251.49.103:8003/play/81
+#EXTINF:-1 ,Hollywood HD
+http://80.251.49.103:8003/play/82
+#EXTINF:-1 ,СТС Kids
+http://80.251.49.103:8003/play/220
 #EXTINF:-1 ,Мульт HD
-rtmp://178.159.112.198//tlum_hd
-#EXTINF:-1 ,Сарафан
-rtmp://178.159.112.198//sarafan
-#EXTINF:-1 ,Мульт
-rtmp://178.159.112.198//mult
-#EXTINF:-1 ,Карусель
-rtmp://178.159.112.198//karusel
-#EXTINF:-1 ,Детский мир
-rtmp://178.159.112.198//detskij_mir
-#EXTINF:-1 ,Бобёр
-rtmp://178.159.112.198//bober
-#EXTINF:-1 ,Ani
-rtmp://178.159.112.198//ani
-#EXTINF:-1 ,Солнце
-rtmp://178.159.112.198//disney
-#EXTINF:-1 ,Футбол
-rtmp://178.159.112.198//futbol
-#EXTINF:-1 ,Матч! Боец
-rtmp://178.159.112.198//boec
-#EXTINF:-1 ,Eurosport 1
-http://europe3.livetv.az/russia/eurosport1_sd_2023/playlist.m3u8
-#EXTINF:-1 ,Eurosport 1 HD
-rtmp://178.159.112.198//eurosport
-#EXTINF:-1 ,Eurosport 2 HD
-rtmp://178.159.112.198//eurosport2_hd
-#EXTINF:-1 ,Матч ТВ
-rtmp://178.159.112.198//match
-#EXTINF:-1 ,Матч! Арена
-rtmp://178.159.112.198//match_arena
-#EXTINF:-1 ,Матч! Футбол 1
-rtmp://178.159.112.198//match_futbol_1
+http://80.251.49.103:8003/play/89
+#EXTINF:-1 ,Мультимузыка
+http://80.251.49.103:8003/play/84
+#EXTINF:-1 ,МузТВ
+http://80.251.49.103:8003/play/130
+#EXTINF:-1 ,Russian MusicBox
+http://80.251.49.103:8003/play/127
+#EXTINF:-1 ,BRIDGE TV HITS
+http://80.251.49.103:8003/play/161
 #EXTINF:-1 ,Матч! Футбол 1 HD
-rtmp://178.159.112.198//match_futbol_1_hd
-#EXTINF:-1 ,Матч! Футбол 2
-rtmp://178.159.112.198//match_futbol_2
+http://80.251.49.103:8003/play/140
 #EXTINF:-1 ,Матч! Футбол 2 HD
-rtmp://178.159.112.198//match_futbol_2_hd
+http://80.251.49.103:8003/play/232
+#EXTINF:-1 ,Матч! Футбол 2
+http://80.251.49.103:8003/play/188
 #EXTINF:-1 ,Матч! Футбол 3
-rtmp://178.159.112.198//match_futbol_3
-#EXTINF:-1 ,Матч! Футбол 3 HD
-rtmp://178.159.112.198//match_futbol_3_hd
-#EXTINF:-1 ,Матч HD
-rtmp://178.159.112.198//match_hd
+http://80.251.49.103:8001/play/210
+#EXTINF:-1 , Матч! СТРАНА
+http://80.251.49.103:8001/play/208
+#EXTINF:-1 , Матч! Арена
+http://80.251.49.103:8001/play/224
 #EXTINF:-1 ,Матч! Игра
-rtmp://178.159.112.198//match_igra
-#EXTINF:-1 ,Матч Премьер
-rtmp://178.159.112.198//match_premiere
-#EXTINF:-1 ,Матч! Страна
-rtmp://178.159.112.198//match_strana
-#EXTINF:-1 ,ANIMAL PLANET HD
-http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,National Geographic
-http://europe3.livetv.az/russia/nat_geo_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,NAT GEO WILD
-http://europe3.livetv.az/russia/nat_geo_wild_hd_2023/playlist.m3u8
-#EXTINF:-1 ,VIASAT HISTORY
-http://europe3.livetv.az/russia/viasat_history_2023/playlist.m3u8
-#EXTINF:-1 ,Приключения HD
-http://europe3.livetv.az/russia/priklyucheniya_2023/playlist.m3u8
-#EXTINF:-1 ,TV1000 Русское кино
-http://europe3.livetv.az/russia/tv1000_russkoe_kino_2023/playlist.m3u8
-#EXTINF:-1 ,VIP COMEDY HD
-http://europe3.livetv.az/russia/vip_comedy_2023/playlist.m3u8
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
-#EXTINF:-1 ,FOX
-http://europe3.livetv.az/russia/fox_russia_sd_2023/playlist.m3u8
-#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
-http://europe3.livetv.az/russia/nashe_novoe_kino_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,Amedia 2
-http://europe3.livetv.az/russia/amedia2_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,ШАНСОН ТВ
-http://europe3.livetv.az/russia/shanson_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,Европа плюс ТВ
-http://europe3.livetv.az/russia/evropaplus_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,РБК
-http://europe3.livetv.az/russia/rbc_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,5 КАНАЛ
-http://europe3.livetv.az/russia/5kanal_2023/playlist.m3u8
-#EXTINF:-1 ,CARTOONITO
-http://europe3.livetv.az/russia/boomerang_2023/playlist.m3u8
-#EXTINF:-1 ,CARTOON NETWORK
-http://europe3.livetv.az/russia/cartoon_2023/playlist.m3u8
-#EXTINF:-1 ,МУЛЬТ
-http://europe3.livetv.az/russia/mult_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,GULLI GIRL
-http://europe3.livetv.az/russia/gulli_girl_2023/playlist.m3u8
-#EXTINF:-1 ,КТО ЕСТЬ КТО
-http://europe3.livetv.az/russia/kto_est_kto_2023/playlist.m3u8
-#EXTINF:-1 ,NICKELODEON
-http://europe3.livetv.az/russia/nickelodeon_2023/playlist.m3u8
-#EXTINF:-1 ,TIJI
-http://europe3.livetv.az/russia/tiji_2023/playlist.m3u8
-#EXTINF:-1 ,МАТЧ! ПЛАНЕТА
-http://europe3.livetv.az/russia/match_planeta_2023/playlist.m3u8
-#EXTINF:-1 ,VIASAT SPORT
-http://europe3.livetv.az/russia/viasat_sport_sd_new_2023/playlist.m3u8
+http://80.251.49.103:8003/play/223
+#EXTINF:-1 ,КХЛ
+http://80.251.49.103:8003/play/184
+#EXTINF:-1 ,7TV
+http://146.158.0.56:80/7TV/index.m3u8
+#EXTINF:-1 ,1HD
+http://146.158.0.56:80/1HD/index.m3u8
+#EXTINF:-1 ,360°
+http://146.158.0.56:80/360HD/index.m3u8
+#EXTINF:-1 ,365 Дней
+http://146.158.0.56:80/365dney/index.m3u8
+#EXTINF:-1 ,8 Канал
+http://146.158.0.56:80/8kanal/index.m3u8
+#EXTINF:-1 ,ЕГЭ
+http://146.158.0.56:80/EGETV/index.m3u8
+#EXTINF:-1 ,FashionBox
+http://146.158.0.56:80/FashionBox/index.m3u8
+#EXTINF:-1 ,Galaxy
+http://146.158.0.56:80/Galaxy/index.m3u8
+#EXTINF:-1 ,Кто есть кто
+http://146.158.0.56:80/KtoEstKto/index.m3u8
+#EXTINF:-1 ,Кухня тв
+http://146.158.0.56:80/KuhnyaTV/index.m3u8
+#EXTINF:-1 ,КВН ТВ
+http://146.158.0.56:80/KVN/index.m3u8
+#EXTINF:-1 ,Luxury HD
+http://146.158.0.56:80/Luxury/index.m3u8
+#EXTINF:-1 ,Ля-минор
+http://146.158.0.56:80/Lya-Minor/index.m3u8
+#EXTINF:-1 ,Кто куда
+http://146.158.0.56:80/MirUvlecheniy/index.m3u8
+#EXTINF:-1 ,Моторспорт тв
+http://146.158.0.56:80/Motosport/index.m3u8
+#EXTINF:-1 ,Муз союз
+http://146.158.0.56:80/MuzSouz/index.m3u8
+#EXTINF:-1 ,Ностальгия
+http://146.158.0.56:80/Nostalgiya/index.m3u8
+#EXTINF:-1 ,Ocean TV
+http://146.158.0.56:80/OceanTV/index.m3u8
+#EXTINF:-1 ,Открытый мир
+http://146.158.0.56:80/OtkritiyMir/index.m3u8
+#EXTINF:-1 ,Pro100TV
+http://146.158.0.56:80/Pro100TV/index.m3u8
+#EXTINF:-1 ,Шансон ТВ
+http://146.158.0.56:80/ShansonTV/index.m3u8
+#EXTINF:-1 ,Театр
+http://146.158.0.56:80/Teatr/index.m3u8
+#EXTINF:-1 ,Успех
+http://146.158.0.56:80/Uspeh/index.m3u8
