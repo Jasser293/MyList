@@ -27,8 +27,6 @@ http://81.177.197.13:8000/play/a00k/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://80.251.49.103:8003/play/110
 #EXTINF:-1 ,Россия 1
 http://80.251.49.103:8003/play/4
 #EXTINF:-1 ,РЕН ТВ
