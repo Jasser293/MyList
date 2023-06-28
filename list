@@ -1,9 +1,8 @@
+#EXTM3U
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://81.177.197.13:8000/play/a001/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:-1 ,Первый канал
-http://81.177.197.13:8000/play/a001/index.m3u8
 #EXTINF:-1 ,Первый канал
 rtmp://178.159.112.198//pervyj
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
@@ -35,8 +34,6 @@ http://81.177.197.13:8000/play/a00a/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,Рен ТВ
-http://81.177.197.13:8000/play/a00a/index.m3u8
-#EXTINF:-1 ,Рен ТВ
 rtmp://178.159.112.198//rentv
 #EXTINF:-1 ,ТНТ
 http://81.177.197.13:8000/play/a00i/index.m3u8
@@ -44,8 +41,6 @@ http://81.177.197.13:8000/play/a00i/index.m3u8
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ
 rtmp://178.159.112.198//tnt
-#EXTINF:-1 ,ТНТ
-http://81.177.197.13:8000/play/a00i/index.m3u8
 #EXTINF:-1 ,ТНТ HD
 rtmp://178.159.112.198//tnt_hd
 #EXTINF:-1 ,ТНТ4
@@ -81,11 +76,7 @@ http://81.177.197.13:8000/play/a00j/index.m3u8
 #EXTINF:-1 ,МАТЧ ТВ
 http://81.177.197.13:8000/play/a002/index.m3u8
 #EXTINF:-1 ,Пятница
-http://81.177.197.13:8000/play/a00f/index.m3u8
-#EXTINF:-1 ,Пятница
 rtmp://178.159.112.198//pjatnica
-#EXTINF:-1 ,Домашний
-http://81.177.197.13:8000/play/a00d/index.m3u8
 #EXTINF:-1 ,Домашний
 rtmp://178.159.112.198//domashnij
 #EXTINF:-1 ,Авто 24
@@ -230,7 +221,7 @@ rtmp://178.159.112.198//eurosport2_hd
 rtmp://178.159.112.198//match
 #EXTINF:-1 ,Матч! Арена
 rtmp://178.159.112.198//match_arena
-#EXTINF:-1 ,Матч! Футбол 1 
+#EXTINF:-1 ,Матч! Футбол 1
 rtmp://178.159.112.198//match_futbol_1
 #EXTINF:-1 ,Матч! Футбол 1 HD
 rtmp://178.159.112.198//match_futbol_1_hd
@@ -302,11 +293,3 @@ http://europe3.livetv.az/russia/match_planeta_2023/playlist.m3u8
 http://europe3.livetv.az/russia/viasat_sport_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://europe3.livetv.az/russia/eurosport1_sd_2023/playlist.m3u8
-#EXTINF:-1 ,ОТР
-http://81.177.197.13:8000/play/a00m/index.m3u8
-#EXTINF:-1 ,ТВ3
-http://81.177.197.13:8000/play/a00e/index.m3u8
-#EXTINF:-1 ,Карусель
-http://81.177.197.13:8000/play/a006/index.m3u8
-#EXTINF:-1 ,Спас
-http://81.177.197.13:8000/play/a00b/index.m3u8
