@@ -3,8 +3,6 @@
 http://81.177.197.13:8000/play/a001/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://185.90.224.28:8080/1/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://192.162.64.99:4000/play/a00e/index.m3u8
 #EXTINF:-1 ,НТВ
@@ -381,8 +379,6 @@ http://192.162.64.222:4000/play/a05q/index.m3u8
 http://192.162.64.99:4000/play/a06f/index.m3u8
 #EXTINF:-1 ,Gulli Girl
 http://192.162.64.99:5200/play/a03e/index.m3u8
-#EXTINF:-1 ,TiJi
-http://192.162.64.99:5200/play/a03f/index.m3u8
 #EXTINF:-1 ,О!
 http://192.162.64.99:5200/play/a039/index.m3u8
 #EXTINF:-1 ,Рыжий
