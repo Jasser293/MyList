@@ -71,6 +71,8 @@ http://146.158.0.56:80/Motosport/index.m3u8
 http://138.201.67.145:8081/Dikiy/index.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
+#EXTINF:-1 ,Загородная жизнь
+http://146.158.0.56:80/ZagorodnayaJizn/index.m3u8
 #EXTINF:-1 ,Звезда
 http://81.177.197.13:8000/play/a00g/index.m3u8
 #EXTINF:-1 ,Звезда плюс
@@ -79,8 +81,6 @@ http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 ,Ю
 http://88.216.83.245/u/index.m3u8
-#EXTINF:-1 ,Загородная жизнь
-http://146.158.0.56:80/ZagorodnayaJizn/index.m3u8
 #EXTINF:-1 ,НТВ Сериал
 http://80.251.49.103:8003/play/151
 #EXTINF:-1 ,НТВ Сериал
