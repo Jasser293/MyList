@@ -45,6 +45,10 @@ https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 http://80.251.49.103:8001/play/7
 #EXTINF:-1 ,ТНТ4
 http://80.251.49.103:8002/play/129
+#EXTINF:-1 ,СТС Love
+http://80.251.49.103:8003/play/45
+#EXTINF:-1 ,СТС
+http://80.251.49.103:8003/play/5
 #EXTINF:-1 ,СТС
 http://81.177.197.13:8000/play/a00c/index.m3u8
 #EXTINF:-1 ,Домашний
@@ -57,6 +61,12 @@ http://81.177.197.13:8000/play/a00e/index.m3u8
 http://81.177.197.13:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
+#EXTINF:-1 ,АВТО 24
+http://138.201.67.145:8081/Avto24/index.m3u8
+#EXTINF:-1 ,ДИКИЙ
+http://138.201.67.145:8081/Dikiy/index.m3u8
+#EXTINF:-1 ,УСАДЬБА
+http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
 #EXTINF:-1 ,Звезда
 http://81.177.197.13:8000/play/a00g/index.m3u8
 #EXTINF:-1 ,Звезда плюс
@@ -109,10 +119,6 @@ http://80.251.49.103:8003/play/190
 http://80.251.49.103:8003/play/215
 #EXTINF:-1 ,Shot TV
 http://80.251.49.103:8003/play/23
-#EXTINF:-1 ,СТС Love
-http://80.251.49.103:8003/play/45
-#EXTINF:-1 ,СТС
-http://80.251.49.103:8003/play/5
 #EXTINF:-1 ,Че
 http://80.251.49.103:8003/play/56
 #EXTINF:-1 ,Индийское кино
@@ -195,3 +201,19 @@ http://146.158.0.56:80/ShansonTV/index.m3u8
 http://146.158.0.56:80/Teatr/index.m3u8
 #EXTINF:-1 ,Успех
 http://146.158.0.56:80/Uspeh/index.m3u8
+#EXTINF:-1 ,Paramount Comedy
+http://138.201.67.145:8081/ParamountComedy/index.m3u8
+#EXTINF:-1 ,РЕТРО
+http://138.201.67.145:8081/retro/index.m3u8
+#EXTINF:-1 ,САРАФАН
+http://138.201.67.145:8081/sarafan/index.m3u8
+#EXTINF:-1 ,Viasat History
+http://138.201.67.145:8081/ViasatHistory/index.m3u8
+#EXTINF:-1 ,RTVI
+http://138.201.67.145:8081/rtvi/index.m3u8
+#EXTINF:-1 ,О КИНО
+http://138.201.67.145:8081/okino/index.m3u8
+#EXTINF:-1 ,СТС KIDS HD
+http://138.201.67.145:8081/stskids/index.m3u8
+#EXTINF:-1 ,ЖИВИ
+http://138.201.67.145:8081/zhivi/index.m3u8
