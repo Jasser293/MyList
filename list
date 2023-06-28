@@ -89,8 +89,6 @@ http://80.251.49.103:8003/play/151
 http://88.216.83.245/ntvserial/index.m3u8
 #EXTINF:-1 ,НТВ Право
 http://88.216.83.245/ntvpravo/index.m3u8
-#EXTINF:-1 ,НТВ Стиль
-http://88.216.83.245/ntvstil/index.m3u8
 #EXTINF:-1 ,Кто есть кто
 http://146.158.0.56:80/KtoEstKto/index.m3u8
 #EXTINF:-1 ,Кухня тв
@@ -175,8 +173,6 @@ http://80.251.49.103:8003/play/223
 http://80.251.49.103:8003/play/184
 #EXTINF:-1 ,7TV
 http://146.158.0.56:80/7TV/index.m3u8
-#EXTINF:-1 ,1HD
-http://146.158.0.56:80/1HD/index.m3u8
 #EXTINF:-1 ,360°
 http://146.158.0.56:80/360HD/index.m3u8
 #EXTINF:-1 ,365 Дней
