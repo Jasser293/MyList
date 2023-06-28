@@ -49,10 +49,16 @@ rtmp://178.159.112.198//tnt4
 http://81.177.197.13:8000/play/a00c/index.m3u8
 #EXTINF:-1 ,Домашний
 http://81.177.197.13:8000/play/a00d/index.m3u8
+#EXTINF:-1 ,Домашний
+rtmp://178.159.112.198//domashnij
 #EXTINF:-1 ,ТВ3
 http://81.177.197.13:8000/play/a00e/index.m3u8
 #EXTINF:-1 ,Пятница
 http://81.177.197.13:8000/play/a00f/index.m3u8
+#EXTINF:-1 ,Пятница
+rtmp://178.159.112.198//pjatnica
+#EXTINF:-1 ,ПЯТНИЦА
+http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Звезда
 http://81.177.197.13:8000/play/a00g/index.m3u8
 #EXTINF:-1 ,Ю
@@ -75,10 +81,8 @@ http://81.177.197.13:8000/play/a00h/index.m3u8
 http://81.177.197.13:8000/play/a00j/index.m3u8
 #EXTINF:-1 ,МАТЧ ТВ
 http://81.177.197.13:8000/play/a002/index.m3u8
-#EXTINF:-1 ,Пятница
-rtmp://178.159.112.198//pjatnica
-#EXTINF:-1 ,Домашний
-rtmp://178.159.112.198//domashnij
+#EXTINF:-1 ,АВТО 24
+http://138.201.67.145:8081/Avto24/index.m3u8
 #EXTINF:-1 ,Авто 24
 rtmp://178.159.112.198//avto_24
 #EXTINF:-1 ,СТС
@@ -213,6 +217,8 @@ rtmp://178.159.112.198//disney
 rtmp://178.159.112.198//futbol
 #EXTINF:-1 ,Матч! Боец
 rtmp://178.159.112.198//boec
+#EXTINF:-1 ,Eurosport 1
+http://europe3.livetv.az/russia/eurosport1_sd_2023/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 rtmp://178.159.112.198//eurosport
 #EXTINF:-1 ,Eurosport 2 HD
@@ -267,8 +273,6 @@ http://europe3.livetv.az/russia/amedia2_sd_new_2023/playlist.m3u8
 http://europe3.livetv.az/russia/shanson_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Европа плюс ТВ
 http://europe3.livetv.az/russia/evropaplus_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,ПЯТНИЦА
-http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,РБК
 http://europe3.livetv.az/russia/rbc_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,5 КАНАЛ
@@ -291,5 +295,3 @@ http://europe3.livetv.az/russia/tiji_2023/playlist.m3u8
 http://europe3.livetv.az/russia/match_planeta_2023/playlist.m3u8
 #EXTINF:-1 ,VIASAT SPORT
 http://europe3.livetv.az/russia/viasat_sport_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,Eurosport 1
-http://europe3.livetv.az/russia/eurosport1_sd_2023/playlist.m3u8
