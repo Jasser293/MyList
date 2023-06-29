@@ -6,11 +6,13 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Первый канал
-http://80.251.49.103:8002/play/3
+http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
 http://81.177.197.13:8000/play/a003/index.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+#EXTINF:-1 ,НТВ
+http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ К
 http://81.177.197.13:8000/play/a005/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
@@ -25,8 +27,10 @@ http://81.177.197.13:8000/play/a00k/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,Россия 1
-http://80.251.49.103:8003/play/4
+#EXTINF:-1 ,РОССИЯ 1
+http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,РОССИЯ РТР
+http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://81.177.197.13:8000/play/a00a/index.m3u8
 #EXTINF:-1 ,Рен ТВ
@@ -47,10 +51,14 @@ http://80.251.49.103:8003/play/45
 http://80.251.49.103:8003/play/5
 #EXTINF:-1 ,СТС
 http://81.177.197.13:8000/play/a00c/index.m3u8
+#EXTINF:-1 ,СТС HD
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Домашний
 http://81.177.197.13:8000/play/a00d/index.m3u8
 #EXTINF:-1 ,Домашний
 http://80.251.49.103:8003/play/160
+#EXTINF:-1 ,ДОМАШНИЙ
+http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТВ3
 http://81.177.197.13:8000/play/a00e/index.m3u8
 #EXTINF:-1 ,Перец
@@ -63,6 +71,8 @@ http://81.177.197.13:8000/play/a00f/index.m3u8
 http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
 http://138.201.67.145:8081/Avto24/index.m3u8
+#EXTINF:-1 ,Авто плюс
+http://45.159.74.13:80/AutoPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Моторспорт тв
 http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 ,ДИКИЙ
@@ -275,3 +285,31 @@ http://88.216.83.245/nauka/index.m3u8
 http://88.216.83.245/match/index.m3u8
 #EXTINF:-1 ,Бокс ТВ
 http://88.216.83.245/bokstv/index.m3u8
+#EXTINF:-1 ,ТНТ HD
+http://45.159.74.13:80/THT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Nat Geo Wild
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,National Geographic
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КИНОХИТ HD
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,21TV
+http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МИР
+http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Kentron AM
+http://45.159.74.13:80/Kentron/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Atv HD AM
+http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КИНОМАН HD
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Filmzone HD
+http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,СОЛНЦЕ
+http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Карусель
+http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МАТЧ! ПЛАНЕТА
+http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
