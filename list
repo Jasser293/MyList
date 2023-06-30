@@ -45,6 +45,8 @@ https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 http://80.251.49.103:8001/play/7
 #EXTINF:-1 ,ТНТ4
 http://80.251.49.103:8002/play/129
+#EXTINF:-1 ,ТНТ HD
+http://45.159.74.13:80/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,СТС Love
 http://80.251.49.103:8003/play/45
 #EXTINF:-1 ,СТС
@@ -313,3 +315,77 @@ http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
 http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МИР
+http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КИНОМАН HD
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КИНОХИТ HD
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ATV HD
+http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Filmzone HD
+http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Kentron HD
+http://45.159.74.13:80/Kentron/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,21TV
+http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МАТЧ! ПЛАНЕТА
+http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Nat Geo Wild
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,National Geographic
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МИР 24
+http://176.74.80.162:8099/MIR24/index.m3u8
+#EXTINF:-1 ,КАНАЛ 360
+http://176.74.80.162:8099/Match!Arena/index.m3u8
+#EXTINF:-1 ,СТС Love
+http://176.74.80.162:8099/CTCLove/index.m3u8
+#EXTINF:-1 ,Евро Кино
+http://176.74.80.162:8099/EuroKino/index.m3u8
+#EXTINF:-1 ,TV1000Action
+http://176.74.80.162:8099/TV1000Action/index.m3u8
+#EXTINF:-1 ,TV1000
+http://176.74.80.162:8099/TV1000/index.m3u8
+#EXTINF:-1 ,Cinema
+http://176.74.80.162:8099/Cinema/index.m3u8
+#EXTINF:-1 ,Мосфильм
+http://176.74.80.162:8099/Mosfilm/index.m3u8
+#EXTINF:-1 ,Amedia 1
+http://176.74.80.162:8099/Amedia1/index.m3u8
+#EXTINF:-1 ,Sci-Fi
+http://176.74.80.162:8099/SonySciFi/index.m3u8
+#EXTINF:-1 ,BLACK
+http://176.74.80.162:8099/SonyTurbo/index.m3u8
+#EXTINF:-1 ,Amedia 2
+http://176.74.80.162:8099/Amedia2/index.m3u8
+#EXTINF:-1 ,ФУТБОЛ 1
+http://176.74.80.162:8099/Russia1/index.m3u8
+#EXTINF:-1 ,FightBox
+http://176.74.80.162:8099/FightBox/index.m3u8
+#EXTINF:-1 ,FashionBox
+http://176.74.80.162:8099/FashionBox/index.m3u8
+#EXTINF:-1 ,Viasat Explore
+http://176.74.80.162:8099/ViasatExplore/index.m3u8
+#EXTINF:-1 ,Viasat History
+http://176.74.80.162:8099/ViasatHistory/index.m3u8
+#EXTINF:-1 ,МУЛЬТ
+http://176.74.80.162:8099/Mult/index.m3u8
+#EXTINF:-1 ,СТС KIds HD
+http://176.74.80.162:8099/CTCKids/index.m3u8
+#EXTINF:-1 ,Tiji
+http://176.74.80.162:8099/Tiji/index.m3u8
+#EXTINF:-1 ,ТНТ MUSIC
+http://176.74.80.162:8099/TNTMusic/index.m3u8
+#EXTINF:-1 ,Bridge TV
+http://176.74.80.162:8099/BridgeTV/index.m3u8
+#EXTINF:-1 ,TV1000 Русское кино
+http://194.143.148.28:8080/TV1000RuKino/mpegts
+#EXTINF:-1 ,Матч ТВ HD
+http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1 ,Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 ,Viasat Sport HD
+http://194.143.148.28:8080/Viasat_Sport/mpegts
+#EXTINF:-1 ,MCM TOP HD
+http://194.143.148.28:8080/MCM/mpegts
