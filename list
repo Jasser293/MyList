@@ -29,6 +29,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,Россия 1 HD
+https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РЕН ТВ
@@ -37,6 +39,8 @@ http://81.177.197.13:8000/play/a00a/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://80.251.49.103:8004/play/1
+#EXTINF:0 ,Рен ТВ HD 
+https://livetv.mylifeisgood.ml/channels/rentv.m3u8
 #EXTINF:-1 ,ТНТ
 http://81.177.197.13:8000/play/a00i/index.m3u8
 #EXTINF:-1 ,ТНТ4
@@ -46,7 +50,7 @@ http://80.251.49.103:8001/play/7
 #EXTINF:-1 ,ТНТ4
 http://80.251.49.103:8002/play/129
 #EXTINF:-1 ,ТНТ HD
-http://45.159.74.13:80/THT/tracks-v1a1/mono.m3u8
+https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,СТС Love
 http://80.251.49.103:8003/play/45
 #EXTINF:-1 ,СТС
@@ -71,6 +75,10 @@ http://88.216.83.245/friday/index.m3u8
 http://81.177.197.13:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
+#EXTINF:0 ,Пятница HD
+https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
+#EXTINF:0 ,Суббота HD
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
 http://138.201.67.145:8081/Avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
@@ -389,3 +397,49 @@ http://194.143.148.28:8080/MatchArena/mpegts
 http://194.143.148.28:8080/Viasat_Sport/mpegts
 #EXTINF:-1 ,MCM TOP HD
 http://194.143.148.28:8080/MCM/mpegts
+#EXTINF:0 ,Матч! Премьер
+http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0 ,Матч! Планета
+http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+#EXTINF:0 ,Матч! Страна
+http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 ,Матч! Арена
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0 ,Матч! Боец
+http://bl.uma.media/live/132838/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 ,Матч! Игра
+http://bl.uma.media/live/154036/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 ,Матч! ФУТБОЛ 1
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0 ,Матч! ФУТБОЛ 2
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0 ,Матч! ФУТБОЛ 3
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0 ,KHL
+http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 ,Viasat Sport HD
+http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 ,Муз ТВ
+https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
+#EXTINF:0 ,Кино тв
+https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
+#EXTINF:0 ,Глазами туриста
+https://livetv.mylifeisgood.ml/channels/glazamiturista
+#EXTINF:0 ,HD Life
+https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
+#EXTINF:0 ,Trash HD
+http://livetv.mylifeisgood.ml/channels/trash.m3u8
+#EXTINF:0 ,Bridge TV
+https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
+#EXTINF:0 ,Bridge TV Hits
+https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
+#EXTINF:0 ,Bridge TV Русский Хит
+https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
+#EXTINF:0 ,Bridge TV Deluxe
+https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
+#EXTINF:0 ,Bridge TV Classic
+https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
+#EXTINF:0 ,МУЗ ТВ
+https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
+#EXTINF:0 ,МАТЧ! 
+https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
