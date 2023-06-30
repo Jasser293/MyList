@@ -61,8 +61,6 @@ http://92.100.39.32:2289/play/a07v/index.m3u8
 http://138.201.67.145:8081/Avto24/index.m3u8
 #EXTINF:-1 ,Авто Плюс
 http://92.100.39.32:2289/play/AutoPlus/index.m3u8
-#EXTINF:-1 ,СТС Love
-http://92.100.39.32:2289/play/stsLove/index.m3u8
 #EXTINF:-1 ,СТС
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
 #EXTINF:-1 ,СТС HD
