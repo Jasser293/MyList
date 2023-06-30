@@ -72,7 +72,7 @@ http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
 http://138.201.67.145:8081/Avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
-https://mhd116.iptv2022.com/p/MJv4PvD_qGLhNLromt89Sg,1688072415/streaming/avtoplus/324/1/index.m3u8
+http://92.100.39.32:2289/play/AutoPlus/index.m3u8
 #EXTINF:-1 ,Моторспорт тв
 http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 ,ДИКИЙ
