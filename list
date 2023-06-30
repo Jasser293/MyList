@@ -3,10 +3,8 @@
 http://92.100.39.32:2289/play/pervi/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Первый канал                         
+#EXTINF:-1 ,Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:-1 ,Россия 1
-http://92.100.39.32:2289/play/russia1/index.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия 1
@@ -14,21 +12,15 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия 24
-http://92.100.39.32:2289/play/Russia24/index.m3u8
-#EXTINF:-1 ,Россия 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
-#EXTINF:-1 ,Россия К
-http://92.100.39.32:2289/play/russiaK/index.m3u8
 #EXTINF:-1 ,Россия К
 http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1 ,ТНТ
 http://92.100.39.32:2289/play/a078/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
-#EXTINF:-1 ,ТНТ4
-https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
-#EXTINF:-1 ,РЕН ТВ
-http://92.100.39.32:2289/play/RenTV/index.m3u8
+#EXTINF:-1 ,ТНТ HD
+http://45.159.74.13:80/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
@@ -55,8 +47,6 @@ http://92.100.39.32:2289/play/NTVSerial/index.m3u8
 http://92.100.39.32:2289/play/NTVStil/index.m3u8
 #EXTINF:-1 ,НТВ-ХИТ
 http://92.100.39.32:2289/play/NTVHIT/index.m3u8
-#EXTINF:-1 ,Домашний
-http://92.100.39.32:2289/play/Domashnii/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Домашний
@@ -85,8 +75,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 http://92.100.39.32:2289/play/a07q/index.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
-#EXTINF:-1 ,Кухня ТВ
-http://92.100.39.32:2289/play/KuhnyaTV/index.m3u8
 #EXTINF:-1 ,МИР
 http://92.100.39.32:2289/play/Mir/index.m3u8
 #EXTINF:-1 ,МИР 24
@@ -95,8 +83,6 @@ http://92.100.39.32:2289/play/a05z/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 ,Ю
 http://92.100.39.32:2289/play/u/index.m3u8
-#EXTINF:-1 ,ТВ3
-http://92.100.39.32:2289/play/Tv3/index.m3u8
 #EXTINF:-1 ,Big Planet
 http://92.100.39.32:2289/play/a09h/index.m3u8
 #EXTINF:-1 ,Моя Планета
@@ -187,8 +173,6 @@ http://92.100.39.32:2289/play/a05q/index.m3u8
 http://92.100.39.32:2289/play/Zhara/index.m3u8
 #EXTINF:-1 ,ЖИВИ!
 http://92.100.39.32:2289/play/ZHivi/index.m3u8
-#EXTINF:-1 ,Известия
-http://92.100.39.32:2289/play/a04h/index.m3u8
 #EXTINF:-1 ,Иллюзион+
 http://92.100.39.32:2289/play/a03w/index.m3u8
 #EXTINF:-1 ,КВН ТВ
@@ -199,8 +183,6 @@ http://92.100.39.32:2289/play/a08t/index.m3u8
 http://92.100.39.32:2289/play/indiaTV/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
 http://92.100.39.32:2289/play/KomediaTV/index.m3u8
-#EXTINF:-1 ,КИНОМИКС
-http://92.100.39.32:2289/play/kinomiks/index.m3u8
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
 http://92.100.39.32:2289/play/nashnovikino/index.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
@@ -243,8 +225,6 @@ http://92.100.39.32:2289/play/Detektiv/index.m3u8
 http://92.100.39.32:2289/play/RusskiiRoman/index.m3u8
 #EXTINF:-1 ,СТАРТ
 http://92.100.39.32:2289/play/a07x/index.m3u8
-#EXTINF:-1 ,СТС
-http://92.100.39.32:2289/play/sts/index.m3u8
 #EXTINF:-1 ,Санкт-Петербург
 http://92.100.39.32:2289/play/a061/index.m3u8
 #EXTINF:-1 ,Сарафан
@@ -323,8 +303,6 @@ http://92.100.39.32:2289/play/KHL/index.m3u8
 http://92.100.39.32:2289/play/a09a/index.m3u8
 #EXTINF:-1 ,МАТЧ ПРЕМЬЕР
 http://92.100.39.32:2289/play/a07l/index.m3u8
-#EXTINF:-1 ,МАТЧ ТВ
-http://92.100.39.32:2289/play/Match/index.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://92.100.39.32:2289/play/a07b/index.m3u8
 #EXTINF:-1 ,МАТЧ! БОЕЦ
