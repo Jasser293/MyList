@@ -295,8 +295,6 @@ http://88.216.83.245/nauka/index.m3u8
 http://88.216.83.245/match/index.m3u8
 #EXTINF:-1 ,Бокс ТВ
 http://88.216.83.245/bokstv/index.m3u8
-#EXTINF:-1 ,ТНТ HD
-http://45.159.74.13:80/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Nat Geo Wild
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
