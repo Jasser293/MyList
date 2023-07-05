@@ -69,10 +69,14 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 http://138.201.67.145:8081/Avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://93.100.142.220:4022/udp/239.239.4.24:5239
+#EXTINF:-1 ,Drive
+http://178.124.179.122:8088/Drive/index.m3u8
 #EXTINF:-1 ,Моторспорт тв
 http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 ,ДИКИЙ
 http://138.201.67.145:8081/Dikiy/index.m3u8
+#EXTINF:-1 ,OРУЖИЕ
+http://178.124.179.122:8088/Oruzhie/index.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
@@ -399,14 +403,10 @@ http://51.89.67.79:25461/stalker348574985793/stalker348574985793/82
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 ,.SCI-FI
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
-#EXTINF:-1 ,Drive
-http://178.124.179.122:8088/Drive/index.m3u8
 #EXTINF:-1 ,KHL HD
 http://178.124.179.122:8088/KHL_HD/index.m3u8
 #EXTINF:-1 ,MУЛЬТ
 http://178.124.179.122:8088/Mult/index.m3u8
-#EXTINF:-1 ,OРУЖИЕ
-http://178.124.179.122:8088/Oruzhie/index.m3u8
 #EXTINF:-1 ,БЕЛ МУЗ
 http://178.124.179.122:8088/BelMuzTV/index.m3u8
 #EXTINF:-1 ,БЕЛАРУСЬ 24
