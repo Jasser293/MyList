@@ -67,6 +67,8 @@ https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
 http://138.201.67.145:8081/Avto24/index.m3u8
+#EXTINF:-1 ,Авто+
+http://80.251.49.103:8003/play/73
 #EXTINF:-1 ,Моторспорт тв
 http://146.158.0.56:80/Motosport/index.m3u8
 #EXTINF:-1 ,Drive
