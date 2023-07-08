@@ -45,8 +45,10 @@ https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,СТС
 http://81.177.197.13:8000/play/a00c/index.m3u8
-#EXTINF:-1 ,СТС HD
-http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,СТС
+http://80.251.49.103:8003/play/5
+#EXTINF:-1 ,СТС Love
+http://80.251.49.103:8003/play/45
 #EXTINF:-1 ,Домашний
 http://81.177.197.13:8000/play/a00d/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
