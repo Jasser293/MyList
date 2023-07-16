@@ -45,8 +45,24 @@ http://93.100.142.220:4022/udp/239.239.3.36:5239
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,СТС
 http://91.220.135.165:81/13/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,СТС
+http://188.143.128.24:30000/play/a13/index.m3u8
+#EXTINF:-1 ,СТС Love
+http://188.143.128.24:30000/play/a29/index.m3u8
+#EXTINF:-1 ,Домашний
+http://188.143.128.24:30000/play/a14/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,Солнце
+http://188.143.128.24:30000/play/a25/index.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
 http://93.100.142.220:4022/udp/239.239.2.6:5239
 #EXTINF:-1 ,ЗВЕЗДА
