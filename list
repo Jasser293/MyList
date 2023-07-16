@@ -25,7 +25,7 @@ http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 http://93.100.142.220:4022/udp/239.239.1.65:5239
 #EXTINF:-1 ,РОССИЯ 1 HD
 http://93.100.142.220:4022/udp/239.239.3.66:5239
-#EXTINF:0 ,Россия 1 HD
+#EXTINF:-1 ,Россия 1 HD
 https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
@@ -35,7 +35,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 http://93.100.142.220:4022/udp/239.239.2.0:5239
 #EXTINF:-1 ,РЕН ТВ
 http://91.220.135.165:81/11/tracks-v1a1v1/playlist.m3u8
-#EXTINF:0 ,Рен ТВ HD 
+#EXTINF:-1 ,Рен ТВ HD
 https://livetv.mylifeisgood.ml/channels/rentv.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
@@ -91,10 +91,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 http://88.216.83.245/u/index.m3u8
 #EXTINF:-1 ,Ю
 http://93.100.142.220:4022/udp/239.239.3.8:5239
-#EXTINF:-1 ,НТВ Сериал
-http://88.216.83.245/ntvserial/index.m3u8
-#EXTINF:-1 ,НТВ Право
-http://88.216.83.245/ntvpravo/index.m3u8
 #EXTINF:-1 ,Paramount Comedy
 http://138.201.67.145:8081/ParamountComedy/index.m3u8
 #EXTINF:-1 ,РЕТРО
@@ -123,26 +119,16 @@ http://88.216.83.245/travel/index.m3u8
 http://88.216.83.245/fox/index.m3u8
 #EXTINF:-1 ,Euronews
 http://88.216.83.245/euronews/index.m3u8
-#EXTINF:-1 ,Дом кино
-http://88.216.83.245/domkino/index.m3u8
-#EXTINF:-1 ,Киномикс
-http://88.216.83.245/kinomix/index.m3u8
 #EXTINF:-1 ,ТЕРРА
 http://88.216.83.245/drive/index.m3u8
 #EXTINF:-1 ,CNN
 http://88.216.83.245/cnn/index.m3u8
 #EXTINF:-1 ,Киносат
 http://88.216.83.245/nicktoons/index.m3u8
-#EXTINF:-1 ,Телекафе
-http://88.216.83.245/telekafe/index.m3u8
 #EXTINF:-1 ,RTVI
 http://88.216.83.245/rtvi/index.m3u8
 #EXTINF:-1 ,Солнце
 http://88.216.83.245/disney/index.m3u8
-#EXTINF:-1 ,Карусель
-http://88.216.83.245/karusel/index.m3u8
-#EXTINF:-1 ,Бобёр
-http://88.216.83.245/bober/index.m3u8
 #EXTINF:-1 ,RU.TV
 http://88.216.83.245/RuTV/index.m3u8
 #EXTINF:-1 ,MTV
@@ -161,8 +147,6 @@ http://88.216.83.245/tv3/index.m3u8
 http://88.216.83.245/sport1/index.m3u8
 #EXTINF:-1 ,TVRUS+
 http://88.216.83.245/nauka/index.m3u8
-#EXTINF:-1 ,Бокс ТВ
-http://88.216.83.245/bokstv/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
@@ -441,8 +425,6 @@ http://93.100.142.220:4022/udp/239.239.3.57:5239
 http://93.100.142.220:4022/udp/239.239.4.22:5239
 #EXTINF:-1 ,BRIDGE TV
 http://93.100.142.220:4022/udp/239.239.3.12:5239
-#EXTINF:-1 ,BRIDGE TV РУССКИЙ ХИТ
-http://93.100.142.220:4022/udp/239.239.3.14:5239
 #EXTINF:-1 ,BRIDGE TV CLASSIC
 http://93.100.142.220:4022/udp/239.239.3.78:5239
 #EXTINF:-1 ,BRIDGE TV DANCE
