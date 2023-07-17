@@ -61,6 +61,8 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,ВОПРОСЫ и ОТВЕТЫ
+http://91.220.135.165:81/50/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Солнце
 http://188.143.128.24:30000/play/a25/index.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
