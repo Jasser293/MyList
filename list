@@ -10,8 +10,6 @@ http://93.100.142.220:4022/udp/239.239.1.64:5239
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
-http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ
 http://93.100.142.220:4022/udp/239.239.1.3:5239
 #EXTINF:-1 ,РОССИЯ 24
 http://europe3.livetv.az/russia/rossiya24_sd_new_2023/playlist.m3u8
@@ -25,8 +23,6 @@ http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 http://93.100.142.220:4022/udp/239.239.1.65:5239
 #EXTINF:-1 ,РОССИЯ 1 HD
 http://93.100.142.220:4022/udp/239.239.3.66:5239
-#EXTINF:-1 ,Россия 1 HD
-https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рен ТВ
@@ -35,8 +31,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 http://93.100.142.220:4022/udp/239.239.2.0:5239
 #EXTINF:-1 ,РЕН ТВ
 http://91.220.135.165:81/11/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,Рен ТВ HD
-https://livetv.mylifeisgood.ml/channels/rentv.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
@@ -101,8 +95,6 @@ http://91.220.135.165:81/38/tracks-v1a1v1/playlist.m3u8
 http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://178.124.179.122:8088/Usadba/index.m3u8
-#EXTINF:-1 ,ДИКИЙ
-http://138.201.67.145:8081/Dikiy/index.m3u8
 #EXTINF:-1 ,Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 ,Ю
@@ -229,8 +221,6 @@ http://91.220.135.165:81/47/tracks-v1a1v1/playlist.m3u8
 http://91.220.135.165:81/48/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ЗДОРОВОЕ ТВ
 http://91.220.135.165:81/49/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,ВОПРОСЫ и ОТВЕТЫ
-http://91.220.135.165:81/50/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ИЛЛЮЗИОН+
 http://91.220.135.165:81/51/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
@@ -295,28 +285,6 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Viasat Sport HD
 http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,Муз ТВ
-https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
-#EXTINF:-1 ,Кино тв
-https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
-#EXTINF:-1 ,Глазами туриста
-https://livetv.mylifeisgood.ml/channels/glazamiturista
-#EXTINF:-1 ,HD Life
-https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
-#EXTINF:-1 ,Trash HD
-http://livetv.mylifeisgood.ml/channels/trash.m3u8
-#EXTINF:-1 ,Bridge TV
-https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
-#EXTINF:-1 ,Bridge TV Hits
-https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
-#EXTINF:-1 ,Bridge TV Русский Хит
-https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
-#EXTINF:-1 ,Bridge TV Deluxe
-https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
-#EXTINF:-1 ,Bridge TV Classic
-https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
-#EXTINF:-1 ,МАТЧ!
-https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 ,Viji Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
@@ -359,8 +327,6 @@ http://51.89.67.79:25461/stalker348574985793/stalker348574985793/82
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 ,.SCI-FI
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
-#EXTINF:-1 ,KHL HD
-http://178.124.179.122:8088/KHL_HD/index.m3u8
 #EXTINF:-1 ,MУЛЬТ
 http://178.124.179.122:8088/Mult/index.m3u8
 #EXTINF:-1 ,OРУЖИЕ
@@ -383,8 +349,6 @@ http://178.124.179.122:8088/Peretz/index.m3u8
 http://178.124.179.122:8088/PlusTV/index.m3u8
 #EXTINF:-1 ,РЕТРО
 http://178.124.179.122:8088/Retro/index.m3u8
-#EXTINF:-1 ,РОССИЯ К
-http://178.124.179.122:8088/Kultura/index.m3u8
 #EXTINF:-1 ,САРАФАН
 http://178.124.179.122:8088/Sarafan/index.m3u8
 #EXTINF:-1 ,СОЮЗ
@@ -435,8 +399,6 @@ http://93.100.142.220:4022/udp/239.239.3.31:5239
 http://93.100.142.220:4022/udp/239.239.3.26:5239
 #EXTINF:-1 ,ТВ3
 http://93.100.142.220:4022/udp/239.239.2.4:5239
-#EXTINF:-1 ,ТНТ MUSIC
-http://93.100.142.220:4022/udp/239.239.3.16:5239
 #EXTINF:-1 ,ЮВЕЛИРОЧКА
 http://93.100.142.220:4022/udp/239.239.3.57:5239
 #EXTINF:-1 ,ANI
