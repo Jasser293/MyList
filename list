@@ -5,12 +5,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://93.100.142.220:4022/udp/239.239.1.64:5239
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:-1 ,НТВ
-http://93.100.142.220:4022/udp/239.239.1.3:5239
 #EXTINF:-1 ,НТВ МИР
 https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ 24
@@ -21,22 +17,14 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,РОССИЯ 1
-http://93.100.142.220:4022/udp/239.239.1.65:5239
-#EXTINF:-1 ,РОССИЯ 1 HD
-http://93.100.142.220:4022/udp/239.239.3.66:5239
 #EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://93.100.142.220:4022/udp/239.239.2.0:5239
-#EXTINF:-1 ,РЕН ТВ
 http://91.220.135.165:81/11/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
-#EXTINF:-1 ,ТНТ4
-http://93.100.142.220:4022/udp/239.239.3.36:5239
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,СТС
@@ -62,8 +50,6 @@ http://91.220.135.165:81/50/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Солнце
 http://188.143.128.24:30000/play/a25/index.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
-http://93.100.142.220:4022/udp/239.239.2.6:5239
-#EXTINF:-1 ,ЗВЕЗДА
 http://91.220.135.165:81/17/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Перец
 http://88.216.83.245/perec/index.m3u8
@@ -77,8 +63,6 @@ https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
 http://138.201.67.145:8081/Avto24/index.m3u8
-#EXTINF:-1 ,Авто плюс
-http://93.100.142.220:4022/udp/239.239.4.24:5239
 #EXTINF:-1 ,Drive
 http://178.124.179.122:8088/Drive/index.m3u8
 #EXTINF:-1 ,ОТР
@@ -101,8 +85,6 @@ http://178.124.179.122:8088/Usadba/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 ,Ю
 http://88.216.83.245/u/index.m3u8
-#EXTINF:-1 ,Ю
-http://93.100.142.220:4022/udp/239.239.3.8:5239
 #EXTINF:-1 ,Paramount Comedy
 http://138.201.67.145:8081/ParamountComedy/index.m3u8
 #EXTINF:-1 ,РЕТРО
@@ -359,69 +341,3 @@ http://178.124.179.122:8088/Souz/index.m3u8
 http://178.124.179.122:8088/tnt_music/index.m3u8
 #EXTINF:-1 ,ШАНСОН ТВ
 http://178.124.179.122:8088/Shanson/index.m3u8
-#EXTINF:-1 ,ПЯТНИЦА
-http://93.100.142.220:4022/udp/239.239.2.3:5239
-#EXTINF:-1 ,ТВЦ
-http://93.100.142.220:4022/udp/239.239.1.69:5239
-#EXTINF:-1 ,ТОЧКА ТВ
-http://93.100.142.220:4022/udp/239.239.3.17:5239
-#EXTINF:-1 ,RUSSIA TODAY
-http://93.100.142.220:4022/udp/239.239.3.56:5239
-#EXTINF:-1 ,2X2
-http://93.100.142.220:4022/udp/239.239.3.3:5239
-#EXTINF:-1 ,47 КАНАЛ
-http://93.100.142.220:4022/udp/239.239.3.44:5239
-#EXTINF:-1 ,78 КАНАЛ HD
-http://93.100.142.220:4022/udp/239.239.3.68:5239
-#EXTINF:-1 ,8 КАНАЛ
-http://93.100.142.220:4022/udp/239.239.3.4:5239
-#EXTINF:-1 ,КАРУСЕЛЬ
-http://93.100.142.220:4022/udp/239.239.1.8:5239
-#EXTINF:-1 ,КВН
-http://93.100.142.220:4022/udp/239.239.4.16:5239
-#EXTINF:-1 ,КРАСНАЯ ЛИНИЯ
-http://93.100.142.220:4022/udp/239.239.3.20:5239
-#EXTINF:-1 ,КРЫМ 24
-http://93.100.142.220:4022/udp/239.239.3.37:5239
-#EXTINF:-1 ,МАТЧ!
-http://93.100.142.220:4022/udp/239.239.1.66:5239
-#EXTINF:-1 ,МАТЧ! HD
-http://93.100.142.220:4022/udp/239.239.3.34:5239
-#EXTINF:-1 ,МИР
-http://93.100.142.220:4022/udp/239.239.2.7:5239
-#EXTINF:-1 ,МИР PREMIUM HD
-http://93.100.142.220:4022/udp/239.239.3.52:5239
-#EXTINF:-1 ,МУЗ ТВ
-http://93.100.142.220:4022/udp/239.239.2.66:5239
-#EXTINF:-1 ,НСТ
-http://93.100.142.220:4022/udp/239.239.4.15:5239
-#EXTINF:-1 ,ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
-http://93.100.142.220:4022/udp/239.239.3.31:5239
-#EXTINF:-1 ,СОЮЗ
-http://93.100.142.220:4022/udp/239.239.3.26:5239
-#EXTINF:-1 ,ТВ3
-http://93.100.142.220:4022/udp/239.239.2.4:5239
-#EXTINF:-1 ,ЮВЕЛИРОЧКА
-http://93.100.142.220:4022/udp/239.239.3.57:5239
-#EXTINF:-1 ,ANI
-http://93.100.142.220:4022/udp/239.239.4.22:5239
-#EXTINF:-1 ,BRIDGE TV
-http://93.100.142.220:4022/udp/239.239.3.12:5239
-#EXTINF:-1 ,BRIDGE TV CLASSIC
-http://93.100.142.220:4022/udp/239.239.3.78:5239
-#EXTINF:-1 ,BRIDGE TV DANCE
-http://93.100.142.220:4022/udp/239.239.3.69:5239
-#EXTINF:-1 ,DISNEY CHANNEL
-http://93.100.142.220:4022/udp/239.239.3.10:5239
-#EXTINF:-1 ,LUXURY
-http://93.100.142.220:4022/udp/239.239.3.27:5239
-#EXTINF:-1 ,RU TV
-http://93.100.142.220:4022/udp/239.239.3.7:5239
-#EXTINF:-1 ,RUSSIA TODAY DOC HD
-http://93.100.142.220:4022/udp/239.239.3.55:5239
-#EXTINF:-1 ,TIJI
-http://93.100.142.220:4022/udp/239.239.4.23:5239
-#EXTINF:-1 ,TMB
-http://93.100.142.220:4022/udp/239.239.3.39:5239
-#EXTINF:-1 ,ТНОМЕР
-http://93.100.142.220:4022/udp/239.239.3.54:5239
