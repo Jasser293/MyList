@@ -5,8 +5,12 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Первый канал
+http://188.143.128.24:30000/play/a1/index.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+#EXTINF:-1 ,НТВ
+http://188.143.128.24:30000/play/a4/index.m3u8
 #EXTINF:-1 ,НТВ МИР
 https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ 24
@@ -17,26 +21,38 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Россия 1
+http://188.143.128.24:30000/play/a2/index.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Россия 24
+http://188.143.128.24:30000/play/a7/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://91.220.135.165:81/11/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,Рен ТВ
+http://188.143.128.24:30000/play/a11/index.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 ,ТНТ 4
+http://188.143.128.24:30000/play/a28/index.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,ТНТ
+http://188.143.128.24:30000/play/a19/index.m3u8
 #EXTINF:-1 ,СТС
 http://91.220.135.165:81/13/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,СТС
 http://188.143.128.24:30000/play/a13/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://188.143.128.24:30000/play/a29/index.m3u8
-#EXTINF:-1 ,Домашний
-http://188.143.128.24:30000/play/a14/index.m3u8
+#EXTINF:-1 ,Пятый канал
+http://188.143.128.24:30000/play/a5/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Домашний
+http://188.143.128.24:30000/play/a14/index.m3u8
 #EXTINF:-1 ,НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ Сериал
@@ -45,28 +61,36 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,Солнце
-http://188.143.128.24:30000/play/a25/index.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
 http://91.220.135.165:81/17/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,Звезда
+http://188.143.128.24:30000/play/a17/index.m3u8
 #EXTINF:-1 ,Перец
 http://88.216.83.245/perec/index.m3u8
 #EXTINF:-1 ,Пятница
 http://88.216.83.245/friday/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
+#EXTINF:-1 , Пятница
+http://188.143.128.24:30000/play/a16/index.m3u8
 #EXTINF:-1 ,Пятница HD
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
+#EXTINF:-1 ,Суббота
+http://188.143.128.24:30000/play/a21/index.m3u8
 #EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
 http://138.201.67.145:8081/Avto24/index.m3u8
+#EXTINF:-1 ,Авто плюс
+http://188.143.128.24:30000/play/a44/index.m3u8
 #EXTINF:-1 ,Drive
 http://178.124.179.122:8088/Drive/index.m3u8
 #EXTINF:-1 ,ОТР
 http://91.220.135.165:81/9/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 http://91.220.135.165:81/10/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,ТВЦ
+http://188.143.128.24:30000/play/a10/index.m3u8
 #EXTINF:-1 ,ДИКИЙ
 http://91.220.135.165:81/36/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ОХОТА И РЫБАЛКА
@@ -83,6 +107,8 @@ http://178.124.179.122:8088/Usadba/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 ,Ю
 http://88.216.83.245/u/index.m3u8
+#EXTINF:-1 ,Ю
+http://188.143.128.24:30000/play/a32/index.m3u8
 #EXTINF:-1 ,Paramount Comedy
 http://138.201.67.145:8081/ParamountComedy/index.m3u8
 #EXTINF:-1 ,РЕТРО
@@ -318,4 +344,66 @@ http://178.124.179.122:8088/Souz/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://178.124.179.122:8088/tnt_music/index.m3u8
 #EXTINF:-1 ,ШАНСОН ТВ
-http://178.124.179.122:8088/Shanson/index.m3u8
+http://178.124.179.122:8088/Shanson/index.m3u
+#EXTINF:-1 ,Культура
+http://188.143.128.24:30000/play/a6/index.m3u8
+#EXTINF:-1 ,ОТР
+http://188.143.128.24:30000/play/a9/index.m3u8
+#EXTINF:-1 ,Карусель
+http://188.143.128.24:30000/play/a8/index.m3u8
+#EXTINF:-1 ,ТНТ Music
+http://188.143.128.24:30000/play/a48/index.m3u8
+#EXTINF:-1 ,Киномикс
+http://188.143.128.24:30000/play/a47/index.m3u8
+#EXTINF:-1 ,Санкт-Петербург
+http://188.143.128.24:30000/play/a46/index.m3u8
+#EXTINF:-1 ,Кино ТВ
+http://188.143.128.24:30000/play/a45/index.m3u8
+#EXTINF:-1 ,Бобер
+http://188.143.128.24:30000/play/a43/index.m3u8
+#EXTINF:-1 ,РБК
+http://188.143.128.24:30000/play/a42/index.m3u8
+#EXTINF:-1 ,Русский бестселлер
+http://188.143.128.24:30000/play/a41/index.m3u8
+#EXTINF:-1 ,Союз
+http://188.143.128.24:30000/play/a40/index.m3u8
+#EXTINF:-1 ,RU.TV
+http://188.143.128.24:30000/play/a39/index.m3u8
+#EXTINF:-1 ,Музыка первого
+http://188.143.128.24:30000/play/a38/index.m3u8
+#EXTINF:-1 ,2x2
+http://188.143.128.24:30000/play/a37/index.m3u8
+#EXTINF:-1 ,О!
+http://188.143.128.24:30000/play/a36/index.m3u8
+#EXTINF:-1 ,Bridge TV
+http://188.143.128.24:30000/play/a35/index.m3u8
+#EXTINF:-1 ,Сапфир
+http://188.143.128.24:30000/play/a34/index.m3u8
+#EXTINF:-1 ,Че
+http://188.143.128.24:30000/play/a33/index.m3u8
+#EXTINF:-1 ,Bridge TV Русский хит
+http://188.143.128.24:30000/play/a31/index.m3u8
+#EXTINF:-1 ,Мама
+http://188.143.128.24:30000/play/a30/index.m3u8
+#EXTINF:-1 ,Матч ТВ
+http://188.143.128.24:30000/play/a3/index.m3u8
+#EXTINF:-1 ,Ювелирочка
+http://188.143.128.24:30000/play/a27/index.m3u8
+#EXTINF:-1 ,Shopping Live
+http://188.143.128.24:30000/play/a26/index.m3u8
+#EXTINF:-1 ,Солнце
+http://188.143.128.24:30000/play/a25/index.m3u8
+#EXTINF:-1 ,360
+http://188.143.128.24:30000/play/a24/index.m3u8
+#EXTINF:-1 ,Мульт
+http://188.143.128.24:30000/play/a23/index.m3u8
+#EXTINF:-1 ,Европа Плюс ТВ
+http://188.143.128.24:30000/play/a22/index.m3u8
+#EXTINF:-1 ,МузТВ
+http://188.143.128.24:30000/play/a20/index.m3u8
+#EXTINF:-1 ,Мир
+http://188.143.128.24:30000/play/a18/index.m3u8
+#EXTINF:-1 ,ТВ3
+http://188.143.128.24:30000/play/a15/index.m3u8
+#EXTINF:-1 ,Спас
+http://188.143.128.24:30000/play/a12/index.m3u8
