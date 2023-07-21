@@ -45,8 +45,6 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,ВОПРОСЫ и ОТВЕТЫ
-http://91.220.135.165:81/50/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Солнце
 http://188.143.128.24:30000/play/a25/index.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
@@ -181,32 +179,14 @@ http://91.220.135.165:81/16/tracks-v1a1v1/playlist.m3u8
 http://91.220.135.165:81/18/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,МУЗ ТВ
 http://91.220.135.165:81/20/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,КИНОМИКС
-http://91.220.135.165:81/22/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,КИНОКОМЕДИЯ
-http://91.220.135.165:81/25/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Cinema
 http://91.220.135.165:81/28/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,ЕВРОКИНО
-http://91.220.135.165:81/30/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,ПСИХОЛОГИЯ 21
-http://91.220.135.165:81/31/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,РЕТРО
-http://91.220.135.165:81/34/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,САРАФАН
 http://91.220.135.165:81/35/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Ю
 http://91.220.135.165:81/39/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
 http://91.220.135.165:81/46/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,ЗООПАРК
-http://91.220.135.165:81/47/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,УСАДЬБА
-http://91.220.135.165:81/48/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,ЗДОРОВОЕ ТВ
-http://91.220.135.165:81/49/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,ИЛЛЮЗИОН+
-http://91.220.135.165:81/51/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
 http://91.220.135.165:81/53/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РУССКИЙ БЕСТСЕЛЛЕР
@@ -235,8 +215,6 @@ http://91.220.135.165:81/42/tracks-v1a1v1/playlist.m3u8
 http://91.220.135.165:81/43/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,СОЛНЦЕ
 http://91.220.135.165:81/79/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,УНИКУМ
-http://91.220.135.165:81/80/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,МАТЧ ТВ
 http://91.220.135.165:81/3/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Матч ТВ HD
