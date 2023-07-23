@@ -43,7 +43,7 @@ http://91.220.135.165:81/11/tracks-v1a1v1/playlist.m3u8
 http://109.226.73.30:4022/udp/232.0.3.11:1234
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
-#EXTINF:-1 ,ТНТ 4
+#EXTINF:-1 ,ТНТ4
 http://188.143.128.24:30000/play/a28/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://109.226.73.30:4022/udp/232.0.3.19:1234
