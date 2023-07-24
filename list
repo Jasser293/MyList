@@ -43,7 +43,7 @@ http://91.220.135.165:81/11/tracks-v1a1v1/playlist.m3u8
 http://109.226.73.30:4022/udp/232.0.3.11:1234
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
-#EXTINF:-1 ,ТНТ4
+#EXTINF:-1 ,ТНТ 4
 http://188.143.128.24:30000/play/a28/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://109.226.73.30:4022/udp/232.0.3.19:1234
@@ -69,10 +69,6 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 http://91.220.135.165:81/17/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
 http://109.226.73.30:4022/udp/232.0.3.17:1234
-#EXTINF:-1 ,Перец
-http://88.216.83.245/perec/index.m3u8
-#EXTINF:-1 ,Пятница
-http://88.216.83.245/friday/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -106,8 +102,6 @@ http://178.124.179.122:8088/Usadba/index.m3u8
 #EXTINF:-1 ,Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 ,Ю
-http://88.216.83.245/u/index.m3u8
-#EXTINF:-1 ,Ю
 http://109.226.73.30:4022/udp/232.0.1.25:1234
 #EXTINF:-1 ,Paramount Comedy
 http://138.201.67.145:8081/ParamountComedy/index.m3u8
@@ -125,46 +119,6 @@ http://138.201.67.145:8081/okino/index.m3u8
 http://138.201.67.145:8081/stskids/index.m3u8
 #EXTINF:-1 ,ЖИВИ
 http://138.201.67.145:8081/zhivi/index.m3u8
-#EXTINF:-1 ,RTG int.
-http://88.216.83.245/rtg/index.m3u8
-#EXTINF:-1 ,History
-http://88.216.83.245/history/index.m3u8
-#EXTINF:-1 ,Discovery Channel HD
-http://88.216.83.245/discovery/index.m3u8
-#EXTINF:-1 ,Travel Channel HD
-http://88.216.83.245/travel/index.m3u8
-#EXTINF:-1 ,Кинеко
-http://88.216.83.245/fox/index.m3u8
-#EXTINF:-1 ,Euronews
-http://88.216.83.245/euronews/index.m3u8
-#EXTINF:-1 ,ТЕРРА
-http://88.216.83.245/drive/index.m3u8
-#EXTINF:-1 ,CNN
-http://88.216.83.245/cnn/index.m3u8
-#EXTINF:-1 ,Киносат
-http://88.216.83.245/nicktoons/index.m3u8
-#EXTINF:-1 ,RTVI
-http://88.216.83.245/rtvi/index.m3u8
-#EXTINF:-1 ,Солнце
-http://88.216.83.245/disney/index.m3u8
-#EXTINF:-1 ,RU.TV
-http://88.216.83.245/RuTV/index.m3u8
-#EXTINF:-1 ,MTV
-http://88.216.83.245/mtv/index.m3u8
-#EXTINF:-1 ,Bridge TV
-http://88.216.83.245/tntmusic/index.m3u8
-#EXTINF:-1 ,Bridge TV HITS
-http://88.216.83.245/mirhd/index.m3u8
-#EXTINF:-1 ,TV8 LT
-http://88.216.83.245/tv8/index.m3u8
-#EXTINF:-1 ,TV6 LV
-http://88.216.83.245/tv6/index.m3u8
-#EXTINF:-1 ,TV3 LT
-http://88.216.83.245/tv3/index.m3u8
-#EXTINF:-1 ,Sport 1 HD LT
-http://88.216.83.245/sport1/index.m3u8
-#EXTINF:-1 ,TVRUS+
-http://88.216.83.245/nauka/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
@@ -343,8 +297,6 @@ http://178.124.179.122:8088/Sarafan/index.m3u8
 http://178.124.179.122:8088/Souz/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://178.124.179.122:8088/tnt_music/index.m3u8
-#EXTINF:-1 ,ШАНСОН ТВ
-http://178.124.179.122:8088/Shanson/index.m3u
 #EXTINF:-1 ,МИР
 http://109.226.73.30:4022/udp/232.0.3.18:1234
 #EXTINF:-1 ,МУЗ ТВ
