@@ -9,14 +9,10 @@ http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:-1 ,НТВ
-http://109.226.73.30:4022/udp/232.0.3.4:1234
-#EXTINF:-1 ,НТВ МИР
-https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,ОТР
-http://109.226.73.30:4022/udp/232.0.3.9:1234
+#EXTINF:-1 ,НТВ МИР
+https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ОТР
 http://91.220.135.165:81/9/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 24
@@ -31,8 +27,6 @@ http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 http://188.143.128.24:30000/play/a2/index.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,РОССИЯ 1
-http://109.226.73.30:4022/udp/232.0.3.2:1234
 #EXTINF:-1 ,РОССИЯ К
 http://109.226.73.30:4022/udp/232.0.3.6:1234
 #EXTINF:-1 ,РОССИЯ 24
@@ -41,14 +35,10 @@ http://109.226.73.30:4022/udp/232.0.3.7:1234
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://91.220.135.165:81/11/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,РЕН ТВ
-http://109.226.73.30:4022/udp/232.0.3.11:1234
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ 4
 http://188.143.128.24:30000/play/a28/index.m3u8
-#EXTINF:-1 ,ТНТ
-http://109.226.73.30:4022/udp/232.0.3.19:1234
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,СТС
@@ -73,8 +63,6 @@ http://91.220.135.165:81/17/tracks-v1a1v1/playlist.m3u8
 http://109.226.73.30:4022/udp/232.0.3.17:1234
 #EXTINF:-1 ,ПЯТНИЦА
 http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,ПЯТНИЦА
-http://109.226.73.30:4022/udp/232.0.3.16:1234
 #EXTINF:-1 ,Пятница HD
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 #EXTINF:-1 ,Суббота HD
@@ -103,8 +91,6 @@ http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
 http://178.124.179.122:8088/Usadba/index.m3u8
 #EXTINF:-1 ,Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
-#EXTINF:-1 ,Ю
-http://109.226.73.30:4022/udp/232.0.1.25:1234
 #EXTINF:-1 ,Paramount Comedy
 http://138.201.67.145:8081/ParamountComedy/index.m3u8
 #EXTINF:-1 ,РЕТРО
@@ -299,41 +285,3 @@ http://178.124.179.122:8088/Sarafan/index.m3u8
 http://178.124.179.122:8088/Souz/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://178.124.179.122:8088/tnt_music/index.m3u8
-#EXTINF:-1 ,МИР
-http://109.226.73.30:4022/udp/232.0.3.18:1234
-#EXTINF:-1 ,МУЗ ТВ
-http://109.226.73.30:4022/udp/232.0.3.20:1234
-#EXTINF:-1 ,BRIDGE TV РУССКИЙ ХИТ
-http://109.226.73.30:4022/udp/232.0.1.2:1234
-#EXTINF:-1 ,BRIDGE TV
-http://109.226.73.30:4022/udp/232.0.1.3:1234
-#EXTINF:-1 ,РБК
-http://109.226.73.30:4022/udp/232.0.1.14:1234
-#EXTINF:-1 ,TV XXI
-http://109.226.73.30:4022/udp/232.0.1.22:1234
-#EXTINF:-1 ,1HD
-http://109.226.73.30:4022/udp/232.0.1.26:1234
-#EXTINF:-1 ,МИР PREMIUM HD
-http://109.226.73.30:4022/udp/232.0.1.58:1234
-#EXTINF:-1 ,MUSIC BOX RUSSIAN
-http://109.226.73.30:4022/udp/232.0.2.1:1234
-#EXTINF:-1 ,2X2
-http://109.226.73.30:4022/udp/232.0.2.4:1234
-#EXTINF:-1 ,DISNEY CHANNEL
-http://109.226.73.30:4022/udp/232.0.2.23:1234
-#EXTINF:-1 ,ДЕТСКИЙ
-http://109.226.73.30:4022/udp/232.0.2.49:1234
-#EXTINF:-1 ,РУССКИЙ ИЛЛЮЗИОН
-http://109.226.73.30:4022/udp/232.0.2.57:1234
-#EXTINF:-1 ,ИЛЛЮЗИОН
-http://109.226.73.30:4022/udp/232.0.2.59:1234
-#EXTINF:-1 ,МАТЧ! HD
-http://109.226.73.30:4022/udp/232.0.2.63:1234
-#EXTINF:-1 ,МАТЧ!
-http://109.226.73.30:4022/udp/232.0.3.3:1234
-#EXTINF:-1 ,КАРУСЕЛЬ
-http://109.226.73.30:4022/udp/232.0.3.8:1234
-#EXTINF:-1 ,СПАС
-http://109.226.73.30:4022/udp/232.0.3.12:1234
-#EXTINF:-1 ,ГУБЕРНИЯ
-http://109.226.73.30:4022/udp/232.0.3.21:1234
