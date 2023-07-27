@@ -50,13 +50,13 @@ http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://109.226.73.30:4022/udp/232.0.3.14:1234
 #EXTINF:-1 ,НТВ Хит
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ Сериал
-https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+http://89.104.114.7:8080/ntv_hit/index.m3u8
 #EXTINF:-1 ,НТВ Право
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+http://89.104.114.7:8080/ntv_pravo/index.m3u8
+#EXTINF:-1 ,НТВ Сериал
+http://89.104.114.7:8080/ntv_serial/index.m3u8
 #EXTINF:-1 ,НТВ Стиль
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+http://89.104.114.7:8080/ntv_stil/index.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
 http://91.220.135.165:81/17/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
