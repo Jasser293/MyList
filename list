@@ -93,20 +93,8 @@ http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
 http://178.124.179.122:8088/Usadba/index.m3u8
 #EXTINF:-1 ,Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
-#EXTINF:-1 ,Paramount Comedy
-http://138.201.67.145:8081/ParamountComedy/index.m3u8
-#EXTINF:-1 ,РЕТРО
-http://138.201.67.145:8081/retro/index.m3u8
-#EXTINF:-1 ,САРАФАН
-http://138.201.67.145:8081/sarafan/index.m3u8
-#EXTINF:-1 ,Viasat History
-http://138.201.67.145:8081/ViasatHistory/index.m3u8
 #EXTINF:-1 ,RTVI
 http://138.201.67.145:8081/rtvi/index.m3u8
-#EXTINF:-1 ,О КИНО
-http://138.201.67.145:8081/okino/index.m3u8
-#EXTINF:-1 ,СТС KIDS HD
-http://138.201.67.145:8081/stskids/index.m3u8
 #EXTINF:-1 ,ЖИВИ
 http://138.201.67.145:8081/zhivi/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild
@@ -157,8 +145,6 @@ http://91.220.135.165:81/35/tracks-v1a1v1/playlist.m3u8
 http://91.220.135.165:81/39/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
 http://91.220.135.165:81/46/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
-http://91.220.135.165:81/53/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РУССКИЙ БЕСТСЕЛЛЕР
 http://91.220.135.165:81/54/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,КИНО ТВ
