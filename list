@@ -39,8 +39,12 @@ https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 http://188.143.128.24:30000/play/a28/index.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,КВН ТВ
+http://91.197.104.34:8080/KVN/video.m3u8
 #EXTINF:-1 ,СТС
 http://91.220.135.165:81/13/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,СТС HD
+http://91.197.104.34:8080/CTCHD/video.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Хит
@@ -79,8 +83,26 @@ http://91.220.135.165:81/38/tracks-v1a1v1/playlist.m3u8
 http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://178.124.179.122:8088/Usadba/index.m3u8
+#EXTINF:-1 ,КУХНЯ ТВ
+http://91.197.104.34:8080/Kuhnya/video.m3u8
 #EXTINF:-1 ,Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
+#EXTINF:-1 ,РОДНОЕ КИНО
+http://91.197.104.34:8080/RodnoeKino/video.m3u8
+#EXTINF:-1 ,ПОБЕДА
+http://91.197.104.34:8080/Pobeda/video.m3u8
+#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
+http://91.197.104.34:8080/NasheNovoeKino/video.m3u8
+#EXTINF:-1 ,КИНОУЖАС
+http://91.197.104.34:8080/Kinouzhas/video.m3u8
+#EXTINF:-1 ,КИНОМИКС
+http://91.197.104.34:8080/Kinomix/video.m3u8
+#EXTINF:-1 ,КИНОСЕРИЯ
+http://91.197.104.34:8080/Kinoseria/video.m3u8
+#EXTINF:-1 ,КИНОКОМЕДИЯ
+http://91.197.104.34:8080/Kinokomedia/video.m3u8
+#EXTINF:-1 ,ДОРАМА HD
+http://91.197.104.34:8080/Dorama/video.m3u8
 #EXTINF:-1 ,RTVI
 http://138.201.67.145:8081/rtvi/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild
