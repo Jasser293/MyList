@@ -67,8 +67,6 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 http://138.201.67.145:8081/Avto24/index.m3u8
 #EXTINF:-1 ,АВТО ПЛЮС
 https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Drive
-http://178.124.179.122:8088/Drive/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://91.220.135.165:81/10/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ДИКИЙ
@@ -81,8 +79,6 @@ http://91.220.135.165:81/37/tracks-v1a1v1/playlist.m3u8
 http://91.220.135.165:81/38/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
-#EXTINF:-1 ,УСАДЬБА
-http://178.124.179.122:8088/Usadba/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://91.197.104.34:8080/Kuhnya/video.m3u8
 #EXTINF:-1 ,Ю
@@ -245,35 +241,3 @@ http://51.89.67.79:25461/stalker348574985793/stalker348574985793/80
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/81
 #EXTINF:-1 ,Eleven Sports 4 HD
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/82
-#EXTINF:-1 ,Удар
-https://strm.yandex.ru/kal/udar/udar0.m3u8
-#EXTINF:-1 ,.SCI-FI
-http://178.124.179.122:8088/Sci-Fi/index.m3u8
-#EXTINF:-1 ,MУЛЬТ
-http://178.124.179.122:8088/Mult/index.m3u8
-#EXTINF:-1 ,OРУЖИЕ
-http://178.124.179.122:8088/Oruzhie/index.m3u8
-#EXTINF:-1 ,БЕЛ МУЗ
-http://178.124.179.122:8088/BelMuzTV/index.m3u8
-#EXTINF:-1 ,БЕЛАРУСЬ 24
-http://178.124.179.122:8088/Belarus24/index.m3u8
-#EXTINF:-1 ,ДОМ КИНО
-http://178.124.179.122:8088/Dom_kino/index.m3u8
-#EXTINF:-1 ,ЗДОРОВОЕ ТВ
-http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
-#EXTINF:-1 ,КАРУСЕЛЬ
-http://178.124.179.122:8088/karusel/index.m3u8
-#EXTINF:-1 ,КИНОПРЕМЬЕРА HD
-http://178.124.179.122:8088/Kinopremiera/index.m3u8
-#EXTINF:-1 ,ПЕРЕЦ
-http://178.124.179.122:8088/Peretz/index.m3u8
-#EXTINF:-1 ,ПЛЮС ТВ BY
-http://178.124.179.122:8088/PlusTV/index.m3u8
-#EXTINF:-1 ,РЕТРО
-http://178.124.179.122:8088/Retro/index.m3u8
-#EXTINF:-1 ,САРАФАН
-http://178.124.179.122:8088/Sarafan/index.m3u8
-#EXTINF:-1 ,СОЮЗ
-http://178.124.179.122:8088/Souz/index.m3u8
-#EXTINF:-1 ,ТНТ Music
-http://178.124.179.122:8088/tnt_music/index.m3u8
