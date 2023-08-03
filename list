@@ -29,10 +29,6 @@ http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 http://188.143.128.24:30000/play/a2/index.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,РОССИЯ К
-http://109.226.73.30:4022/udp/232.0.3.6:1234
-#EXTINF:-1 ,РОССИЯ 24
-http://109.226.73.30:4022/udp/232.0.3.7:1234
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
@@ -45,12 +41,8 @@ http://188.143.128.24:30000/play/a28/index.m3u8
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,СТС
 http://91.220.135.165:81/13/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,СТС
-http://109.226.73.30:4022/udp/232.0.3.13:1234
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ДОМАШНИЙ
-http://109.226.73.30:4022/udp/232.0.3.14:1234
 #EXTINF:-1 ,НТВ Хит
 http://89.104.114.7:8080/ntv_hit/index.m3u8
 #EXTINF:-1 ,НТВ Право
@@ -61,8 +53,6 @@ http://89.104.114.7:8080/ntv_serial/index.m3u8
 http://89.104.114.7:8080/ntv_stil/index.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
 http://91.220.135.165:81/17/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,ЗВЕЗДА
-http://109.226.73.30:4022/udp/232.0.3.17:1234
 #EXTINF:-1 ,ПЯТНИЦА
 http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Пятница HD
@@ -77,8 +67,6 @@ https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
 http://178.124.179.122:8088/Drive/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://91.220.135.165:81/10/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,ТВЦ
-http://109.226.73.30:4022/udp/232.0.3.10:1234
 #EXTINF:-1 ,ДИКИЙ
 http://91.220.135.165:81/36/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ОХОТА И РЫБАЛКА
@@ -95,8 +83,6 @@ http://178.124.179.122:8088/Usadba/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 ,RTVI
 http://138.201.67.145:8081/rtvi/index.m3u8
-#EXTINF:-1 ,ЖИВИ
-http://138.201.67.145:8081/zhivi/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
@@ -149,8 +135,6 @@ http://91.220.135.165:81/46/tracks-v1a1v1/playlist.m3u8
 http://91.220.135.165:81/54/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,КИНО ТВ
 http://91.220.135.165:81/55/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,РУССКАЯ КОМЕДИЯ
-http://91.220.135.165:81/56/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РБК
 http://91.220.135.165:81/71/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,МИР СЕРИАЛА
@@ -161,8 +145,6 @@ http://91.220.135.165:81/74/tracks-v1a1v1/playlist.m3u8
 http://91.220.135.165:81/76/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,СТС Love
 http://91.220.135.165:81/59/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,СТС KIDS
-http://91.220.135.165:81/60/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,МУЛЬТ
 http://91.220.135.165:81/41/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,МАМА
