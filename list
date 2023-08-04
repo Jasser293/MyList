@@ -15,6 +15,14 @@ http://188.143.128.24:30000/play/a4/index.m3u8
 http://31.134.132.245:8080/ntv_hd/index.m3u8
 #EXTINF:-1 ,НТВ МИР
 https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ право
+http://109.200.135.130:8080/ntv_pravo/index.m3u8
+#EXTINF:-1 ,НТВ стиль
+http://109.200.135.130:8080/ntv_stil/index.m3u8
+#EXTINF:-1 ,НТВ хит
+http://109.200.135.130:8080/ntv_hit/index.m3u8
+#EXTINF:-1 ,НТВ сериал
+http://109.200.135.130:8080/ntv_serial/index.m3u8
 #EXTINF:-1 ,ОТР
 http://91.220.135.165:81/9/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 24
@@ -47,14 +55,6 @@ http://91.220.135.165:81/13/tracks-v1a1v1/playlist.m3u8
 http://91.197.104.34:8080/CTCHD/video.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ Хит
-http://89.104.114.7:8080/ntv_hit/index.m3u8
-#EXTINF:-1 ,НТВ Право
-http://89.104.114.7:8080/ntv_pravo/index.m3u8
-#EXTINF:-1 ,НТВ Сериал
-http://89.104.114.7:8080/ntv_serial/index.m3u8
-#EXTINF:-1 ,НТВ Стиль
-http://89.104.114.7:8080/ntv_stil/index.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
 http://91.220.135.165:81/17/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
