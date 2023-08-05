@@ -15,6 +15,14 @@ http://188.143.128.24:30000/play/a4/index.m3u8
 http://31.134.132.245:8080/ntv_hd/index.m3u8
 #EXTINF:-1 ,НТВ МИР
 https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ право
+http://109.200.135.130:8080/ntv_pravo/index.m3u8
+#EXTINF:-1 ,НТВ стиль
+http://109.200.135.130:8080/ntv_stil/index.m3u8
+#EXTINF:-1 ,НТВ хит
+http://109.200.135.130:8080/ntv_hit/index.m3u8
+#EXTINF:-1 ,НТВ сериал
+http://109.200.135.130:8080/ntv_serial/index.m3u8
 #EXTINF:-1 ,ОТР
 http://91.220.135.165:81/9/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 24
@@ -41,7 +49,7 @@ http://188.143.128.24:30000/play/a28/index.m3u8
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 ,Твоё ТВ юмор                        
+#EXTINF:-1 ,Твоё ТВ юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://91.197.104.34:8080/KVN/video.m3u8
@@ -51,16 +59,10 @@ http://91.220.135.165:81/13/tracks-v1a1v1/playlist.m3u8
 http://91.197.104.34:8080/CTCHD/video.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ДОМАШНИЙ
-http://91.220.135.165:81/14/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,ТВ3
-http://91.220.135.165:81/15/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
 http://91.220.135.165:81/17/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,ПЯТНИЦА
-http://91.220.135.165:81/16/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Пятница HD
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 #EXTINF:-1 ,Суббота HD
@@ -69,8 +71,6 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 http://138.201.67.145:8081/Avto24/index.m3u8
 #EXTINF:-1 ,АВТО ПЛЮС
 https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ДРАЙВ
-https://tbs01-edge11.itdc.ge/drive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТВЦ
 http://91.220.135.165:81/10/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ДИКИЙ
@@ -87,8 +87,6 @@ http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
 http://91.197.104.34:8080/Kuhnya/video.m3u8
 #EXTINF:-1 ,Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
-#EXTINF:-1 ,Ю
-http://91.220.135.165:81/39/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://91.197.104.34:8080/RodnoeKino/video.m3u8
 #EXTINF:-1 ,ПОБЕДА
@@ -119,8 +117,6 @@ http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
 http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МИР
 http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,МИР
-http://91.220.135.165:81/18/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Kentron AM
 http://45.159.74.13:80/Kentron/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Atv HD AM
@@ -139,12 +135,22 @@ http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
 http://91.220.135.165:81/8/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,СПАС
 http://91.220.135.165:81/12/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,ДОМАШНИЙ
+http://91.220.135.165:81/14/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,ТВ3
+http://91.220.135.165:81/15/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,ПЯТНИЦА
+http://91.220.135.165:81/16/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,МИР
+http://91.220.135.165:81/18/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,МУЗ ТВ
 http://91.220.135.165:81/20/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Cinema
 http://91.220.135.165:81/28/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,САРАФАН
 http://91.220.135.165:81/35/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,Ю
+http://91.220.135.165:81/39/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
 http://91.220.135.165:81/46/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РУССКИЙ БЕСТСЕЛЛЕР
@@ -227,15 +233,3 @@ http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Polsat Sport Premium 1
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/66
-#EXTINF:-1 ,Polsat Sport Premium 2
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/67
-#EXTINF:-1 ,Eleven Sports 1 HD
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/79
-#EXTINF:-1 ,Eleven Sports 2 HD
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/80
-#EXTINF:-1 ,Eleven Sports 3 HD
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/81
-#EXTINF:-1 ,Eleven Sports 4 HD
-http://51.89.67.79:25461/stalker348574985793/stalker348574985793/82
