@@ -59,6 +59,8 @@ http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 http://91.220.135.165:81/14/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ТВ3
 http://91.220.135.165:81/15/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,НСТ
+https://tbs01-edge11.itdc.ge/hctv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
 http://91.220.135.165:81/17/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -75,6 +77,8 @@ http://138.201.67.145:8081/Avto24/index.m3u8
 https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 https://tbs01-edge11.itdc.ge/drive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,24 ТЕХНО
+https://tbs01-edge11.itdc.ge/24techno/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДИКИЙ
 http://91.220.135.165:81/36/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ОХОТА И РЫБАЛКА
@@ -89,6 +93,12 @@ http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
 http://91.197.104.34:8080/Kuhnya/video.m3u8
 #EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
 http://91.220.135.165:81/46/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,НАУКА
+https://tbs01-edge11.itdc.ge/nayka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ИСТОРИЯ
+https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,HD Life
+https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 ,Ю
@@ -111,10 +121,12 @@ http://91.197.104.34:8080/Kinokomedia/video.m3u8
 http://91.197.104.34:8080/Dorama/video.m3u8
 #EXTINF:-1 ,RTVI
 http://138.201.67.145:8081/rtvi/index.m3u8
-#EXTINF:-1 ,Nat Geo Wild
-http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,National Geographic
-http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viasat Explore
+https://tbs01-edge11.itdc.ge/viasatexp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viasat History
+https://tbs01-edge11.itdc.ge/viasathist/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Travel+Adventure
+https://tbs01-edge11.itdc.ge/viasatnat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ HD
 http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кинопремьера HD
