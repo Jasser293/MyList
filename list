@@ -9,8 +9,6 @@ http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:-1 ,НТВ
-http://188.143.128.24:30000/play/a4/index.m3u8
 #EXTINF:-1 ,НТВ HD
 http://31.134.132.245:8080/ntv_hd/index.m3u8
 #EXTINF:-1 ,НТВ МИР
@@ -33,8 +31,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Россия 1
-http://188.143.128.24:30000/play/a2/index.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рен ТВ
@@ -45,8 +41,6 @@ http://91.220.135.165:81/11/tracks-v1a1v1/playlist.m3u8
 http://91.220.135.165:81/10/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
-#EXTINF:-1 ,ТНТ4
-http://188.143.128.24:30000/play/a28/index.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Твоё ТВ
