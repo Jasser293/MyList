@@ -13,6 +13,14 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 http://31.134.132.245:8080/ntv_hd/index.m3u8
 #EXTINF:-1 ,НТВ МИР
 https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ право
+http://109.200.135.130:8080/ntv_pravo/index.m3u8
+#EXTINF:-1 ,НТВ стиль
+http://109.200.135.130:8080/ntv_stil/index.m3u8
+#EXTINF:-1 ,НТВ хит
+http://109.200.135.130:8080/ntv_hit/index.m3u8
+#EXTINF:-1 ,НТВ сериал
+http://109.200.135.130:8080/ntv_serial/index.m3u8
 #EXTINF:-1 ,ОТР
 http://91.220.135.165:81/9/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 24
