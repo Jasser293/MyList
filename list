@@ -90,6 +90,8 @@ https://tbs01-edge11.itdc.ge/drive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,24 ТЕХНО
 https://tbs01-edge11.itdc.ge/24techno/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,УСАДЬБА
+https://tbs01-edge11.itdc.ge/usadba/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,УСАДЬБА
 http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://91.197.104.34:8080/Kuhnya/video.m3u8
