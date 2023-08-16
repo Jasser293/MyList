@@ -15,14 +15,14 @@ http://188.143.128.24:30000/play/a4/index.m3u8
 http://31.134.132.245:8080/ntv_hd/index.m3u8
 #EXTINF:-1 ,НТВ МИР
 https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ Хит
-https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
-#EXTINF:-1 ,НТВ Сериал
-https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
-#EXTINF:-1 ,НТВ Право
-https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
-#EXTINF:-1 ,НТВ Стиль
-https://livetv.mylifeisgood.net.ru/channels/ntvstyle24.m3u8
+#EXTINF:-1 ,НТВ ПРАВО
+http://193.33.88.172/ntv_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ СТИЛЬ
+http://193.33.88.172/ntv_stil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ СЕРИАЛ
+http://193.33.88.172/ntv_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ ХИТ
+http://193.33.88.172/ntv_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://europe3.livetv.az/russia/rossiya24_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Россия 1
