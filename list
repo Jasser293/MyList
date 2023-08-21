@@ -5,14 +5,10 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Первый канал HD
-http://tv.tvip-media.net/perviykanalhd/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
 http://188.143.128.24:30000/play/a4/index.m3u8
-#EXTINF:-1 ,НТВ HD
-http://tv.tvip-media.net/ntvhd/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 ,НТВ МИР
 https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
@@ -37,8 +33,6 @@ http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://188.143.128.24:30000/play/a11/index.m3u8
-#EXTINF:-1 ,РЕН ТВ HD
-http://tv.tvip-media.net/rentvhd/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 ,ОТР
 http://188.143.128.24:30000/play/a9/index.m3u8
 #EXTINF:-1 ,ТВЦ
