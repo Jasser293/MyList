@@ -82,7 +82,7 @@ https://tbs01-edge11.itdc.ge/usadba/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
-http://tv.tvip-media.net/zagorodnayazhizn/tracks-v1a0/time-0.m3u8
+http://217.107.34.114:8009/playlist.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://91.197.104.34:8080/Kuhnya/video.m3u8
 #EXTINF:-1 ,Еда HD
