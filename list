@@ -34,7 +34,7 @@ http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ HD
-http://tv.tvip-media.net/rentvhd/tracks-v1a0/time-0.m3u8
+http://91.197.104.34:8080/rentv/video.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
 http://193.33.88.172/zvezda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТНТ4
