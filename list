@@ -5,14 +5,12 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Первый HD
-http://193.33.88.172/ort_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Первый канал HD
+http://tv.tvip-media.net/perviykanalhd/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:-1 ,НТВ
-http://188.143.128.24:30000/play/a4/index.m3u8
 #EXTINF:-1 ,НТВ HD
-http://193.33.88.172/ntv_hd/tracks-v1a1/mono.m3u8
+http://tv.tvip-media.net/ntvhd/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 ,НТВ МИР
 https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
@@ -35,22 +33,10 @@ http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
-#EXTINF:-1 ,Рен ТВ
-http://188.143.128.24:30000/play/a11/index.m3u8
-#EXTINF:-1 ,ОТР
-http://188.143.128.24:30000/play/a9/index.m3u8
-#EXTINF:-1 ,ТВЦ
-http://188.143.128.24:30000/play/a10/index.m3u8
-#EXTINF:-1 ,Мир
-http://188.143.128.24:30000/play/a18/index.m3u8
-#EXTINF:-1 ,Звезда
-http://188.143.128.24:30000/play/a17/index.m3u8
-#EXTINF:-1 ,ТНТ4
-http://188.143.128.24:30000/play/a28/index.m3u8
+#EXTINF:-1 ,РЕН ТВ HD
+http://tv.tvip-media.net/rentvhd/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
-#EXTINF:-1 ,ТНТ
-http://188.143.128.24:30000/play/a19/index.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Твоё ТВ
@@ -59,24 +45,14 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://91.197.104.34:8080/KVN/video.m3u8
-#EXTINF:-1 ,СТС
-http://188.143.128.24:30000/play/a13/index.m3u8
 #EXTINF:-1 ,СТС HD
 http://91.197.104.34:8080/CTCHD/video.m3u8
-#EXTINF:-1 ,СТС Love
-http://188.143.128.24:30000/play/a29/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Домашний
-http://188.143.128.24:30000/play/a14/index.m3u8
-#EXTINF:-1 ,ТВ3
-http://188.143.128.24:30000/play/a15/index.m3u8
 #EXTINF:-1 ,НСТ
 https://tbs01-edge11.itdc.ge/hctv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
-#EXTINF:-1 ,Пятница
-http://188.143.128.24:30000/play/a16/index.m3u8
 #EXTINF:-1 ,Пятница HD
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 #EXTINF:-1 ,Суббота HD
@@ -105,10 +81,6 @@ https://tbs01-edge11.itdc.ge/nayka/tracks-v1a1/mono.m3u8
 https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,HD Life
 https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Че
-http://188.143.128.24:30000/play/a33/index.m3u8
-#EXTINF:-1 ,Ю
-http://188.143.128.24:30000/play/a32/index.m3u8
 #EXTINF:-1 ,Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
