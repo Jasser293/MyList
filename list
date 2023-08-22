@@ -35,6 +35,8 @@ http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ HD
 http://tv.tvip-media.net/rentvhd/tracks-v1a0/time-0.m3u8
+#EXTINF:-1 ,ЗВЕЗДА
+http://193.33.88.172/zvezda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ HD
@@ -47,10 +49,20 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 http://91.197.104.34:8080/KVN/video.m3u8
 #EXTINF:-1 ,СТС HD
 http://91.197.104.34:8080/CTCHD/video.m3u8
+#EXTINF:-1 ,СТС HD
+http://193.33.88.172/sts_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,СТС LOVE
+http://193.33.88.172/sts-love/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ДОМАШНИЙ 
+http://193.33.88.172/domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ДОМАШНИЙ HD
+http://193.33.88.172/domashniy_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НСТ
 https://tbs01-edge11.itdc.ge/hctv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ТВ3 HD
+http://193.33.88.172/tv3_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Пятница HD
@@ -74,7 +86,7 @@ http://tv.tvip-media.net/zagorodnayazhizn/tracks-v1a0/time-0.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://91.197.104.34:8080/Kuhnya/video.m3u8
 #EXTINF:-1 ,Еда HD
-http://tv.tvip-media.net/edahd/tracks-v1a0/time-0.m3u8
+http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НАУКА
 https://tbs01-edge11.itdc.ge/nayka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ИСТОРИЯ
@@ -83,6 +95,8 @@ https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
 https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
+#EXTINF:-1 ,Ю
+http://193.33.88.172/utv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://91.197.104.34:8080/RodnoeKino/video.m3u8
 #EXTINF:-1 ,ПОБЕДА
