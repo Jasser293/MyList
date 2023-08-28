@@ -47,6 +47,12 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://91.197.104.34:8080/KVN/video.m3u8
+#EXTINF:-1 ,Камеди
+http://193.33.88.172/kamedi_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Комедия
+http://109.200.135.130:8080/comedy/index.m3u8
+#EXTINF:-1 ,Комедийное HD
+http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
 #EXTINF:-1 ,СТС HD
 http://91.197.104.34:8080/CTCHD/video.m3u8
 #EXTINF:-1 ,СТС HD
