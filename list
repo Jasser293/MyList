@@ -96,9 +96,11 @@ http://91.197.104.34:8080/Kuhnya/video.m3u8
 #EXTINF:-1 ,Еда HD
 http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НАУКА
-https://tbs01-edge11.itdc.ge/nayka/tracks-v1a1/mono.m3u8
+http://91.200.160.134:15000/play/a0o7/index.m3u8
 #EXTINF:-1 ,ИСТОРИЯ
 https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
+http://91.200.160.134:15000/play/a0bz/index.m3u8
 #EXTINF:-1 ,HD Life
 https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ю
