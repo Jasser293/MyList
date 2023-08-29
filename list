@@ -75,8 +75,6 @@ http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 #EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
-#EXTINF:-1 ,Вопросы и ответы
-https://tinyurl.com/yaanfmpf
 #EXTINF:-1 ,АВТО 24
 http://138.201.67.145:8081/Avto24/index.m3u8
 #EXTINF:-1 ,АВТО ПЛЮС
@@ -99,6 +97,8 @@ http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
 http://91.200.160.134:15000/play/a0o7/index.m3u8
 #EXTINF:-1 ,ИСТОРИЯ
 https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Доктор
+http://91.200.160.134:15000/play/a0p2/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
 http://91.200.160.134:15000/play/a0bz/index.m3u8
 #EXTINF:-1 ,HD Life
