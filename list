@@ -74,7 +74,7 @@ https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 #EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
-http://138.201.67.145:8081/Avto24/index.m3u8
+http://91.197.104.34:8080/Auto24/video.m3u8
 #EXTINF:-1 ,АВТО ПЛЮС
 https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
@@ -84,7 +84,7 @@ https://tbs01-edge11.itdc.ge/24techno/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,УСАДЬБА
 https://tbs01-edge11.itdc.ge/usadba/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,УСАДЬБА
-http://138.201.67.145:8081/PSIHOLOGIYA21/index.m3u8
+http://91.197.104.34:8080/Usadba/video.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://217.107.34.114:8009/playlist.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
@@ -98,7 +98,7 @@ https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Доктор
 http://91.200.160.134:15000/play/a0p2/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
-http://138.201.67.145:8081/DOMASHNIEZHIVOTNIE/index.m3u8
+http://91.200.160.134:15000/play/a0bz/index.m3u8
 #EXTINF:-1 ,HD Life
 https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ю
@@ -121,8 +121,6 @@ http://91.197.104.34:8080/Kinoseria/video.m3u8
 http://91.197.104.34:8080/Kinokomedia/video.m3u8
 #EXTINF:-1 ,ДОРАМА HD
 http://91.197.104.34:8080/Dorama/video.m3u8
-#EXTINF:-1 ,RTVI
-http://138.201.67.145:8081/rtvi/index.m3u8
 #EXTINF:-1 ,Viasat Explore
 https://tbs01-edge11.itdc.ge/viasatexp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viasat History
