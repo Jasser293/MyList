@@ -185,8 +185,6 @@ https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 http://91.233.215.250:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 ,Eurosport 2 HD
 http://91.233.215.250:7272/4TViUcJR91U6Lzr
-#EXTINF:-1 ,Eurosport 2
-http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
 #EXTINF:-1 ,Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Боец
@@ -239,8 +237,6 @@ http://45.144.31.195:8019/tracks-v1a1/mono.m3u8
 http://45.144.31.195:8022/playlist.m3u8
 #EXTINF:-1 ,ТНВ-ПЛАНЕТА
 http://45.144.31.195:8023/playlist.m3u8
-#EXTINF:-1 ,VF Баня
-http://45.144.31.195:8025/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,NICKELODEON HD
 http://45.144.31.195:8026/playlist.m3u8
 #EXTINF:-1 ,ДИАЛОГИ О РЫБАЛКЕ
