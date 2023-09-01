@@ -64,6 +64,8 @@ http://193.33.88.172/domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ HD
 http://193.33.88.172/domashniy_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НСТ
+http://45.144.31.195:8006/playlist.m3u8
+#EXTINF:-1 ,НСТ
 https://tbs01-edge11.itdc.ge/hctv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТВ3 HD
 http://193.33.88.172/tv3_hd/tracks-v1a1/mono.m3u8
@@ -157,6 +159,56 @@ http://194.143.148.28:8080/MatchArena/mpegts
 http://194.143.148.28:8080/Viasat_Sport/mpegts
 #EXTINF:-1 ,MCM TOP HD
 http://194.143.148.28:8080/MCM/mpegts
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
+http://45.144.31.195:8002/playlist.m3u8
+#EXTINF:-1 ,ОХОТА И РЫБАЛКА
+http://45.144.31.195:8007/playlist.m3u8
+#EXTINF:-1 ,ОРУЖИЕ
+http://45.144.31.195:8018/playlist.m3u8
+#EXTINF:-1 ,Nat Geo Wild HD
+http://45.144.31.195:8005/playlist.m3u8
+#EXTINF:-1 ,RTG HD
+http://45.144.31.195:8020/playlist.m3u8
+#EXTINF:-1 ,ГЛАЗАМИ ТУРИСТА HD
+http://45.144.31.195:8032/playlist.m3u8
+#EXTINF:-1 ,Океан
+http://45.144.31.195:8012/playlist.m3u8
+#EXTINF:-1 ,АРСЕНАЛ HD
+http://45.144.31.195:8003/playlist.m3u8
+#EXTINF:-1 ,ДОКТОР
+http://45.144.31.195:8004/playlist.m3u8
+#EXTINF:-1 ,РОДНОЙ КАНАЛ HD
+http://45.144.31.195:8009/playlist.m3u8
+#EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
+http://45.144.31.195:8010/playlist.m3u8
+#EXTINF:-1 ,САРАФАН
+http://45.144.31.195:8011/playlist.m3u8
+#EXTINF:-1 ,ПСИХОЛОГИЯ 21
+http://45.144.31.195:8015/playlist.m3u8
+#EXTINF:-1 ,CINEMAN
+http://45.144.31.195:8019/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МУЖСКОЕ КИНО HD
+http://45.144.31.195:8022/playlist.m3u8
+#EXTINF:-1 ,ТНВ-ПЛАНЕТА
+http://45.144.31.195:8023/playlist.m3u8
+#EXTINF:-1 ,VF Баня
+http://45.144.31.195:8025/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,NICKELODEON HD
+http://45.144.31.195:8026/playlist.m3u8
+#EXTINF:-1 ,ДИАЛОГИ О РЫБАЛКЕ
+http://45.144.31.195:8027/playlist.m3u8
+#EXTINF:-1 ,ШАНСОН ТВ
+http://45.144.31.195:8029/playlist.m3u8
+#EXTINF:-1 ,МУЗЫКА ПЕРВОГО
+http://45.144.31.195:8030/playlist.m3u8
+#EXTINF:-1 ,МАМА
+http://45.144.31.195:8014/playlist.m3u8
+#EXTINF:-1 ,РЫЖИЙ
+http://45.144.31.195:8008/playlist.m3u8
+#EXTINF:-1 ,Eurosport 1 HD
+http://45.144.31.195:8016/playlist.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+http://45.144.31.195:8017/playlist.m3u8
 #EXTINF:-1 ,Матч! Премьер
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Планета
@@ -185,6 +237,8 @@ https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 http://91.233.215.250:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 ,Eurosport 2 HD
 http://91.233.215.250:7272/4TViUcJR91U6Lzr
+#EXTINF:-1 ,Eurosport 2
+http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
 #EXTINF:-1 ,Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Боец
@@ -203,53 +257,3 @@ http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
-http://45.144.31.195:8002/playlist.m3u8
-#EXTINF:-1 ,ОХОТА И РЫБАЛКА
-http://45.144.31.195:8007/playlist.m3u8
-#EXTINF:-1 ,ОРУЖИЕ
-http://45.144.31.195:8018/playlist.m3u8
-#EXTINF:-1 ,Nat Geo Wild HD
-http://45.144.31.195:8005/playlist.m3u8
-#EXTINF:-1 ,RTG HD
-http://45.144.31.195:8020/playlist.m3u8
-#EXTINF:-1 ,ГЛАЗАМИ ТУРИСТА HD
-http://45.144.31.195:8032/playlist.m3u8
-#EXTINF:-1 ,Океан
-http://45.144.31.195:8012/playlist.m3u8
-#EXTINF:-1 ,АРСЕНАЛ HD
-http://45.144.31.195:8003/playlist.m3u8
-#EXTINF:-1 ,ДОКТОР
-http://45.144.31.195:8004/playlist.m3u8
-#EXTINF:-1 ,НСТ
-http://45.144.31.195:8006/playlist.m3u8
-#EXTINF:-1 ,РОДНОЙ КАНАЛ HD
-http://45.144.31.195:8009/playlist.m3u8
-#EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
-http://45.144.31.195:8010/playlist.m3u8
-#EXTINF:-1 ,САРАФАН
-http://45.144.31.195:8011/playlist.m3u8
-#EXTINF:-1 ,ПСИХОЛОГИЯ 21
-http://45.144.31.195:8015/playlist.m3u8
-#EXTINF:-1 ,CINEMAN
-http://45.144.31.195:8019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,МУЖСКОЕ КИНО HD
-http://45.144.31.195:8022/playlist.m3u8
-#EXTINF:-1 ,ТНВ-ПЛАНЕТА
-http://45.144.31.195:8023/playlist.m3u8
-#EXTINF:-1 ,NICKELODEON HD
-http://45.144.31.195:8026/playlist.m3u8
-#EXTINF:-1 ,ДИАЛОГИ О РЫБАЛКЕ
-http://45.144.31.195:8027/playlist.m3u8
-#EXTINF:-1 ,ШАНСОН ТВ
-http://45.144.31.195:8029/playlist.m3u8
-#EXTINF:-1 ,МУЗЫКА ПЕРВОГО
-http://45.144.31.195:8030/playlist.m3u8
-#EXTINF:-1 ,МАМА
-http://45.144.31.195:8014/playlist.m3u8
-#EXTINF:-1 ,РЫЖИЙ
-http://45.144.31.195:8008/playlist.m3u8
-#EXTINF:-1 ,Eurosport 1 HD
-http://45.144.31.195:8016/playlist.m3u8
-#EXTINF:-1 ,Eurosport 2 HD
-http://45.144.31.195:8017/playlist.m3u8
