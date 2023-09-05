@@ -199,8 +199,6 @@ http://45.144.31.195:8027/playlist.m3u8
 http://45.144.31.195:8029/playlist.m3u8
 #EXTINF:-1 ,МУЗЫКА ПЕРВОГО
 http://45.144.31.195:8030/playlist.m3u8
-#EXTINF:-1 ,МАМА
-http://45.144.31.195:8014/playlist.m3u8
 #EXTINF:-1 ,РЫЖИЙ
 http://45.144.31.195:8008/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
