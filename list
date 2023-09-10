@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 ,Первый канал
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал HD
 http://193.33.88.172/ort_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Первый канал HD
+http://188.143.128.24:30002/play/p71/index.m3u8
 #EXTINF:-1 ,НТВ
-http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+http://188.143.128.24:30002/play/p4/index.m3u8
 #EXTINF:-1 ,НТВ HD
 http://91.200.160.134:15000/play/a0pa/index.m3u8
 #EXTINF:-1 ,НТВ МИР
@@ -32,15 +32,19 @@ http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рен ТВ
-http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
+http://188.143.128.24:30002/play/p11/index.m3u8
 #EXTINF:-1 ,РЕН ТВ HD
 http://185.37.150.40:8092/RenTV_HD/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,РЕН ТВ HD 
+http://91.197.104.34:8080/rentv/video.m3u8
 #EXTINF:-1 ,ЗВЕЗДА
 http://193.33.88.172/zvezda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,ТНТ HD
+http://91.197.104.34:8080/TNTHD/video.m3u8
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
@@ -77,8 +81,12 @@ https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
 http://91.200.160.134:15000/play/a0sb/index.m3u8
+#EXTINF:-1 ,АВТО 24
+http://91.197.104.34:8080/Auto24/video.m3u8
 #EXTINF:-1 ,АВТО ПЛЮС
 https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,АВТО ПЛЮС
+http://188.143.128.24:30002/play/p44/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
 https://tbs01-edge11.itdc.ge/drive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,24 ТЕХНО
@@ -104,7 +112,7 @@ http://91.200.160.134:15000/play/a0bz/index.m3u8
 #EXTINF:-1 ,HD Life
 https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ю
-http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
+http://188.143.128.24:30002/play/p32/index.m3u8
 #EXTINF:-1 ,Ю
 http://193.33.88.172/utv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
