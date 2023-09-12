@@ -241,8 +241,6 @@ https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 http://91.233.215.250:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 ,Eurosport 2 HD
 http://91.233.215.250:7272/4TViUcJR91U6Lzr
-#EXTINF:-1 ,Eurosport 2
-http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
 #EXTINF:-1 ,Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Боец
@@ -261,3 +259,4 @@ http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
