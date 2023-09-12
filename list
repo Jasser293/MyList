@@ -259,4 +259,7 @@ http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,Авто24
+http://188.122.245.245:4022/udp/232.0.2.11:1235
+
 
