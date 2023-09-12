@@ -5,10 +5,10 @@ http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал HD
 http://193.33.88.172/ort_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Первый канал HD
-http://188.143.128.24:30002/play/p71/index.m3u8
+#EXTINF:-1 ,Первый канал
+http://91.200.160.134:15000/play/a0p7/index.m3u8
 #EXTINF:-1 ,НТВ
-http://188.143.128.24:30002/play/p4/index.m3u8
+http://178.212.236.2:80/TIJI/index.m3u8
 #EXTINF:-1 ,НТВ HD
 http://91.200.160.134:15000/play/a0pa/index.m3u8
 #EXTINF:-1 ,НТВ МИР
@@ -32,7 +32,7 @@ http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рен ТВ
-http://188.143.128.24:30002/play/p11/index.m3u8
+http://178.212.236.2:80/RENTV/index.m3u8
 #EXTINF:-1 ,РЕН ТВ HD
 http://185.37.150.40:8092/RenTV_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ HD 
@@ -86,7 +86,7 @@ http://91.197.104.34:8080/Auto24/video.m3u8
 #EXTINF:-1 ,АВТО ПЛЮС
 https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,АВТО ПЛЮС
-http://188.143.128.24:30002/play/p44/index.m3u8
+http://91.200.160.134:15000/play/a0ep/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
 https://tbs01-edge11.itdc.ge/drive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,24 ТЕХНО
@@ -112,7 +112,7 @@ http://91.200.160.134:15000/play/a0bz/index.m3u8
 #EXTINF:-1 ,HD Life
 https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ю
-http://188.143.128.24:30002/play/p32/index.m3u8
+http://91.200.160.134:15000/play/a0mk/index.m3u8
 #EXTINF:-1 ,Ю
 http://193.33.88.172/utv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
@@ -241,6 +241,8 @@ https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 http://91.233.215.250:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 ,Eurosport 2 HD
 http://91.233.215.250:7272/4TViUcJR91U6Lzr
+#EXTINF:-1 ,Eurosport 2
+http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
 #EXTINF:-1 ,Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Боец
@@ -259,4 +261,3 @@ http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-
