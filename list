@@ -19,6 +19,8 @@ http://193.33.88.172/ntv_stil/tracks-v1a1/mono.m3u8
 http://193.33.88.172/ntv_serial/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,НТВ ХИТ
 http://193.33.88.172/ntv_hit/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,ТВЦ
+http://195.54.42.9:8000/play/a05o/index.m3u8
 #EXTINF:0 ,РОССИЯ 24
 http://europe3.livetv.az/russia/rossiya24_sd_new_2023/playlist.m3u8
 #EXTINF:0 ,Россия 1
@@ -33,7 +35,7 @@ http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 http://178.212.236.2:80/RENTV/index.m3u8
 #EXTINF:0 ,РЕН ТВ HD
 http://185.37.150.40:8092/RenTV_HD/tracks-v1a1v1/playlist.m3u8
-#EXTINF:0 ,РЕН ТВ HD 
+#EXTINF:0 ,РЕН ТВ HD
 http://91.197.104.34:8080/rentv/video.m3u8
 #EXTINF:0 ,ЗВЕЗДА
 http://193.33.88.172/zvezda/tracks-v1a1/mono.m3u8
@@ -83,8 +85,14 @@ http://91.200.160.134:15000/play/a0sb/index.m3u8
 http://91.197.104.34:8080/Auto24/video.m3u8
 #EXTINF:0 ,АВТО ПЛЮС
 http://91.200.160.134:15000/play/a0ep/index.m3u8
+#EXTINF:0 ,Авто Плюс
+http://193.33.88.172/avto_plus/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,Моторспорт ТВ
+http://195.54.42.9:8000/play/a03a/index.m3u8
 #EXTINF:0 ,УСАДЬБА
 http://91.197.104.34:8080/Usadba/video.m3u8
+#EXTINF:0 ,Усадьба
+http://195.54.42.9:8000/play/a00t/index.m3u8
 #EXTINF:0 ,Загородная жизнь
 http://217.107.34.114:8009/playlist.m3u8
 #EXTINF:0 ,КУХНЯ ТВ
@@ -267,8 +275,6 @@ http://46.174.83.66/BridgeTV/index.m3u8
 http://46.174.83.66/RU_TV/index.m3u8
 #EXTINF:0 ,365 ДНЕЙ
 http://46.174.83.66/365/index.m3u8
-#EXTINF:0 ,Euronews
-http://46.174.83.66/Euronews/index.m3u8
 #EXTINF:0 ,ДОМ КИНО
 http://46.174.83.66/Dom_Kino/index.m3u8
 #EXTINF:0 ,Суббота
