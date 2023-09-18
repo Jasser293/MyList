@@ -11,8 +11,6 @@ http://91.200.160.134:15000/play/a0p7/index.m3u8
 http://178.212.236.2:80/TIJI/index.m3u8
 #EXTINF:0 ,НТВ HD
 http://91.200.160.134:15000/play/a0pa/index.m3u8
-#EXTINF:0 ,НТВ МИР
-https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,НТВ ПРАВО
 http://193.33.88.172/ntv_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,НТВ СТИЛЬ
@@ -71,8 +69,6 @@ http://193.33.88.172/domashniy/tracks-v1a1/mono.m3u8
 http://193.33.88.172/domashniy_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,НСТ
 http://45.144.31.195:8006/playlist.m3u8
-#EXTINF:0 ,НСТ
-https://tbs01-edge11.itdc.ge/hctv/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,ТВ3 HD
 http://193.33.88.172/tv3_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,ПЯТНИЦА
@@ -86,15 +82,7 @@ http://91.200.160.134:15000/play/a0sb/index.m3u8
 #EXTINF:0 ,АВТО 24
 http://91.197.104.34:8080/Auto24/video.m3u8
 #EXTINF:0 ,АВТО ПЛЮС
-https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,АВТО ПЛЮС
 http://91.200.160.134:15000/play/a0ep/index.m3u8
-#EXTINF:0 ,ДРАЙВ
-https://tbs01-edge11.itdc.ge/drive/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,24 ТЕХНО
-https://tbs01-edge11.itdc.ge/24techno/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,УСАДЬБА
-https://tbs01-edge11.itdc.ge/usadba/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,УСАДЬБА
 http://91.197.104.34:8080/Usadba/video.m3u8
 #EXTINF:0 ,Загородная жизнь
@@ -105,14 +93,10 @@ http://91.197.104.34:8080/Kuhnya/video.m3u8
 http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,НАУКА
 http://91.200.160.134:15000/play/a0o7/index.m3u8
-#EXTINF:0 ,ИСТОРИЯ
-https://tbs01-edge11.itdc.ge/history/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,Доктор
 http://91.200.160.134:15000/play/a0p2/index.m3u8
 #EXTINF:0 ,ДОМАШНИЕ ЖИВОТНЫЕ
 http://91.200.160.134:15000/play/a0bz/index.m3u8
-#EXTINF:0 ,HD Life
-https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,Ю
 http://91.200.160.134:15000/play/a0mk/index.m3u8
 #EXTINF:0 ,Ю
@@ -135,12 +119,6 @@ http://91.197.104.34:8080/Kinoseria/video.m3u8
 http://91.197.104.34:8080/Kinokomedia/video.m3u8
 #EXTINF:0 ,ДОРАМА HD
 http://91.197.104.34:8080/Dorama/video.m3u8
-#EXTINF:0 ,Viasat Explore
-https://tbs01-edge11.itdc.ge/viasatexp/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Viasat History
-https://tbs01-edge11.itdc.ge/viasathist/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Travel+Adventure
-https://tbs01-edge11.itdc.ge/viasatnat/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,КИНОХИТ HD
 http://193.33.88.172/kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,Кинопремьера HD
