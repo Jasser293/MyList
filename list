@@ -45,6 +45,8 @@ https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0 ,ТНТ HD
 http://91.197.104.34:8080/TNTHD/video.m3u8
+#EXTINF:0 ,2x2
+http://46.174.83.66/2x2/index.m3u8
 #EXTINF:0 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 ,Твоё ТВ юмор
@@ -115,6 +117,8 @@ https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
 http://91.200.160.134:15000/play/a0mk/index.m3u8
 #EXTINF:0 ,Ю
 http://193.33.88.172/utv/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,Ю
+http://46.174.83.66/U/index.m3u8
 #EXTINF:0 ,РОДНОЕ КИНО
 http://91.197.104.34:8080/RodnoeKino/video.m3u8
 #EXTINF:0 ,ПОБЕДА
@@ -171,6 +175,8 @@ http://194.143.148.28:8080/MCM/mpegts
 http://45.144.31.195:8002/playlist.m3u8
 #EXTINF:0 ,ОХОТА И РЫБАЛКА
 http://45.144.31.195:8007/playlist.m3u8
+#EXTINF:0 ,ОХОТА И РЫБАЛКА
+http://46.174.83.66/Ohota_i_rybalka/index.m3u8
 #EXTINF:0 ,ОРУЖИЕ
 http://45.144.31.195:8018/playlist.m3u8
 #EXTINF:0 ,Nat Geo Wild HD
@@ -259,3 +265,47 @@ http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:0 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:0 ,Мир баскетбола
+http://46.174.83.66/MirBasketbola/index.m3u8
+#EXTINF:0 ,KHL PRIME HD
+http://46.174.83.66/KHL_HD/index.m3u8
+#EXTINF:0 ,Матч! Игра HD
+http://46.174.83.66/Match_Igra/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,МАТЧ! АРЕНА
+http://46.174.83.66/Match_Arena_HD/index.m3u8
+#EXTINF:0 ,МАТЧ! СТРАНА
+http://46.174.83.66/Match_Strana/index.m3u8
+#EXTINF:0 ,РБК
+http://46.174.83.66/RBC/index.m3u8
+#EXTINF:0 ,ЗДОРОВОЕ ТВ
+http://46.174.83.66/Zdorovoe_TV/index.m3u8
+#EXTINF:0 ,HD Life
+http://46.174.83.66/HDL/index.m3u8
+#EXTINF:0 ,RTG HD
+http://46.174.83.66/Euronews/index.m3u8
+#EXTINF:0 ,Bridge TV
+http://46.174.83.66/BridgeTV/index.m3u8
+#EXTINF:0 ,RU.TV
+http://46.174.83.66/RU_TV/index.m3u8
+#EXTINF:0 ,365 ДНЕЙ
+http://46.174.83.66/365/index.m3u8
+#EXTINF:0 ,Euronews
+http://46.174.83.66/Euronews/index.m3u8
+#EXTINF:0 ,ДОМ КИНО
+http://46.174.83.66/Dom_Kino/index.m3u8
+#EXTINF:0 ,Суббота
+http://46.174.83.66/Subbota/index.m3u8
+#EXTINF:0 ,КИНОКОМЕДИЯ
+http://46.174.83.66/Kinokomedia/index.m3u8
+#EXTINF:0 ,ИНДИЙСКОЕ КИНО
+http://46.174.83.66/Indiiskoe_kino/index.m3u8
+#EXTINF:0 ,О!
+http://46.174.83.66/O/index.m3u8
+#EXTINF:0 ,Gulli Girl
+http://46.174.83.66/Gulli_Girl/index.m3u8
+#EXTINF:0 ,УНИКУМ
+http://46.174.83.66/Unikum/index.m3u8
+#EXTINF:0 ,Солнце
+http://46.174.83.66/Disney/index.m3u8
+#EXTINF:0 ,Мама
+http://46.174.83.66/Match_Igra/index.m3u8
