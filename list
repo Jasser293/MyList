@@ -9,8 +9,6 @@ http://195.54.42.9:8000/play/a05h/index.m3u8
 http://178.212.236.2:80/TIJI/index.m3u8
 #EXTINF:-1 ,НТВ
 http://195.54.42.9:8000/play/a03y/index.m3u8
-#EXTINF:-1 ,НТВ-МИР
-https://ucdn.beetv.kz/btv/live/hls/000000079.m3u8
 #EXTINF:-1 ,НТВ
 http://89.104.114.32:8080/ntv/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:-1 ,НТВ Право
@@ -37,6 +35,8 @@ http://185.37.150.40:8092/RenTV_HD/tracks-v1a1v1/playlist.m3u8
 http://91.197.104.34:8080/rentv/video.m3u8
 #EXTINF:-1 ,Звезда
 http://195.54.42.9:8000/play/a059/index.m3u8
+#EXTINF:-1 ,ПЯТЫЙ КАНАЛ
+http://178.212.236.2:80/5ch/index.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ HD
@@ -87,6 +87,8 @@ http://91.197.104.34:8080/Usadba/video.m3u8
 http://195.54.42.9:8000/play/a00t/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://217.107.34.114:8009/playlist.m3u8
+#EXTINF:-1 ,ДОКТОР
+http://178.212.236.2:80/Multimusic/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://91.197.104.34:8080/Kuhnya/video.m3u8
 #EXTINF:-1 ,Еда HD
