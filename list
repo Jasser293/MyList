@@ -55,6 +55,8 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 http://91.197.104.34:8080/KVN/video.m3u8
 #EXTINF:-1 ,Комедия
 http://195.54.42.9:8000/play/a00j/index.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
 #EXTINF:-1 ,СТС
 http://195.54.42.9:8000/play/a061/index.m3u8
 #EXTINF:-1 ,СТС HD
@@ -91,8 +93,8 @@ http://217.107.34.114:8009/playlist.m3u8
 http://178.212.236.2:80/Multimusic/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://91.197.104.34:8080/Kuhnya/video.m3u8
-#EXTINF:-1 ,Еда HD
-http://195.54.42.9:8000/play/a03f/index.m3u8
+#EXTINF:-1 ,КТО ЕСТЬ КТО
+http://europe3.livetv.az/russia/kto_est_kto_2023/playlist.m3u8
 #EXTINF:-1 ,Ю
 http://46.174.83.66/U/index.m3u8
 #EXTINF:-1 ,Ю
