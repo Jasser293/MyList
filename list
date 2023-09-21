@@ -15,10 +15,16 @@ http://89.104.114.32:8080/ntv/mono.m3u8?token=DWEvjhKS3G
 https://ucdn.beetv.kz/btv/live/hls/000000079.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
 https://ucdn.beetv.kz/btv/live/hls/000002759.m3u8
+#EXTINF:-1 ,НТВ Право
+https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 https://ucdn.beetv.kz/btv/live/hls/000002760.m3u8
+#EXTINF:-1 ,НТВ Сериал
+https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 https://ucdn.beetv.kz/btv/live/hls/000002761.m3u8
+#EXTINF:-1 ,НТВ Хит
+https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
 #EXTINF:-1 ,ТВЦ
 http://195.54.42.9:8000/play/a05o/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
