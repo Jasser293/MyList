@@ -85,16 +85,24 @@ https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:0 ,АВТО 24
 http://91.197.104.34:8080/Auto24/video.m3u8
+#EXTINF:0 ,АВТО 24
+http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:0 ,Авто плюс
 https://s12.federal.tv:8082/feda/auto.stream/playlist.m3u8
+#EXTINF:0 ,ДРАЙВ
+http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:0 ,УСАДЬБА
 http://91.197.104.34:8080/Usadba/video.m3u8
 #EXTINF:0 ,Загородная жизнь
 http://217.107.34.114:8009/playlist.m3u8
 #EXTINF:0 ,ДОМАШНИЕ ЖИВОТНЫЕ
 http://45.144.31.195:8013/playlist.m3u8
+#EXTINF:0 ,ЗООПАРК
+http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:0 ,ДОКТОР
 http://178.212.236.2:80/Multimusic/index.m3u8
+#EXTINF:0 ,ЗДОРОВОЕ ТВ
+http://109.239.208.82:80/zdorovoe/index.m3u8
 #EXTINF:0 ,КУХНЯ ТВ
 http://91.197.104.34:8080/Kuhnya/video.m3u8
 #EXTINF:0 ,КТО ЕСТЬ КТО
