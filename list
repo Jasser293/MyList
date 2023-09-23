@@ -3,12 +3,8 @@
 http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
 #EXTINF:0 ,Первый канал
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Первый канал
-http://195.54.42.9:8000/play/a05h/index.m3u8
 #EXTINF:0 ,НТВ
 http://178.212.236.2:80/TIJI/index.m3u8
-#EXTINF:0 ,НТВ
-http://195.54.42.9:8000/play/a03y/index.m3u8
 #EXTINF:0 ,НТВ
 http://89.104.114.32:8080/ntv/mono.m3u8?token=DWEvjhKS3G
 #EXTINF:0 ,НТВ-МИР
@@ -25,8 +21,6 @@ https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000002761.m3u8
 #EXTINF:0 ,НТВ Хит
 https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
-#EXTINF:0 ,ТВЦ
-http://195.54.42.9:8000/play/a05o/index.m3u8
 #EXTINF:0 ,РОССИЯ 24
 http://europe3.livetv.az/russia/rossiya24_sd_new_2023/playlist.m3u8
 #EXTINF:0 ,Россия 1
@@ -44,8 +38,6 @@ http://185.37.150.40:8092/RenTV_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:0 ,РЕН ТВ HD
 http://91.197.104.34:8080/rentv/video.m3u8
 #EXTINF:0 ,Звезда
-http://195.54.42.9:8000/play/a059/index.m3u8
-#EXTINF:0 ,Звезда
 http://178.212.236.2:80/NGW/mono.m3u8
 #EXTINF:0 ,ПЯТЫЙ КАНАЛ
 http://178.212.236.2:80/5ch/index.m3u8
@@ -60,8 +52,6 @@ https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0 ,2x2
 http://46.174.83.66/2x2/index.m3u8
 #EXTINF:0 ,ТВ3
-http://195.54.42.9:8000/play/a06j/index.m3u8
-#EXTINF:0 ,ТВ3
 http://178.212.236.2:80/TV3/index.m3u8
 #EXTINF:0 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
@@ -69,16 +59,10 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:0 ,КВН ТВ
 http://91.197.104.34:8080/KVN/video.m3u8
-#EXTINF:0 ,Комедия
-http://195.54.42.9:8000/play/a00j/index.m3u8
 #EXTINF:0 ,Мосфильм. Золотая коллекция
 http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
-#EXTINF:0 ,СТС
-http://195.54.42.9:8000/play/a061/index.m3u8
 #EXTINF:0 ,СТС HD
 http://194.26.229.213/CTC/index.m3u8
-#EXTINF:0 ,СТС Love
-http://195.54.42.9:8000/play/a02l/index.m3u8
 #EXTINF:0 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,Домашний HD
@@ -91,18 +75,12 @@ http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 #EXTINF:0 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
-#EXTINF:0 ,Авто 24
-http://195.54.42.9:8000/play/a01t/index.m3u8
 #EXTINF:0 ,АВТО 24
 http://91.197.104.34:8080/Auto24/video.m3u8
 #EXTINF:0 ,Авто плюс
 https://s12.federal.tv:8082/feda/auto.stream/playlist.m3u8
-#EXTINF:0 ,Моторспорт ТВ
-http://195.54.42.9:8000/play/a03a/index.m3u8
 #EXTINF:0 ,УСАДЬБА
 http://91.197.104.34:8080/Usadba/video.m3u8
-#EXTINF:0 ,Усадьба
-http://195.54.42.9:8000/play/a00t/index.m3u8
 #EXTINF:0 ,Загородная жизнь
 http://217.107.34.114:8009/playlist.m3u8
 #EXTINF:0 ,ДОМАШНИЕ ЖИВОТНЫЕ
@@ -115,8 +93,6 @@ http://91.197.104.34:8080/Kuhnya/video.m3u8
 http://europe3.livetv.az/russia/kto_est_kto_2023/playlist.m3u8
 #EXTINF:0 ,Ю
 http://46.174.83.66/U/index.m3u8
-#EXTINF:0 ,Ю
-http://195.54.42.9:8000/play/a05j/index.m3u8
 #EXTINF:0 ,РОДНОЕ КИНО
 http://91.197.104.34:8080/RodnoeKino/video.m3u8
 #EXTINF:0 ,ПОБЕДА
