@@ -11,6 +11,8 @@ http://178.212.236.2:80/TIJI/index.m3u8
 http://85.114.160.14:4022/udp/232.0.3.4:1234
 #EXTINF:0 ,НТВ
 https://mhd116.iptv2022.com/p/HQiqgUtEgidHue8Kv3G3wA,1695502805/streaming/ntvnn/324/1/index.m3u8
+#EXTINF:0 ,НТВ
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiMGY1ZTEzMTgtN2Y2MC00MmQ0LTgxNWQtMTQ2NzQ2ODhkYzYwIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA5LTIzVDE4OjU5OjExWiIsInN0cmVhbV9uYW1lIjoiNiIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ%3D%3D/MC0CFBuNeW6ZHglsRoUeo9jrEi8jgBfPAhUAh0xoFZH3EqkrN3ONcEO03FpDra4%3D/ip_v5/6.m3u8
 #EXTINF:0 ,НТВ-МИР
 https://ucdn.beetv.kz/btv/live/hls/000000079.m3u8
 #EXTINF:0 ,НТВ ПРАВО
