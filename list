@@ -9,8 +9,6 @@ http://89.104.114.32:8080/ort/mono.m3u8?token=DWEvjhKS3G
 http://178.212.236.2:80/TIJI/index.m3u8
 #EXTINF:0 ,НТВ
 http://89.104.114.32:8080/ntv/mono.m3u8?token=DWEvjhKS3G
-#EXTINF:0 ,НТВ
-https://goo.su/Gphw
 #EXTINF:0 ,НТВ-МИР
 https://ucdn.beetv.kz/btv/live/hls/000000079.m3u8
 #EXTINF:0 ,НТВ ПРАВО
