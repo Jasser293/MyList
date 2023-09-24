@@ -289,3 +289,7 @@ http://46.174.83.66/Unikum/index.m3u8
 http://46.174.83.66/Disney/index.m3u8
 #EXTINF:0 ,Мама
 http://46.174.83.66/Match_Igra/index.m3u8
+#EXTINF:-1 ,Первый HD
+http://178.163.79.116:81/udp/234.0.0.172:2000
+#EXTINF:-1 ,Россия HD
+http://178.163.79.116:81/udp/234.0.0.112:2000
