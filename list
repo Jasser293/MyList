@@ -51,6 +51,8 @@ http://91.142.158.107:8092/play/10/index.m3u8
 http://91.142.158.107:8092/play/5/index.m3u8
 #EXTINF:0 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 ,ТНТ4
+http://178.163.79.116:81/udp/234.0.0.181:2000
 #EXTINF:0 ,ТНТ HD
 http://91.197.104.34:8080/TNTHD/video.m3u8
 #EXTINF:0 ,ТНТ HD
