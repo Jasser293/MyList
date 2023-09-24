@@ -6,11 +6,9 @@ http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:0 ,НТВ
-http://178.212.236.2:80/TIJI/index.m3u8
-#EXTINF:0 ,НТВ
 http://91.142.158.107:8092/play/4/index.m3u8
 #EXTINF:0 ,НТВ
-http://89.104.114.32:8080/ntv/mono.m3u8?token=DWEvjhKS3G
+http://31.28.47.63:4022/udp/232.0.3.4:1234
 #EXTINF:0 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:0 ,НТВ-МИР
