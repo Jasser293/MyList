@@ -35,24 +35,18 @@ http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8
 http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Рен ТВ
-http://178.212.236.2:80/RENTV/index.m3u8
 #EXTINF:0 ,РЕН ТВ HD
 http://185.37.150.40:8092/RenTV_HD/tracks-v1a1v1/playlist.m3u8
 #EXTINF:0 ,РЕН ТВ HD
 http://91.197.104.34:8080/rentv/video.m3u8
-#EXTINF:0 ,Звезда
-http://178.212.236.2:80/NGW/mono.m3u8
+#EXTINF:0 ,Рен ТВ
+http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:0 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:0 ,ТВЦ
-http://178.212.236.2:80/TVC/index.m3u8
-#EXTINF:0 ,ПЯТЫЙ КАНАЛ
-http://178.212.236.2:80/5ch/index.m3u8
+http://91.142.158.107:8092/play/10/index.m3u8
 #EXTINF:0 ,5 канал
 http://91.142.158.107:8092/play/5/index.m3u8
-#EXTINF:0 ,ТНТ4
-http://178.212.236.2:80/Zhivi/index.m3u8
 #EXTINF:0 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:0 ,ТНТ HD
@@ -61,8 +55,6 @@ http://91.197.104.34:8080/TNTHD/video.m3u8
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0 ,2x2
 http://46.174.83.66/2x2/index.m3u8
-#EXTINF:0 ,ТВ3
-http://178.212.236.2:80/TV3/index.m3u8
 #EXTINF:0 ,ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:0 ,ТВ3 HD 
@@ -109,8 +101,6 @@ http://217.107.34.114:8009/playlist.m3u8
 http://45.144.31.195:8013/playlist.m3u8
 #EXTINF:0 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
-#EXTINF:0 ,ДОКТОР
-http://178.212.236.2:80/Multimusic/index.m3u8
 #EXTINF:0 ,ЗДОРОВОЕ ТВ
 http://109.239.208.82:80/zdorovoe/index.m3u8
 #EXTINF:0 ,КУХНЯ ТВ
