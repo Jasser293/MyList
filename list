@@ -10,7 +10,9 @@ http://178.212.236.2:80/TIJI/index.m3u8
 #EXTINF:0 ,НТВ
 http://91.142.158.107:8092/play/4/index.m3u8
 #EXTINF:0 ,НТВ
-https://mhd116.iptv2022.com/p/HQiqgUtEgidHue8Kv3G3wA,1695502805/streaming/ntvnn/324/1/index.m3u8
+http://89.104.114.32:8080/ntv/mono.m3u8?token=DWEvjhKS3G
+#EXTINF:0 ,НТВ
+http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:0 ,НТВ-МИР
 https://ucdn.beetv.kz/btv/live/hls/000000079.m3u8
 #EXTINF:0 ,НТВ ПРАВО
