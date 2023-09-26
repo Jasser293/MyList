@@ -1,297 +1,285 @@
 #EXTM3U
-#EXTINF:0 ,ПЕРВЫЙ КАНАЛ
-http://europe3.livetv.az/russia/pervyj_kanal_sd_new_2023/playlist.m3u8
-#EXTINF:0 ,Первый канал
+#EXTINF:-1 ,Первый канал
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Первый канал
+#EXTINF:-1 ,Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
-#EXTINF:0 ,НТВ
+#EXTINF:-1 ,НТВ
 http://91.142.158.107:8092/play/4/index.m3u8
-#EXTINF:0 ,НТВ
+#EXTINF:-1 ,НТВ
 http://85.114.166.45:4022/udp/232.0.3.4:1234
-#EXTINF:0 ,НТВ
+#EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
-#EXTINF:0 ,НТВ-МИР
+#EXTINF:-1 ,НТВ-МИР
 https://ucdn.beetv.kz/btv/live/hls/000000079.m3u8
-#EXTINF:0 ,НТВ ПРАВО
+#EXTINF:-1 ,НТВ ПРАВО
 https://ucdn.beetv.kz/btv/live/hls/000002759.m3u8
-#EXTINF:0 ,НТВ Право
+#EXTINF:-1 ,НТВ Право
 https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
-#EXTINF:0 ,НТВ СЕРИАЛ
+#EXTINF:-1 ,НТВ СЕРИАЛ
 https://ucdn.beetv.kz/btv/live/hls/000002760.m3u8
-#EXTINF:0 ,НТВ Сериал
+#EXTINF:-1 ,НТВ Сериал
 https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
-#EXTINF:0 ,НТВ СТИЛЬ
+#EXTINF:-1 ,НТВ СТИЛЬ
 https://ucdn.beetv.kz/btv/live/hls/000002761.m3u8
-#EXTINF:0 ,НТВ Хит
+#EXTINF:-1 ,НТВ Хит
 https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
-#EXTINF:0 ,РОССИЯ 24
-http://europe3.livetv.az/russia/rossiya24_sd_new_2023/playlist.m3u8
-#EXTINF:0 ,Россия 1
+#EXTINF:-1 ,Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:0 ,Россия 1
-http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/playlist.m3u8
-#EXTINF:0 ,РОССИЯ 1
+#EXTINF:-1 ,РОССИЯ 1
 http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,РОССИЯ РТР
+#EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,РЕН ТВ HD
+#EXTINF:-1 ,РЕН ТВ HD
 http://185.37.150.40:8092/RenTV_HD/tracks-v1a1v1/playlist.m3u8
-#EXTINF:0 ,РЕН ТВ HD
+#EXTINF:-1 ,РЕН ТВ HD
 http://91.197.104.34:8080/rentv/video.m3u8
-#EXTINF:0 ,Рен ТВ
+#EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
-#EXTINF:0 ,Звезда
+#EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
-#EXTINF:0 ,Звезда
+#EXTINF:-1 ,Звезда
 http://178.163.79.116:81/udp/234.0.0.237:2000
-#EXTINF:0 ,ТВЦ
+#EXTINF:-1 ,ТВЦ
 http://91.142.158.107:8092/play/10/index.m3u8
-#EXTINF:0 ,5 канал
+#EXTINF:-1 ,5 канал
 http://91.142.158.107:8092/play/5/index.m3u8
-#EXTINF:0 ,ТНТ4
+#EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 http://178.163.79.116:81/udp/234.0.0.181:2000
-#EXTINF:0 ,ТНТ HD
+#EXTINF:-1 ,ТНТ HD
 http://91.197.104.34:8080/TNTHD/video.m3u8
-#EXTINF:0 ,ТНТ HD
+#EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0 ,2x2
+#EXTINF:-1 ,2x2
 http://46.174.83.66/2x2/index.m3u8
-#EXTINF:0 ,ТВ3
+#EXTINF:-1 ,ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
-#EXTINF:0 ,ТВ3 HD 
+#EXTINF:-1 ,ТВ3 HD
 http://91.197.104.34:8080/tv3/video.m3u8
-#EXTINF:0 ,Твоё ТВ
+#EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:0 ,Твоё ТВ юмор
+#EXTINF:-1 ,Твоё ТВ юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
-#EXTINF:0 ,Комедия
+#EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
-#EXTINF:0 ,КВН ТВ
+#EXTINF:-1 ,КВН ТВ
 http://91.197.104.34:8080/KVN/video.m3u8
-#EXTINF:0 ,Мосфильм. Золотая коллекция
-http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
-#EXTINF:0 ,СТС HD
+#EXTINF:-1 ,СТС HD
 http://194.26.229.213/CTC/index.m3u8
-#EXTINF:0 ,СТС
+#EXTINF:-1 ,СТС
 http://91.142.158.107:8092/play/13/index.m3u8
-#EXTINF:0 ,ДОМАШНИЙ
+#EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Домашний HD
+#EXTINF:-1 ,Домашний HD
 http://91.233.215.250:7272/CGGe9lr8Dx9PZy1
-#EXTINF:0 ,НСТ
+#EXTINF:-1 ,НСТ
 http://45.144.31.195:8006/playlist.m3u8
-#EXTINF:0 ,ПЯТНИЦА
-http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
-#EXTINF:0 ,Пятница HD
+#EXTINF:-1 ,Пятница HD
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
-#EXTINF:0 ,Суббота HD
+#EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
-#EXTINF:0 ,АВТО 24
+#EXTINF:-1 ,АВТО 24
 http://91.197.104.34:8080/Auto24/video.m3u8
-#EXTINF:0 ,АВТО 24
+#EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
-#EXTINF:0 ,Авто плюс
+#EXTINF:-1 ,Авто плюс
 https://s12.federal.tv:8082/feda/auto.stream/playlist.m3u8
-#EXTINF:0 ,ДРАЙВ
+#EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
-#EXTINF:0 ,УСАДЬБА
+#EXTINF:-1 ,УСАДЬБА
 http://91.197.104.34:8080/Usadba/video.m3u8
-#EXTINF:0 ,Загородная жизнь
+#EXTINF:-1 ,Загородная жизнь
 http://217.107.34.114:8009/playlist.m3u8
-#EXTINF:0 ,ДОМАШНИЕ ЖИВОТНЫЕ
+#EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
 http://45.144.31.195:8013/playlist.m3u8
-#EXTINF:0 ,ЗООПАРК
+#EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
-#EXTINF:0 ,ЗДОРОВОЕ ТВ
+#EXTINF:-1 ,ЗДОРОВОЕ ТВ
 http://109.239.208.82:80/zdorovoe/index.m3u8
-#EXTINF:0 ,КУХНЯ ТВ
+#EXTINF:-1 ,КУХНЯ ТВ
 http://91.197.104.34:8080/Kuhnya/video.m3u8
-#EXTINF:0 ,КТО ЕСТЬ КТО
-http://europe3.livetv.az/russia/kto_est_kto_2023/playlist.m3u8
-#EXTINF:0 ,Ю
+#EXTINF:-1 ,Ю
 http://46.174.83.66/U/index.m3u8
-#EXTINF:0 ,РОДНОЕ КИНО
+#EXTINF:-1 ,РОДНОЕ КИНО
 http://91.197.104.34:8080/RodnoeKino/video.m3u8
-#EXTINF:0 ,ПОБЕДА
+#EXTINF:-1 ,ПОБЕДА
 http://91.197.104.34:8080/Pobeda/video.m3u8
-#EXTINF:0 ,НАШЕ НОВОЕ КИНО
+#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
 http://91.197.104.34:8080/NasheNovoeKino/video.m3u8
-#EXTINF:0 ,КИНОУЖАС
+#EXTINF:-1 ,КИНОУЖАС
 http://91.197.104.34:8080/Kinouzhas/video.m3u8
-#EXTINF:0 ,КИНОМИКС
+#EXTINF:-1 ,КИНОМИКС
 http://91.197.104.34:8080/Kinomix/video.m3u8
-#EXTINF:0 ,КИНОСЕРИЯ
+#EXTINF:-1 ,КИНОСЕРИЯ
 http://91.197.104.34:8080/Kinoseria/video.m3u8
-#EXTINF:0 ,КИНОКОМЕДИЯ
+#EXTINF:-1 ,КИНОКОМЕДИЯ
 http://91.197.104.34:8080/Kinokomedia/video.m3u8
-#EXTINF:0 ,ДОРАМА HD
+#EXTINF:-1 ,ДОРАМА HD
 http://91.197.104.34:8080/Dorama/video.m3u8
-#EXTINF:0 ,Кинопремьера HD
+#EXTINF:-1 ,Кинопремьера HD
 http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,21TV
+#EXTINF:-1 ,21TV
 http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,МИР
+#EXTINF:-1 ,МИР
 http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Kentron AM
+#EXTINF:-1 ,Kentron AM
 http://45.159.74.13:80/Kentron/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Atv HD AM
+#EXTINF:-1 ,Atv HD AM
 http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,КИНОМАН HD
+#EXTINF:-1 ,КИНОМАН HD
 http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Filmzone HD
+#EXTINF:-1 ,Filmzone HD
 http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,СОЛНЦЕ
+#EXTINF:-1 ,СОЛНЦЕ
 http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Карусель
+#EXTINF:-1 ,Карусель
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,МАТЧ! ПЛАНЕТА
+#EXTINF:-1 ,МАТЧ! ПЛАНЕТА
 http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Матч ТВ HD
+#EXTINF:-1 ,Матч ТВ HD
 http://194.143.148.28:8080/MatchHD/mpegts
-#EXTINF:0 ,Матч! Арена
+#EXTINF:-1 ,Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:0 ,Viasat Sport HD
+#EXTINF:-1 ,Viasat Sport HD
 http://194.143.148.28:8080/Viasat_Sport/mpegts
-#EXTINF:0 ,MCM TOP HD
+#EXTINF:-1 ,MCM TOP HD
 http://194.143.148.28:8080/MCM/mpegts
-#EXTINF:0 ,NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
 http://45.144.31.195:8002/playlist.m3u8
-#EXTINF:0 ,ОХОТА И РЫБАЛКА
+#EXTINF:-1 ,ОХОТА И РЫБАЛКА
 http://45.144.31.195:8007/playlist.m3u8
-#EXTINF:0 ,ОХОТА И РЫБАЛКА
+#EXTINF:-1 ,ОХОТА И РЫБАЛКА
 http://46.174.83.66/Ohota_i_rybalka/index.m3u8
-#EXTINF:0 ,ОРУЖИЕ
+#EXTINF:-1 ,ОРУЖИЕ
 http://45.144.31.195:8018/playlist.m3u8
-#EXTINF:0 ,Nat Geo Wild HD
+#EXTINF:-1 ,Nat Geo Wild HD
 http://45.144.31.195:8005/playlist.m3u8
-#EXTINF:0 ,RTG HD
+#EXTINF:-1 ,RTG HD
 http://45.144.31.195:8020/playlist.m3u8
-#EXTINF:0 ,ГЛАЗАМИ ТУРИСТА HD
+#EXTINF:-1 ,ГЛАЗАМИ ТУРИСТА HD
 http://45.144.31.195:8032/playlist.m3u8
-#EXTINF:0 ,Океан
+#EXTINF:-1 ,Океан
 http://45.144.31.195:8012/playlist.m3u8
-#EXTINF:0 ,АРСЕНАЛ HD
+#EXTINF:-1 ,АРСЕНАЛ HD
 http://45.144.31.195:8003/playlist.m3u8
-#EXTINF:0 ,ДОКТОР
+#EXTINF:-1 ,ДОКТОР
 http://45.144.31.195:8004/playlist.m3u8
-#EXTINF:0 ,РОДНОЙ КАНАЛ HD
+#EXTINF:-1 ,РОДНОЙ КАНАЛ HD
 http://45.144.31.195:8009/playlist.m3u8
-#EXTINF:0 ,РУССКИЙ ДЕТЕКТИВ
+#EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
 http://45.144.31.195:8010/playlist.m3u8
-#EXTINF:0 ,САРАФАН
+#EXTINF:-1 ,САРАФАН
 http://45.144.31.195:8011/playlist.m3u8
-#EXTINF:0 ,CINEMAN
+#EXTINF:-1 ,CINEMAN
 http://45.144.31.195:8019/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,МУЖСКОЕ КИНО HD
+#EXTINF:-1 ,МУЖСКОЕ КИНО HD
 http://45.144.31.195:8022/playlist.m3u8
-#EXTINF:0 ,ТНВ-ПЛАНЕТА
+#EXTINF:-1 ,ТНВ-ПЛАНЕТА
 http://45.144.31.195:8023/playlist.m3u8
-#EXTINF:0 ,VF Баня
+#EXTINF:-1 ,VF Баня
 http://45.144.31.195:8025/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,NICKELODEON HD
+#EXTINF:-1 ,NICKELODEON HD
 http://45.144.31.195:8026/playlist.m3u8
-#EXTINF:0 ,ДИАЛОГИ О РЫБАЛКЕ
+#EXTINF:-1 ,ДИАЛОГИ О РЫБАЛКЕ
 http://45.144.31.195:8027/playlist.m3u8
-#EXTINF:0 ,ШАНСОН ТВ
+#EXTINF:-1 ,ШАНСОН ТВ
 http://45.144.31.195:8029/playlist.m3u8
-#EXTINF:0 ,МУЗЫКА ПЕРВОГО
+#EXTINF:-1 ,МУЗЫКА ПЕРВОГО
 http://45.144.31.195:8030/playlist.m3u8
-#EXTINF:0 ,РЫЖИЙ
+#EXTINF:-1 ,РЫЖИЙ
 http://45.144.31.195:8008/playlist.m3u8
-#EXTINF:0 ,Eurosport 1 HD
+#EXTINF:-1 ,Eurosport 1 HD
 http://45.144.31.195:8016/playlist.m3u8
-#EXTINF:0 ,Eurosport 2 HD
+#EXTINF:-1 ,Eurosport 2 HD
 http://45.144.31.195:8017/playlist.m3u8
-#EXTINF:0 ,Матч! Премьер
+#EXTINF:-1 ,Матч! Премьер
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:0 ,Матч! Планета
+#EXTINF:-1 ,Матч! Планета
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
-#EXTINF:0 ,Матч! Страна
+#EXTINF:-1 ,Матч! Страна
 http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0 ,Матч! Арена
+#EXTINF:-1 ,Матч! Арена
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:0 ,Матч! Боец
+#EXTINF:-1 ,Матч! Боец
 http://bl.uma.media/live/132838/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0 ,Матч! Игра
+#EXTINF:-1 ,Матч! Игра
 http://bl.uma.media/live/154036/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0 ,Матч! ФУТБОЛ 1
+#EXTINF:-1 ,Матч! ФУТБОЛ 1
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:0 ,Матч! ФУТБОЛ 2
+#EXTINF:-1 ,Матч! ФУТБОЛ 2
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:0 ,Матч! ФУТБОЛ 3
+#EXTINF:-1 ,Матч! ФУТБОЛ 3
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:0 ,KHL
+#EXTINF:-1 ,KHL
 http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0 ,Viasat Sport HD
+#EXTINF:-1 ,Viasat Sport HD
 http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0 ,Viji Sport HD
+#EXTINF:-1 ,Viji Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
-#EXTINF:0 ,Eurosport 1 HD
+#EXTINF:-1 ,Eurosport 1 HD
 http://91.233.215.250:7272/mlR5cGNUsvBxcv8
-#EXTINF:0 ,Eurosport 2 HD
+#EXTINF:-1 ,Eurosport 2 HD
 http://91.233.215.250:7272/4TViUcJR91U6Lzr
-#EXTINF:0 ,Матч! HD
+#EXTINF:-1 ,Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
-#EXTINF:0 ,Матч! Боец
+#EXTINF:-1 ,Матч! Боец
 http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
-#EXTINF:0 ,Матч! Игра
+#EXTINF:-1 ,Матч! Игра
 http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
-#EXTINF:0 ,Матч Премьер HD
+#EXTINF:-1 ,Матч Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
-#EXTINF:0 ,Матч! Планета
+#EXTINF:-1 ,Матч! Планета
 http://bl.uma.media/live/126869/HLS/1258291_3/4/4/playlist.m3u8
-#EXTINF:0 ,Матч! Страна
+#EXTINF:-1 ,Матч! Страна
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:0 ,KHL Prime
+#EXTINF:-1 ,KHL Prime
 http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
-#EXTINF:0 ,KHL
+#EXTINF:-1 ,KHL
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
-#EXTINF:0 ,Tennis Channel
+#EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:0 ,Мир баскетбола
+#EXTINF:-1 ,Мир баскетбола
 http://46.174.83.66/MirBasketbola/index.m3u8
-#EXTINF:0 ,KHL PRIME HD
+#EXTINF:-1 ,KHL PRIME HD
 http://46.174.83.66/KHL_HD/index.m3u8
-#EXTINF:0 ,Матч! Игра HD
+#EXTINF:-1 ,Матч! Игра HD
 http://46.174.83.66/Match_Igra/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,МАТЧ! АРЕНА
+#EXTINF:-1 ,МАТЧ! АРЕНА
 http://46.174.83.66/Match_Arena_HD/index.m3u8
-#EXTINF:0 ,МАТЧ! СТРАНА
+#EXTINF:-1 ,МАТЧ! СТРАНА
 http://46.174.83.66/Match_Strana/index.m3u8
-#EXTINF:0 ,РБК
+#EXTINF:-1 ,РБК
 http://46.174.83.66/RBC/index.m3u8
-#EXTINF:0 ,ЗДОРОВОЕ ТВ
+#EXTINF:-1 ,ЗДОРОВОЕ ТВ
 http://46.174.83.66/Zdorovoe_TV/index.m3u8
-#EXTINF:0 ,HD Life
+#EXTINF:-1 ,HD Life
 http://46.174.83.66/HDL/index.m3u8
-#EXTINF:0 ,RTG HD
+#EXTINF:-1 ,RTG HD
 http://46.174.83.66/Euronews/index.m3u8
-#EXTINF:0 ,Bridge TV
+#EXTINF:-1 ,Bridge TV
 http://46.174.83.66/BridgeTV/index.m3u8
-#EXTINF:0 ,RU.TV
+#EXTINF:-1 ,RU.TV
 http://46.174.83.66/RU_TV/index.m3u8
-#EXTINF:0 ,365 ДНЕЙ
+#EXTINF:-1 ,365 ДНЕЙ
 http://46.174.83.66/365/index.m3u8
-#EXTINF:0 ,ДОМ КИНО
+#EXTINF:-1 ,ДОМ КИНО
 http://46.174.83.66/Dom_Kino/index.m3u8
-#EXTINF:0 ,Суббота
+#EXTINF:-1 ,Суббота
 http://46.174.83.66/Subbota/index.m3u8
-#EXTINF:0 ,КИНОКОМЕДИЯ
+#EXTINF:-1 ,КИНОКОМЕДИЯ
 http://46.174.83.66/Kinokomedia/index.m3u8
-#EXTINF:0 ,ИНДИЙСКОЕ КИНО
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
 http://46.174.83.66/Indiiskoe_kino/index.m3u8
-#EXTINF:0 ,О!
+#EXTINF:-1 ,О!
 http://46.174.83.66/O/index.m3u8
-#EXTINF:0 ,Gulli Girl
+#EXTINF:-1 ,Gulli Girl
 http://46.174.83.66/Gulli_Girl/index.m3u8
-#EXTINF:0 ,УНИКУМ
+#EXTINF:-1 ,УНИКУМ
 http://46.174.83.66/Unikum/index.m3u8
-#EXTINF:0 ,Солнце
+#EXTINF:-1 ,Солнце
 http://46.174.83.66/Disney/index.m3u8
-#EXTINF:0 ,Мама
+#EXTINF:-1 ,Мама
 http://46.174.83.66/Match_Igra/index.m3u8
 #EXTINF:-1 ,Первый HD
 http://178.163.79.116:81/udp/234.0.0.172:2000
