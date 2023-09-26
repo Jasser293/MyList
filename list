@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,Первый канал
+http://178.163.79.116:81/udp/234.0.0.200:2000
+#EXTINF:-1 ,Первый канал
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
@@ -23,6 +25,8 @@ https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000002761.m3u8
 #EXTINF:-1 ,НТВ Хит
 https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
+#EXTINF:-1 ,Россия 1
+http://178.163.79.116:81/udp/234.0.0.201:2000
 #EXTINF:-1 ,Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 1
@@ -77,6 +81,8 @@ http://91.233.215.250:7272/CGGe9lr8Dx9PZy1
 http://45.144.31.195:8006/playlist.m3u8
 #EXTINF:-1 ,Пятница HD
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
+#EXTINF:-1 ,Пятница!
+http://178.163.79.116:81/udp/234.0.0.235:2000
 #EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
