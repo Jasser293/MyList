@@ -93,8 +93,6 @@ http://109.239.208.82:80/auto24/index.m3u8
 https://s12.federal.tv:8082/feda/auto.stream/playlist.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
-#EXTINF:0 ,Моторспорт ТВ
-http://94.230.129.31:8090/Motosport/index.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://91.197.104.34:8080/Usadba/video.m3u8
 #EXTINF:-1 ,Загородная жизнь
@@ -275,63 +273,3 @@ http://46.174.83.66/Unikum/index.m3u8
 http://46.174.83.66/Disney/index.m3u8
 #EXTINF:-1 ,Мама
 http://46.174.83.66/Match_Igra/index.m3u8
-#EXTINF:0 ,HD Life
-http://94.230.129.31:8090/HD_Life/index.m3u8
-#EXTINF:0 ,ТЕХНО 24
-http://94.230.129.31:8090/24techno/index.m3u8
-#EXTINF:0 ,ДОМ КИНО ПРЕМИУМ
-http://94.230.129.31:8090/Dom_kino_premium_HD/index.m3u8
-#EXTINF:0 ,ПОБЕДА
-http://94.230.129.31:8090/Pobeda/index.m3u8
-#EXTINF:0 ,МУЖСКОЕ КИНО
-http://94.230.129.31:8090/muzhskoe_kino/index.m3u8
-#EXTINF:0 ,КИНОСЕМЬЯ
-http://94.230.129.31:8090/kinosemja/index.m3u8
-#EXTINF:0 ,КИНОСВИДАНИЕ
-http://94.230.129.31:8090/kinosvidanie/index.m3u8
-#EXTINF:0 ,КИНОХИТ
-http://94.230.129.31:8090/kinohit/index.m3u8
-#EXTINF:0 ,КИНОКОМЕДИЯ
-http://94.230.129.31:8090/KinokomediaTV/index.m3u8
-#EXTINF:0 ,КИНОПРЕМЬЕРА HD
-http://94.230.129.31:8090/KinoPremiera_HD/index.m3u8
-#EXTINF:0 ,КИНОСЕРИЯ
-http://94.230.129.31:8090/KINOSERIYA/index.m3u8
-#EXTINF:0 ,TVM CHANNEL
-http://94.230.129.31:8090/TVM/index.m3u8
-#EXTINF:0 ,КВН ТВ
-http://94.230.129.31:8090/KVNTV/index.m3u8
-#EXTINF:0 ,RU.TV
-http://94.230.129.31:8090/RU.TV/index.m3u8
-#EXTINF:0 ,НОСТАЛЬГИЯ
-http://94.230.129.31:8090/Nostalgy/index.m3u8
-#EXTINF:0 ,RUSSIAN MUSIC BOX
-http://94.230.129.31:8090/MUSIC/index.m3u8
-#EXTINF:0 ,GALAXY
-http://94.230.129.31:8090/GALAXY/index.m3u8
-#EXTINF:0 ,ФЕНИКС+КИНО
-http://94.230.129.31:8090/Feniks/index.m3u8
-#EXTINF:0 ,БЕЛРОС
-http://94.230.129.31:8090/BelRos/index.m3u8
-#EXTINF:0 ,ТЕЛЕКАФЕ
-http://94.230.129.31:8090/Telekafe/index.m3u8
-#EXTINF:0 ,4 КАНАЛ
-http://94.230.129.31:8090/4kanal/index.m3u8
-#EXTINF:0 ,HTC
-http://94.230.129.31:8090/HTC/index.m3u8
-#EXTINF:0 ,ТОЧКА ТВ
-http://94.230.129.31:8090/TochkaTV/index.m3u8
-#EXTINF:0 ,ВМЕСТЕ-РФ
-http://94.230.129.31:8090/Vmeste/index.m3u8
-#EXTINF:0 ,ЗАГОРОДНАЯ ЖИЗНЬ
-http://94.230.129.31:8090/Zagorodnyi/index.m3u8
-#EXTINF:0 ,ЗДОРОВОЕ ТВ
-http://94.230.129.31:8090/Zdorovoe/index.m3u8
-#EXTINF:0 ,БСТ
-http://94.230.129.31:8090/BST/index.m3u8
-#EXTINF:0 ,РЫЖИЙ
-http://94.230.129.31:8090/Ryzhij/index.m3u8
-#EXTINF:0 ,ARIRANG
-http://94.230.129.31:8090/Arirang/index.m3u8
-#EXTINF:0 ,СОЮЗ
-http://94.230.129.31:8090/Souz/index.m3u8
