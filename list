@@ -34,7 +34,7 @@ http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РЕН ТВ HD
-http://185.37.150.40:8092/RenTV_HD/tracks-v1a1v1/playlist.m3u8
+http://178.163.78.23:81/udp/234.0.0.240:2000
 #EXTINF:-1 ,РЕН ТВ HD
 http://91.197.104.34:8080/rentv/video.m3u8
 #EXTINF:-1 ,Рен ТВ
