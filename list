@@ -195,8 +195,12 @@ http://45.144.31.195:8026/playlist.m3u8
 http://45.144.31.195:8029/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 http://45.144.31.195:8016/playlist.m3u8
+#EXTINF:-1 ,Eurosport 1 HD
+https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
 http://45.144.31.195:8017/playlist.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
 #EXTINF:-1 ,Матч! Премьер
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Планета
