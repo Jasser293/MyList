@@ -77,10 +77,10 @@ http://91.197.104.34:8080/KVN/video.m3u8
 http://194.26.229.213/CTC/index.m3u8
 #EXTINF:-1 ,СТС
 http://91.142.158.107:8092/play/13/index.m3u8
+#EXTINF:-1 ,ДОМАШНИЙ HD
+http://194.26.229.213/domashniy/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Домашний HD
-http://91.233.215.250:7272/CGGe9lr8Dx9PZy1
 #EXTINF:-1 ,НСТ
 http://45.144.31.195:8006/playlist.m3u8
 #EXTINF:-1 ,Пятница HD
@@ -221,10 +221,6 @@ http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
 http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Viji Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
-#EXTINF:-1 ,Eurosport 1 HD
-http://91.233.215.250:7272/mlR5cGNUsvBxcv8
-#EXTINF:-1 ,Eurosport 2 HD
-http://91.233.215.250:7272/4TViUcJR91U6Lzr
 #EXTINF:-1 ,Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Боец
