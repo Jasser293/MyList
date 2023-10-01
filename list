@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,Первый канал
 http://178.163.56.42:81/udp/234.0.0.200:2000
+#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
+http://93.189.224.202:82/live/Ch385/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал
@@ -55,6 +57,8 @@ http://178.163.56.42:81/udp/234.0.0.186:2000
 http://91.197.104.34:8080/TNTHD/video.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,ПЕРЕЦ
+http://93.189.224.202:82/live/Ch259/index.m3u8
 #EXTINF:-1 ,2x2
 http://46.174.83.66/2x2/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -91,16 +95,24 @@ http://91.197.104.34:8080/Auto24/video.m3u8
 http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
 https://s12.federal.tv:8082/feda/auto.stream/playlist.m3u8
+#EXTINF:-1 ,АВТО ПЛЮС
+http://93.189.224.202:82/live/Ch38/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://91.197.104.34:8080/Usadba/video.m3u8
+#EXTINF:-1 ,УСАДЬБА
+http://93.189.224.202:82/live/Ch91/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://217.107.34.114:8009/playlist.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
+#EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
+http://93.189.224.202:82/live/Ch373/index.m3u8
 #EXTINF:-1 ,ЗДОРОВОЕ ТВ
 http://109.239.208.82:80/zdorovoe/index.m3u8
+#EXTINF:-1 ,ДОКТОР
+http://93.189.224.202:82/live/Ch366/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://91.197.104.34:8080/Kuhnya/video.m3u8
 #EXTINF:-1 ,Ю
