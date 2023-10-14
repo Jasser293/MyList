@@ -16,15 +16,13 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ-МИР
 https://ucdn.beetv.kz/btv/live/hls/000000079.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
-https://ucdn.beetv.kz/btv/live/hls/000002759.m3u8
-#EXTINF:-1 ,НТВ Право
-https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
-#EXTINF:-1 ,НТВ СЕРИАЛ
-http://176.107.250.4:8004/ch122
+http://95.217.196.109:8081/russia/ntv_pravo/chunks.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
-https://ucdn.beetv.kz/btv/live/hls/000002761.m3u8
-#EXTINF:-1 ,НТВ Хит
-http://176.107.250.4:8004/ch125
+http://95.217.196.109:8081/russia/ntv_stil/chunks.m3u8
+#EXTINF:-1 ,НТВ ХИТ
+http://95.217.196.109:8081/russia/ntv_hit/chunks.m3u8
+#EXTINF:-1 ,НТВ СЕРИАЛ
+http://95.217.196.109:8081/russia/ntv_serial/chunks.m3u8
 #EXTINF:-1 ,Россия 1
 http://178.163.6.139:81/udp/234.0.0.201:2000
 #EXTINF:-1 ,Россия 1
