@@ -15,6 +15,8 @@ http://91.142.158.107:8092/play/4/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
 http://95.217.196.109:8081/russia/ntv_pravo/chunks.m3u8
+#EXTINF:-1 ,Зал суда
+http://178.65.93.111:81/play/a08f
 #EXTINF:-1 ,НТВ СТИЛЬ
 http://95.217.196.109:8081/russia/ntv_stil/chunks.m3u8
 #EXTINF:-1 ,НТВ ХИТ
