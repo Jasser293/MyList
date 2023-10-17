@@ -91,6 +91,8 @@ http://194.26.229.213/CTC/index.m3u8
 http://91.142.158.107:8092/play/13/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://176.107.250.4:8002/ch46
+#EXTINF:-1 ,Ю
+http://176.107.250.4:8002/ch50
 #EXTINF:-1 ,ДОМАШНИЙ HD
 http://194.26.229.213/domashniy/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
