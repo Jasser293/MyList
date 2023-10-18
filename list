@@ -11,6 +11,8 @@ http://178.65.93.111:81/play/a0cw
 http://91.142.158.107:8092/play/4/index.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+#EXTINF:-1 ,НТВ-Мир
+http://91.196.39.252:4000/play/a00v
 #EXTINF:-1 ,НТВ ПРАВО
 http://95.217.196.109:8081/russia/ntv_pravo/chunks.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
@@ -25,12 +27,22 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Россия К
+http://91.196.39.252:4000/play/a00t
+#EXTINF:-1 ,РТР Планета
+http://91.196.39.252:4000/play/a00s
+#EXTINF:-1 ,Мир
+http://91.196.39.252:4000/play/a00u
 #EXTINF:-1 ,РЕН ТВ HD
 http://91.197.104.34:8080/rentv/video.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
+#EXTINF:-1 ,РЕН ТВ
+http://91.196.39.252:4000/play/a002
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
+#EXTINF:-1 ,Звезда
+http://91.196.39.252:4000/play/a00w
 #EXTINF:-1 ,ПОБЕДА
 http://176.107.250.4:8002/ch47
 #EXTINF:-1 ,ТВЦ
@@ -75,6 +87,8 @@ http://176.107.250.4:8004/ch157
 http://194.26.229.213/CTC/index.m3u8
 #EXTINF:-1 ,СТС
 http://91.142.158.107:8092/play/13/index.m3u8
+#EXTINF:-1 ,СТС
+http://91.196.39.252:4000/play/a001
 #EXTINF:-1 ,ЧЕ
 http://176.107.250.4:8002/ch49
 #EXTINF:-1 ,ДОМАШНИЙ HD
@@ -89,16 +103,24 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 http://91.197.104.34:8080/Auto24/video.m3u8
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
+#EXTINF:-1 ,Авто плюс
+http://91.196.39.252:4000/play/a01j
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://91.197.104.34:8080/Usadba/video.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://217.107.34.114:8009/playlist.m3u8
+#EXTINF:-1 ,Загородный
+http://91.196.39.252:4000/play/a01r
+#EXTINF:-1 ,Бобёр
+http://91.196.39.252:4000/play/a01z
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://91.197.104.34:8080/Kuhnya/video.m3u8
+#EXTINF:-1 ,Кухня ТВ
+http://91.196.39.252:4000/play/a022
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://91.197.104.34:8080/RodnoeKino/video.m3u8
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
@@ -135,6 +157,10 @@ http://194.143.148.28:8080/MCM/mpegts
 http://91.196.39.252:4000/play/a007
 #EXTINF:-1 ,Discovery Science HD
 http://91.196.39.252:4000/play/a008
+#EXTINF:-1 ,Animal Planet HD
+http://91.196.39.252:4000/play/a01l
+#EXTINF:-1 ,Eurosport 1 HD
+http://91.196.39.252:4000/play/a01e
 #EXTINF:-1 ,Eurosport 1 HD
 https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
@@ -183,3 +209,99 @@ http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,Охотник и рыболов
+http://91.196.39.252:4000/play/a01p
+#EXTINF:-1 ,Наука
+http://91.196.39.252:4000/play/a01m
+#EXTINF:-1 ,Зоо ТВ
+http://91.196.39.252:4000/play/a01n
+#EXTINF:-1 ,Санкт-петербург
+http://91.196.39.252:4000/play/a00y
+#EXTINF:-1 ,Домашний
+http://91.196.39.252:4000/play/a00z
+#EXTINF:-1 ,Кинохит
+http://91.196.39.252:4000/play/a010
+#EXTINF:-1 ,Киносемья
+http://91.196.39.252:4000/play/a011
+#EXTINF:-1 ,Кинокомедия
+http://91.196.39.252:4000/play/a012
+#EXTINF:-1 ,Наше новое кино
+http://91.196.39.252:4000/play/a013
+#EXTINF:-1 ,Мужское кино
+http://91.196.39.252:4000/play/a014
+#EXTINF:-1 ,Кинопремьера
+http://91.196.39.252:4000/play/a015
+#EXTINF:-1 ,Индийское кино
+http://91.196.39.252:4000/play/a016
+#EXTINF:-1 ,Дом кино
+http://91.196.39.252:4000/play/a017
+#EXTINF:-1 ,Дом Кино Премиум
+http://91.196.39.252:4000/play/a018
+#EXTINF:-1 ,Amedia Premium HD
+http://91.196.39.252:4000/play/a006
+#EXTINF:-1 ,Победа
+http://91.196.39.252:4000/play/a019
+#EXTINF:-1 ,Время
+http://91.196.39.252:4000/play/a01a
+#EXTINF:-1 ,Телекафе
+http://91.196.39.252:4000/play/a020
+#EXTINF:-1 ,Еврокино
+http://91.196.39.252:4000/play/a01o
+#EXTINF:-1 ,TLC HD
+http://91.196.39.252:4000/play/a01q
+#EXTINF:-1 ,Amedia 1
+http://91.196.39.252:4000/play/a01x
+#EXTINF:-1 ,First Channel News
+http://91.196.39.252:4000/play/a00g
+#EXTINF:-1 ,Kentron
+http://91.196.39.252:4000/play/a00c
+#EXTINF:-1 ,Muzzone
+http://91.196.39.252:4000/play/a00q
+#EXTINF:-1 ,Armenia Public
+http://91.196.39.252:4000/play/a003
+#EXTINF:-1 ,Free News
+http://91.196.39.252:4000/play/a00f
+#EXTINF:-1 ,Shoghakat TV
+http://91.196.39.252:4000/play/a00h
+#EXTINF:-1 ,21 TV
+http://91.196.39.252:4000/play/a00i
+#EXTINF:-1 ,Hay TV
+http://91.196.39.252:4000/play/a00j
+#EXTINF:-1 ,Kinoman
+http://91.196.39.252:4000/play/a00k
+#EXTINF:-1 ,Nur TV
+http://91.196.39.252:4000/play/a00b
+#EXTINF:-1 ,Filmzone
+http://91.196.39.252:4000/play/a00l
+#EXTINF:-1 ,ATV
+http://91.196.39.252:4000/play/a009
+#EXTINF:-1 ,Bazmots TV
+http://91.196.39.252:4000/play/a00m
+#EXTINF:-1 ,Fitness TV
+http://91.196.39.252:4000/play/a00n
+#EXTINF:-1 ,First Russian Channel
+http://91.196.39.252:4000/play/a00r
+#EXTINF:-1 ,Shant TV
+http://91.196.39.252:4000/play/a005
+#EXTINF:-1 ,Карусель
+http://91.196.39.252:4000/play/a01y
+#EXTINF:-1 ,Музыка первого
+http://91.196.39.252:4000/play/a01s
+#EXTINF:-1 ,МузТВ
+http://91.196.39.252:4000/play/a01t
+#EXTINF:-1 ,Bridge TV
+http://91.196.39.252:4000/play/a01u
+#EXTINF:-1 ,Шансон ТВ
+http://91.196.39.252:4000/play/a01v
+#EXTINF:-1 ,ТНТ Music
+http://91.196.39.252:4000/play/a01w
+#EXTINF:-1 ,Ля-минор
+http://91.196.39.252:4000/play/a021
+#EXTINF:-1 ,FastSport
+http://91.196.39.252:4000/play/a01f
+#EXTINF:-1 ,Матч! Планета
+http://91.196.39.252:4000/play/a01h
+#EXTINF:-1 ,Бокс ТВ
+http://91.196.39.252:4000/play/a01i
+#EXTINF:-1 ,KHL
+http://91.196.39.252:4000/play/a01k
