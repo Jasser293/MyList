@@ -38,7 +38,7 @@ http://91.197.104.34:8080/rentv/video.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://91.196.39.252:4000/play/a002
+http://europe3.livetv.az/russia/rentv/playlist.m3u8
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Звезда
@@ -305,3 +305,51 @@ http://91.196.39.252:4000/play/a01h
 http://91.196.39.252:4000/play/a01i
 #EXTINF:-1 ,KHL
 http://91.196.39.252:4000/play/a01k
+#EXTINF:-1 ,ANIMAL PLANET HD
+http://europe3.livetv.az/russia/animal_planet/playlist.m3u8
+#EXTINF:-1 ,National Geographic
+http://europe3.livetv.az/russia/nat_geo/playlist.m3u8
+#EXTINF:-1 ,NAT GEO WILD
+http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
+#EXTINF:-1 ,TV1000 Русское кино
+http://europe3.livetv.az/russia/tv1000_russkoe_kino/playlist.m3u8
+#EXTINF:-1 ,VIP COMEDY HD
+http://europe3.livetv.az/russia/vip_comedy/playlist.m3u8
+#EXTINF:-1 ,VIP PREMIERE HD
+http://europe3.livetv.az/russia/vip_premiere/playlist.m3u8
+#EXTINF:-1 ,МОСФИЛЬМ. Золотая коллекция
+http://europe3.livetv.az/russia/mosfilm/playlist.m3u8
+#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
+http://europe3.livetv.az/russia/nashe_novoe_kino/playlist.m3u8
+#EXTINF:-1 ,Amedia 2
+http://europe3.livetv.az/russia/amedia2/playlist.m3u8
+#EXTINF:-1 ,КТО ЕСТЬ КТО
+http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
+#EXTINF:-1 ,ПЯТНИЦА
+http://europe3.livetv.az/russia/pyatnica/playlist.m3u8
+#EXTINF:-1 ,РБК
+http://europe3.livetv.az/russia/rbc/playlist.m3u8
+#EXTINF:-1 ,5 КАНАЛ
+http://europe3.livetv.az/russia/5kanal/playlist.m3u8
+#EXTINF:-1 ,РАДОСТЬ МОЯ
+http://europe3.livetv.az/russia/radost_moya/playlist.m3u8
+#EXTINF:-1 ,CARTOONITO
+http://europe3.livetv.az/russia/boomerang/playlist.m3u8
+#EXTINF:-1 ,CARTOON NETWORK
+http://europe3.livetv.az/russia/cartoon/playlist.m3u8
+#EXTINF:-1 ,МУЛЬТ
+http://europe3.livetv.az/russia/mult/playlist.m3u8
+#EXTINF:-1 ,GULLI GIRL
+http://europe3.livetv.az/russia/gulli_girl/playlist.m3u8
+#EXTINF:-1 ,NICKELODEON
+http://europe3.livetv.az/russia/nickelodeon/playlist.m3u8
+#EXTINF:-1 ,TIJI
+http://europe3.livetv.az/russia/tiji/playlist.m3u8
+#EXTINF:-1 ,ЕВРОПА ПЛЮС ТВ
+http://europe3.livetv.az/russia/evropaplus/playlist.m3u8
+#EXTINF:-1 ,ШАНСОН ТВ
+http://europe3.livetv.az/russia/shanson/playlist.m3u8
+#EXTINF:-1 ,МАТЧ! ПЛАНЕТА
+http://europe3.livetv.az/russia/match_planeta/playlist.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://europe3.livetv.az/russia/eurosport1/playlist.m3u8
