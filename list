@@ -141,14 +141,8 @@ http://91.197.104.34:8080/RodnoeKino/video.m3u8
 http://91.197.104.34:8080/NasheNovoeKino/video.m3u8
 #EXTINF:-1 ,ДОРАМА HD
 http://91.197.104.34:8080/Dorama/video.m3u8
-#EXTINF:-1 ,21TV
-http://45.159.74.13:80/21TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МИР
 http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Kentron AM
-http://45.159.74.13:80/Kentron/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Atv HD AM
-http://45.159.74.13:80/ATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КИНОМАН HD
 http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Filmzone HD
