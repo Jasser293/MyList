@@ -329,6 +329,27 @@ http://europe3.livetv.az/russia/nickelodeon/playlist.m3u8
 http://europe3.livetv.az/russia/tiji/playlist.m3u8
 #EXTINF:-1 ,ШАНСОН ТВ
 http://europe3.livetv.az/russia/shanson/playlist.m3u8
+#EXTINF:-1 ,Extreme Sports
+http://95.217.196.109:8081/russia/extreme_sports/chunks.m3u8
+#EXTINF:-1 ,Матч ТВ
+http://95.217.196.109:8081/russia/matchtv/chunks.m3u8
+#EXTINF:-1 ,Матч! Арена
+http://95.217.196.109:8081/russia/match_arena/chunks.m3u8
+#EXTINF:-1 ,Матч Премьер
+http://95.217.196.109:8081/russia/match_premier/chunks.m3u8
+#EXTINF:-1 ,Матч! Страна HD
+http://95.217.196.109:8081/russia/match_strana/chunks.m3u8
+#EXTINF:-1 ,Матч! Боец
+http://95.217.196.109:8081/russia/match_boets/chunks.m3u8
+#EXTINF:-1 ,Матч! Футбол 1
+http://95.217.196.109:8081/russia/match_futbol_1/chunks.m3u8
+#EXTINF:-1 ,Матч! Футбол 2
+http://95.217.196.109:8081/russia/match_futbol_2/chunks.m3u8
+#EXTINF:-1 ,Матч! Футбол 3
+http://95.217.196.109:8081/russia/match_futbol_3/chunks.m3u8
+#EXTINF:-1 ,МИР БАСКЕТБОЛА
+http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
+
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
 http://europe3.livetv.az/russia/match_planeta/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
