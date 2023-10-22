@@ -70,9 +70,9 @@ http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:-1 ,ТВ3 HD
 http://91.197.104.34:8080/tv3/video.m3u8
 #EXTINF:-1 ,Твоё ТВ
-https://tvoetv.space/tvoetv/video.m3u8
+https://tvoetv.space/tvoetv/mpegts
 #EXTINF:-1 ,Твоё ТВ юмор
-https://tvoetv.space/tvoetv_humor/video.m3u8
+https://tvoetv.space/tvoetv_humor/mpegts
 #EXTINF:-1 ,Ю
 http://176.107.250.4:8002/ch50
 #EXTINF:-1 ,ИНДИЯ
