@@ -349,8 +349,3 @@ http://95.217.196.109:8081/russia/match_futbol_2/chunks.m3u8
 http://95.217.196.109:8081/russia/match_futbol_3/chunks.m3u8
 #EXTINF:-1 ,МИР БАСКЕТБОЛА
 http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
-
-#EXTINF:-1 ,МАТЧ! ПЛАНЕТА
-http://europe3.livetv.az/russia/match_planeta/playlist.m3u8
-#EXTINF:-1 ,Eurosport 1
-http://europe3.livetv.az/russia/eurosport1/playlist.m3u8
