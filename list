@@ -74,7 +74,7 @@ http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Ю
-http://176.107.250.4:8002/ch50
+http://178.163.73.107:81/udp/234.0.0.229:2000
 #EXTINF:-1 ,ИНДИЯ
 http://91.197.104.34:8080/India/video.m3u8
 #EXTINF:-1 ,Комедия
