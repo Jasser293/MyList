@@ -61,6 +61,10 @@ http://91.142.158.107:8092/play/15/index.m3u8
 http://91.197.104.34:8080/tv3/video.m3u8
 #EXTINF:-1 ,СТС
 http://91.142.158.107:8092/play/13/index.m3u8
+#EXTINF:-1 ,СТС
+http://176.107.250.4:8001/ch13
+#EXTINF:-1 ,СТС Love
+http://91.220.135.165:81/59/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ОТР
 http://176.107.250.4:8001/ch9
 #EXTINF:-1 ,МИР
@@ -277,4 +281,3 @@ http://europe3.livetv.az/russia/cartoon/playlist.m3u8
 http://europe3.livetv.az/russia/mult/playlist.m3u8
 #EXTINF:-1 ,TIJI
 http://europe3.livetv.az/russia/tiji/playlist.m3u8
-
