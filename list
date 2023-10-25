@@ -93,6 +93,8 @@ http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
 http://91.197.104.34:8080/Auto24/video.m3u8
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
+#EXTINF:-1 ,АВТО ПЛЮС
+http://176.107.250.4:8003/ch303
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
