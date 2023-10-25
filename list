@@ -43,6 +43,8 @@ http://176.107.250.4:8002/ch45
 http://91.142.158.107:8092/play/10/index.m3u8
 #EXTINF:-1 ,5 канал
 http://91.142.158.107:8092/play/5/index.m3u8
+#EXTINF:-1 ,5 КАНАЛ
+http://europe3.livetv.az/russia/5kanal/playlist.m3u8
 #EXTINF:-1 ,БЕЛАРУСЬ 24 HD
 http://176.107.250.4:8004/ch152
 #EXTINF:-1 ,ТНТ4
@@ -57,42 +59,36 @@ https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:-1 ,ТВ3 HD
 http://91.197.104.34:8080/tv3/video.m3u8
-#EXTINF:-1 ,Твоё ТВ
-http://tvoetv.space:8080/tvoetv/video.m3u8
-#EXTINF:-1 ,Твоё ТВ юмор
-http://tvoetv.space:8080/tvoetv_humor/video.m3u8
-#EXTINF:-1 ,Ю
-http://178.163.73.107:81/udp/234.0.0.229:2000
-#EXTINF:-1 ,ИНДИЯ
-http://91.197.104.34:8080/India/video.m3u8
-#EXTINF:-1 ,Комедия
-http://91.142.158.107:8092/play/30/index.m3u8
-#EXTINF:-1 ,КВН ТВ
-http://91.197.104.34:8080/KVN/video.m3u8
-#EXTINF:-1 ,КИНОУЖАС
-http://91.197.104.34:8080/Kinouzhas/video.m3u8
-#EXTINF:-1 ,КИНОМИКС
-http://91.197.104.34:8080/Kinomix/video.m3u8
-#EXTINF:-1 ,КИНОСЕРИЯ
-http://91.197.104.34:8080/Kinoseria/video.m3u8
-#EXTINF:-1 ,КИНОКОМЕДИЯ
-http://91.197.104.34:8080/Kinokomedia/video.m3u8
-#EXTINF:-1 ,МОСФИЛЬМ. Золотая коллекция
-http://176.107.250.4:8004/ch157
 #EXTINF:-1 ,СТС
 http://91.142.158.107:8092/play/13/index.m3u8
 #EXTINF:-1 ,ОТР
 http://176.107.250.4:8001/ch9
+#EXTINF:-1 ,МИР
+http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ЧЕ
 http://176.107.250.4:8002/ch49
+#EXTINF:-1 ,Твоё ТВ
+http://tvoetv.space:8080/tvoetv/video.m3u8
+#EXTINF:-1 ,Твоё ТВ юмор
+http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-1 ,КВН ТВ
+http://91.197.104.34:8080/KVN/video.m3u8
+#EXTINF:-1 ,Ю
+http://178.163.73.107:81/udp/234.0.0.229:2000
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Домашний
 http://176.107.250.4:8001/ch14
 #EXTINF:-1 ,Пятница HD
 https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
+#EXTINF:-1 ,ПЯТНИЦА
+http://europe3.livetv.az/russia/pyatnica/playlist.m3u8
 #EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1 ,Кто есть кто
+http://176.107.250.4:8003/ch315
+#EXTINF:-1 ,КТО ЕСТЬ КТО
+http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
 http://91.197.104.34:8080/Auto24/video.m3u8
 #EXTINF:-1 ,АВТО 24
@@ -105,32 +101,68 @@ http://176.107.250.4:8002/ch65
 http://176.107.250.4:8003/ch83
 #EXTINF:-1 ,УСАДЬБА
 http://91.197.104.34:8080/Usadba/video.m3u8
+#EXTINF:-1 ,Усадьба
+http://176.107.250.4:8002/ch74
 #EXTINF:-1 ,Загородная жизнь
 http://217.107.34.114:8009/playlist.m3u8
+#EXTINF:-1 ,БОБЁР
+http://176.107.250.4:8003/ch81
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://91.197.104.34:8080/Kuhnya/video.m3u8
+#EXTINF:-1 ,Кухня ТВ
+http://176.107.250.4:8003/ch310
 #EXTINF:-1 ,ЕДА HD
 http://176.107.250.4:8002/ch62
+#EXTINF:-1 ,ШАНСОН ТВ
+http://europe3.livetv.az/russia/shanson/playlist.m3u8
+#EXTINF:-1 ,ANIMAL PLANET HD
+http://europe3.livetv.az/russia/animal_planet/playlist.m3u8
+#EXTINF:-1 ,National Geographic
+http://europe3.livetv.az/russia/nat_geo/playlist.m3u8
+#EXTINF:-1 ,NAT GEO WILD
+http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
+#EXTINF:-1 ,ИНДИЯ
+http://91.197.104.34:8080/India/video.m3u8
+#EXTINF:-1 ,Комедия
+http://91.142.158.107:8092/play/30/index.m3u8
+#EXTINF:-1 ,МУЖСКОЕ КИНО
+http://176.107.250.4:8003/ch313
+#EXTINF:-1 ,КИНОУЖАС
+http://91.197.104.34:8080/Kinouzhas/video.m3u8
+#EXTINF:-1 ,КИНОМИКС
+http://91.197.104.34:8080/Kinomix/video.m3u8
+#EXTINF:-1 ,КИНОСЕРИЯ
+http://91.197.104.34:8080/Kinoseria/video.m3u8
+#EXTINF:-1 ,КИНОКОМЕДИЯ
+http://91.197.104.34:8080/Kinokomedia/video.m3u8
+#EXTINF:-1 ,МОСФИЛЬМ. Золотая коллекция
+http://176.107.250.4:8004/ch157
+#EXTINF:-1 ,МОСФИЛЬМ. Золотая коллекция
+http://europe3.livetv.az/russia/mosfilm/playlist.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://91.197.104.34:8080/RodnoeKino/video.m3u8
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
 http://91.197.104.34:8080/NasheNovoeKino/video.m3u8
 #EXTINF:-1 ,ДОРАМА HD
 http://91.197.104.34:8080/Dorama/video.m3u8
-#EXTINF:-1 ,МИР
-http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КИНОМАН HD
 http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Filmzone HD
 http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,СОЛНЦЕ
-http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Карусель
-http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,МАТЧ! ПЛАНЕТА
-http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TV1000 Русское кино
+http://europe3.livetv.az/russia/tv1000_russkoe_kino/playlist.m3u8
+#EXTINF:-1 ,VIP COMEDY HD
+http://europe3.livetv.az/russia/vip_comedy/playlist.m3u8
+#EXTINF:-1 ,VIP PREMIERE HD
+http://europe3.livetv.az/russia/vip_premiere/playlist.m3u8
+#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
+http://europe3.livetv.az/russia/nashe_novoe_kino/playlist.m3u8
+#EXTINF:-1 ,Amedia 2
+http://europe3.livetv.az/russia/amedia2/playlist.m3u8
+#EXTINF:-1 ,Eurosport 1 HD
+http://176.107.250.4:8001/ch26
 #EXTINF:-1 ,Eurosport 1 HD
 https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
@@ -139,6 +171,8 @@ https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Планета
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+#EXTINF:-1 ,МАТЧ! ПЛАНЕТА
+http://45.159.74.13:80/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Матч! Страна
 http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Арена
@@ -177,44 +211,6 @@ http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,ANIMAL PLANET HD
-http://europe3.livetv.az/russia/animal_planet/playlist.m3u8
-#EXTINF:-1 ,National Geographic
-http://europe3.livetv.az/russia/nat_geo/playlist.m3u8
-#EXTINF:-1 ,NAT GEO WILD
-http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
-#EXTINF:-1 ,TV1000 Русское кино
-http://europe3.livetv.az/russia/tv1000_russkoe_kino/playlist.m3u8
-#EXTINF:-1 ,VIP COMEDY HD
-http://europe3.livetv.az/russia/vip_comedy/playlist.m3u8
-#EXTINF:-1 ,VIP PREMIERE HD
-http://europe3.livetv.az/russia/vip_premiere/playlist.m3u8
-#EXTINF:-1 ,МОСФИЛЬМ. Золотая коллекция
-http://europe3.livetv.az/russia/mosfilm/playlist.m3u8
-#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
-http://europe3.livetv.az/russia/nashe_novoe_kino/playlist.m3u8
-#EXTINF:-1 ,Amedia 2
-http://europe3.livetv.az/russia/amedia2/playlist.m3u8
-#EXTINF:-1 ,КТО ЕСТЬ КТО
-http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
-#EXTINF:-1 ,ПЯТНИЦА
-http://europe3.livetv.az/russia/pyatnica/playlist.m3u8
-#EXTINF:-1 ,5 КАНАЛ
-http://europe3.livetv.az/russia/5kanal/playlist.m3u8
-#EXTINF:-1 ,РАДОСТЬ МОЯ
-http://europe3.livetv.az/russia/radost_moya/playlist.m3u8
-#EXTINF:-1 ,CARTOONITO
-http://europe3.livetv.az/russia/boomerang/playlist.m3u8
-#EXTINF:-1 ,CARTOON NETWORK
-http://europe3.livetv.az/russia/cartoon/playlist.m3u8
-#EXTINF:-1 ,МУЛЬТ
-http://europe3.livetv.az/russia/mult/playlist.m3u8
-#EXTINF:-1 ,NICKELODEON
-http://europe3.livetv.az/russia/nickelodeon/playlist.m3u8
-#EXTINF:-1 ,TIJI
-http://europe3.livetv.az/russia/tiji/playlist.m3u8
-#EXTINF:-1 ,ШАНСОН ТВ
-http://europe3.livetv.az/russia/shanson/playlist.m3u8
 #EXTINF:-1 ,Extreme Sports
 http://95.217.196.109:8081/russia/extreme_sports/chunks.m3u8
 #EXTINF:-1 ,Матч ТВ
@@ -235,3 +231,42 @@ http://95.217.196.109:8081/russia/match_futbol_2/chunks.m3u8
 http://95.217.196.109:8081/russia/match_futbol_3/chunks.m3u8
 #EXTINF:-1 ,МИР БАСКЕТБОЛА
 http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
+#EXTINF:-1 ,МАМА
+http://176.107.250.4:8003/ch86
+#EXTINF:-1 ,О!
+http://176.107.250.4:8004/ch129
+#EXTINF:-1 ,МУЛЬТ
+http://176.107.250.4:8004/ch130
+#EXTINF:-1 ,МУЛЬТИМУЗЫКА
+http://176.107.250.4:8004/ch131
+#EXTINF:-1 ,В ГОСТЯХ У СКАЗКИ
+http://176.107.250.4:8004/ch133
+#EXTINF:-1 ,NICKELODEON HD
+http://176.107.250.4:8004/ch135
+#EXTINF:-1 ,NICKELODEON
+http://europe3.livetv.az/russia/nickelodeon/playlist.m3u8
+#EXTINF:-1 ,МУЛЬТИЛАНДИЯ
+http://176.107.250.4:8004/ch136
+#EXTINF:-1 ,TiJi
+http://176.107.250.4:8004/ch137
+#EXTINF:-1 ,Радость моя
+http://176.107.250.4:8004/ch138
+#EXTINF:-1 ,СТС KIDS HD
+http://176.107.250.4:8004/ch139
+#EXTINF:-1 ,NICK JR
+http://176.107.250.4:8004/ch194
+#EXTINF:-1 ,СОЛНЦЕ
+http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Карусель
+http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,РАДОСТЬ МОЯ
+http://europe3.livetv.az/russia/radost_moya/playlist.m3u8
+#EXTINF:-1 ,CARTOONITO
+http://europe3.livetv.az/russia/boomerang/playlist.m3u8
+#EXTINF:-1 ,CARTOON NETWORK
+http://europe3.livetv.az/russia/cartoon/playlist.m3u8
+#EXTINF:-1 ,МУЛЬТ
+http://europe3.livetv.az/russia/mult/playlist.m3u8
+#EXTINF:-1 ,TIJI
+http://europe3.livetv.az/russia/tiji/playlist.m3u8
+
