@@ -263,8 +263,6 @@ http://95.217.196.109:8081/russia/match_futbol_3/chunks.m3u8
 http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
 #EXTINF:-1 ,МАМА
 http://176.107.250.4:8003/ch86
-#EXTINF:-1 ,О!
-http://176.107.250.4:8004/ch129
 #EXTINF:-1 ,МУЛЬТ
 http://176.107.250.4:8004/ch130
 #EXTINF:-1 ,МУЛЬТИМУЗЫКА
@@ -277,8 +275,6 @@ http://176.107.250.4:8004/ch135
 http://europe3.livetv.az/russia/nickelodeon/playlist.m3u8
 #EXTINF:-1 ,МУЛЬТИЛАНДИЯ
 http://176.107.250.4:8004/ch136
-#EXTINF:-1 ,TiJi
-http://176.107.250.4:8004/ch137
 #EXTINF:-1 ,Радость моя
 http://176.107.250.4:8004/ch138
 #EXTINF:-1 ,СТС KIDS HD
