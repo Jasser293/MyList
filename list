@@ -123,6 +123,8 @@ http://217.107.34.114:8009/playlist.m3u8
 http://91.196.39.252:4000/play/a01z
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
+#EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
+http://91.220.135.165:81/46/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://91.197.104.34:8080/Kuhnya/video.m3u8
 #EXTINF:-1 ,Кухня ТВ
