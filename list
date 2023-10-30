@@ -58,15 +58,11 @@ https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 http://178.162.218.87:8081/andr/comedytv.stream/chunks.m3u8
 #EXTINF:-1 ,ТНТ HD
-http://91.197.104.34:8080/TNTHD/video.m3u8
-#EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ Exclusiv TV
 http://212.0.211.102:9999/play/a00x/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
-#EXTINF:-1 ,ТВ3 HD
-http://91.197.104.34:8080/tv3/video.m3u8
 #EXTINF:-1 ,СТС
 http://91.142.158.107:8092/play/13/index.m3u8
 #EXTINF:-1 ,СТС
@@ -81,8 +77,6 @@ http://45.159.74.13:80/Mir/tracks-v1a1/mono.m3u8
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
-#EXTINF:-1 ,КВН ТВ
-http://91.197.104.34:8080/KVN/video.m3u8
 #EXTINF:-1 ,Ю
 http://178.163.73.107:81/udp/234.0.0.229:2000
 #EXTINF:-1 ,ДОМАШНИЙ
@@ -98,8 +92,6 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,КТО ЕСТЬ КТО
 http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
-http://91.197.104.34:8080/Auto24/video.m3u8
-#EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://178.162.218.87:8081/andr/auto.stream/chunks.m3u8
@@ -109,24 +101,22 @@ http://109.239.208.82:80/drive/index.m3u8
 http://212.0.211.102:9999/play/a005/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов
 http://91.196.39.252:4000/play/a01p
+#EXTINF:-1 ,ДИКИЙ
+http://91.220.135.165:81/36/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,ДИКАЯ ОХОТА HD
+http://91.220.135.165:81/37/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,ДИКАЯ РЫБАЛКА HD
+http://91.220.135.165:81/38/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Тайна
 http://178.162.218.87:8081/andr/taina.stream/chunks.m3u8
 #EXTINF:-1 ,Доктор
 http://178.162.218.87:8081/andr/24doc.stream/chunks.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://91.220.135.165:81/48/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,УСАДЬБА
-http://91.197.104.34:8080/Usadba/video.m3u8
-#EXTINF:-1 ,Загородная жизнь
-http://217.107.34.114:8009/playlist.m3u8
 #EXTINF:-1 ,Бобёр
 http://91.196.39.252:4000/play/a01z
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
-#EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
-http://91.220.135.165:81/46/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,КУХНЯ ТВ
-http://91.197.104.34:8080/Kuhnya/video.m3u8
 #EXTINF:-1 ,Кухня ТВ
 http://178.162.218.87:8081/andr/kuhnya.stream/chunks.m3u8
 #EXTINF:-1 ,МОРСКОЙ
@@ -161,30 +151,34 @@ http://212.0.211.102:9999/play/a01h/index.m3u8
 http://212.0.211.102:9999/play/a01i/index.m3u8
 #EXTINF:-1 ,.SCI-FI
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
-#EXTINF:-1 ,ИНДИЯ
-http://91.197.104.34:8080/India/video.m3u8
+#EXTINF:-1 ,КИНОМИКС
+http://91.220.135.165:81/22/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,КИНОКОМЕДИЯ
+http://91.220.135.165:81/25/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,Cinema
+http://91.220.135.165:81/28/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,ЕВРОКИНО
+http://91.220.135.165:81/30/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,ИЛЛЮЗИОН+
+http://91.220.135.165:81/51/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,РУССКИЙ РОМАН
+http://91.220.135.165:81/52/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
+http://91.220.135.165:81/53/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,РУССКИЙ БЕСТСЕЛЛЕР
+http://91.220.135.165:81/54/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,КИНО ТВ
+http://91.220.135.165:81/55/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,РУССКАЯ КОМЕДИЯ
+http://91.220.135.165:81/56/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://91.196.39.252:4000/play/a015
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,Мужское кино
 http://91.196.39.252:4000/play/a014
-#EXTINF:-1 ,КИНОУЖАС
-http://91.197.104.34:8080/Kinouzhas/video.m3u8
-#EXTINF:-1 ,КИНОМИКС
-http://91.197.104.34:8080/Kinomix/video.m3u8
-#EXTINF:-1 ,КИНОСЕРИЯ
-http://91.197.104.34:8080/Kinoseria/video.m3u8
-#EXTINF:-1 ,КИНОКОМЕДИЯ
-http://91.197.104.34:8080/Kinokomedia/video.m3u8
 #EXTINF:-1 ,МОСФИЛЬМ. Золотая коллекция
 http://europe3.livetv.az/russia/mosfilm/playlist.m3u8
-#EXTINF:-1 ,РОДНОЕ КИНО
-http://91.197.104.34:8080/RodnoeKino/video.m3u8
-#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
-http://91.197.104.34:8080/NasheNovoeKino/video.m3u8
-#EXTINF:-1 ,ДОРАМА HD
-http://91.197.104.34:8080/Dorama/video.m3u8
 #EXTINF:-1 ,КИНОМАН HD
 http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Filmzone HD
