@@ -91,8 +91,6 @@ https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
 http://europe3.livetv.az/russia/pyatnica/playlist.m3u8
 #EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
-#EXTINF:-1 ,Кто есть кто
-http://176.107.250.4:8003/ch315
 #EXTINF:-1 ,КТО ЕСТЬ КТО
 http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
