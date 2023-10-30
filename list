@@ -114,6 +114,8 @@ http://178.162.218.87:8081/andr/taina.stream/chunks.m3u8
 #EXTINF:-1 ,Доктор
 http://178.162.218.87:8081/andr/24doc.stream/chunks.m3u8
 #EXTINF:-1 ,УСАДЬБА
+http://91.220.135.165:81/48/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,УСАДЬБА
 http://91.197.104.34:8080/Usadba/video.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://217.107.34.114:8009/playlist.m3u8
