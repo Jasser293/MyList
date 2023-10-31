@@ -8,11 +8,11 @@ http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://91.220.135.165:81/1/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,НТВ
-http://178.162.218.87:8081/andr/ntv.stream/chunks.m3u8
-#EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
 http://91.142.158.107:8092/play/4/index.m3u8
+#EXTINF:-1 ,НТВ
+http://178.162.218.87:8081/andr/ntv.stream/chunks.m3u8
 #EXTINF:-1 ,НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
