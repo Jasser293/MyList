@@ -184,6 +184,12 @@ http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Filmzone HD
 http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
+http://194.143.148.28:8080/TV1000RuKino/mpegts
+#EXTINF:-1 ,TV 1000
+http://95.217.196.109:8081/russia/tv1000/chunks.m3u8
+#EXTINF:-1 ,TV 1000 ACTION
+http://95.217.196.109:8081/russia/tv1000_action/chunks.m3u8
+#EXTINF:-1 ,TV1000 Русское кино
 http://europe3.livetv.az/russia/tv1000_russkoe_kino/playlist.m3u8
 #EXTINF:-1 ,VIP COMEDY HD
 http://europe3.livetv.az/russia/vip_comedy/playlist.m3u8
