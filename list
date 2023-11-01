@@ -59,8 +59,6 @@ https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 http://178.162.218.87:8081/andr/comedytv.stream/chunks.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,ТНТ Exclusiv TV
-http://212.0.211.102:9999/play/a00x/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:-1 ,СТС
