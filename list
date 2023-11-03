@@ -204,7 +204,7 @@ http://europe3.livetv.az/russia/amedia2/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
-http://91.196.39.252:4000/play/a01e
+http://135.181.115.81/russia/eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
 http://91.196.39.252:4000/play/a01g
 #EXTINF:-1 ,Eurosport 2 HD
