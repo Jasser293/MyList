@@ -171,8 +171,6 @@ http://91.220.135.165:81/53/tracks-v1a1v1/playlist.m3u8
 http://91.220.135.165:81/54/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,КИНО ТВ
 http://91.220.135.165:81/55/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,РУССКАЯ КОМЕДИЯ
-http://91.220.135.165:81/56/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://91.196.39.252:4000/play/a015
 #EXTINF:-1 ,Комедия
@@ -250,9 +248,9 @@ http://bl.uma.media/live/126869/HLS/1258291_3/4/4/playlist.m3u8
 #EXTINF:-1 ,Матч! Страна
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 ,KHL Prime
-http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
-#EXTINF:-1 ,KHL HD
-http://178.124.179.122:8088/KHL_HD/index.m3u8
+http://217.113.31.20:8009/play/a02y/index.m3u8
+#EXTINF:-1 ,KHL
+http://217.113.31.20:8009/play/a02t/index.m3u8
 #EXTINF:-1 ,KHL
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
