@@ -24,7 +24,7 @@ http://95.217.196.109:8081/russia/ntv_hit/chunks.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 http://95.217.196.109:8081/russia/ntv_serial/chunks.m3u8
 #EXTINF:-1 ,Россия 1
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+http://217.113.31.20:8009/play/a00i/index.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://91.220.135.165:81/2/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
