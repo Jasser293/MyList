@@ -43,8 +43,12 @@ http://europe3.livetv.az/russia/rentv/playlist.m3u8
 http://212.0.211.102:9999/play/a00s/index.m3u8
 #EXTINF:-1 ,Звезда
 http://217.113.31.20:8009/play/a00o/index.m3u8
+#EXTINF:-1 ,Звезда
+http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Оружие
 http://178.162.218.87:8081/andr/oruzhie.stream/chunks.m3u8
+#EXTINF:-1 ,Оружие
+http://45.144.31.195:8018/playlist.m3u8
 #EXTINF:-1 ,Победа
 http://217.113.31.20:8009/play/a01i/index.m3u8
 #EXTINF:-1 ,ТВЦ
