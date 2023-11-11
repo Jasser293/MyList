@@ -2,7 +2,7 @@
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://europe3.livetv.az/russia/pervyj_kanal/playlist.m3u8
 #EXTINF:-1 ,Первый канал
-http://217.113.31.20:8009/play/a003/index.m3u8
+http://176.113.230.126:8000/play/a08z/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
@@ -24,7 +24,7 @@ http://95.217.196.109:8081/russia/ntv_hit/chunks.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 http://95.217.196.109:8081/russia/ntv_serial/chunks.m3u8
 #EXTINF:-1 ,Россия 1
-http://217.113.31.20:8009/play/a00i/index.m3u8
+http://176.113.230.126:8000/play/a0dc/index.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://91.220.135.165:81/2/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
@@ -34,25 +34,25 @@ http://135.181.115.81/russia/rossiya24/playlist.m3u8
 #EXTINF:-1 ,Россия К
 http://91.196.39.252:4000/play/a00t
 #EXTINF:-1 ,РЕН ТВ
-http://217.113.31.20:8009/play/a00m/index.m3u8
+http://176.113.230.126:8000/play/a0df/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://europe3.livetv.az/russia/rentv/playlist.m3u8
 #EXTINF:-1 ,Рен ТВ MD
 http://212.0.211.102:9999/play/a00s/index.m3u8
-#EXTINF:-1 ,Звезда
-http://217.113.31.20:8009/play/a00o/index.m3u8
+#EXTINF:-1 ,ТВЦ
+http://176.113.230.126:8000/play/a0j5/index.m3u8
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
+#EXTINF:-1 ,Звезда
+http://176.113.230.126:8000/play/a061/index.m3u8
 #EXTINF:-1 ,Оружие
 http://178.162.218.87:8081/andr/oruzhie.stream/chunks.m3u8
 #EXTINF:-1 ,Оружие
 http://45.144.31.195:8018/playlist.m3u8
-#EXTINF:-1 ,Победа
-http://217.113.31.20:8009/play/a01i/index.m3u8
-#EXTINF:-1 ,ТВЦ
-http://217.113.31.20:8009/play/a01u/index.m3u8
+#EXTINF:-1 ,ПОБЕДА
+http://176.113.230.126:8000/play/a0dq/index.m3u8
 #EXTINF:-1 ,ПЛЮС ТВ BY
 http://178.124.179.122:8088/PlusTV/index.m3u8
 #EXTINF:-1 ,РБК
@@ -231,6 +231,8 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,KHL
 http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,KHL
+http://178.162.218.87:8081/andr/khl.stream/chunks.m3u8
 #EXTINF:-1 ,Viasat Sport HD
 http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Viji Sport HD
@@ -247,10 +249,6 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 http://bl.uma.media/live/126869/HLS/1258291_3/4/4/playlist.m3u8
 #EXTINF:-1 ,Матч! Страна
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 ,KHL Prime
-http://217.113.31.20:8009/play/a02y/index.m3u8
-#EXTINF:-1 ,KHL
-http://217.113.31.20:8009/play/a02t/index.m3u8
 #EXTINF:-1 ,KHL
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
