@@ -9,6 +9,8 @@ http://91.142.158.107:8092/play/1/index.m3u8
 http://91.220.135.165:81/1/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,НТВ
 http://217.113.31.20:8009/play/a006/index.m3u8
+#EXTINF:-1 ,НТВ HD
+http://91.205.199.7:8000/play/a0ri
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
@@ -42,9 +44,13 @@ http://europe3.livetv.az/russia/rentv/playlist.m3u8
 #EXTINF:-1 ,Рен ТВ MD
 http://212.0.211.102:9999/play/a00s/index.m3u8
 #EXTINF:-1 ,ТВЦ
+http://31.146.176.94:80/TVC/index.m3u8
+#EXTINF:-1 ,ТВЦ
 http://176.113.230.126:8000/play/a0j5/index.m3u8
 #EXTINF:-1 ,ТВЦ ПЛЮС
 http://178.124.179.122:8088/PlusTV/index.m3u8
+#EXTINF:-1 ,Известия
+http://91.205.199.7:8000/play/a0sb
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Звезда
@@ -107,6 +113,8 @@ http://178.162.218.87:8081/andr/auto.stream/chunks.m3u8
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Моторспорт ТВ
 http://212.0.211.102:9999/play/a005/index.m3u8
+#EXTINF:-1 ,Мужской
+http://91.205.199.7:8000/play/a0sk
 #EXTINF:-1 ,Охотник и рыболов
 http://91.196.39.252:4000/play/a01p
 #EXTINF:-1 ,ДИКИЙ
@@ -121,6 +129,8 @@ http://178.162.218.87:8081/andr/taina.stream/chunks.m3u8
 http://178.162.218.87:8081/andr/24doc.stream/chunks.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://91.220.135.165:81/48/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,Загородная жизнь
+http://91.205.199.7:8000/play/a0sl
 #EXTINF:-1 ,Бобёр
 http://91.196.39.252:4000/play/a01z
 #EXTINF:-1 ,ЗООПАРК
@@ -169,6 +179,8 @@ http://91.220.135.165:81/28/tracks-v1a1v1/playlist.m3u8
 http://91.220.135.165:81/30/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,ИЛЛЮЗИОН+
 http://91.220.135.165:81/51/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,Мосфильм.
+http://91.205.199.7:8000/play/a0s8
 #EXTINF:-1 ,РУССКИЙ РОМАН
 http://91.220.135.165:81/52/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
