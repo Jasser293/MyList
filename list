@@ -43,6 +43,8 @@ http://europe3.livetv.az/russia/rentv/playlist.m3u8
 http://212.0.211.102:9999/play/a00s/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://176.113.230.126:8000/play/a0j5/index.m3u8
+#EXTINF:-1 ,ТВЦ ПЛЮС
+http://178.124.179.122:8088/PlusTV/index.m3u8
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Звезда
@@ -53,8 +55,6 @@ http://45.144.31.195:8018/playlist.m3u8
 http://178.162.218.87:8081/andr/oruzhie.stream/chunks.m3u8
 #EXTINF:-1 ,ПОБЕДА
 http://176.113.230.126:8000/play/a0dq/index.m3u8
-#EXTINF:-1 ,ПЛЮС ТВ BY
-http://178.124.179.122:8088/PlusTV/index.m3u8
 #EXTINF:-1 ,РБК
 http://135.181.115.81/russia/rbc/playlist.m3u8
 #EXTINF:-1 ,5 канал
