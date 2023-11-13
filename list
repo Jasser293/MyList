@@ -8,13 +8,13 @@ http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://91.220.135.165:81/1/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,НТВ
+http://217.113.31.20:8009/play/a006/index.m3u8
+#EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
 http://91.142.158.107:8092/play/4/index.m3u8
 #EXTINF:-1 ,НТВ
 http://178.162.218.87:8081/andr/ntv.stream/chunks.m3u8
-#EXTINF:-1 ,НТВ HD
-http://217.113.31.20:8009/play/a006/index.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
 http://95.217.196.109:8081/russia/ntv_pravo/chunks.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
@@ -97,6 +97,8 @@ http://europe3.livetv.az/russia/pyatnica/playlist.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,КТО ЕСТЬ КТО
 http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
+#EXTINF:-1 ,АВТО 24
+http://176.113.230.126:8000/play/a0ig/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
