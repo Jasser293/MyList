@@ -55,6 +55,8 @@ http://91.142.158.107:8092/play/17/index.m3u8
 http://176.113.230.126:8000/play/a061/index.m3u8
 #EXTINF:-1 ,Оружие
 http://45.144.31.195:8018/playlist.m3u8
+#EXTINF:-1 ,ЗВЕЗДА HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://178.162.218.87:8081/andr/oruzhie.stream/chunks.m3u8
 #EXTINF:-1 ,ПОБЕДА
