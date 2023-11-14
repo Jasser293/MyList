@@ -105,8 +105,6 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
-#EXTINF:-1 ,АВТО 24
-https://tbs01-edge17.itdc.ge/auto24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Авто плюс
 http://178.162.218.87:8081/andr/auto.stream/chunks.m3u8
 #EXTINF:-1 ,ДРАЙВ
