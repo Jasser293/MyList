@@ -8,7 +8,7 @@ http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://91.220.135.165:81/1/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,НТВ
-http://217.113.31.20:8009/play/a006/index.m3u8
+http://91.220.135.165:81/4/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
@@ -53,8 +53,6 @@ http://91.205.199.7:8000/play/a0sb
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Звезда
 http://176.113.230.126:8000/play/a061/index.m3u8
-#EXTINF:-1 ,ЗВЕЗДА HD
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://45.144.31.195:8018/playlist.m3u8
 #EXTINF:-1 ,Оружие
