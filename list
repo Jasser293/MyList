@@ -96,7 +96,7 @@ http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Домашний
 http://178.162.218.87:8081/andr/domashniy.stream/chunks.m3u8
 #EXTINF:-1 ,Пятница HD
-https://bl.uma.media/live/317843/HLS/317843_3/1/1/playlist.m3u8
+http://91.197.104.34:8080/friday/video.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://europe3.livetv.az/russia/pyatnica/playlist.m3u8
 #EXTINF:-1 ,Суббота HD
@@ -104,9 +104,9 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,КТО ЕСТЬ КТО
 http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
-http://176.113.230.126:8000/play/a0ig/index.m3u8
-#EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
+#EXTINF:-1 ,АВТО 24
+https://tbs01-edge17.itdc.ge/auto24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Авто плюс
 http://178.162.218.87:8081/andr/auto.stream/chunks.m3u8
 #EXTINF:-1 ,ДРАЙВ
