@@ -55,6 +55,8 @@ http://176.113.230.126:8000/play/a061/index.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://45.144.31.195:8018/playlist.m3u8
+#EXTINF:-1 ,ОРУЖИЕ
+http://178.162.218.87:8081/andr/oruzhie.stream/chunks.m3u8
 #EXTINF:-1 ,ПОБЕДА
 http://176.113.230.126:8000/play/a0dq/index.m3u8
 #EXTINF:-1 ,РБК
@@ -127,6 +129,8 @@ http://91.220.135.165:81/48/tracks-v1a1v1/playlist.m3u8
 http://91.205.199.7:8000/play/a0sl
 #EXTINF:-1 ,Бобёр
 http://91.196.39.252:4000/play/a01z
+#EXTINF:-1 ,Кухня ТВ
+http://217.113.31.20:8009/play/a02r/index.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 ,Живи
