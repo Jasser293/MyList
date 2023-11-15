@@ -45,7 +45,7 @@ http://212.0.211.102:9999/play/a00s/index.m3u8
 http://95.217.196.109:8081/russia/tvc/chunks.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
-#EXTINF:-1 ,Известия
+#EXTINF:-1 ,TERRA
 http://91.205.199.7:8000/play/a0sb
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
