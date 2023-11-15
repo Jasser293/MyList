@@ -110,7 +110,7 @@ http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Моторспорт ТВ
 http://212.0.211.102:9999/play/a005/index.m3u8
 #EXTINF:-1 ,Мужской
-http://91.205.199.7:8000/play/a0sk
+https://176.222.191.62/btv/live/hls/000000286.m3u8
 #EXTINF:-1 ,Охотник и рыболов
 http://91.196.39.252:4000/play/a01p
 #EXTINF:-1 ,ДИКИЙ
