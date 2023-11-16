@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://europe3.livetv.az/russia/pervyj_kanal/playlist.m3u8
-#EXTINF:-1 ,Первый канал
-http://176.113.230.126:8000/play/a08z/index.m3u8
+http://135.181.115.81/russia/pervyj_kanal/playlist.m3u8
+#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
+https://92.54.205.157/ort/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
@@ -23,8 +23,8 @@ http://95.217.196.109:8081/russia/ntv_stil/chunks.m3u8
 http://95.217.196.109:8081/russia/ntv_hit/chunks.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 http://95.217.196.109:8081/russia/ntv_serial/chunks.m3u8
-#EXTINF:-1 ,Россия 1
-http://176.113.230.126:8000/play/a0dc/index.m3u8
+#EXTINF:-1 ,РОССИЯ 1
+http://135.181.115.81/russia/rossiya_1/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://91.220.135.165:81/2/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
@@ -49,16 +49,16 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 http://92.100.39.32:2289/play/a04h/index.m3u8
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
-#EXTINF:-1 ,Звезда
-http://176.113.230.126:8000/play/a061/index.m3u8
+#EXTINF:-1 ,ЗВЕЗДА
+http://91.197.104.34:8080/zvezda/video.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://45.144.31.195:8018/playlist.m3u8
 #EXTINF:-1 ,ОРУЖИЕ
 https://92.54.205.157/oruzhie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ПОБЕДА
-http://176.113.230.126:8000/play/a0dq/index.m3u8
+#EXTINF:-1 ,Победа
+http://217.113.31.20:8009/play/a01i/index.m3u8
 #EXTINF:-1 ,РБК
 http://135.181.115.81/russia/rbc/playlist.m3u8
 #EXTINF:-1 ,5 канал
