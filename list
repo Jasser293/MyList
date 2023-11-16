@@ -13,8 +13,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 http://91.220.135.165:81/4/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,НТВ
 http://91.142.158.107:8092/play/4/index.m3u8
-#EXTINF:-1 ,НТВ
-http://178.162.218.87:8081/andr/ntv.stream/chunks.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
 http://95.217.196.109:8081/russia/ntv_pravo/chunks.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
@@ -67,18 +65,12 @@ http://91.142.158.107:8092/play/5/index.m3u8
 http://europe3.livetv.az/russia/5kanal/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
-#EXTINF:-1 ,ТНТ4
-http://178.162.218.87:8081/andr/comedytv.stream/chunks.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:-1 ,СТС
 http://91.142.158.107:8092/play/13/index.m3u8
-#EXTINF:-1 ,СТС
-http://178.162.218.87:8081/andr/sts.stream/chunks.m3u8
-#EXTINF:-1 ,СТС Love
-http://178.162.218.87:8081/andr/stslove.stream/chunks.m3u8
 #EXTINF:-1 ,СТС Love
 http://91.220.135.165:81/59/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,МИР
@@ -91,8 +83,6 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 http://178.163.73.107:81/udp/234.0.0.229:2000
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Домашний
-http://178.162.218.87:8081/andr/domashniy.stream/chunks.m3u8
 #EXTINF:-1 ,Пятница HD
 http://91.197.104.34:8080/friday/video.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -119,10 +109,6 @@ http://91.220.135.165:81/36/tracks-v1a1v1/playlist.m3u8
 http://91.220.135.165:81/37/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,САРАФАН
 http://91.220.135.165:81/38/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,Тайна
-http://178.162.218.87:8081/andr/taina.stream/chunks.m3u8
-#EXTINF:-1 ,Доктор
-http://178.162.218.87:8081/andr/24doc.stream/chunks.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://91.220.135.165:81/48/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Загородная жизнь
@@ -239,8 +225,6 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,KHL
 http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,KHL
-http://178.162.218.87:8081/andr/khl.stream/chunks.m3u8
 #EXTINF:-1 ,Viasat Sport HD
 http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Viji Sport HD
