@@ -53,8 +53,6 @@ http://91.142.158.107:8092/play/17/index.m3u8
 http://91.197.104.34:8080/zvezda/video.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 ,Оружие
-http://45.144.31.195:8018/playlist.m3u8
 #EXTINF:-1 ,ОРУЖИЕ
 https://92.54.205.157/oruzhie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Победа
