@@ -8,6 +8,8 @@ http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://91.220.135.165:81/1/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,НТВ
+http://217.113.31.20:8009/play/a006/index.m3u8
+#EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
 http://91.220.135.165:81/4/tracks-v1a1v1/playlist.m3u8
@@ -64,13 +66,19 @@ http://91.142.158.107:8092/play/5/index.m3u8
 #EXTINF:-1 ,5 КАНАЛ
 http://europe3.livetv.az/russia/5kanal/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
+http://217.113.31.20:8009/play/a02i/index.m3u8
+#EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 ,ТНТ
+http://217.113.31.20:8009/play/a00p/index.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:-1 ,СТС
 http://91.142.158.107:8092/play/13/index.m3u8
+#EXTINF:-1 ,СТС
+http://217.113.31.20:8009/play/a00n/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://91.220.135.165:81/59/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,МИР
@@ -83,6 +91,8 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 http://178.163.73.107:81/udp/234.0.0.229:2000
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Домашний
+http://95.217.196.109:8081/russia/domashniy/chunks.m3u8
 #EXTINF:-1 ,Пятница HD
 http://91.197.104.34:8080/friday/video.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -119,6 +129,8 @@ http://91.196.39.252:4000/play/a01z
 http://217.113.31.20:8009/play/a02r/index.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
+#EXTINF:-1 ,Доктор
+http://217.113.31.20:8009/play/a02k/index.m3u8
 #EXTINF:-1 ,Живи
 http://212.0.211.102:9999/play/a00c/index.m3u8
 #EXTINF:-1 ,ЖАРА
