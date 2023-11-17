@@ -56,7 +56,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,ОРУЖИЕ
 https://92.54.205.157/oruzhie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Оружие
-https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
+http://45.144.31.195:8018/playlist.m3u8
 #EXTINF:-1 ,РБК
 http://135.181.115.81/russia/rbc/playlist.m3u8
 #EXTINF:-1 ,5 канал
