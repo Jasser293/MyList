@@ -8,7 +8,7 @@ http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://91.220.135.165:81/1/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,НТВ
-http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+http://176.107.250.4:8001/ch4
 #EXTINF:-1 ,НТВ
 http://91.220.135.165:81/4/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,НТВ
