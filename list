@@ -130,7 +130,7 @@ http://45.144.31.195:8004/playlist.m3u8
 #EXTINF:-1 ,Живи
 http://212.0.211.102:9999/play/a00c/index.m3u8
 #EXTINF:-1 ,ЖАРА
-http://95.217.196.109:8081/russia/zhara/chunks.m3u8
+http://92.100.39.32:2289/play/Zhara/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://95.217.196.109:8081/russia/tntmusic/chunks.m3u8
 #EXTINF:-1 ,МУЗ ТВ
