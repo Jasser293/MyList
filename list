@@ -121,8 +121,6 @@ http://91.205.199.7:8000/play/a0sl
 http://91.196.39.252:4000/play/a01z
 #EXTINF:-1 ,Кухня ТВ
 http://92.100.39.32:2289/play/KuhnyaTV/index.m3u8
-#EXTINF:-1 ,Еда HD
-http://162.19.186.142/lb0/edahd/video.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -143,24 +141,10 @@ http://91.196.39.252:4000/play/a008
 http://91.196.39.252:4000/play/a01l
 #EXTINF:-1 ,ANIMAL PLANET HD
 http://europe3.livetv.az/russia/animal_planet/playlist.m3u8
-#EXTINF:-1 ,Animal Planet HD
-http://162.19.186.142/lb0/Animal_Planet/video.m3u8
 #EXTINF:-1 ,National Geographic
 http://europe3.livetv.az/russia/nat_geo/playlist.m3u8
 #EXTINF:-1 ,NAT GEO WILD
 http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
-#EXTINF:-1 ,Viasat Explore
-http://162.19.186.142/lb0/Viasat_Explorer/video.m3u8
-#EXTINF:-1 ,Viasat History
-http://162.19.186.142/lb0/Viasat_History/video.m3u8
-#EXTINF:-1 ,Viasat History HD
-http://162.19.186.142/lb0/viasathistoryhd/video.m3u8
-#EXTINF:-1 ,Viasat Nature
-http://162.19.186.142/lb0/Viasat_Nature/video.m3u8
-#EXTINF:-1 ,Viasat Nature HD
-http://162.19.186.142/lb0/ViasatNatureHD/video.m3u8
-#EXTINF:-1 ,Travel Channel HD
-http://162.19.186.142/lb0/Travel_Channel_HD/video.m3u8
 #EXTINF:-1 ,КИНОМИКС
 http://91.220.135.165:81/22/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
