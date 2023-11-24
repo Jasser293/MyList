@@ -51,8 +51,6 @@ http://91.142.158.107:8092/play/17/index.m3u8
 http://176.107.250.4:8001/ch17
 #EXTINF:-1 ,ЗВЕЗДА HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 ,Звезда плюс
-http://162.19.186.142/lb0/Zvezda_Plus/video.m3u8
 #EXTINF:-1 ,ОРУЖИЕ
 http://176.107.250.4:8002/ch45
 #EXTINF:-1 ,Оружие
