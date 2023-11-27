@@ -104,7 +104,7 @@ http://91.196.39.252:4000/play/a01j
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Моторспорт ТВ
-http://92.100.39.32:2289/play/a08n/index.m3u8
+https://mhd116.iptv2022.com/p/wg8krcRey7OWUiXQ1nXG_w,1701118818/streaming/motosport/324/1/index.m3u8
 #EXTINF:-1 ,Мужской
 https://176.222.191.62/btv/live/hls/000000286.m3u8
 #EXTINF:-1 ,Охотник и рыболов
@@ -118,7 +118,7 @@ http://91.220.135.165:81/38/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://91.220.135.165:81/48/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Загородная жизнь
-http://91.205.199.7:8000/play/a0sl
+http://217.107.34.114:8009/playlist.m3u8
 #EXTINF:-1 ,Бобёр
 http://91.196.39.252:4000/play/a01z
 #EXTINF:-1 ,Кухня ТВ
@@ -127,8 +127,6 @@ http://91.196.39.252:4000/play/a022
 http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 ,Доктор
 http://45.144.31.195:8004/playlist.m3u8
-#EXTINF:-1 ,ЖАРА
-http://92.100.39.32:2289/play/Zhara/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://95.217.196.109:8081/russia/tntmusic/chunks.m3u8
 #EXTINF:-1 ,МУЗ ТВ
