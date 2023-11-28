@@ -2,7 +2,7 @@
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://135.181.115.81/russia/pervyj_kanal/playlist.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-https://92.54.205.157/ort/tracks-v1a1/mono.m3u8
+http://176.107.250.4:8001/ch1
 #EXTINF:-1 ,Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
