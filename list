@@ -27,6 +27,8 @@ http://91.220.135.165:81/2/tracks-v1a1v1/playlist.m3u8
 https://176.222.191.62/btv/live/hls/000000812.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://135.181.115.81/russia/rossiya24/playlist.m3u8
+#EXTINF:-1 ,РОССИЯ К
+http://81.177.197.13:8000/play/a005/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://81.177.197.13:8000/play/a00a/index.m3u8
 #EXTINF:-1 ,Рен ТВ
