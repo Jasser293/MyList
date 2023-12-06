@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://135.181.115.81/russia/pervyj_kanal/playlist.m3u8
+#EXTINF:-1 ,Первый канал
+http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://81.177.197.13:8000/play/a001/index.m3u8
 #EXTINF:-1 ,Первый канал
@@ -11,6 +13,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 http://91.220.135.165:81/4/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,НТВ
 http://91.142.158.107:8092/play/4/index.m3u8
+#EXTINF:-1 ,НТВ
+http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
 http://95.217.196.109:8081/russia/ntv_pravo/chunks.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
@@ -23,6 +27,8 @@ http://95.217.196.109:8081/russia/ntv_serial/chunks.m3u8
 http://135.181.115.81/russia/rossiya_1/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://91.220.135.165:81/2/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,Россия 1
+http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
 https://176.222.191.62/btv/live/hls/000000812.m3u8
 #EXTINF:-1 ,РОССИЯ 24
@@ -35,6 +41,8 @@ http://81.177.197.13:8000/play/a00a/index.m3u8
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://europe3.livetv.az/russia/rentv/playlist.m3u8
+#EXTINF:-1 ,РЕН ТВ
+http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,ТВЦ
 http://95.217.196.109:8081/russia/tvc/chunks.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -45,6 +53,8 @@ http://95.217.196.109:8081/russia/izvestiya/chunks.m3u8
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Звезда
 http://81.177.197.13:8000/play/a00g/index.m3u8
+#EXTINF:-1 ,Звезда
+http://dmi3y-tv.ru/hls/T2/CH_ZVEZDA.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
@@ -57,20 +67,28 @@ http://135.181.115.81/russia/rbc/playlist.m3u8
 http://91.142.158.107:8092/play/5/index.m3u8
 #EXTINF:-1 ,5 КАНАЛ
 http://europe3.livetv.az/russia/5kanal/playlist.m3u8
+#EXTINF:-1 ,Пятый канал
+http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 #EXTINF:-1 ,ПЕРЕЦ
 http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ
 http://91.220.135.165:81/19/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,ТНТ
+http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
+#EXTINF:-1 ,ТВ3
+http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 #EXTINF:-1 ,СТС
 http://91.142.158.107:8092/play/13/index.m3u8
 #EXTINF:-1 ,СТС
 http://91.220.135.165:81/13/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,СТС
+http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://91.220.135.165:81/59/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,МИР
@@ -85,8 +103,12 @@ http://178.163.73.107:81/udp/234.0.0.229:2000
 http://81.177.197.13:8000/play/a00d/index.m3u8
 #EXTINF:-1 ,Домашний
 http://95.217.196.109:8081/russia/domashniy/chunks.m3u8
+#EXTINF:-1 ,Домашний
+http://dmi3y-tv.ru/hls/T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://europe3.livetv.az/russia/pyatnica/playlist.m3u8
+#EXTINF:-1 ,Пятница
+http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
 #EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,КТО ЕСТЬ КТО
