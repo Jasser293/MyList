@@ -41,6 +41,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 http://95.217.196.109:8081/russia/izvestiya/chunks.m3u8
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
+#EXTINF:-1 ,Звезда
+http://81.177.197.13:8000/play/a00g/index.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
@@ -87,6 +89,8 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
+#EXTINF:-1 ,АВТО ПЛЮС
+http://iptv.mega.net.ru:8888/Avto_Plus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Мужской
@@ -97,6 +101,10 @@ http://91.220.135.165:81/36/tracks-v1a1v1/playlist.m3u8
 http://91.220.135.165:81/38/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,УСАДЬБА
 http://91.220.135.165:81/48/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 ,Бобёр
+http://iptv.mega.net.ru:8888/BOBER/index.m3u8
+#EXTINF:-1 ,КУХНЯ ТВ
+http://iptv.mega.net.ru:8888/kuhnya_tv/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://217.107.34.114:8009/playlist.m3u8
 #EXTINF:-1 ,ЗООПАРК
@@ -137,6 +145,8 @@ http://91.220.135.165:81/55/tracks-v1a1v1/playlist.m3u8
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,МОСФИЛЬМ. Золотая коллекция
 http://europe3.livetv.az/russia/mosfilm/playlist.m3u8
+#EXTINF:-1 ,МУЖСКОЕ КИНО
+http://95.217.196.109:8081/russia/mujskoe_kino/chunks.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 ,TV 1000
@@ -155,6 +165,8 @@ http://europe3.livetv.az/russia/nashe_novoe_kino/playlist.m3u8
 http://europe3.livetv.az/russia/amedia2/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
+#EXTINF:-1 ,Eurosport 2
+https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
 #EXTINF:-1 ,Матч! Премьер
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Планета
