@@ -10,8 +10,6 @@ http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
-http://91.220.135.165:81/4/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,НТВ
 http://91.142.158.107:8092/play/4/index.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
@@ -25,8 +23,6 @@ http://95.217.196.109:8081/russia/ntv_hit/chunks.m3u8
 http://95.217.196.109:8081/russia/ntv_serial/chunks.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://135.181.115.81/russia/rossiya_1/playlist.m3u8
-#EXTINF:-1 ,РОССИЯ 1
-http://91.220.135.165:81/2/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
@@ -74,8 +70,6 @@ http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ
-http://91.220.135.165:81/19/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,ТНТ
 http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
@@ -86,11 +80,7 @@ http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 #EXTINF:-1 ,СТС
 http://91.142.158.107:8092/play/13/index.m3u8
 #EXTINF:-1 ,СТС
-http://91.220.135.165:81/13/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
-#EXTINF:-1 ,СТС Love
-http://91.220.135.165:81/59/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://95.217.196.109:8081/russia/mir/chunks.m3u8
 #EXTINF:-1 ,Твоё ТВ
@@ -121,12 +111,6 @@ http://iptv.mega.net.ru:8888/Avto_Plus/index.m3u8
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Мужской
 https://176.222.191.62/btv/live/hls/000000286.m3u8
-#EXTINF:-1 ,ДИКИЙ
-http://91.220.135.165:81/36/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,САРАФАН
-http://91.220.135.165:81/38/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,УСАДЬБА
-http://91.220.135.165:81/48/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Бобёр
 http://iptv.mega.net.ru:8888/BOBER/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
@@ -149,24 +133,6 @@ http://europe3.livetv.az/russia/animal_planet/playlist.m3u8
 http://europe3.livetv.az/russia/nat_geo/playlist.m3u8
 #EXTINF:-1 ,NAT GEO WILD
 http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
-#EXTINF:-1 ,КИНОМИКС
-http://91.220.135.165:81/22/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,КИНОКОМЕДИЯ
-http://91.220.135.165:81/25/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,Cinema
-http://91.220.135.165:81/28/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,ЕВРОКИНО
-http://91.220.135.165:81/30/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,ИЛЛЮЗИОН+
-http://91.220.135.165:81/51/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,РУССКИЙ РОМАН
-http://91.220.135.165:81/52/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
-http://91.220.135.165:81/53/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,РУССКИЙ БЕСТСЕЛЛЕР
-http://91.220.135.165:81/54/tracks-v1a1v1/playlist.m3u8
-#EXTINF:-1 ,КИНО ТВ
-http://91.220.135.165:81/55/tracks-v1a1v1/playlist.m3u8
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,МОСФИЛЬМ. Золотая коллекция
@@ -205,10 +171,6 @@ http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/132838/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Игра
 http://bl.uma.media/live/154036/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,Матч! ФУТБОЛ 1
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 ,Матч! ФУТБОЛ 2
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! ФУТБОЛ 3
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,KHL
