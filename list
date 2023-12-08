@@ -8,9 +8,11 @@ http://81.177.197.13:8000/play/a001/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,НТВ
+http://91.142.158.107:8092/play/4/index.m3u8
+#EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
-http://91.142.158.107:8092/play/4/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
@@ -23,6 +25,8 @@ http://95.217.196.109:8081/russia/ntv_hit/chunks.m3u8
 http://95.217.196.109:8081/russia/ntv_serial/chunks.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://135.181.115.81/russia/rossiya_1/playlist.m3u8
+#EXTINF:-1 ,РОССИЯ 1
+http://81.177.197.13:8000/play/a00k/index.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
@@ -67,12 +71,14 @@ http://europe3.livetv.az/russia/5kanal/playlist.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 #EXTINF:-1 ,ПЕРЕЦ
 http://178.124.179.122:8088/Peretz/index.m3u8
-#EXTINF:-1 ,ТНТ4
-https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 ,ТНТ
+http://81.177.197.13:8000/play/a00i/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,ТНТ4
+https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 ,ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -111,6 +117,8 @@ http://iptv.mega.net.ru:8888/Avto_Plus/index.m3u8
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Мужской
 https://176.222.191.62/btv/live/hls/000000286.m3u8
+#EXTINF:-1 ,Усадьба
+http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
 #EXTINF:-1 ,Бобёр
 http://iptv.mega.net.ru:8888/BOBER/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
@@ -133,12 +141,22 @@ http://europe3.livetv.az/russia/animal_planet/playlist.m3u8
 http://europe3.livetv.az/russia/nat_geo/playlist.m3u8
 #EXTINF:-1 ,NAT GEO WILD
 http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
+#EXTINF:-1 ,Кино и сериалы
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1 ,Мелодрамы
+http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
+#EXTINF:-1 ,ОКИНО
+http://dmi3y-tv.ru/hls/CH_OKIHO.m3u8
+#EXTINF:-1 ,Русский бестселлер
+http://dmi3y-tv.ru/hls/CH_RUSSKIY_BESTSELLER.m3u8
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,МОСФИЛЬМ. Золотая коллекция
 http://europe3.livetv.az/russia/mosfilm/playlist.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://95.217.196.109:8081/russia/mujskoe_kino/chunks.m3u8
+#EXTINF:-1 ,НАШЕ ЛЮБИМОЕ КИНО
+https://176.222.191.62/btv/live/hls/000000283.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 ,TV 1000
