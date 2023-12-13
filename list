@@ -143,6 +143,26 @@ http://95.217.196.109:8081/russia/tntmusic/chunks.m3u8
 http://95.217.196.109:8081/russia/muz_tv/chunks.m3u8
 #EXTINF:-1 ,ШАНСОН ТВ
 http://europe3.livetv.az/russia/shanson/playlist.m3u8
+#EXTINF:-1,TERRA
+http://217.25.80.28:8888/National_Geographic/index.m3u8
+#EXTINF:-1,НАНО ТВ
+http://217.25.80.28:8888/nano/index.m3u8
+#EXTINF:-1,BIG PLANET
+http://217.25.80.28:8888/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://217.25.80.28:8888/Viasat_Nature/index.m3u8
+#EXTINF:-1,Viasat Explore
+http://217.25.80.28:8888/Viasat_Explorer/index.m3u8
+#EXTINF:-1,Viasat History
+http://217.25.80.28:8888/Viasat_History/index.m3u8
+#EXTINF:-1,Galaxy TV
+http://217.25.80.28:8888/Galaxy_TV/index.m3u8
+#EXTINF:-1,НАУКА
+http://217.25.80.28:8888/Nauka_2_0/index.m3u8
+#EXTINF:-1,ТЕХНО 24
+http://217.25.80.28:8888/24_Tehno/index.m3u8
+#EXTINF:-1,Ocean TV
+http://217.25.80.28:8888/Ocean_TV/index.m3u8
 #EXTINF:-1 ,ANIMAL PLANET HD
 http://europe3.livetv.az/russia/animal_planet/playlist.m3u8
 #EXTINF:-1 ,National Geographic
