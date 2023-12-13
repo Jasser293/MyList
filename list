@@ -3,8 +3,6 @@
 http://135.181.115.81/russia/pervyj_kanal/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://81.177.197.13:8000/play/a001/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,Первый канал (Евразия)
@@ -35,8 +33,6 @@ http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 http://95.217.196.109:8081/russia/ntv_serial/chunks.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://135.181.115.81/russia/rossiya_1/playlist.m3u8
-#EXTINF:-1 ,РОССИЯ 1
-http://81.177.197.13:8000/play/a00k/index.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,РОССИЯ РТР
@@ -45,10 +41,6 @@ https://176.222.191.62/btv/live/hls/000000812.m3u8
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://135.181.115.81/russia/rossiya24/playlist.m3u8
-#EXTINF:-1 ,РОССИЯ К
-http://81.177.197.13:8000/play/a005/index.m3u8
-#EXTINF:-1 ,РЕН ТВ
-http://81.177.197.13:8000/play/a00a/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
@@ -70,13 +62,9 @@ http://dmi3y-tv.ru/hls/blrus/CH_STVHD720.m3u8
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Звезда
-http://81.177.197.13:8000/play/a00g/index.m3u8
-#EXTINF:-1 ,Звезда
 http://dmi3y-tv.ru/hls/T2/CH_ZVEZDA.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 ,Оружие
-http://178.124.179.122:8088/Oruzhie/index.m3u8
 #EXTINF:-1 ,ОРУЖИЕ
 https://ucdn.beetv.kz/btv/live/hls/000000308.m3u8
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
@@ -89,10 +77,6 @@ http://91.142.158.107:8092/play/5/index.m3u8
 http://europe3.livetv.az/russia/5kanal/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
 http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
-#EXTINF:-1 ,ПЕРЕЦ
-http://178.124.179.122:8088/Peretz/index.m3u8
-#EXTINF:-1 ,ТНТ
-http://81.177.197.13:8000/play/a00i/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ HD
@@ -115,8 +99,6 @@ http://tvoetv.space:8080/tvoetv/video.m3u8
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Ю
 http://178.163.73.107:81/udp/234.0.0.229:2000
-#EXTINF:-1 ,ДОМАШНИЙ
-http://81.177.197.13:8000/play/a00d/index.m3u8
 #EXTINF:-1 ,Домашний
 http://95.217.196.109:8081/russia/domashniy/chunks.m3u8
 #EXTINF:-1 ,Домашний
@@ -199,6 +181,8 @@ http://europe3.livetv.az/russia/amedia2/playlist.m3u8
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 2
 https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
+#EXTINF:-1 ,Беларусь 5
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
 http://dmi3y-tv.ru/hls/CH_KONNYMIR.m3u8
 #EXTINF:-1 ,Матч! Премьер
