@@ -55,8 +55,6 @@ http://95.217.196.109:8081/russia/tvc/chunks.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,Известия
 http://95.217.196.109:8081/russia/izvestiya/chunks.m3u8
-#EXTINF:-1 ,Беларусь 1
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
 #EXTINF:-1 ,СТВ
