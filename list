@@ -41,6 +41,8 @@ https://176.222.191.62/btv/live/hls/000000812.m3u8
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://135.181.115.81/russia/rossiya24/playlist.m3u8
+#EXTINF:-1,РЕН ТВ
+http://217.25.80.28:8888/REN_TV/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
