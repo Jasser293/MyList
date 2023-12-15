@@ -115,6 +115,8 @@ http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,КТО ЕСТЬ КТО
 http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
+#EXTINF:-1 ,Авто 24
+http://5.153.180.30:8000/play/a01q
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:-1 ,АВТО ПЛЮС
