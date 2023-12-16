@@ -277,12 +277,84 @@ http://europe3.livetv.az/russia/nashe_novoe_kino/playlist.m3u8
 http://europe3.livetv.az/russia/amedia2/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://5.153.180.30:8000/play/a06z
+#EXTINF:-1 ,Eurosport 1 HD
+http://5.153.180.30:8000/play/a070
 #EXTINF:-1 ,Eurosport 2
 https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://5.153.180.30:8000/play/a071
+#EXTINF:-1 ,Eurosport 2 HD
+http://5.153.180.30:8000/play/a072
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
 http://dmi3y-tv.ru/hls/CH_KONNYMIR.m3u8
+#EXTINF:-1 ,Extreme Sports
+http://5.153.180.30:8000/play/a00j
+#EXTINF:-1 ,MMA-TV.com
+http://5.153.180.30:8000/play/a00w
+#EXTINF:-1 ,Спортивный HD
+http://5.153.180.30:8000/play/a079
+#EXTINF:-1 ,Старт
+http://5.153.180.30:8000/play/a054
+#EXTINF:-1 ,Viasat Sport
+http://5.153.180.30:8000/play/a01k
+#EXTINF:-1 ,Trace Sport Stars
+http://5.153.180.30:8000/play/a03o
+#EXTINF:-1 ,Russian Extreme HD
+http://5.153.180.30:8000/play/a073
+#EXTINF:-1 ,Russian Extreme Ultra
+http://5.153.180.30:8003/play/a074
+#EXTINF:-1 ,KHL
+http://5.153.180.30:8003/play/a02j
+#EXTINF:-1 ,KHL Prime HD
+http://5.153.180.30:8000/play/a025
+#EXTINF:-1 ,SAN PORTO
+http://5.153.180.30:8000/play/a083
+#EXTINF:-1 ,Матч!
+http://5.153.180.30:8000/play/a034
+#EXTINF:-1 ,Матч! HD
+http://5.153.180.30:8003/play/a035
+#EXTINF:-1 ,Матч! Арена
+http://5.153.180.30:8003/play/a036
+#EXTINF:-1 ,Матч! Арена HD
+http://5.153.180.30:8000/play/a037
+#EXTINF:-1 ,Матч! Боец
+http://5.153.180.30:8000/play/a01u
+#EXTINF:-1 ,Матч! Боец HD
+http://5.153.180.30:8000/play/a039
+#EXTINF:-1 ,Матч! Игра
+http://5.153.180.30:8000/play/a0ao
+#EXTINF:-1 ,Матч! Игра HD
+http://5.153.180.30:8003/play/a03a
+#EXTINF:-1 ,Матч! Планета
+http://5.153.180.30:8000/play/a077
+#EXTINF:-1 ,Матч! Премьер
+http://5.153.180.30:8000/play/a03b
+#EXTINF:-1 ,Матч! Премьер HD
+http://5.153.180.30:8000/play/a033
+#EXTINF:-1 ,Матч! Страна
+http://5.153.180.30:8000/play/a03c
+#EXTINF:-1 ,Матч! Страна HD
+http://5.153.180.30:8000/play/a03d
+#EXTINF:-1 ,Матч! Футбол 1
+http://5.153.180.30:8003/play/a03e
+#EXTINF:-1 ,Матч! Футбол 1 HD
+http://5.153.180.30:8000/play/a03f
+#EXTINF:-1 ,Матч! Футбол 2
+http://5.153.180.30:8000/play/a03g
+#EXTINF:-1 ,Матч! Футбол 2 HD
+http://5.153.180.30:8000/play/a03h
+#EXTINF:-1 ,Матч! Футбол 3
+http://5.153.180.30:8000/play/a03i
+#EXTINF:-1 ,Матч! Футбол 3 HD
+http://5.153.180.30:8000/play/a03j
+#EXTINF:-1 ,Футбол
+http://5.153.180.30:8000/play/a07a
+#EXTINF:-1 ,Бокс ТВ
+http://5.153.180.30:8000/play/a01v
 #EXTINF:-1 ,Матч! Премьер
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Планета
