@@ -267,9 +267,9 @@ http://95.217.196.109:8081/russia/tv1000_action/chunks.m3u8
 http://europe3.livetv.az/russia/tv1000_russkoe_kino/playlist.m3u8
 #EXTINF:-1 ,FILM BOX
 http://dmi3y-tv.ru/hls/CH_FILMBOX.m3u8
-#EXTINF:-1 ,VIJU COMEDY HD
+#EXTINF:-1 ,COMEDY HD
 http://europe3.livetv.az/russia/vip_comedy/playlist.m3u8
-#EXTINF:-1 ,VIJU PREMIERE HD
+#EXTINF:-1 ,PREMIERE HD
 http://europe3.livetv.az/russia/vip_premiere/playlist.m3u8
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
 http://europe3.livetv.az/russia/nashe_novoe_kino/playlist.m3u8
