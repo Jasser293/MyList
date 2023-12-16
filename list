@@ -17,12 +17,16 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF:-1 ,НТВ Право
+http://5.153.180.30:8000/play/a042
 #EXTINF:-1 ,НТВ СТИЛЬ
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 http://95.217.196.109:8081/russia/ntv_stil/chunks.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
+#EXTINF:-1 ,НТВ Хит
+http://5.153.180.30:8000/play/a045
 #EXTINF:-1 ,НТВ СЕРИАЛ
 http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
@@ -37,6 +41,10 @@ https://176.222.191.62/btv/live/hls/000000812.m3u8
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://135.181.115.81/russia/rossiya24/playlist.m3u8
+#EXTINF:-1 ,Россия К
+http://5.153.180.30:8000/play/a04t
+#EXTINF:-1 ,РЕН ТВ
+http://5.153.180.30:8003/play/a04m
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
@@ -113,16 +121,24 @@ http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
 http://5.153.180.30:8000/play/a01q
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
+#EXTINF:-1 ,Авто Плюс
+http://5.153.180.30:8000/play/a01r
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
+#EXTINF:-1 ,Моторспорт ТВ
+http://5.153.180.30:8000/play/a03r
 #EXTINF:-1 ,Red Bull TV
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 ,Мужской
 https://176.222.191.62/btv/live/hls/000000286.m3u8
 #EXTINF:-1 ,Усадьба
 http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
+#EXTINF:-1 ,Бобер
+http://5.153.180.30:8000/play/a01t
 #EXTINF:-1 ,Загородная жизнь
 http://217.107.34.114:8009/playlist.m3u8
+#EXTINF:-1 ,КУХНЯ ТВ
+https://tbs01-edge17.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -139,6 +155,94 @@ http://europe3.livetv.az/russia/animal_planet/playlist.m3u8
 http://europe3.livetv.az/russia/nat_geo/playlist.m3u8
 #EXTINF:-1 ,NAT GEO WILD
 http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
+#EXTINF:-1 ,DTX HD
+http://5.153.180.30:8002/play/a0c3
+#EXTINF:-1 ,HD Life
+http://5.153.180.30:8000/play/a00t
+#EXTINF:-1 ,ID Investigation Discovery
+http://5.153.180.30:8000/play/a06l
+#EXTINF:-1 ,ID Investigation Discovery HD
+http://5.153.180.30:8002/play/a0c4
+#EXTINF:-1 ,Ocean TV
+http://5.153.180.30:8000/play/a09a
+#EXTINF:-1 ,Travel Channel HD
+http://5.153.180.30:8002/play/a0c1
+#EXTINF:-1 ,Travel+Adventure
+http://5.153.180.30:8000/play/a01d
+#EXTINF:-1 ,Viasat Explore
+http://5.153.180.30:8000/play/a01h
+#EXTINF:-1 ,Viasat History
+http://5.153.180.30:8002/play/a09o
+#EXTINF:-1 ,Viasat Nature
+http://5.153.180.30:8002/play/a01i
+#EXTINF:-1 ,Viasat Nature/History HD
+http://5.153.180.30:8000/play/a01j
+#EXTINF:-1 ,Большая Азия
+http://5.153.180.30:8000/play/a06p
+#EXTINF:-1 ,В мире животных HD
+http://5.153.180.30:8000/play/a06q
+#EXTINF:-1 ,Глазами туриста HD
+http://5.153.180.30:8002/play/a09z
+#EXTINF:-1 ,Диалоги о рыбалке
+http://5.153.180.30:8000/play/a01z
+#EXTINF:-1 ,Дикая охота HD
+http://5.153.180.30:8000/play/a020
+#EXTINF:-1 ,Дикая рыбалка HD
+http://5.153.180.30:8000/play/a021
+#EXTINF:-1 ,Дикий
+http://5.153.180.30:8003/play/a022
+#EXTINF:-1 ,Живая планета
+http://5.153.180.30:8000/play/a02c
+#EXTINF:-1 ,Живая природа HD
+http://5.153.180.30:8000/play/a0a5
+#EXTINF:-1 ,История
+http://5.153.180.30:8002/play/a02h
+#EXTINF:-1 ,Моя Планета
+http://5.153.180.30:8000/play/a03s
+#EXTINF:-1 ,Моя Планета HD
+http://5.153.180.30:8000/play/a0as
+#EXTINF:-1 ,Нано ТВ
+http://5.153.180.30:8000/play/a086
+#EXTINF:-1 ,Наука 2.0
+http://5.153.180.30:8000/play/a046
+#EXTINF:-1 ,Наука 2.0 HD
+http://5.153.180.30:8002/play/a0az
+#EXTINF:-1 ,Охота и рыбалка
+http://5.153.180.30:8003/play/a04d
+#EXTINF:-1 ,Охотник и рыболов HD
+http://5.153.180.30:8000/play/a07t
+#EXTINF:-1 ,Первый вегетарианский
+http://5.153.180.30:8000/play/a0b1
+#EXTINF:-1 ,Первый космический HD
+http://5.153.180.30:8000/play/a06v
+#EXTINF:-1 ,Поехали!
+http://5.153.180.30:8002/play/a04i
+#EXTINF:-1 ,Приключения HD
+http://5.153.180.30:8000/play/a06w
+#EXTINF:-1 ,Рыболов
+http://5.153.180.30:8000/play/a07w
+#EXTINF:-1 ,Моя стихия
+http://5.153.180.30:8000/play/a0at
+#EXTINF:-1 ,Insight UHD
+http://5.153.180.30:8000/play/a06m
+#EXTINF:-1 ,HGTV HD
+http://5.153.180.30:8002/play/a0c2
+#EXTINF:-1 ,Big Planet
+http://5.153.180.30:8000/play/a08g
+#EXTINF:-1 ,RTG HD
+http://5.153.180.30:8000/play/a015
+#EXTINF:-1 ,RTG TV
+http://5.153.180.30:8000/play/a06n
+#EXTINF:-1 ,TERRA
+http://5.153.180.30:8000/play/a011
+#EXTINF:-1 ,TERRA HD
+http://5.153.180.30:8000/play/a012
+#EXTINF:-1 ,Телепутешествия
+http://5.153.180.30:8002/play/a06y
+#EXTINF:-1 ,Техно 24
+http://5.153.180.30:8000/play/a002
+#EXTINF:-1 ,ТНВ-Планета
+http://5.153.180.30:8000/play/a0bk
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Мелодрамы
@@ -163,9 +267,9 @@ http://95.217.196.109:8081/russia/tv1000_action/chunks.m3u8
 http://europe3.livetv.az/russia/tv1000_russkoe_kino/playlist.m3u8
 #EXTINF:-1 ,FILM BOX
 http://dmi3y-tv.ru/hls/CH_FILMBOX.m3u8
-#EXTINF:-1 ,VIP COMEDY HD
+#EXTINF:-1 ,VIJU COMEDY HD
 http://europe3.livetv.az/russia/vip_comedy/playlist.m3u8
-#EXTINF:-1 ,VIP PREMIERE HD
+#EXTINF:-1 ,VIJU PREMIERE HD
 http://europe3.livetv.az/russia/vip_premiere/playlist.m3u8
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
 http://europe3.livetv.az/russia/nashe_novoe_kino/playlist.m3u8
@@ -195,10 +299,6 @@ http://bl.uma.media/live/154036/HLS/4614144_3/2/1/playlist.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,KHL
 http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,Viasat Sport HD
-http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,Viji Sport HD
-https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Боец
