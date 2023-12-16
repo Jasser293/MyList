@@ -277,16 +277,8 @@ http://europe3.livetv.az/russia/nashe_novoe_kino/playlist.m3u8
 http://europe3.livetv.az/russia/amedia2/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
-#EXTINF:-1 ,Eurosport 1
-http://5.153.180.30:8000/play/a06z
-#EXTINF:-1 ,Eurosport 1 HD
-http://5.153.180.30:8000/play/a070
 #EXTINF:-1 ,Eurosport 2
 https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://5.153.180.30:8000/play/a071
-#EXTINF:-1 ,Eurosport 2 HD
-http://5.153.180.30:8000/play/a072
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
