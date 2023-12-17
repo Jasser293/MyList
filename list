@@ -48,8 +48,6 @@ http://5.153.180.30:8003/play/a04m
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://europe3.livetv.az/russia/rentv/playlist.m3u8
-#EXTINF:-1 ,РЕН ТВ
 http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,ТВЦ
 http://95.217.196.109:8081/russia/tvc/chunks.m3u8
@@ -77,8 +75,6 @@ http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 http://135.181.115.81/russia/rbc/playlist.m3u8
 #EXTINF:-1 ,5 канал
 http://91.142.158.107:8092/play/5/index.m3u8
-#EXTINF:-1 ,5 КАНАЛ
-http://europe3.livetv.az/russia/5kanal/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
 http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 #EXTINF:-1 ,ПЕРЕЦ
@@ -89,6 +85,10 @@ http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 ,Кто есть кто
+http://5.153.180.30:8000/play/a02x
+#EXTINF:-1 ,КтоКуда
+http://5.153.180.30:8000/play/a0ak
 #EXTINF:-1 ,ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -109,14 +109,10 @@ http://178.163.73.107:81/udp/234.0.0.229:2000
 http://95.217.196.109:8081/russia/domashniy/chunks.m3u8
 #EXTINF:-1 ,Домашний
 http://dmi3y-tv.ru/hls/T2/CH_DOMASHNIY.m3u8
-#EXTINF:-1 ,ПЯТНИЦА
-http://europe3.livetv.az/russia/pyatnica/playlist.m3u8
 #EXTINF:-1 ,Пятница
 http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
 #EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
-#EXTINF:-1 ,КТО ЕСТЬ КТО
-http://europe3.livetv.az/russia/kto_est_kto/playlist.m3u8
 #EXTINF:-1 ,Авто 24
 http://5.153.180.30:8000/play/a01q
 #EXTINF:-1 ,АВТО 24
@@ -143,18 +139,14 @@ https://tbs01-edge17.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
 http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 ,Доктор
 http://45.144.31.195:8004/playlist.m3u8
+#EXTINF:-1 ,Шансон ТВ
+http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
+#EXTINF:-1 ,Муз Союз
+http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://95.217.196.109:8081/russia/tntmusic/chunks.m3u8
 #EXTINF:-1 ,МУЗ ТВ
 http://95.217.196.109:8081/russia/muz_tv/chunks.m3u8
-#EXTINF:-1 ,ШАНСОН ТВ
-http://europe3.livetv.az/russia/shanson/playlist.m3u8
-#EXTINF:-1 ,ANIMAL PLANET HD
-http://europe3.livetv.az/russia/animal_planet/playlist.m3u8
-#EXTINF:-1 ,National Geographic
-http://europe3.livetv.az/russia/nat_geo/playlist.m3u8
-#EXTINF:-1 ,NAT GEO WILD
-http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
 #EXTINF:-1 ,DTX HD
 http://5.153.180.30:8002/play/a0c3
 #EXTINF:-1 ,HD Life
@@ -211,14 +203,14 @@ http://5.153.180.30:8000/play/a002
 http://5.153.180.30:8000/play/a0bk
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1 ,Мосфильм Золотая коллекция
+http://dmi3y-tv.ru/hls/CH_MOSFILM.m3u8
 #EXTINF:-1 ,Мелодрамы
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://dmi3y-tv.ru/hls/CH_RUSSKIY_BESTSELLER.m3u8
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
-#EXTINF:-1 ,МОСФИЛЬМ. Золотая коллекция
-http://europe3.livetv.az/russia/mosfilm/playlist.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://95.217.196.109:8081/russia/mujskoe_kino/chunks.m3u8
 #EXTINF:-1 ,НАШЕ ЛЮБИМОЕ КИНО
@@ -229,18 +221,8 @@ http://194.143.148.28:8080/TV1000RuKino/mpegts
 http://95.217.196.109:8081/russia/tv1000/chunks.m3u8
 #EXTINF:-1 ,TV 1000 ACTION
 http://95.217.196.109:8081/russia/tv1000_action/chunks.m3u8
-#EXTINF:-1 ,TV1000 Русское кино
-http://europe3.livetv.az/russia/tv1000_russkoe_kino/playlist.m3u8
 #EXTINF:-1 ,FILM BOX
 http://dmi3y-tv.ru/hls/CH_FILMBOX.m3u8
-#EXTINF:-1 ,COMEDY HD
-http://europe3.livetv.az/russia/vip_comedy/playlist.m3u8
-#EXTINF:-1 ,PREMIERE HD
-http://europe3.livetv.az/russia/vip_premiere/playlist.m3u8
-#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
-http://europe3.livetv.az/russia/nashe_novoe_kino/playlist.m3u8
-#EXTINF:-1 ,Amedia 2
-http://europe3.livetv.az/russia/amedia2/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 2
@@ -347,15 +329,29 @@ http://95.217.196.109:8081/russia/match_futbol_2/chunks.m3u8
 http://95.217.196.109:8081/russia/match_futbol_3/chunks.m3u8
 #EXTINF:-1 ,МИР БАСКЕТБОЛА
 http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
-#EXTINF:-1 ,NICKELODEON
-http://europe3.livetv.az/russia/nickelodeon/playlist.m3u8
-#EXTINF:-1 ,РАДОСТЬ МОЯ
-http://europe3.livetv.az/russia/radost_moya/playlist.m3u8
-#EXTINF:-1 ,CARTOONITO
-http://europe3.livetv.az/russia/boomerang/playlist.m3u8
-#EXTINF:-1 ,CARTOON NETWORK
-http://europe3.livetv.az/russia/cartoon/playlist.m3u8
-#EXTINF:-1 ,МУЛЬТ
-http://europe3.livetv.az/russia/mult/playlist.m3u8
-#EXTINF:-1 ,TIJI
-http://europe3.livetv.az/russia/tiji/playlist.m3u8
+#EXTINF:-1 ,Мама
+http://5.153.180.30:8000/play/a032
+#EXTINF:-1 ,Da Vinci
+http://5.153.180.30:8000/play/a01y
+#EXTINF:-1 ,Baby Time
+http://5.153.180.30:8002/play/a0bu
+#EXTINF:-1 ,Duck TV
+http://5.153.180.30:8000/play/a08p
+#EXTINF:-1 ,Nick Jr
+http://5.153.180.30:8002/play/a096
+#EXTINF:-1 ,Nickelodeon
+http://5.153.180.30:8000/play/a097
+#EXTINF:-1 ,NickToons
+http://5.153.180.30:8000/play/a098
+#EXTINF:-1 ,Детский мир
+http://5.153.180.30:8000/play/a05r
+#EXTINF:-1 ,Карусель
+http://5.153.180.30:8000/play/a02m
+#EXTINF:-1 ,Мульт
+http://5.153.180.30:8000/play/a03w
+#EXTINF:-1 ,Мульт HD
+http://5.153.180.30:8000/play/a0aw
+#EXTINF:-1 ,Рыжий
+http://5.153.180.30:8002/play/a07c
+#EXTINF:-1 ,СТС Kids
+http://5.153.180.30:8002/play/a07d
