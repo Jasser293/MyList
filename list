@@ -41,6 +41,8 @@ http://135.181.115.81/russia/rossiya24/playlist.m3u8
 http://5.153.180.30:8000/play/a04t
 #EXTINF:-1 ,РЕН ТВ
 http://5.153.180.30:8003/play/a04m
+#EXTINF:-1 ,РЕН ТВ
+http://play6.flynettv.com/rentv
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
