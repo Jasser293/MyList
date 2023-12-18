@@ -21,16 +21,12 @@ http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 http://5.153.180.30:8000/play/a042
 #EXTINF:-1 ,НТВ СТИЛЬ
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
-#EXTINF:-1 ,НТВ СТИЛЬ
-http://95.217.196.109:8081/russia/ntv_stil/chunks.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
 #EXTINF:-1 ,НТВ Хит
 http://5.153.180.30:8000/play/a045
 #EXTINF:-1 ,НТВ СЕРИАЛ
 http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
-#EXTINF:-1 ,НТВ СЕРИАЛ
-http://95.217.196.109:8081/russia/ntv_serial/chunks.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://135.181.115.81/russia/rossiya_1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
@@ -50,11 +46,7 @@ http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,ТВЦ
-http://95.217.196.109:8081/russia/tvc/chunks.m3u8
-#EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
-#EXTINF:-1 ,Известия
-http://95.217.196.109:8081/russia/izvestiya/chunks.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
 #EXTINF:-1 ,СТВ
@@ -97,16 +89,12 @@ http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 http://91.142.158.107:8092/play/13/index.m3u8
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
-#EXTINF:-1 ,МИР
-http://95.217.196.109:8081/russia/mir/chunks.m3u8
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Ю
 http://178.163.73.107:81/udp/234.0.0.229:2000
-#EXTINF:-1 ,Домашний
-http://95.217.196.109:8081/russia/domashniy/chunks.m3u8
 #EXTINF:-1 ,Домашний
 http://dmi3y-tv.ru/hls/T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 ,Пятница
@@ -143,10 +131,6 @@ http://5.153.180.30:8000/play/a023
 http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
-#EXTINF:-1 ,ТНТ Music
-http://95.217.196.109:8081/russia/tntmusic/chunks.m3u8
-#EXTINF:-1 ,МУЗ ТВ
-http://95.217.196.109:8081/russia/muz_tv/chunks.m3u8
 #EXTINF:-1 ,DTX HD
 http://5.153.180.30:8002/play/a0c3
 #EXTINF:-1 ,HD Life
@@ -209,16 +193,10 @@ http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 http://dmi3y-tv.ru/hls/CH_RUSSKIY_BESTSELLER.m3u8
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
-#EXTINF:-1 ,МУЖСКОЕ КИНО
-http://95.217.196.109:8081/russia/mujskoe_kino/chunks.m3u8
 #EXTINF:-1 ,НАШЕ ЛЮБИМОЕ КИНО
 https://176.222.191.62/btv/live/hls/000000283.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
-#EXTINF:-1 ,TV 1000
-http://95.217.196.109:8081/russia/tv1000/chunks.m3u8
-#EXTINF:-1 ,TV 1000 ACTION
-http://95.217.196.109:8081/russia/tv1000_action/chunks.m3u8
 #EXTINF:-1 ,FILM BOX
 http://dmi3y-tv.ru/hls/CH_FILMBOX.m3u8
 #EXTINF:-1 ,Eurosport 1
@@ -307,26 +285,6 @@ https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Extreme Sports
-http://95.217.196.109:8081/russia/extreme_sports/chunks.m3u8
-#EXTINF:-1 ,Матч ТВ
-http://95.217.196.109:8081/russia/matchtv/chunks.m3u8
-#EXTINF:-1 ,Матч! Арена
-http://95.217.196.109:8081/russia/match_arena/chunks.m3u8
-#EXTINF:-1 ,Матч Премьер
-http://95.217.196.109:8081/russia/match_premier/chunks.m3u8
-#EXTINF:-1 ,Матч! Страна HD
-http://95.217.196.109:8081/russia/match_strana/chunks.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://95.217.196.109:8081/russia/match_boets/chunks.m3u8
-#EXTINF:-1 ,Матч! Футбол 1
-http://95.217.196.109:8081/russia/match_futbol_1/chunks.m3u8
-#EXTINF:-1 ,Матч! Футбол 2
-http://95.217.196.109:8081/russia/match_futbol_2/chunks.m3u8
-#EXTINF:-1 ,Матч! Футбол 3
-http://95.217.196.109:8081/russia/match_futbol_3/chunks.m3u8
-#EXTINF:-1 ,МИР БАСКЕТБОЛА
-http://95.217.196.109:8081/russia/mir_basketbola/chunks.m3u8
 #EXTINF:-1 ,Мама
 http://5.153.180.30:8000/play/a032
 #EXTINF:-1 ,Da Vinci
