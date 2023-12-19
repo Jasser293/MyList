@@ -111,6 +111,8 @@ https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:-1 ,АВТО 24
 https://176.222.191.62/btv/live/hls/000000815.m3u8
+#EXTINF:-1 ,АВТО ПЛЮС
+https://92.54.205.157/autoplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Red Bull TV
