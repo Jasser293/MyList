@@ -5,6 +5,8 @@ http://135.181.115.81/russia/pervyj_kanal/playlist.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 ,Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
+#EXTINF:-1 ,Первый канал
+https://176.222.191.62/btv/live/hls/000001227.m3u8
 #EXTINF:-1 ,Первый канал (Евразия)
 http://dmi3y-tv.ru/hls/T2/CH_1TV_KZ.m3u8
 #EXTINF:-1 ,НТВ
@@ -17,16 +19,18 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
-#EXTINF:-1 ,НТВ Право
-http://5.153.180.30:8000/play/a042
+#EXTINF:-1 ,НТВ ПРАВО
+https://176.222.191.62/btv/live/hls/000002759.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 ,НТВ СТИЛЬ
+https://176.222.191.62/btv/live/hls/000002761.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
-#EXTINF:-1 ,НТВ Хит
-http://5.153.180.30:8000/play/a045
 #EXTINF:-1 ,НТВ СЕРИАЛ
 http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
+#EXTINF:-1 ,НТВ СЕРИАЛ
+https://176.222.191.62/btv/live/hls/000002760.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://135.181.115.81/russia/rossiya_1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
@@ -37,18 +41,20 @@ https://176.222.191.62/btv/live/hls/000000812.m3u8
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://135.181.115.81/russia/rossiya24/playlist.m3u8
-#EXTINF:-1 ,Россия К
-http://5.153.180.30:8000/play/a04t
+#EXTINF:-1 ,РОССИЯ К
+https://176.222.191.62/btv/live/hls/000000066.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://5.153.180.30:8003/play/a04m
+http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://play6.flynettv.com/rentv
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
+https://176.222.191.62/btv/live/hls/000002472.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
+#EXTINF:-1 ,ТВЦ
+https://176.222.191.62/btv/live/hls/000000112.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
 #EXTINF:-1 ,СТВ
@@ -79,10 +85,8 @@ http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
-#EXTINF:-1 ,Кто есть кто
-http://5.153.180.30:8000/play/a02x
-#EXTINF:-1 ,КтоКуда
-http://5.153.180.30:8000/play/a0ak
+#EXTINF:-1 ,АНЕКДОТ ТВ
+https://176.222.191.62/btv/live/hls/000001921.m3u8
 #EXTINF:-1 ,ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -103,88 +107,50 @@ http://dmi3y-tv.ru/hls/T2/CH_DOMASHNIY.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
 #EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
-#EXTINF:-1 ,Авто 24
-http://5.153.180.30:8000/play/a01q
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
-#EXTINF:-1 ,Авто Плюс
-http://5.153.180.30:8000/play/a01r
+#EXTINF:-1 ,АВТО 24
+https://176.222.191.62/btv/live/hls/000000815.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
-#EXTINF:-1 ,Моторспорт ТВ
-http://5.153.180.30:8000/play/a03r
 #EXTINF:-1 ,Red Bull TV
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 ,Мужской
 https://176.222.191.62/btv/live/hls/000000286.m3u8
 #EXTINF:-1 ,Усадьба
 http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
-#EXTINF:-1 ,Бобер
-http://5.153.180.30:8000/play/a01t
-#EXTINF:-1 ,Загородная жизнь
-http://5.153.180.30:8000/play/a0a8
+#EXTINF:-1 ,БОБЕР
+https://176.222.191.62/btv/live/hls/000001478.m3u8
+#EXTINF:-1 ,ЗАГОРОДНЫЙ
+https://176.222.191.62/btv/live/hls/000000235.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 https://tbs01-edge17.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ЕДА
+https://176.222.191.62/btv/live/hls/000000588.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
-#EXTINF:-1 ,Доктор
-http://5.153.180.30:8000/play/a023
+#EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
+https://176.222.191.62/btv/live/hls/000000146.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
-#EXTINF:-1 ,DTX HD
-http://5.153.180.30:8002/play/a0c3
-#EXTINF:-1 ,HD Life
-http://5.153.180.30:8000/play/a00t
-#EXTINF:-1 ,Ocean TV
-http://5.153.180.30:8000/play/a09a
-#EXTINF:-1 ,Travel+Adventure
-http://5.153.180.30:8000/play/a01d
-#EXTINF:-1 ,Viasat Explore
-http://5.153.180.30:8000/play/a01h
-#EXTINF:-1 ,Viasat History
-http://5.153.180.30:8002/play/a09o
-#EXTINF:-1 ,Viasat Nature
-http://5.153.180.30:8002/play/a01i
-#EXTINF:-1 ,Большая Азия
-http://5.153.180.30:8000/play/a06p
-#EXTINF:-1 ,Диалоги о рыбалке
-http://5.153.180.30:8000/play/a01z
-#EXTINF:-1 ,Дикий
-http://5.153.180.30:8003/play/a022
-#EXTINF:-1 ,Живая планета
-http://5.153.180.30:8000/play/a02c
-#EXTINF:-1 ,История
-http://5.153.180.30:8002/play/a02h
-#EXTINF:-1 ,Моя Планета
-http://5.153.180.30:8000/play/a03s
-#EXTINF:-1 ,Нано ТВ
-http://5.153.180.30:8000/play/a086
-#EXTINF:-1 ,Наука 2.0
-http://5.153.180.30:8000/play/a046
-#EXTINF:-1 ,Охота и рыбалка
-http://5.153.180.30:8003/play/a04d
-#EXTINF:-1 ,Первый вегетарианский
-http://5.153.180.30:8000/play/a0b1
-#EXTINF:-1 ,Поехали!
-http://5.153.180.30:8002/play/a04i
-#EXTINF:-1 ,Рыболов
-http://5.153.180.30:8000/play/a07w
-#EXTINF:-1 ,Моя стихия
-http://5.153.180.30:8000/play/a0at
-#EXTINF:-1 ,Big Planet
-http://5.153.180.30:8000/play/a08g
-#EXTINF:-1 ,RTG TV
-http://5.153.180.30:8000/play/a06n
-#EXTINF:-1 ,TERRA
-http://5.153.180.30:8000/play/a011
-#EXTINF:-1 ,Телепутешествия
-http://5.153.180.30:8002/play/a06y
-#EXTINF:-1 ,Техно 24
-http://5.153.180.30:8000/play/a002
-#EXTINF:-1 ,ТНВ-Планета
-http://5.153.180.30:8000/play/a0bk
+#EXTINF:-1 ,MCM TOP
+https://176.222.191.62/btv/live/hls/000000327.m3u8
+#EXTINF:-1 ,1HD
+https://176.222.191.62/btv/live/hls/000001020.m3u8
+#EXTINF:-1 ,MEZZO
+https://176.222.191.62/btv/live/hls/000000030.m3u8
+#EXTINF:-1 ,MTV
+https://176.222.191.62/btv/live/hls/000000447.m3u8
+#EXTINF:-1 ,MTV 00
+https://176.222.191.62/btv/live/hls/000000264.m3u8
+#EXTINF:-1 ,MZ MUZZONE
+https://176.222.191.62/btv/live/hls/000000783.m3u8
+#EXTINF:-1 ,МУЗ ТВ
+https://176.222.191.62/btv/live/hls/000000073.m3u8
+#EXTINF:-1 ,МУЗЫКА ПЕРВОГО
+https://176.222.191.62/btv/live/hls/000000204.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Мосфильм Золотая коллекция
@@ -201,60 +167,78 @@ https://176.222.191.62/btv/live/hls/000000283.m3u8
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 ,FILM BOX
 http://dmi3y-tv.ru/hls/CH_FILMBOX.m3u8
+#EXTINF:-1 ,Vip COMEDY
+https://176.222.191.62/btv/live/hls/000000870.m3u8
+#EXTINF:-1 ,Vip MEGAHIT
+https://176.222.191.62/btv/live/hls/000000869.m3u8
+#EXTINF:-1 ,Vip Premiere
+https://176.222.191.62/btv/live/hls/000000868.m3u8
+#EXTINF:-1 ,Кино Боевик
+https://176.222.191.62/btv/live/hls/000008490.m3u8
+#EXTINF:-1 ,Мировое кино
+https://176.222.191.62/btv/live/hls/000008488.m3u8
+#EXTINF:-1 ,Премиум кино
+https://176.222.191.62/btv/live/hls/000008491.m3u8
+#EXTINF:-1 ,НАШЕ ЛЮБИМОЕ КИНО
+https://176.222.191.62/btv/live/hls/000000283.m3u8
+#EXTINF:-1 ,НОВОЕ ТВ
+https://176.222.191.62/btv/live/hls/000001380.m3u8
+#EXTINF:-1 ,НСТ
+https://176.222.191.62/btv/live/hls/000000078.m3u8
+#EXTINF:-1 ,ANIMAL PLANET
+https://176.222.191.62/btv/live/hls/000000216.m3u8
+#EXTINF:-1 ,Discovery Channel
+https://176.222.191.62/btv/live/hls/000001496.m3u8
+#EXTINF:-1 ,Discovery Channel HD
+https://176.222.191.62/btv/live/hls/000001496.m3u8
+#EXTINF:-1 ,ЖИВАЯ ПРИРОДА
+https://176.222.191.62/btv/live/hls/000001187.m3u8
+#EXTINF:-1 ,GALAXY
+https://176.222.191.62/btv/live/hls/000000332.m3u8
+#EXTINF:-1 ,H2 HD
+https://176.222.191.62/btv/live/hls/000002722.m3u8
+#EXTINF:-1 ,History HD
+https://176.222.191.62/btv/live/hls/000001000.m3u8
+#EXTINF:-1 ,NAT GEO
+https://176.222.191.62/btv/live/hls/000000034.m3u8
+#EXTINF:-1 ,Nat Geo Wild HD
+https://176.222.191.62/btv/live/hls/000004474.m3u8
+#EXTINF:-1 ,National Geographic HD
+https://176.222.191.62/btv/live/hls/000000034.m3u8
+#EXTINF:-1 ,МОЯ ПЛАНЕТА
+https://176.222.191.62/btv/live/hls/000001049.m3u8
+#EXTINF:-1 ,ОХОТНИК РЫБОЛОВ
+https://176.222.191.62/btv/live/hls/000000608.m3u8
+#EXTINF:-1 ,РЫБАЛКА И ОХОТА
+https://176.222.191.62/btv/live/hls/000002510.m3u8
+#EXTINF:-1 ,ТЕХНО 24
+https://176.222.191.62/btv/live/hls/000000008.m3u8
+#EXTINF:-1 ,ГЛАЗАМИ ТУРИСТА
+https://176.222.191.62/btv/live/hls/000001414.m3u8
+#EXTINF:-1 ,Приключения HD
+https://176.222.191.62/btv/live/hls/000000277.m3u8
+#EXTINF:-1 ,ТНВ-Планета
+https://176.222.191.62/btv/live/hls/000000418.m3u8
+#EXTINF:-1 ,Первый космический
+https://176.222.191.62/btv/live/hls/000001220.m3u8
+#EXTINF:-1 ,.BLACK
+https://176.222.191.62/btv/live/hls/000000520.m3u8
+#EXTINF:-1 ,.RED
+https://176.222.191.62/btv/live/hls/000000213.m3u8
+#EXTINF:-1 ,Первый вегетарианский
+https://176.222.191.62/btv/live/hls/000002927.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
+#EXTINF:-1 ,Eurosport 1 HD
+https://176.222.191.62/btv/live/hls/000002478.m3u8
 #EXTINF:-1 ,Eurosport 2
 https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+https://176.222.191.62/btv/live/hls/000002479.m3u8
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
 http://dmi3y-tv.ru/hls/CH_KONNYMIR.m3u8
-#EXTINF:-1 ,Extreme Sports
-http://5.153.180.30:8000/play/a00j
-#EXTINF:-1 ,MMA-TV.com
-http://5.153.180.30:8000/play/a00w
-#EXTINF:-1 ,Спортивный HD
-http://5.153.180.30:8000/play/a079
-#EXTINF:-1 ,Старт
-http://5.153.180.30:8000/play/a054
-#EXTINF:-1 ,Viasat Sport
-http://5.153.180.30:8000/play/a01k
-#EXTINF:-1 ,Trace Sport Stars
-http://5.153.180.30:8000/play/a03o
-#EXTINF:-1 ,Russian Extreme HD
-http://5.153.180.30:8000/play/a073
-#EXTINF:-1 ,Russian Extreme Ultra
-http://5.153.180.30:8003/play/a074
-#EXTINF:-1 ,KHL
-http://5.153.180.30:8003/play/a02j
-#EXTINF:-1 ,KHL Prime HD
-http://5.153.180.30:8000/play/a025
-#EXTINF:-1 ,SAN PORTO
-http://5.153.180.30:8000/play/a083
-#EXTINF:-1 ,Матч!
-http://5.153.180.30:8000/play/a034
-#EXTINF:-1 ,Матч! Арена
-http://5.153.180.30:8003/play/a036
-#EXTINF:-1 ,Матч! Боец
-http://5.153.180.30:8000/play/a01u
-#EXTINF:-1 ,Матч! Игра
-http://5.153.180.30:8000/play/a0ao
-#EXTINF:-1 ,Матч! Планета
-http://5.153.180.30:8000/play/a077
-#EXTINF:-1 ,Матч! Премьер
-http://5.153.180.30:8000/play/a03b
-#EXTINF:-1 ,Матч! Страна
-http://5.153.180.30:8000/play/a03c
-#EXTINF:-1 ,Матч! Футбол 1
-http://5.153.180.30:8003/play/a03e
-#EXTINF:-1 ,Матч! Футбол 2
-http://5.153.180.30:8000/play/a03g
-#EXTINF:-1 ,Матч! Футбол 3
-http://5.153.180.30:8000/play/a03i
-#EXTINF:-1 ,Футбол
-http://5.153.180.30:8000/play/a07a
-#EXTINF:-1 ,Бокс ТВ
-http://5.153.180.30:8000/play/a01v
 #EXTINF:-1 ,Матч! Премьер
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Планета
@@ -287,29 +271,39 @@ https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Мама
-http://5.153.180.30:8000/play/a032
-#EXTINF:-1 ,Da Vinci
-http://5.153.180.30:8000/play/a01y
-#EXTINF:-1 ,Baby Time
-http://5.153.180.30:8002/play/a0bu
-#EXTINF:-1 ,Duck TV
-http://5.153.180.30:8000/play/a08p
-#EXTINF:-1 ,Nick Jr
-http://5.153.180.30:8002/play/a096
-#EXTINF:-1 ,Nickelodeon
-http://5.153.180.30:8000/play/a097
-#EXTINF:-1 ,NickToons
-http://5.153.180.30:8000/play/a098
-#EXTINF:-1 ,Детский мир
-http://5.153.180.30:8000/play/a05r
-#EXTINF:-1 ,Карусель
-http://5.153.180.30:8000/play/a02m
-#EXTINF:-1 ,Мульт
-http://5.153.180.30:8000/play/a03w
-#EXTINF:-1 ,Мульт HD
-http://5.153.180.30:8000/play/a0aw
-#EXTINF:-1 ,Рыжий
-http://5.153.180.30:8002/play/a07c
-#EXTINF:-1 ,СТС Kids
-http://5.153.180.30:8002/play/a07d
+#EXTINF:-1 ,Setanta Qazaqstan
+https://176.222.191.62/btv/live/hls/000002649.m3u8
+#EXTINF:-1 ,Setanta Sports 1 HD
+https://176.222.191.62/btv/live/hls/000004498.m3u8
+#EXTINF:-1 ,Setanta Sports 2 HD
+https://176.222.191.62/btv/live/hls/000004499.m3u8
+#EXTINF:-1 ,VIASAT SPORT HD
+https://176.222.191.62/btv/live/hls/000000135.m3u8
+#EXTINF:-1 ,NICK JR
+https://176.222.191.62/btv/live/hls/000000449.m3u8
+#EXTINF:-1 ,NICKELODEON
+https://176.222.191.62/btv/live/hls/000000499.m3u8
+#EXTINF:-1 ,GULLI GIRL
+https://176.222.191.62/btv/live/hls/000000284.m3u8
+#EXTINF:-1 ,CARTOONITO
+https://176.222.191.62/btv/live/hls/000000160.m3u8
+#EXTINF:-1 ,Cartoon Network
+https://176.222.191.62/btv/live/hls/000000015.m3u8
+#EXTINF:-1 ,КАРУСЕЛЬ
+https://176.222.191.62/btv/live/hls/000000781.m3u8
+#EXTINF:-1 ,ДЕТСКИЙ МИР
+https://176.222.191.62/btv/live/hls/000000049.m3u8
+#EXTINF:-1 ,В ГОСТЯХ У СКАЗКИ
+https://176.222.191.62/btv/live/hls/000002762.m3u8
+#EXTINF:-1 ,МУЛЬТ
+https://176.222.191.62/btv/live/hls/000001207.m3u8
+#EXTINF:-1 ,УНИКУМ
+https://176.222.191.62/btv/live/hls/000000048.m3u8
+#EXTINF:-1 ,О!
+https://176.222.191.62/btv/live/hls/000002928.m3u8
+#EXTINF:-1 ,КАРУСЕЛЬ
+https://176.222.191.62/btv/live/hls/000000781.m3u8
+#EXTINF:-1 ,ДЕТСКИЙ МИР
+https://176.222.191.62/btv/live/hls/000000049.m3u8
+#EXTINF:-1 ,В ГОСТЯХ У СКАЗКИ
+https://176.222.191.62/btv/live/hls/000002762.m3u8
