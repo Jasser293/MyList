@@ -229,6 +229,14 @@ https://92.54.205.157/eurokino/tracks-v1a1/mono.m3u8
 https://92.54.205.157/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
+#EXTINF:-1 ,Eurosport 1 HD
+https://as01.spr24.net/264/mpegts?token=KktyRT6kNrWqXm
+#EXTINF:-1 ,Eurosport 2 HD
+https://as01.spr24.net/265/mpegts?token=KktyRT6kNrWqXm
+#EXTINF:-1 ,Setanta Sports 1 HD
+https://as01.spr24.net/933/mpegts?token=KktyRT6kNrWqXm
+#EXTINF:-1 ,Setanta Sports 2 HD
+https://as01.spr24.net/934/mpegts?token=KktyRT6kNrWqXm
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
