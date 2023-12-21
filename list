@@ -5,8 +5,8 @@ http://135.181.115.81/russia/pervyj_kanal/playlist.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 ,Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
-#EXTINF:-1 ,Первый канал
-https://176.222.191.62/btv/live/hls/000001227.m3u8
+#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
+https://92.54.205.157/ort/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал (Евразия)
 http://dmi3y-tv.ru/hls/T2/CH_1TV_KZ.m3u8
 #EXTINF:-1 ,НТВ
@@ -19,30 +19,20 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
-#EXTINF:-1 ,НТВ ПРАВО
-https://176.222.191.62/btv/live/hls/000002759.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
-#EXTINF:-1 ,НТВ СТИЛЬ
-https://176.222.191.62/btv/live/hls/000002761.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
-#EXTINF:-1 ,НТВ СЕРИАЛ
-https://176.222.191.62/btv/live/hls/000002760.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://135.181.115.81/russia/rossiya_1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 ,РОССИЯ РТР
-https://176.222.191.62/btv/live/hls/000000812.m3u8
 #EXTINF:-1 ,РТР ПЛАНЕТА
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://135.181.115.81/russia/rossiya24/playlist.m3u8
-#EXTINF:-1 ,РОССИЯ К
-https://176.222.191.62/btv/live/hls/000000066.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,РЕН ТВ
@@ -50,17 +40,21 @@ http://play6.flynettv.com/rentv
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
-https://176.222.191.62/btv/live/hls/000002472.m3u8
+https://92.54.205.157/rentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
-https://176.222.191.62/btv/live/hls/000000112.m3u8
+https://92.54.205.157/tvc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
 #EXTINF:-1 ,СТВ
 http://dmi3y-tv.ru/hls/blrus/CH_STVHD720.m3u8
 #EXTINF:-1 ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 ,МИР 24
+https://92.54.205.157/mir24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МИР
+https://92.54.205.157/mir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Звезда
@@ -70,7 +64,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://178.124.179.122:8088/Oruzhie/index.m3u8
 #EXTINF:-1 ,ОРУЖИЕ
-https://ucdn.beetv.kz/btv/live/hls/000000308.m3u8
+https://92.54.205.157/oruzhie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 ,РБК
@@ -81,14 +75,14 @@ http://91.142.158.107:8092/play/5/index.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 #EXTINF:-1 ,ПЕРЕЦ
 http://178.124.179.122:8088/Peretz/index.m3u8
+#EXTINF:-1 ,ПЕРЕЦ
+https://92.54.205.157/perec/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТНТ
 http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ HD
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
-#EXTINF:-1 ,АНЕКДОТ ТВ
-https://176.222.191.62/btv/live/hls/000001921.m3u8
 #EXTINF:-1 ,ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -97,6 +91,8 @@ http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 http://91.142.158.107:8092/play/13/index.m3u8
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
+#EXTINF:-1 ,СТС
+https://92.54.205.157/ctctv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
@@ -105,144 +101,104 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 http://178.163.73.107:81/udp/234.0.0.229:2000
 #EXTINF:-1 ,Домашний
 http://dmi3y-tv.ru/hls/T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1 ,ДОМАШНИЙ
+https://92.54.205.157/domashni/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница
 http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
+#EXTINF:-1 ,ПЯТНИЦА
+https://92.54.205.157/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:-1 ,АВТО 24
-https://176.222.191.62/btv/live/hls/000000815.m3u8
+https://92.54.205.157/auto24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,АВТО ПЛЮС
 https://92.54.205.157/autoplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Red Bull TV
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
-#EXTINF:-1 ,Мужской
-https://176.222.191.62/btv/live/hls/000000286.m3u8
-#EXTINF:-1 ,КТО ЕСТЬ КТО
-https://92.54.205.157/ktoestkto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Усадьба
 http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
-#EXTINF:-1 ,БОБЕР
-https://176.222.191.62/btv/live/hls/000001478.m3u8
-#EXTINF:-1 ,ЗАГОРОДНЫЙ
-https://176.222.191.62/btv/live/hls/000000235.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 https://tbs01-edge17.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ЕДА
-https://176.222.191.62/btv/live/hls/000000588.m3u8
+#EXTINF:-1 ,КУХНЯ ТВ
+https://92.54.205.157/kuxnia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
-#EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
-https://176.222.191.62/btv/live/hls/000000146.m3u8
+#EXTINF:-1 ,ЗООПАРК
+https://92.54.205.157/zoo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,24 ТЕХНО
+https://92.54.205.157/24techno/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,365 ДНЕЙ
+https://92.54.205.157/365day/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КТО ЕСТЬ КТО
+https://92.54.205.157/ktoestkto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viasat Explore
+https://92.54.205.157/viasatexp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viasat History
+https://92.54.205.157/viasathist/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viasat Nature
+https://92.54.205.157/viasatnat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,HD Life
+https://92.54.205.157/hdlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
-#EXTINF:-1 ,MCM TOP
-https://176.222.191.62/btv/live/hls/000000327.m3u8
-#EXTINF:-1 ,1HD
-https://176.222.191.62/btv/live/hls/000001020.m3u8
-#EXTINF:-1 ,MEZZO
-https://176.222.191.62/btv/live/hls/000000030.m3u8
-#EXTINF:-1 ,MTV
-https://176.222.191.62/btv/live/hls/000000447.m3u8
-#EXTINF:-1 ,MTV 00
-https://176.222.191.62/btv/live/hls/000000264.m3u8
-#EXTINF:-1 ,MZ MUZZONE
-https://176.222.191.62/btv/live/hls/000000783.m3u8
-#EXTINF:-1 ,МУЗ ТВ
-https://176.222.191.62/btv/live/hls/000000073.m3u8
-#EXTINF:-1 ,МУЗЫКА ПЕРВОГО
-https://176.222.191.62/btv/live/hls/000000204.m3u8
+#EXTINF:-1 ,Stereoplus
+https://92.54.205.157/stereoplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Music Box
+https://92.54.205.157/musicbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Music TV HD
+https://92.54.205.157/musictv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НОСТАЛЬГИЯ
+https://92.54.205.157/nostalgy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ТНТ Music
+https://92.54.205.157/rutv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Мосфильм Золотая коллекция
 http://dmi3y-tv.ru/hls/CH_MOSFILM.m3u8
-#EXTINF:-1 ,Cinema Classic
-https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 ,Мелодрамы
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://dmi3y-tv.ru/hls/CH_RUSSKIY_BESTSELLER.m3u8
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
-#EXTINF:-1 ,НАШЕ ЛЮБИМОЕ КИНО
-https://176.222.191.62/btv/live/hls/000000283.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 ,FILM BOX
 http://dmi3y-tv.ru/hls/CH_FILMBOX.m3u8
-#EXTINF:-1 ,Vip COMEDY
-https://176.222.191.62/btv/live/hls/000000870.m3u8
-#EXTINF:-1 ,Vip MEGAHIT
-https://176.222.191.62/btv/live/hls/000000869.m3u8
-#EXTINF:-1 ,Vip Premiere
-https://176.222.191.62/btv/live/hls/000000868.m3u8
-#EXTINF:-1 ,Кино Боевик
-https://176.222.191.62/btv/live/hls/000008490.m3u8
-#EXTINF:-1 ,Мировое кино
-https://176.222.191.62/btv/live/hls/000008488.m3u8
-#EXTINF:-1 ,Премиум кино
-https://176.222.191.62/btv/live/hls/000008491.m3u8
-#EXTINF:-1 ,НАШЕ ЛЮБИМОЕ КИНО
-https://176.222.191.62/btv/live/hls/000000283.m3u8
-#EXTINF:-1 ,НОВОЕ ТВ
-https://176.222.191.62/btv/live/hls/000001380.m3u8
-#EXTINF:-1 ,НСТ
-https://176.222.191.62/btv/live/hls/000000078.m3u8
-#EXTINF:-1 ,ANIMAL PLANET
-https://176.222.191.62/btv/live/hls/000000216.m3u8
-#EXTINF:-1 ,Discovery Channel
-https://176.222.191.62/btv/live/hls/000001496.m3u8
-#EXTINF:-1 ,Discovery Channel HD
-https://176.222.191.62/btv/live/hls/000001496.m3u8
-#EXTINF:-1 ,ЖИВАЯ ПРИРОДА
-https://176.222.191.62/btv/live/hls/000001187.m3u8
-#EXTINF:-1 ,GALAXY
-https://176.222.191.62/btv/live/hls/000000332.m3u8
-#EXTINF:-1 ,H2 HD
-https://176.222.191.62/btv/live/hls/000002722.m3u8
-#EXTINF:-1 ,History HD
-https://176.222.191.62/btv/live/hls/000001000.m3u8
-#EXTINF:-1 ,NAT GEO
-https://176.222.191.62/btv/live/hls/000000034.m3u8
-#EXTINF:-1 ,Nat Geo Wild HD
-https://176.222.191.62/btv/live/hls/000004474.m3u8
-#EXTINF:-1 ,National Geographic HD
-https://176.222.191.62/btv/live/hls/000000034.m3u8
-#EXTINF:-1 ,МОЯ ПЛАНЕТА
-https://176.222.191.62/btv/live/hls/000001049.m3u8
-#EXTINF:-1 ,ОХОТНИК РЫБОЛОВ
-https://176.222.191.62/btv/live/hls/000000608.m3u8
-#EXTINF:-1 ,РЫБАЛКА И ОХОТА
-https://176.222.191.62/btv/live/hls/000002510.m3u8
-#EXTINF:-1 ,ТЕХНО 24
-https://176.222.191.62/btv/live/hls/000000008.m3u8
-#EXTINF:-1 ,ГЛАЗАМИ ТУРИСТА
-https://176.222.191.62/btv/live/hls/000001414.m3u8
-#EXTINF:-1 ,Приключения HD
-https://176.222.191.62/btv/live/hls/000000277.m3u8
-#EXTINF:-1 ,ТНВ-Планета
-https://176.222.191.62/btv/live/hls/000000418.m3u8
-#EXTINF:-1 ,Первый космический
-https://176.222.191.62/btv/live/hls/000001220.m3u8
-#EXTINF:-1 ,.BLACK
-https://176.222.191.62/btv/live/hls/000000520.m3u8
-#EXTINF:-1 ,.RED
-https://176.222.191.62/btv/live/hls/000000213.m3u8
-#EXTINF:-1 ,Первый вегетарианский
-https://176.222.191.62/btv/live/hls/000002927.m3u8
+#EXTINF:-1 ,VIP FAMILY
+https://92.54.205.157/tv5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TV1000 Русское кино
+https://92.54.205.157/tv1000rukino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Amedia 1
+https://92.54.205.157/amedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,РУССКИЙ ИЛЛЮЗИОН
+https://92.54.205.157/rusilluzion/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ИЛЛЮЗИОН+
+https://92.54.205.157/illuzionplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МУЖСКОЕ КИНО
+https://92.54.205.157/interesnoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+https://92.54.205.157/kinopremyerahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Киносерия
+https://92.54.205.157/kinoseria/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+https://92.54.205.157/indiyskoekino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КИНОХИТ
+https://92.54.205.157/kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Киноужас
+https://92.54.205.157/kinoujas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ЕВРОКИНО
+https://92.54.205.157/eurokino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ИНДИЯ
+https://92.54.205.157/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
-#EXTINF:-1 ,Eurosport 1 HD
-https://176.222.191.62/btv/live/hls/000002478.m3u8
-#EXTINF:-1 ,Eurosport 2
-https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
-#EXTINF:-1 ,Eurosport 2 HD
-https://176.222.191.62/btv/live/hls/000002479.m3u8
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
@@ -279,39 +235,17 @@ https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Setanta Qazaqstan
-https://176.222.191.62/btv/live/hls/000002649.m3u8
-#EXTINF:-1 ,Setanta Sports 1 HD
-https://176.222.191.62/btv/live/hls/000004498.m3u8
-#EXTINF:-1 ,Setanta Sports 2 HD
-https://176.222.191.62/btv/live/hls/000004499.m3u8
-#EXTINF:-1 ,VIASAT SPORT HD
-https://176.222.191.62/btv/live/hls/000000135.m3u8
-#EXTINF:-1 ,NICK JR
-https://176.222.191.62/btv/live/hls/000000449.m3u8
-#EXTINF:-1 ,NICKELODEON
-https://176.222.191.62/btv/live/hls/000000499.m3u8
-#EXTINF:-1 ,GULLI GIRL
-https://176.222.191.62/btv/live/hls/000000284.m3u8
-#EXTINF:-1 ,CARTOONITO
-https://176.222.191.62/btv/live/hls/000000160.m3u8
-#EXTINF:-1 ,Cartoon Network
-https://176.222.191.62/btv/live/hls/000000015.m3u8
-#EXTINF:-1 ,КАРУСЕЛЬ
-https://176.222.191.62/btv/live/hls/000000781.m3u8
+#EXTINF:-1 ,Viasat Sport
+https://92.54.205.157/viasatsport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,БОКС ТВ
+https://92.54.205.157/boxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MMA-TV.COM
+https://92.54.205.157/m1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МАТЧ! ПЛАНЕТА
+https://92.54.205.157/matchplaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Da Vinci
+https://92.54.205.157/davinci/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДЕТСКИЙ МИР
-https://176.222.191.62/btv/live/hls/000000049.m3u8
-#EXTINF:-1 ,В ГОСТЯХ У СКАЗКИ
-https://176.222.191.62/btv/live/hls/000002762.m3u8
-#EXTINF:-1 ,МУЛЬТ
-https://176.222.191.62/btv/live/hls/000001207.m3u8
+https://92.54.205.157/detskymir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,УНИКУМ
-https://176.222.191.62/btv/live/hls/000000048.m3u8
-#EXTINF:-1 ,О!
-https://176.222.191.62/btv/live/hls/000002928.m3u8
-#EXTINF:-1 ,КАРУСЕЛЬ
-https://176.222.191.62/btv/live/hls/000000781.m3u8
-#EXTINF:-1 ,ДЕТСКИЙ МИР
-https://176.222.191.62/btv/live/hls/000000049.m3u8
-#EXTINF:-1 ,В ГОСТЯХ У СКАЗКИ
-https://176.222.191.62/btv/live/hls/000002762.m3u8
+https://92.54.205.157/detsky/tracks-v1a1/mono.m3u8
