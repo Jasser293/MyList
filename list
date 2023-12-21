@@ -67,8 +67,6 @@ http://dmi3y-tv.ru/hls/T2/CH_ZVEZDA.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://178.124.179.122:8088/Oruzhie/index.m3u8
-#EXTINF:-1 ,ОРУЖИЕ
-https://92.54.205.157/oruzhie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 ,РБК
@@ -105,8 +103,6 @@ http://91.142.158.107:8092/play/13/index.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС
 https://92.54.205.157/ctctv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,СТС
-https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
@@ -139,8 +135,6 @@ https://92.54.205.157/autoplus/tracks-v1a1/mono.m3u8
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Red Bull TV
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
-#EXTINF:-1 ,Диалоги о рыбалке
-https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 ,Усадьба
 http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
 #EXTINF:-1 ,Бобёр
@@ -169,12 +163,6 @@ https://92.54.205.157/viasatnat/tracks-v1a1/mono.m3u8
 https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8
 #EXTINF:-1 ,Terra
 https://livetv.mylifeisgood.net.ru/channels/national_geographic.m3u8
-#EXTINF:-1 ,Viju Explore
-https://livetv.mylifeisgood.net.ru/channels/viasat_explore.m3u8
-#EXTINF:-1 ,Viju History
-https://livetv.mylifeisgood.net.ru/channels/viasat_history.m3u8
-#EXTINF:-1 ,Viju Nature
-https://livetv.mylifeisgood.net.ru/channels/viasat_nature.m3u8
 #EXTINF:-1 ,HD Life
 https://92.54.205.157/hdlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,1HD
@@ -201,32 +189,18 @@ http://dmi3y-tv.ru/hls/CH_MOSFILM.m3u8
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 #EXTINF:-1 ,2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:-1 ,Кинеко
-https://livetv.mylifeisgood.net.ru/channels/fox.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://dmi3y-tv.ru/hls/CH_RUSSKIY_BESTSELLER.m3u8
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
-#EXTINF:-1 ,Viju TV1000
-http://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8
-#EXTINF:-1 ,Viju TV1000 Action
-https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8
 #EXTINF:-1 ,Vip Comedy HD
 https://livetv.mylifeisgood.net.ru/channels/vip_comedy.m3u8
-#EXTINF:-1 ,Vip Megahit HD
-https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
 #EXTINF:-1 ,Vip Premiere HD
 https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
 #EXTINF:-1 ,Vip Serial HD
 https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
-#EXTINF:-1 ,FILM BOX
-http://dmi3y-tv.ru/hls/CH_FILMBOX.m3u8
-#EXTINF:-1 ,VIP FAMILY
-https://92.54.205.157/tv5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TV1000 Русское кино
-https://92.54.205.157/tv1000rukino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Amedia 1
 https://92.54.205.157/amedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РУССКИЙ ИЛЛЮЗИОН
@@ -291,8 +265,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://92.54.205.157/viasatsport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,БОКС ТВ
 https://92.54.205.157/boxtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,MMA-TV.COM
-https://92.54.205.157/m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
 https://92.54.205.157/matchplaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Da Vinci
