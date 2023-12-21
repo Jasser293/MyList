@@ -67,6 +67,8 @@ http://dmi3y-tv.ru/hls/T2/CH_ZVEZDA.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://178.124.179.122:8088/Oruzhie/index.m3u8
+#EXTINF:-1 ,Оружие
+http://tinyurl.com/9n247bny
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 ,РБК
