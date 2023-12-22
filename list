@@ -185,8 +185,6 @@ https://92.54.205.157/nostalgy/tracks-v1a1/mono.m3u8
 https://92.54.205.157/rutv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
-#EXTINF:-1 ,Мосфильм Золотая коллекция
-http://dmi3y-tv.ru/hls/CH_MOSFILM.m3u8
 #EXTINF:-1 ,Мелодрамы
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 #EXTINF:-1 ,2x2
