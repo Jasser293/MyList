@@ -105,8 +105,6 @@ http://91.142.158.107:8092/play/13/index.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС
 https://92.54.205.157/ctctv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,СТС Love
-https://as01.spr24.net/5253/mpegts?token=KktyRT6kNrWqXm
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
@@ -231,12 +229,6 @@ https://92.54.205.157/zeetv/tracks-v1a1/mono.m3u8
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 https://as01.spr24.net/264/mpegts?token=KktyRT6kNrWqXm
-#EXTINF:-1 ,Eurosport 2 HD
-https://as01.spr24.net/265/mpegts?token=KktyRT6kNrWqXm
-#EXTINF:-1 ,Setanta Sports 1 HD
-https://as01.spr24.net/933/mpegts?token=KktyRT6kNrWqXm
-#EXTINF:-1 ,Setanta Sports 2 HD
-https://as01.spr24.net/934/mpegts?token=KktyRT6kNrWqXm
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
