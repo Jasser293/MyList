@@ -49,8 +49,6 @@ https://92.54.205.157/rentv/tracks-v1a1/mono.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 https://92.54.205.157/tvc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Беларусь 24
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
 #EXTINF:-1 ,СТВ
 http://dmi3y-tv.ru/hls/blrus/CH_STVHD720.m3u8
 #EXTINF:-1 ,Мир 24
@@ -225,6 +223,8 @@ https://92.54.205.157/eurokino/tracks-v1a1/mono.m3u8
 https://92.54.205.157/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+https://as01.spr24.net/265/mpegts?token=KktyRT6kNrWqXm
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
