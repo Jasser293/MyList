@@ -51,6 +51,8 @@ https://92.54.205.157/rentv/tracks-v1a1/mono.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 https://92.54.205.157/tvc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Беларусь 24
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 ,СТВ
 http://dmi3y-tv.ru/hls/blrus/CH_STVHD720.m3u8
 #EXTINF:-1 ,Мир 24
@@ -59,8 +61,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://92.54.205.157/mir24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МИР
 https://92.54.205.157/mir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Беларусь 24
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+#EXTINF:-1 ,Соловьев Live
+http://dmi3y-tv.ru/hls/smotrim/CH_SOLOVEVLIVE.m3u8
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Звезда
