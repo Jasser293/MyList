@@ -115,6 +115,8 @@ http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 https://92.54.205.157/ctctv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,СТС Love
 http://ott.watch/stream/VYU4461VHX/183.m3u8
+#EXTINF:-1 ,СТС Love
+http://188.113.190.15/93/video.m3u8
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
@@ -148,9 +150,11 @@ http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Red Bull TV
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 ,Усадьба
-http://arbiter.bolshoe.tv/?path=streaming/usadba/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyMyA3OjU4OjA5IEFNJmhhc2hfdmFsdWU9SHh0MHBMTUczZG5WeTZVbmlnZVRkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://188.113.190.15/71/video.m3u8
 #EXTINF:-1 ,Бобëр
 http://195.26.83.96:7022/play/a00t/index.m3u8
+#EXTINF:-1 ,Бобëр
+http://188.113.190.15/131/video.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 https://tbs01-edge17.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
