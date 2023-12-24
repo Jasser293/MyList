@@ -41,12 +41,16 @@ http://135.181.115.81/russia/rossiya24/playlist.m3u8
 https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
+#EXTINF:-1 ,РенТВ HD
+https://rentv-live-megafon2.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://play6.flynettv.com/rentv
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
 https://92.54.205.157/rentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ОТР HD
+http://live-otronline.cdnvideo.ru/otr-decklink/otr_ru_720p/chunklist_DVR.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
