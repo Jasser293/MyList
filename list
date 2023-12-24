@@ -145,12 +145,10 @@ https://92.54.205.157/auto24/tracks-v1a1/mono.m3u8
 https://92.54.205.157/autoplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
-#EXTINF:-1 ,Моторспорт ТВ
-http://ott.watch/stream/VYU4461VHX/300.m3u8
 #EXTINF:-1 ,Red Bull TV
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 ,Усадьба
-http://ott.watch/stream/VYU4461VHX/211.m3u8
+http://178.163.35.58:81/udp/234.0.0.220:2000
 #EXTINF:-1 ,Бобëр
 http://195.26.83.96:7022/play/a00t/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
