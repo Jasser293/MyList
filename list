@@ -77,6 +77,8 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://178.124.179.122:8088/Oruzhie/index.m3u8
 #EXTINF:-1 ,Оружие
 https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
+#EXTINF:-1 ,Оружие
+http://02yotpoq.megogo.xyz/iptv/W9DG7KKUWQ3T2H/2087/index.m3u8
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 ,РБК
