@@ -113,6 +113,8 @@ http://91.142.158.107:8092/play/13/index.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС
 https://92.54.205.157/ctctv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,СТС Love
+http://ott.watch/stream/VYU4461VHX/183.m3u8
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
@@ -143,6 +145,8 @@ https://92.54.205.157/auto24/tracks-v1a1/mono.m3u8
 https://92.54.205.157/autoplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
+#EXTINF:-1 ,Моторспорт ТВ
+http://ott.watch/stream/VYU4461VHX/300.m3u8
 #EXTINF:-1 ,Red Bull TV
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 ,Усадьба
