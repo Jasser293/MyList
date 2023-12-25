@@ -78,7 +78,7 @@ http://178.124.179.122:8088/Oruzhie/index.m3u8
 #EXTINF:-1 ,Оружие
 http://188.113.190.15/155/video.m3u8
 #EXTINF:-1 ,Оружие
-https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
+#https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 ,РБК
@@ -127,8 +127,6 @@ http://tvoetv.space:8080/tvoetv/video.m3u8
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Сарафан
 http://188.113.190.15/165/video.m3u8
-#EXTINF:-1 ,Анекдот ТВ
-https://livetv.mylifeisgood.net.ru/channels/anekdot.m3u8
 #EXTINF:-1 ,Че!
 https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 #EXTINF:-1 ,Ю
