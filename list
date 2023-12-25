@@ -200,9 +200,9 @@ https://92.54.205.157/viasatnat/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Silkway
 http://188.113.190.15/163/video.m3u8
 #EXTINF:-1 ,Da Vinci
-https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8
+http://188.113.190.15/161/video.m3u8
 #EXTINF:-1 ,Terra
-https://livetv.mylifeisgood.net.ru/channels/national_geographic.m3u8
+http://188.113.190.15/104/video.m3u8
 #EXTINF:-1 ,HD Life
 https://92.54.205.157/hdlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,1HD
