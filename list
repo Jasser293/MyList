@@ -76,6 +76,8 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://178.124.179.122:8088/Oruzhie/index.m3u8
 #EXTINF:-1 ,Оружие
+http://188.113.190.15/155/video.m3u8
+#EXTINF:-1 ,Оружие
 https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
@@ -87,6 +89,8 @@ http://91.142.158.107:8092/play/5/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 ,Пятый канал
 http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
+#EXTINF:-1 ,ЦЕНТРАЛЬНОЕ ТВ
+http://188.113.190.15/173/video.m3u8
 #EXTINF:-1 ,ПЕРЕЦ
 http://178.124.179.122:8088/Peretz/index.m3u8
 #EXTINF:-1 ,ПЕРЕЦ
@@ -121,6 +125,8 @@ http://188.113.190.15/93/video.m3u8
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-1 ,Сарафан
+http://188.113.190.15/165/video.m3u8
 #EXTINF:-1 ,Анекдот ТВ
 https://livetv.mylifeisgood.net.ru/channels/anekdot.m3u8
 #EXTINF:-1 ,Че!
@@ -147,8 +153,10 @@ https://92.54.205.157/auto24/tracks-v1a1/mono.m3u8
 https://92.54.205.157/autoplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
-#EXTINF:-1 ,моторспорт
+#EXTINF:-1 ,моторспорт тв
 http://188.113.190.15/82/video.m3u8
+#EXTINF:-1 ,Точка отрыва
+http://188.113.190.15/183/video.m3u8
 #EXTINF:-1 ,Red Bull TV
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 ,Усадьба
@@ -169,6 +177,8 @@ https://92.54.205.157/zoo/tracks-v1a1/mono.m3u8
 https://92.54.205.157/24techno/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
 https://92.54.205.157/365day/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Совершенно секретно
+http://188.113.190.15/174/video.m3u8
 #EXTINF:-1 ,КТО ЕСТЬ КТО
 https://92.54.205.157/ktoestkto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viasat Explore
@@ -177,6 +187,8 @@ https://92.54.205.157/viasatexp/tracks-v1a1/mono.m3u8
 https://92.54.205.157/viasathist/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viasat Nature
 https://92.54.205.157/viasatnat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Silkway
+http://188.113.190.15/163/video.m3u8
 #EXTINF:-1 ,Da Vinci
 https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8
 #EXTINF:-1 ,Terra
@@ -191,6 +203,8 @@ http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Stereoplus
 https://92.54.205.157/stereoplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Russian Music Box
+http://188.113.190.15/158/video.m3u8
 #EXTINF:-1 ,Music Box
 https://92.54.205.157/musicbox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Music TV HD
@@ -203,14 +217,24 @@ https://92.54.205.157/rutv/tracks-v1a1/mono.m3u8
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Мелодрамы
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
+#EXTINF:-1 ,Сапфир
+http://188.113.190.15/182/video.m3u8
 #EXTINF:-1 ,2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 ,Кинеко
+http://188.113.190.15/156/video.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://188.113.190.15/100/video.m3u8
+#EXTINF:-1 ,Русский детектив
+http://188.113.190.15/164/video.m3u8
 #EXTINF:-1 ,Start Air
 http://188.113.190.15/139/video.m3u8
+#EXTINF:-1 ,Shot tv
+http://188.113.190.15/166/video.m3u8
 #EXTINF:-1 ,Premium
 http://188.113.190.15/140/video.m3u8
+#EXTINF:-1 ,.Red
+http://188.113.190.15/149/video.m3u8
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
@@ -269,6 +293,8 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Матч! HD
+http://188.113.190.15/167/video.m3u8
 #EXTINF:-1 ,Матч! Боец
 http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Игра
@@ -297,7 +323,11 @@ https://92.54.205.157/detskymir/tracks-v1a1/mono.m3u8
 https://92.54.205.157/detsky/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,СТС kids
 http://188.113.190.15/132/video.m3u8
-#EXTINF:-1 ,O!
-http://188.113.190.15/132/video.m3u8
 #EXTINF:-1 ,Мульт музыка
 http://188.113.190.15/145/video.m3u8
+#EXTINF:-1 ,Супергерои
+http://188.113.190.15/162/video.m3u8
+#EXTINF:-1 ,Мульт
+http://188.113.190.15/171/video.m3u8
+#EXTINF:-1 ,Baby Time
+http://188.113.190.15/178/video.m3u8
