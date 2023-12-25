@@ -239,7 +239,7 @@ http://188.113.190.15/156/video.m3u8
 http://188.113.190.15/100/video.m3u8
 #EXTINF:-1 ,Русский детектив
 http://188.113.190.15/164/video.m3u8
-#EXTINF:-1  ,Русский роман
+#EXTINF:-1 ,Русский роман
 http://188.113.190.15/221/video.m3u8
 #EXTINF:-1 ,Start Air
 http://188.113.190.15/139/video.m3u8
@@ -275,6 +275,18 @@ https://92.54.205.157/kinopremyerahd/tracks-v1a1/mono.m3u8
 https://92.54.205.157/kinoseria/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ИНДИЙСКОЕ КИНО
 https://92.54.205.157/indiyskoekino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Киномикс
+http://188.113.190.15/308/video.m3u8
+#EXTINF:-1 ,Кинопремьера
+http://188.113.190.15/309/video.m3u8
+#EXTINF:-1 ,Киносвидание
+http://188.113.190.15/310/video.m3u8
+#EXTINF:-1 ,Киносемья
+http://188.113.190.15/311/video.m3u8
+#EXTINF:-1 ,Киносерия
+http://188.113.190.15/312/video.m3u8
+#EXTINF:-1 ,Кинохит
+http://188.113.190.15/313/video.m3u8
 #EXTINF:-1 ,КИНОХИТ
 https://92.54.205.157/kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Киноужас
