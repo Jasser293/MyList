@@ -147,6 +147,8 @@ https://92.54.205.157/auto24/tracks-v1a1/mono.m3u8
 https://92.54.205.157/autoplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
+#EXTINF:-1 ,моторспорт
+http://188.113.190.15/82/video.m3u8
 #EXTINF:-1 ,Red Bull TV
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 ,Усадьба
@@ -205,6 +207,10 @@ http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://188.113.190.15/100/video.m3u8
+#EXTINF:-1 ,Start Air
+http://188.113.190.15/139/video.m3u8
+#EXTINF:-1 ,Premium
+http://188.113.190.15/140/video.m3u8
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
@@ -289,3 +295,9 @@ https://92.54.205.157/davinci/tracks-v1a1/mono.m3u8
 https://92.54.205.157/detskymir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,УНИКУМ
 https://92.54.205.157/detsky/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,СТС kids
+http://188.113.190.15/132/video.m3u8
+#EXTINF:-1 ,O!
+http://188.113.190.15/132/video.m3u8
+#EXTINF:-1 ,Мульт музыка
+http://188.113.190.15/145/video.m3u8
