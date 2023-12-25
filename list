@@ -56,7 +56,9 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 https://92.54.205.157/tvc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Беларусь 24
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+http://188.113.190.15/213/video.m3u8
+#EXTINF:-1 ,Беларусь 24
+#https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 ,СТВ
 http://dmi3y-tv.ru/hls/blrus/CH_STVHD720.m3u8
 #EXTINF:-1 ,Мир 24
@@ -65,6 +67,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://92.54.205.157/mir24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МИР
 https://92.54.205.157/mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Russia today
+http://188.113.190.15/193/video.m3u8
 #EXTINF:-1 ,Соловьев Live
 http://dmi3y-tv.ru/hls/smotrim/CH_SOLOVEVLIVE.m3u8
 #EXTINF:-1 ,Звезда
@@ -167,10 +171,16 @@ http://188.113.190.15/131/video.m3u8
 https://tbs01-edge17.itdc.ge/kuxnia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 https://92.54.205.157/kuxnia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Fashion TV
+http://188.113.190.15/194/video.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 ,ЗООПАРК
 https://92.54.205.157/zoo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Поехали!
+http://188.113.190.15/206/video.m3u8
+#EXTINF:-1 ,МОЯ ПЛАНЕТА
+http://188.113.190.15/219/video.m3u8
 #EXTINF:-1 ,24 ТЕХНО
 https://92.54.205.157/24techno/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
@@ -219,30 +229,36 @@ http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 http://188.113.190.15/182/video.m3u8
 #EXTINF:-1 ,2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 ,Дорама
+http://188.113.190.15/233/video.m3u8
 #EXTINF:-1 ,Кинеко
 http://188.113.190.15/156/video.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://188.113.190.15/100/video.m3u8
 #EXTINF:-1 ,Русский детектив
 http://188.113.190.15/164/video.m3u8
+#EXTINF:-1  ,Русский роман
+http://188.113.190.15/221/video.m3u8
 #EXTINF:-1 ,Start Air
 http://188.113.190.15/139/video.m3u8
 #EXTINF:-1 ,Shot tv
 http://188.113.190.15/166/video.m3u8
 #EXTINF:-1 ,Premium
 http://188.113.190.15/140/video.m3u8
+#EXTINF:-1 ,Arthouse
+http://188.113.190.15/207/video.m3u8
 #EXTINF:-1 ,.Red
 http://188.113.190.15/149/video.m3u8
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
-#EXTINF:-1 ,Vip Comedy HD
-https://livetv.mylifeisgood.net.ru/channels/vip_comedy.m3u8
-#EXTINF:-1 ,Vip Premiere HD
-https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
-#EXTINF:-1 ,Vip Serial HD
-https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
+#EXTINF:-1 ,Vip Comedy
+http://188.113.190.15/203/video.m3u8
+#EXTINF:-1 ,Vip Premiere
+http://188.113.190.15/201/video.m3u8
+#EXTINF:-1 ,Vip Megahit
+http://188.113.190.15/202/video.m3u8
 #EXTINF:-1 ,Amedia 1
 https://92.54.205.157/amedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РУССКИЙ ИЛЛЮЗИОН
@@ -272,7 +288,7 @@ http://ott.watch/stream/VYU4461VHX/192.m3u8
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
-http://dmi3y-tv.ru/hls/CH_KONNYMIR.m3u8
+http://188.113.190.15/76/video.m3u8
 #EXTINF:-1 ,Матч! Премьер
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Планета
