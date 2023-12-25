@@ -285,8 +285,12 @@ https://92.54.205.157/eurokino/tracks-v1a1/mono.m3u8
 https://92.54.205.157/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
+#EXTINF:-1 ,Eurosport 1 HD
+http://91.207.115.228:5000/c153
 #EXTINF:-1 ,Eurosport 2 HD
 http://ott.watch/stream/VYU4461VHX/192.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+http://91.207.115.228:5000/c154
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
