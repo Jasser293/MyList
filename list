@@ -18,11 +18,19 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
+http://185.26.157.3:8080/live/ntv_pravo/mono.m3u8
+#EXTINF:-1 ,НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF:-1 ,НТВ СТИЛЬ
+http://185.26.157.3:8080/live/ntv_stil/mono.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 ,НТВ ХИТ
+http://185.26.157.3:8080/live/ntv_hit/mono.m3u8
+#EXTINF:-1 ,НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
+#EXTINF:-1 ,НТВ СЕРИАЛ
+http://185.26.157.3:8080/live/ntv_serial/mono.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 ,РОССИЯ 1
@@ -191,6 +199,10 @@ https://92.54.205.157/365day/tracks-v1a1/mono.m3u8
 http://188.113.190.15/174/video.m3u8
 #EXTINF:-1 ,КТО ЕСТЬ КТО
 https://92.54.205.157/ktoestkto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Discovery HD
+http://185.26.157.3:8080/live/discovery/mono.m3u8
+#EXTINF:-1 ,Discovery Science HD
+http://185.26.157.3:8080/live/discovery-science/mono.m3u8
 #EXTINF:-1 ,Viasat Explore
 https://92.54.205.157/viasatexp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viasat History
@@ -363,3 +375,21 @@ http://188.113.190.15/162/video.m3u8
 http://188.113.190.15/171/video.m3u8
 #EXTINF:-1 ,Baby Time
 http://188.113.190.15/178/video.m3u8
+#EXTINF:-1 ,Boomerang
+http://185.26.157.3:8080/live/boomerang/mono.m3u8
+#EXTINF:-1 ,Cartoon network
+http://185.26.157.3:8080/live/cartoonnetwork/mono.m3u8
+#EXTINF:-1 ,Уникум
+http://185.26.157.3:8080/live/detskiy/mono.m3u8
+#EXTINF:-1 ,Gulli
+http://185.26.157.3:8080/live/gulli/mono.m3u8
+#EXTINF:-1 ,jim jam
+http://185.26.157.3:8080/live/jimjam/mono.m3u8
+#EXTINF:-1 ,Карусель
+http://185.26.157.3:8080/live/karusel/mono.m3u8
+#EXTINF:-1 ,Мама
+http://185.26.157.3:8080/live/mama/mono.m3u8
+#EXTINF:-1 ,Мультимания
+http://185.26.157.3:8080/live/multimaniya/mono.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://185.26.157.3:8080/live/nickelodeon/mono.m3u8
