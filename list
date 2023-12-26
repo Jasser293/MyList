@@ -200,7 +200,7 @@ http://188.113.190.15/174/video.m3u8
 #EXTINF:-1 ,КТО ЕСТЬ КТО
 https://92.54.205.157/ktoestkto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-http://ott.watch/stream/G9IUEAXQZ7/76.m3u8
+http://188.113.190.15/74/video.m3u8
 #EXTINF:-1 ,Discovery HD
 http://185.26.157.3:8080/live/discovery/mono.m3u8
 #EXTINF:-1 ,Discovery Science HD
@@ -313,8 +313,6 @@ https://92.54.205.157/zeetv/tracks-v1a1/mono.m3u8
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 http://91.207.115.228:5000/c153
-#EXTINF:-1 ,Eurosport 2 HD
-http://ott.watch/stream/VYU4461VHX/192.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
 http://91.207.115.228:5000/c154
 #EXTINF:-1 ,Беларусь 5
