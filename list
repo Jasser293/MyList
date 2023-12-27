@@ -62,7 +62,7 @@ http://live-otronline.cdnvideo.ru/otr-decklink/otr_ru_720p/chunklist_DVR.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
-https://92.54.205.157/tvc/tracks-v1a1/mono.m3u8
+http://188.113.190.15/10/video.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://188.113.190.15/213/video.m3u8
 #EXTINF:-1 ,Беларусь 24
