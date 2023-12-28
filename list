@@ -118,7 +118,7 @@ http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 #EXTINF:-1 ,ТВ3
-https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
+http://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,СТС
 http://91.142.158.107:8092/play/13/index.m3u8
 #EXTINF:-1 ,СТС
