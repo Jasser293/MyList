@@ -126,8 +126,6 @@ http://188.113.190.15/13/video.m3u8
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС Love
-http://ott.watch/stream/VYU4461VHX/183.m3u8
-#EXTINF:-1 ,СТС Love
 http://188.113.190.15/93/video.m3u8
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
