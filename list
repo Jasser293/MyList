@@ -197,15 +197,14 @@ http://185.26.157.3:8080/live/kto_est_kto/mono.m3u8
 http://185.26.157.3:8080/live/discovery/mono.m3u8
 #EXTINF:-1 ,Discovery Science HD
 http://185.26.157.3:8080/live/discovery-science/mono.m3u8
-#EXTINF:-1 ,HD Life
-http://185.163.194.185:6991/48/mpegts
-#EXTINF:-1 ,Nat Geo Wild HD
-http://185.163.194.185:6991/50/mpegts
-#EXTINF:-1 ,Viasat Nature HD
-http://185.163.194.185:6991/54/mpegts
-#EXTINF:-1 ,Viasat History HD
-http://185.163.194.185:6991/57/mpegts
-#EXTINF:-1 ,Viasat Explore HD
+#EXTINF:-1 ,Viasat Explore
+http://185.26.157.3:8080/live/viasat_explore/mono.m3u8
+#EXTINF:-1 ,Viasat Nature
+http://185.26.157.3:8080/live/viasat_nature/mono.m3u8
+#EXTINF:-1 ,Viasat History
+http://185.26.157.3:8080/live/viasat-history/mono.m3u8
+#EXTINF:-1 ,History HD
+http://185.26.157.3:8080/live/historyhd/mono.m3u8
 #EXTINF:-1 ,Silkway
 http://188.113.190.15/163/video.m3u8
 #EXTINF:-1 ,Da Vinci
