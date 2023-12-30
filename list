@@ -55,8 +55,8 @@ https://rentv-live-megafon2.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v5a1/mo
 http://188.113.190.15/16/video.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
-#EXTINF:-1 ,ОТР HD
-http://live-otronline.cdnvideo.ru/otr-decklink/otr_ru_720p/chunklist_DVR.m3u8
+#EXTINF:-1 ,ОТР
+http://185.26.157.3:8080/live/otr/mono.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
