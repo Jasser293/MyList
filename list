@@ -53,8 +53,6 @@ http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 https://rentv-live-megafon2.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://188.113.190.15/16/video.m3u8
-#EXTINF:-1 ,РЕН ТВ
-http://play6.flynettv.com/rentv
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,ОТР HD
@@ -229,10 +227,6 @@ http://185.26.157.3:8080/live/vip_comedy_hd/mono.m3u8
 http://185.26.157.3:8080/live/vip_megahit_hd/mono.m3u8
 #EXTINF:-1 ,VIP Premiere HD
 http://185.26.157.3:8080/live/vip_premiere_hd/mono.m3u8
-#EXTINF:-1 ,Время
-http://185.26.157.3:8080/live/vremya/mono.m3u8
-#EXTINF:-1 ,Страшное HD
-http://185.26.157.3:8080/live/strashnoe_hd/mono.m3u8
 #EXTINF:-1 ,.BLACK
 http://185.26.157.3:8080/live/sony_turbo/mono.m3u8
 #EXTINF:-1 ,Победа
