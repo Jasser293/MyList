@@ -169,6 +169,8 @@ http://188.113.190.15/71/video.m3u8
 http://188.113.190.15/131/video.m3u8
 #EXTINF:-1 ,Бобёр
 http://195.26.83.96:7022/play/a00t/index.m3u8
+#EXTINF:-1 ,Доктор
+http://188.113.190.15/29/video.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://188.113.190.15/38/video.m3u8
 #EXTINF:-1 ,Fashion TV
