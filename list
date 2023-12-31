@@ -73,7 +73,7 @@ http://188.113.190.15/217/video.m3u8
 http://94.232.104.237:8000/play/009/index.m3u8
 #EXTINF:-1 ,Russia today
 http://188.113.190.15/193/video.m3u8
-#EXTINF:-1 ,Соловьев Live
+#EXTINF:-1 ,СоловьевLive
 http://188.113.190.15/333/video.m3u8
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
