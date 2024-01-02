@@ -3,6 +3,8 @@
 http://135.181.115.81/russia/pervyj_kanal/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
+#EXTINF:-1 ,Первый HD
+http://91.207.115.228:5000/c99
 #EXTINF:-1 ,Первый
 http://188.113.190.15/1/video.m3u8
 #EXTINF:-1 ,Первый канал
@@ -37,6 +39,8 @@ http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 http://135.181.115.81/russia/rossiya_1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 ,Россия 1 HD
+http://91.207.115.228:5000/c100
 #EXTINF:-1 ,Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 ,Россия 1 HD
@@ -73,7 +77,7 @@ http://188.113.190.15/217/video.m3u8
 http://94.232.104.237:8000/play/009/index.m3u8
 #EXTINF:-1 ,Russia today
 http://188.113.190.15/193/video.m3u8
-#EXTINF:-1 ,СоловьевLive
+#EXTINF:-1 ,Соловьев Live
 http://188.113.190.15/333/video.m3u8
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
@@ -187,6 +191,14 @@ http://188.113.190.15/174/video.m3u8
 http://91.205.165.11:22888/play/132/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://188.113.190.15/74/video.m3u8
+#EXTINF:-1 ,Discovery
+http://91.207.115.228:5000/c146
+#EXTINF:-1 ,Animal planet
+http://91.207.115.228:5000/c147
+#EXTINF:-1 ,Discovery Sciense
+http://91.207.115.228:5000/c148
+#EXTINF:-1 ,Travel Channel
+http://91.207.115.228:5000/c149
 #EXTINF:-1 ,24 ТЕХНО
 http://188.113.190.15/40/video.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
