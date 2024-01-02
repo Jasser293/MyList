@@ -42,9 +42,9 @@ http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 HD
 http://91.207.115.228:5000/c100
 #EXTINF:-1 ,Россия 1 HD
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
-#EXTINF:-1 ,Россия 1 HD
 http://188.113.190.15/172/video.m3u8
+#EXTINF:-1 ,Россия 1 HD
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 ,РТР ПЛАНЕТА
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
 #EXTINF:-1 ,РОССИЯ 24
@@ -73,8 +73,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://188.113.190.15/120/video.m3u8
 #EXTINF:-1 ,МИР
 http://188.113.190.15/217/video.m3u8
-#EXTINF:-1 ,ОТР
-http://94.232.104.237:8000/play/009/index.m3u8
 #EXTINF:-1 ,Russia today
 http://188.113.190.15/193/video.m3u8
 #EXTINF:-1 ,Соловьев Live
@@ -130,7 +128,7 @@ http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://188.113.190.15/93/video.m3u8
 #EXTINF:-1 ,СТС Love
-http://94.232.104.237:8000/play/058/index.m3u8
+http://91.207.115.228:5000/c51
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
@@ -201,6 +199,18 @@ http://91.207.115.228:5000/c147
 http://91.207.115.228:5000/c148
 #EXTINF:-1 ,Travel Channel
 http://91.207.115.228:5000/c149
+#EXTINF:-1 ,Телепутешествия
+http://91.207.115.228:5000/c93
+#EXTINF:-1 ,Big planet
+http://91.207.115.228:5000/c94
+#EXTINF:-1 ,Viasat Explore
+http://91.207.115.228:5000/c95
+#EXTINF:-1 ,Viasat History
+http://91.207.115.228:5000/c96
+#EXTINF:-1 ,Viasat Nature
+http://91.207.115.228:5000/c97
+#EXTINF:-1 ,Дикий
+http://91.207.115.228:5000/c98
 #EXTINF:-1 ,24 ТЕХНО
 http://188.113.190.15/40/video.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
@@ -211,28 +221,6 @@ http://188.113.190.15/163/video.m3u8
 http://188.113.190.15/161/video.m3u8
 #EXTINF:-1 ,Terra
 http://188.113.190.15/104/video.m3u8
-#EXTINF:-1 ,VIASAT Explore
-http://94.232.104.237:8000/play/077/index.m3u8
-#EXTINF:-1 ,VIASAT History
-http://94.232.104.237:8000/play/078/index.m3u8
-#EXTINF:-1 ,VIASAT Nature
-http://94.232.104.237:8000/play/079/index.m3u8
-#EXTINF:-1 ,Моя планета
-http://94.232.104.237:8000/play/072/index.m3u8
-#EXTINF:-1 ,Наука
-http://94.232.104.237:8000/play/073/index.m3u8
-#EXTINF:-1 ,История
-http://94.232.104.237:8000/play/074/index.m3u8
-#EXTINF:-1 ,Телепутешествия
-http://94.232.104.237:8000/play/080/index.m3u8
-#EXTINF:-1 ,Galaxy
-http://94.232.104.237:8000/play/083/index.m3u8
-#EXTINF:-1 ,RTG TV
-http://94.232.104.237:8000/play/085/index.m3u8
-#EXTINF:-1 ,ТНВ-Планета
-http://94.232.104.237:8000/play/116/index.m3u8
-#EXTINF:-1 ,Живая планета
-http://94.232.104.237:8000/play/124/index.m3u8
 #EXTINF:-1 ,1HD
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
 #EXTINF:-1 ,Шансон ТВ
@@ -345,17 +333,9 @@ http://188.113.190.15/162/video.m3u8
 http://188.113.190.15/171/video.m3u8
 #EXTINF:-1 ,Baby Time
 http://188.113.190.15/178/video.m3u8
-#EXTINF:-1 ,Солнце
-http://94.232.104.237:8000/play/028/index.m3u8
-#EXTINF:-1 ,Радость моя
-http://94.232.104.237:8000/play/029/index.m3u8
+#EXTINF:-1 ,Рыжий
+http://91.207.115.228:5000/c62
 #EXTINF:-1 ,Мультиландия
-http://94.232.104.237:8000/play/030/index.m3u8
-#EXTINF:-1 ,Уникум
-http://94.232.104.237:8000/play/031/index.m3u8
-#EXTINF:-1 ,Cartoon Network
-http://94.232.104.237:8000/play/032/index.m3u8
-#EXTINF:-1 ,Мама
-http://94.232.104.237:8000/play/033/index.m3u8
-#EXTINF:-1 ,Детский мир
-http://94.232.104.237:8000/play/034/index.m3u8
+http://91.207.115.228:5000/c67
+#EXTINF:-1 ,О!
+http://91.207.115.228:5000/c68
