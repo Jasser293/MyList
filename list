@@ -194,7 +194,7 @@ http://188.113.190.15/174/video.m3u8
 #EXTINF:-1 ,Кто Есть Кто
 http://91.205.165.11:22888/play/132/index.m3u8
 #EXTINF:-1 ,Кто куда
-http://146.158.0.56:80/MirUvlecheniy/index.m3u8
+http://31.211.77.158:8000/play/a192/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://188.113.190.15/74/video.m3u8
 #EXTINF:-1 ,Discovery
