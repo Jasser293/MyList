@@ -187,6 +187,8 @@ http://188.113.190.15/46/video.m3u8
 http://188.113.190.15/206/video.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://188.113.190.15/219/video.m3u8
+#EXTINF:-1 ,Brodilo TV HD
+http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
 http://188.113.190.15/174/video.m3u8
 #EXTINF:-1 ,Кто Есть Кто
