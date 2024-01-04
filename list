@@ -20,19 +20,19 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ Право
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+http://109.200.135.130:8080/ntv_pravo/index.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 ,НТВ Стиль
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+http://109.200.135.130:8080/ntv_stil/index.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 ,НТВ Хит
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+http://109.200.135.130:8080/ntv_hit/index.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
 #EXTINF:-1 ,НТВ Сериал
-https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+http://109.200.135.130:8080/ntv_serial/index.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 ,РОССИЯ 1
@@ -85,6 +85,8 @@ http://dmi3y-tv.ru/hls/T2/CH_ZVEZDA.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://91.207.115.228:5000/c132
+#EXTINF:-1 ,Звезда плюс HD
+http://109.200.135.130:8080/zvezda_plus_hd/index.m3u8
 #EXTINF:-1 ,Оружие
 http://178.124.179.122:8088/Oruzhie/index.m3u8
 #EXTINF:-1 ,Оружие
@@ -279,6 +281,72 @@ http://188.113.190.15/311/video.m3u8
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,Кинохит
 http://188.113.190.15/313/video.m3u8
+#EXTINF:-1 ,Победа
+http://109.200.135.130:8080/pobeda/index.m3u8
+#EXTINF:-1 ,НСТ
+http://109.200.135.130:8080/nstv/index.m3u8
+#EXTINF:-1 ,Русский детектив
+http://109.200.135.130:8080/rus-detective/index.m3u8
+#EXTINF:-1 ,Русский роман
+http://109.200.135.130:8080/rus-roman/index.m3u8
+#EXTINF:-1 ,О!Кино
+http://109.200.135.130:8080/nashe/index.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция HD
+http://109.200.135.130:8080/mosfilm/index.m3u8
+#EXTINF:-1 ,Кино тв
+http://109.200.135.130:8080/kino-tv/index.m3u8
+#EXTINF:-1 ,Кино ТВ HD
+http://109.200.135.130:8080/kino_tv_hd/index.m3u8
+#EXTINF:-1 ,Кинопоказ
+http://109.200.135.130:8080/kinopokaz/index.m3u8
+#EXTINF:-1 ,Киносат
+http://109.200.135.130:8080/kinosat/index.m3u8
+#EXTINF:-1 ,Amedia 1
+http://109.200.135.130:8080/amedia/index.m3u8
+#EXTINF:-1 ,Amedia hit HD
+http://109.200.135.130:8080/amedia_hit_hd/index.m3u8
+#EXTINF:-1 ,Amedia premium HD
+http://109.200.135.130:8080/amedia_premium_hd/index.m3u8
+#EXTINF:-1 ,Fan HD
+http://109.200.135.130:8080/fan/index.m3u8
+#EXTINF:-1 ,Комедия
+http://109.200.135.130:8080/comedy/index.m3u8
+#EXTINF:-1 ,Дом кино
+http://109.200.135.130:8080/dom_kino/index.m3u8
+#EXTINF:-1 ,Сапфир
+http://109.200.135.130:8080/fox-life/index.m3u8
+#EXTINF:-1 ,Кинеко
+http://109.200.135.130:8080/fox/index.m3u8
+#EXTINF:-1 ,Кинеко HD
+http://109.200.135.130:8080/fox_hd/index.m3u8
+#EXTINF:-1 ,Калейдоскоп ТВ
+http://109.200.135.130:8080/kaleydoskop/index.m3u8
+#EXTINF:-1 ,Кинохит HD
+http://109.200.135.130:8080/kinohit/index.m3u8
+#EXTINF:-1 ,Индийское кино
+http://109.200.135.130:8080/indiya/index.m3u8
+#EXTINF:-1 ,Родное кино
+http://109.200.135.130:8080/nashe-kino/index.m3u8
+#EXTINF:-1 ,Наше новое кино HD
+http://109.200.135.130:8080/nashe-novoe-kino/index.m3u8
+#EXTINF:-1 ,Киноужас
+http://109.200.135.130:8080/kinoujas/index.m3u8
+#EXTINF:-1 ,Кинокомедия HD
+http://109.200.135.130:8080/komediya/index.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+http://109.200.135.130:8080/premiera/index.m3u8
+#EXTINF:-1 ,Киномикс HD
+http://109.200.135.130:8080/kinomix/index.m3u8
+#EXTINF:-1 ,Киносемья HD
+http://109.200.135.130:8080/kinosemya/index.m3u8
+#EXTINF:-1 ,Киносвидание HD
+http://109.200.135.130:8080/kinosvidanie/index.m3u8
+#EXTINF:-1 ,Киносерия HD
+http://109.200.135.130:8080/mnogo-tv/index.m3u8
+#EXTINF:-1 ,Мужское кино HD
+http://109.200.135.130:8080/muzhskoe-kino_hd/index.m3u8
+#EXTINF:-1 ,Индия
+http://109.200.135.130:8080/zee-tv/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
