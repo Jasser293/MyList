@@ -19,12 +19,20 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
+#EXTINF:-1 ,НТВ Право
+http://91.205.199.3:80/ntvpravo/index.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF:-1 ,НТВ Стиль
+http://91.205.199.3:80/ntvstil/index.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 ,НТВ Хит
+http://91.205.199.3:80/ntvhit/index.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
+#EXTINF:-1 ,НТВ Сериал
+http://91.205.199.3:80/ntvserial/index.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 ,РОССИЯ 1
@@ -163,6 +171,8 @@ http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 http://188.113.190.15/71/video.m3u8
 #EXTINF:-1 ,Бобёр
 http://188.113.190.15/131/video.m3u8
+#EXTINF:-1 ,Бобёр
+http://moobl.ru/hls/Bobior.m3u8
 #EXTINF:-1 ,Доктор
 http://188.113.190.15/29/video.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
@@ -243,6 +253,10 @@ http://188.113.190.15/100/video.m3u8
 http://188.113.190.15/164/video.m3u8
 #EXTINF:-1 ,Русский роман
 http://188.113.190.15/221/video.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://moobl.ru/hls/Mosfilm.m3u8
+#EXTINF:-1 ,Кинеко HD
+http://moobl.ru/hls/Kineko_hd.m3u8
 #EXTINF:-1 ,Start Air
 http://188.113.190.15/139/video.m3u8
 #EXTINF:-1 ,Shot tv
