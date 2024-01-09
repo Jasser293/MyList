@@ -20,19 +20,19 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ Право
-http://91.205.199.3:80/ntvpravo/index.m3u8
+http://88.85.172.243:7012/play/a024
 #EXTINF:-1 ,НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 ,НТВ Стиль
-http://91.205.199.3:80/ntvstil/index.m3u8
+http://88.85.172.243:7012/play/a023
 #EXTINF:-1 ,НТВ СТИЛЬ
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 ,НТВ Хит
-http://91.205.199.3:80/ntvhit/index.m3u8
+http://lb.homeiptv.org/lb0/NTV_HIT/video.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
 #EXTINF:-1 ,НТВ Сериал
-http://91.205.199.3:80/ntvserial/index.m3u8
+http://88.85.172.243:7012/play/a025
 #EXTINF:-1 ,НТВ СЕРИАЛ
 http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 ,РОССИЯ 1
@@ -160,9 +160,7 @@ http://188.113.190.15/322/video.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Моторспорт ТВ
-http://91.207.115.228:5000/c111
-#EXTINF:-1 ,Моторспорт ТВ
-http://92.100.39.32:2289/play/a08n/index.m3u8
+http://ott.watch/stream/TQM52U7KY3/300.m3u8
 #EXTINF:-1 ,Точка отрыва
 http://188.113.190.15/183/video.m3u8
 #EXTINF:-1 ,Red Bull
