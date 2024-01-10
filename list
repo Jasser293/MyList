@@ -86,9 +86,9 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://91.207.115.228:5000/c132
 #EXTINF:-1 ,Оружие
-http://178.124.179.122:8088/Oruzhie/index.m3u8
-#EXTINF:-1 ,Оружие
 http://188.113.190.15/155/video.m3u8
+#EXTINF:-1 ,Оружие
+https://s23.federal.tv:8082/liveg/oruzhie.stream/playlist.m3u8
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 ,РБК
@@ -102,7 +102,7 @@ http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 #EXTINF:-1 ,ЦТВ
 http://188.113.190.15/173/video.m3u8
 #EXTINF:-1 ,ПЕРЕЦ
-http://178.124.179.122:8088/Peretz/index.m3u8
+http://moobl.ru/hls/Perec_int.m3u8
 #EXTINF:-1 ,ТНТ
 http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ
@@ -161,10 +161,10 @@ http://188.113.190.15/322/video.m3u8
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Motorsport
 https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
-#EXTINF:-1 ,Red Bull
-http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 ,Точка отрыва
 http://188.113.190.15/183/video.m3u8
+#EXTINF:-1 ,Red Bull
+http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 ,Усадьба
 http://188.113.190.15/71/video.m3u8
 #EXTINF:-1 ,Бобёр
@@ -191,8 +191,6 @@ http://brodilo.tv/channel.php
 http://188.113.190.15/174/video.m3u8
 #EXTINF:-1 ,Кто Есть Кто
 http://91.205.165.11:22888/play/132/index.m3u8
-#EXTINF:-1 ,Кто куда
-http://31.211.77.158:8000/play/a192/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://188.113.190.15/74/video.m3u8
 #EXTINF:-1 ,Discovery
