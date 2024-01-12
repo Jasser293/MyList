@@ -41,8 +41,8 @@ http://135.181.115.81/russia/rossiya_1/playlist.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 HD
 http://91.207.115.228:5000/c100
-#EXTINF:-1 ,Россия 1 HD
-http://188.113.190.15/172/video.m3u8
+#EXTINF:-1 ,Россия 1
+http://188.113.190.15/2/video.m3u8
 #EXTINF:-1 ,Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 ,РТР ПЛАНЕТА
