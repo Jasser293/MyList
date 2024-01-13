@@ -44,7 +44,7 @@ http://188.113.190.15/2/video.m3u8
 #EXTINF:-1 ,Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 ,РТР ПЛАНЕТА
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
+https://s30.glaz.tv:8082/liveg/rtrpl.stream/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://135.181.115.81/russia/rossiya24/playlist.m3u8
 #EXTINF:-1 ,Россия К
