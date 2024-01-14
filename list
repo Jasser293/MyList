@@ -229,8 +229,6 @@ http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 http://188.113.190.15/158/video.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
-#EXTINF:-1 ,Мелодрамы
-http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 #EXTINF:-1 ,Сапфир
 http://188.113.190.15/182/video.m3u8
 #EXTINF:-1 ,2x2
