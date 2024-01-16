@@ -21,10 +21,10 @@ http://91.142.158.107:8092/play/4/index.m3u8
 http://88.85.172.243:7012/play/a024
 #EXTINF:-1 ,НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
-#EXTINF:-1 ,НТВ Стиль
-http://88.85.172.243:7012/play/a023
 #EXTINF:-1 ,НТВ СТИЛЬ
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 ,НТВ Стиль
+http://88.85.172.243:7012/play/a023
 #EXTINF:-1 ,НТВ Хит
 http://moobl.ru/hls/NTV_hit.m3u8
 #EXTINF:-1 ,НТВ ХИТ
