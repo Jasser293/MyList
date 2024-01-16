@@ -83,6 +83,8 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://91.207.115.228:5000/c132
 #EXTINF:-1 ,Оружие
 http://188.113.190.15/155/video.m3u8
+#EXTINF:-1 ,Оружие
+http://u.vipl.one/high/hfray9uskj/271.m3u8
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 ,РБК
