@@ -163,6 +163,8 @@ http://188.113.190.15/183/video.m3u8
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 ,Усадьба
 http://188.113.190.15/71/video.m3u8
+#EXTINF:-1 ,Усадьба ТВ
+http://5.43.131.39:81/udp/239.255.0.47:1234
 #EXTINF:-1 ,Бобёр
 http://188.113.190.15/131/video.m3u8
 #EXTINF:-1 ,Бобёр
