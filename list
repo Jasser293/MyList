@@ -17,10 +17,10 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ
 http://91.142.158.107:8092/play/4/index.m3u8
-#EXTINF:-1 ,НТВ Право
-http://88.85.172.243:7012/play/a024
 #EXTINF:-1 ,НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF:-1 ,НТВ Право
+http://88.85.172.243:7012/play/a024
 #EXTINF:-1 ,НТВ Стиль
 http://88.85.172.243:7012/play/a023
 #EXTINF:-1 ,НТВ СТИЛЬ
@@ -133,8 +133,6 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 http://188.113.190.15/165/video.m3u8
 #EXTINF:-1 ,Че!
 https://livetv.mylifeisgood.net.ru/channels/che.m3u8
-#EXTINF:-1 ,Че!
-http://5.43.131.39:81/udp/239.255.0.35:1234
 #EXTINF:-1 ,Ю
 http://178.163.73.107:81/udp/234.0.0.229:2000
 #EXTINF:-1 ,ДОМАШНИЙ
@@ -165,8 +163,6 @@ http://188.113.190.15/183/video.m3u8
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 ,Усадьба
 http://188.113.190.15/71/video.m3u8
-#EXTINF:-1,Усадьба ТВ
-http://5.43.131.39:81/udp/239.255.0.47:1234
 #EXTINF:-1 ,Бобёр
 http://188.113.190.15/131/video.m3u8
 #EXTINF:-1 ,Бобёр
@@ -185,8 +181,6 @@ http://109.239.208.82:80/zoo/index.m3u8
 http://188.113.190.15/46/video.m3u8
 #EXTINF:-1 ,Поехали!
 http://188.113.190.15/206/video.m3u8
-#EXTINF:-1 ,Поехали!
-http://5.43.131.39:81/udp/239.255.0.191:1234
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://188.113.190.15/219/video.m3u8
 #EXTINF:-1 ,Brodilo TV HD
@@ -197,8 +191,6 @@ http://188.113.190.15/174/video.m3u8
 http://91.205.165.11:22888/play/132/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://188.113.190.15/74/video.m3u8
-#EXTINF:-1 ,Просвещение
-http://5.43.131.39:81/udp/239.255.0.61:1234
 #EXTINF:-1 ,МОЯ СТИХИЯ
 http://185.235.187.10:8888/play/moya_planeta/index.m3u8
 #EXTINF:-1 ,Discovery
@@ -209,8 +201,6 @@ http://91.207.115.228:5000/c147
 http://91.207.115.228:5000/c149
 #EXTINF:-1 ,Телепутешествия
 http://91.207.115.228:5000/c93
-#EXTINF:-1 ,Министерство идей
-http://5.43.131.39:81/udp/239.255.0.81:1234
 #EXTINF:-1 ,Big planet
 http://91.207.115.228:5000/c94
 #EXTINF:-1 ,Viasat Explore
@@ -221,8 +211,6 @@ http://91.207.115.228:5000/c96
 http://91.207.115.228:5000/c97
 #EXTINF:-1 ,Дикий
 http://91.207.115.228:5000/c98
-#EXTINF:-1 ,Охота и Рыбалка
-http://5.43.131.39:81/udp/239.255.0.45:1234
 #EXTINF:-1 ,24 ТЕХНО
 http://188.113.190.15/40/video.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
@@ -251,24 +239,18 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 http://188.113.190.15/233/video.m3u8
 #EXTINF:-1 ,Кинеко
 http://188.113.190.15/156/video.m3u8
-#EXTINF:-1 ,Дом Кино
-http://5.43.131.39:81/udp/239.255.0.23:1234
 #EXTINF:-1 ,Русский бестселлер
 http://188.113.190.15/100/video.m3u8
 #EXTINF:-1 ,Русский детектив
 http://188.113.190.15/164/video.m3u8
 #EXTINF:-1 ,Русский роман
 http://188.113.190.15/221/video.m3u8
-#EXTINF:-1 ,Русский Иллюзион
-http://5.43.131.39:81/udp/239.255.0.78:1234
 #EXTINF:-1 ,Кино
 http://91.207.115.228:5000/c28
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://91.207.115.228:5000/c29
 #EXTINF:-1 ,Дом кино
 http://91.207.115.228:5000/c30
-#EXTINF:-1 ,Ретро
-http://5.43.131.39:81/udp/239.255.0.43:1234
 #EXTINF:-1 ,Кинеко HD
 http://moobl.ru/hls/Kineko_hd.m3u8
 #EXTINF:-1 ,Start Air
@@ -281,8 +263,6 @@ http://188.113.190.15/140/video.m3u8
 http://188.113.190.15/207/video.m3u8
 #EXTINF:-1 ,.Red
 http://188.113.190.15/149/video.m3u8
-#EXTINF:-1 ,НСТ
-http://5.43.131.39:81/udp/239.255.0.76:1234
 #EXTINF:-1 ,Комедия
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
@@ -305,8 +285,6 @@ http://188.113.190.15/311/video.m3u8
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,Кинохит
 http://188.113.190.15/313/video.m3u8
-#EXTINF:-1 ,ЕвроKино
-http://5.43.131.39:81/udp/239.255.0.63:1234
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
@@ -367,8 +345,6 @@ http://91.207.115.228:5000/c62
 http://91.207.115.228:5000/c67
 #EXTINF:-1 ,О!
 http://91.207.115.228:5000/c68
-#EXTINF:-1 ,Мама
-http://5.43.131.39:81/udp/239.255.0.32:1234
 #EXTINF:-1 ,TV3 Life
 http://ott.watch/stream/TQM52U7KY3/373.m3u8
 #EXTINF:-1 ,LTV 7
@@ -377,4 +353,3 @@ http://ott.watch/stream/TQM52U7KY3/371.m3u8
 http://ott.watch/stream/TQM52U7KY3/372.m3u8
 #EXTINF:-1 ,LTV1
 http://ott.watch/stream/TQM52U7KY3/34.m3u8
-
