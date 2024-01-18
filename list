@@ -176,7 +176,7 @@ http://188.113.190.15/29/video.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://188.113.190.15/38/video.m3u8
 #EXTINF:-1 ,Еда
-http://5.43.131.39:81/udp/239.255.0.12:1234
+http://lb.homeiptv.org/lb0/edahd/video.m3u8
 #EXTINF:-1 ,Fashion TV
 http://188.113.190.15/194/video.m3u8
 #EXTINF:-1 ,ЗООПАРК
