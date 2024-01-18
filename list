@@ -369,3 +369,12 @@ http://91.207.115.228:5000/c67
 http://91.207.115.228:5000/c68
 #EXTINF:-1 ,Мама
 http://5.43.131.39:81/udp/239.255.0.32:1234
+#EXTINF:-1 ,TV3 Life
+http://ott.watch/stream/TQM52U7KY3/373.m3u8
+#EXTINF:-1 ,LTV 7
+http://ott.watch/stream/TQM52U7KY3/371.m3u8
+#EXTINF:-1 ,TV 24
+http://ott.watch/stream/TQM52U7KY3/372.m3u8
+#EXTINF:-1 ,LTV1
+http://ott.watch/stream/TQM52U7KY3/34.m3u8
+
