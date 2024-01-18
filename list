@@ -199,6 +199,8 @@ http://91.205.165.11:22888/play/132/index.m3u8
 http://188.113.190.15/74/video.m3u8
 #EXTINF:-1 ,Просвещение
 http://5.43.131.39:81/udp/239.255.0.61:1234
+#EXTINF:-1 ,МОЯ СТИХИЯ
+http://185.235.187.10:8888/play/moya_planeta/index.m3u8
 #EXTINF:-1 ,Discovery
 http://91.207.115.228:5000/c146
 #EXTINF:-1 ,Animal planet
