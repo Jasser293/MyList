@@ -17,10 +17,10 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ
 http://91.142.158.107:8092/play/4/index.m3u8
-#EXTINF:-1 ,НТВ ПРАВО
-http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 ,НТВ Право
 http://88.85.172.243:7012/play/a024
+#EXTINF:-1 ,НТВ ПРАВО
+http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 ,НТВ Стиль
 http://88.85.172.243:7012/play/a023
 #EXTINF:-1 ,НТВ СТИЛЬ
@@ -84,7 +84,7 @@ http://91.207.115.228:5000/c132
 #EXTINF:-1 ,Оружие
 http://188.113.190.15/155/video.m3u8
 #EXTINF:-1 ,Оружие
-http://lb.homeiptv.org/lb0/Oruzhie/video.m3u8
+http://193.111.244.43:8080/oruzhie/index.m3u8?&token=test
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 ,РБК
