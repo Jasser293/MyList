@@ -83,8 +83,6 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://188.113.190.15/155/video.m3u8
-#EXTINF:-1 ,Оружие
-http://193.111.244.43:8080/oruzhie/index.m3u8?&token=test
 #EXTINF:-1 ,АРСЕНАЛ
 http://87.250.254.45/kal/arsenal_belarus/arsenal_belarus0.m3u8
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
@@ -173,8 +171,6 @@ http://moobl.ru/hls/Bobior.m3u8
 http://188.113.190.15/29/video.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://188.113.190.15/38/video.m3u8
-#EXTINF:-1 ,Еда
-http://193.111.244.43:8080/edahd/index.m3u8?&token=test
 #EXTINF:-1 ,Еда премиум
 https://87.250.254.45/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
 #EXTINF:-1 ,Food Network
@@ -207,6 +203,8 @@ http://91.207.115.228:5000/c147
 http://91.207.115.228:5000/c149
 #EXTINF:-1 ,Телепутешествия
 http://91.207.115.228:5000/c93
+#EXTINF:-1 ,Радость Моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Big planet
 http://91.207.115.228:5000/c94
 #EXTINF:-1 ,Viasat Explore
