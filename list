@@ -85,6 +85,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 http://188.113.190.15/155/video.m3u8
 #EXTINF:-1 ,Оружие
 http://193.111.244.43:8080/oruzhie/index.m3u8?&token=test
+#EXTINF:-1 ,АРСЕНАЛ
+http://87.250.254.45/kal/arsenal_belarus/arsenal_belarus0.m3u8
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 ,РБК
