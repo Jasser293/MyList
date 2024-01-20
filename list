@@ -290,9 +290,9 @@ http://188.113.190.15/313/video.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
-http://91.207.115.228:5000/c153
+http://88.135.128.20:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 ,Eurosport 2 HD
-http://91.207.115.228:5000/c154
+http://193.111.244.43:8080/eurosport2/index.m3u8?&token=test
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
@@ -351,7 +351,7 @@ http://91.207.115.228:5000/c68
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 ,Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель
+#EXTINF:-1 ,Карусель
 http://dmi3y-tv.ru/hls/vitrina/CH_KARUSEL.m3u8
 #EXTINF:-1 ,TV3 Life
 http://ott.watch/stream/TQM52U7KY3/373.m3u8
