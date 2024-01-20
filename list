@@ -215,6 +215,12 @@ http://91.207.115.228:5000/c96
 http://91.207.115.228:5000/c97
 #EXTINF:-1 ,Дикий
 http://91.207.115.228:5000/c98
+#EXTINF:-1 ,Наша Сибирь
+http://87.250.254.45/kal/sibir/sibir0.m3u8
+#EXTINF:-1 ,Диалоги о рыбалке
+http://87.250.254.45/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 ,RTG HD
+http://87.250.254.45/kal/rtg/rtg0.m3u8
 #EXTINF:-1 ,24 ТЕХНО
 http://188.113.190.15/40/video.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
@@ -249,6 +255,22 @@ http://188.113.190.15/100/video.m3u8
 http://188.113.190.15/164/video.m3u8
 #EXTINF:-1 ,Русский роман
 http://188.113.190.15/221/video.m3u8
+#EXTINF:-1 ,BollywooD
+http://87.250.254.45/kal/bollywood_belarus/bollywood_belarus0.m3u8
+#EXTINF:-1 ,HollywooD
+http://87.250.254.45/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 ,Dizi Channel
+http://87.250.254.45/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 ,КИНОМАН
+http://87.250.254.45/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 ,TV XXI
+http://87.250.254.45/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 ,CINEMA HD
+http://87.250.254.45/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 ,НСТ
+http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 ,VHS-ка
+http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 ,Кино
 http://91.207.115.228:5000/c28
 #EXTINF:-1 ,Мосфильм золотая коллекция
@@ -351,8 +373,26 @@ http://91.207.115.228:5000/c67
 http://91.207.115.228:5000/c68
 #EXTINF:-1 ,СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 ,Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 ,Лёва
+http://87.250.254.45/kal/leva/leva0.m3u8
+#EXTINF:-1 ,Мультиландия
+http://87.250.254.45/kal/multilandia/multilandia0.m3u8
+#EXTINF:-1 ,В гостях у сказки
+http://87.250.254.45/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 ,Капитан Фантастика
+http://87.250.254.45/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
+#EXTINF:-1 ,Duck TV HD
+http://87.250.254.45/kal/ducktv_belarus/ducktv_belarus0.m3u8
+#EXTINF:-1 ,Мульт
+http://87.250.254.45/kal/mult_belarus/mult_belarus0.m3u8
+#EXTINF:-1 ,Tiji
+http://87.250.254.45/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1 ,Gulli Girl
+http://87.250.254.45/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 ,Рыжий
+http://87.250.254.45/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
+#EXTINF:-1 ,Чижик
+http://87.250.254.45/kal/chizhik/chizhik0.m3u8
 #EXTINF:-1 ,Карусель
 http://dmi3y-tv.ru/hls/vitrina/CH_KARUSEL.m3u8
 #EXTINF:-1 ,TV3 Life
