@@ -317,6 +317,10 @@ http://188.113.190.15/313/video.m3u8
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 http://88.135.128.20:7272/mlR5cGNUsvBxcv8
+#EXTINF:-1 ,Eurosport 1
+http://91.207.115.228:5000/c153
+#EXTINF:-1 ,Eurosport 2
+http://91.207.115.228:5000/c154
 #EXTINF:-1 ,Eurosport 2 HD
 http://ott.watch/stream/SII4T392IL/192.m3u8
 #EXTINF:-1 ,Беларусь 5
