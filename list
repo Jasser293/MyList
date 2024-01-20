@@ -173,8 +173,8 @@ http://188.113.190.15/29/video.m3u8
 http://188.113.190.15/38/video.m3u8
 #EXTINF:-1 ,Еда
 http://193.111.244.43:8080/edahd/index.m3u8?&token=test
-#EXTINF:-1 ,Еда
-https://mhd116.iptv2022.com/p/TxGjWaUNsm4bDbUNPa63bw,1705784410/streaming/eda/324/1/index.m3u8
+#EXTINF:-1 ,Еда премиум
+https://87.250.254.45/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
 #EXTINF:-1 ,Fashion TV
 http://188.113.190.15/194/video.m3u8
 #EXTINF:-1 ,ЗООПАРК
