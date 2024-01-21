@@ -160,7 +160,7 @@ http://188.113.190.15/322/video.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Russian Motorsport
-https://autopilot.catcast.tv/content/37909/index.m3u8
+#https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 ,Motorsport
 https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 #EXTINF:-1 ,Точка отрыва
@@ -381,8 +381,6 @@ http://91.207.115.228:5000/c62
 http://91.207.115.228:5000/c67
 #EXTINF:-1 ,О!
 http://91.207.115.228:5000/c68
-#EXTINF:-1 ,СоюзМультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 ,Лёва
 http://87.250.254.45/kal/leva/leva0.m3u8
 #EXTINF:-1 ,Мультиландия
