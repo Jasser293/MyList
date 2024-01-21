@@ -46,6 +46,8 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://135.181.115.81/russia/rossiya24/playlist.m3u8
 #EXTINF:-1 ,Россия К
+http://dmi3y-tv.ru/hls/vitrina/CH_RUSSIAK.m3u8
+#EXTINF:-1 ,Россия К
 https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
