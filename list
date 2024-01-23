@@ -230,7 +230,7 @@ http://87.250.254.45/kal/rtg/rtg0.m3u8
 #EXTINF:-1 ,24 ТЕХНО
 http://188.113.190.15/40/video.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
-http://188.113.190.15/301/video.m3u8
+http://94.232.104.237:8000/play/113/index.m3u8
 #EXTINF:-1 ,Silkway
 http://188.113.190.15/163/video.m3u8
 #EXTINF:-1 ,Da Vinci
@@ -305,18 +305,16 @@ http://188.113.190.15/203/video.m3u8
 http://188.113.190.15/201/video.m3u8
 #EXTINF:-1 ,Vip Megahit
 http://188.113.190.15/202/video.m3u8
+#EXTINF:-1 ,Кинокомедия
+http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
 #EXTINF:-1 ,Киномикс
-http://188.113.190.15/308/video.m3u8
-#EXTINF:-1 ,Кинопремьера
-http://188.113.190.15/309/video.m3u8
+http://213.172.73.170:8081/nimble_live/1112__Kinomiks/playlist.m3u8
 #EXTINF:-1 ,Киносвидание
-http://188.113.190.15/310/video.m3u8
+http://213.172.73.170:8081/nimble_live/1032__Kinosvidaniye/playlist.m3u8
 #EXTINF:-1 ,Киносемья
-http://188.113.190.15/311/video.m3u8
+http://213.172.73.170:8081/nimble_live/1098__Kinosemya/playlist.m3u8
 #EXTINF:-1 ,Киносерия
-http://188.113.190.15/312/video.m3u8
-#EXTINF:-1 ,Кинохит
-http://188.113.190.15/313/video.m3u8
+http://213.172.73.170:8081/nimble_live/1090__Kinoseriya/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81/russia/eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
