@@ -5,8 +5,6 @@ http://135.181.115.81/russia/pervyj_kanal/playlist.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 ,Первый HD
 http://91.207.115.228:5000/c99
-#EXTINF:-1 ,Первый
-http://188.113.190.15/1/video.m3u8
 #EXTINF:-1 ,Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,НТВ
@@ -39,8 +37,6 @@ http://135.181.115.81/russia/rossiya_1/playlist.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 HD
 http://91.207.115.228:5000/c100
-#EXTINF:-1 ,Россия 1
-http://188.113.190.15/2/video.m3u8
 #EXTINF:-1 ,Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 ,РОССИЯ 24
@@ -54,25 +50,25 @@ http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,РенТВ HD
 https://rentv-live-megafon2.mediavitrina.ru:443/hls-livef1/ren-tv/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://188.113.190.15/16/video.m3u8
+http://213.172.73.170:8081/nimble_live/1108__РЕНТВ/playlist.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
-http://188.113.190.15/10/video.m3u8
+http://213.172.73.170:8081/nimble_live/1030__TVC/playlist.m3u8
 #EXTINF:-1 ,Беларусь 24
-http://188.113.190.15/213/video.m3u8
+http://31.211.77.158:8000/play/a134/index.m3u8
 #EXTINF:-1 ,СТВ
 http://dmi3y-tv.ru/hls/blrus/CH_STVHD720.m3u8
 #EXTINF:-1 ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР 24
-http://188.113.190.15/120/video.m3u8
+http://31.211.77.158:8000/play/a036/index.m3u8
 #EXTINF:-1 ,МИР
-http://188.113.190.15/217/video.m3u8
+http://31.211.77.158:8000/play/a018/index.m3u8
 #EXTINF:-1 ,Russia today
-http://188.113.190.15/193/video.m3u8
+http://94.228.204.166:8000/play/0098
 #EXTINF:-1 ,Соловьев Live
 http://91.205.165.11:22888/play/111/index.m3u8
 #EXTINF:-1 ,Звезда
@@ -160,7 +156,7 @@ http://91.207.115.228:5000/c110
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Russian Motorsport
-#https://autopilot.catcast.tv/content/37909/index.m3u8
+https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 ,Motorsport
 https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 #EXTINF:-1 ,Точка отрыва
@@ -168,13 +164,19 @@ http://188.113.190.15/183/video.m3u8
 #EXTINF:-1 ,Red Bull
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 ,Усадьба
+http://91.205.165.11:22888/play/91/index.m3u8
+#EXTINF:-1 ,Усадьба
 http://188.113.190.15/71/video.m3u8
 #EXTINF:-1 ,Бобёр
-http://188.113.190.15/131/video.m3u8
-#EXTINF:-1 ,Бобёр
 http://94.232.104.237:8000/play/044/index.m3u8
+#EXTINF:-1 ,Бобёр
+http://188.113.190.15/131/video.m3u8
+#EXTINF:-1 ,Доктор
+http://91.205.165.11:22888/play/68/index.m3u8
 #EXTINF:-1 ,Доктор
 http://188.113.190.15/29/video.m3u8
+#EXTINF:-1 ,Кухня ТВ
+http://31.211.77.158:8000/play/a194/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://188.113.190.15/38/video.m3u8
 #EXTINF:-1 ,Еда премиум
@@ -409,5 +411,3 @@ http://ott.watch/stream/SII4T392IL/371.m3u8
 http://ott.watch/stream/SII4T392IL/372.m3u8
 #EXTINF:-1 ,LTV1
 http://ott.watch/stream/SII4T392IL/34.m3u8
-#EXTINF:-1 ,Соловьёв Live
-http://188.113.190.15/333/video.m3u8
