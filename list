@@ -194,8 +194,6 @@ http://109.239.208.82:80/zoo/index.m3u8
 http://188.113.190.15/46/video.m3u8
 #EXTINF:-1 ,Поехали!
 http://212.22.76.51:82/poehali/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Большой чемодан
-http://api.alpaca.t62a.com/hls/9115/stream0.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://31.211.77.158:8000/play/a185/index.m3u8
 #EXTINF:-1 ,Brodilo TV HD
