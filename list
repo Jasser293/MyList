@@ -71,8 +71,8 @@ http://31.211.77.158:8000/play/a036/index.m3u8
 http://31.211.77.158:8000/play/a018/index.m3u8
 #EXTINF:-1 ,Russia today
 http://94.228.204.166:8000/play/0098
-#EXTINF:-1 ,Соловьев Live
-http://91.205.165.11:22888/play/111/index.m3u8
+#EXTINF:-1 ,Соловьев.Live
+https://178.248.232.222/iframe/stream/live_id/63338?43e=5.m3u8
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Звезда
@@ -398,6 +398,5 @@ http://ott.watch/stream/SII4T392IL/371.m3u8
 http://ott.watch/stream/SII4T392IL/372.m3u8
 #EXTINF:-1 ,LTV1
 http://ott.watch/stream/SII4T392IL/34.m3u8
-#EXTINF:-1 ,Соловьев.Live
-https://178.248.232.222/iframe/stream/live_id/63338?43e=5.m3u8
+
 
