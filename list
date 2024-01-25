@@ -409,3 +409,5 @@ http://ott.watch/stream/SII4T392IL/371.m3u8
 http://ott.watch/stream/SII4T392IL/372.m3u8
 #EXTINF:-1 ,LTV1
 http://ott.watch/stream/SII4T392IL/34.m3u8
+#EXTINF:-1 ,Соловьёв Live
+http://188.113.190.15/333/video.m3u8
