@@ -66,9 +66,9 @@ http://dmi3y-tv.ru/hls/blrus/CH_STVHD720.m3u8
 #EXTINF:-1 ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР 24
-http://31.211.77.158:8000/play/a036/index.m3u8
+http://188.113.190.15/216/video.m3u8
 #EXTINF:-1 ,МИР
-http://31.211.77.158:8000/play/a018/index.m3u8
+http://188.113.190.15/195/video.m3u8
 #EXTINF:-1 ,Russia today
 http://188.113.190.15/193/video.m3u8
 #EXTINF:-1 ,Соловьев.Live
@@ -126,14 +126,13 @@ http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://91.207.115.228:5000/c51
 #EXTINF:-1 ,СТС Love
-#EXTINF:-1 group-title="НЭТКОМ (VPN)",СТС Love
-http://31.211.77.158:8000/play/a071/index.m3u8
+http://188.113.190.15/93/video.m3u8
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Сарафан
-http://31.211.77.158:8000/play/a058/index.m3u8
+http://188.113.190.15/165/video.m3u8
 #EXTINF:-1 ,Че!
 https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 #EXTINF:-1 ,Ю
