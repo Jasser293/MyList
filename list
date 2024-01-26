@@ -165,7 +165,7 @@ http://212.22.76.51:83/tochka_otryva/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Red Bull
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 ,Усадьба
-http://91.205.165.11:22888/play/91/index.m3u8
+http://94.232.104.237:8000/play/121/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://188.113.190.15/71/video.m3u8
 #EXTINF:-1 ,Бобёр
@@ -173,7 +173,7 @@ http://94.232.104.237:8000/play/044/index.m3u8
 #EXTINF:-1 ,Бобёр
 http://188.113.190.15/131/video.m3u8
 #EXTINF:-1 ,Доктор
-http://91.205.165.11:22888/play/68/index.m3u8
+http://213.172.73.170:8081/nimble_live/1145__GalaxyTV/playlist.m3u8
 #EXTINF:-1 ,Доктор
 http://188.113.190.15/29/video.m3u8
 #EXTINF:-1 ,Кухня ТВ
@@ -201,7 +201,7 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
 http://213.172.73.170:8081/nimble_live/1016__Sovershenno_Sekretno/playlist.m3u8
 #EXTINF:-1 ,Кто Есть Кто
-http://91.205.165.11:22888/play/132/index.m3u8
+http://188.113.190.15/82/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://94.228.204.166:8000/play/1071
 #EXTINF:-1 ,МОЯ СТИХИЯ
