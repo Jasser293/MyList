@@ -345,6 +345,14 @@ http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/132838/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Матч! Игра
 http://bl.uma.media/live/154036/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Телеканал Футбол
+http://213.172.73.170:8081/nimble_live/1025__Futbol/playlist.m3u8
+#EXTINF:-1 ,Матч! Футбол 1
+http://213.172.73.170:8081/nimble_live/1111__Mat4_Futbol_1/playlist.m3u8
+#EXTINF:-1 ,Матч! Футбол 2
+http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
+#EXTINF:-1 ,Матч! Футбол 3
+http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
 #EXTINF:-1 ,Матч! ФУТБОЛ 3
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,KHL
