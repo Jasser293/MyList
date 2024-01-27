@@ -196,7 +196,7 @@ http://188.113.190.15/46/video.m3u8
 #EXTINF:-1 ,Поехали!
 http://212.22.76.51:82/poehali/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://31.211.77.158:8000/play/a185/index.m3u8
+http://188.113.190.15/56/video.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
@@ -234,7 +234,7 @@ http://87.250.254.45/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 ,RTG HD
 http://87.250.254.45/kal/rtg/rtg0.m3u8
 #EXTINF:-1 ,24 ТЕХНО
-http://31.211.77.158:8000/play/a147/index.m3u8
+http://188.113.190.15/40/video.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
 http://94.232.104.237:8000/play/113/index.m3u8
 #EXTINF:-1 ,Da Vinci
