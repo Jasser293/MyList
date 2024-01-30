@@ -17,7 +17,7 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ
 http://91.142.158.107:8092/play/4/index.m3u8
-#EXTINF:-1,HTB Беларусь 
+#EXTINF:-1 ,HTB Беларусь
 https://stream1.prizma.link/NTVBelarusHD/video.m3u8
 #EXTINF:-1 ,НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -163,7 +163,7 @@ http://109.239.208.82:80/drive/index.m3u8
 https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 #EXTINF:-1 ,MotoR Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
-#EXTINF:-1 ,Racing America 
+#EXTINF:-1 ,Racing America
 https://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Точка отрыва
 http://212.22.76.51:83/tochka_otryva/tracks-v1a1/mono.m3u8
@@ -213,8 +213,6 @@ http://213.172.73.170:8081/nimble_live/1016__Sovershenno_Sekretno/playlist.m3u8
 http://188.113.190.15/82/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://94.228.204.166:8000/play/1071
-#EXTINF:-1 ,МОЯ СТИХИЯ
-http://185.235.187.10:8888/play/moya_planeta/index.m3u8
 #EXTINF:-1 ,Discovery
 http://91.207.115.228:5000/c146
 #EXTINF:-1 ,Animal planet
@@ -333,7 +331,7 @@ https://autopilot.catcast.tv/content/45269/index.m3u8
 https://autopilot.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 ,Сити Эдем - Кино Экшен
 https://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 , Сити Эдем - Кино Мистика
+#EXTINF:-1 ,Сити Эдем - Кино Мистика
 https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 ,Сити Эдем - Кино Комедия
 https://autopilot.catcast.tv/content/41331/index.m3u8
