@@ -181,7 +181,7 @@ http://188.113.190.15/131/video.m3u8
 http://213.172.73.170:8081/nimble_live/1145__GalaxyTV/playlist.m3u8
 #EXTINF:-1 ,Доктор
 http://188.113.190.15/29/video.m3u8
-#EXTINF:-1  ,Светлое ТВ
+#EXTINF:-1 ,Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
 http://213.172.73.170:8081/nimble_live/1086__Kuxya_Tv/playlist.m3u8
