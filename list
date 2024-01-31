@@ -133,6 +133,8 @@ http://188.113.190.15/93/video.m3u8
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-1 ,Телекафе
+http://91.207.115.228:5000/c84
 #EXTINF:-1 ,Сарафан
 http://188.113.190.15/165/video.m3u8
 #EXTINF:-1 ,Че!
@@ -183,6 +185,8 @@ http://213.172.73.170:8081/nimble_live/1145__GalaxyTV/playlist.m3u8
 http://188.113.190.15/29/video.m3u8
 #EXTINF:-1 ,Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:-1 ,Живи
+http://94.228.204.166:8000/play/0097
 #EXTINF:-1 ,Кухня ТВ
 http://213.172.73.170:8081/nimble_live/1086__Kuxya_Tv/playlist.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
