@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://185.37.150.40:8092/Pervi_HD/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
+#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
+http://185.37.150.40:8092/Pervi_HD/index.m3u8
 #EXTINF:-1 ,Первый HD
 http://91.207.115.228:5000/c99
 #EXTINF:-1 ,Первый канал
