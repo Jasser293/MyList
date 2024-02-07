@@ -6,8 +6,6 @@ http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 ,Первый HD
 http://91.207.115.228:5000/c99
 #EXTINF:-1 ,Первый канал
-#http://dmi3y-tv.ru/hls/vitrina/CH_1TV.m3u8
-#EXTINF:-1 ,Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
@@ -283,8 +281,6 @@ http://87.250.254.45/kal/bollywood_belarus/bollywood_belarus0.m3u8
 http://87.250.254.45/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 ,Dizi Channel
 http://87.250.254.45/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
-#EXTINF:-1 ,КИНОМАН
-http://87.250.254.45/kal/kinoman_belarus/kinoman_belarus0.m3u8
 #EXTINF:-1 ,TV XXI
 http://87.250.254.45/kal/tv_21_belarus/tv_21_belarus0.m3u8
 #EXTINF:-1 ,CINEMA HD
@@ -304,7 +300,7 @@ http://91.207.115.228:5000/c30
 #EXTINF:-1 ,.Red
 http://91.205.199.3:80/red/index.m3u8
 #EXTINF:-1 ,.Black
-https://stream01.vnet.am/Kinosemya/mono.m3u8
+http://188.113.190.15/186/video.m3u8
 #EXTINF:-1 ,BackusTV Original
 https://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 ,BackusTV Dark
@@ -424,10 +420,10 @@ http://87.250.254.45/kal/chizhik/chizhik0.m3u8
 #EXTINF:-1 ,Карусель
 http://dmi3y-tv.ru/hls/vitrina/CH_KARUSEL.m3u8
 #EXTINF:-1 ,TV3 Life
-http://ott.watch/stream/SII4T392IL/373.m3u8
+http://ott.watch/stream/TQM52U7KY3/373.m3u8
 #EXTINF:-1 ,LTV 7
-http://ott.watch/stream/SII4T392IL/371.m3u8
+http://ott.watch/stream/TQM52U7KY3/371.m3u8
 #EXTINF:-1 ,TV 24
-http://ott.watch/stream/SII4T392IL/372.m3u8
+http://ott.watch/stream/TQM52U7KY3/372.m3u8
 #EXTINF:-1 ,LTV1
-http://ott.watch/stream/SII4T392IL/34.m3u8
+http://ott.watch/stream/TQM52U7KY3/34.m3u8
