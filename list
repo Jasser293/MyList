@@ -343,6 +343,8 @@ http://185.32.44.154/eurosport/index.m3u8
 http://88.135.128.20:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 ,Eurosport 1
 http://91.207.115.228:5000/c153
+#EXTINF:-1 ,Eurosport 1
+https://91.90.216.99/1439/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://91.207.115.228:5000/c154
 #EXTINF:-1 ,Eurosport 2 HD
