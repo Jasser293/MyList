@@ -85,6 +85,8 @@ http://188.113.190.15/155/video.m3u8
 http://86.57.211.182:32200/Orujie/index.m3u8?auth=token:test
 #EXTINF:-1 ,АРСЕНАЛ
 http://87.250.254.45/kal/arsenal_belarus/arsenal_belarus0.m3u8
+#EXTINF:-1 ,Ратник
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 ,РБК
