@@ -425,6 +425,22 @@ http://87.250.254.45/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 http://87.250.254.45/kal/chizhik/chizhik0.m3u8
 #EXTINF:-1 ,Карусель
 http://dmi3y-tv.ru/hls/vitrina/CH_KARUSEL.m3u8
+#EXTINF:-1 ,LNK HD
+http://ott.watch/stream/AB2BQ2JU2G/30.m3u8
+#EXTINF:-1 ,BTV HD
+http://ott.watch/stream/AB2BQ2JU2G/35.m3u8
+#EXTINF:-1 ,LRT HD
+http://ott.watch/stream/AB2BQ2JU2G/31.m3u8
+#EXTINF:-1 ,LRT Plius HD
+http://ott.watch/stream/AB2BQ2JU2G/353.m3u8
+#EXTINF:-1 ,TV 1
+http://ott.watch/stream/AB2BQ2JU2G/374.m3u8
+#EXTINF:-1 ,TV3 HD
+http://ott.watch/stream/AB2BQ2JU2G/29.m3u8
+#EXTINF:-1 ,Balticum
+http://ott.watch/stream/AB2BQ2JU2G/376.m3u8
+#EXTINF:-1 ,TV 6
+http://ott.watch/stream/AB2BQ2JU2G/375.m3u8
 #EXTINF:-1 ,TV3 Life
 http://ott.watch/stream/TQM52U7KY3/373.m3u8
 #EXTINF:-1 ,LTV 7
