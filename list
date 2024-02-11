@@ -17,8 +17,8 @@ http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 http://91.142.158.107:8092/play/4/index.m3u8
 #EXTINF:-1 ,HTB Беларусь
 https://stream1.prizma.link/NTVBelarusHD/video.m3u8
-#EXTINF:-1 ,НТВ Право
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ Право 
+https://87.250.254.45/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 ,НТВ Стиль
@@ -101,6 +101,8 @@ http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 http://188.113.190.15/173/video.m3u8
 #EXTINF:-1 ,Перец
 http://45.159.74.14/Perec/mono.m3u8
+#EXTINF:-1 ,КВН ТВ
+https://87.250.254.45/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 #EXTINF:-1 ,ТНТ
 http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ
