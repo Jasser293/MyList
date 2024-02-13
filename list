@@ -260,7 +260,7 @@ http://188.113.190.15/104/video.m3u8
 #EXTINF:-1 ,1HD
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
 #EXTINF:-1 ,Шансон ТВ
-http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
+http://141.95.55.143/CH115/index.m3u8
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Russian Music Box
