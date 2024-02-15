@@ -50,13 +50,13 @@ https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://213.172.73.170:8081/nimble_live/1108__РЕНТВ/playlist.m3u8
+http://31.148.6.9:10011/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
-http://213.172.73.170:8081/nimble_live/1030__TVC/playlist.m3u8
+http://31.148.6.9:10010/index.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://188.113.190.15/213/video.m3u8
 #EXTINF:-1 ,СТВ
@@ -122,7 +122,7 @@ http://5.153.190.251:8000/play/a055
 #EXTINF:-1 ,СТС
 http://91.142.158.107:8092/play/13/index.m3u8
 #EXTINF:-1 ,СТС
-http://213.172.73.170:8081/nimble_live/1087__STS/playlist.m3u8
+http://31.148.6.9:10013/index.m3u8
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС Love
@@ -156,7 +156,7 @@ http://5.153.190.251:8000/play/a02l
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:-1 ,АВТО 24
-http://213.172.73.170:8081/nimble_live/1054__Avto_24/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/118/playlist.m3u8
 #EXTINF:-1 ,Авто плюс
 http://91.207.115.228:5000/c110
 #EXTINF:-1 ,ДРАЙВ
@@ -184,15 +184,13 @@ http://188.113.190.15/131/video.m3u8
 #EXTINF:-1 ,Загородная жизнь
 https://87.250.254.45/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
 #EXTINF:-1 ,Доктор
-http://213.172.73.170:8081/nimble_live/1145__GalaxyTV/playlist.m3u8
-#EXTINF:-1 ,Доктор
 http://188.113.190.15/29/video.m3u8
 #EXTINF:-1 ,Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,Живи
 http://94.228.204.166:8000/play/0097
 #EXTINF:-1 ,Кухня ТВ
-http://213.172.73.170:8081/nimble_live/1086__Kuxya_Tv/playlist.m3u8
+http://5.153.190.251:8000/play/a02y
 #EXTINF:-1 ,КУХНЯ ТВ
 http://188.113.190.15/38/video.m3u8
 #EXTINF:-1 ,Еда премиум
@@ -218,7 +216,7 @@ http://188.113.190.15/56/video.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://213.172.73.170:8081/nimble_live/1016__Sovershenno_Sekretno/playlist.m3u8
+http://5.153.190.251:8000/play/a0bf
 #EXTINF:-1 ,Кто Есть Кто
 http://188.113.190.15/82/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
@@ -326,15 +324,15 @@ http://91.207.115.228:5000/c144
 #EXTINF:-1 ,viju+ Premiere HD
 http://91.207.115.228:5000/c145
 #EXTINF:-1 ,Кинокомедия
-http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/194/playlist.m3u8
 #EXTINF:-1 ,Киномикс
-http://213.172.73.170:8081/nimble_live/1112__Kinomiks/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/193/playlist.m3u8
 #EXTINF:-1 ,Киносвидание
-http://213.172.73.170:8081/nimble_live/1032__Kinosvidaniye/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/196/playlist.m3u8
 #EXTINF:-1 ,Киносемья
-http://213.172.73.170:8081/nimble_live/1098__Kinosemya/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/198/playlist.m3u8
 #EXTINF:-1 ,Киносерия
-http://213.172.73.170:8081/nimble_live/1090__Kinoseriya/playlist.m3u8
+http://hls.k-telecom.org:8081/kt/221/playlist.m3u8
 #EXTINF:-1 ,Сити Эдем - Кино Драма
 https://autopilot.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 ,Сити Эдем - Кино Классика
