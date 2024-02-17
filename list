@@ -17,7 +17,7 @@ http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 http://91.142.158.107:8092/play/4/index.m3u8
 #EXTINF:-1 ,HTB Беларусь
 https://stream1.prizma.link/NTVBelarusHD/video.m3u8
-#EXTINF:-1 ,НТВ Право 
+#EXTINF:-1 ,НТВ Право
 https://87.250.254.45/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
@@ -107,8 +107,8 @@ https://87.250.254.45/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:-1, ТНТ4
-http://185.32.44.154/tntcomedy/index.m3u8
+#EXTINF:-1 ,ТНТ4
+http://91.207.115.228:5000/c142
 #EXTINF:-1 ,ТНТ4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТВ3
@@ -147,7 +147,7 @@ https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://94.232.104.237:8000/play/016/index.m3u8
-#EXTINF:-1, Суббота!
+#EXTINF:-1 ,Суббота!
 http://185.37.150.40:8092/Super/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
@@ -186,7 +186,7 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,Живи
 http://94.228.204.166:8000/play/0097
 #EXTINF:-1 ,Кухня ТВ
-http://hls127.homeiptv.org:8880/Kuhnya_TV/video.m3u8
+http://91.207.115.228:5000/c74
 #EXTINF:-1 ,КУХНЯ ТВ
 http://188.113.190.15/38/video.m3u8
 #EXTINF:-1 ,Еда премиум
@@ -206,13 +206,13 @@ http://188.113.190.15/46/video.m3u8
 #EXTINF:-1 ,Зоо ТВ
 http://streaming.tv-teleport.ru/Zoo_TV/index.m3u8
 #EXTINF:-1 ,Поехали!
-http://hls127.homeiptv.org:8880/Poehali/video.m3u8
+http://188.113.190.15/206/video.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://188.113.190.15/56/video.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://hls127.homeiptv.org:8880/Sovershenno_Sekretno/video.m3u8
+http://188.113.190.15/174/video.m3u8
 #EXTINF:-1 ,Кто Есть Кто
 http://188.113.190.15/82/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
@@ -253,8 +253,10 @@ http://188.113.190.15/161/video.m3u8
 http://188.113.190.15/104/video.m3u8
 #EXTINF:-1 ,1HD
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
-#EXTINF:-1 ,Шансон ТВ
-http://185.32.44.154/shanson/index.m3u8
+#EXTINF:-1,Шансон ТВ
+http://5.153.190.251:8000/play/a0bs
+#EXTINF:-1,Шансон ТВ International
+http://5.153.190.251:8000/play/a0bv
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Russian Music Box
@@ -293,8 +295,6 @@ http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
 http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 ,Видеокассета
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
-#EXTINF:-1 ,MM Кунг-Фу HD
-http://hls127.homeiptv.org:8880/minimax-kung-fu-m4f/video.m3u8
 #EXTINF:-1 ,Кино
 http://91.207.115.228:5000/c28
 #EXTINF:-1 ,Мосфильм золотая коллекция
@@ -341,44 +341,6 @@ https://autopilot.catcast.tv/content/41333/index.m3u8
 https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 ,Сити Эдем - Кино Комедия
 https://autopilot.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 ,Prokop TV New Film HD
-http://hls127.homeiptv.org:8880/PROKOPTV_CINEMA_FHD/video.m3u8
-#EXTINF:-1 ,Prokop TV Cinema HD
-http://hls127.homeiptv.org:8880/PROKOPTV_CINEMA_FHD/video.m3u8
-#EXTINF:-1 ,Prokop TV Лучшее HD
-http://hls127.homeiptv.org:8880/PROKOPTV_CINEMA/video.m3u8
-#EXTINF:-1 ,Prokop TV Ужасы HD
-http://hls127.homeiptv.org:8880/PROKOPTV_HORROR/video.m3u8
-#EXTINF:-1 ,Prokop TV Криминал HD
-http://hls127.homeiptv.org:8880/PROKOPTV_CRIMINAL/video.m3u8
-#EXTINF:-1 ,Prokop TV Cinema 60 fps HD
-http://hls127.homeiptv.org:8880/PROKOPTV_CINEMA_60_fps/video.m3u8
-#EXTINF:-1 ,Prokop TV Horror HD
-http://hls127.homeiptv.org:8880/PROKOPTV_HORROR/video.m3u8
-#EXTINF:-1 ,Prokop TV Comedy HD
-http://hls127.homeiptv.org:8880/PROKOPTV_COMEDY/video.m3u8
-#EXTINF:-1 ,Prokop TV Fantazy HD
-http://hls127.homeiptv.org:8880/PROKOPTV_FANTAZY/video.m3u8
-#EXTINF:-1 ,Prokop TV Criminal HD
-http://hls127.homeiptv.org:8880/PROKOPTV_CRIMINAL/video.m3u8
-#EXTINF:-1 ,Prokop TV History HD
-http://hls127.homeiptv.org:8880/PROKOPTV_ISTORY/video.m3u8
-#EXTINF:-1 ,Prokop TV Detektiv HD
-http://hls127.homeiptv.org:8880/PROKOPTV_DETEKTIV/video.m3u8
-#EXTINF:-1 ,Prokop TV Netflix HD
-http://hls127.homeiptv.org:8880/PROKOPTV_NETFLIX/video.m3u8
-#EXTINF:-1 ,YOSSO TV New Кино HD
-http://hls127.homeiptv.org:8880/YOSSO-NEW-KINO/video.m3u8
-#EXTINF:-1 ,YOSSO TV Grand HD
-http://hls127.homeiptv.org:8880/YOSSO-GRAND/video.m3u8
-#EXTINF:-1 ,YOSSO TV Забавное HD
-http://hls127.homeiptv.org:8880/YOSSO-ZABAVNOE/video.m3u8
-#EXTINF:-1 ,YOSSO TV Best HD
-http://hls127.homeiptv.org:8880/YOSSO-BEST/video.m3u8
-#EXTINF:-1 ,YOSSO TV Adrenaline HD
-http://hls127.homeiptv.org:8880/YOSSO-ADRENALINE/video.m3u8
-#EXTINF:-1 ,YOSSO TV Adventure HD
-http://hls127.homeiptv.org:8880/YOSSO-ADVENTURE/video.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 http://88.135.128.20:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 ,Eurosport 1
@@ -413,18 +375,10 @@ http://hls.k-telecom.org:8081/kt/210/playlist.m3u8
 http://hls.k-telecom.org:8081/kt/112/playlist.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://hls.k-telecom.org:8081/kt/107/playlist.m3u8
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
-http://185.32.44.154/futbol1/index.m3u8
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
-http://185.32.44.154/futbol2/index.m3u8
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
-http://185.32.44.154/futbol3/index.m3u8
 #EXTINF:-1 ,Старт
 https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
 #EXTINF:-1 ,KHL
 http://91.207.115.228:5000/c108
-#EXTINF:-1 ,KHL
-http://hls127.homeiptv.org:8880/KHL_TV/video.m3u8
 #EXTINF:-1 ,KHL Prime HD
 http://185.37.150.40:8092/KHL_HD/index.m3u8
 #EXTINF:-1 ,Tennis Channel
