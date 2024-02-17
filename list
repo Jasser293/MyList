@@ -136,7 +136,7 @@ http://188.113.190.15/165/video.m3u8
 #EXTINF:-1 ,Че!
 https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 #EXTINF:-1 ,Ю
-http://141.95.55.143/CH461/index.m3u8
+http://188.113.190.15/77/video.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://dmi3y-tv.ru/hls/T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
@@ -166,7 +166,7 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 ,Racing America
 https://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Точка отрыва
-http://212.22.76.51:83/tochka_otryva/tracks-v1a1/mono.m3u8
+http://109.239.208.82/tochka/index.m3u8
 #EXTINF:-1 ,Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
@@ -206,7 +206,7 @@ http://188.113.190.15/46/video.m3u8
 #EXTINF:-1 ,Зоо ТВ
 http://streaming.tv-teleport.ru/Zoo_TV/index.m3u8
 #EXTINF:-1 ,Поехали!
-http://212.22.76.51:82/poehali/tracks-v1a1/mono.m3u8
+http://hls127.homeiptv.org:8880/Poehali/video.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://188.113.190.15/56/video.m3u8
 #EXTINF:-1 ,Brodilo TV HD
@@ -254,7 +254,7 @@ http://188.113.190.15/104/video.m3u8
 #EXTINF:-1 ,1HD
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
 #EXTINF:-1 ,Шансон ТВ
-http://141.95.55.143/CH115/index.m3u8
+http://185.32.44.154/shanson/index.m3u8
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Russian Music Box
@@ -389,6 +389,10 @@ https://91.90.216.99/1439/index.m3u8
 http://91.207.115.228:5000/c154
 #EXTINF:-1 ,Eurosport 2 HD
 http://ott.watch/stream/SII4T392IL/192.m3u8
+#EXTINF:-1 ,Setanta Sports 1
+https://91.90.216.99/1263/index.m3u8
+#EXTINF:-1 ,Setanta Sports 2
+https://91.90.216.99/1264/index.m3u8
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
