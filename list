@@ -254,9 +254,7 @@ http://188.113.190.15/104/video.m3u8
 #EXTINF:-1 ,1HD
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
 #EXTINF:-1,Шансон ТВ
-http://5.153.190.251:8000/play/a0bs
-#EXTINF:-1,Шансон ТВ International
-http://5.153.190.251:8000/play/a0bv
+http://176.113.48.221:8986/118
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Russian Music Box
@@ -269,6 +267,26 @@ http://188.113.190.15/182/video.m3u8
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 ,ДОМ КИНО
+http://185.37.150.40:8092/Dom_kino/playlist.m3u8
+#EXTINF:-1 ,Amedia 1
+http://185.37.150.40:8092/Amedia1/playlist.m3u8
+#EXTINF:-1 ,Amedia 2
+http://185.37.150.40:8092/Amedia2/playlist.m3u8
+#EXTINF:-1 ,Ginger HD
+http://185.37.150.40:8092/Ginger_HD/playlist.m3u8
+#EXTINF:-1 ,КИНОХИТ
+http://185.37.150.40:8092/kinohit/playlist.m3u8
+#EXTINF:-1 ,РОДНОЕ КИНО
+http://185.37.150.40:8092/Nashe_kino/playlist.m3u8
+#EXTINF:-1 ,КИНОСЕРИЯ
+http://185.37.150.40:8092/Mnogo_tv/playlist.m3u8
+#EXTINF:-1 ,КИНОКОМЕДИЯ
+http://185.37.150.40:8092/Komediya/playlist.m3u8
+#EXTINF:-1 ,МУЖСКОЕ КИНО
+http://185.37.150.40:8092/Muj_kino/playlist.m3u8
+#EXTINF:-1 ,КИНОМИКС
+http://185.37.150.40:8092/kino_plus/playlist.m3u8
 #EXTINF:-1 ,Ретро
 http://188.113.190.15/67/video.m3u8
 #EXTINF:-1 ,Русский Иллюзион
