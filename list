@@ -271,14 +271,22 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 http://185.37.150.40:8092/Dom_kino/playlist.m3u8
 #EXTINF:-1 ,Amedia 1
 http://185.37.150.40:8092/Amedia1/playlist.m3u8
+#EXTINF:-1 ,Amedia 1
+http://185.37.150.40:8092/Amedia1/playlist.m3u8
+#EXTINF:-1 ,Amedia 2
+http://91.205.199.3/amedia2/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://185.37.150.40:8092/Amedia2/playlist.m3u8
+#EXTINF:-1 ,Amedia Hit
+http://92.100.39.32:22888/play/a04q
 #EXTINF:-1 ,Ginger HD
 http://185.37.150.40:8092/Ginger_HD/playlist.m3u8
-#EXTINF:-1 ,КИНОХИТ
-http://91.207.115.228:5000/c38
+#EXTINF:-1 ,КиноХит
+http://91.205.199.3/kinoxithd/index.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://hls.k-telecom.org:8081/kt/197/playlist.m3u8
+#EXTINF:-1 ,Кино ТВ
+http://31.148.6.4:10059/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.37.150.40:8092/Nashe_kino/playlist.m3u8
 #EXTINF:-1 ,КИНОСЕРИЯ
@@ -323,8 +331,12 @@ http://91.207.115.228:5000/c29
 http://91.207.115.228:5000/c30
 #EXTINF:-1 ,.Red
 http://91.205.199.3:80/red/index.m3u8
+#EXTINF:-1 ,.red
+http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 ,.Black
 http://188.113.190.15/186/video.m3u8
+#EXTINF:-1 ,.black
+http://91.205.199.3/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BackusTV Original
 https://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 ,BackusTV Dark
@@ -335,6 +347,12 @@ https://stream01.vnet.am/ZeeTV/mono.m3u8
 http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
+#EXTINF:-1 ,Viju TV1000
+http://91.205.199.3/tv1000/index.m3u8
+#EXTINF:-1 ,Viju TV1000 Action
+http://91.205.199.3/tv1000action/index.m3u8
+#EXTINF:-1 ,Viju+ Serial
+http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,viju+ Comedy HD
 http://91.207.115.228:5000/c143
 #EXTINF:-1 ,viju+ Megahit HD
@@ -343,10 +361,14 @@ http://91.207.115.228:5000/c144
 http://91.207.115.228:5000/c145
 #EXTINF:-1 ,Кинокомедия
 http://hls.k-telecom.org:8081/kt/194/playlist.m3u8
+#EXTINF:-1 ,Кинокомедия
+http://91.205.199.3/komedia/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://hls.k-telecom.org:8081/kt/193/playlist.m3u8
 #EXTINF:-1 ,Киносвидание
 http://hls.k-telecom.org:8081/kt/196/playlist.m3u8
+#EXTINF:-1 ,Киносвидание
+http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносемья
 http://hls.k-telecom.org:8081/kt/198/playlist.m3u8
 #EXTINF:-1 ,Киносерия
