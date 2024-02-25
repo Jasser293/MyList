@@ -3,14 +3,14 @@
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://185.37.150.40:8092/Pervi_HD/index.m3u8
-#EXTINF:-1 ,Первый HD
-http://91.207.115.228:5000/c99
+#EXTINF:-1 ,Первый канал
+http://176.113.48.221:8986/1
 #EXTINF:-1 ,Первый канал
 http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ HD
-http://185.37.150.40:8092/HTB_HD/playlist.m3u8
+http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ
@@ -38,7 +38,7 @@ http://185.37.150.40:8092/PTP_planeta/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 HD
-http://91.207.115.228:5000/c100
+http://176.113.48.221:8986/90
 #EXTINF:-1 ,Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 ,РОССИЯ 24
@@ -108,7 +108,7 @@ http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 ,ТНТ4
-http://91.207.115.228:5000/c142
+http://185.37.150.40:8092/THT4/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТВ3
@@ -122,7 +122,7 @@ http://31.148.6.9:10013/index.m3u8
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС Love
-http://91.207.115.228:5000/c51
+http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://188.113.190.15/93/video.m3u8
 #EXTINF:-1 ,Твоё ТВ
@@ -130,7 +130,7 @@ http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Телекафе
-http://91.207.115.228:5000/c84
+http://hls.k-telecom.org:8081/kt/189/playlist.m3u8
 #EXTINF:-1 ,Сарафан
 http://188.113.190.15/165/video.m3u8
 #EXTINF:-1 ,Че!
@@ -154,7 +154,9 @@ http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://hls.k-telecom.org:8081/kt/118/playlist.m3u8
 #EXTINF:-1 ,Авто плюс
-http://91.207.115.228:5000/c110
+http://176.113.48.221:8986/133
+#EXTINF:-1 ,Авто плюс
+http://streaming.tv-teleport.ru/Avto_Plus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82:80/drive/index.m3u8
 #EXTINF:-1 ,Russian Extreme
@@ -186,7 +188,7 @@ http://dmi3y-tv.ru/hls/CH_SVETLOETVHD.m3u8
 #EXTINF:-1 ,Живи
 http://94.228.204.166:8000/play/0097
 #EXTINF:-1 ,Кухня ТВ
-http://91.207.115.228:5000/c74
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://188.113.190.15/38/video.m3u8
 #EXTINF:-1 ,Еда премиум
@@ -218,25 +220,21 @@ http://188.113.190.15/82/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://94.228.204.166:8000/play/1071
 #EXTINF:-1 ,Discovery
-http://91.207.115.228:5000/c146
+http://tatooine.odessa.tv:9876/play/285/index.m3u8
 #EXTINF:-1 ,Animal planet
-http://91.207.115.228:5000/c147
+http://tatooine.odessa.tv:9876/play/286/index.m3u8
 #EXTINF:-1 ,Travel Channel
-http://91.207.115.228:5000/c149
+http://tatooine.odessa.tv:9876/play/405/index.m3u8
 #EXTINF:-1 ,Телепутешествия
-http://91.207.115.228:5000/c93
+http://94.232.104.237:8000/play/080/index.m3u8
 #EXTINF:-1 ,Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 ,Big planet
-http://91.207.115.228:5000/c94
 #EXTINF:-1 ,Viasat Explore
-http://91.207.115.228:5000/c95
+http://78.26.128.59:9876/play/223/index.m3u8
 #EXTINF:-1 ,Viasat History
-http://91.207.115.228:5000/c96
-#EXTINF:-1 ,Viasat Nature
-http://91.207.115.228:5000/c97
-#EXTINF:-1 ,Дикий
-http://91.207.115.228:5000/c98
+http://78.26.128.59:9876/play/337/index.m3u8
+#EXTINF:-1 ,Viasat Nature HD
+http://78.26.128.59:9876/play/336/index.m3u8
 #EXTINF:-1 ,Наша Сибирь
 http://87.250.254.45/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
@@ -278,7 +276,9 @@ http://91.205.199.3/amedia2/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://185.37.150.40:8092/Amedia2/playlist.m3u8
 #EXTINF:-1 ,Amedia Hit
-http://92.100.39.32:22888/play/a04q
+http://dmi3y-tv.ru/hls/CH_AMEDIAHIT.m3u8
+#EXTINF:-1 ,AMEDIA PREMIUM
+http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUM.m3u8
 #EXTINF:-1 ,Ginger HD
 http://185.37.150.40:8092/Ginger_HD/playlist.m3u8
 #EXTINF:-1 ,КиноХит
@@ -324,11 +324,11 @@ http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 ,Видеокассета
 #https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 ,Кино
-http://91.207.115.228:5000/c28
+http://78.26.128.59:9876/play/520/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://91.207.115.228:5000/c29
+http://hls.k-telecom.org:8081/kt/251/playlist.m3u8
 #EXTINF:-1 ,Дом кино
-http://91.207.115.228:5000/c30
+http://176.113.48.221:8986/36
 #EXTINF:-1 ,.Red
 http://91.205.199.3:80/red/index.m3u8
 #EXTINF:-1 ,.red
@@ -353,12 +353,6 @@ http://91.205.199.3/tv1000/index.m3u8
 http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 ,Viju+ Serial
 http://91.205.199.3/vipserialhd/index.m3u8
-#EXTINF:-1 ,viju+ Comedy HD
-http://91.207.115.228:5000/c143
-#EXTINF:-1 ,viju+ Megahit HD
-http://91.207.115.228:5000/c144
-#EXTINF:-1 ,viju+ Premiere HD
-http://91.207.115.228:5000/c145
 #EXTINF:-1 ,Кинокомедия
 http://hls.k-telecom.org:8081/kt/194/playlist.m3u8
 #EXTINF:-1 ,Кинокомедия
@@ -386,11 +380,11 @@ https://autopilot.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 http://88.135.128.20:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 ,Eurosport 1
-http://91.207.115.228:5000/c153
-#EXTINF:-1 ,Eurosport 2
-http://91.207.115.228:5000/c154
+http://tatooine.odessa.tv:9876/play/89/index.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
 http://ott.watch/stream/SII4T392IL/192.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://94.232.104.237:8000/play/062/index.m3u8
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
@@ -414,7 +408,7 @@ http://hls.k-telecom.org:8081/kt/107/playlist.m3u8
 #EXTINF:-1 ,Старт
 https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
 #EXTINF:-1 ,KHL
-http://91.207.115.228:5000/c108
+http://62.231.191.65:8888/62
 #EXTINF:-1 ,KHL Prime HD
 http://185.37.150.40:8092/KHL_HD/index.m3u8
 #EXTINF:-1 ,Tennis Channel
@@ -422,11 +416,9 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 ,Мультимания
 https://85.192.10.173/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рыжий
-http://91.207.115.228:5000/c62
-#EXTINF:-1 ,Мультиландия
-http://91.207.115.228:5000/c67
+http://94.230.128.105:8080/Ryzhij/index.m3u8
 #EXTINF:-1 ,О!
-http://91.207.115.228:5000/c68
+http://hls.k-telecom.org:8081/kt/92/playlist.m3u8
 #EXTINF:-1 ,Лёва
 http://87.250.254.45/kal/leva/leva0.m3u8
 #EXTINF:-1 ,Мультиландия
