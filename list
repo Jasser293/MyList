@@ -130,7 +130,7 @@ http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Телекафе
-http://hls.k-telecom.org:8081/kt/189/playlist.m3u8
+http://188.113.190.15/117/video.m3u8
 #EXTINF:-1 ,Сарафан
 http://188.113.190.15/165/video.m3u8
 #EXTINF:-1 ,Че!
@@ -152,7 +152,7 @@ http://185.37.150.40:8092/Super/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:-1 ,АВТО 24
-http://hls.k-telecom.org:8081/kt/118/playlist.m3u8
+http://188.113.190.15/154/video.m3u8
 #EXTINF:-1 ,Авто плюс
 http://176.113.48.221:8986/133
 #EXTINF:-1 ,Авто плюс
@@ -198,7 +198,7 @@ http://ott.watch/stream/TQM52U7KY3/216.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
-http://hls.k-telecom.org:8081/kt/161/playlist.m3u8
+http://94.228.204.166:8000/play/0093
 #EXTINF:-1 ,Fashion TV
 http://188.113.190.15/194/video.m3u8
 #EXTINF:-1 ,ЗООПАРК
@@ -270,11 +270,11 @@ http://185.37.150.40:8092/Dom_kino/playlist.m3u8
 #EXTINF:-1 ,Amedia 1
 http://185.37.150.40:8092/Amedia1/playlist.m3u8
 #EXTINF:-1 ,Amedia 1
-http://185.37.150.40:8092/Amedia1/playlist.m3u8
-#EXTINF:-1 ,Amedia 2
-http://91.205.199.3/amedia2/index.m3u8
+http://92.100.39.32:22888/play/a04o
 #EXTINF:-1 ,Amedia 2
 http://185.37.150.40:8092/Amedia2/playlist.m3u8
+#EXTINF:-1 ,Amedia 2
+http://streaming.tv-teleport.ru/A2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://dmi3y-tv.ru/hls/CH_AMEDIAHIT.m3u8
 #EXTINF:-1 ,AMEDIA PREMIUM
@@ -284,7 +284,7 @@ http://185.37.150.40:8092/Ginger_HD/playlist.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://188.190.222.48:80/Kinohit_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
-http://hls.k-telecom.org:8081/kt/197/playlist.m3u8
+http://188.113.190.15/313/video.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://31.148.6.4:10059/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
@@ -326,7 +326,7 @@ http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 ,Кино
 http://78.26.128.59:9876/play/520/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://hls.k-telecom.org:8081/kt/251/playlist.m3u8
+http://46.8.21.67:2021/channel/2bac7f96/index.m3u8?q=326b4f3019cd8dc949d1c3786c2f340c
 #EXTINF:-1 ,Дом кино
 http://176.113.48.221:8986/36
 #EXTINF:-1 ,.Red
@@ -348,25 +348,23 @@ http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 ,Viju TV1000
-http://91.205.199.3/tv1000/index.m3u8
+http://188.113.190.15/31/video.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
-http://91.205.199.3/tv1000action/index.m3u8
+http://188.113.190.15/30/video.m3u8
 #EXTINF:-1 ,Viju+ Serial
-http://91.205.199.3/vipserialhd/index.m3u8
+http://31.148.6.4:10215/index.m3u8
 #EXTINF:-1 ,Кинокомедия
-http://hls.k-telecom.org:8081/kt/194/playlist.m3u8
+http://188.113.190.15/129/video.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://176.113.48.221:8986/113
 #EXTINF:-1 ,Киномикс
-http://hls.k-telecom.org:8081/kt/193/playlist.m3u8
-#EXTINF:-1 ,Киносвидание
-http://hls.k-telecom.org:8081/kt/196/playlist.m3u8
+http://188.113.190.15/308/video.m3u8
 #EXTINF:-1 ,Киносвидание
 http://188.113.190.15/310/video.m3u8
 #EXTINF:-1 ,Киносемья
-http://hls.k-telecom.org:8081/kt/198/playlist.m3u8
+http://188.113.190.15/311/video.m3u8
 #EXTINF:-1 ,Киносерия
-http://hls.k-telecom.org:8081/kt/221/playlist.m3u8
+http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,Сити Эдем - Кино Драма
 https://autopilot.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 ,Сити Эдем - Кино Классика
@@ -389,22 +387,20 @@ http://94.232.104.237:8000/play/062/index.m3u8
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,Конный мир
 http://188.113.190.15/76/video.m3u8
-#EXTINF:-1 ,МАТЧ ТВ
-http://hls.k-telecom.org:8081/kt/5/playlist.m3u8
+#EXTINF:-1 ,МАТЧ!
+http://188.113.190.15/6/video.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://188.190.222.48:80/Match_Arena_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! ИГРА
 http://188.190.222.48:80/Match_Igra_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! ИГРА
-http://hls.k-telecom.org:8081/kt/91/playlist.m3u8
+http://188.113.190.15/142/video.m3u8
 #EXTINF:-1 ,МАТЧ ПРЕМЬЕР
-http://hls.k-telecom.org:8081/kt/103/playlist.m3u8
-#EXTINF:-1 ,МАТЧ ПРЕМЬЕР HD
-http://hls.k-telecom.org:8081/kt/210/playlist.m3u8
+http://188.113.190.15/103/video.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
-http://hls.k-telecom.org:8081/kt/112/playlist.m3u8
+http://188.113.190.15/126/video.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://hls.k-telecom.org:8081/kt/107/playlist.m3u8
+http://188.113.190.15/95/video.m3u8
 #EXTINF:-1 ,Старт
 https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
 #EXTINF:-1 ,KHL
@@ -414,11 +410,11 @@ http://185.37.150.40:8092/KHL_HD/index.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 ,Мультимания
-https://85.192.10.173/MultimaniaRu/tracks-v1a1/mono.m3u8
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рыжий
 http://94.230.128.105:8080/Ryzhij/index.m3u8
 #EXTINF:-1 ,О!
-http://hls.k-telecom.org:8081/kt/92/playlist.m3u8
+http://94.232.104.237:8000/play/241/index.m3u8
 #EXTINF:-1 ,Лёва
 http://87.250.254.45/kal/leva/leva0.m3u8
 #EXTINF:-1 ,Мультиландия
