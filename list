@@ -398,7 +398,7 @@ http://188.113.190.15/95/video.m3u8
 #EXTINF:-1 ,Старт
 https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
 #EXTINF:-1 ,KHL
-http://62.231.191.65:8888/62
+http://188.190.222.48:80/KHL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,KHL Prime HD
 http://185.37.150.40:8092/KHL_HD/index.m3u8
 #EXTINF:-1 ,Tennis Channel
