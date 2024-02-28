@@ -40,7 +40,7 @@ http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 HD
 http://176.113.48.221:8986/90
 #EXTINF:-1 ,Россия 1 HD
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 ,Россия К
@@ -90,11 +90,11 @@ http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 ,РБК
 http://online-video.rbc.ru/kuban/index.m3u8
 #EXTINF:-1 ,Пятый канал
+http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
+#EXTINF:-1 ,Пятый канал
 http://91.142.158.107:8092/play/5/index.m3u8
 #EXTINF:-1 ,Пятый канал
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
-#EXTINF:-1 ,Пятый канал
-http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 #EXTINF:-1 ,ЦТВ
 http://92.100.39.32:22888/play/a06j
 #EXTINF:-1 ,Перец
@@ -132,7 +132,7 @@ http://195.26.83.96:7022/play/a010/index.m3u8
 #EXTINF:-1 ,Сарафан
 http://185.37.150.40:8092/sarafan/playlist.m3u8
 #EXTINF:-1 ,Че!
-https://livetv.mylifeisgood.net.ru/channels/che.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Ю
 http://94.232.104.237:8000/play/096/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
@@ -386,9 +386,9 @@ http://cdn-01.bonus-tv.ru/konnyimir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ!
 http://188.113.190.15/6/video.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
-http://188.190.222.48:80/Match_Arena_HD/tracks-v1a1/mono.m3u8
+http://188.113.190.15/325/video.m3u8
 #EXTINF:-1 ,МАТЧ! ИГРА
-http://188.190.222.48:80/Match_Igra_HD/tracks-v1a1/mono.m3u8
+http://188.113.190.15/326/video.m3u8
 #EXTINF:-1 ,МАТЧ! ИГРА
 http://188.113.190.15/142/video.m3u8
 #EXTINF:-1 ,МАТЧ ПРЕМЬЕР
@@ -398,9 +398,9 @@ http://188.113.190.15/126/video.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://188.113.190.15/95/video.m3u8
 #EXTINF:-1 ,Старт
-https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
+http://62.231.191.65:8888/87
 #EXTINF:-1 ,KHL
-http://188.190.222.48:80/KHL/tracks-v1a1/mono.m3u8
+http://188.113.190.15/80/video.m3u8
 #EXTINF:-1 ,KHL Prime HD
 http://185.37.150.40:8092/KHL_HD/index.m3u8
 #EXTINF:-1 ,Tennis Channel
