@@ -256,6 +256,8 @@ http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
 http://188.113.190.15/182/video.m3u8
 #EXTINF:-1 ,2x2
+http://185.37.150.40:8092/2_2/playlist.m3u8
+#EXTINF:-1 ,2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
