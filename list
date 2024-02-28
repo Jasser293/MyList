@@ -244,7 +244,7 @@ http://188.113.190.15/161/video.m3u8
 #EXTINF:-1 ,Terra
 http://188.113.190.15/104/video.m3u8
 #EXTINF:-1 ,1HD
-https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
+http://62.231.191.65:8888/69
 #EXTINF:-1,Шансон ТВ
 http://176.113.48.221:8986/118
 #EXTINF:-1 ,Муз Союз
