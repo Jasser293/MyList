@@ -39,14 +39,14 @@ http://185.37.150.40:8092/PTP_planeta/playlist.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 HD
 http://176.113.48.221:8986/90
-#EXTINF:-1 ,Россия 1 HD
-#https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:-1 ,Россия 1
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 ,Россия К
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIAK.m3u8
 #EXTINF:-1 ,Россия К
-https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,РЕН ТВ
@@ -94,7 +94,7 @@ http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 #EXTINF:-1 ,Пятый канал
 http://91.142.158.107:8092/play/5/index.m3u8
 #EXTINF:-1 ,Пятый канал
-https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 ,ЦТВ
 http://92.100.39.32:22888/play/a06j
 #EXTINF:-1 ,Перец
@@ -140,7 +140,7 @@ http://dmi3y-tv.ru/hls/T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://94.232.104.237:8000/play/014/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
-https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -258,7 +258,7 @@ http://188.113.190.15/182/video.m3u8
 #EXTINF:-1 ,2x2
 http://185.37.150.40:8092/2_2/playlist.m3u8
 #EXTINF:-1 ,2x2
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+http://92.100.39.32:22888/play/a03j
 #EXTINF:-1 ,Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 ,ДОМ КИНО
