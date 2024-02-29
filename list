@@ -138,13 +138,13 @@ http://94.232.104.237:8000/play/096/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://dmi3y-tv.ru/hls/T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
-http://94.232.104.237:8000/play/014/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
-http://94.232.104.237:8000/play/016/index.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 ,Суббота!
 http://185.37.150.40:8092/Super/playlist.m3u8
 #EXTINF:-1 ,АВТО 24
@@ -244,7 +244,7 @@ http://188.113.190.15/161/video.m3u8
 #EXTINF:-1 ,Terra
 http://188.113.190.15/104/video.m3u8
 #EXTINF:-1 ,1HD
-http://62.231.191.65:8888/69
+http://146.158.0.56:80/1HD/index.m3u8
 #EXTINF:-1,Шансон ТВ
 http://176.113.48.221:8986/118
 #EXTINF:-1 ,Муз Союз
@@ -400,7 +400,7 @@ http://188.113.190.15/126/video.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://188.113.190.15/95/video.m3u8
 #EXTINF:-1 ,Старт
-http://62.231.191.65:8888/87
+https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
 #EXTINF:-1 ,KHL
 http://188.113.190.15/80/video.m3u8
 #EXTINF:-1 ,KHL Prime HD
