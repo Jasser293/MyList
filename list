@@ -266,11 +266,11 @@ http://185.37.150.40:8092/Dom_kino/playlist.m3u8
 #EXTINF:-1 ,Amedia 1
 http://185.37.150.40:8092/Amedia1/playlist.m3u8
 #EXTINF:-1 ,Amedia 1
-http://streaming.tv-teleport.ru/A1/index.m3u8
+http://81.23.189.2:4022/udp/234.0.0.155:2000
 #EXTINF:-1 ,Amedia 2
 http://185.37.150.40:8092/Amedia2/playlist.m3u8
 #EXTINF:-1 ,Amedia 2
-http://streaming.tv-teleport.ru/A2/tracks-v1a1/mono.m3u8
+http://176.113.48.221:8986/128
 #EXTINF:-1 ,Amedia Hit
 http://dmi3y-tv.ru/hls/CH_AMEDIAHIT.m3u8
 #EXTINF:-1 ,AMEDIA PREMIUM
