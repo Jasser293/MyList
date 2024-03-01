@@ -365,7 +365,7 @@ http://188.113.190.15/310/video.m3u8
 http://188.113.190.15/311/video.m3u8
 #EXTINF:-1 ,Киносерия
 http://188.113.190.15/312/video.m3u8
-EXTINF:-1 ,Сити Эдем - КиноДетектив
+#EXTINF:-1 ,Сити Эдем - КиноДетектив
 http://v2.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 ,Сити Эдем - КиноДрама
 http://v2.catcast.tv/content/45269/index.m3u8
