@@ -282,7 +282,7 @@ http://188.113.190.15/313/video.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://ott.watch/stream/AB2BQ2JU2G/126.m3u8
 #EXTINF:-1 ,Кино ТВ
-http://31.148.6.4:10059/index.m3u8
+http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://ott.watch/stream/AB2BQ2JU2G/221.m3u8
 #EXTINF:-1 ,РЕКОМЕНДУЕМ 
@@ -352,7 +352,7 @@ http://188.113.190.15/31/video.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://188.113.190.15/30/video.m3u8
 #EXTINF:-1 ,Viju+ Serial
-http://31.148.6.4:10215/index.m3u8
+http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://188.113.190.15/129/video.m3u8
 #EXTINF:-1 ,Кинокомедия
@@ -365,18 +365,6 @@ http://188.113.190.15/310/video.m3u8
 http://188.113.190.15/311/video.m3u8
 #EXTINF:-1 ,Киносерия
 http://188.113.190.15/312/video.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноДетектив
-http://v2.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноДрама
-http://v2.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноКлассика
-http://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноКомедия
-http://v2.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноМистика
-http://v2.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноЭкшен
-http://v2.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 http://88.135.128.20:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 ,Eurosport 1
