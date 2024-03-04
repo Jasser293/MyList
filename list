@@ -216,6 +216,8 @@ http://188.113.190.15/174/video.m3u8
 #EXTINF:-1 ,Кто Есть Кто
 http://188.113.190.15/82/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
+http://188.113.190.15/74/video.m3u8
+#EXTINF:-1 ,Вопросы и ответы
 http://otv.wotom.net:4433/udp/238.1.1.2:1234
 #EXTINF:-1 ,Discovery
 http://tatooine.odessa.tv:9876/play/285/index.m3u8
