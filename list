@@ -277,8 +277,6 @@ http://176.113.48.221:8986/128
 http://92.242.110.52:9835/udp/238.1.11.3:1234
 #EXTINF:-1 ,AMEDIA PREMIUM
 http://92.242.110.52:9835/udp/238.1.11.4:1234
-#EXTINF:-1 ,Ginger HD
-http://185.37.150.40:8092/Ginger_HD/playlist.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://188.113.190.15/313/video.m3u8
 #EXTINF:-1 ,КИНОХИТ
@@ -294,7 +292,7 @@ http://185.37.150.40:8092/Nashe_kino/playlist.m3u8
 #EXTINF:-1 ,КИНОСЕРИЯ
 http://185.37.150.40:8092/Mnogo_tv/playlist.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
-http://185.37.150.40:8092/Komediya/playlist.m3u8
+http://91.205.199.3/komedia/index.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://185.37.150.40:8092/Muj_kino/playlist.m3u8
 #EXTINF:-1 ,КИНОМИКС
@@ -374,7 +372,7 @@ http://v2.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 ,Сити Эдем - КиноКлассика
 http://v2.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 ,Сити Эдем - КиноКомедия
-http://v2.catcast.tv/content/41331/index.m3u8
+#http://v2.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 ,Сити Эдем - КиноМистика
 http://v2.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 ,Сити Эдем - КиноЭкшен
