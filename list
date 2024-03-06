@@ -138,7 +138,7 @@ http://94.232.104.237:8000/play/096/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://dmi3y-tv.ru/hls/T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
-https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
+http://185.37.150.40:8092/Domashni/playlist.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -328,7 +328,7 @@ http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 ,Кино
 http://78.26.128.59:9876/play/520/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://46.8.21.67:2021/channel/2bac7f96/index.m3u8?q=326b4f3019cd8dc949d1c3786c2f340c
+http://178.212.236.3:8802/play/404
 #EXTINF:-1 ,Дом кино
 http://176.113.48.221:8986/36
 #EXTINF:-1 ,.Red
@@ -336,7 +336,7 @@ http://91.205.199.3:80/red/index.m3u8
 #EXTINF:-1 ,.red
 http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 ,.Black
-http://stream01.vnet.am/Kinosemya/mono.m3u8
+http://91.205.199.3/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,.black
 http://94.232.104.237:8000/play/106/index.m3u8
 #EXTINF:-1 ,BackusTV Original
