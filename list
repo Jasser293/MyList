@@ -220,10 +220,10 @@ http://188.113.190.15/74/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://otv.wotom.net:4433/udp/238.1.1.2:1234
 #EXTINF:-1 ,Discovery
-http://tatooine.odessa.tv:9876/play/285/index.m3u8
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Animal planet
-http://tatooine.odessa.tv:9876/play/286/index.m3u8
-#EXTINF:-1 ,Travel Channel
+http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1 ,Travel+Adventure
 http://tatooine.odessa.tv:9876/play/405/index.m3u8
 #EXTINF:-1 ,Телепутешествия
 http://94.232.104.237:8000/play/080/index.m3u8
