@@ -172,7 +172,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 #EXTINF:-1 ,Усадьба
 http://94.232.104.237:8000/play/121/index.m3u8
 #EXTINF:-1 ,Усадьба
-http://188.113.190.15/71/video.m3u8
+http://94.232.104.237:8000/play/121/index.m3u8
 #EXTINF:-1 ,Бобёр
 http://94.232.104.237:8000/play/044/index.m3u8
 #EXTINF:-1 ,Бобёр
@@ -212,11 +212,11 @@ http://109.239.208.82/myplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://188.113.190.15/174/video.m3u8
+http://88.85.172.243:7012/play/a02f
 #EXTINF:-1 ,Кто Есть Кто
-http://188.113.190.15/82/video.m3u8
+http://camera.global-x.ru/KtoEstKto/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-http://188.113.190.15/74/video.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000195.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://otv.wotom.net:4433/udp/238.1.1.2:1234
 #EXTINF:-1 ,Discovery
@@ -244,7 +244,7 @@ http://87.250.254.45/kal/rtg/rtg0.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
 http://94.232.104.237:8000/play/113/index.m3u8
 #EXTINF:-1 ,Da Vinci
-http://188.113.190.15/161/video.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000333.m3u8
 #EXTINF:-1 ,Terra
 http://188.113.190.15/104/video.m3u8
 #EXTINF:-1 ,1HD
@@ -253,12 +253,10 @@ http://146.158.0.56:80/1HD/index.m3u8
 http://176.113.48.221:8986/118
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
-#EXTINF:-1 ,Russian Music Box
-http://188.113.190.15/158/video.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
-http://188.113.190.15/182/video.m3u8
+https://bkm.beetv.kz/btv/live/hls/000008135.m3u8
 #EXTINF:-1 ,2x2
 http://185.37.150.40:8092/2_2/playlist.m3u8
 #EXTINF:-1 ,2x2
@@ -280,15 +278,13 @@ http://92.242.110.52:9835/udp/238.1.11.3:1234
 #EXTINF:-1 ,AMEDIA PREMIUM
 http://92.242.110.52:9835/udp/238.1.11.4:1234
 #EXTINF:-1 ,КИНОХИТ
-http://188.113.190.15/313/video.m3u8
+http://185.37.150.40:8092/kinohit/playlist.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://ott.watch/stream/AB2BQ2JU2G/126.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://ott.watch/stream/AB2BQ2JU2G/221.m3u8
-#EXTINF:-1 ,РЕКОМЕНДУЕМ 
-http://fs2.persik.by/Rekomenduem/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.37.150.40:8092/Nashe_kino/playlist.m3u8
 #EXTINF:-1 ,КИНОСЕРИЯ
@@ -350,23 +346,23 @@ http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,TV1000 Русское кино
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 ,Viju TV1000
-http://188.113.190.15/31/video.m3u8
+http://91.205.199.3/tv1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
-http://188.113.190.15/30/video.m3u8
+http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 ,Viju+ Serial
 http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,Кинокомедия
-http://188.113.190.15/129/video.m3u8
+http://91.205.199.3/komedia/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://176.113.48.221:8986/113
 #EXTINF:-1 ,Киномикс
-http://188.113.190.15/308/video.m3u8
+http://185.37.150.40:8092/kino_plus/playlist.m3u8
 #EXTINF:-1 ,Киносвидание
-http://188.113.190.15/310/video.m3u8
+http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносемья
-http://188.113.190.15/311/video.m3u8
+http://158.101.222.193:88/vesti/play.php?channel_id=165
 #EXTINF:-1 ,Киносерия
-http://188.113.190.15/312/video.m3u8
+http://185.37.150.40:8092/Mnogo_tv/playlist.m3u8
 #EXTINF:-1 ,Сити Эдем - КиноДетектив
 http://v2.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 ,Сити Эдем - КиноДрама
@@ -394,19 +390,17 @@ http://cdn-01.bonus-tv.ru/konnyimir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ!
 http://188.113.190.15/6/video.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
-http://188.113.190.15/325/video.m3u8
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! ИГРА
-http://188.113.190.15/326/video.m3u8
-#EXTINF:-1 ,МАТЧ! ИГРА
-http://188.113.190.15/142/video.m3u8
-#EXTINF:-1 ,МАТЧ ПРЕМЬЕР
-http://188.113.190.15/103/video.m3u8
+http://94.232.104.237:8000/play/108/index.m3u8
+#EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
+http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
-http://188.113.190.15/126/video.m3u8
+http://185.37.150.40:8092/Boec/playlist.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://188.113.190.15/95/video.m3u8
+http://94.232.104.237:8000/play/059/index.m3u8
 #EXTINF:-1 ,KHL
-http://188.113.190.15/80/video.m3u8
+http://158.101.222.193:88/vesti/play.php?channel_id=220
 #EXTINF:-1 ,KHL Prime HD
 http://185.37.150.40:8092/KHL_HD/index.m3u8
 #EXTINF:-1 ,Tennis Channel
