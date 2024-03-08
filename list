@@ -212,6 +212,8 @@ http://109.239.208.82/myplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
+https://87.250.254.45/kal/sovsec/sovsec0.m3u8
+#EXTINF:-1 ,Совершенно секретно
 http://88.85.172.243:7012/play/a02f
 #EXTINF:-1 ,Кто Есть Кто
 http://camera.global-x.ru/KtoEstKto/mono.m3u8
