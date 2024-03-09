@@ -395,6 +395,10 @@ http://158.101.222.193:88/vesti/play.php?channel_id=165
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,Киносерия
 http://185.37.150.40:8092/Mnogo_tv/playlist.m3u8
+#EXTINF:-1 ,Смотрим хорроры
+https://playlist.nuum.ru/live/33373/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,РЕКОМЕНДУЕМ
+http://fs2.persik.by/Rekomenduem/index.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 http://88.135.128.20:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 ,Eurosport 1
