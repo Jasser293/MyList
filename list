@@ -284,7 +284,7 @@ http://185.37.150.40:8092/Dom_kino/playlist.m3u8
 #EXTINF:-1 ,Amedia 1
 http://185.37.150.40:8092/Amedia1/playlist.m3u8
 #EXTINF:-1 ,Amedia 1
-http://81.23.189.2:4022/udp/234.0.0.155:2000
+http://91.205.199.7:8000/play/a0ql
 #EXTINF:-1 ,Amedia 2
 http://185.37.150.40:8092/Amedia2/playlist.m3u8
 #EXTINF:-1 ,Amedia 2
@@ -395,18 +395,6 @@ http://158.101.222.193:88/vesti/play.php?channel_id=165
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,Киносерия
 http://185.37.150.40:8092/Mnogo_tv/playlist.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноДетектив
-http://v2.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноДрама
-http://v2.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноКлассика
-http://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноКомедия
-http://v2.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноМистика
-http://v2.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноЭкшен
-http://v2.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 http://88.135.128.20:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 ,Eurosport 1
