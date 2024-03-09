@@ -200,7 +200,7 @@ http://ott.watch/stream/TQM52U7KY3/216.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
-https://bkm.beetv.kz/btv/live/hls/000002927.m3u8
+https://176.222.191.59/btv/live/hls/000002927.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 ,ЗООПАРК
@@ -226,7 +226,7 @@ http://camera.global-x.ru/KtoEstKto/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://188.113.190.15/74/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-https://bkm.beetv.kz/btv/live/hls/000000195.m3u8
+https://176.222.191.59/btv/live/hls/000000195.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://otv.wotom.net:4433/udp/238.1.1.2:1234
 #EXTINF:-1 ,Discovery
@@ -256,7 +256,7 @@ http://94.232.104.237:8000/play/113/index.m3u8
 #EXTINF:-1 ,Da Vinci
 http://188.113.190.15/161/video.m3u8
 #EXTINF:-1 ,Da Vinci
-https://bkm.beetv.kz/btv/live/hls/000000333.m3u8
+https://176.222.191.59/btv/live/hls/000000333.m3u8
 #EXTINF:-1 ,Terra
 http://188.113.190.15/104/video.m3u8
 #EXTINF:-1 ,1HD
@@ -272,7 +272,7 @@ http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
 http://188.113.190.15/182/video.m3u8
 #EXTINF:-1 ,Сапфир
-https://bkm.beetv.kz/btv/live/hls/000008135.m3u8
+https://176.222.191.59/btv/live/hls/000008135.m3u8
 #EXTINF:-1 ,2x2
 http://185.37.150.40:8092/2_2/playlist.m3u8
 #EXTINF:-1 ,2x2
@@ -316,7 +316,7 @@ http://185.37.150.40:8092/kino_plus/playlist.m3u8
 #EXTINF:-1 ,Ретро
 http://109.239.208.82/retro/index.m3u8
 #EXTINF:-1 ,Русский Иллюзион
-http://195.26.83.96:7006/play/a00y/index.m3u8
+http://188.113.190.15/44/video.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://185.37.150.40:8092/russkiy_b/playlist.m3u8
 #EXTINF:-1 ,Русский детектив
@@ -342,7 +342,7 @@ http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 ,Кино
 http://78.26.128.59:9876/play/520/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://178.212.236.3:8802/play/404
+https://176.222.191.59/btv/live/hls/000006365.m3u8
 #EXTINF:-1 ,Дом кино
 http://176.113.48.221:8986/36
 #EXTINF:-1 ,.Red
