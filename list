@@ -104,11 +104,11 @@ https://87.250.254.45/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 #EXTINF:-1 ,ТНТ
 http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ
-https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+https://176.222.191.59/btv/live/hls/000007817.m3u8
 #EXTINF:-1 ,ТНТ4
 http://185.37.150.40:8092/THT4/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+http://94.232.104.237:8000/play/025/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -171,8 +171,6 @@ http://109.239.208.82/tochka/index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
 http://188.113.190.15/71/video.m3u8
-#EXTINF:-1 ,Усадьба
-http://94.232.104.237:8000/play/121/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://94.232.104.237:8000/play/121/index.m3u8
 #EXTINF:-1 ,Бобёр
@@ -263,7 +261,7 @@ http://188.113.190.15/104/video.m3u8
 http://146.158.0.56:80/1HD/index.m3u8
 #EXTINF:-1 ,Russian Music Box
 http://188.113.190.15/158/video.m3u8
-#EXTINF:-1,Шансон ТВ
+#EXTINF:-1 ,Шансон ТВ
 http://176.113.48.221:8986/118
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
@@ -337,8 +335,6 @@ http://87.250.254.45/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 ,VHS-ка
 http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
-#EXTINF:-1 ,Видеокассета
-#https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 ,Кино
 http://78.26.128.59:9876/play/520/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
@@ -376,13 +372,9 @@ http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://188.113.190.15/129/video.m3u8
 #EXTINF:-1 ,Кинокомедия
-http://91.205.199.3/komedia/index.m3u8
-#EXTINF:-1 ,Кинокомедия
 http://176.113.48.221:8986/113
 #EXTINF:-1 ,Киномикс
 http://188.113.190.15/308/video.m3u8
-#EXTINF:-1 ,Киномикс
-http://185.37.150.40:8092/kino_plus/playlist.m3u8
 #EXTINF:-1 ,Киносвидание
 http://188.113.190.15/310/video.m3u8
 #EXTINF:-1 ,Киносвидание
@@ -393,10 +385,6 @@ http://188.113.190.15/311/video.m3u8
 http://158.101.222.193:88/vesti/play.php?channel_id=165
 #EXTINF:-1 ,Киносерия
 http://188.113.190.15/312/video.m3u8
-#EXTINF:-1 ,Киносерия
-http://185.37.150.40:8092/Mnogo_tv/playlist.m3u8
-#EXTINF:-1 ,Смотрим хорроры
-https://playlist.nuum.ru/live/33373/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РЕКОМЕНДУЕМ
 http://fs2.persik.by/Rekomenduem/index.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
@@ -465,8 +453,6 @@ http://87.250.254.45/kal/mult_belarus/mult_belarus0.m3u8
 http://87.250.254.45/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 ,Gulli Girl
 http://87.250.254.45/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
-#EXTINF:-1 ,Рыжий
-http://87.250.254.45/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTINF:-1 ,Чижик
 http://87.250.254.45/kal/chizhik/chizhik0.m3u8
 #EXTINF:-1 ,Карусель
