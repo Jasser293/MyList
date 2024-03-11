@@ -387,18 +387,6 @@ http://158.101.222.193:88/vesti/play.php?channel_id=165
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,РЕКОМЕНДУЕМ
 http://fs2.persik.by/Rekomenduem/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноДетектив
-http://5.9.144.145/content/41327/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноДрама
-http://5.9.144.145/content/45269/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноКлассика
-http://5.9.144.145/content/34185/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноКомедия
-http://5.9.144.145/content/41331/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноМистика
-http://5.9.144.145/content/40783/index.m3u8
-#EXTINF:-1 ,Сити Эдем - КиноЭкшен
-http://5.9.144.145/content/41333/index.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 http://88.135.128.20:7272/mlR5cGNUsvBxcv8
 #EXTINF:-1 ,Eurosport 1
