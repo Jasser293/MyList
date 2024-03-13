@@ -272,19 +272,19 @@ http://188.113.190.15/182/video.m3u8
 #EXTINF:-1 ,Сапфир
 https://176.222.191.59/btv/live/hls/000008135.m3u8
 #EXTINF:-1 ,2x2
-http://158.101.222.193:88/vesti/play.php?channel_id=60
-#EXTINF:-1 ,2x2
 https://87.250.254.45/kal/2x2_belarus/2x2_belarus0.m3u8
+#EXTINF:-1 ,2x2
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 ,ДОМ КИНО
 http://195.26.83.96:7022/play/a00v/index.m3u8
 #EXTINF:-1 ,Amedia 1
-http://158.101.222.193:88/vesti/play.php?channel_id=43
-#EXTINF:-1 ,Amedia 1
 http://91.205.199.7:8000/play/a0ql
+#EXTINF:-1 ,Amedia 1
+http://83.234.207.29:8008/play/a01t/index.m3u8
 #EXTINF:-1 ,Amedia 2
-http://158.101.222.193:88/vesti/play.php?channel_id=40
+http://83.234.207.29:8008/play/a01u/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://176.113.48.221:8986/128
 #EXTINF:-1 ,Amedia Hit
@@ -302,13 +302,13 @@ http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://ott.watch/stream/AB2BQ2JU2G/221.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
-http://158.101.222.193:88/vesti/play.php?channel_id=169
+http://83.234.207.29:8003/play/a017/index.m3u8
 #EXTINF:-1 ,КИНОСЕРИЯ
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
 http://91.205.199.3/komedia/index.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
-http://158.101.222.193:88/vesti/play.php?channel_id=26
+http://83.234.207.29:8003/play/a016/index.m3u8
 #EXTINF:-1 ,КИНОМИКС
 http://176.113.48.221:8986/67
 #EXTINF:-1 ,Ретро
@@ -382,7 +382,7 @@ http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносемья
 http://188.113.190.15/311/video.m3u8
 #EXTINF:-1 ,Киносемья
-http://158.101.222.193:88/vesti/play.php?channel_id=165
+http://83.234.207.29:8003/play/a01a/index.m3u8
 #EXTINF:-1 ,Киносерия
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,РЕКОМЕНДУЕМ
@@ -426,7 +426,7 @@ http://185.134.38.189:4022/udp/234.0.0.188:2000
 #EXTINF:-1 ,KHL
 http://188.113.190.15/80/video.m3u8
 #EXTINF:-1 ,KHL
-http://158.101.222.193:88/vesti/play.php?channel_id=220
+http://83.234.207.29:8004/play/a017/index.m3u8
 #EXTINF:-1 ,KHL Prime HD
 http://185.37.150.46:8092/KHL_HD/index.m3u8
 #EXTINF:-1 ,Tennis Channel
