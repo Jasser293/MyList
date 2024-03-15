@@ -70,7 +70,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
 http://188.113.190.15/193/video.m3u8
 #EXTINF:-1 ,Соловьев.Live
-https://178.248.232.222/iframe/stream/live_id/63338?43e=5.m3u8
+https://93.88.79.156/live/26-1k_v5.m3u8
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Звезда
@@ -294,7 +294,7 @@ http://92.242.110.52:9835/udp/238.1.11.4:1234
 #EXTINF:-1 ,КИНОХИТ
 http://188.113.190.15/313/video.m3u8
 #EXTINF:-1 ,КИНОХИТ
-http://91.205.199.3:80/kinoxithd/index.m3u8
+http://83.234.207.29:8003/play/a00z/index.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://ott.watch/stream/AB2BQ2JU2G/126.m3u8
 #EXTINF:-1 ,Кино ТВ
@@ -368,7 +368,7 @@ http://188.113.190.15/30/video.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 ,Viju+ Serial
-http://91.205.199.3/vipserialhd/index.m3u8
+http://83.234.207.29:8013/play/a00c/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://188.113.190.15/129/video.m3u8
 #EXTINF:-1 ,Кинокомедия
