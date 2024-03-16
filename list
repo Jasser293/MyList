@@ -70,7 +70,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
 http://188.113.190.15/193/video.m3u8
 #EXTINF:-1 ,Соловьев.Live
-https://93.88.79.156/live/26-1k_v5.m3u8
+http://31.131.136.4:8001/play/e00h
+#EXTINF:-1 ,Соловьев.Live
+http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Звезда
@@ -107,8 +109,6 @@ https://87.250.254.45/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
-#EXTINF:-1 ,ТНТ
-https://93.88.79.156/live/23-1k_v5.m3u8
 #EXTINF:-1 ,ТНТ4
 http://91.205.199.3:80/tnt4/index.m3u8
 #EXTINF:-1 ,ТНТ4
@@ -119,8 +119,6 @@ http://91.142.158.107:8092/play/15/index.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 #EXTINF:-1 ,СТС
 http://91.142.158.107:8092/play/13/index.m3u8
-#EXTINF:-1 ,СТС
-https://93.88.79.156/live/16-1k_v5.m3u8
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС Love
