@@ -388,7 +388,7 @@ http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,РЕКОМЕНДУЕМ
 http://fs2.persik.by/Rekomenduem/index.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
-http://88.135.128.20:7272/mlR5cGNUsvBxcv8
+http://45.132.87.69:8080/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://tatooine.odessa.tv:9876/play/89/index.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
