@@ -10,7 +10,7 @@ http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ HD
-http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ
@@ -21,18 +21,18 @@ https://stream1.prizma.link/NTVBelarusHD/video.m3u8
 https://87.250.254.45/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF:-1 ,НТВ СТИЛЬ
+https://87.250.254.45/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 ,НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ СТИЛЬ
-http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 ,НТВ ХИТ
+http://83.234.207.29:8009/play/a01v/index.m3u8
 #EXTINF:-1 ,НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ ХИТ
-http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
+#EXTINF:-1 ,НТВ СЕРИАЛ
+https://87.250.254.45/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 ,НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ СЕРИАЛ
-http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
@@ -227,6 +227,8 @@ http://188.113.190.15/74/video.m3u8
 https://176.222.191.59/btv/live/hls/000000195.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://otv.wotom.net:4433/udp/238.1.1.2:1234
+#EXTINF:-1 ,Discovery Channel HD
+http://83.234.207.29:8006/play/a01e/index.m3u8
 #EXTINF:-1 ,Discovery
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Animal planet
