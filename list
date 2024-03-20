@@ -19,20 +19,14 @@ http://91.142.158.107:8092/play/4/index.m3u8
 https://stream1.prizma.link/NTVBelarusHD/video.m3u8
 #EXTINF:-1 ,НТВ Право
 https://87.250.254.45/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
-#EXTINF:-1 ,НТВ ПРАВО
-http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 https://87.250.254.45/kal/ntv_stil/ntv_stil0.m3u8
-#EXTINF:-1 ,НТВ Стиль
-https://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 http://83.234.207.29:8009/play/a01v/index.m3u8
-#EXTINF:-1 ,НТВ Хит
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 https://87.250.254.45/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 ,НТВ Сериал
-https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+http://ott.watch/stream/85WT12YUMH/301.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
