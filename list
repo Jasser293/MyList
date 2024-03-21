@@ -141,8 +141,6 @@ http://91.205.199.3:80/domashni/index.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
-#EXTINF:-1 ,ПЯТНИЦА
-http://ott.watch/stream/4UA66BEAIJ/181.m3u8
 #EXTINF:-1 ,Суббота!
 http://83.234.207.29:8004/play/a01b/index.m3u8
 #EXTINF:-1 ,АВТО 24
@@ -192,7 +190,7 @@ http://camera.global-x.ru/KuhnyaTV/index.m3u8
 #EXTINF:-1 ,Еда премиум
 https://87.250.254.45/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
 #EXTINF:-1 ,Food Time HD
-http://ott.watch/stream/TQM52U7KY3/216.m3u8
+http://ott.watch/stream/85WT12YUMH/216.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
@@ -290,11 +288,11 @@ http://188.113.190.15/313/video.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://83.234.207.29:8003/play/a00z/index.m3u8
 #EXTINF:-1 ,КИНОХИТ
-http://ott.watch/stream/AB2BQ2JU2G/126.m3u8
+http://ott.watch/stream/VLGLSFBJGG/126.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:-1 ,Кино ТВ
-http://ott.watch/stream/AB2BQ2JU2G/221.m3u8
+http://ott.watch/stream/VLGLSFBJGG/221.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://83.234.207.29:8003/play/a017/index.m3u8
 #EXTINF:-1 ,КИНОСЕРИЯ
@@ -403,8 +401,6 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 http://188.113.190.15/326/video.m3u8
 #EXTINF:-1 ,МАТЧ! ИГРА
 http://188.113.190.15/142/video.m3u8
-#EXTINF:-1 ,МАТЧ! ИГРА
-http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
 http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
@@ -458,26 +454,26 @@ http://87.250.254.45/kal/chizhik/chizhik0.m3u8
 #EXTINF:-1 ,Карусель
 http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 #EXTINF:-1 ,LNK HD
-http://ott.watch/stream/AB2BQ2JU2G/30.m3u8
+http://ott.watch/stream/VLGLSFBJGG/30.m3u8
 #EXTINF:-1 ,BTV HD
-http://ott.watch/stream/AB2BQ2JU2G/35.m3u8
+http://ott.watch/stream/VLGLSFBJGG/35.m3u8
 #EXTINF:-1 ,LRT HD
-http://ott.watch/stream/AB2BQ2JU2G/31.m3u8
+http://ott.watch/stream/VLGLSFBJGG/31.m3u8
 #EXTINF:-1 ,LRT Plius HD
-http://ott.watch/stream/AB2BQ2JU2G/353.m3u8
+http://ott.watch/stream/VLGLSFBJGG/353.m3u8
 #EXTINF:-1 ,TV 1
-http://ott.watch/stream/AB2BQ2JU2G/374.m3u8
+http://ott.watch/stream/VLGLSFBJGG/374.m3u8
 #EXTINF:-1 ,TV3 HD
-http://ott.watch/stream/AB2BQ2JU2G/29.m3u8
+http://ott.watch/stream/VLGLSFBJGG/29.m3u8
 #EXTINF:-1 ,Balticum
-http://ott.watch/stream/AB2BQ2JU2G/376.m3u8
+http://ott.watch/stream/VLGLSFBJGG/376.m3u8
 #EXTINF:-1 ,TV 6
-http://ott.watch/stream/AB2BQ2JU2G/375.m3u8
+http://ott.watch/stream/VLGLSFBJGG/375.m3u8
 #EXTINF:-1 ,TV3 Life
-http://ott.watch/stream/TQM52U7KY3/373.m3u8
+http://ott.watch/stream/85WT12YUMH/373.m3u8
 #EXTINF:-1 ,LTV 7
-http://ott.watch/stream/TQM52U7KY3/371.m3u8
+http://ott.watch/stream/85WT12YUMH/371.m3u8
 #EXTINF:-1 ,TV 24
-http://ott.watch/stream/TQM52U7KY3/372.m3u8
+http://ott.watch/stream/85WT12YUMH/372.m3u8
 #EXTINF:-1 ,LTV1
-http://ott.watch/stream/TQM52U7KY3/34.m3u8
+http://ott.watch/stream/85WT12YUMH/34.m3u8
