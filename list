@@ -233,8 +233,8 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 http://78.26.128.59:9876/play/223/index.m3u8
 #EXTINF:-1 ,Viasat History
 http://78.26.128.59:9876/play/337/index.m3u8
-#EXTINF:-1 ,Viasat Nature HD
-http://78.26.128.59:9876/play/336/index.m3u8
+#EXTINF:-1 ,Viasat Nature
+http://91.205.199.3:80/viasatnature/index.m3u8
 #EXTINF:-1 ,Наша Сибирь
 http://87.250.254.45/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
