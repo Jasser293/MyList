@@ -233,7 +233,7 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 http://78.26.128.59:9876/play/223/index.m3u8
 #EXTINF:-1 ,Viasat History
 http://78.26.128.59:9876/play/337/index.m3u8
-#EXTINF:-1 ,Viasat Nature
+#EXTINF:-1 ,Viasat Nature HD
 http://91.205.199.3:80/viasatnature/index.m3u8
 #EXTINF:-1 ,Наша Сибирь
 http://87.250.254.45/kal/sibir/sibir0.m3u8
@@ -268,7 +268,9 @@ https://87.250.254.45/kal/2x2_belarus/2x2_belarus0.m3u8
 #EXTINF:-1 ,2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,Pro100TV
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+http://85.192.10.173/Pro100tvRu/video.m3u8
+#EXTINF:-1 ,Kino 24
+http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 ,ДОМ КИНО
 http://195.26.83.96:7022/play/a00v/index.m3u8
 #EXTINF:-1 ,Amedia 1
