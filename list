@@ -274,9 +274,9 @@ http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 ,ДОМ КИНО
 http://195.26.83.96:7022/play/a00v/index.m3u8
 #EXTINF:-1 ,Amedia 1
-http://91.205.199.7:8000/play/a0ql
-#EXTINF:-1 ,Amedia 1
 http://83.234.207.29:8008/play/a01t/index.m3u8
+#EXTINF:-1 ,Amedia 1
+http://ott.watch/stream/W6RW921XNT/117.m3u8
 #EXTINF:-1 ,Amedia 2
 http://83.234.207.29:8008/play/a01u/index.m3u8
 #EXTINF:-1 ,Amedia 2
@@ -330,7 +330,7 @@ http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 ,VHS-ка
 http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 ,КІНО ТV VHS
-#https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
+https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ВИДЕОКАССЕТА
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино
@@ -383,8 +383,6 @@ http://188.113.190.15/311/video.m3u8
 http://83.234.207.29:8003/play/a01a/index.m3u8
 #EXTINF:-1 ,Киносерия
 http://188.113.190.15/312/video.m3u8
-#EXTINF:-1 ,РЕКОМЕНДУЕМ
-http://fs2.persik.by/Rekomenduem/index.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 http://176.113.48.221:8986/63
 #EXTINF:-1 ,Eurosport 1
