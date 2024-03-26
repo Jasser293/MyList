@@ -118,7 +118,7 @@ http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://83.234.207.29:8001/play/a00p/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://91.205.199.7:8000/play/a0nw
+http://193.201.98.10:5000/c51
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
