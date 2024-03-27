@@ -64,9 +64,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
 http://188.113.190.15/193/video.m3u8
 #EXTINF:-1 ,Соловьев.Live
-http://31.131.136.4:8001/play/e00h
-#EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/63338
+#EXTINF:-1 ,Соловьев.Live
+http://31.131.136.4:8001/play/e00h
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Звезда
@@ -172,7 +172,7 @@ http://176.113.48.221:8986/188
 #EXTINF:-1 ,Бобёр
 http://176.113.48.221:8986/39
 #EXTINF:-1 ,Бобёр
-http://195.26.83.96:7022/play/a00t/index.m3u8
+http://176.113.48.221:8986/39
 #EXTINF:-1 ,Загородная жизнь
 https://87.250.254.45/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
 #EXTINF:-1 ,Доктор
@@ -272,7 +272,7 @@ http://85.192.10.173/Pro100tvRu/video.m3u8
 #EXTINF:-1 ,Kino 24
 http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 ,ДОМ КИНО
-http://195.26.83.96:7022/play/a00v/index.m3u8
+http://176.113.48.221:8986/36
 #EXTINF:-1 ,Amedia 1
 http://83.234.207.29:8008/play/a01t/index.m3u8
 #EXTINF:-1 ,Amedia 1
