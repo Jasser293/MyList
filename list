@@ -64,9 +64,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
 http://188.113.190.15/193/video.m3u8
 #EXTINF:-1 ,Соловьев.Live
-http://player.smotrim.ru/iframe/stream/live_id/63338
-#EXTINF:-1 ,Соловьев.Live
 http://31.131.136.4:8001/play/e00h
+#EXTINF:-1 ,Соловьев.Live
+http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Звезда
 http://91.142.158.107:8092/play/17/index.m3u8
 #EXTINF:-1 ,Звезда
@@ -344,7 +344,7 @@ http://91.205.199.3:80/red/index.m3u8
 #EXTINF:-1 ,.red
 http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 ,.Black
-http://91.205.199.3/black/tracks-v1a1/mono.m3u8
+http://193.201.98.10:5000/c79
 #EXTINF:-1 ,.black
 http://91.205.199.3/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BackusTV Original
@@ -376,7 +376,7 @@ http://188.113.190.15/308/video.m3u8
 #EXTINF:-1 ,Киносвидание
 http://188.113.190.15/310/video.m3u8
 #EXTINF:-1 ,Киносвидание
-http://91.205.199.3/kinosvidanie/index.m3u8
+http://193.201.98.10:5000/c45
 #EXTINF:-1 ,Киносемья
 http://188.113.190.15/311/video.m3u8
 #EXTINF:-1 ,Киносемья
