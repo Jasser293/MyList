@@ -118,7 +118,7 @@ http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://83.234.207.29:8001/play/a00p/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://193.201.98.10:5000/c51
+http://109.248.236.21:4433/udp/238.1.1.69:1234
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
@@ -342,7 +342,7 @@ http://91.205.199.3:80/red/index.m3u8
 #EXTINF:-1 ,.red
 http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 ,.Black
-http://193.201.98.10:5000/c79
+https://176.222.191.59/btv/live/hls/000000520.m3u8
 #EXTINF:-1 ,.black
 http://91.205.199.3/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BackusTV Original
@@ -374,7 +374,7 @@ http://188.113.190.15/308/video.m3u8
 #EXTINF:-1 ,Киносвидание
 http://188.113.190.15/310/video.m3u8
 #EXTINF:-1 ,Киносвидание
-http://193.201.98.10:5000/c45
+http://91.205.199.3:80/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносемья
 http://188.113.190.15/311/video.m3u8
 #EXTINF:-1 ,Киносемья
@@ -391,8 +391,6 @@ http://ott.watch/stream/SII4T392IL/192.m3u8
 http://109.248.236.21:4433/udp/238.1.1.115:1234
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
-#EXTINF:-1 ,Конный мир
-http://cdn-01.bonus-tv.ru/konnyimir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ!
 http://188.113.190.15/6/video.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
