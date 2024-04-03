@@ -295,6 +295,8 @@ http://ott.watch/stream/VLGLSFBJGG/126.m3u8
 http://91.142.158.107:8092/play/28/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://ott.watch/stream/VLGLSFBJGG/221.m3u8
+#EXTINF:-1 ,Кинопремьера
+http://91.207.114.209:5000/c42
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://83.234.207.29:8003/play/a017/index.m3u8
 #EXTINF:-1 ,КИНОСЕРИЯ
