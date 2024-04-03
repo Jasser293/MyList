@@ -239,6 +239,8 @@ http://91.205.199.3:80/viasatnature/index.m3u8
 http://87.250.254.45/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://87.250.254.45/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 ,Дикая рыбалка
+http://88.85.172.243:7012/play/a026
 #EXTINF:-1 ,RTG HD
 http://87.250.254.45/kal/rtg/rtg0.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
