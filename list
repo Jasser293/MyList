@@ -112,9 +112,9 @@ http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 #EXTINF:-1 ,СТС
-http://91.142.158.107:8092/play/13/index.m3u8
-#EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
+#EXTINF:-1 ,СТС
+http://31.131.136.4:8001/play/e001
 #EXTINF:-1 ,СТС Love
 http://83.234.207.29:8001/play/a00p/index.m3u8
 #EXTINF:-1 ,СТС Love
