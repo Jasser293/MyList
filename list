@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,Первый канал
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
+#EXTINF:-1 ,Первый канал HD
+http://91.207.114.209:5000/c99
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 ,Первый канал
