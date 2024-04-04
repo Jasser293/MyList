@@ -209,8 +209,6 @@ http://brodilo.tv/channel.php
 http://188.113.190.15/174/video.m3u8
 #EXTINF:-1 ,Совершенно секретно
 https://87.250.254.45/kal/sovsec/sovsec0.m3u8
-#EXTINF:-1 ,Совершенно секретно
-http://88.85.172.243:7012/play/a02f
 #EXTINF:-1 ,Кто Есть Кто
 http://188.113.190.15/82/video.m3u8
 #EXTINF:-1 ,Кто Есть Кто
@@ -346,7 +344,7 @@ http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 ,.Black
 https://176.222.191.59/btv/live/hls/000000520.m3u8
 #EXTINF:-1 ,.black
-http://91.205.199.3/black/tracks-v1a1/mono.m3u8
+http://176.113.48.221:8986/123
 #EXTINF:-1 ,BackusTV Original
 https://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 ,BackusTV Dark
