@@ -126,7 +126,7 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
-http://178.124.179.122:8088/Sarafan/index.m3u8
+http://91.207.114.209:5000/c75
 #EXTINF:-1 ,Че!
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Ю
@@ -274,7 +274,7 @@ http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 ,ДОМ КИНО
 http://176.113.48.221:8986/36
 #EXTINF:-1 ,Amedia 1
-http://83.234.207.29:8008/play/a01t/index.m3u8
+http://91.207.114.209:5000/c55
 #EXTINF:-1 ,Amedia 1
 http://ott.watch/stream/W6RW921XNT/117.m3u8
 #EXTINF:-1 ,Amedia 2
@@ -304,7 +304,7 @@ http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
 http://91.205.199.3/komedia/index.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
-http://83.234.207.29:8003/play/a016/index.m3u8
+http://91.207.114.209:5000/c40
 #EXTINF:-1 ,КИНОМИКС
 http://176.113.48.221:8986/67
 #EXTINF:-1 ,Ретро
