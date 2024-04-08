@@ -78,7 +78,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 https://176.222.191.59/btv/live/hls/000000308.m3u8
 #EXTINF:-1 ,Оружие
-http://109.248.236.21:4433/udp/238.1.1.34:1234
+http://178.124.179.122:8088/Oruzhie/index.m3u8
 #EXTINF:-1 ,АРСЕНАЛ
 http://87.250.254.45/kal/arsenal_belarus/arsenal_belarus0.m3u8
 #EXTINF:-1 ,Ратник
@@ -106,7 +106,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 http://91.205.199.3:80/tnt4/index.m3u8
 #EXTINF:-1 ,ТНТ4
-http://109.248.236.21:4433/udp/238.1.1.12:1234
+http://91.207.114.209:5000/c142
 #EXTINF:-1 ,ТВ3
 http://91.142.158.107:8092/play/15/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -118,7 +118,7 @@ http://31.131.136.4:8001/play/e001
 #EXTINF:-1 ,СТС Love
 http://83.234.207.29:8001/play/a00p/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://109.248.236.21:4433/udp/238.1.1.69:1234
+http://91.207.114.209:5000/c51
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ юмор
@@ -390,7 +390,7 @@ http://tatooine.odessa.tv:9876/play/89/index.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
 http://ott.watch/stream/SII4T392IL/192.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://109.248.236.21:4433/udp/238.1.1.115:1234
+http://91.207.114.209:5000/c154
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,МАТЧ!
