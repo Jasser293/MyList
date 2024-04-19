@@ -224,13 +224,13 @@ http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Animal planet
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Travel+Adventure
-http://tatooine.odessa.tv:9876/play/405/index.m3u8
+http://188.113.190.15/106/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Viasat Explore
-http://78.26.128.59:9876/play/223/index.m3u8
-#EXTINF:-1 ,Viasat History
-http://78.26.128.59:9876/play/337/index.m3u8
+http://91.205.199.3:80/viasatexplorer/index.m3u8
+#EXTINF:-1 ,Viasat Nature
+http://91.205.199.3:80/viasatnature/index.m3u8
 #EXTINF:-1 ,Viasat Nature HD
 http://91.205.199.3:80/viasatnature/index.m3u8
 #EXTINF:-1 ,Наша Сибирь
@@ -331,8 +331,6 @@ http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
 http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 ,КІНО ТV VHS
 https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Кино
-http://78.26.128.59:9876/play/520/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
 https://176.222.191.59/btv/live/hls/000006365.m3u8
 #EXTINF:-1 ,Дом кино
@@ -384,7 +382,7 @@ http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
 http://176.113.48.221:8986/63
 #EXTINF:-1 ,Eurosport 1
-http://tatooine.odessa.tv:9876/play/89/index.m3u8
+http://91.207.114.209:5000/c153
 #EXTINF:-1 ,Eurosport 2 HD
 http://ott.watch/stream/SII4T392IL/192.m3u8
 #EXTINF:-1 ,Eurosport 2
