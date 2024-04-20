@@ -32,9 +32,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 HD
-http://176.113.48.221:8986/90
-#EXTINF:-1 ,Россия 1
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+http://45.159.74.13/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 ,Россия К
