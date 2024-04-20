@@ -172,6 +172,8 @@ http://176.113.48.221:8986/39
 #EXTINF:-1 ,Бобёр
 http://188.113.190.15/131/video.m3u8
 #EXTINF:-1 ,Загородная жизнь
+http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
+#EXTINF:-1 ,Загородная жизнь
 https://87.250.254.45/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
 #EXTINF:-1 ,Доктор
 http://188.113.190.15/29/tracks-v1a1/index.m3u8
@@ -213,6 +215,8 @@ https://87.250.254.45/kal/sovsec/sovsec0.m3u8
 http://188.113.190.15/82/video.m3u8
 #EXTINF:-1 ,Кто Есть Кто
 http://camera.global-x.ru/KtoEstKto/mono.m3u8
+#EXTINF:-1 ,Кто Куда
+http://146.158.0.56/MirUvlecheniy/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://188.113.190.15/74/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
