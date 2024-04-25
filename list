@@ -302,7 +302,7 @@ http://91.207.114.209:5000/c31
 #EXTINF:-1 ,КИНОСЕРИЯ
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
-http://91.205.199.3/komedia/index.m3u8
+http://193.201.98.10:5000/c46
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://91.207.114.209:5000/c40
 #EXTINF:-1 ,КИНОМИКС
@@ -329,6 +329,8 @@ http://87.250.254.45/kal/tv_21_belarus/tv_21_belarus0.m3u8
 http://87.250.254.45/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 ,НСТ
 http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 ,VHS-ка
+http://str28.tv/7369/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
 #EXTINF:-1 ,VHS-ка
 http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 ,КІНО ТV VHS
