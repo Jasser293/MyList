@@ -335,6 +335,8 @@ http://str28.tv/7369/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
 #http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 ,КІНО ТV VHS
 https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Видеокассета
+https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
 https://176.222.191.59/btv/live/hls/000006365.m3u8
 #EXTINF:-1 ,Дом кино
