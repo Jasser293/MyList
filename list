@@ -92,7 +92,7 @@ http://91.142.158.107:8092/play/5/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 ,ЦТВ
-http://188.113.190.15/228/tracks-v1a1/tracks-v1a1/index.m3u8
+http://188.113.190.15/228/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Перец
 http://45.159.74.14/Perec/mono.m3u8
 #EXTINF:-1 ,КВН ТВ
@@ -286,7 +286,7 @@ http://92.242.110.52:9835/udp/238.1.11.3:1234
 #EXTINF:-1 ,AMEDIA PREMIUM
 http://92.242.110.52:9835/udp/238.1.11.4:1234
 #EXTINF:-1 ,КИНОХИТ
-http://188.113.190.15/313/tracks-v1a1/index.m3u8
+http://91.207.115.228:5000/c38
 #EXTINF:-1 ,КИНОХИТ
 http://91.207.114.209:5000/c38
 #EXTINF:-1 ,КИНОХИТ
@@ -300,7 +300,7 @@ http://91.207.114.209:5000/c42
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://91.207.114.209:5000/c31
 #EXTINF:-1 ,КИНОСЕРИЯ
-http://188.113.190.15/312/tracks-v1a1/index.m3u8
+http://185.134.36.46:4022/udp/234.0.0.119:2000
 #EXTINF:-1 ,КИНОКОМЕДИЯ
 http://193.201.98.10:5000/c46
 #EXTINF:-1 ,МУЖСКОЕ КИНО
@@ -332,7 +332,7 @@ http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 ,VHS-ка
 http://str28.tv/7369/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
 #EXTINF:-1 ,VHS-ка
-http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
+#http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 ,КІНО ТV VHS
 https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
@@ -372,17 +372,17 @@ http://188.113.190.15/129/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://176.113.48.221:8986/113
 #EXTINF:-1 ,Киномикс
-http://188.113.190.15/308/tracks-v1a1/index.m3u8
+http://91.207.114.209:5000/c44
 #EXTINF:-1 ,Киносвидание
-http://188.113.190.15/310/tracks-v1a1/index.m3u8
+http://193.201.98.10:5000/c45
 #EXTINF:-1 ,Киносвидание
 http://91.205.199.3:80/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносемья
-http://188.113.190.15/311/tracks-v1a1/index.m3u8
+http://193.201.98.10:5000/c39
 #EXTINF:-1 ,Киносемья
 http://91.207.114.209:5000/c39
 #EXTINF:-1 ,Киносерия
-http://188.113.190.15/312/tracks-v1a1/index.m3u8
+http://185.134.38.189:4022/udp/234.0.0.119:2000
 #EXTINF:-1 ,Eurosport 1 HD
 http://176.113.48.221:8986/63
 #EXTINF:-1 ,Eurosport 1
@@ -396,11 +396,11 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
 #EXTINF:-1 ,МАТЧ!
 http://188.113.190.15/6/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
-http://188.113.190.15/325/tracks-v1a1/index.m3u8
+http://83.234.207.29:8010/play/a02f/index.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! ИГРА
-http://188.113.190.15/326/tracks-v1a1/index.m3u8
+http://91.207.114.209:5000/c104
 #EXTINF:-1 ,МАТЧ! ИГРА
 http://188.113.190.15/142/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
