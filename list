@@ -331,8 +331,6 @@ http://87.250.254.45/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 ,VHS-ка
 http://str28.tv/7369/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
-#EXTINF:-1 ,VHS-ка
-http://87.250.254.45/kal/vhs_ka/vhs_ka0.m3u8
 #EXTINF:-1 ,КІНО ТV VHS
 https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
