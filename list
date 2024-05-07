@@ -222,7 +222,7 @@ http://188.113.190.15/74/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 https://176.222.191.59/btv/live/hls/000000195.m3u8
 #EXTINF:-1 ,Discovery
-http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+http://91.207.115.228:5000/c146
 #EXTINF:-1 ,Animal planet
 http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Travel+Adventure
@@ -329,8 +329,8 @@ http://87.250.254.45/kal/tv_21_belarus/tv_21_belarus0.m3u8
 http://87.250.254.45/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 ,НСТ
 http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
-#EXTINF:-1 ,VHS-ка
-http://str28.tv/7369/video.m3u8?token=443838617b5249cf1f748aa0f47fbb74
+#EXTINF:-1 ,Видеокассета
+https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 ,КІНО ТV VHS
 https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
