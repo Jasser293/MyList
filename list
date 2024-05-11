@@ -5,16 +5,12 @@ http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://176.113.48.221:8986/1
-#EXTINF:-1 ,Первый канал
-http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
-#EXTINF:-1 ,НТВ
-http://91.142.158.107:8092/play/4/index.m3u8
 #EXTINF:-1 ,HTB Беларусь
 https://stream1.prizma.link/NTVBelarusHD/video.m3u8
 #EXTINF:-1 ,НТВ Право
@@ -45,8 +41,6 @@ http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 http://31.148.6.9:10011/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
-#EXTINF:-1 ,Рен ТВ
-http://91.142.158.107:8092/play/11/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -176,7 +170,7 @@ http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
 https://87.250.254.45/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
 #EXTINF:-1 ,Доктор
-http://195.158.222.113:8000/play/200/index.m3u8
+http://188.113.190.15/29/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Доктор
 http://88.85.172.243:7004/play/a01l
 #EXTINF:-1 ,Здоровое ТВ
