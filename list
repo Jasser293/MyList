@@ -100,9 +100,9 @@ http://91.205.199.3:80/tnt4/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://91.207.114.209:5000/c142
 #EXTINF:-1 ,ТВ3
-http://91.142.158.107:8092/play/15/index.m3u8
-#EXTINF:-1 ,ТВ3
 http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
+#EXTINF:-1 ,ТВ3
+http://5.153.180.133:8000/play/a055
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС
