@@ -323,6 +323,8 @@ http://87.250.254.45/kal/tv_21_belarus/tv_21_belarus0.m3u8
 http://87.250.254.45/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 ,НСТ
 http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 ,Видеосалон VHS
+http://hls.goodgame.ru:8080/hls/175764.m3u8
 #EXTINF:-1 ,Видеокассета
 https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
