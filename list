@@ -108,7 +108,7 @@ http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС
 http://31.131.136.4:8001/play/e001
 #EXTINF:-1 ,СТС Love
-http://83.234.207.29:8001/play/a00p/index.m3u8
+http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://91.207.114.209:5000/c51
 #EXTINF:-1 ,Твоё ТВ
@@ -172,7 +172,7 @@ https://87.250.254.45/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m
 #EXTINF:-1 ,Доктор
 http://5.153.180.133:8002/play/a023
 #EXTINF:-1 ,Доктор
-http://88.85.172.243:7004/play/a01l
+http://str04.tv/8464/video.m3u8?token=3ab43d97ae03f4d143a5ab1ce29e1f81
 #EXTINF:-1 ,Здоровое ТВ
 http://91.207.114.209:5000/c179
 #EXTINF:-1 ,Светлое ТВ
@@ -272,7 +272,7 @@ http://91.207.114.209:5000/c55
 #EXTINF:-1 ,Amedia 1
 http://ott.watch/stream/W6RW921XNT/117.m3u8
 #EXTINF:-1 ,Amedia 2
-http://83.234.207.29:8008/play/a01u/index.m3u8
+http://91.205.199.3/amedia2/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://176.113.48.221:8986/128
 #EXTINF:-1 ,Amedia Hit
@@ -412,7 +412,7 @@ http://91.207.114.209:5000/c116
 #EXTINF:-1 ,KHL
 http://188.113.190.15/80/video.m3u8
 #EXTINF:-1 ,KHL
-http://83.234.207.29:8004/play/a017/index.m3u8
+http://91.207.114.209:5000/c108
 #EXTINF:-1 ,KHL Prime HD
 http://185.37.150.46:8092/KHL_HD/index.m3u8
 #EXTINF:-1 ,Tennis Channel
