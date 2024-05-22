@@ -324,17 +324,19 @@ http://87.250.254.45/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 ,НСТ
 http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
+http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:-1 ,Мосфильм золотая коллекция
 https://176.222.191.59/btv/live/hls/000006365.m3u8
 #EXTINF:-1 ,Дом кино
 http://176.113.48.221:8986/36
 #EXTINF:-1 ,.Red
 http://91.205.199.3:80/red/index.m3u8
-#EXTINF:-1 ,.red
+#EXTINF:-1 ,.Red
 http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 ,.Black
-https://176.222.191.59/btv/live/hls/000000520.m3u8
-#EXTINF:-1 ,.black
 http://176.113.48.221:8986/123
+#EXTINF:-1 ,.Black
+https://176.222.191.59/btv/live/hls/000000520.m3u8
 #EXTINF:-1 ,BackusTV Original
 https://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 ,BackusTV Dark
