@@ -266,7 +266,7 @@ http://85.192.10.173/Pro100tvRu/video.m3u8
 #EXTINF:-1 ,Kino 24
 http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 ,ДОМ КИНО
-http://188.113.190.15/119/tracks-v1a1/index.m3u8
+http://45.159.74.14/DomKino/mono.m3u8
 #EXTINF:-1 ,Amedia 1
 http://91.207.114.209:5000/c55
 #EXTINF:-1 ,Amedia 1
