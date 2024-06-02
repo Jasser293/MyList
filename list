@@ -296,7 +296,7 @@ http://91.207.114.209:5000/c31
 #EXTINF:-1 ,КИНОСЕРИЯ
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
-http://5.153.180.133:8000/play/a02v
+http://91.205.199.3/komedia/index.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://91.207.114.209:5000/c40
 #EXTINF:-1 ,КИНОМИКС
@@ -358,7 +358,7 @@ https://176.222.191.59/btv/live/hls/000004375.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://188.113.190.15/129/video.m3u8
 #EXTINF:-1 ,Кинокомедия
-http://91.205.199.3/komedia/index.m3u8
+http://5.153.180.133:8000/play/a02v
 #EXTINF:-1 ,Киномикс
 http://188.113.190.15/308/video.m3u8
 #EXTINF:-1 ,Киносвидание
@@ -394,7 +394,7 @@ http://188.113.190.15/142/video.m3u8
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
 http://91.207.114.209:5000/c105
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
-http://193.201.98.10:5000/c105
+http://185.37.150.46:8092/Nash_futbol_HD/index.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
 http://188.113.190.15/126/video.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
@@ -414,7 +414,7 @@ http://188.113.190.15/80/video.m3u8
 #EXTINF:-1 ,KHL
 http://91.207.114.209:5000/c108
 #EXTINF:-1 ,KHL Prime HD
-http://185.37.150.46:8092/KHL_HD/index.m3u8
+http://31.211.77.158:8000/play/a087/index.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 ,Мультимания
