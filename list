@@ -222,7 +222,7 @@ http://188.113.190.15/106/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Viasat Explore
-http://91.205.199.3:80/viasatexplorer/index.m3u8
+http://188.113.190.15/32/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://91.205.199.3:80/viasatnature/index.m3u8
 #EXTINF:-1 ,Viasat Nature HD
@@ -348,11 +348,11 @@ http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 ,Viju TV1000
 http://188.113.190.15/31/video.m3u8
 #EXTINF:-1 ,Viju TV1000
-http://91.205.199.3/tv1000/index.m3u8
+http://5.153.180.133:8001/play/a01e
 #EXTINF:-1 ,Viju TV1000 Action
 http://188.113.190.15/30/video.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
-http://91.205.199.3/tv1000action/index.m3u8
+http://5.153.180.133:8001/play/a01f
 #EXTINF:-1 ,Viju+ Serial
 https://176.222.191.59/btv/live/hls/000004375.m3u8
 #EXTINF:-1 ,Кинокомедия
