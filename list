@@ -15,10 +15,16 @@ http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 https://stream1.prizma.link/NTVBelarusHD/video.m3u8
 #EXTINF:-1 ,НТВ Право
 https://87.250.254.45/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 ,НТВ ПРАВО
+http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF:-1 ,НТВ СТИЛЬ
+http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 https://87.250.254.45/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 https://87.250.254.45/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 ,НТВ СЕРИАЛ
+http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 https://87.250.254.45/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 ,НТВ Сериал
