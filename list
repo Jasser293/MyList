@@ -14,17 +14,17 @@ http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,HTB Беларусь
 https://stream1.prizma.link/NTVBelarusHD/video.m3u8
 #EXTINF:-1 ,НТВ Право
+http://88.85.172.243:7012/play/a024
+#EXTINF:-1 ,НТВ Право
 https://87.250.254.45/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
-#EXTINF:-1 ,НТВ ПРАВО
-http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
-#EXTINF:-1 ,НТВ СТИЛЬ
-http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 ,НТВ Стиль
+http://88.85.172.243:7012/play/a023
 #EXTINF:-1 ,НТВ СТИЛЬ
 https://87.250.254.45/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 https://87.250.254.45/kal/ntv_hit/ntv_hit0.m3u8
-#EXTINF:-1 ,НТВ СЕРИАЛ
-http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
+#EXTINF:-1 ,НТВ Сериал
+http://88.85.172.243:7012/play/a025
 #EXTINF:-1 ,НТВ СЕРИАЛ
 https://87.250.254.45/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 ,НТВ Сериал
@@ -473,3 +473,5 @@ http://ott.watch/stream/85WT12YUMH/371.m3u8
 http://ott.watch/stream/85WT12YUMH/372.m3u8
 #EXTINF:-1 ,LTV1
 http://ott.watch/stream/85WT12YUMH/34.m3u8
+#EXTINF:-1 ,НТВ Сериал
+http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
