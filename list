@@ -36,7 +36,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 HD
-http://45.159.74.13/Rossia1/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8002/play/a00w/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 ,Россия К
@@ -146,7 +146,7 @@ http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 ,Суббота!
-http://195.26.83.96:7013/play/a00e/index.m3u8
+http://88.85.172.243:7005/play/a013
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82:80/auto24/index.m3u8
 #EXTINF:-1 ,АВТО 24
@@ -479,4 +479,5 @@ http://ott.watch/stream/85WT12YUMH/371.m3u8
 http://ott.watch/stream/85WT12YUMH/372.m3u8
 #EXTINF:-1 ,LTV1
 http://ott.watch/stream/85WT12YUMH/34.m3u8
-
+#EXTINF:-1 ,НТВ Сериал
+http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
