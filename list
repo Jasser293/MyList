@@ -35,8 +35,8 @@ http://ott.watch/stream/85WT12YUMH/301.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://178.212.71.253:8002/play/a00w/index.m3u8
+#EXTINF:-1 ,Россия 1
+http://31.148.6.9:10002/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 ,Россия К
