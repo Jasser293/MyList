@@ -5,6 +5,8 @@ http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://31.148.6.9:10001/index.m3u8
+#EXTINF:-1 ,Первый канал HD
+http://91.207.115.228:5000/c99
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ HD
@@ -266,9 +268,9 @@ http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
-http://188.113.190.15/182/video.m3u8
+http://91.207.115.228:5000/c90
 #EXTINF:-1 ,Сапфир
-https://176.222.191.59/btv/live/hls/000008135.m3u8
+http://188.113.190.15/182/video.m3u8
 #EXTINF:-1 ,2x2
 https://87.250.254.45/kal/2x2_belarus/2x2_belarus0.m3u8
 #EXTINF:-1 ,2x2
@@ -479,5 +481,3 @@ http://ott.watch/stream/85WT12YUMH/371.m3u8
 http://ott.watch/stream/85WT12YUMH/372.m3u8
 #EXTINF:-1 ,LTV1
 http://ott.watch/stream/85WT12YUMH/34.m3u8
-#EXTINF:-1 ,НТВ Сериал
-http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
