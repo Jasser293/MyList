@@ -290,11 +290,11 @@ http://91.205.199.3/amedia2/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://91.205.199.3/amedia2/index.m3u8
 #EXTINF:-1 ,Amedia Hit
-http://92.242.110.52:9835/udp/238.1.11.3:1234
+http://91.207.115.228:5000/c57
 #EXTINF:-1 ,AMEDIA PREMIUM
-http://92.242.110.52:9835/udp/238.1.11.4:1234
+http://91.207.115.228:5000/c58
 #EXTINF:-1 ,КИНОХИТ
-http://188.113.190.15/313/video.m3u8
+http://91.207.115.228:5000/c38
 #EXTINF:-1 ,КИНОХИТ
 http://45.159.74.13/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
