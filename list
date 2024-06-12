@@ -473,5 +473,7 @@ http://ott.watch/stream/85WT12YUMH/371.m3u8
 http://ott.watch/stream/85WT12YUMH/372.m3u8
 #EXTINF:-1 ,LTV1
 http://ott.watch/stream/85WT12YUMH/34.m3u8
-#EXTINF:-1 ,НТВ-Право [720x576]
-http://cdn.ntv.ru/th_pravo/mono.m3u8
+#EXTINF:-1 tvg-id="NTVLaw.ru" tvg-logo="https://i.imgur.com/3ChnWGg.png" tvg-name="НТВ Право" ,НТВ-Право [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznftyyumk55z5sw38mqaffe
+http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+
