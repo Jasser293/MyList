@@ -416,13 +416,13 @@ http://91.207.115.228:5000/c106
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://188.113.190.15/95/video.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
-http://188.113.190.15/175/tracks-v1a1/index.m3u8
+http://91.207.115.228:5000/c114
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
-http://188.113.190.15/176/tracks-v1a1/index.m3u8
+http://91.207.115.228:5000/c115
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
-http://185.57.68.33/110/mpegts
+http://91.207.115.228:5000/c116
 #EXTINF:-1 ,KHL
-http://188.113.190.15/80/video.m3u8
+http://91.207.115.228:5000/c108
 #EXTINF:-1 ,KHL
 http://188.113.190.15/80/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,KHL Prime HD
