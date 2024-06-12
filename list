@@ -473,3 +473,5 @@ http://ott.watch/stream/85WT12YUMH/371.m3u8
 http://ott.watch/stream/85WT12YUMH/372.m3u8
 #EXTINF:-1 ,LTV1
 http://ott.watch/stream/85WT12YUMH/34.m3u8
+#EXTINF:-1 ,НТВ-Право [720x576]
+http://cdn.ntv.ru/th_pravo/mono.m3u8
