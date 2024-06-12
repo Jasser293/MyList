@@ -16,19 +16,11 @@ http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,HTB Беларусь
 https://stream1.prizma.link/NTVBelarusHD/video.m3u8
 #EXTINF:-1 ,НТВ Право
-http://5.153.180.133:8000/play/a042
-#EXTINF:-1 ,НТВ Право
 https://87.250.254.45/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
-#EXTINF:-1 ,НТВ Стиль
-http://5.153.180.133:8000/play/a044
 #EXTINF:-1 ,НТВ СТИЛЬ
 https://87.250.254.45/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 ,НТВ ХИТ
-http://5.153.180.133:8000/play/a045
-#EXTINF:-1 ,НТВ ХИТ
 https://87.250.254.45/kal/ntv_hit/ntv_hit0.m3u8
-#EXTINF:-1 ,НТВ Сериал
-http://5.153.180.133:8000/play/a043
 #EXTINF:-1 ,НТВ СЕРИАЛ
 https://87.250.254.45/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 ,НТВ Сериал
@@ -322,7 +314,7 @@ http://188.113.190.15/44/video.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://188.113.190.15/100/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://5.153.180.133:8000/play/a04x
+http://91.207.115.228:5000/c35
 #EXTINF:-1 ,Русский роман
 http://188.113.190.15/107/video.m3u8
 #EXTINF:-1 ,BollywooD
@@ -340,7 +332,7 @@ http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://5.153.180.133:8000/play/a03q
+http://91.207.115.228:5000/c29
 #EXTINF:-1 ,.Red
 http://91.205.199.3:80/red/index.m3u8
 #EXTINF:-1 ,.Red
@@ -382,7 +374,7 @@ http://91.205.199.3:80/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносемья
 http://188.113.190.15/311/video.m3u8
 #EXTINF:-1 ,Киносемья
-http://5.153.180.133:8000/play/a02r
+http://91.207.115.228:5000/c39
 #EXTINF:-1 ,Киносерия
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,Eurosport 1
