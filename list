@@ -54,12 +54,12 @@ http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 http://31.148.6.9:10011/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
-#EXTINF:-1 ,ОТР
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 http://31.148.6.9:10010/index.m3u8
+#EXTINF:-1 ,ОТР
+http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://188.113.190.15/213/mono.m3u8
 #EXTINF:-1 ,СТВ
@@ -115,9 +115,9 @@ http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
-http://91.205.199.3:80/tnt4/index.m3u8
+http://91.207.115.228:5000/c142
 #EXTINF:-1 ,ТНТ4
-http://91.205.199.3/tnt4/index.m3u8
+http://5.153.180.133:8000/play/a05a
 #EXTINF:-1 ,ТВ3
 http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 #EXTINF:-1 ,ТВ3
@@ -242,9 +242,9 @@ http://188.113.190.15/106/tracks-v1a1/index.m3u8
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Viasat Explore
 http://188.113.190.15/32/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Viasat Nature
-http://91.205.199.3:80/viasatnature/index.m3u8
-#EXTINF:-1 ,Viasat Nature HD
+#EXTINF:-1 ,Viju Nature
+http://91.207.115.228:5000/c97
+#EXTINF:-1 ,Viju Nature HD
 http://91.205.199.3:80/viasatnature/index.m3u8
 #EXTINF:-1 ,Наша Сибирь
 http://87.250.254.45/kal/sibir/sibir0.m3u8
@@ -353,8 +353,7 @@ http://91.207.115.228:5000/c162
 #EXTINF:-1 ,Советское родное
 http://91.207.115.228:5000/c161
 #EXTINF:-1 ,.Red
-#EXTINF:-1 ,.Red
-http://91.205.199.3:80/red/index.m3u8
+http://91.207.115.228:5000/c78
 #EXTINF:-1 ,.Red
 http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 ,.Black
@@ -390,7 +389,7 @@ http://188.113.190.15/308/video.m3u8
 #EXTINF:-1 ,Киносвидание
 http://188.113.190.15/310/video.m3u8
 #EXTINF:-1 ,Киносвидание
-http://91.205.199.3:80/kinosvidanie/index.m3u8
+http://91.207.115.228:5000/c45
 #EXTINF:-1 ,Киносемья
 http://188.113.190.15/311/video.m3u8
 #EXTINF:-1 ,Киносемья
