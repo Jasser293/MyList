@@ -15,16 +15,26 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,HTB Беларусь
 https://stream1.prizma.link/NTVBelarusHD/video.m3u8
+#EXTINF:-1 ,НТВ-Право
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Право
 https://87.250.254.45/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 ,НТВ-Стиль
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 https://87.250.254.45/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 ,НТВ-Хит
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 https://87.250.254.45/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 ,НТВ-Сериал
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 https://87.250.254.45/kal/ntv_serial_new/ntv_serial_new0.m3u8
-#EXTINF:-1 ,НТВ Сериал
-http://ott.watch/stream/85WT12YUMH/301.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
@@ -473,13 +483,3 @@ http://ott.watch/stream/85WT12YUMH/371.m3u8
 http://ott.watch/stream/85WT12YUMH/372.m3u8
 #EXTINF:-1 ,LTV1
 http://ott.watch/stream/85WT12YUMH/34.m3u8
-#EXTINF:-1 tvg-id="NTVLaw.ru" tvg-logo="https://i.imgur.com/3ChnWGg.png" tvg-name="НТВ Право" ,НТВ-Право
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ-Право
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-
-
-
-
