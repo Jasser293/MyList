@@ -346,6 +346,13 @@ http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://91.207.115.228:5000/c29
+#EXTINF:-1 ,Наше детство
+http://91.207.115.228:5000/c163
+#EXTINF:-1 ,Наше родное кино
+http://91.207.115.228:5000/c162
+#EXTINF:-1 ,Советское родное
+http://91.207.115.228:5000/c161
+#EXTINF:-1 ,.Red
 #EXTINF:-1 ,.Red
 http://91.205.199.3:80/red/index.m3u8
 #EXTINF:-1 ,.Red
