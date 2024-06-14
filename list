@@ -62,8 +62,8 @@ http://31.148.6.9:10010/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 ,РБК ТВ
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 ,РБК
+http://online-video.rbc.ru/kuban/index.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://188.113.190.15/213/mono.m3u8
 #EXTINF:-1 ,СТВ
@@ -100,8 +100,6 @@ http://87.250.254.45/kal/arsenal_belarus/arsenal_belarus0.m3u8
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
 http://87.250.254.45/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
-#EXTINF:-1 ,РБК
-http://online-video.rbc.ru/kuban/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 #EXTINF:-1 ,Пятый канал
