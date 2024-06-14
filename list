@@ -260,6 +260,10 @@ http://87.250.254.45/kal/sibir/sibir0.m3u8
 http://87.250.254.45/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://188.113.190.15/69/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Дикая Охота
+http://45.159.74.14/Channel_127/mono.m3u8
+#EXTINF:-1 ,Дикая рыбалка
+http://45.159.74.14/Channel_126/mono.m3u8
 #EXTINF:-1 ,RTG HD
 http://87.250.254.45/kal/rtg/rtg0.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
