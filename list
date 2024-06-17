@@ -435,10 +435,8 @@ https://176.222.191.59/btv/live/hls/000002479.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
 http://ott.watch/stream/SII4T392IL/192.m3u8
 #EXTINF:-1 ,Setanta Sports 1
-#EXTVLCOPT:http-user-agent=Donate BT
 https://176.222.191.59/btv/live/hls/000004498.m3u8
 #EXTINF:-1 ,Setanta Sports 2
-#EXTVLCOPT:http-user-agent=Donate BTC
 https://176.222.191.59/btv/live/hls/000004499.m3u8
 #EXTINF:-1 ,Беларусь 5
 https://87.250.254.45/kal/belarus_5/belarus_50.m3u8
@@ -478,30 +476,6 @@ http://188.113.190.15/80/tracks-v1a1/index.m3u8
 http://188.113.190.15/116/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Sky Sport 1
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://51.68.210.152/get/lesleyvaquero1/54jHe7Bbt4/channel/59588.ts
-#EXTINF:-1 ,Sky Sport 1
-#EXTVLCOPT:http-user-agent=Donate BTC
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 ,Sky Sport 2
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://51.68.210.152/get/lesleyvaquero1/54jHe7Bbt4/channel/59589.ts
-#EXTINF:-1 ,Sky Sport 3
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://51.68.210.152/get/lesleyvaquero1/54jHe7Bbt4/channel/59590.ts
-#EXTINF:-1 ,Sky Sport 4
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://51.68.210.152/get/lesleyvaquero1/54jHe7Bbt4/channel/59591.ts
-#EXTINF:-1 ,Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Donate BTC
-https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 ,Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Donate BTC
-https://7pal.short.gy/skspmaine
-#EXTINF:-1 ,Sky Sports NFL
-#EXTVLCOPT:http-user-agent=Donate BTC
-https://7pal.short.gy/ssportsat
 #EXTINF:-1 ,Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 ,Рыжий
