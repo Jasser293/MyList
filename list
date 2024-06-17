@@ -472,6 +472,30 @@ http://188.113.190.15/80/tracks-v1a1/index.m3u8
 http://188.113.190.15/116/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,Sky Sport 1
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://51.68.210.152/get/lesleyvaquero1/54jHe7Bbt4/channel/59588.ts
+#EXTINF:-1 ,Sky Sport 1
+#EXTVLCOPT:http-user-agent=Donate BTC
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 ,Sky Sport 2
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://51.68.210.152/get/lesleyvaquero1/54jHe7Bbt4/channel/59589.ts
+#EXTINF:-1 ,Sky Sport 3
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://51.68.210.152/get/lesleyvaquero1/54jHe7Bbt4/channel/59590.ts
+#EXTINF:-1 ,Sky Sport 4
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://51.68.210.152/get/lesleyvaquero1/54jHe7Bbt4/channel/59591.ts
+#EXTINF:-1 ,Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Donate BTC
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 ,Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Donate BTC
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 ,Sky Sports NFL
+#EXTVLCOPT:http-user-agent=Donate BTC
+https://7pal.short.gy/ssportsat
 #EXTINF:-1 ,Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 ,Рыжий
