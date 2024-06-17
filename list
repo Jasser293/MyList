@@ -434,6 +434,12 @@ http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 https://176.222.191.59/btv/live/hls/000002479.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
 http://ott.watch/stream/SII4T392IL/192.m3u8
+#EXTINF:-1 ,Setanta Sports 1
+#EXTVLCOPT:http-user-agent=Donate BT
+https://176.222.191.59/btv/live/hls/000004498.m3u8
+#EXTINF:-1 ,Setanta Sports 2
+#EXTVLCOPT:http-user-agent=Donate BTC
+https://176.222.191.59/btv/live/hls/000004499.m3u8
 #EXTINF:-1 ,Беларусь 5
 https://87.250.254.45/kal/belarus_5/belarus_50.m3u8
 #EXTINF:-1 ,МАТЧ!
