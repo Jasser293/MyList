@@ -120,7 +120,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 http://91.207.115.228:5000/c142
 #EXTINF:-1 ,ТНТ4
-http://5.153.180.133:8000/play/a05a
+http://95.52.171.87:82/play/a05f
 #EXTINF:-1 ,ТВ3
 http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 #EXTINF:-1 ,ТВ3
@@ -164,7 +164,7 @@ http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://188.113.190.15/322/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Авто плюс
-http://5.153.180.133:8000/play/a01r
+http://91.207.115.228:5000/c110
 #EXTINF:-1 ,ДРАЙВ
 http://188.113.190.15/68/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Russian Extreme
@@ -530,4 +530,3 @@ http://ott.watch/stream/85WT12YUMH/371.m3u8
 http://ott.watch/stream/85WT12YUMH/372.m3u8
 #EXTINF:-1 ,LTV1
 http://ott.watch/stream/85WT12YUMH/34.m3u8
-
