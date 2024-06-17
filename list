@@ -434,6 +434,8 @@ http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 https://176.222.191.59/btv/live/hls/000002479.m3u8
 #EXTINF:-1 ,Eurosport 2 HD
 http://ott.watch/stream/SII4T392IL/192.m3u8
+#EXTINF:-1 ,SETANTA SPORTS
+https://176.222.191.59/btv/live/hls/000002649.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 https://176.222.191.59/btv/live/hls/000004498.m3u8
 #EXTINF:-1 ,Setanta Sports 2
@@ -474,6 +476,26 @@ http://91.207.115.228:5000/c108
 http://188.113.190.15/80/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,KHL Prime HD
 http://188.113.190.15/116/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,VIASAT SPORT HD
+https://176.222.191.59/btv/live/hls/000000135.m3u8
+#EXTINF:-1 ,Q Arena
+https://176.222.191.59/btv/live/hls/000007615.m3u8
+#EXTINF:-1 ,Insport
+https://176.222.191.59/btv/live/hls/000006983.m3u8
+#EXTINF:-1 ,Q Live 1
+https://176.222.191.59/btv/live/hls/000008725.m3u8
+#EXTINF:-1 ,Q Live 2
+https://176.222.191.59/btv/live/hls/000008726.m3u8
+#EXTINF:-1 ,Q Live 3
+https://176.222.191.59/btv/live/hls/000008445.m3u8
+#EXTINF:-1 ,Q Live 4
+https://176.222.191.59/btv/live/hls/000008727.m3u8
+#EXTINF:-1 ,Inhockey
+https://176.222.191.59/btv/live/hls/000007832.m3u8
+#EXTINF:-1 ,Q League
+https://176.222.191.59/btv/live/hls/000006969.m3u8
+#EXTINF:-1 ,Q Football
+https://176.222.191.59/btv/live/hls/000008848.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 ,Мультимания
