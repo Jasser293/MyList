@@ -25,8 +25,7 @@ https://87.250.254.45/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 https://87.250.254.45/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 ,НТВ-Стиль
 #EXTVLCOPT:http-user-agent=Donate BTC
-#http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-http://95.52.171.87:81/play/a01g
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ-Хит
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
@@ -120,7 +119,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 http://91.207.115.228:5000/c142
 #EXTINF:-1 ,ТНТ4
-http://95.52.171.87:82/play/a05f
+http://91.205.199.3/tnt4/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 #EXTINF:-1 ,ТВ3
@@ -390,10 +389,6 @@ http://91.205.199.3/red/index.m3u8
 http://188.113.190.15/186/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,.Black
 http://5.153.180.133:8004/play/a01a
-#EXTINF:-1 ,BackusTV Original
-https://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 ,BackusTV Dark
-http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 ,Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
@@ -409,7 +404,7 @@ http://188.113.190.15/30/video.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://5.153.180.133:8001/play/a01f
 #EXTINF:-1 ,Viju+ Serial
-https://176.222.191.59/btv/live/hls/000004375.m3u8
+http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://188.113.190.15/129/video.m3u8
 #EXTINF:-1 ,Кинокомедия
@@ -436,10 +431,6 @@ https://176.222.191.59/btv/live/hls/000002479.m3u8
 http://ott.watch/stream/SII4T392IL/192.m3u8
 #EXTINF:-1 ,SETANTA SPORTS
 https://176.222.191.59/btv/live/hls/000002649.m3u8
-#EXTINF:-1 ,Setanta Sports 1
-https://176.222.191.59/btv/live/hls/000004498.m3u8
-#EXTINF:-1 ,Setanta Sports 2
-https://176.222.191.59/btv/live/hls/000004499.m3u8
 #EXTINF:-1 ,Беларусь 5
 https://87.250.254.45/kal/belarus_5/belarus_50.m3u8
 #EXTINF:-1 ,МАТЧ!
