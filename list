@@ -427,7 +427,7 @@ http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
-https://176.222.191.59/btv/live/hls/000002479.m3u8
+http://91.207.115.228:5000/c154
 #EXTINF:-1 ,Eurosport 2 HD
 http://ott.watch/stream/SII4T392IL/192.m3u8
 #EXTINF:-1 ,TVP Sport (Euro2024)
@@ -436,8 +436,6 @@ http://45.65.112.49:8000/play/a0ko
 #EXTINF:-1 ,CCTV-5 (Euro2024)
 #EXTVLCOPT:http-user-agent=Donate BTC
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 ,SETANTA SPORTS
-https://176.222.191.59/btv/live/hls/000002649.m3u8
 #EXTINF:-1 ,Беларусь 5
 https://87.250.254.45/kal/belarus_5/belarus_50.m3u8
 #EXTINF:-1 ,МАТЧ!
