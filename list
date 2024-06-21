@@ -273,7 +273,7 @@ http://91.205.199.3:80/viasatnature/index.m3u8
 #EXTINF:-1 ,Наша Сибирь
 http://87.250.254.45/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
-http://87.250.254.45/kal/dialogi/dialogi0.m3u8
+https://176.222.191.59/btv/live/hls/000003174.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://188.113.190.15/69/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Дикая Охота
@@ -486,10 +486,10 @@ http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 http://87.250.254.45/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTINF:-1 ,О!
 http://188.113.190.15/136/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Лёва
-http://87.250.254.45/kal/leva/leva0.m3u8
+#EXTINF:-1 ,Мама
+http://91.207.115.228:5000/c70
 #EXTINF:-1 ,Мультиландия
-http://87.250.254.45/kal/multilandia/multilandia0.m3u8
+http://91.207.115.228:5000/c67
 #EXTINF:-1 ,В гостях у сказки
 http://5.153.180.133:8000/play/a01w
 #EXTINF:-1 ,Капитан Фантастика
