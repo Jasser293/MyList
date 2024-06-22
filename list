@@ -18,8 +18,7 @@ https://stream1.prizma.link/NTVBelarusHD/video.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Право
-#https://87.250.254.45/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
-http://5.153.180.133:8000/play/a042
+http://95.52.166.162:81/play/a01h
 #EXTINF:-1 ,Зал суда
 http://95.52.166.162:81/play/a00k
 #EXTINF:-1 ,НТВ СТИЛЬ
@@ -120,7 +119,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 http://91.205.199.3/tnt4/index.m3u8
 #EXTINF:-1 ,ТНТ4
-http://5.153.180.133:8000/play/a05a
+http://95.52.166.162:82/play/a05f
 #EXTINF:-1 ,ТВ3
 http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 #EXTINF:-1 ,ТВ3
@@ -248,8 +247,7 @@ http://5.153.180.133:8002/play/a06j
 #EXTINF:-1 ,Investigation Discovery
 http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Investigation Discovery
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://5.153.180.133:8000/play/a06l
+http://95.52.166.162:81/play/a03b
 #EXTINF:-1 ,History
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://45.159.74.14/Channel_123/mono.m3u8
@@ -298,7 +296,7 @@ http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
-http://5.153.180.133:8000/play/a00q
+http://95.52.166.162:81/play/a02u
 #EXTINF:-1 ,Сапфир
 http://188.113.190.15/182/video.m3u8
 #EXTINF:-1 ,2x2
@@ -407,8 +405,6 @@ http://188.113.190.15/310/video.m3u8
 http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносемья
 http://188.113.190.15/311/video.m3u8
-#EXTINF:-1 ,Киносемья
-http://5.153.180.133:8000/play/a02r
 #EXTINF:-1 ,Киносерия
 http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,Eurosport 1
@@ -422,7 +418,7 @@ http://ott.watch/stream/SII4T392IL/192.m3u8
 #EXTINF:-1 ,TVP Sport (Euro2024)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://45.65.112.49:8000/play/a0ko
-#EXTINF:-1 ,СТВ (Euro2024)
+#EXTINF:-1 ,СТВ Беларусь (Euro2024)
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://93.85.87.5/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 ,CCTV-5 (Euro2024)
@@ -443,7 +439,7 @@ http://91.90.255.235:8000/play/a00a/index.m3u8
 #EXTINF:-1 ,МАТЧ! ИГРА
 http://188.113.190.15/142/video.m3u8
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
-http://5.153.180.133:8000/play/a033
+http://95.52.166.162:82/play/a06g
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
 http://188.113.190.15/103/video.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
@@ -453,7 +449,7 @@ http://188.113.190.15/126/video.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://188.113.190.15/95/video.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://5.153.180.133:8000/play/a03d
+http://95.52.166.162:82/play/a04i
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
@@ -481,7 +477,7 @@ http://45.159.74.14/Mama/mono.m3u8
 #EXTINF:-1 ,Мультиландия
 http://188.113.190.15/108/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,В гостях у сказки
-http://5.153.180.133:8000/play/a01w
+http://95.52.166.162:81/play/a02g
 #EXTINF:-1 ,Капитан Фантастика
 http://87.250.254.45/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
 #EXTINF:-1 ,Duck TV HD
