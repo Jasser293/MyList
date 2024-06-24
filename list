@@ -293,6 +293,14 @@ http://188.113.190.15/158/video.m3u8
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
+#EXTINF:-1 ,Bridge TV Classic
+http://45.159.74.14/BRIDGETVClassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Bridge TV Русский Хит
+http://45.159.74.14/Channel_115/mono.m3u8
+#EXTINF:-1 ,Муз-ТВ
+http://45.159.74.14/MuzTv/mono.m3u8
+#EXTINF:-1 ,MTV Live
+http://45.159.74.14/Channel_117/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
