@@ -435,8 +435,6 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 ,Беларусь 5
 https://87.250.254.45/kal/belarus_5/belarus_50.m3u8
 #EXTINF:-1 ,МАТЧ!
-http://194.143.148.28:8080/MatchHD/mpegts
-#EXTINF:-1 ,МАТЧ!
 https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/playlist.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
@@ -458,8 +456,8 @@ http://188.113.190.15/126/video.m3u8
 http://188.113.190.15/95/video.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://95.52.166.162:82/play/a04i
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
-http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 ,Матч! Футбол 1
+http://95.52.166.162:82/play/a04a
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
 http://188.113.190.15/175/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
