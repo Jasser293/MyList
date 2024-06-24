@@ -246,7 +246,7 @@ http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://81.7.108.21:9000/play/InvestigationDiscoveryHD-DVBC394-sti4400018360108
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Donate BTC
+#EXTINF:-1 ,History
 http://45.159.74.14/Channel_123/mono.m3u8
 #EXTINF:-1 ,Animal Planet
 http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
@@ -266,9 +266,9 @@ http://87.250.254.45/kal/sibir/sibir0.m3u8
 https://176.222.191.59/btv/live/hls/000003174.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://188.113.190.15/69/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Donate BTC
+#EXTINF:-1 ,Дикая охота
 http://45.159.74.14/Channel_127/mono.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Donate BTC
+#EXTINF:-1 ,Дикая рыбалка
 http://45.159.74.14/Channel_126/mono.m3u8
 #EXTINF:-1 ,RTG HD
 http://87.250.254.45/kal/rtg/rtg0.m3u8
