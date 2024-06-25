@@ -349,11 +349,11 @@ http://109.239.208.82/retro/index.m3u8
 #EXTINF:-1 ,Русский Иллюзион
 http://188.113.190.11/44/video.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://188.113.190.11/100/tracks-v1a1/index.m3u8
+http://188.113.190.11/100/video.m3u8
 #EXTINF:-1 ,Русский Детектив
-http://188.113.190.11/164/tracks-v1a1/index.m3u8
+http://188.113.190.11/164/video.m3u8
 #EXTINF:-1 ,Русский Детектив
-http://91.142.158.107:8092/play/27/index.m3u8
+http://188.113.190.15/164/video.m3u8
 #EXTINF:-1 ,Русский роман
 http://188.113.190.11/107/video.m3u8
 #EXTINF:-1 ,BollywooD
