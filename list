@@ -406,6 +406,22 @@ http://188.113.190.11/310/video.m3u8
 http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносемья
 http://188.113.190.11/311/video.m3u8
+#EXTINF:-1 ,Душевное
+http://45.93.46.27:8887/8296/video.m3u8
+#EXTINF:-1 ,Комедийное
+http://45.93.46.27:8887/8323/video.m3u8
+#EXTINF:-1 ,Наше
+http://45.93.46.27:8887/8059/video.m3u8
+#EXTINF:-1 ,Наше мужское
+http://45.93.46.27:8887/8740/video.m3u8
+#EXTINF:-1 ,Остросюжетное
+http://45.93.46.27:8887/8184/video.m3u8
+#EXTINF:-1 ,Премиальное
+http://45.93.46.27:8887/8028/video.m3u8
+#EXTINF:-1 ,Страшное
+http://45.93.46.27:8887/8198/video.m3u8
+#EXTINF:-1 ,Шокирующее
+http://45.93.46.27:8887/8322/video.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
 #EXTINF:-1 ,Eurosport 1
