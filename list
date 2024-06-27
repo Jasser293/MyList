@@ -204,6 +204,8 @@ https://87.250.254.45/kal/zhivi_belarus/zhivi_belarus0.m3u8
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://188.113.190.11/314/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Еда
+http://45.93.46.27:8887/8140/video.m3u8
 #EXTINF:-1 ,Еда премиум
 https://87.250.254.45/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
 #EXTINF:-1 ,Food Time HD
