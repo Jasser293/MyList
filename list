@@ -403,15 +403,13 @@ http://188.113.190.15/30/video.m3u8
 #EXTINF:-1 ,Viju+ Serial
 http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,Кинокомедия
-http://188.113.190.15/129/video.m3u8
+http://91.90.216.82/1232/index.m3u8
 #EXTINF:-1 ,Киномикс
-http://str01.tv/2446/video.m3u8?token=86861220c3b965aee286df05b52063aa
-#EXTINF:-1 ,Киносвидание
-http://str01.tv/7185/video.m3u8?token=86861220c3b965aee286df05b52063aa
-#EXTINF:-1 ,Киносвидание
-http://188.113.190.15/310/video.m3u8
+http://91.90.216.82/1233/index.m3u8
 #EXTINF:-1 ,Киносемья
-http://str01.tv/9448/video.m3u8?token=86861220c3b965aee286df05b52063aa
+http://91.90.216.82/1234/index.m3u8
+#EXTINF:-1 ,Киносерия
+http://91.90.216.82/1235/index.m3u8
 #EXTINF:-1 ,Душевное
 http://45.93.46.27:8887/8296/video.m3u8
 #EXTINF:-1 ,Комедийное
