@@ -257,8 +257,6 @@ http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://81.7.108.21:9000/play/InvestigationDiscoveryHD-DVBC394-sti4400018360108
 #EXTINF:-1 ,History
-http://89.106.234.5/HistoryHD_36_37.m3u8
-#EXTINF:-1 ,History
 https://iptv.prosto.tv/ch87/video.m3u8?secret=3fwh601f
 #EXTINF:-1 ,Animal Planet
 http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
@@ -387,7 +385,7 @@ http://str01.tv/4178/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 ,.Red
 http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 ,.Black
-http://188.113.190.15/186/tracks-v1a1/index.m3u8
+http://91.205.199.3/black/index.m3u8
 #EXTINF:-1 ,Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
@@ -407,13 +405,13 @@ http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://188.113.190.15/129/video.m3u8
 #EXTINF:-1 ,Киномикс
-http://188.113.190.15/308/video.m3u8
+http://str01.tv/2446/video.m3u8?token=86861220c3b965aee286df05b52063aa
+#EXTINF:-1 ,Киносвидание
+http://str01.tv/7185/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 ,Киносвидание
 http://188.113.190.15/310/video.m3u8
-#EXTINF:-1 ,Киносвидание
-http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносемья
-http://188.113.190.15/311/video.m3u8
+http://str01.tv/9448/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 ,Душевное
 http://45.93.46.27:8887/8296/video.m3u8
 #EXTINF:-1 ,Комедийное
@@ -469,6 +467,8 @@ http://188.113.190.15/126/video.m3u8
 http://188.113.190.15/95/video.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
 http://188.113.190.15/175/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
+http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
 http://188.113.190.15/176/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
