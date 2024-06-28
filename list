@@ -67,7 +67,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,РБК
 http://online-video.rbc.ru/kuban/index.m3u8
 #EXTINF:-1 ,Беларусь 24
-http://188.113.190.11/213/mono.m3u8
+http://188.113.190.15/213/mono.m3u8
 #EXTINF:-1 ,СТВ
 http://87.250.254.45/kal/stv_belarus/stv_belarus0.m3u8
 #EXTINF:-1 ,ОНТ
@@ -79,7 +79,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
-http://188.113.190.11/193/video.m3u8
+http://188.113.190.15/193/video.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Соловьев.Live
@@ -95,7 +95,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 https://176.222.191.59/btv/live/hls/000000308.m3u8
 #EXTINF:-1 ,Оружие
-http://188.113.190.11/155/mono.m3u8
+http://188.113.190.15/155/mono.m3u8
 #EXTINF:-1 ,АРСЕНАЛ
 http://87.250.254.45/kal/arsenal_belarus/arsenal_belarus0.m3u8
 #EXTINF:-1 ,Ратник
@@ -109,7 +109,7 @@ http://31.148.6.9:10005/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 ,ЦТВ
-http://188.113.190.11/228/tracks-v1a1/index.m3u8
+http://188.113.190.15/228/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Перец
 http://45.159.74.14/Perec/mono.m3u8
 #EXTINF:-1 ,КВН ТВ
@@ -123,7 +123,7 @@ http://87.120.142.8:12000/TNTComedy
 #EXTINF:-1 ,ТНТ4
 http://91.205.199.3/tnt4/index.m3u8
 #EXTINF:-1 ,ТНТ4
-http://188.113.190.11/184/mono.m3u8
+http://188.113.190.15/184/mono.m3u8
 #EXTINF:-1 ,ТВ3
 http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 #EXTINF:-1 ,ТВ3
@@ -135,7 +135,7 @@ http://31.131.136.4:8001/play/e001
 #EXTINF:-1 ,СТС International
 http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
-http://188.113.190.11/93/tracks-v1a1/index.m3u8
+http://188.113.190.15/93/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 ,Твоё ТВ
@@ -145,7 +145,7 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
-http://188.113.190.11/165/tracks-v1a1/index.m3u8
+http://188.113.190.15/165/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Че!
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Ю
@@ -165,15 +165,15 @@ http://112.72.4.108/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
 http://88.85.172.243:7005/play/a013
 #EXTINF:-1 ,АВТО 24
-http://188.113.190.11/154/tracks-v1a1/index.m3u8
+http://188.113.190.15/154/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
-http://188.113.190.11/322/tracks-v1a1/index.m3u8
+http://188.113.190.15/322/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://91.90.255.235:8000/play/a003/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
-http://188.113.190.11/68/tracks-v1a1/index.m3u8
+http://188.113.190.15/68/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Russian Extreme
 https://87.250.254.45/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
 #EXTINF:-1 ,Motorsport
@@ -183,15 +183,15 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 ,Racing America
 https://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Точка отрыва
-http://188.113.190.11/183/tracks-v1a1/index.m3u8
+http://188.113.190.15/183/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
-http://188.113.190.11/71/video.m3u8
+http://188.113.190.15/71/video.m3u8
 #EXTINF:-1 ,Усадьба
 http://ott.watch/stream/4UA66BEAIJ/211.m3u8
 #EXTINF:-1 ,Бобёр
-http://188.113.190.11/131/video.m3u8
+http://188.113.190.15/131/video.m3u8
 #EXTINF:-1 ,Бобёр
 http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Загородная жизнь
@@ -211,7 +211,7 @@ https://87.250.254.45/kal/zhivi_belarus/zhivi_belarus0.m3u8
 #EXTINF:-1 ,Кухня ТВ
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
-http://188.113.190.11/314/tracks-v1a1/index.m3u8
+http://188.113.190.15/314/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Еда
 http://45.93.46.27:8887/8140/video.m3u8
 #EXTINF:-1 ,Еда премиум
@@ -225,7 +225,7 @@ https://176.222.191.59/btv/live/hls/000002927.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 ,ЗООПАРК
-http://188.113.190.11/46/tracks-v1a1/index.m3u8
+http://188.113.190.15/46/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
@@ -233,15 +233,15 @@ http://87.250.254.45/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://188.113.190.11/174/video.m3u8
+http://188.113.190.15/174/video.m3u8
 #EXTINF:-1 ,Совершенно секретно
 http://88.85.172.243:7012/play/a02f
 #EXTINF:-1 ,Кто Есть Кто
-http://188.113.190.11/82/video.m3u8
+http://188.113.190.15/82/video.m3u8
 #EXTINF:-1 ,Кто Есть Кто
 http://camera.global-x.ru/KtoEstKto/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-http://188.113.190.11/74/video.m3u8
+http://188.113.190.15/74/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 https://176.222.191.59/btv/live/hls/000000195.m3u8
 #EXTINF:-1 ,Спас
@@ -265,11 +265,11 @@ http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Animal Planet
 http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
 #EXTINF:-1 ,Travel+Adventure
-http://188.113.190.11/106/tracks-v1a1/index.m3u8
+http://188.113.190.15/106/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Viju Explore
-http://188.113.190.11/32/tracks-v1a1/index.m3u8
+http://188.113.190.15/32/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Viju Nature
-http://188.113.190.11/28/tracks-v1a1/index.m3u8
+http://188.113.190.15/28/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Viju Nature HD
 http://91.205.199.3:80/viasatnature/index.m3u8
 #EXTINF:-1 ,Наша Сибирь
@@ -277,7 +277,7 @@ http://87.250.254.45/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 https://176.222.191.59/btv/live/hls/000003174.m3u8
 #EXTINF:-1 ,Охота и рыбалка
-http://188.113.190.11/69/tracks-v1a1/index.m3u8
+http://188.113.190.15/69/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Дикая охота
 http://45.159.74.14/Channel_127/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка
@@ -285,17 +285,17 @@ http://45.159.74.14/Channel_126/mono.m3u8
 #EXTINF:-1 ,RTG HD
 http://87.250.254.45/kal/rtg/rtg0.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
-http://188.113.190.11/36/tracks-v1a1/index.m3u8
+http://188.113.190.15/36/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Da Vinci
-http://188.113.190.11/161/video.m3u8
+http://188.113.190.15/161/video.m3u8
 #EXTINF:-1 ,Da Vinci
 https://176.222.191.59/btv/live/hls/000000333.m3u8
 #EXTINF:-1 ,Terra
-http://188.113.190.11/104/video.m3u8
+http://188.113.190.15/104/video.m3u8
 #EXTINF:-1 ,1HD
 http://146.158.0.56:80/1HD/index.m3u8
 #EXTINF:-1 ,Russian Music Box
-http://188.113.190.11/158/video.m3u8
+http://188.113.190.15/158/video.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,Bridge TV Classic
@@ -313,7 +313,7 @@ http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
-http://188.113.190.11/182/video.m3u8
+http://188.113.190.15/182/video.m3u8
 #EXTINF:-1 ,2x2
 https://87.250.254.45/kal/2x2_belarus/2x2_belarus0.m3u8
 #EXTINF:-1 ,2x2
@@ -347,27 +347,27 @@ http://ott.watch/stream/VLGLSFBJGG/221.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://45.159.74.13/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
-http://188.113.190.11/317/video.m3u8
+http://188.113.190.15/317/video.m3u8
 #EXTINF:-1 ,КИНОСЕРИЯ
-http://188.113.190.11/312/video.m3u8
+http://188.113.190.15/312/video.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
 http://91.205.199.3/komedia/index.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://45.159.74.14/MujskoeKino/index.m3u8
 #EXTINF:-1 ,КИНОМИКС
-http://188.113.190.11/335/video.m3u8
+http://188.113.190.15/335/video.m3u8
 #EXTINF:-1 ,Ретро
 http://109.239.208.82/retro/index.m3u8
 #EXTINF:-1 ,Русский Иллюзион
-http://188.113.190.11/44/video.m3u8
+http://188.113.190.15/44/video.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://188.113.190.11/100/video.m3u8
+http://188.113.190.15/100/video.m3u8
 #EXTINF:-1 ,Русский Детектив
-http://188.113.190.11/164/video.m3u8
+http://188.113.190.15/164/video.m3u8
 #EXTINF:-1 ,Русский Детектив
 http://188.113.190.15/164/video.m3u8
 #EXTINF:-1 ,Русский роман
-http://188.113.190.11/107/video.m3u8
+http://188.113.190.15/107/video.m3u8
 #EXTINF:-1 ,BollywooD
 http://87.250.254.45/kal/bollywood_belarus/bollywood_belarus0.m3u8
 #EXTINF:-1 ,HollywooD
@@ -387,33 +387,33 @@ http://str01.tv/4178/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 ,.Red
 http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 ,.Black
-http://188.113.190.11/186/tracks-v1a1/index.m3u8
+http://188.113.190.15/186/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
-http://188.113.190.11/214/video.m3u8
+http://188.113.190.15/214/video.m3u8
 #EXTINF:-1 ,Комедия
 http://88.85.172.243:7002/play/a02n
 #EXTINF:-1 ,Viju TV1000
 http://135.181.115.81:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 ,Viju TV1000
-http://188.113.190.11/31/video.m3u8
+http://188.113.190.15/31/video.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 ,Viju TV1000 Action
-http://188.113.190.11/30/video.m3u8
+http://188.113.190.15/30/video.m3u8
 #EXTINF:-1 ,Viju+ Serial
 http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,Кинокомедия
-http://188.113.190.11/129/video.m3u8
+http://188.113.190.15/129/video.m3u8
 #EXTINF:-1 ,Киномикс
-http://188.113.190.11/308/video.m3u8
+http://188.113.190.15/308/video.m3u8
 #EXTINF:-1 ,Киносвидание
-http://188.113.190.11/310/video.m3u8
+http://188.113.190.15/310/video.m3u8
 #EXTINF:-1 ,Киносвидание
 http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносемья
-http://188.113.190.11/311/video.m3u8
+http://188.113.190.15/311/video.m3u8
 #EXTINF:-1 ,Душевное
 http://45.93.46.27:8887/8296/video.m3u8
 #EXTINF:-1 ,Комедийное
@@ -454,29 +454,29 @@ https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/playlist.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! АРЕНА
-http://188.113.190.11/325/video.m3u8
+http://188.113.190.15/325/video.m3u8
 #EXTINF:-1 ,МАТЧ! ИГРА
 http://91.90.255.235:8000/play/a00a/index.m3u8
 #EXTINF:-1 ,МАТЧ! ИГРА
-http://188.113.190.11/142/video.m3u8
+http://188.113.190.15/142/video.m3u8
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
-http://188.113.190.11/103/video.m3u8
+http://188.113.190.15/103/video.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
 http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
-http://188.113.190.11/126/video.m3u8
+http://188.113.190.15/126/video.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://188.113.190.11/95/video.m3u8
+http://188.113.190.15/95/video.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
-http://188.113.190.11/175/tracks-v1a1/index.m3u8
+http://188.113.190.15/175/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
-http://188.113.190.11/176/tracks-v1a1/index.m3u8
+http://188.113.190.15/176/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 ,KHL
-http://188.113.190.11/80/tracks-v1a1/index.m3u8
+http://188.113.190.15/80/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,KHL Prime HD
-http://188.113.190.11/116/tracks-v1a1/index.m3u8
+http://188.113.190.15/116/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,VIASAT SPORT HD
 https://176.222.191.59/btv/live/hls/000000135.m3u8
 #EXTINF:-1 ,Tennis Channel
@@ -486,13 +486,13 @@ http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 ,Рыжий
 http://87.250.254.45/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTINF:-1 ,О!
-http://188.113.190.11/136/tracks-v1a1/index.m3u8
+http://188.113.190.15/136/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Мама
 http://45.159.74.14/Mama/mono.m3u8
 #EXTINF:-1 ,Мультиландия
-http://188.113.190.11/108/tracks-v1a1/index.m3u8
+http://188.113.190.15/108/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,В гостях у сказки
-http://188.113.190.11/43/tracks-v1a1/index.m3u8
+http://188.113.190.15/43/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Капитан Фантастика
 http://87.250.254.45/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
 #EXTINF:-1 ,Duck TV HD
@@ -504,7 +504,7 @@ http://87.250.254.45/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 ,Gulli Girl
 http://87.250.254.45/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 ,BABY TIME
-http://188.113.190.11/178/video.m3u8
+http://188.113.190.15/178/video.m3u8
 #EXTINF:-1 ,Карусель
 http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 #EXTINF:-1 ,LNK HD
