@@ -471,6 +471,8 @@ http://sc.id-tv.kz/FHD_KHL_34_35.m3u8
 http://176.222.191.59/btv/live/hls/000000135.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,Солнце
+http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:-1 ,Da Vinci
 http://176.222.191.59/btv/live/hls/000000333.m3u8
 #EXTINF:-1 ,Мультимания
