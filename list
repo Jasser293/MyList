@@ -135,9 +135,9 @@ http://31.131.136.4:8001/play/e001
 #EXTINF:-1 ,СТС International
 http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
-http://91.205.199.7:8000/play/a0nw
-#EXTINF:-1 ,СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
+#EXTINF:-1 ,СТС Love
+http://str01.tv/6621/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ Юмор
@@ -209,9 +209,9 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,Живи
 http://87.250.254.45/kal/zhivi_belarus/zhivi_belarus0.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://stream01.vnet.am/KukhnyaTv/mono.m3u8
+http://45.159.74.14/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
-http://91.205.199.7:8000/play/a0qk
+http://89.106.234.5/kuhnya_hd_34_35.m3u8
 #EXTINF:-1 ,Еда
 http://45.93.46.27:8887/8140/video.m3u8
 #EXTINF:-1 ,Еда премиум
@@ -225,7 +225,7 @@ http://176.222.191.59/btv/live/hls/000002927.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://109.239.208.82:80/zoo/index.m3u8
 #EXTINF:-1 ,ЗООПАРК
-http://91.205.199.7:8000/play/a0pm
+http://91.90.216.82/1417/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
@@ -233,7 +233,7 @@ http://87.250.254.45/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://91.205.199.7:8000/play/a0ro
+http://str01.tv/6097/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 ,Совершенно секретно
 http://88.85.172.243:7012/play/a02f
 #EXTINF:-1 ,Кто Есть Кто
@@ -275,11 +275,11 @@ http://91.205.199.3:80/viasatnature/index.m3u8
 #EXTINF:-1 ,Наша Сибирь
 http://87.250.254.45/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Дикий
-http://91.205.199.7:8000/play/a0pa
+http://str01.tv/2503/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 ,Диалоги о рыбалке
 http://176.222.191.59/btv/live/hls/000003174.m3u8
 #EXTINF:-1 ,Охота и рыбалка
-http://91.205.199.7:8000/play/a0pw
+http://89.106.234.5/Ribalka_Ohota_36_37.m3u8
 #EXTINF:-1 ,Дикая охота
 http://45.159.74.14/Channel_127/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка
@@ -349,13 +349,13 @@ http://91.90.216.82/1233/index.m3u8
 #EXTINF:-1 ,Ретро
 http://109.239.208.82/retro/index.m3u8
 #EXTINF:-1 ,Русский Бестселлер
-http://91.205.199.7:8000/play/a0ow
+http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский Детектив
-http://91.205.199.7:8000/play/a0ot
+http://91.142.158.107:8092/play/27/index.m3u8
 #EXTINF:-1 ,Русский Иллюзион
-http://91.205.199.7:8000/play/a0rv
+http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский Роман
-http://91.205.199.7:8000/play/a0os
+http://45.159.74.14/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,BollywooD
 http://87.250.254.45/kal/bollywood_belarus/bollywood_belarus0.m3u8
 #EXTINF:-1 ,HollywooD
@@ -383,17 +383,19 @@ http://str01.tv/4167/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 ,Комедия
 http://88.85.172.243:7002/play/a02n
 #EXTINF:-1 ,Viju TV1000
+http://89.106.234.5/TV1000_34_35.m3u8
+#EXTINF:-1 ,Viju TV1000
 http://135.181.115.81:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 ,Viju TV1000 Русское
 http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
-#EXTINF:-1 ,viju TV1000 action
-http://91.205.199.7:8000/play/a0u2
-#EXTINF:-1 ,viju TV1000 новелла
-http://91.205.199.7:8000/play/a0ua
+#EXTINF:-1 ,Viju TV1000 Русское
+http://89.106.234.5/TV1000RuKino_34_35.m3u8
+#EXTINF:-1 ,Viju TV1000 Action
+http://89.106.234.5/TV1000Action_34_35.m3u8
 #EXTINF:-1 ,Viju+ Serial
 http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
-http://91.205.199.7:8000/play/a0p6
+http://91.90.216.82/1052/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
 http://91.205.199.3/komedia/index.m3u8
 #EXTINF:-1 ,Кинокомедия
@@ -462,7 +464,7 @@ http://45.93.46.27:8887/8237/video.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 ,KHL
-http://91.205.199.7:8000/play/a0qm
+http://91.90.216.82/1028/index.m3u8
 #EXTINF:-1 ,KHL Prime
 http://sc.id-tv.kz/FHD_KHL_34_35.m3u8
 #EXTINF:-1 ,VIASAT SPORT HD
@@ -478,7 +480,7 @@ http://87.250.254.45/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTINF:-1 ,Мама
 http://45.159.74.14/Mama/mono.m3u8
 #EXTINF:-1 ,Мультиландия
-http://91.205.199.7:8000/play/a0p0
+http://91.90.216.82/1440/index.m3u8
 #EXTINF:-1 ,В гостях у сказки
 http://91.90.216.82/1270/index.m3u8
 #EXTINF:-1 ,Капитан Фантастика
