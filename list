@@ -349,11 +349,11 @@ http://91.90.216.82/1233/index.m3u8
 #EXTINF:-1 ,Ретро
 http://109.239.208.82/retro/index.m3u8
 #EXTINF:-1 ,Русский Бестселлер
-http://91.142.158.107:8092/play/26/index.m3u8
+http://str01.tv/7525/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 ,Русский Детектив
-https://st1.uzdigital.tv/RusskiyDetektiv/tracks-v1a1/mono.m3u8
+http://185.74.5.226/RusskiyDetektiv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Русский Иллюзион
-http://195.26.83.96:7006/play/a00y/index.m3u8
+http://str01.tv/9282/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 ,Русский Роман
 http://45.159.74.14/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,BollywooD
