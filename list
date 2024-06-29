@@ -67,7 +67,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,РБК
 http://online-video.rbc.ru/kuban/index.m3u8
 #EXTINF:-1 ,Беларусь 24
-http://188.113.190.15/213/mono.m3u8
+https://176.222.191.59/btv/live/hls/000000360.m3u8
 #EXTINF:-1 ,СТВ
 http://87.250.254.45/kal/stv_belarus/stv_belarus0.m3u8
 #EXTINF:-1 ,ОНТ
@@ -79,7 +79,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
-http://188.113.190.15/193/video.m3u8
+#http://188.113.190.15/193/mono.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Соловьев.Live
@@ -93,9 +93,9 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
-https://176.222.191.59/btv/live/hls/000000308.m3u8
+http://176.222.191.59/btv/live/hls/000000308.m3u8
 #EXTINF:-1 ,Оружие
-http://188.113.190.15/155/mono.m3u8
+http://178.124.179.122:8088/Oruzhie/index.m3u8
 #EXTINF:-1 ,АРСЕНАЛ
 http://87.250.254.45/kal/arsenal_belarus/arsenal_belarus0.m3u8
 #EXTINF:-1 ,Ратник
@@ -109,7 +109,7 @@ http://31.148.6.9:10005/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 ,ЦТВ
-http://188.113.190.15/228/tracks-v1a1/index.m3u8
+http://45.159.74.14/Channel_129/mono.m3u8
 #EXTINF:-1 ,Перец
 http://45.159.74.14/Perec/mono.m3u8
 #EXTINF:-1 ,КВН ТВ
@@ -123,7 +123,7 @@ http://87.120.142.8:12000/TNTComedy
 #EXTINF:-1 ,ТНТ4
 http://91.205.199.3/tnt4/index.m3u8
 #EXTINF:-1 ,ТНТ4
-http://188.113.190.15/184/mono.m3u8
+http://176.222.191.59/btv/live/hls/000002926.m3u8
 #EXTINF:-1 ,ТВ3
 http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 #EXTINF:-1 ,ТВ3
@@ -135,7 +135,7 @@ http://31.131.136.4:8001/play/e001
 #EXTINF:-1 ,СТС International
 http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
-http://188.113.190.15/93/tracks-v1a1/index.m3u8
+http://91.205.199.7:8000/play/a0nw
 #EXTINF:-1 ,СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 ,Твоё ТВ
