@@ -89,13 +89,13 @@ http://dmi3y-tv.ru/hls/T2/CH_ZVEZDA.m3u8
 #EXTINF:-1 ,Звезда
 http://94.230.240.12:8080/zvezda/index.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://176.222.191.59/btv/live/hls/000000308.m3u8
 #EXTINF:-1 ,Оружие
-http://178.124.179.122:8088/Oruzhie/index.m3u8
+http://str01.tv/6836/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 ,АРСЕНАЛ
 http://87.250.254.45/kal/arsenal_belarus/arsenal_belarus0.m3u8
 #EXTINF:-1 ,Ратник
@@ -200,6 +200,8 @@ http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 http://87.250.254.45/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
 #EXTINF:-1 ,Доктор
 http://87.120.142.8:18000/24dok
+#EXTINF:-1 ,Доктор
+http://str01.tv/9022/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 ,Доктор
 http://ott.watch/stream/4UA66BEAIJ/80.m3u8
 #EXTINF:-1 ,Здоровое ТВ
