@@ -89,7 +89,7 @@ http://dmi3y-tv.ru/hls/T2/CH_ZVEZDA.m3u8
 #EXTINF:-1 ,Звезда
 http://94.230.240.12:8080/zvezda/index.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
