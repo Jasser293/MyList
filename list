@@ -20,7 +20,7 @@ https://stream1.prizma.link/NTVBelarusHD/video.m3u8
 #EXTINF:-1 ,НТВ Право
 http://176.222.191.59/btv/live/hls/000002759.m3u8
 #EXTINF:-1 ,НТВ Право
-http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=6babdf01&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=emppZjBKYXJZUmxzM2VXalFFdXVJdjlIWWNwa3ZmbGlMUWhPUmNYWmVZST06Os%2BJdquK9r8OVACHaD%2BaHLI%3D
+http://91.205.199.7:8000/play/a0rd
 #EXTINF:-1 ,Зал суда
 http://176.222.191.59/btv/live/hls/000006638.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
