@@ -118,8 +118,6 @@ http://87.250.254.45/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
-#EXTINF:-1 ,ТНТ International
-http://87.120.142.8:12000/TNTComedy
 #EXTINF:-1 ,ТНТ4
 http://91.205.199.3/tnt4/index.m3u8
 #EXTINF:-1 ,ТНТ4
@@ -198,12 +196,12 @@ http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
 http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://87.250.254.45/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
-#EXTINF:-1 ,Доктор
-http://87.120.142.8:18000/24dok
-#EXTINF:-1 ,Доктор
+ken=test#EXTINF:-1 ,Доктор
 http://str01.tv/9022/video.m3u8?token=86861220c3b965aee286df05b52063aa
 #EXTINF:-1 ,Доктор
 http://ott.watch/stream/4UA66BEAIJ/80.m3u8
+#EXTINF:-1 ,Доктор
+http://178.163.99.10:4022/udp/234.0.0.232:2000
 #EXTINF:-1 ,Здоровое ТВ
 http://176.222.191.59/btv/live/hls/000000057.m3u8
 #EXTINF:-1 ,Здоровое ТВ
