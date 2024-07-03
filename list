@@ -161,7 +161,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 ,Пятница! International
 http://112.72.4.108/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
-http://88.85.172.243:7005/play/a013
+http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://109.239.208.82/auto24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,АВТО 24
@@ -197,7 +197,7 @@ http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://89.106.234.5/Zagorod.m3u8
 #EXTINF:-1 ,Доктор
-http://88.85.172.243:7004/play/a01l
+http://str04.tv/9022/video.m3u8?token=867a0973ee9579b4da572ab3263d4984
 #EXTINF:-1 ,Доктор
 http://ott.watch/stream/4UA66BEAIJ/80.m3u8
 #EXTINF:-1 ,Здоровое ТВ
@@ -235,7 +235,7 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
 http://91.205.199.7:8000/play/a0ro
 #EXTINF:-1 ,Совершенно секретно
-http://88.85.172.243:7012/play/a02f
+http://str04.tv/6097/video.m3u8?token=867a0973ee9579b4da572ab3263d4984
 #EXTINF:-1 ,Кто Есть Кто
 http://135.181.115.81:8000/play/a017/index.m3u8?token=livetv
 #EXTINF:-1 ,Кто Есть Кто
@@ -379,9 +379,9 @@ http://91.205.199.3/black/index.m3u8
 #EXTINF:-1 ,Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
-http://91.205.199.3:80/komedia/index.m3u8
+http://147.45.48.241:8090/RU_Komediya/video.m3u8?token=rD_MOZUq-1
 #EXTINF:-1 ,Комедия
-http://88.85.172.243:7002/play/a02n
+http://str04.tv/4167/video.m3u8?token=867a0973ee9579b4da572ab3263d4984
 #EXTINF:-1 ,Viju TV1000
 http://89.106.234.5/TV1000_34_35.m3u8
 #EXTINF:-1 ,Viju TV1000
