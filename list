@@ -201,6 +201,8 @@ http://89.106.234.5/Zagorod.m3u8
 #EXTINF:-1 ,Доктор
 http://188.134.76.176:81/udp/235.10.10.191:1234
 #EXTINF:-1 ,Доктор
+http://list.onlinetv-sochi.ru:8080/live/newbridgep.php?id=n1b15811f&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=V2NndUtacEZIeHRjMzVXcmtFUjhEclFpait6ZGNIS1dTN0RDL05vd01sUT06Om2UgzxiT2e55CuTaz4ZPyA%3D
+#EXTINF:-1 ,Доктор
 http://ott.watch/stream/4UA66BEAIJ/80.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://176.222.191.59/btv/live/hls/000000057.m3u8
