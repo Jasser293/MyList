@@ -206,6 +206,8 @@ http://ott.watch/stream/4UA66BEAIJ/80.m3u8
 http://176.222.191.59/btv/live/hls/000000057.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
+#EXTINF:-1 ,Тонус 
+http://109.239.208.82/tonus/index.m3u8
 #EXTINF:-1 ,Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,Живи
