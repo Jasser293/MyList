@@ -172,6 +172,8 @@ http://91.90.255.235:8000/play/a003/index.m3u8
 http://91.90.216.82/1036/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://109.239.208.82/drive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мужской
+http://87.250.254.45/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1 ,Russian Extreme
 http://87.250.254.45/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
 #EXTINF:-1 ,Motorsport
