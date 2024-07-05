@@ -457,7 +457,7 @@ http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://91.205.199.7:8000/play/a0oe
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
-http://185.163.194.185:6987/146/index.m3u8
+http://185.163.194.185:6987/146/mono.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
