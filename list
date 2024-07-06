@@ -292,8 +292,10 @@ http://45.159.74.14/Channel_126/mono.m3u8
 http://87.250.254.45/kal/rtg/rtg0.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
 http://91.90.216.82/1242/index.m3u8
-#EXTINF:-1 ,Terra
+#EXTINF:-1 ,TERRA
 http://176.222.191.59/btv/live/hls/000008142.m3u8
+#EXTINF:-1 ,TERRA HD
+http://188.113.190.11/104/video.m3u8
 #EXTINF:-1 ,1HD
 http://146.158.0.56:80/1HD/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
