@@ -436,18 +436,15 @@ http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
 #EXTINF:-1 ,Eurosport 2 HD
 http://ott.watch/stream/SII4T392IL/192.m3u8
-#EXTINF:-1 ,TVP Sport (Euro2024)
-#EXTVLCOPT:http-user-agent=Donate BTC
-#http://45.65.112.49:8000/play/a0ko
 #EXTINF:-1 ,СТВ (Euro2024)
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://93.85.87.5/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 ,Qazsport HD (Euro2024)
+http://176.222.191.59/btv/live/hls/000003038.m3u8
 #EXTINF:-1 ,Беларусь 5
 http://87.250.254.45/kal/belarus_5/belarus_50.m3u8
 #EXTINF:-1 ,МАТЧ!
 https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/playlist.m3u8
-#EXTINF:-1 ,МАТЧ! АРЕНА
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 ,МАТЧ! ИГРА
