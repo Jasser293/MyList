@@ -135,7 +135,7 @@ http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://91.205.199.7:8000/play/a0nw
+http://188.113.190.11/93/video.m3u8
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ Юмор
@@ -237,7 +237,7 @@ http://87.250.254.45/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://91.205.199.7:8000/play/a0ro
+http://188.113.190.11/174/video.m3u8
 #EXTINF:-1 ,Совершенно секретно
 http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 ,Кто Есть Кто
@@ -354,12 +354,14 @@ http://45.159.74.14/MujskoeKino/index.m3u8
 http://91.90.216.82/1233/index.m3u8
 #EXTINF:-1 ,Ретро
 http://109.239.208.82/retro/index.m3u8
-#EXTINF:-1 ,Русский Бестселлер
-http://91.205.199.7:8000/play/a0ow
-#EXTINF:-1 ,Русский Детектив
-http://185.74.5.226/RusskiyDetektiv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Русский Иллюзион
-http://91.205.199.7:8000/play/a0rv
+#EXTINF:-1 ,Русский бестселлер
+http://188.113.190.11/100/video.m3u8
+#EXTINF:-1 ,Русский детектив
+http://188.113.190.11/164/video.m3u8
+#EXTINF:-1 ,Русский иллюзион
+http://188.113.190.11/45/video.m3u8
+#EXTINF:-1 ,Русский роман
+http://188.113.190.11/107/video.m3u8
 #EXTINF:-1 ,Русский Роман
 http://45.159.74.14/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,BollywooD
@@ -450,11 +452,11 @@ http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 ,МАТЧ! ИГРА
 http://185.163.194.185:6987/144/mono.m3u8
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
-http://91.205.199.7:8000/play/a0ny
+http://188.113.190.11/103/video.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
 http://185.163.194.185:6987/143/mono.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://91.205.199.7:8000/play/a0oe
+http://188.113.190.11/95/video.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
 http://185.163.194.185:6987/146/mpegts
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
