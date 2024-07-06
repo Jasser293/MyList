@@ -267,7 +267,7 @@ http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Animal Planet
 http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
 #EXTINF:-1 ,Travel+Adventure
-###
+http://188.113.190.11/106/video.m3u8
 #EXTINF:-1 ,Viju Explore
 http://91.90.216.82/1045/index.m3u8
 #EXTINF:-1 ,Viju History
@@ -379,7 +379,7 @@ http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://91.205.199.7:8000/play/a0s8
+http://212.0.213.132:8084/Nostalgia/index.m3u8
 #EXTINF:-1 ,.Red
 http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 ,.Black
