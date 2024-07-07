@@ -79,7 +79,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
-http://188.113.190.11/193/video.m3u8
+http://188.113.190.11/193/mono.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Соловьев.Live
@@ -355,13 +355,13 @@ http://91.90.216.82/1233/index.m3u8
 #EXTINF:-1 ,Ретро
 http://109.239.208.82/retro/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://188.113.190.11/100/video.m3u8
+http://91.207.115.228:5000/c34
 #EXTINF:-1 ,Русский детектив
-http://188.113.190.11/164/video.m3u8
+http://91.207.115.228:5000/c35
 #EXTINF:-1 ,Русский иллюзион
-http://188.113.190.11/45/video.m3u8
+http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский роман
-http://188.113.190.11/107/video.m3u8
+http://185.163.194.185:6987/245/video.m3u8
 #EXTINF:-1 ,Русский Роман
 http://45.159.74.14/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,BollywooD
@@ -457,14 +457,12 @@ http://188.113.190.11/103/video.m3u8
 http://185.163.194.185:6987/143/mono.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://188.113.190.11/95/video.m3u8
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
-http://185.163.194.185:6987/146/mpegts
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
-http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+#EXTINF:-1 ,Матч! Футбол 1
+http://185.163.194.185:6987/146/video.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
 http://45.93.46.27:8887/8237/video.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
-http://185.57.68.33/110/mpegts
+http://185.57.68.33/110/video.m3u8
 #EXTINF:-1 ,KHL
 http://91.90.216.82/1028/index.m3u8
 #EXTINF:-1 ,KHL Prime
