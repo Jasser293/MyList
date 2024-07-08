@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz"
 #EXTINF:-1 ,Первый канал
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
@@ -198,6 +198,8 @@ http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
 http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://89.106.234.5/Zagorod.m3u8
+#EXTINF:-1 ,Доктор
+http://91.218.160.212:8015/play/a035/index.m3u8
 #EXTINF:-1 ,Доктор
 http://ott.watch/stream/5Q8JENTEPP/80.m3u8
 #EXTINF:-1 ,Доктор
