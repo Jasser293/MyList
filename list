@@ -199,7 +199,7 @@ http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://89.106.234.5/Zagorod.m3u8
 #EXTINF:-1 ,Доктор
-http://178.16.151.67/doctor/index.m3u8
+http://178.16.151.67/doctor/video.m3u8
 #EXTINF:-1 ,Доктор
 http://ott.watch/stream/5Q8JENTEPP/80.m3u8
 #EXTINF:-1 ,Доктор
@@ -281,7 +281,7 @@ http://91.205.199.3:80/viasatnature/index.m3u8
 #EXTINF:-1 ,Наша Сибирь
 http://87.250.254.45/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Дикий
-http://91.207.115.228:5000/c98
+http://91.205.199.7:8000/play/a0pa
 #EXTINF:-1 ,Диалоги о рыбалке
 http://176.222.191.59/btv/live/hls/000003174.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -357,9 +357,9 @@ http://91.90.216.82/1233/index.m3u8
 #EXTINF:-1 ,Ретро
 http://109.239.208.82/retro/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://91.207.115.228:5000/c34
+http://178.16.151.67/rus-bestseller/video.m3u8
 #EXTINF:-1 ,Русский детектив
-http://91.207.115.228:5000/c35
+http://178.16.151.67/rus-detective/video.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский роман
