@@ -277,7 +277,7 @@ http://91.90.216.82/1046/index.m3u8
 #EXTINF:-1 ,Viju Nature
 http://91.90.216.82/1228/index.m3u8
 #EXTINF:-1 ,Viju Nature HD
-http://91.205.199.3:80/viasatnature/index.m3u8
+http://176.222.191.59/btv/live/hls/000006482.m3u8
 #EXTINF:-1 ,Наша Сибирь
 http://87.250.254.45/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Дикий
@@ -381,7 +381,7 @@ http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://212.0.213.132:8084/Nostalgia/index.m3u8
+http://185.163.194.185:6987/224/mpegts
 #EXTINF:-1 ,.Red
 http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 ,.Black
@@ -391,7 +391,7 @@ https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
 http://147.45.48.241:8090/RU_Komediya/video.m3u8?token=rD_MOZUq-1
 #EXTINF:-1 ,Комедия
-http://91.205.199.3:80/komedia/index.m3u8
+http://91.218.160.212:8015/play/a015/index.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://89.106.234.5/TV1000_34_35.m3u8
 #EXTINF:-1 ,Viju TV1000
@@ -407,7 +407,7 @@ http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://91.90.216.82/1052/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
-http://91.205.199.3/komedia/index.m3u8
+http://185.163.194.185:6987/22/video.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://91.90.216.82/1232/index.m3u8
 #EXTINF:-1 ,Киномикс
