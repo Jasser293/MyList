@@ -319,7 +319,7 @@ http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
 https://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
 #EXTINF:-1 ,2x2
-http://87.250.254.45/kal/2x2_belarus/2x2_belarus0.m3u8
+http://178.16.151.67/2x2/index.m3u8
 #EXTINF:-1 ,2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,Pro100TV
@@ -389,7 +389,7 @@ http://91.205.199.3/black/index.m3u8
 #EXTINF:-1 ,Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
-http://147.45.48.241:8090/RU_Komediya/video.m3u8?token=rD_MOZUq-1
+http://91.205.199.3:80/komedia/index.m3u8
 #EXTINF:-1 ,Комедия
 http://91.218.160.212:8015/play/a015/index.m3u8
 #EXTINF:-1 ,Viju TV1000
