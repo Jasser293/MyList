@@ -163,15 +163,15 @@ http://112.72.4.108/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
 http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 ,АВТО 24
-http://109.239.208.82/auto24/tracks-v1a1/mono.m3u8
+http://91.205.199.3:80/avto24/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
-http://185.163.194.185:6987/110/mono.m3u8
+http://91.218.160.212:8015/play/a01i/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://91.90.216.82/1036/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
-http://109.239.208.82/drive/tracks-v1a1/mono.m3u8
+http://91.90.216.82/1421/index.m3u8
 #EXTINF:-1 ,Мужской
 http://87.250.254.45/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1 ,Russian Extreme
@@ -183,7 +183,7 @@ http://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 ,Racing America
 http://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Точка отрыва
-http://109.239.208.82/tochka/index.m3u8
+http://91.90.216.82/1031/index.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
@@ -209,7 +209,7 @@ http://176.222.191.59/btv/live/hls/000000057.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Тонус 
-http://109.239.208.82/tonus/index.m3u8
+http://45.159.74.14/ZooTv/mono.m3u8
 #EXTINF:-1 ,Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,Живи
@@ -229,7 +229,7 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
 http://176.222.191.59/btv/live/hls/000002927.m3u8
 #EXTINF:-1 ,ЗООПАРК
-http://109.239.208.82:80/zoo/index.m3u8
+http://176.222.191.59/btv/live/hls/000000260.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://91.90.216.82/1417/index.m3u8
 #EXTINF:-1 ,Поехали!
@@ -281,7 +281,7 @@ http://176.222.191.59/btv/live/hls/000006482.m3u8
 #EXTINF:-1 ,Наша Сибирь
 http://87.250.254.45/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Дикий
-http://91.205.199.7:8000/play/a0pa
+http://str14.tv/2503/video.m3u8?token=bcedd0051c8d4aa485b37157fbb93cdd
 #EXTINF:-1 ,Диалоги о рыбалке
 http://176.222.191.59/btv/live/hls/000003174.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -355,7 +355,7 @@ http://45.159.74.14/MujskoeKino/index.m3u8
 #EXTINF:-1 ,КИНОМИКС
 http://91.90.216.82/1233/index.m3u8
 #EXTINF:-1 ,Ретро
-http://109.239.208.82/retro/index.m3u8
+http://91.90.216.82/1047/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://178.16.151.67/rus-bestseller/video.m3u8
 #EXTINF:-1 ,Русский детектив
