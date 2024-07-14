@@ -171,7 +171,7 @@ http://91.218.160.212:8015/play/a01i/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://178.16.151.67/avto-plus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
-http://31.211.77.158:8000/play/a166/index.m3u8
+https://mhd116.iptv2022.com/p/YXPfgi2r4XLN8wAsW2Wd2Q,1720990810/streaming/drive/324/1/index.m3u8
 #EXTINF:-1 ,Мужской
 http://87.250.254.45/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1 ,Russian Extreme
@@ -185,9 +185,9 @@ http://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
-http://31.211.77.158:8000/play/a151/index.m3u8
+http://94.23.77.69/stream/BM4WWV9HYI/211.m3u8
 #EXTINF:-1 ,Усадьба
-http://ott.watch/stream/4UA66BEAIJ/211.m3u8
+http://94.23.77.69/stream/4UA66BEAIJ/211.m3u8
 #EXTINF:-1 ,Бобёр
 http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 ,Бобёр
@@ -199,9 +199,9 @@ http://89.106.234.5/Zagorod.m3u8
 #EXTINF:-1 ,Доктор
 http://178.16.151.67/doctor/video.m3u8
 #EXTINF:-1 ,Доктор
-http://ott.watch/stream/5Q8JENTEPP/80.m3u8
+http://94.23.77.69/stream/5Q8JENTEPP/80.m3u8
 #EXTINF:-1 ,Доктор
-http://ott.watch/stream/4UA66BEAIJ/80.m3u8
+http://94.23.77.69/stream/4UA66BEAIJ/80.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://176.222.191.59/btv/live/hls/000000057.m3u8
 #EXTINF:-1 ,Здоровое ТВ
@@ -221,7 +221,7 @@ http://45.93.46.27:8887/8140/video.m3u8
 #EXTINF:-1 ,Еда премиум
 http://176.222.191.59/btv/live/hls/000000588.m3u8
 #EXTINF:-1 ,Food Time HD
-http://ott.watch/stream/85WT12YUMH/216.m3u8
+http://94.23.77.69/stream/85WT12YUMH/216.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
@@ -245,9 +245,9 @@ http://135.181.115.81:8000/play/a017/index.m3u8?token=livetv
 #EXTINF:-1 ,Кто Есть Кто
 http://camera.global-x.ru/KtoEstKto/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-http://31.211.77.158:8000/play/a161/index.m3u8
-#EXTINF:-1 ,Вопросы и ответы
 http://176.222.191.59/btv/live/hls/000000195.m3u8
+#EXTINF:-1 ,Вопросы и ответы
+http://94.23.77.69/stream/BM4WWV9HYI/76.m3u8
 #EXTINF:-1 ,Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Радость Моя
@@ -283,7 +283,7 @@ http://str14.tv/2503/video.m3u8?token=bcedd0051c8d4aa485b37157fbb93cdd
 #EXTINF:-1 ,Диалоги о рыбалке
 http://176.222.191.59/btv/live/hls/000003174.m3u8
 #EXTINF:-1 ,Охота и рыбалка
-http://31.211.77.158:8000/play/a155/index.m3u8
+http://91.218.160.212:8015/play/a02y/index.m3u8
 #EXTINF:-1 ,Дикая охота
 http://45.159.74.14/Channel_127/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка
@@ -291,7 +291,7 @@ http://45.159.74.14/Channel_126/mono.m3u8
 #EXTINF:-1 ,RTG HD
 http://87.250.254.45/kal/rtg/rtg0.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
-http://31.211.77.158:8000/play/a101/index.m3u8
+http://185.112.140.28:80/365_dnej/index.m3u8
 #EXTINF:-1 ,TERRA
 http://176.222.191.59/btv/live/hls/000008142.m3u8
 #EXTINF:-1 ,TERRA HD
@@ -329,7 +329,7 @@ http://45.159.74.14/DomKino/mono.m3u8
 #EXTINF:-1 ,Amedia 1
 http://45.159.74.14/Channel_128/mono.m3u8
 #EXTINF:-1 ,Amedia 1
-http://ott.watch/stream/W6RW921XNT/117.m3u8
+http://94.23.77.69/stream/W6RW921XNT/117.m3u8
 #EXTINF:-1 ,Amedia 2
 http://91.205.199.3/amedia2/index.m3u8
 #EXTINF:-1 ,Amedia Hit
@@ -341,19 +341,19 @@ http://45.159.74.13/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://91.205.199.3/kinoxithd/index.m3u8
 #EXTINF:-1 ,КИНОХИТ
-http://ott.watch/stream/VLGLSFBJGG/126.m3u8
+http://94.23.77.69/stream/VLGLSFBJGG/126.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://94.230.240.12/kinotv/index.m3u8
 #EXTINF:-1 ,Кино ТВ
-http://ott.watch/stream/VLGLSFBJGG/221.m3u8
+http://94.23.77.69/stream/VLGLSFBJGG/221.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://45.159.74.13/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://45.159.74.14/MujskoeKino/index.m3u8
 #EXTINF:-1 ,КИНОМИКС
-http://31.211.77.158:8000/play/a105/index.m3u8
+http://185.112.140.28:80/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
-http://31.211.77.158:8000/play/a096/index.m3u8
+http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://178.16.151.67/rus-bestseller/video.m3u8
 #EXTINF:-1 ,Русский детектив
@@ -435,7 +435,7 @@ http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
 #EXTINF:-1 ,Eurosport 2 HD
-http://ott.watch/stream/SII4T392IL/192.m3u8
+http://94.23.77.69/stream/SII4T392IL/192.m3u8
 #EXTINF:-1 ,СТВ (Euro2024)
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://93.85.87.5/ctv/ctv.stream/playlist.m3u8
@@ -496,26 +496,26 @@ http://87.250.254.45/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 ,Карусель
 http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 #EXTINF:-1 ,LNK HD
-http://ott.watch/stream/VLGLSFBJGG/30.m3u8
+http://94.23.77.69/stream/VLGLSFBJGG/30.m3u8
 #EXTINF:-1 ,BTV HD
-http://ott.watch/stream/VLGLSFBJGG/35.m3u8
+http://94.23.77.69/stream/VLGLSFBJGG/35.m3u8
 #EXTINF:-1 ,LRT HD
-http://ott.watch/stream/VLGLSFBJGG/31.m3u8
+http://94.23.77.69/stream/VLGLSFBJGG/31.m3u8
 #EXTINF:-1 ,LRT Plius HD
-http://ott.watch/stream/VLGLSFBJGG/353.m3u8
+http://94.23.77.69/stream/VLGLSFBJGG/353.m3u8
 #EXTINF:-1 ,TV 1
-http://ott.watch/stream/VLGLSFBJGG/374.m3u8
+http://94.23.77.69/stream/VLGLSFBJGG/374.m3u8
 #EXTINF:-1 ,TV3 HD
-http://ott.watch/stream/VLGLSFBJGG/29.m3u8
+http://94.23.77.69/stream/VLGLSFBJGG/29.m3u8
 #EXTINF:-1 ,Balticum
-http://ott.watch/stream/VLGLSFBJGG/376.m3u8
+http://94.23.77.69/stream/VLGLSFBJGG/376.m3u8
 #EXTINF:-1 ,TV 6
-http://ott.watch/stream/VLGLSFBJGG/375.m3u8
+http://94.23.77.69/stream/VLGLSFBJGG/375.m3u8
 #EXTINF:-1 ,TV3 Life
-http://ott.watch/stream/85WT12YUMH/373.m3u8
+http://94.23.77.69/stream/85WT12YUMH/373.m3u8
 #EXTINF:-1 ,LTV 7
-http://ott.watch/stream/85WT12YUMH/371.m3u8
+http://94.23.77.69/stream/85WT12YUMH/371.m3u8
 #EXTINF:-1 ,TV 24
-http://ott.watch/stream/85WT12YUMH/372.m3u8
+http://94.23.77.69/stream/85WT12YUMH/372.m3u8
 #EXTINF:-1 ,LTV1
-http://ott.watch/stream/85WT12YUMH/34.m3u8
+http://94.23.77.69/stream/85WT12YUMH/34.m3u8
