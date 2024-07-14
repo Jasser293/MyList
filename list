@@ -171,7 +171,7 @@ http://91.218.160.212:8015/play/a01i/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://178.16.151.67/avto-plus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
-https://mhd116.iptv2022.com/p/YXPfgi2r4XLN8wAsW2Wd2Q,1720990810/streaming/drive/324/1/index.m3u8
+http://91.90.216.83/1421/index.m3u8
 #EXTINF:-1 ,Мужской
 http://87.250.254.45/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1 ,Russian Extreme
@@ -185,7 +185,8 @@ http://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
-http://94.23.77.69/stream/BM4WWV9HYI/211.m3u8
+http://91.90.216.83/1427/index.m3u8
+#http://94.23.77.69/stream/BM4WWV9HYI/211.m3u8
 #EXTINF:-1 ,Усадьба
 http://94.23.77.69/stream/4UA66BEAIJ/211.m3u8
 #EXTINF:-1 ,Бобёр
