@@ -167,7 +167,7 @@ http://91.205.199.3:80/avto24/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
-http://91.218.160.212:8015/play/a01i/index.m3u8
+http://185.163.194.185:6987/110/mono.m3u8
 #EXTINF:-1 ,Авто плюс
 http://178.16.151.67/avto-plus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
@@ -230,7 +230,7 @@ http://176.222.191.59/btv/live/hls/000002927.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://176.222.191.59/btv/live/hls/000000260.m3u8
 #EXTINF:-1 ,ЗООПАРК
-http://91.218.160.212:8015/play/a02p/index.m3u8
+http://94.232.104.237:8011/zoopark/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
@@ -284,7 +284,7 @@ http://str14.tv/2503/video.m3u8?token=bcedd0051c8d4aa485b37157fbb93cdd
 #EXTINF:-1 ,Диалоги о рыбалке
 http://176.222.191.59/btv/live/hls/000003174.m3u8
 #EXTINF:-1 ,Охота и рыбалка
-http://91.218.160.212:8015/play/a02y/index.m3u8
+http://91.90.216.83/1038/index.m3u8
 #EXTINF:-1 ,Дикая охота
 http://45.159.74.14/Channel_127/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка
@@ -378,7 +378,7 @@ http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://185.163.194.185:6987/224/mpegts
+http://185.163.194.185:6987/224/mono.m3u8
 #EXTINF:-1 ,.Red
 http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 ,.Black
@@ -388,7 +388,7 @@ https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
 http://91.205.199.3:80/komedia/index.m3u8
 #EXTINF:-1 ,Комедия
-http://91.218.160.212:8015/play/a015/index.m3u8
+http://178.16.151.67/comedy/index.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://89.106.234.5/TV1000_34_35.m3u8
 #EXTINF:-1 ,Viju TV1000
