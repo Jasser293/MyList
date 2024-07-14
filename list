@@ -79,7 +79,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
-http://188.113.190.11/193/mono.m3u8
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Соловьев.Live
@@ -135,7 +135,7 @@ http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://188.113.190.11/93/video.m3u8
+http://178.16.151.67/sts-love/index.m3u8
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ Юмор
@@ -238,7 +238,7 @@ http://87.250.254.45/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://188.113.190.11/174/video.m3u8
+http://str14.tv/6097/video.m3u8?token=bcedd0051c8d4aa485b37157fbb93cdd
 #EXTINF:-1 ,Совершенно секретно
 http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 ,Кто Есть Кто
@@ -267,8 +267,6 @@ https://iptv.prosto.tv/ch87/video.m3u8?secret=3fwh601f
 http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Animal Planet
 http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
-#EXTINF:-1 ,Travel+Adventure
-http://188.113.190.11/106/video.m3u8
 #EXTINF:-1 ,viju Explore HD
 http://176.222.191.59/btv/live/hls/000004157.m3u8
 #EXTINF:-1 ,viju History HD
@@ -295,8 +293,8 @@ http://87.250.254.45/kal/rtg/rtg0.m3u8
 http://185.112.140.28:80/365_dnej/index.m3u8
 #EXTINF:-1 ,TERRA
 http://176.222.191.59/btv/live/hls/000008142.m3u8
-#EXTINF:-1 ,TERRA HD
-http://188.113.190.11/104/video.m3u8
+#EXTINF:-1 ,TERRA
+http://185.163.194.185:6987/185/mono.m3u8
 #EXTINF:-1 ,1HD
 http://146.158.0.56:80/1HD/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
@@ -451,11 +449,11 @@ http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 ,МАТЧ! ИГРА
 http://185.163.194.185:6987/144/mono.m3u8
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
-http://188.113.190.11/103/video.m3u8
+http://178.16.151.67/nash-football/index.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
 http://185.163.194.185:6987/143/mono.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://188.113.190.11/95/video.m3u8
+http://31.211.77.158:8000/play/a085/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://185.163.194.185:6987/146/video.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
