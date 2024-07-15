@@ -512,9 +512,4 @@ http://94.23.77.69/stream/85WT12YUMH/371.m3u8
 http://94.23.77.69/stream/85WT12YUMH/372.m3u8
 #EXTINF:-1 ,LTV1
 http://94.23.77.69/stream/85WT12YUMH/34.m3u8
-#EXTINF:-1 ,КиноХит
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://188.113.190.15/313/video.m3u8
-#EXTINF:-1 ,КиноХит
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://188.113.190.11/313/video.m3u8
+
