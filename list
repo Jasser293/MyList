@@ -270,6 +270,10 @@ https://iptv.prosto.tv/ch87/video.m3u8?secret=3fwh601f
 http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Animal Planet
 http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
+#EXTINF:-1 ,Наука
+http://188.190.222.48:8765/Nauka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Ocean TV
+http://188.190.222.48:8765/Ocean_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,viju Explore HD
 http://176.222.191.59/btv/live/hls/000004157.m3u8
 #EXTINF:-1 ,viju History HD
@@ -310,6 +314,10 @@ http://45.159.74.13/21TV/tracks-v1a1/mono.m3u8
 http://45.159.74.14/Channel_117/mono.m3u8
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
+#EXTINF:-1 ,9 Волна
+http://188.190.222.48:8765/9volna/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Театр
+http://188.190.222.48:8765/Teatr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
@@ -512,4 +520,3 @@ http://94.23.77.69/stream/85WT12YUMH/371.m3u8
 http://94.23.77.69/stream/85WT12YUMH/372.m3u8
 #EXTINF:-1 ,LTV1
 http://94.23.77.69/stream/85WT12YUMH/34.m3u8
-
