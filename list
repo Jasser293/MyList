@@ -69,6 +69,9 @@ http://online-video.rbc.ru/kuban/index.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://176.222.191.59/btv/live/hls/000000360.m3u8
 #EXTINF:-1 ,СТВ
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+http://93.85.87.5/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 ,СТВ
 http://87.250.254.45/kal/stv_belarus/stv_belarus0.m3u8
 #EXTINF:-1 ,ОНТ
 http://87.250.254.45/kal/ont_belarus/ont_belarus0.m3u8
@@ -433,10 +436,7 @@ http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
 #EXTINF:-1 ,Eurosport 2 HD
 http://94.23.77.69/stream/SII4T392IL/192.m3u8
-#EXTINF:-1 ,СТВ (Euro2024)
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-http://93.85.87.5/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 ,Qazsport HD (Euro2024)
+#EXTINF:-1 ,Qazsport HD
 http://176.222.191.59/btv/live/hls/000003038.m3u8
 #EXTINF:-1 ,Беларусь 5
 http://194.158.222.36:6109
