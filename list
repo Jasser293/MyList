@@ -146,7 +146,7 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
-http://185.163.194.185:6987/122/mono.m3u8
+http://87.250.254.45/kal/sarahfan_belarus/sarahfan_belarus0.m3u8
 #EXTINF:-1 ,Че!
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Ю
@@ -170,7 +170,7 @@ http://91.205.199.3:80/avto24/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
-http://185.163.194.185:6987/110/mono.m3u8
+http://94.232.104.237:8011/avtoplus/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://178.16.151.67/avto-plus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
@@ -294,8 +294,6 @@ http://87.250.254.45/kal/rtg/rtg0.m3u8
 http://185.112.140.28:80/365_dnej/index.m3u8
 #EXTINF:-1 ,TERRA
 http://176.222.191.59/btv/live/hls/000008142.m3u8
-#EXTINF:-1 ,TERRA
-http://185.163.194.185:6987/185/mono.m3u8
 #EXTINF:-1 ,1HD
 http://146.158.0.56:80/1HD/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
@@ -315,7 +313,7 @@ http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
-https://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
+http://188.190.222.48:8765/Sapfir_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,2x2
 http://178.16.151.67/2x2/index.m3u8
 #EXTINF:-1 ,2x2
@@ -361,15 +359,13 @@ http://178.16.151.67/rus-detective/video.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский роман
-http://185.163.194.185:6987/245/video.m3u8
+http://178.16.151.67/rus-roman/index.m3u8
 #EXTINF:-1 ,Русский Роман
 http://45.159.74.14/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,BollywooD
 http://89.106.234.5/bollywood_hd_34_35.m3u8
 #EXTINF:-1 ,HollywooD
 http://89.106.234.5/Hollywood.m3u8
-#EXTINF:-1 ,Dizi Channel
-http://185.163.194.185:6987/200/video.m3u8
 #EXTINF:-1 ,CINEMA HD
 http://178.16.151.67/cinema_hd/index.m3u8
 #EXTINF:-1 ,НСТ
@@ -377,7 +373,7 @@ http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://185.163.194.185:6987/224/mono.m3u8
+http://185.112.140.28/Mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
 http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 ,.Black
@@ -403,13 +399,13 @@ http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://87.250.254.45/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
-http://185.163.194.185:6987/22/video.m3u8
+http://91.90.216.83/1232/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://185.112.140.28/Kinomiks/index.m3u8
 #EXTINF:-1 ,Киносемья
-http://185.163.194.185:6987/27/video.m3u8
+http://91.205.199.3:80/kinosemyahd/index.m3u8
 #EXTINF:-1 ,Киносерия
 http://178.16.151.67/mnogo-tv/index.m3u8
 #EXTINF:-1 ,Душевное
@@ -445,21 +441,21 @@ https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/playlist.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 ,МАТЧ! ИГРА
-http://185.163.194.185:6987/144/mono.m3u8
+http://91.90.255.235:8000/play/a00a/index.m3u8
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
 http://178.16.151.67/nash-football/index.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
-http://185.163.194.185:6987/143/mono.m3u8
+http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://31.211.77.158:8000/play/a085/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
-http://185.163.194.185:6987/146/video.m3u8
+http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
 http://45.93.46.27:8887/8237/video.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
 http://45.93.46.27:8887/8238/video.m3u8
 #EXTINF:-1 ,KHL
-http://185.163.194.185:6987/141/mono.m3u8
+http://87.250.254.45/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 ,KHL Prime
 http://sc.id-tv.kz/FHD_KHL_34_35.m3u8
 #EXTINF:-1 ,VIASAT SPORT HD
@@ -477,9 +473,9 @@ http://87.250.254.45/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
 #EXTINF:-1 ,Мама
 http://45.159.74.14/Mama/mono.m3u8
 #EXTINF:-1 ,Мультиландия
-http://185.163.194.185:6987/211/mono.m3u8
+http://91.90.216.83/1440/index.m3u8
 #EXTINF:-1 ,В гостях у сказки
-http://185.163.194.185:6987/72/mono.m3u8
+http://91.90.216.83/1270/index.m3u8
 #EXTINF:-1 ,Капитан Фантастика
 http://176.222.191.59/btv/live/hls/000001474.m3u8
 #EXTINF:-1 ,Duck TV HD
