@@ -136,9 +136,9 @@ http://31.131.136.4:8001/play/e001
 #EXTINF:-1 ,СТС International
 http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
-http://178.212.71.253:8002/play/a00r/index.m3u8
-#EXTINF:-1 ,СТС Love
 http://178.16.151.67/sts-love/index.m3u8
+#EXTINF:-1 ,СТС Love
+http://94.232.104.237:8011/zeetv/index.m3u8
 #EXTINF:-1 ,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 ,Твоё ТВ Юмор
@@ -193,9 +193,9 @@ http://91.90.216.83/1427/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://94.23.77.69/stream/4UA66BEAIJ/211.m3u8
 #EXTINF:-1 ,Бобёр
-http://178.212.71.253:8002/play/a00m/index.m3u8
-#EXTINF:-1 ,Бобёр
 http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
+#EXTINF:-1 ,Бобёр
+http://94.232.104.237:8011/foxlife/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
