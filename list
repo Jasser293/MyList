@@ -337,7 +337,7 @@ http://45.159.74.14/Channel_128/mono.m3u8
 #EXTINF:-1 ,Amedia 1
 http://94.23.77.69/stream/W6RW921XNT/117.m3u8
 #EXTINF:-1 ,Amedia 2
-http://91.205.199.3/amedia2/index.m3u8
+http://188.190.222.48:8765/Amedia2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://45.159.74.14/Nauka/index.m3u8
 #EXTINF:-1 ,AMEDIA PREMIUM
@@ -413,7 +413,7 @@ http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://185.112.140.28/Kinomiks/index.m3u8
 #EXTINF:-1 ,Киносемья
-http://91.205.199.3:80/kinosemyahd/index.m3u8
+http://91.90.216.83/1234/index.m3u8
 #EXTINF:-1 ,Киносерия
 http://178.16.151.67/mnogo-tv/index.m3u8
 #EXTINF:-1 ,Душевное
