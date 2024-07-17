@@ -71,8 +71,6 @@ http://176.222.191.59/btv/live/hls/000000360.m3u8
 #EXTINF:-1 ,СТВ
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://93.85.87.5/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 ,СТВ
-http://87.250.254.45/kal/stv_belarus/stv_belarus0.m3u8
 #EXTINF:-1 ,ОНТ
 http://87.250.254.45/kal/ont_belarus/ont_belarus0.m3u8
 #EXTINF:-1 ,БелРос
@@ -146,7 +144,7 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
-http://87.250.254.45/kal/sarahfan_belarus/sarahfan_belarus0.m3u8
+http://91.90.216.83/1249/index.m3u8
 #EXTINF:-1 ,Че!
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Ю
@@ -178,7 +176,7 @@ http://91.90.216.83/1421/index.m3u8
 #EXTINF:-1 ,Мужской
 http://87.250.254.45/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1 ,Russian Extreme
-http://87.250.254.45/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+http://178.16.151.67/rus-extrim/index.m3u8
 #EXTINF:-1 ,Motorsport
 http://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 #EXTINF:-1 ,MotoR Racing
@@ -195,8 +193,7 @@ http://94.23.77.69/stream/4UA66BEAIJ/211.m3u8
 #EXTINF:-1 ,Бобёр
 http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
-http://89.106.234.5/bober.m3u8
-#http://94.232.104.237:8011/foxlife/index.m3u8
+http://94.232.104.237:8011/foxlife/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
@@ -238,7 +235,7 @@ http://94.232.104.237:8011/zoopark/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://87.250.254.45/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
+http://94.232.104.237:8011/moyaplaneta/index.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
@@ -378,7 +375,7 @@ http://89.106.234.5/Hollywood.m3u8
 #EXTINF:-1 ,CINEMA HD
 http://178.16.151.67/cinema_hd/index.m3u8
 #EXTINF:-1 ,НСТ
-http://87.250.254.45/kal/nst_belarus/nst_belarus0.m3u8
+http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 ,Мосфильм золотая коллекция
@@ -406,7 +403,7 @@ http://89.106.234.5/TV1000Action_34_35.m3u8
 #EXTINF:-1 ,Viju+ Serial
 http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
-http://87.250.254.45/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
+http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
 http://91.90.216.83/1232/index.m3u8
 #EXTINF:-1 ,Кинокомедия
@@ -478,7 +475,7 @@ http://176.222.191.59/btv/live/hls/000000333.m3u8
 #EXTINF:-1 ,Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 ,Рыжий
-http://87.250.254.45/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
+http://91.90.216.83/1407/index.m3u8
 #EXTINF:-1 ,Мама
 http://45.159.74.14/Mama/mono.m3u8
 #EXTINF:-1 ,Мультиландия
@@ -490,7 +487,7 @@ http://176.222.191.59/btv/live/hls/000001474.m3u8
 #EXTINF:-1 ,Duck TV HD
 http://91.90.216.83/1271/index.m3u8
 #EXTINF:-1 ,Мульт
-http://87.250.254.45/kal/mult_belarus/mult_belarus0.m3u8
+http://91.90.216.83/1246/index.m3u8
 #EXTINF:-1 ,Tiji
 http://87.250.254.45/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 ,Gulli Girl
