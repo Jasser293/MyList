@@ -92,7 +92,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
-http://176.222.191.59/btv/live/hls/000000308.m3u8
+http://45.93.46.27:8887/8206/video.m3u8
 #EXTINF:-1 ,Оружие
 http://94.232.104.237:8011/oruzhie/index.m3u8
 #EXTINF:-1 ,АРСЕНАЛ
