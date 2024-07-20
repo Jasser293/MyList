@@ -160,7 +160,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 ,Пятница! International
 http://112.72.4.108/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
-http://195.26.83.96:7013/play/a00e/index.m3u8
+http://178.16.151.67/super/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://91.205.199.3:80/avto24/index.m3u8
 #EXTINF:-1 ,АВТО 24
@@ -361,7 +361,7 @@ http://178.16.151.67/rus-bestseller/video.m3u8
 #EXTINF:-1 ,Русский детектив
 http://178.16.151.67/rus-detective/video.m3u8
 #EXTINF:-1 ,Русский иллюзион
-http://195.26.83.96:7006/play/a00y/index.m3u8
+http://45.93.46.27:8887/8132/video.m3u8
 #EXTINF:-1 ,Русский роман
 http://178.16.151.67/rus-roman/index.m3u8
 #EXTINF:-1 ,Русский Роман
