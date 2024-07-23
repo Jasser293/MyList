@@ -94,7 +94,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://45.93.46.27:8887/8206/video.m3u8
 #EXTINF:-1 ,Оружие
-http://94.232.104.237:8011/oruzhie/index.m3u8
+http://176.223.65.42:8085/Oruzhie/video.m3u8
+#http://94.232.104.237:8011/oruzhie/index.m3u8
 #EXTINF:-1 ,АРСЕНАЛ
 http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 ,Ратник
