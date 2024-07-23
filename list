@@ -142,7 +142,7 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
-http://91.90.216.83/1249/index.m3u8
+http://185.163.194.185:6872/122/mono.m3u8
 #EXTINF:-1 ,Че!
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Ю
@@ -170,7 +170,7 @@ http://94.232.104.237:8011/avtoplus/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://178.16.151.67/avto-plus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
-http://91.90.216.83/1421/index.m3u8
+http://109.239.208.82/drive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Мужской
 http://87.250.254.45/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
 #EXTINF:-1 ,Russian Extreme
@@ -184,7 +184,7 @@ http://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
-http://91.90.216.83/1427/index.m3u8
+http://45.93.46.27:8887/8017/video.m3u8
 #http://94.23.77.69/stream/BM4WWV9HYI/211.m3u8
 #EXTINF:-1 ,Усадьба
 http://94.23.77.69/stream/4UA66BEAIJ/211.m3u8
@@ -283,7 +283,7 @@ http://87.250.254.45/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://176.222.191.59/btv/live/hls/000003174.m3u8
 #EXTINF:-1 ,Охота и рыбалка
-http://91.90.216.83/1038/index.m3u8
+http://80.245.93.242:9030/play/a02f/index.m3u8
 #EXTINF:-1 ,Дикая охота
 http://45.159.74.14/Channel_127/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка
@@ -403,13 +403,13 @@ http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
-http://91.90.216.83/1232/index.m3u8
+http://80.245.93.242:9030/play/a02x/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://185.112.140.28/Kinomiks/index.m3u8
 #EXTINF:-1 ,Киносемья
-http://91.90.216.83/1234/index.m3u8
+http://80.245.93.242:9030/play/a033/index.m3u8
 #EXTINF:-1 ,Киносерия
 http://178.16.151.67/mnogo-tv/index.m3u8
 #EXTINF:-1 ,Душевное
@@ -472,26 +472,26 @@ http://tv.mediacdn.ru/live/disney/playlist.m3u8
 http://176.222.191.59/btv/live/hls/000000333.m3u8
 #EXTINF:-1 ,Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
-#EXTINF:-1 ,Рыжий
-http://91.90.216.83/1407/index.m3u8
 #EXTINF:-1 ,Мама
 http://45.159.74.14/Mama/mono.m3u8
 #EXTINF:-1 ,Мультиландия
-http://91.90.216.83/1440/index.m3u8
+http://188.190.222.48:8765/Multilandia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,В гостях у сказки
-http://91.90.216.83/1270/index.m3u8
+http://80.245.93.242:9030/play/a04b/index.m3u8
 #EXTINF:-1 ,Капитан Фантастика
 http://176.222.191.59/btv/live/hls/000001474.m3u8
-#EXTINF:-1 ,Duck TV HD
-http://91.90.216.83/1271/index.m3u8
 #EXTINF:-1 ,Мульт
-http://91.90.216.83/1246/index.m3u8
+http://45.159.74.14/Mult/mono.m3u8
 #EXTINF:-1 ,Tiji
 http://87.250.254.45/kal/tiji_belarus/tiji_belarus0.m3u8
 #EXTINF:-1 ,Gulli Girl
 http://87.250.254.45/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
 #EXTINF:-1 ,Карусель
 http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
+#EXTINF:-1 ,Cartoonito
+http://80.245.93.242:9030/play/a012/index.m3u8
+#EXTINF:-1 ,Cartoon Network
+http://80.245.93.242:9030/play/qwe9615/index.m3u8
 #EXTINF:-1 ,LNK HD
 http://94.23.77.69/stream/VLGLSFBJGG/30.m3u8
 #EXTINF:-1 ,BTV HD
