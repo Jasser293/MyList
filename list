@@ -94,8 +94,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://45.93.46.27:8887/8206/video.m3u8
 #EXTINF:-1 ,Оружие
-http://176.223.65.42:8085/Oruzhie/video.m3u8
-#http://94.232.104.237:8011/oruzhie/index.m3u8
+http://94.232.104.237:8011/oruzhie/index.m3u8
 #EXTINF:-1 ,АРСЕНАЛ
 http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 ,Ратник
@@ -143,7 +142,7 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
-http://185.163.194.185:6872/122/mono.m3u8
+http://80.245.93.242:9030/play/a015/index.m3u8
 #EXTINF:-1 ,Че!
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Ю
@@ -284,7 +283,7 @@ http://87.250.254.45/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://176.222.191.59/btv/live/hls/000003174.m3u8
 #EXTINF:-1 ,Охота и рыбалка
-http://80.245.93.242:9030/play/a02f/index.m3u8
+http://45.93.46.27:8887/8065/video.m3u8
 #EXTINF:-1 ,Дикая охота
 http://45.159.74.14/Channel_127/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка
