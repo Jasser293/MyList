@@ -403,7 +403,7 @@ http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
-http://176.223.65.42:8085/KinokomediaHD/video.m3u8
+http://45.93.46.27:8887/8042/video.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:-1 ,Киномикс
