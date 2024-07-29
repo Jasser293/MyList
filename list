@@ -396,8 +396,6 @@ http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 http://89.106.234.5/TV1000RuKino_34_35.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://89.106.234.5/TV1000Action_34_35.m3u8
-#EXTINF:-1 ,Viju+ Serial
-http://91.218.160.212:8015/play/a05s/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
@@ -449,7 +447,7 @@ http://178.16.151.67/nash-football/index.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
 http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://91.218.160.212:8015/play/a01j/index.m3u8
+http://45.93.46.27:8887/8019/video.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
