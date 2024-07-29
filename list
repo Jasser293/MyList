@@ -118,7 +118,7 @@ http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
-http://91.205.199.3/tnt4/index.m3u8
+http://178.16.151.67/tnt-4/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://176.222.191.59/btv/live/hls/000002926.m3u8
 #EXTINF:-1 ,ТВ3
@@ -151,8 +151,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://31.148.6.9:10014/index.m3u8
-#EXTINF:-1 ,ДОМАШНИЙ
-http://91.205.199.3:80/domashni/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -162,9 +160,9 @@ http://112.72.4.108/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
 http://178.16.151.67/super/index.m3u8
 #EXTINF:-1 ,АВТО 24
-http://91.205.199.3:80/avto24/index.m3u8
+http://94.232.104.237:8011/avto24/index.m3u8
 #EXTINF:-1 ,АВТО 24
-http://91.205.199.3/avto24/index.m3u8
+http://109.239.208.82:80/auto24/mono.m3u8
 #EXTINF:-1 ,Авто плюс
 http://94.232.104.237:8011/avtoplus/index.m3u8
 #EXTINF:-1 ,Авто плюс
@@ -341,7 +339,7 @@ http://45.159.74.14/AmediaPremium/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://45.159.74.13/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
-http://91.205.199.3/kinoxithd/index.m3u8
+http://185.112.140.28:80/Kinohit/index.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://94.23.77.69/stream/VLGLSFBJGG/126.m3u8
 #EXTINF:-1 ,Кино ТВ
@@ -379,13 +377,13 @@ http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://185.112.140.28/Mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
-http://91.205.199.3/red/index.m3u8
+http://188.113.190.11/149/mono.m3u8
 #EXTINF:-1 ,.Black
-http://91.205.199.3/black/index.m3u8
+http://188.113.190.11/186/video.m3u8
 #EXTINF:-1 ,Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
-http://91.205.199.3:80/komedia/index.m3u8
+http://94.232.104.237:8011/disney/index.m3u8
 #EXTINF:-1 ,Комедия
 http://178.16.151.67/comedy/index.m3u8
 #EXTINF:-1 ,Viju TV1000
@@ -399,7 +397,7 @@ http://89.106.234.5/TV1000RuKino_34_35.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://89.106.234.5/TV1000Action_34_35.m3u8
 #EXTINF:-1 ,Viju+ Serial
-http://91.205.199.3/vipserialhd/index.m3u8
+http://91.218.160.212:8015/play/a05s/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
@@ -409,7 +407,7 @@ http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://185.112.140.28/Kinomiks/index.m3u8
 #EXTINF:-1 ,Киносемья
-http://91.205.199.3:80/kinosemyahd/index.m3u8
+http://45.93.46.27:8887/8047/video.m3u8
 #EXTINF:-1 ,Киносерия
 http://178.16.151.67/mnogo-tv/index.m3u8
 #EXTINF:-1 ,Душевное
