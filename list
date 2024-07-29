@@ -92,7 +92,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
-http://45.93.46.27:8887/8206/video.m3u8
+http://31.211.77.158:8000/play/a157/index.m3u8
 #EXTINF:-1 ,Оружие
 http://94.232.104.237:8011/oruzhie/index.m3u8
 #EXTINF:-1 ,Арсенал
@@ -142,7 +142,7 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
-http://45.93.46.27:8887/8020/video.m3u8
+http://188.113.190.11/165/mono.m3u8
 #EXTINF:-1 ,Че!
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Ю
@@ -182,7 +182,7 @@ http://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
-http://45.93.46.27:8887/8017/video.m3u8
+http://188.113.190.11/71/mono.m3u8
 #http://94.23.77.69/stream/BM4WWV9HYI/211.m3u8
 #EXTINF:-1 ,Усадьба
 http://94.23.77.69/stream/4UA66BEAIJ/211.m3u8
@@ -214,8 +214,6 @@ http://178.16.151.67/jivi/index.m3u8
 http://45.159.74.14/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://89.106.234.5/kuhnya_hd_34_35.m3u8
-#EXTINF:-1 ,Еда
-http://45.93.46.27:8887/8140/video.m3u8
 #EXTINF:-1 ,Еда премиум
 http://176.222.191.59/btv/live/hls/000000588.m3u8
 #EXTINF:-1 ,Food Time HD
@@ -281,7 +279,7 @@ http://87.250.254.45/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://176.222.191.59/btv/live/hls/000003174.m3u8
 #EXTINF:-1 ,Охота и рыбалка
-http://45.93.46.27:8887/8065/video.m3u8
+http://188.113.190.11/69/mono.m3u8
 #EXTINF:-1 ,Дикая охота
 http://45.159.74.14/Channel_127/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка
@@ -359,7 +357,7 @@ http://178.16.151.67/rus-bestseller/video.m3u8
 #EXTINF:-1 ,Русский детектив
 http://178.16.151.67/rus-detective/video.m3u8
 #EXTINF:-1 ,Русский иллюзион
-http://45.93.46.27:8887/8132/video.m3u8
+http://94.232.104.237:8011/russkiyilluzion/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://178.16.151.67/rus-roman/index.m3u8
 #EXTINF:-1 ,Русский Роман
@@ -399,31 +397,31 @@ http://89.106.234.5/TV1000Action_34_35.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
-http://45.93.46.27:8887/8042/video.m3u8
+http://188.113.190.11/129/mono.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://185.112.140.28/Kinomiks/index.m3u8
 #EXTINF:-1 ,Киносемья
-http://45.93.46.27:8887/8047/video.m3u8
+http://188.113.190.11/311/mono.m3u8
 #EXTINF:-1 ,Киносерия
 http://178.16.151.67/mnogo-tv/index.m3u8
 #EXTINF:-1 ,Душевное
-http://45.93.46.27:8887/8296/video.m3u8
+http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Комедийное
-http://45.93.46.27:8887/8323/video.m3u8
+http://31.131.136.4:8001/play/e014
 #EXTINF:-1 ,Наше
-http://45.93.46.27:8887/8059/video.m3u8
+http://178.16.151.67/nashe/index.m3u8
 #EXTINF:-1 ,Наше мужское
-http://45.93.46.27:8887/8740/video.m3u8
+#http://45.93.46.27:8887/8740/video.m3u8
 #EXTINF:-1 ,Остросюжетное
-http://45.93.46.27:8887/8184/video.m3u8
+http://31.131.136.4:8001/play/e012
 #EXTINF:-1 ,Премиальное
-http://45.93.46.27:8887/8028/video.m3u8
+http://31.131.136.4:8001/play/e011
 #EXTINF:-1 ,Страшное
-http://45.93.46.27:8887/8198/video.m3u8
+rtmp://5.182.229.90//7247
 #EXTINF:-1 ,Шокирующее
-http://45.93.46.27:8887/8322/video.m3u8
+http://31.131.136.4:8001/play/e013
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
 #EXTINF:-1 ,Eurosport 1
@@ -447,13 +445,13 @@ http://178.16.151.67/nash-football/index.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
 http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://45.93.46.27:8887/8019/video.m3u8
+http://188.113.190.11/95/mono.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
-http://45.93.46.27:8887/8237/video.m3u8
+http://188.113.190.11/176/mono.m3u8
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
-http://45.93.46.27:8887/8238/video.m3u8
+http://188.113.190.11/177/mono.m3u8
 #EXTINF:-1 ,KHL
 http://87.250.254.45/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 ,KHL Prime
@@ -473,7 +471,7 @@ http://45.159.74.14/Mama/mono.m3u8
 #EXTINF:-1 ,Мультиландия
 http://188.190.222.48:8765/Multilandia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,В гостях у сказки
-http://45.93.46.27:8887/8133/video.m3u8
+http://188.113.190.11/43/mono.m3u8
 #EXTINF:-1 ,Капитан Фантастика
 http://176.222.191.59/btv/live/hls/000001474.m3u8
 #EXTINF:-1 ,Мульт
@@ -487,7 +485,7 @@ http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 #EXTINF:-1 ,Cartoonito
 http://45.159.74.14/Channel_120/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Cartoon Network
-http://45.93.46.27:8887/8064/video.m3u8
+http://112.72.4.108/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 ,LNK HD
 http://94.23.77.69/stream/VLGLSFBJGG/30.m3u8
 #EXTINF:-1 ,BTV HD
