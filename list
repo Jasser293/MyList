@@ -298,6 +298,20 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 http://45.159.74.14/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
 http://45.159.74.14/Channel_115/mono.m3u8
+#EXTINF:-1 ,Bridge TV
+http://5.153.180.30:8005/play/a00f
+#EXTINF:-1 ,Bridge TV Classic
+http://5.153.180.30:8005/play/a08i
+#EXTINF:-1 ,Bridge TV Deluxe HD
+http://5.153.180.30:8005/play/a00e
+#EXTINF:-1 ,Bridge TV Hits
+http://5.153.180.30:8005/play/a08j
+#EXTINF:-1 ,Bridge TV Rock
+http://5.153.180.30:8005/play/a07e
+#EXTINF:-1 ,Bridge TV Русский Хит
+http://5.153.180.30:8005/play/a00g
+#EXTINF:-1 ,Bridge TV Шлягер
+http://5.153.180.30:8005/play/a07f
 #EXTINF:-1 ,Муз-ТВ
 http://45.159.74.14/MuzTv/mono.m3u8
 #EXTINF:-1 ,DAR 21
@@ -409,19 +423,20 @@ http://178.16.151.67/mnogo-tv/index.m3u8
 #EXTINF:-1 ,Душевное
 http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Комедийное
-http://31.131.136.4:8001/play/e014
+http://5.153.180.30:8005/play/a066
 #EXTINF:-1 ,Наше
 http://178.16.151.67/nashe/index.m3u8
 #EXTINF:-1 ,Наше мужское
-#http://45.93.46.27:8887/8740/video.m3u8
+http://5.153.180.30:8005/play/a06a
 #EXTINF:-1 ,Остросюжетное
-http://31.131.136.4:8001/play/e012
+http://5.153.180.30:8005/play/a05n
 #EXTINF:-1 ,Премиальное
-http://31.131.136.4:8001/play/e011
+http://5.153.180.30:8005/play/a05o
 #EXTINF:-1 ,Страшное
-rtmp://5.182.229.90//7247
+http://5.153.180.30:8005/play/a0bh
+#rtmp://5.182.229.90//7247
 #EXTINF:-1 ,Шокирующее
-http://31.131.136.4:8001/play/e013
+http://5.153.180.30:8004/play/a06h
 #EXTINF:-1 ,Eurosport 1
 http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
 #EXTINF:-1 ,Eurosport 1
