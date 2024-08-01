@@ -92,7 +92,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
-http://188.113.190.11/155/mono.m3u8
+http://5.153.180.30:8005/play/a06u
 #EXTINF:-1 ,Оружие
 http://94.232.104.237:8011/oruzhie/index.m3u8
 #EXTINF:-1 ,Арсенал
@@ -142,7 +142,7 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
-http://188.113.190.11/165/mono.m3u8
+http://5.153.180.30:8004/play/a052
 #EXTINF:-1 ,Че!
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Ю
@@ -182,7 +182,7 @@ http://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
-http://188.113.190.11/71/mono.m3u8
+http://5.153.180.30:8004/play/a05g
 #http://94.23.77.69/stream/BM4WWV9HYI/211.m3u8
 #EXTINF:-1 ,Усадьба
 http://94.23.77.69/stream/4UA66BEAIJ/211.m3u8
@@ -233,7 +233,7 @@ http://94.232.104.237:8011/moyaplaneta/index.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://188.113.190.11/174/tracks-v1a1/index.m3u8
+http://5.153.180.30:8005/play/a0bf
 #EXTINF:-1 ,Совершенно секретно
 http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 ,Кто Есть Кто
@@ -279,7 +279,7 @@ http://87.250.254.45/kal/sibir/sibir0.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://176.222.191.59/btv/live/hls/000003174.m3u8
 #EXTINF:-1 ,Охота и рыбалка
-http://188.113.190.11/69/mono.m3u8
+http://82.215.111.249/1038/mono.m3u8
 #EXTINF:-1 ,Дикий
 http://5.153.180.30:8004/play/a022
 #EXTINF:-1 ,Дикая охота
@@ -391,9 +391,9 @@ http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://185.112.140.28/Mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
-http://188.113.190.11/149/mono.m3u8
+http://5.153.180.30:8004/play/a001
 #EXTINF:-1 ,.Black
-http://188.113.190.11/186/video.m3u8
+http://5.153.180.30:8005/play/a01a
 #EXTINF:-1 ,Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
@@ -413,13 +413,13 @@ http://89.106.234.5/TV1000Action_34_35.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
-http://188.113.190.11/129/mono.m3u8
+http://82.215.111.249/1232/mono.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://185.112.140.28/Kinomiks/index.m3u8
 #EXTINF:-1 ,Киносемья
-http://188.113.190.11/311/mono.m3u8
+http://82.215.111.249/1234/mono.m3u8
 #EXTINF:-1 ,Киносерия
 http://178.16.151.67/mnogo-tv/index.m3u8
 #EXTINF:-1 ,Душевное
@@ -460,13 +460,15 @@ http://178.16.151.67/nash-football/index.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
 http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://188.113.190.11/95/mono.m3u8
+http://5.153.180.30:8005/play/a03d
+#EXTINF:-1 ,Матч! Футбол 1
+http://5.153.180.30:8005/play/a03f
 #EXTINF:-1 ,Матч! Футбол 1
 http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
-http://188.113.190.11/176/mono.m3u8
+http://5.153.180.30:8005/play/a03h
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
-http://188.113.190.11/177/mono.m3u8
+http://5.153.180.30:8005/play/a03j
 #EXTINF:-1 ,KHL
 http://87.250.254.45/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 ,KHL Prime
@@ -486,7 +488,7 @@ http://45.159.74.14/Mama/mono.m3u8
 #EXTINF:-1 ,Мультиландия
 http://188.190.222.48:8765/Multilandia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,В гостях у сказки
-http://188.113.190.11/43/mono.m3u8
+http://82.215.111.249/1270/mono.m3u8
 #EXTINF:-1 ,Капитан Фантастика
 http://176.222.191.59/btv/live/hls/000001474.m3u8
 #EXTINF:-1 ,Мульт
