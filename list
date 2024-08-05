@@ -4,7 +4,7 @@ http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 ,Первый канал
-http://5.153.180.30:8005/play/a04e
+http://188.190.222.48:8765/1/mono.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
@@ -41,7 +41,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,Россия 1
-http://5.153.180.30:8005/play/a04r
+http://188.190.222.48:8765/Russia_1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 ,Россия К
@@ -59,7 +59,7 @@ http://112.72.4.108/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
-http://5.153.180.30:8005/play/a056
+http://185.112.140.28/TVC/index.m3u8
 #EXTINF:-1 ,ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 ,Известия
@@ -92,9 +92,9 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
-http://5.153.180.30:8005/play/a06u
-#EXTINF:-1 ,Оружие
 http://94.232.104.237:8011/oruzhie/index.m3u8
+#EXTINF:-1 ,Оружие
+http://188.113.190.11/155/video.m3u8
 #EXTINF:-1 ,Арсенал
 http://109.239.208.82:80/arsenal/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -142,7 +142,7 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
-http://5.153.180.30:8005/play/a052
+https://streamer3.connectto.com/490/mono.m3u8
 #EXTINF:-1 ,Че!
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Ю
@@ -182,7 +182,7 @@ http://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
-http://5.153.180.30:8005/play/a05g
+http://82.215.111.249/1427/mono.m3u8
 #http://94.23.77.69/stream/BM4WWV9HYI/211.m3u8
 #EXTINF:-1 ,Усадьба
 http://94.23.77.69/stream/4UA66BEAIJ/211.m3u8
@@ -233,13 +233,13 @@ http://94.232.104.237:8011/moyaplaneta/index.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://5.153.180.30:8005/play/a0bf
+http://88.85.172.243:7012/play/a02f
 #EXTINF:-1 ,Совершенно секретно
 http://178.16.151.67/dom-magazin/index.m3u8
 #EXTINF:-1 ,Кто Есть Кто
-http://5.153.180.30:8005/play/a02x
-#EXTINF:-1 ,Кто Есть Кто
 http://camera.global-x.ru/KtoEstKto/mono.m3u8
+#EXTINF:-1 ,Кто Есть Кто
+http://5.153.180.30:8005/play/a02x
 #EXTINF:-1 ,Вопросы и ответы
 http://176.222.191.59/btv/live/hls/000000195.m3u8
 #EXTINF:-1 ,Вопросы и ответы
@@ -301,17 +301,17 @@ http://45.159.74.14/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
 http://45.159.74.14/Channel_115/mono.m3u8
 #EXTINF:-1 ,Bridge TV
-http://5.153.180.30:8005/play/a00f
+http://94.232.104.237:8011/bridgetv/index.m3u8
 #EXTINF:-1 ,Bridge TV Classic
-http://5.153.180.30:8005/play/a08i
+http://188.190.222.48:8765/Bridge_classic/mono.m3u8
 #EXTINF:-1 ,Bridge TV Deluxe HD
-http://5.153.180.30:8005/play/a00e
+http://91.197.104.34/AAC/mono.m3u8
 #EXTINF:-1 ,Bridge TV Hits
-http://5.153.180.30:8005/play/a08j
+http://178.16.151.67/dange/index.m3u8
 #EXTINF:-1 ,Bridge TV Rock
 http://5.153.180.30:8005/play/a07e
 #EXTINF:-1 ,Bridge TV Русский Хит
-http://5.153.180.30:8005/play/a00g
+http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 ,Bridge TV Шлягер
 http://5.153.180.30:8005/play/a07f
 #EXTINF:-1 ,Муз-ТВ
@@ -387,13 +387,13 @@ http://178.16.151.67/cinema_hd/index.m3u8
 #EXTINF:-1 ,НСТ
 http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://5.153.180.30:8005/play/a03q
-#EXTINF:-1 ,Мосфильм золотая коллекция
 http://185.112.140.28/Mosfilm/index.m3u8
+#EXTINF:-1 ,Мосфильм золотая коллекция
+http://94.232.104.237:8011/mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
-http://5.153.180.30:8005/play/a001
+http://91.218.160.212:8015/play/a00o/index.m3u8
 #EXTINF:-1 ,.Black
-http://5.153.180.30:8005/play/a01a
+https://streamer3.connectto.com/525/mono.m3u8
 #EXTINF:-1 ,Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
@@ -401,15 +401,11 @@ http://94.232.104.237:8011/disney/index.m3u8
 #EXTINF:-1 ,Комедия
 http://178.16.151.67/comedy/index.m3u8
 #EXTINF:-1 ,Viju TV1000
-http://89.106.234.5/TV1000_34_35.m3u8
-#EXTINF:-1 ,Viju TV1000
-http://5.153.180.30:8005/play/a01e
+http://94.232.104.237:8011/tv1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
-http://5.153.180.30:8005/play/a01g
-#EXTINF:-1 ,Viju TV1000 Русское
-http://89.106.234.5/TV1000RuKino_34_35.m3u8
+http://82.215.111.249/1059/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
-http://89.106.234.5/TV1000Action_34_35.m3u8
+http://94.232.104.237:8011/tv1000action/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
@@ -439,7 +435,7 @@ rtmp://5.182.229.90//7247
 #EXTINF:-1 ,Шокирующее
 http://5.153.180.30:8005/play/a06h
 #EXTINF:-1 ,Eurosport 1
-http://5.153.180.30:8005/play/a06z
+http://81.7.108.21:9000/play/EurosportHD-DVBC394-sti4400018360108
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
