@@ -142,7 +142,7 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
-http://5.153.180.30:8004/play/a052
+http://5.153.180.30:8005/play/a052
 #EXTINF:-1 ,Че!
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 ,Ю
@@ -182,7 +182,7 @@ http://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
-http://5.153.180.30:8004/play/a05g
+http://5.153.180.30:8005/play/a05g
 #http://94.23.77.69/stream/BM4WWV9HYI/211.m3u8
 #EXTINF:-1 ,Усадьба
 http://94.23.77.69/stream/4UA66BEAIJ/211.m3u8
@@ -237,7 +237,7 @@ http://5.153.180.30:8005/play/a0bf
 #EXTINF:-1 ,Совершенно секретно
 http://178.16.151.67/dom-magazin/index.m3u8
 #EXTINF:-1 ,Кто Есть Кто
-http://5.153.180.30:8000/play/a02x
+http://5.153.180.30:8005/play/a02x
 #EXTINF:-1 ,Кто Есть Кто
 http://camera.global-x.ru/KtoEstKto/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
@@ -391,7 +391,7 @@ http://5.153.180.30:8005/play/a03q
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://185.112.140.28/Mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
-http://5.153.180.30:8004/play/a001
+http://5.153.180.30:8005/play/a001
 #EXTINF:-1 ,.Black
 http://5.153.180.30:8005/play/a01a
 #EXTINF:-1 ,Индия
@@ -437,9 +437,9 @@ http://5.153.180.30:8005/play/a05o
 #EXTINF:-1 ,Страшное
 rtmp://5.182.229.90//7247
 #EXTINF:-1 ,Шокирующее
-http://5.153.180.30:8004/play/a06h
+http://5.153.180.30:8005/play/a06h
 #EXTINF:-1 ,Eurosport 1
-http://5.153.180.30:8000/play/a06z
+http://5.153.180.30:8005/play/a06z
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
