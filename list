@@ -281,7 +281,7 @@ http://176.222.191.59/btv/live/hls/000003174.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://82.215.111.249/1038/mono.m3u8
 #EXTINF:-1 ,Дикий
-http://5.153.180.30:8004/play/a022
+http://195.158.222.115:8001/play/a0bm/index.m3u8
 #EXTINF:-1 ,Дикая охота
 http://45.159.74.14/Channel_127/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка
