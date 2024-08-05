@@ -41,7 +41,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,Россия 1
-http://135.181.115.81:8000/play/a00p/index.m3u8?token=livetv
+http://5.153.180.30:8005/play/a04r
 #EXTINF:-1 ,РОССИЯ 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 ,Россия К
@@ -51,7 +51,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://135.181.115.81:8000/play/a005/index.m3u8?token=livetv
+http://178.16.151.67/ren-tv/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,Рен ТВ International
@@ -237,7 +237,7 @@ http://5.153.180.30:8005/play/a0bf
 #EXTINF:-1 ,Совершенно секретно
 http://178.16.151.67/dom-magazin/index.m3u8
 #EXTINF:-1 ,Кто Есть Кто
-http://135.181.115.81:8000/play/a017/index.m3u8?token=livetv
+http://5.153.180.30:8000/play/a02x
 #EXTINF:-1 ,Кто Есть Кто
 http://camera.global-x.ru/KtoEstKto/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
@@ -261,7 +261,7 @@ http://176.222.191.59/btv/live/hls/000001000.m3u8
 #EXTINF:-1 ,Animal Planet
 http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Animal Planet
-http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
+http://82.215.111.249/1043/mono.m3u8
 #EXTINF:-1 ,Наука
 http://188.190.222.48:8765/Nauka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ocean TV
@@ -387,7 +387,7 @@ http://178.16.151.67/cinema_hd/index.m3u8
 #EXTINF:-1 ,НСТ
 http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
+http://5.153.180.30:8005/play/a03q
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://185.112.140.28/Mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
@@ -403,9 +403,9 @@ http://178.16.151.67/comedy/index.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://89.106.234.5/TV1000_34_35.m3u8
 #EXTINF:-1 ,Viju TV1000
-http://135.181.115.81:8000/play/a00i/index.m3u8?token=livetv
+http://5.153.180.30:8005/play/a01e
 #EXTINF:-1 ,Viju TV1000 Русское
-http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
+http://5.153.180.30:8005/play/a01g
 #EXTINF:-1 ,Viju TV1000 Русское
 http://89.106.234.5/TV1000RuKino_34_35.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
@@ -439,7 +439,7 @@ rtmp://5.182.229.90//7247
 #EXTINF:-1 ,Шокирующее
 http://5.153.180.30:8004/play/a06h
 #EXTINF:-1 ,Eurosport 1
-http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
+http://5.153.180.30:8000/play/a06z
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
