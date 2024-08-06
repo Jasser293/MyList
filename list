@@ -414,10 +414,12 @@ http://82.215.111.249/1234/mono.m3u8
 http://82.215.111.249/1235/mono.m3u8
 #EXTINF:-1 ,Душевное
 http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Комедийное HD
+http://ott.watch/stream/41PRFXQR3G/74.m3u8
 #EXTINF:-1 ,Наше
 http://188.190.222.48:8765/Nashe_HD/mono.m3u8
 #EXTINF:-1 ,Премиальное
-http://ott.watch/stream/5Q8JENTEPP/421.m3u8
+http://ott.watch/stream/ZHQNVC6L7Y/421.m3u8
 #EXTINF:-1 ,Остросюжетное
 http://ott.watch/stream/5Q8JENTEPP/214.m3u8
 #EXTINF:-1 ,Страшное
