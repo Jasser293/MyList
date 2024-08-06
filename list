@@ -239,7 +239,7 @@ http://178.16.151.67/dom-magazin/index.m3u8
 #EXTINF:-1 ,Кто Есть Кто
 http://camera.global-x.ru/KtoEstKto/mono.m3u8
 #EXTINF:-1 ,Кто Есть Кто
-http://5.153.180.30:8005/play/a02x
+http://178.16.151.67/kto-est-kto/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://176.222.191.59/btv/live/hls/000000195.m3u8
 #EXTINF:-1 ,Вопросы и ответы
@@ -308,12 +308,8 @@ http://188.190.222.48:8765/Bridge_classic/mono.m3u8
 http://91.197.104.34/AAC/mono.m3u8
 #EXTINF:-1 ,Bridge TV Hits
 http://178.16.151.67/dange/index.m3u8
-#EXTINF:-1 ,Bridge TV Rock
-http://5.153.180.30:8005/play/a07e
 #EXTINF:-1 ,Bridge TV Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
-#EXTINF:-1 ,Bridge TV Шлягер
-http://5.153.180.30:8005/play/a07f
 #EXTINF:-1 ,Муз-ТВ
 http://45.159.74.14/MuzTv/mono.m3u8
 #EXTINF:-1 ,DAR 21
@@ -420,20 +416,10 @@ http://82.215.111.249/1234/mono.m3u8
 http://178.16.151.67/mnogo-tv/index.m3u8
 #EXTINF:-1 ,Душевное
 http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Комедийное
-http://5.153.180.30:8005/play/a066
 #EXTINF:-1 ,Наше
 http://178.16.151.67/nashe/index.m3u8
-#EXTINF:-1 ,Наше мужское
-http://5.153.180.30:8005/play/a06a
-#EXTINF:-1 ,Остросюжетное
-http://5.153.180.30:8005/play/a05n
-#EXTINF:-1 ,Премиальное
-http://5.153.180.30:8005/play/a05o
 #EXTINF:-1 ,Страшное
 rtmp://5.182.229.90//7247
-#EXTINF:-1 ,Шокирующее
-http://5.153.180.30:8005/play/a06h
 #EXTINF:-1 ,Eurosport 1
 http://81.7.108.21:9000/play/EurosportHD-DVBC394-sti4400018360108
 #EXTINF:-1 ,Eurosport 1
@@ -455,11 +441,9 @@ http://178.16.151.67/nash-football/index.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
 http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://5.153.180.30:8005/play/a03d
+http://195.158.222.115:8001/play/a004/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
-#EXTINF:-1 ,Матч! Футбол 1
-http://5.153.180.30:8005/play/a03f
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
 http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
