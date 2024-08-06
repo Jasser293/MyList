@@ -138,9 +138,9 @@ http://94.232.104.237:8011/zeetv/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://185.112.140.28:80/STS_Love/index.m3u8
 #EXTINF:-1 ,Твоё ТВ
-http://tvoetv.space:8080/tvoetv/video.m3u8
+http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
 #EXTINF:-1 ,Твоё ТВ Юмор
-http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+http://144.76.61.88:8080/tvoetv_humor/video.m3u8?token=tvoetv
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
@@ -235,7 +235,7 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
 http://88.85.172.243:7012/play/a02f
 #EXTINF:-1 ,Совершенно секретно
-http://de.russkoe-iptv.com:88/s/s-0194f550/sovershenno-sekretno.m3u8
+http://188.113.190.11/174/mono.m3u8
 #EXTINF:-1 ,Кто Есть Кто
 http://camera.global-x.ru/KtoEstKto/mono.m3u8
 #EXTINF:-1 ,Кто Есть Кто
