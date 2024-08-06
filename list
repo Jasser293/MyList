@@ -199,8 +199,6 @@ http://89.106.234.5/Zagorod.m3u8
 #EXTINF:-1 ,Доктор
 http://82.215.111.249/1409/mono.m3u8
 #EXTINF:-1 ,Доктор
-http://94.23.77.69/stream/5Q8JENTEPP/80.m3u8
-#EXTINF:-1 ,Доктор
 http://94.23.77.69/stream/4UA66BEAIJ/80.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://176.222.191.59/btv/live/hls/000000057.m3u8
@@ -418,8 +416,14 @@ http://82.215.111.249/1235/mono.m3u8
 http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Наше
 http://188.190.222.48:8765/Nashe_HD/mono.m3u8
+#EXTINF:-1 ,Премиальное
+http://ott.watch/stream/5Q8JENTEPP/421.m3u8
+#EXTINF:-1 ,Остросюжетное
+http://ott.watch/stream/5Q8JENTEPP/214.m3u8
 #EXTINF:-1 ,Страшное
 rtmp://5.182.229.90//7247
+#EXTINF:-1 ,Шокирующее
+http://ott.watch/stream/5Q8JENTEPP/75.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://81.7.108.21:9000/play/EurosportHD-DVBC394-sti4400018360108
 #EXTINF:-1 ,Eurosport 1
