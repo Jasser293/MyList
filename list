@@ -364,8 +364,12 @@ http://185.112.140.28:80/Kinomiks/index.m3u8
 http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Русский бестселлер
 https://hls.bemtv.t62a.com/hls2/ZTYcOSYI/1723286268/8FX6oWX5cjdyVu89nXqJkQ/stream339/index.m3u8
+#EXTINF:-1 ,Русский бестселлер
+http://188.113.190.11/100/mono.m3u8
 #EXTINF:-1 ,Русский детектив
 https://hls.bemtv.t62a.com/hls2/ZTYcOSYI/1723286268/4xatkoChD8P0zhVko2ZD1A/stream417/index.m3u8
+#EXTINF:-1 ,Русский детектив
+http://188.113.190.11/164/mono.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://94.232.104.237:8011/russkiyilluzion/index.m3u8
 #EXTINF:-1 ,Русский роман
