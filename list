@@ -92,7 +92,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
-http://94.232.104.237:8011/oruzhie/index.m3u8
+http://94.232.104.237:8011/oruzhie/mono.m3u8
 #EXTINF:-1 ,Оружие
 http://188.113.190.11/155/video.m3u8
 #EXTINF:-1 ,Арсенал
@@ -361,11 +361,11 @@ http://185.112.140.28:80/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
 http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Русский бестселлер
-https://hls.bemtv.t62a.com/hls2/3ujURgky/1723376424/gm5bcD1gvEWGAiPfFNSudw/stream339/index.m3u8
+http://195.158.222.115:8000/play/73/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://188.113.190.11/100/mono.m3u8
 #EXTINF:-1 ,Русский детектив
-https://hls.bemtv.t62a.com/hls2/3ujURgky/1723376424/oWqUL_xxrwppYSlDHrVJkA/stream417/index.m3u8
+http://195.158.222.115:8000/play/74/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://188.113.190.11/164/mono.m3u8
 #EXTINF:-1 ,Русский иллюзион
@@ -373,7 +373,7 @@ http://94.232.104.237:8011/russkiyilluzion/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://45.159.74.14/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,Русский Роман
-https://hls.bemtv.t62a.com/hls2/3ujURgky/1723376424/aG_TrIsZr7Ozncce5NPuaQ/stream717/index.m3u8
+http://195.158.222.115:8000/play/69/index.m3u8
 #EXTINF:-1 ,BollywooD
 http://89.106.234.5/bollywood_hd_34_35.m3u8
 #EXTINF:-1 ,HollywooD
