@@ -12,8 +12,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
-#EXTINF:-1 ,HTB Беларусь
-https://stream1.prizma.link/NTVBelarusHD/video.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 #http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -184,7 +182,7 @@ http://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
-http://82.215.111.249/1427/mono.m3u8
+http://195.158.222.115:8001/play/a01p/index.m3u8
 #http://94.23.77.69/stream/BM4WWV9HYI/211.m3u8
 #EXTINF:-1 ,Усадьба
 http://94.23.77.69/stream/4UA66BEAIJ/211.m3u8
@@ -195,7 +193,7 @@ http://94.232.104.237:8011/foxlife/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
-http://89.106.234.5/Zagorod.m3u8
+http://217.25.80.28:8888/Zagorodnaa_Gizn_/mono.m3u8
 #EXTINF:-1 ,Доктор
 http://82.215.111.249/1409/mono.m3u8
 #EXTINF:-1 ,Доктор
@@ -375,9 +373,9 @@ http://45.159.74.14/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,Русский Роман
 http://195.158.222.115:8000/play/69/index.m3u8
 #EXTINF:-1 ,BollywooD
-http://89.106.234.5/bollywood_hd_34_35.m3u8
+http://195.158.222.115:8000/play/169/index.m3u8
 #EXTINF:-1 ,HollywooD
-http://89.106.234.5/Hollywood.m3u8
+http://185.177.112.234:8000/play/a039
 #EXTINF:-1 ,CINEMA HD
 http://185.112.140.28:80/Cinema/index.m3u8
 #EXTINF:-1 ,НСТ
