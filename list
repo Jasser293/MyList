@@ -94,7 +94,7 @@ http://94.232.104.237:8011/oruzhie/mono.m3u8
 #EXTINF:-1 ,Оружие
 http://188.113.190.11/155/video.m3u8
 #EXTINF:-1 ,Арсенал
-http://109.239.208.82:80/arsenal/mono.m3u8
+http://82.215.111.249/1414/mono.m3u8
 #EXTINF:-1 ,Ратник
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 ,НЕИЗВЕСТНАЯ РОССИЯ
@@ -162,13 +162,13 @@ http://195.158.222.115:8001/play/a00f/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://94.232.104.237:8011/avto24/index.m3u8
 #EXTINF:-1 ,АВТО 24
-http://109.239.208.82:80/auto24/mono.m3u8
+http://185.177.112.234:8000/play/a04b
 #EXTINF:-1 ,Авто плюс
 http://94.232.104.237:8011/avtoplus/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://82.215.111.249/1036/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
-http://109.239.208.82/drive/tracks-v1a1/mono.m3u8
+http://82.215.111.249/1421/mono.m3u8
 #EXTINF:-1 ,Мужской
 http://176.222.191.59/btv/live/hls/000000286.m3u8
 #EXTINF:-1 ,Russian Extreme
