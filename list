@@ -430,10 +430,14 @@ http://ott.watch/stream/5Q8JENTEPP/75.m3u8
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1 ,Eurosport 1 
+http://81.198.190.9:7878/esp1/video.m3u8
 #EXTINF:-1 ,Eurosport 2
 rtmp://5.182.229.90//7203
-#EXTINF:-1 ,Eurosport 2 HD
+#EXTINF:-1 ,Eurosport 2 
 http://94.23.77.69/stream/VLGLSFBJGG/192.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://81.198.190.9:7878/esp2/video.m3u8
 #EXTINF:-1 ,Qazsport HD
 http://176.222.191.59/btv/live/hls/000003038.m3u8
 #EXTINF:-1 ,МАТЧ!
