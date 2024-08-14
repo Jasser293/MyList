@@ -4,7 +4,7 @@ http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 ,Первый канал
-http://188.190.222.48:8765/1/mono.m3u8
+http://185.177.112.234:8000/play/a01p
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
@@ -39,7 +39,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 ,Россия 1
-http://188.190.222.48:8765/Russia_1/mono.m3u8
+http://185.177.112.234:8000/play/a01z
 #EXTINF:-1 ,РОССИЯ 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 ,Россия К
@@ -76,7 +76,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
-http://188.190.222.48:8765/RTD_HD/tracks-v1a1/mono.m3u8
+http://217.25.80.28:8888/rtd_hd/mono.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Соловьев.Live
@@ -259,9 +259,9 @@ http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Animal Planet
 http://82.215.111.249/1043/mono.m3u8
 #EXTINF:-1 ,Наука
-http://188.190.222.48:8765/Nauka/tracks-v1a1/mono.m3u8
+http://185.177.112.234:8000/play/a025
 #EXTINF:-1 ,Ocean TV
-http://188.190.222.48:8765/Ocean_TV/tracks-v1a1/mono.m3u8
+http://91.218.160.212:8015/play/a043/index.m3u8
 #EXTINF:-1 ,viju Explore HD
 http://176.222.191.59/btv/live/hls/000004157.m3u8
 #EXTINF:-1 ,viju History HD
@@ -299,7 +299,7 @@ http://45.159.74.14/Channel_115/mono.m3u8
 #EXTINF:-1 ,Bridge TV
 http://94.232.104.237:8011/bridgetv/index.m3u8
 #EXTINF:-1 ,Bridge TV Classic
-http://188.190.222.48:8765/Bridge_classic/mono.m3u8
+http://217.25.80.28:8888/Paramount_Comedy/mono.m3u8
 #EXTINF:-1 ,Bridge TV Deluxe HD
 http://91.197.104.34/AAC/mono.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
@@ -312,14 +312,12 @@ http://45.159.74.13/21TV/tracks-v1a1/mono.m3u8
 http://45.159.74.14/Channel_117/mono.m3u8
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
-#EXTINF:-1 ,9 Волна
-http://188.190.222.48:8765/9volna/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Театр
-http://188.190.222.48:8765/Teatr/tracks-v1a1/mono.m3u8
+http://camera.global-x.ru/Teatr/index.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
-http://188.190.222.48:8765/Sapfir_HD/tracks-v1a1/mono.m3u8
+http://185.177.112.234:8000/play/a02k
 #EXTINF:-1 ,2x2
 http://195.158.222.115:8001/play/a08h/index.m3u8
 #EXTINF:-1 ,2x2
@@ -335,7 +333,7 @@ http://45.159.74.14/Channel_128/mono.m3u8
 #EXTINF:-1 ,Amedia 1
 http://94.23.77.69/stream/W6RW921XNT/117.m3u8
 #EXTINF:-1 ,Amedia 2
-http://188.190.222.48:8765/Amedia2_HD/tracks-v1a1/mono.m3u8
+http://195.158.222.115:8000/play/62/index.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://45.159.74.14/Nauka/index.m3u8
 #EXTINF:-1 ,AMEDIA PREMIUM
@@ -413,11 +411,11 @@ http://82.215.111.249/1234/mono.m3u8
 #EXTINF:-1 ,Киносерия
 http://82.215.111.249/1235/mono.m3u8
 #EXTINF:-1 ,Душевное
-http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
+http://94.23.77.69/stream/ZHQNVC6L7Y/213.m3u8
 #EXTINF:-1 ,Комедийное HD
 http://ott.watch/stream/41PRFXQR3G/74.m3u8
-#EXTINF:-1 ,Наше
-http://188.190.222.48:8765/Nashe_HD/mono.m3u8
+#EXTINF:-1 ,Наше новое кино
+http://195.158.222.115:8000/play/66/index.m3u8
 #EXTINF:-1 ,Премиальное
 http://ott.watch/stream/ZHQNVC6L7Y/421.m3u8
 #EXTINF:-1 ,Остросюжетное
@@ -430,11 +428,11 @@ http://ott.watch/stream/5Q8JENTEPP/75.m3u8
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
-#EXTINF:-1 ,Eurosport 1 
+#EXTINF:-1 ,Eurosport 1
 http://81.198.190.9:7878/esp1/video.m3u8
 #EXTINF:-1 ,Eurosport 2
 rtmp://5.182.229.90//7203
-#EXTINF:-1 ,Eurosport 2 
+#EXTINF:-1 ,Eurosport 2
 http://94.23.77.69/stream/VLGLSFBJGG/192.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://81.198.190.9:7878/esp2/video.m3u8
@@ -475,7 +473,7 @@ http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 ,Мама
 http://45.159.74.14/Mama/mono.m3u8
 #EXTINF:-1 ,Мультиландия
-http://188.190.222.48:8765/Multilandia/tracks-v1a1/mono.m3u8
+http://195.158.222.115:8000/play/128/index.m3u8
 #EXTINF:-1 ,В гостях у сказки
 http://82.215.111.249/1270/mono.m3u8
 #EXTINF:-1 ,Капитан Фантастика
