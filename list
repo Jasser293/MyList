@@ -204,8 +204,6 @@ http://176.222.191.59/btv/live/hls/000000057.m3u8
 http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Тонус 
 http://45.159.74.14/ZooTv/mono.m3u8
-#EXTINF:-1 ,Светлое ТВ
-http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,Живи
 http://82.215.111.249/1419/mono.m3u8
 #EXTINF:-1 ,Кухня ТВ
@@ -385,7 +383,7 @@ http://94.232.104.237:8011/mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
 http://91.218.160.212:8015/play/a00o/index.m3u8
 #EXTINF:-1 ,.Black
-https://streamer3.connectto.com/525/mono.m3u8
+http://91.207.114.220:9001/play/a0cu/index.m3u8
 #EXTINF:-1 ,Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
