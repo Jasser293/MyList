@@ -259,7 +259,7 @@ http://82.215.111.249/1043/mono.m3u8
 #EXTINF:-1 ,Наука
 http://185.177.112.234:8000/play/a025
 #EXTINF:-1 ,Ocean TV
-http://91.218.160.212:8015/play/a043/index.m3u8
+http://217.25.80.28:8888/Ocean_TV/mono.m3u8
 #EXTINF:-1 ,viju Explore HD
 http://176.222.191.59/btv/live/hls/000004157.m3u8
 #EXTINF:-1 ,viju History HD
@@ -381,7 +381,7 @@ http://185.112.140.28/Mosfilm/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://94.232.104.237:8011/mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
-http://91.218.160.212:8015/play/a00o/index.m3u8
+http://185.177.112.234:8000/play/a033
 #EXTINF:-1 ,.Black
 http://91.207.114.220:9001/play/a0cu/index.m3u8
 #EXTINF:-1 ,Индия
@@ -389,7 +389,7 @@ https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
 http://94.232.104.237:8011/disney/index.m3u8
 #EXTINF:-1 ,Комедия
-http://91.218.160.212:8015/play/a015/index.m3u8
+http://185.177.112.234:8000/play/a02g
 #EXTINF:-1 ,Viju TV1000
 http://94.232.104.237:8011/tv1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
