@@ -355,23 +355,21 @@ http://185.112.140.28:80/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
 http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://185.78.112.17/rus-bestseller/index.m3u8
-#EXTINF:-1 ,Русский бестселлер
-http://str08.tv/7525/video.m3u8?token=4bdc4dcd32d1d414fb8fbc8d621ad960
+http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://185.78.112.17/rus-detective/index.m3u8
+http://91.142.158.107:8092/play/27/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://str08.tv/6590/video.m3u8?token=4bdc4dcd32d1d414fb8fbc8d621ad960
+http://185.74.5.226/RusskiyDetektiv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://94.232.104.237:8011/russkiyilluzion/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://45.159.74.14/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,Русский Роман
-http://185.78.112.17/rus-roman/index.m3u8
+http://91.142.158.107:8092/play/25/index.m3u8
 #EXTINF:-1 ,BollywooD
 http://217.25.80.28:8888/Bollywood_HD/mono.m3u8
 #EXTINF:-1 ,HollywooD
-http://iptv.mega.net.ru:8888/Hollywood_HD/mono.m3u8
+http://217.25.80.28:8888/Hollywood_HD/mono.m3u8
 #EXTINF:-1 ,CINEMA HD
 http://185.112.140.28:80/Cinema/index.m3u8
 #EXTINF:-1 ,НСТ
