@@ -433,7 +433,7 @@ http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 ,МАТЧ! ИГРА
 http://91.90.255.235:8000/play/a00a/index.m3u8
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
-http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
+http://91.207.115.228:5000/c105
 #EXTINF:-1 ,Матч! БОЕЦ
 http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
