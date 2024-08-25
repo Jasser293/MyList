@@ -63,7 +63,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,РБК
 http://online-video.rbc.ru/kuban/index.m3u8
 #EXTINF:-1 ,Беларусь 24
-http://91.207.115.228:5000/c141
+http://89.106.234.5/Belarus24_34_35.m3u8
 #EXTINF:-1 ,СТВ
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://93.85.87.5/ctv/ctv.stream/playlist.m3u8
@@ -233,7 +233,7 @@ http://91.205.199.3/sovershennosekretno/index.m3u8
 #EXTINF:-1 ,Кто Есть Кто
 http://135.181.115.81:8000/play/a017/index.m3u8?token=livetv
 #EXTINF:-1 ,Вопросы и ответы
-http://91.207.115.228:5000/c178
+http://82.215.111.249/1429/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://94.23.77.69/stream/BM4WWV9HYI/76.m3u8
 #EXTINF:-1 ,Спас
@@ -257,11 +257,11 @@ http://94.230.240.12/nauka2/index.m3u8
 #EXTINF:-1 ,Ocean TV
 http://217.25.80.28:8888/Ocean_TV/mono.m3u8
 #EXTINF:-1 ,viju Explore
-http://91.207.115.228:5000/c95
+http://217.25.80.28:8888/Viasat_Explorer/mono.m3u8
 #EXTINF:-1 ,viju History
-http://91.207.115.228:5000/c96
+http://217.25.80.28:8888/Viasat_History/mono.m3u8
 #EXTINF:-1 ,viju Nature
-http://91.207.115.228:5000/c97
+http://217.25.80.28:8888/Viasat_Nature/mono.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://217.25.80.28:8888/Dialogi_o_ribalke/mono.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -435,11 +435,11 @@ http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://78.140.39.3/play/a00r/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
-http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
+rtmp://92.119.88.58//2407
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
 http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
-http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
+rtmp://92.119.88.58//2408
 #EXTINF:-1 ,KHL
 http://87.250.254.45/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 ,KHL Prime
@@ -449,7 +449,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 ,Солнце
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:-1 ,Da Vinci
-http://91.207.115.228:5000/c72
+http://82.215.111.249/1231/mono.m3u8
 #EXTINF:-1 ,Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 ,Мама
