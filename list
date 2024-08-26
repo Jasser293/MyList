@@ -215,7 +215,7 @@ http://94.23.77.69/stream/85WT12YUMH/216.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
-http://tinyurl.com/4nbtz4b2
+https://tinyurl.com/4an82tuu
 #EXTINF:-1 ,ЗООПАРК
 http://82.215.111.249/1417/mono.m3u8
 #EXTINF:-1 ,ЗООПАРК
@@ -347,11 +347,11 @@ http://185.112.140.28:80/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
 http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Русский бестселлер
-https://hls.bemtv.t62a.com/hls2/FLK134iN/1724732752/SNHtMhh_1XVSJuOzGTNulQ/stream339/index.m3u8
+https://hls.bemtv.t62a.com/hls2/fJ0An77P/1724748166/9m6O-p2_fjHcaEqc0sgo1g/stream339/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-https://hls.bemtv.t62a.com/hls2/FLK134iN/1724732752/dIzMsKqI1HxgcxBvxvl6HA/stream417/index.m3u8
+https://hls.bemtv.t62a.com/hls2/fJ0An77P/1724748166/NLPqkiHpgTh8wVTQJPsWMg/stream417/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://185.74.5.226/RusskiyDetektiv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Русский иллюзион
@@ -429,17 +429,13 @@ http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 ,МАТЧ! ИГРА
 http://91.90.255.235:8000/play/a00a/index.m3u8
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
-http://91.207.115.228:5000/c105
+http://95.216.40.210/nashfootball/mono.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
 http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://78.140.39.3/play/a00r/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
-rtmp://92.119.88.58//2407
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
-rtmp://92.119.88.58//2408
+http://194.143.148.28:8080/MatchFutbol1/mono.m3u8
 #EXTINF:-1 ,KHL
 http://87.250.254.45/kal/khl_belarus/khl_belarus0.m3u8
 #EXTINF:-1 ,KHL Prime
