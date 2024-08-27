@@ -52,6 +52,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 http://185.112.140.28/TVC/index.m3u8
 #EXTINF:-1 ,ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+#EXTINF:-1 ,Неизвестная Россия
+http://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,РБК
@@ -203,7 +205,7 @@ http://94.23.77.69/stream/85WT12YUMH/216.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
-http://ucdn.beetv.kz/btv/live/hls/000002927.m3u8
+http://176.222.191.62/btv/live/hls/000002927.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://82.215.111.249/1417/mono.m3u8
 #EXTINF:-1 ,Поехали!
@@ -331,11 +333,11 @@ http://185.112.140.28:80/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
 http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://hls.bemtv.t62a.com/hls2/F92QFJNs/1724818061/llr3-suF3_r8ZIe5NLyeng/stream339/index.m3u8
+http://hls.bemtv.t62a.com/hls2/MZatsQag/1724844553/QX4Bhd4ICZYn4p03ynk-cw/stream339/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://hls.bemtv.t62a.com/hls2/F92QFJNs/1724818061/n6DM2aL0PGLVlmUzMcLlVw/stream417/index.m3u8
+http://hls.bemtv.t62a.com/hls2/MZatsQag/1724844553/Rl3uB0HrulNsUdeLN2E-_w/stream417/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://185.74.5.226/RusskiyDetektiv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Русский иллюзион
@@ -431,7 +433,7 @@ http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:-1 ,Da Vinci
 http://82.215.111.249/1231/mono.m3u8
 #EXTINF:-1 ,Мультимания
-http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+https://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
 http://45.159.74.14/Mama/mono.m3u8
 #EXTINF:-1 ,Мультиландия
