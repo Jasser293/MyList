@@ -133,7 +133,7 @@ http://91.90.255.235:8000/play/a00h/index.m3u8
 #EXTINF:-1 ,СТС International
 http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
-http://178.212.71.253:8002/play/a00r/index.m3u8
+http://217.25.80.28:8888/STS_Love/mono.m3u8
 #EXTINF:-1 ,СТС Love
 http://185.112.140.28:80/STS_Love/index.m3u8
 #EXTINF:-1 ,Твоё ТВ
