@@ -299,6 +299,14 @@ http://45.159.74.14/Channel_117/mono.m3u8
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Театр
 http://hls127.homeiptv.org:8880/Teatr/video.m3u8
+#EXTINF:-1 ,Смотрим Мелодрамы
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Смотрим Кино и сериалы
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Смотрим Детям
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Смотрим тайны
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
@@ -342,11 +350,11 @@ http://185.112.140.28:80/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
 http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://hls.bemtv.t62a.com/hls2/MZatsQag/1724844553/QX4Bhd4ICZYn4p03ynk-cw/stream339/index.m3u8
+http://hls.bemtv.t62a.com/hls2/vBOf6z7G/1724853549/ThRHinSK8cCRgQFhOW7qkQ/stream339/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://hls.bemtv.t62a.com/hls2/MZatsQag/1724844553/Rl3uB0HrulNsUdeLN2E-_w/stream417/index.m3u8
+http://hls.bemtv.t62a.com/hls2/vBOf6z7G/1724853549/wCUFha_X94i25Pz2Ok2pXQ/stream417/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://185.74.5.226/RusskiyDetektiv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Русский иллюзион
