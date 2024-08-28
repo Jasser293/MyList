@@ -186,7 +186,8 @@ http://82.215.111.249/1427/mono.m3u8
 #EXTINF:-1 ,Усадьба
 http://94.23.77.69/stream/4UA66BEAIJ/211.m3u8
 #EXTINF:-1 ,Бобёр
-http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
+http://iptv.mega.net.ru:8888/BOBER/mono.m3u8
+#http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
 http://217.25.80.28:8888/BOBER/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
@@ -299,16 +300,14 @@ http://45.159.74.14/Channel_117/mono.m3u8
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Театр
 http://hls127.homeiptv.org:8880/Teatr/video.m3u8
-#EXTINF:-1 ,Смотрим Мелодрамы
+#EXTINF:-1 ,Мелодрамы
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Смотрим Кино и сериалы
+#EXTINF:-1 ,Кино и сериалы
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Смотрим Детям
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Смотрим тайны
+#EXTINF:-1 ,Тайны
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
 http://hls127.homeiptv.org:8880/Europa_Plus/video.m3u8
 #EXTINF:-1 ,2x2
@@ -350,11 +349,11 @@ http://185.112.140.28:80/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
 http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://hls.bemtv.t62a.com/hls2/TVCWa3FF/1724905078/2csAcdMdeiuY9TeQlZ8p4Q/stream339/index.m3u8
+http://hls.bemtv.t62a.com/hls2/cd9v7lEo/1724925161/BqziQraj8QMUDf-jxTKHRQ/stream339/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://hls.bemtv.t62a.com/hls2/TVCWa3FF/1724905078/Eirg9_ZkLMEvg8ioWKVioQ/stream417/index.m3u8
+http://hls.bemtv.t62a.com/hls2/cd9v7lEo/1724925161/tw6JtJoEQcWbMbOJLTBrTQ/stream417/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://185.74.5.226/RusskiyDetektiv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Русский иллюзион
