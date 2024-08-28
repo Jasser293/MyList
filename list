@@ -303,6 +303,8 @@ http://hls127.homeiptv.org:8880/Teatr/video.m3u8
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Смотрим Кино и сериалы
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Смотрим Детям
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Смотрим тайны
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
@@ -348,11 +350,11 @@ http://185.112.140.28:80/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
 http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://hls.bemtv.t62a.com/hls2/vBOf6z7G/1724853549/ThRHinSK8cCRgQFhOW7qkQ/stream339/index.m3u8
+http://hls.bemtv.t62a.com/hls2/TVCWa3FF/1724905078/2csAcdMdeiuY9TeQlZ8p4Q/stream339/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://hls.bemtv.t62a.com/hls2/vBOf6z7G/1724853549/wCUFha_X94i25Pz2Ok2pXQ/stream417/index.m3u8
+http://hls.bemtv.t62a.com/hls2/TVCWa3FF/1724905078/Eirg9_ZkLMEvg8ioWKVioQ/stream417/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://185.74.5.226/RusskiyDetektiv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Русский иллюзион
@@ -448,7 +450,7 @@ http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:-1 ,Da Vinci
 http://82.215.111.249/1231/mono.m3u8
 #EXTINF:-1 ,Мультимания
-https://83.99.226.23/Multimania_Mpeg4/video.m3u8
+http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
 http://45.159.74.14/Mama/mono.m3u8
 #EXTINF:-1 ,Мультиландия
