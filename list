@@ -93,9 +93,9 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
-http://ucdn.beetv.kz/btv/live/hls/000000308.m3u8
+http://91.224.169.250:5000/c80
 #EXTINF:-1 ,Оружие
-http://bkm.beetv.kz/btv/live/hls/000000308.m3u8
+http://ucdn.beetv.kz/btv/live/hls/000000308.m3u8
 #EXTINF:-1 ,Оружие
 http://tinyurl.com/ye4c2ua3
 #EXTINF:-1 ,Арсенал
