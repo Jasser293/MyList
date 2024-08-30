@@ -111,9 +111,9 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 ,ЦТВ
 http://45.159.74.14/Channel_129/mono.m3u8
 #EXTINF:-1 ,Перец
-http://45.159.74.14/Perec/mono.m3u8
+http://212.0.213.132:4444/Teledom/index.m3u8
 #EXTINF:-1 ,КВН ТВ
-http://45.159.74.14/Bober/mono.m3u8
+http://91.205.199.3/kvntv/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ
@@ -241,13 +241,13 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Три Ангела
 http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+http://82.215.111.227/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Investigation Discovery
-http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+http://91.224.169.250:5000/c163
 #EXTINF:-1 ,History
 http://89.106.234.5/HistoryHD_36_37.m3u8
 #EXTINF:-1 ,Animal Planet
-http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
+http://212.0.213.132:4444/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://82.215.111.249/1043/mono.m3u8
 #EXTINF:-1 ,Наука
@@ -321,7 +321,7 @@ http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 ,ДОМ КИНО
 http://45.159.74.14/DomKino/mono.m3u8
 #EXTINF:-1 ,Amedia 1
-http://45.159.74.14/Channel_128/mono.m3u8
+http://185.50.148.2:7707/A1/index.m3u8
 #EXTINF:-1 ,Amedia 1
 http://94.23.77.69/stream/W6RW921XNT/117.m3u8
 #EXTINF:-1 ,Amedia 2
@@ -341,7 +341,7 @@ http://94.230.240.12/kinotv/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://94.23.77.69/stream/VLGLSFBJGG/221.m3u8
 #EXTINF:-1 ,Кинопремьера
-http://45.159.74.13/Kinopremera/tracks-v1a1/mono.m3u8
+http://82.215.111.227/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://45.159.74.14/MujskoeKino/index.m3u8
 #EXTINF:-1 ,КИНОМИКС
@@ -349,11 +349,11 @@ http://185.112.140.28:80/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
 http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://hls.bemtv.t62a.com/hls2/k2FRFTWH/1725088870/I-cKOqh-6z1kppeRzPpyMQ/stream339/index.m3u8
+http://hls.bemtv.t62a.com/hls2/cd9v7lEo/1724925161/BqziQraj8QMUDf-jxTKHRQ/stream339/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://hls.bemtv.t62a.com/hls2/k2FRFTWH/1725088870/CpyWN70ypBnFQKrGi-9jwQ/stream417/index.m3u8
+http://hls.bemtv.t62a.com/hls2/cd9v7lEo/1724925161/tw6JtJoEQcWbMbOJLTBrTQ/stream417/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://185.74.5.226/RusskiyDetektiv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Русский иллюзион
@@ -419,7 +419,7 @@ http://ott.watch/stream/5Q8JENTEPP/75.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
+http://91.224.169.250:5000/c167
 #EXTINF:-1 ,Eurosport 2
 rtmp://5.182.229.90//7203
 #EXTINF:-1 ,Eurosport 2
