@@ -349,13 +349,13 @@ http://185.112.140.28:80/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
 http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://hls.bemtv.t62a.com/hls2/cd9v7lEo/1724925161/BqziQraj8QMUDf-jxTKHRQ/stream339/index.m3u8
+http://hls.bemtv.t62a.com/hls2/7sGtmRXE/1725164179/zqJA43SRuXjiKiZ9pQzifQ/stream339/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://hls.bemtv.t62a.com/hls2/cd9v7lEo/1724925161/tw6JtJoEQcWbMbOJLTBrTQ/stream417/index.m3u8
+http://hls.bemtv.t62a.com/hls2/7sGtmRXE/1725164179/SDTwzUFgarF1Bq0YRZVaiw/stream417/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://185.74.5.226/RusskiyDetektiv/tracks-v1a1/mono.m3u8
+http://91.224.169.250:5000/c12
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский роман
@@ -467,7 +467,7 @@ http://217.25.80.28:8888/Gulli_Girl/mono.m3u8
 #EXTINF:-1 ,Карусель
 http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 #EXTINF:-1 ,Cartoonito
-http://45.159.74.14/Channel_120/tracks-v1a1/mono.m3u8
+http://78.140.39.3/play/a01l/index.m3u8
 #EXTINF:-1 ,Cartoon Network
 http://112.72.4.108/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 ,LNK HD
