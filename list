@@ -51,13 +51,13 @@ http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://185.112.140.28:80/REN_TV/index.m3u8
+http://217.25.80.28:8888/REN_TV/mono.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://112.72.4.108/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
-http://185.112.140.28/TVC/index.m3u8
+http://217.25.80.28:8888/TVC/mono.m3u8
 #EXTINF:-1 ,ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 ,Неизвестная Россия
@@ -119,7 +119,7 @@ http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
-http://185.112.140.28:80/TNT4/index.m3u8
+http://91.205.199.3/tnt4/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТВ3
@@ -135,7 +135,7 @@ http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://217.25.80.28:8888/STS_Love/mono.m3u8
 #EXTINF:-1 ,СТС Love
-http://185.112.140.28:80/STS_Love/index.m3u8
+http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 ,Твоё ТВ
 http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
 #EXTINF:-1 ,Твоё ТВ Юмор
@@ -271,7 +271,7 @@ http://45.159.74.14/Channel_127/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка
 http://45.159.74.14/Channel_126/mono.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
-http://185.112.140.28:80/365_dnej/index.m3u8
+http://91.207.114.220:9001/play/a04m/index.m3u8
 #EXTINF:-1 ,TERRA
 http://217.25.80.28:8888/National_Geographic/mono.m3u8
 #EXTINF:-1 ,1HD
@@ -333,7 +333,7 @@ http://45.159.74.14/AmediaPremium/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://45.159.74.13/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
-http://185.112.140.28:80/Kinohit/index.m3u8
+rtmp://5.182.229.90//7250
 #EXTINF:-1 ,КИНОХИТ
 http://94.23.77.69/stream/VLGLSFBJGG/126.m3u8
 #EXTINF:-1 ,Кино ТВ
@@ -345,15 +345,15 @@ http://45.159.74.13/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://45.159.74.14/MujskoeKino/index.m3u8
 #EXTINF:-1 ,КИНОМИКС
-http://185.112.140.28:80/Kinomiks/index.m3u8
+http://185.50.148.2:7711/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
 http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://hls.bemtv.t62a.com/hls2/8BTQhJsm/1725424009/8HwauySQ8s0rNdd7bncfAg/stream339/index.m3u8
+http://hls.bemtv.t62a.com/hls2/JHIySDqp/1725511074/fLEZClFgg8NVF_8uWTLTKw/stream417/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://hls.bemtv.t62a.com/hls2/8BTQhJsm/1725424009/zxf-SHj60HEGqqSbAfqRcw/stream417/index.m3u8
+http://hls.bemtv.t62a.com/hls2/JHIySDqp/1725511074/fLEZClFgg8NVF_8uWTLTKw/stream417/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://91.224.169.250:5000/c12
 #EXTINF:-1 ,Русский иллюзион
@@ -366,12 +366,10 @@ http://91.142.158.107:8092/play/25/index.m3u8
 http://217.25.80.28:8888/Bollywood_HD/mono.m3u8
 #EXTINF:-1 ,HollywooD
 http://217.25.80.28:8888/Hollywood_HD/mono.m3u8
-#EXTINF:-1 ,CINEMA HD
-http://185.112.140.28:80/Cinema/index.m3u8
 #EXTINF:-1 ,НСТ
 http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://185.112.140.28/Mosfilm/index.m3u8
+http://91.205.199.3/mosfilm/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://hls127.homeiptv.org:8880/Mosfilm/video.m3u8
 #EXTINF:-1 ,.Red
@@ -391,13 +389,13 @@ http://82.215.111.249/1059/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://217.25.80.28:8888/TV1000_Action/mono.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
-http://185.112.140.28:80/Rodnoe_Kino/index.m3u8
+http://91.205.199.3/rodnoekino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
 http://82.215.111.249/1232/mono.m3u8
 #EXTINF:-1 ,Кинокомедия
 rtmp://5.182.229.90//7248
 #EXTINF:-1 ,Киномикс
-http://185.112.140.28/Kinomiks/index.m3u8
+http://hls127.homeiptv.org:8880/iConcerts_HD/video.m3u8
 #EXTINF:-1 ,Киносемья
 http://82.215.111.249/1234/mono.m3u8
 #EXTINF:-1 ,Киносерия
