@@ -4,7 +4,7 @@ http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 ,Первый канал
-http://188.190.222.48:8765/1/tracks-v1a1/mono.m3u8
+http://217.25.80.28:8888/Pervii_Kanal_HD/mono.m3u8
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
@@ -325,7 +325,7 @@ http://45.159.74.14/Channel_128/mono.m3u8
 #EXTINF:-1 ,Amedia 1
 http://94.23.77.69/stream/W6RW921XNT/117.m3u8
 #EXTINF:-1 ,Amedia 2
-http://188.190.222.48:8765/Amedia2_HD/mono.m3u8
+http://185.50.148.2:7707/A2/index.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://45.159.74.14/Nauka/index.m3u8
 #EXTINF:-1 ,AMEDIA PREMIUM
