@@ -66,7 +66,7 @@ http://cdn.ntv.ru/unknown_russia/mono.m3u8
 #EXTINF:-1 ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,РБК
-http://online-video.rbc.ru/kuban/index.m3u8
+http://dmi3y-tv.ru/hls/CH_RBK.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://89.106.234.5/Belarus24_34_35.m3u8
 #EXTINF:-1 ,СТВ
