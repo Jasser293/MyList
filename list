@@ -137,9 +137,11 @@ http://217.25.80.28:8888/STS_Love/mono.m3u8
 #EXTINF:-1 ,СТС Love
 http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 ,Твоё ТВ
-http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
 #EXTINF:-1 ,Твоё ТВ Юмор
-http://144.76.61.88:8080/tvoetv_humor/video.m3u8?token=tvoetv
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#http://144.76.61.88:8080/tvoetv_humor/video.m3u8?token=tvoetv
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
