@@ -350,11 +350,11 @@ http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://hls.bemtv.t62a.com/hls2/bR2Bo78I/1726027647/d1KZ92_d-OJPxPI6kOXVBQ/stream339/index.m3u8
+http://hls.bemtv.t62a.com/hls2/McbRrIju/1726044048/rG8q-d7LQ-5nTJT6Ye5VzA/stream339/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://hls.bemtv.t62a.com/hls2/bR2Bo78I/1726027647/HCYQMw_O0HqfbUPhP7VTIQ/stream417/index.m3u8
+http://hls.bemtv.t62a.com/hls2/McbRrIju/1726044048/nbohyulvUTVeQ-0VnQ3Krw/stream417/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://91.224.169.250:5000/c12
 #EXTINF:-1 ,Русский иллюзион
@@ -466,7 +466,7 @@ http://217.25.80.28:8888/Gulli_Girl/mono.m3u8
 #EXTINF:-1 ,Карусель
 http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 #EXTINF:-1 ,Cartoonito
-http://78.140.39.3/play/a01l/index.m3u8
+http://45.159.74.14/Channel_120/mono.m3u8
 #EXTINF:-1 ,Cartoon Network
 http://112.72.4.108/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 ,LNK HD
