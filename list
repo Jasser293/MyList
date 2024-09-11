@@ -304,7 +304,8 @@ http://45.159.74.14/Channel_117/mono.m3u8
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Театр
-http://hls127.homeiptv.org:8880/Teatr/video.m3u8
+http://77.243.112.149:8080/strk_hd/index.m3u8
+#http://hls127.homeiptv.org:8880/Teatr/video.m3u8
 #EXTINF:-1 ,Мелодрамы
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
