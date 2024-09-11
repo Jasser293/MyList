@@ -317,6 +317,8 @@ http://hls127.homeiptv.org:8880/Europa_Plus/video.m3u8
 http://hls127.homeiptv.org:8880/2X2/video.m3u8
 #EXTINF:-1 ,2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 ,VHS-ка
+http://88.218.242.237:8000/play/a00x
 #EXTINF:-1 ,Pro100TV
 http://85.192.10.173/Pro100tvRu/video.m3u8
 #EXTINF:-1 ,Kino 24
