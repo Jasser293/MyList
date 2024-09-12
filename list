@@ -13,24 +13,24 @@ http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ Право
-http://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
+http://65.21.85.175:8000/play/a01e/index.m3u8?token=livetv
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Зал суда
 rtmp://5.182.229.90//7141
 #EXTINF:-1 ,НТВ Стиль
-http://livetv.mylifeisgood.net.ru/channels/ntvstyle24.m3u8
+http://65.21.85.175:8000/play/a018/index.m3u8?token=livetv
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Хит
-http://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
+http://65.21.85.175:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 ,НТВ ХИТ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/th_hit/mono.m3u8
 #EXTINF:-1 ,НТВ Сериал
-http://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
+http://65.21.85.175:8000/play/a01d/index.m3u8?token=livetv
 #EXTINF:-1 ,НТВ СЕРИАЛ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
@@ -137,9 +137,9 @@ http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
 http://91.207.115.228:12000/play/a01e
 #EXTINF:-1 ,СТС Love
 http://185.50.148.2:7706/STSLove/index.m3u8
-#EXTINF:-1 ,tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
+#EXTINF:-1 ,tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD
 http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
-#EXTINF:-1 ,tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
+#EXTINF:-1 ,tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
 http://144.76.61.88:8080/tvoetv_humor/video.m3u8?token=tvoetv
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
