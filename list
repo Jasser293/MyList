@@ -13,24 +13,24 @@ http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ Право
-http://65.21.85.175:8000/play/a01e/index.m3u8?token=livetv
+http://45.133.106.35:80/ntvpravo/index.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Зал суда
 rtmp://5.182.229.90//7141
 #EXTINF:-1 ,НТВ Стиль
-http://65.21.85.175:8000/play/a018/index.m3u8?token=livetv
+http://45.133.106.35:80/ntvstil/index.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Хит
-http://65.21.85.175:8000/play/a01f/index.m3u8?token=livetv
+http://45.133.106.35:80/ntvxit/index.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/th_hit/mono.m3u8
 #EXTINF:-1 ,НТВ Сериал
-http://65.21.85.175:8000/play/a01d/index.m3u8?token=livetv
+http://45.133.106.35:80/NTVSerial/index.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
