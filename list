@@ -303,10 +303,7 @@ http://45.159.74.14/Channel_117/mono.m3u8
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Театр
-http://77.243.112.149:8080/strk_hd/index.m3u8
-#http://hls127.homeiptv.org:8880/Teatr/video.m3u8
-#EXTINF:-1 ,Мелодрамы
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
+http://hls127.homeiptv.org:8880/Teatr/video.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
@@ -361,6 +358,7 @@ http://hls.bemtv.t62a.com/hls2/WeB37nrD/1726288640/7cRXIMqFacwyaPkVtYLCyg/stream
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://hls.bemtv.t62a.com/hls2/WeB37nrD/1726288640/YBt_ULEt85xF4tGnk2m45w/stream417/index.m3u8
+#EXTINF:-1 ,Русский детектив
 http://91.224.169.250:5000/c12
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
