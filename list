@@ -353,11 +353,11 @@ http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://hls.bemtv.t62a.com/hls2/C8TC8Mix/1726373538/cvetzPk2VTR6Ki6l_oKHwA/stream339/index.m3u8
+http://hls.bemtv.t62a.com/hls2/EWFKkEWn/1726467052/xkyt4Jjz6Qj-nvpMK32RpA/stream339/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://hls.bemtv.t62a.com/hls2/C8TC8Mix/1726373538/4f4Sz5RrRr_RZDX5-rwm6Q/stream417/index.m3u8
+http://hls.bemtv.t62a.com/hls2/EWFKkEWn/1726467052/ocEJ9GuXG_35irhRSZMblw/stream417/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://91.224.169.250:5000/c12
 #EXTINF:-1 ,Русский иллюзион
@@ -379,7 +379,7 @@ http://hls127.homeiptv.org:8880/Mosfilm/video.m3u8
 #EXTINF:-1 ,.Red
 http://hls127.homeiptv.org:8880/Red/video.m3u8
 #EXTINF:-1 ,.Black
-http://78.62.135.122:8082/sonyturbo/index.m3u8
+http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
