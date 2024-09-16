@@ -468,5 +468,11 @@ http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
 http://112.72.4.108/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 ,Re TV
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+#EXTINF:-1 LTV 7
+https://tinyurl.com/mp4e95ch
+#EXTINF:-1 LTV 1
+https://tinyurl.com/4ved5r4t
+#EXTINF:-1 LTV 4
+https://vs842.vcdn.biz/82797d259070ab16a89cdac41b5e74bd_megogo/live/hls/b/700_2490/u_sid/0/o/116130071/rsid/3ce8bb6f-b996-4e3b-87d8-26f304cf470f/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.15.223.246*asn/u_srvc/31681/u_did/web_jtx1y32I9nHhQqMcgeqUWaugDaa7Nj60/type.live/chunklist-sid1436035704431964605-b2490000.m3u8
 
 
