@@ -182,9 +182,8 @@ http://lnc-racing-america.tubi.video/playlist.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
 http://82.215.111.249/1427/mono.m3u8
-#http://94.23.77.69/stream/BM4WWV9HYI/211.m3u8
 #EXTINF:-1 ,Усадьба
-http://94.23.77.69/stream/4UA66BEAIJ/211.m3u8
+http://91.207.115.228:12000/play/a04t
 #EXTINF:-1 ,Бобёр
 http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
@@ -209,8 +208,6 @@ http://45.159.74.14/KukhnyaTv/mono.m3u8
 http://89.106.234.5/kuhnya_hd_34_35.m3u8
 #EXTINF:-1 ,Еда премиум
 http://176.222.191.59/btv/live/hls/000000588.m3u8
-#EXTINF:-1 ,Food Time HD
-http://94.23.77.69/stream/85WT12YUMH/216.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
@@ -232,7 +229,7 @@ http://77.243.112.149:8080/kto-est-kto/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://82.215.111.249/1429/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-http://94.23.77.69/stream/BM4WWV9HYI/76.m3u8
+http://91.207.115.228:12000/play/a04v
 #EXTINF:-1 ,Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Радость Моя
@@ -324,7 +321,7 @@ http://45.159.74.14/DomKino/mono.m3u8
 #EXTINF:-1 ,Amedia 1
 http://45.159.74.14/Channel_128/mono.m3u8
 #EXTINF:-1 ,Amedia 1
-http://94.23.77.69/stream/W6RW921XNT/117.m3u8
+http://45.133.106.35:80/Amedia1/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://185.50.148.2:7707/A2/index.m3u8
 #EXTINF:-1 ,Amedia Hit
@@ -336,11 +333,11 @@ http://45.159.74.13/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
 rtmp://5.182.229.90//7250
 #EXTINF:-1 ,КИНОХИТ
-http://94.23.77.69/stream/VLGLSFBJGG/126.m3u8
+http://45.133.106.35:80/Kinoxit/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://91.205.199.3/kinotvhd/index.m3u8
 #EXTINF:-1 ,Кино ТВ
-http://94.23.77.69/stream/VLGLSFBJGG/221.m3u8
+http://217.25.80.28:8888/Kino_TV/mono.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://45.159.74.13/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
@@ -348,7 +345,7 @@ http://45.159.74.14/MujskoeKino/index.m3u8
 #EXTINF:-1 ,КИНОМИКС
 http://185.50.148.2:7711/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
-http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
+http://82.215.111.249/1047/mono.m3u8
 #EXTINF:-1 ,Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m3u8
 #EXTINF:-1 ,Русский бестселлер
@@ -404,19 +401,17 @@ http://82.215.111.249/1234/mono.m3u8
 #EXTINF:-1 ,Киносерия
 http://82.215.111.249/1235/mono.m3u8
 #EXTINF:-1 ,Душевное
-http://94.23.77.69/stream/ZHQNVC6L7Y/213.m3u8
+http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Комедийное HD
-http://ott.watch/stream/41PRFXQR3G/74.m3u8
+http://217.25.80.28:8888/Kinopokaz_HD_2/mono.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://hls127.homeiptv.org:8880/Nashe_Novoe_Kino/video.m3u8
 #EXTINF:-1 ,Премиальное
-http://ott.watch/stream/ZHQNVC6L7Y/421.m3u8
+rtmp://5.182.229.90//7222
 #EXTINF:-1 ,Остросюжетное
-http://ott.watch/stream/5Q8JENTEPP/214.m3u8
+http://31.131.136.5:8001/play/e012
 #EXTINF:-1 ,Страшное
 rtmp://5.182.229.90//7247
-#EXTINF:-1 ,Шокирующее
-http://ott.watch/stream/5Q8JENTEPP/75.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
@@ -424,7 +419,7 @@ http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 rtmp://5.182.229.90//7203
 #EXTINF:-1 ,Eurosport 2
-http://94.23.77.69/stream/VLGLSFBJGG/192.m3u8
+http://91.207.115.228:12000/play/a045
 #EXTINF:-1 ,МАТЧ!
 https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/playlist.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
@@ -471,27 +466,3 @@ http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 ,Cartoon Network
 http://112.72.4.108/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 ,LNK HD
-http://94.23.77.69/stream/VLGLSFBJGG/30.m3u8
-#EXTINF:-1 ,BTV HD
-http://94.23.77.69/stream/VLGLSFBJGG/35.m3u8
-#EXTINF:-1 ,LRT HD
-http://94.23.77.69/stream/VLGLSFBJGG/31.m3u8
-#EXTINF:-1 ,LRT Plius HD
-http://94.23.77.69/stream/VLGLSFBJGG/353.m3u8
-#EXTINF:-1 ,TV 1
-http://94.23.77.69/stream/VLGLSFBJGG/374.m3u8
-#EXTINF:-1 ,TV3 HD
-http://94.23.77.69/stream/VLGLSFBJGG/29.m3u8
-#EXTINF:-1 ,Balticum
-http://94.23.77.69/stream/VLGLSFBJGG/376.m3u8
-#EXTINF:-1 ,TV 6
-http://94.23.77.69/stream/VLGLSFBJGG/375.m3u8
-#EXTINF:-1 ,TV3 Life
-http://94.23.77.69/stream/85WT12YUMH/373.m3u8
-#EXTINF:-1 ,LTV 7
-http://94.23.77.69/stream/85WT12YUMH/371.m3u8
-#EXTINF:-1 ,TV 24
-http://94.23.77.69/stream/85WT12YUMH/372.m3u8
-#EXTINF:-1 ,LTV1
-http://94.23.77.69/stream/85WT12YUMH/34.m3u8
