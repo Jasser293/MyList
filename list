@@ -96,7 +96,6 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 http://91.224.169.250:5000/c80
 #EXTINF:-1 ,Оружие
 http://s83.chas.tv:8081/chas/oruzhie.stream/playlist.m3u8
-#http://91.196.37.133:4000/play/a02n
 #EXTINF:-1 ,Оружие
 http://tinyurl.com/ye4c2ua3
 #EXTINF:-1 ,Арсенал
@@ -170,7 +169,7 @@ http://82.215.111.249/1036/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://82.215.111.249/1421/mono.m3u8
 #EXTINF:-1 ,Мужской
-http://91.196.37.133:4000/play/a02l
+http://217.25.80.28:8888/Mugskoi/mono.m3u8
 #EXTINF:-1 ,Russian Extreme
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 ,Motorsport
@@ -189,9 +188,9 @@ http://94.23.77.69/stream/4UA66BEAIJ/211.m3u8
 #EXTINF:-1 ,Бобёр
 http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
-http://91.196.37.133:4000/play/a01z
+http://217.25.80.28:8888/BOBER/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
-http://91.196.37.133:4000/play/a01r
+http://217.25.80.28:8888/Zagorodnaa_Gizn_/mono.m3u8
 #EXTINF:-1 ,Доктор
 http://82.215.111.249/1409/mono.m3u8
 #EXTINF:-1 ,Доктор
@@ -353,11 +352,11 @@ http://94.23.77.69/stream/BM4WWV9HYI/191.m3u8
 #EXTINF:-1 ,Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://hls.bemtv.t62a.com/hls2/mMmfpfAL/1726546403/hm2todlSuURaYQRn10wFzA/stream339/index.m3u8
+http://hls.bemtv.t62a.com/hls2/Kd91epnp/1726586989/ACeoWXZCOtCLcp8ioaV0ew/stream339/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://hls.bemtv.t62a.com/hls2/mMmfpfAL/1726546403/3FDgfwi26FE7xSbI-0piWg/stream417/index.m3u8
+http://hls.bemtv.t62a.com/hls2/Kd91epnp/1726586989/8gBIvlxy7xrLnpZx9pOwnQ/stream417/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://91.224.169.250:5000/c12
 #EXTINF:-1 ,Русский иллюзион
