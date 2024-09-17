@@ -349,11 +349,11 @@ http://82.215.111.249/1047/mono.m3u8
 #EXTINF:-1 ,Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://hls.bemtv.t62a.com/hls2/Kd91epnp/1726586989/ACeoWXZCOtCLcp8ioaV0ew/stream339/index.m3u8
+http://hls.bemtv.t62a.com/hls2/NkfaSrsX/1726634313/iXuxQpZKpYubFj0dfjpKgw/stream339/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://hls.bemtv.t62a.com/hls2/Kd91epnp/1726586989/8gBIvlxy7xrLnpZx9pOwnQ/stream417/index.m3u8
+http://hls.bemtv.t62a.com/hls2/NkfaSrsX/1726634313/z-bdAiOrHWkx4f2lxniwew/stream417/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://91.224.169.250:5000/c12
 #EXTINF:-1 ,Русский иллюзион
@@ -471,7 +471,8 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 #EXTINF:-1 ,LTV 7
 https://tinyurl.com/mp4e95ch
 #EXTINF:-1 ,LTV 1
-https://tinyurl.com/4ved5r4t
+https://vs824.vcdn.biz/de8745d1a4b40541210df97ce54653f9_megogo/live/hls/b/700_2490/u_sid/0/o/38418371/rsid/829d05f7-218c-4835-91bb-947f24bbc771/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/85.254.75.124*asn/u_srvc/31681/u_did/web_jtx1y32I9nHhQqMcgeqUWaugDaa7Nj60/type.live/chunklist-sid7963103071229789676-b2490000.m3u8
+#https://tinyurl.com/4ved5r4t
 #EXTINF:-1 ,LTV 4
 https://vs842.vcdn.biz/82797d259070ab16a89cdac41b5e74bd_megogo/live/hls/b/700_2490/u_sid/0/o/116130071/rsid/3ce8bb6f-b996-4e3b-87d8-26f304cf470f/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/84.15.223.246*asn/u_srvc/31681/u_did/web_jtx1y32I9nHhQqMcgeqUWaugDaa7Nj60/type.live/chunklist-sid1436035704431964605-b2490000.m3u8
 
