@@ -349,11 +349,11 @@ http://82.215.111.249/1047/mono.m3u8
 #EXTINF:-1 ,Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://hls.bemtv.t62a.com/hls2/iHXkWXX5/1726719636/4KGOmAO7MhlsbudE1UzAQg/stream339/index.m3u8
+http://91.207.115.228:12000/play/a00x
 #EXTINF:-1 ,Русский бестселлер
 http://91.142.158.107:8092/play/26/index.m3u8
 #EXTINF:-1 ,Русский детектив
-http://hls.bemtv.t62a.com/hls2/iHXkWXX5/1726719636/G1enBncC7-z4EoiCgUM9dA/stream417/index.m3u8
+http://91.207.115.228:12000/play/a00y
 #EXTINF:-1 ,Русский детектив
 http://91.224.169.250:5000/c12
 #EXTINF:-1 ,Русский иллюзион
@@ -466,7 +466,7 @@ http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 ,Cartoon Network
 http://112.72.4.108/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 ,ReTV
+#EXTINF:-1 ,Re TV
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 ,LTV7
 https://tinyurl.com/mp4e95ch
