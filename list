@@ -171,8 +171,6 @@ http://195.26.83.96:7029/play/a008
 http://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 #EXTINF:-1 ,MotoR Racing
 http://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
-#EXTINF:-1 ,Racing America
-http://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
@@ -216,7 +214,7 @@ http://194.143.148.28:8080/Nauka20/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://91.205.199.3/sovershennosekretno/index.m3u8
+http://31.131.136.5:9013/play/s00j
 #EXTINF:-1 ,Совершенно секретно
 http://hls127.homeiptv.org:8880/Sovershenno_Sekretno/video.m3u8
 #EXTINF:-1 ,Кто Есть Кто
@@ -330,9 +328,10 @@ http://217.25.80.28:8888/Amedia_Premium_HD/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://82.215.111.249/1055/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
-rtmp://5.182.229.90//7250
+http://185.112.140.28:8080/Kinohit/index.m3u8
+#rtmp://5.182.229.90//7250
 #EXTINF:-1 ,Кино ТВ
-http://91.205.199.3/kinotvhd/index.m3u8
+http://185.112.140.28:8080/Kino_TV/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://217.25.80.28:8888/Kino_TV/mono.m3u8
 #EXTINF:-1 ,Кинопремьера
@@ -366,7 +365,8 @@ http://91.207.115.228:12000/play/a01m
 #EXTINF:-1 ,НСТ
 http://91.207.115.228:12000/play/a04n
 #EXTINF:-1 ,Мосфильм золотая коллекция
-rtmp://5.182.229.90//7347
+http://185.112.140.28:8080/Mosfilm/index.m3u8
+#rtmp://5.182.229.90//7347
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://91.207.115.228:12000/play/a00s
 #EXTINF:-1 ,.Red
@@ -390,7 +390,8 @@ http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
 http://82.215.111.249/1232/mono.m3u8
 #EXTINF:-1 ,Кинокомедия
-rtmp://5.182.229.90//7248
+http://178.162.218.83:8081/chas/komediya.stream/playlist.m3u8
+#rtmp://5.182.229.90//7248
 #EXTINF:-1 ,Киномикс
 http://185.50.148.2:7711/Kinomiks/index.m3u8
 #EXTINF:-1 ,Киносемья
@@ -402,7 +403,7 @@ http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Комедийное HD
 #http://217.25.80.28:8888/Kinopokaz_HD_2/mono.m3u8
 #EXTINF:-1 ,Наше новое кино
-http://91.205.199.3/nashenovoekino/index.m3u8
+http://185.112.140.28:8080/Nashe_Novoe_Kino/index.m3u8
 #EXTINF:-1 ,Премиальное
 rtmp://5.182.229.90//7222
 #EXTINF:-1 ,Остросюжетное
@@ -446,7 +447,7 @@ http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
 http://217.25.80.28:8888/Mama/mono.m3u8
 #EXTINF:-1 ,Мультиландия
-http://91.205.199.3/multilandia/index.m3u8
+http://185.50.148.2:7706/Multimania/index.m3u8
 #EXTINF:-1 ,В гостях у сказки
 http://82.215.111.249/1270/mono.m3u8
 #EXTINF:-1 ,Капитан Фантастика
@@ -454,7 +455,7 @@ http://82.215.111.249/1406/mono.m3u8
 #EXTINF:-1 ,Мульт
 http://217.25.80.28:8888/Mul_t/mono.m3u8
 #EXTINF:-1 ,Tiji
-http://91.205.199.3/tijitv/index.m3u8
+http://31.131.136.5:9001/play/e038
 #EXTINF:-1 ,Gulli Girl
 http://135.181.115.81:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:-1 ,Карусель
