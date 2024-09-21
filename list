@@ -18,7 +18,8 @@ http://176.222.191.59/btv/live/hls/000002759.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Зал суда
-rtmp://5.182.229.90//7141
+http://31.131.136.5:9009/play/a00b
+#rtmp://5.182.229.90//7141
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
