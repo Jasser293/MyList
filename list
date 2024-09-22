@@ -473,7 +473,7 @@ http://112.72.4.108/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 ,TV Jūrmala
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
-#EXTINF:-1 ,TV3
+#EXTINF:-1 ,TV3 LV
 http://194.204.46.137:80/live/eds/TV3_LV_SD/GO3_LIVE_HLS/TV3_LV_SD.m3u8
 #EXTINF:-1 ,TV6 LT
 http://194.204.46.137:80/live/eds/TV6_LT_SD/GO3_LIVE_HLS/TV6_LT_SD.m3u8
