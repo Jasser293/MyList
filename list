@@ -141,6 +141,8 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 http://91.224.169.250:5000/c5
 #EXTINF:-1 ,Че!
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
+#EXTINF:-1 ,Че!
+https://tinyurl.com/hyy82udk
 #EXTINF:-1 ,Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
@@ -157,6 +159,8 @@ http://112.72.4.108/live/disk1/Friday/HLS-FTA/Friday.m3u8
 http://91.224.169.250:5000/c23
 #EXTINF:-1 ,АВТО 24
 http://91.224.169.250:5000/c42
+#EXTINF:-1 ,АВТО 24
+https://tinyurl.com/j3r88cft
 #EXTINF:-1 ,Авто плюс
 http://91.90.255.235:8000/play/a003/index.m3u8
 #EXTINF:-1 ,Авто плюс
@@ -165,6 +169,8 @@ http://82.215.111.249/1036/mono.m3u8
 http://82.215.111.249/1421/mono.m3u8
 #EXTINF:-1 ,Мужской
 http://217.25.80.28:8888/Mugskoi/mono.m3u8
+#EXTINF:-1 ,Кто Куда
+https://tinyurl.com/4m542p3c
 #EXTINF:-1 ,Russian Extreme
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 ,Motorsport
