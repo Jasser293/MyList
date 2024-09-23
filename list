@@ -18,8 +18,7 @@ http://193.242.204.28:10181/181
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Зал суда
-http://31.131.136.5:9009/play/a00b
-#rtmp://5.182.229.90//7141
+rtmp://5.182.229.90//7141
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -218,7 +217,7 @@ http://194.143.148.28:8080/Nauka20/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://31.131.136.5:9013/play/s00j
+http://91.205.199.3/sovershennosekretno/index.m3u8
 #EXTINF:-1 ,Совершенно секретно
 http://hls127.homeiptv.org:8880/Sovershenno_Sekretno/video.m3u8
 #EXTINF:-1 ,Кто Есть Кто
@@ -413,8 +412,7 @@ rtmp://5.182.229.90//7222
 #EXTINF:-1 ,Остросюжетное
 http://31.131.136.5:8001/play/e012
 #EXTINF:-1 ,Страшное
-http://31.131.136.5:8001/play/e00y
-#rtmp://5.182.229.90//7247
+rtmp://5.182.229.90//7247
 #EXTINF:-1 ,Eurosport 1
 http://91.207.115.228:12000/play/a044
 #EXTINF:-1 ,Eurosport 1
@@ -460,7 +458,7 @@ http://82.215.111.249/1406/mono.m3u8
 #EXTINF:-1 ,Мульт
 http://217.25.80.28:8888/Mul_t/mono.m3u8
 #EXTINF:-1 ,Tiji
-http://31.131.136.5:9001/play/e038
+http://91.205.199.3/tijitv/index.m3u8
 #EXTINF:-1 ,Gulli Girl
 http://135.181.115.81:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:-1 ,Карусель
@@ -473,7 +471,7 @@ http://112.72.4.108/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 ,TV Jūrmala
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
-#EXTINF:-1 ,TV3 LV
+#EXTINF:-1 ,TV3 
 http://194.204.46.137:80/live/eds/TV3_LV_SD/GO3_LIVE_HLS/TV3_LV_SD.m3u8
 #EXTINF:-1 ,TV6 LT
 http://194.204.46.137:80/live/eds/TV6_LT_SD/GO3_LIVE_HLS/TV6_LT_SD.m3u8
