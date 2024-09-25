@@ -62,7 +62,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,РБК
 http://dmi3y-tv.ru/hls/CH_RBK.m3u8
 #EXTINF:-1 ,Беларусь 24
-http://176.222.191.59/btv/live/hls/000000360.m3u8
+http://91.207.115.228:12000/play/a03t
 #EXTINF:-1 ,СТВ
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://93.85.87.5/ctv/ctv.stream/playlist.m3u8
@@ -105,7 +105,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 ,ЦТВ
 http://88.218.242.237:8000/play/a00t
 #EXTINF:-1 ,Перец
-http://176.222.191.59/btv/live/hls/000001248.m3u8
+https://cdn1.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://91.207.115.228:12000/play/a023
 #EXTINF:-1 ,ТНТ
@@ -233,23 +233,23 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Три Ангела
 http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://176.222.191.59/btv/live/hls/000001496.m3u8
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://91.207.115.228:12000/play/a042
 #EXTINF:-1 ,History
-http://176.222.191.59/btv/live/hls/000001000.m3u8
+http://sc.id-tv.kz/HistoryHD_36_37.m3u8
 #EXTINF:-1 ,Animal Planet
 http://91.224.169.250:5000/c162
 #EXTINF:-1 ,Animal Planet
 http://82.215.111.249/1043/mono.m3u8
 #EXTINF:-1 ,Наука
 http://217.25.80.28:8888/Nauka_2_0/mono.m3u8
-#EXTINF:-1 ,viju Explore
-http://176.222.191.59/btv/live/hls/000004157.m3u8
-#EXTINF:-1 ,viju History
-http://176.222.191.59/btv/live/hls/000005528.m3u8
-#EXTINF:-1 ,viju Nature
-http://176.222.191.59/btv/live/hls/000006482.m3u8
+#EXTINF:-1 ,Viasat Explore
+http://217.25.80.28:8888/Viasat_Explorer/mono.m3u8
+#EXTINF:-1 ,Viasat History
+http://217.25.80.28:8888/Viasat_History/mono.m3u8
+#EXTINF:-1 ,Viasat Nature
+http://217.25.80.28:8888/Viasat_Nature/mono.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -257,9 +257,9 @@ http://82.215.111.249/1038/mono.m3u8
 #EXTINF:-1 ,Дикий
 http://217.25.80.28:8888/Dikii/mono.m3u8
 #EXTINF:-1 ,Дикая охота
-http://176.222.191.59/btv/live/hls/000004609.m3u8
+http://stream01.vnet.am/Channel_127/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка
-http://176.222.191.59/btv/live/hls/000004610.m3u8
+http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
 http://91.207.114.220:9001/play/a04m/index.m3u8
 #EXTINF:-1 ,TERRA
@@ -267,7 +267,7 @@ http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 ,1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
-http://176.222.191.59/btv/live/hls/000000210.m3u8
+http://91.90.255.235:8000/play/a007/index.m3u8
 #EXTINF:-1 ,Bridge TV Classic
 http://82.215.111.249/1269/mono.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
@@ -387,7 +387,7 @@ http://217.25.80.28:8888/TV1000/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://82.215.111.249/1059/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
-http://176.222.191.59/btv/live/hls/000003910.m3u8
+http://217.25.80.28:8888/TV1000_Action/mono.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
