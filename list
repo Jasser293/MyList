@@ -108,6 +108,8 @@ http://88.218.242.237:8000/play/a00t
 https://cdn1.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://91.207.115.228:12000/play/a023
+#EXTINF:-1 ,Народ Всё Видит
+http://176.222.191.62/btv/live/hls/000008614.m3u8
 #EXTINF:-1 ,ТНТ
 http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ
