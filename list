@@ -257,9 +257,9 @@ http://82.215.111.249/1038/mono.m3u8
 #EXTINF:-1 ,Дикий
 http://217.25.80.28:8888/Dikii/mono.m3u8
 #EXTINF:-1 ,Дикая охота
-http://stream01.vnet.am/Channel_127/mono.m3u8
+http://176.222.191.62/btv/live/hls/000004609.m3u8
 #EXTINF:-1 ,Дикая рыбалка
-http://stream01.vnet.am/Channel_126/mono.m3u8
+http://176.222.191.62/btv/live/hls/000004610.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
 http://91.207.114.220:9001/play/a04m/index.m3u8
 #EXTINF:-1 ,TERRA
