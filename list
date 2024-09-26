@@ -21,10 +21,10 @@ http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 rtmp://5.182.229.90//7141
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn.ntv.ru/th_hit/mono.m3u8
+http://cdn2.ntv.ru/th_hit/mono.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
@@ -56,7 +56,7 @@ http://185.112.140.28:8080/TVC/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 ,Неизвестная Россия
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn.ntv.ru/unknown_russia/mono.m3u8
+http://cdn2.ntv.ru/unknown_russia/mono.m3u8
 #EXTINF:-1 ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,РБК
