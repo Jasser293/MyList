@@ -90,6 +90,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 http://78.140.39.3:8080/play/a01r/index.m3u8
 #EXTINF:-1 ,Оружие
 http://193.242.204.28:10160/160
+#EXTINF:-1 ,Оружие
+http://91.224.169.250:5000/c80
 #EXTINF:-1 ,Арсенал
 http://82.215.111.249/1414/mono.m3u8
 #EXTINF:-1 ,Ратник
