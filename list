@@ -87,8 +87,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
-http://91.224.169.250:5000/c80
-#EXTINF:-1 ,Оружие
 http://78.140.39.3:8080/play/a01r/index.m3u8
 #EXTINF:-1 ,Оружие
 http://193.242.204.28:10160/160
@@ -303,7 +301,7 @@ http://91.197.104.34/AAC/mono.m3u8
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Театр
-http://188.190.222.48:8765/Teatr/tracks-v1a1/mono.m3u8
+http://217.25.80.28:8888/Teatr/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
@@ -403,8 +401,10 @@ http://82.215.111.249/1234/mono.m3u8
 #EXTINF:-1 ,Киносерия
 http://82.215.111.249/1235/mono.m3u8
 #EXTINF:-1 ,Душевное
-http://188.190.222.48:8765/Dushevnoe_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Комедийное HD
+http://77.235.1.13/nash_kinoroman_hd/index.m3u8
+#EXTINF:-1 ,Романтичное
+http://77.235.1.13/romantichnoe_hd/index.m3u8
+#EXTINF:-1 ,Комедийное
 #http://217.25.80.28:8888/Kinopokaz_HD_2/mono.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://185.112.140.28:8080/Nashe_Novoe_Kino/index.m3u8
