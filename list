@@ -89,8 +89,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
-http://78.140.39.3:8080/play/a01r/index.m3u8
-#EXTINF:-1 ,Оружие
 http://193.242.204.28:10160/160
 #EXTINF:-1 ,Оружие
 #http://91.224.169.250:5000/c80
@@ -437,7 +435,7 @@ http://91.90.255.235:8000/play/a00a/index.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
 http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-#http://78.140.39.3/play/a00r/index.m3u8
+http://91.207.115.228:12000/play/a02u
 #EXTINF:-1 ,Матч! Футбол 1 HD
 http://91.207.115.228:12000/play/a032
 #EXTINF:-1 ,Матч! Футбол 2 HD
@@ -473,7 +471,7 @@ http://78.62.135.122:8082/gulli/index.m3u8
 #EXTINF:-1 ,Карусель
 http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 #EXTINF:-1 ,Cartoonito
-http://78.140.39.3:8080/play/a01l/index.m3u8
+http://45.159.74.14/Channel_120/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Cartoon Network
 http://112.72.4.108/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 ,Re TV
