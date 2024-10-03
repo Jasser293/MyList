@@ -47,7 +47,7 @@ http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://193.242.204.28:10011/11
+http://185.112.140.28:8080/REN_TV/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://112.72.4.108/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -89,9 +89,9 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
-http://193.242.204.28:10160/160
-#EXTINF:-1 ,Оружие
 http://91.224.169.250:5000/c80
+#EXTINF:-1 ,Оружие
+http://176.222.191.62/btv/live/hls/000000308.m3u8
 #EXTINF:-1 ,Арсенал
 http://82.215.111.249/1414/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -147,7 +147,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
-http://193.242.204.28:10018/18
+http://185.112.140.28:8080/Domashnij/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -159,7 +159,7 @@ http://91.224.169.250:5000/c23
 #EXTINF:-1 ,АВТО 24
 http://91.224.169.250:5000/c42
 #EXTINF:-1 ,АВТО 24
-http://193.242.204.28:10118/118
+http://91.207.115.228:12000/play/a04y
 #EXTINF:-1 ,Авто плюс
 http://91.90.255.235:8000/play/a003/index.m3u8
 #EXTINF:-1 ,Авто плюс
@@ -215,7 +215,7 @@ http://82.215.111.249/1417/mono.m3u8
 #EXTINF:-1 ,Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://193.242.204.28:10161/161
+http://91.224.169.250:5000/c1
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
