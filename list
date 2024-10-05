@@ -243,6 +243,8 @@ http://185.112.140.28:8080/DiscoveryChannel/index.m3u8
 http://91.207.115.228:12000/play/a042
 #EXTINF:-1 ,History
 http://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:-1 ,National Geographic
+rtmp://5.182.229.90//7320
 #EXTINF:-1 ,Animal Planet
 http://91.224.169.250:5000/c162
 #EXTINF:-1 ,Animal Planet
