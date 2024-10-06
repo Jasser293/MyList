@@ -187,13 +187,13 @@ http://91.207.115.228:12000/play/a04t
 #EXTINF:-1 ,Бобёр
 http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
-http://45.143.108.110:2200/bober
+http://109.200.130.123:7537/play/a02c
 #EXTINF:-1 ,Загородная жизнь
 http://176.222.191.62/btv/live/hls/000000289.m3u8
 #EXTINF:-1 ,Доктор
 http://82.215.111.249/1409/mono.m3u8
 #EXTINF:-1 ,Доктор
-http://45.143.108.110:2200/doctor
+http://193.242.204.28:10177/177
 #EXTINF:-1 ,Здоровое ТВ
 http://82.215.111.249/1428/mono.m3u8
 #EXTINF:-1 ,Здоровое ТВ
@@ -262,7 +262,7 @@ http://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://82.215.111.249/1038/mono.m3u8
 #EXTINF:-1 ,Дикий
-http://45.143.108.110:2200/dikiy
+http://91.224.169.250:5000/c160
 #EXTINF:-1 ,Дикая охота
 http://176.222.191.62/btv/live/hls/000004609.m3u8
 #EXTINF:-1 ,Дикая рыбалка
@@ -460,7 +460,7 @@ http://91.207.115.228:12000/play/a01z
 #EXTINF:-1 ,Мультимания
 http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
-http://45.143.108.110:2200/Mama
+http://193.242.204.28:10127/127
 #EXTINF:-1 ,Мультиландия
 http://185.50.148.2:7706/Multimania/index.m3u8
 #EXTINF:-1 ,В гостях у сказки
