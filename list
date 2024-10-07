@@ -31,17 +31,17 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
-http://player.smotrim.ru/iframe/stream/live_id/2961
+#http://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 ,Россия 1
 http://91.90.255.235:8000/play/a00g/index.m3u8
 #EXTINF:-1 ,Россия РТР
-http://player.smotrim.ru/iframe/stream/live_id/63253?43e=5.m3u8
+#http://player.smotrim.ru/iframe/stream/live_id/63253?43e=5.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 24
-http://player.smotrim.ru/iframe/stream/live_id/21
+#http://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 ,Россия К
-http://player.smotrim.ru/iframe/stream/live_id/19201
+#http://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 ,Россия К
 http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
@@ -79,9 +79,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
 http://91.207.115.228:12000/play/a03i
 #EXTINF:-1 ,Соловьев.Live
-http://player.smotrim.ru/iframe/stream/live_id/63338
+http://91.207.115.228:12000/play/a00q
+#http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Соловьев.Live
-http://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/63338
+#http://31.131.136.5:8001/play/e00h
+#http://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Звезда
 http://dmi3y-tv.ru/hls/T2/CH_ZVEZDA.m3u8
 #EXTINF:-1 ,Звезда
@@ -314,7 +316,7 @@ http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Театр
 http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 ,Кино и сериалы
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
 #http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
