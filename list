@@ -34,6 +34,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #http://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 ,Россия 1
 http://91.90.255.235:8000/play/a00g/index.m3u8
+#EXTINF:-1 ,РТР Планета
+http://31.47.199.45:1401/rtrplaneta/index.m3u8
 #EXTINF:-1 ,Россия РТР
 #http://player.smotrim.ru/iframe/stream/live_id/63253?43e=5.m3u8
 #EXTINF:-1 ,РОССИЯ 24
