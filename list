@@ -31,19 +31,19 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
-#http://player.smotrim.ru/iframe/stream/live_id/2961
+http://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 ,Россия 1
 http://91.90.255.235:8000/play/a00g/index.m3u8
 #EXTINF:-1 ,РТР Планета
 http://31.47.199.45:1401/rtrplaneta/index.m3u8
 #EXTINF:-1 ,Россия РТР
-#http://player.smotrim.ru/iframe/stream/live_id/63253?43e=5.m3u8
+http://player.smotrim.ru/iframe/stream/live_id/63253?43e=5.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 24
-#http://player.smotrim.ru/iframe/stream/live_id/21
+http://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 ,Россия К
-#http://player.smotrim.ru/iframe/stream/live_id/19201
+http://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 ,Россия К
 http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
@@ -53,7 +53,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://185.112.140.28:8080/REN_TV/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
-http://112.72.4.108/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+http://176.222.191.62/btv/live/hls/000002472.m3u8
+#http://112.72.4.108/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -81,8 +82,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
 http://91.207.115.228:12000/play/a03i
 #EXTINF:-1 ,Соловьев.Live
-http://91.207.115.228:12000/play/a00q
-#http://player.smotrim.ru/iframe/stream/live_id/63338
+http://player.smotrim.ru/iframe/stream/live_id/63338
+#http://91.207.115.228:12000/play/a00q
 #EXTINF:-1 ,Соловьев.Live
 http://31.131.136.4:8001/play/e00h
 #http://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/63338
@@ -317,8 +318,6 @@ http://91.197.104.34/AAC/mono.m3u8
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 ,Тео ТВ
-https://90.154.10.147/live/site360/playlist.m3u8
 #EXTINF:-1 ,Театр
 http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 ,Кино и сериалы
