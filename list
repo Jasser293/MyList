@@ -317,6 +317,8 @@ http://91.197.104.34/AAC/mono.m3u8
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 ,Тео ТВ
+https://90.154.10.147/live/site360/playlist.m3u8
 #EXTINF:-1 ,Театр
 http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 ,Кино и сериалы
