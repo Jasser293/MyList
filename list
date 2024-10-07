@@ -461,6 +461,10 @@ http://82.215.111.249/1028/mono.m3u8
 http://95.216.40.210/khlhd/mono.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,Пингвин ТВ
+http://85.192.10.173/PingvinRu/mono.m3u8
+#EXTINF:-1 ,Мамонтенок ТВ
+http://85.192.10.173/MamontRu/mono.m3u8
 #EXTINF:-1 ,Солнце
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:-1 ,Da Vinci
