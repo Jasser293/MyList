@@ -33,7 +33,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Россия 1
 http://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 ,Россия 1
-http://91.90.255.235:8000/play/a00g/index.m3u8
+http://193.242.204.28:10002/2
 #EXTINF:-1 ,РТР Планета
 http://31.47.199.45:1401/rtrplaneta/index.m3u8
 #EXTINF:-1 ,Россия РТР
@@ -136,7 +136,7 @@ http://91.207.115.228:12000/play/a00f
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС
-http://91.90.255.235:8000/play/a00h/index.m3u8
+http://185.112.140.28:8080/STS/index.m3u8
 #EXTINF:-1 ,СТС International
 http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
@@ -172,7 +172,7 @@ http://91.224.169.250:5000/c42
 #EXTINF:-1 ,АВТО 24
 http://91.207.115.228:12000/play/a04y
 #EXTINF:-1 ,Авто плюс
-http://91.90.255.235:8000/play/a003/index.m3u8
+http://91.207.115.228:12000/play/a02y
 #EXTINF:-1 ,Авто плюс
 http://82.215.111.249/1036/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
@@ -274,6 +274,7 @@ http://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 http://82.215.111.249/1038/mono.m3u8
 #EXTINF:-1 ,Дикий
 http://91.224.169.250:5000/c160
+#http://91.207.115.228:12000/play/a02m
 #EXTINF:-1 ,Дикая охота
 http://176.222.191.62/btv/live/hls/000004609.m3u8
 #EXTINF:-1 ,Дикая рыбалка
@@ -285,9 +286,9 @@ http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 ,1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
-http://91.90.255.235:8000/play/a007/index.m3u8
+http://91.205.199.3/shansontv/index.m3u8
 #EXTINF:-1 ,Bridge TV Classic
-http://82.215.111.249/1269/mono.m3u8
+http://185.223.125.136:1984/play/a05n/index.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
 http://91.207.114.220:9001/play/a0cc/index.m3u8
 #EXTINF:-1 ,ТНТ Music
@@ -345,9 +346,9 @@ http://45.143.108.104/AMEDIA1_SD/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://45.143.108.104/AMEDIA2_SD/index.m3u8
 #EXTINF:-1 ,Amedia Hit
-http://77.235.1.13/amedia_hit/index.m3u8
+http://91.207.115.228:12000/play/a01k
 #EXTINF:-1 ,Amedia Premium
-http://77.235.1.13/amedia_premium/index.m3u8
+http://91.207.115.228:12000/play/a01l
 #EXTINF:-1 ,КИНОХИТ
 http://82.215.111.249/1055/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
@@ -405,9 +406,9 @@ http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://78.62.135.122:8082/tv1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
-http://82.215.111.249/1059/mono.m3u8
+http://31.47.199.45:1400/tv1000russkoekino/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
-http://77.235.1.13/tv1000_action/index.m3u8
+http://31.47.199.45:1400/tv1000action/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
@@ -421,9 +422,9 @@ http://82.215.111.249/1234/mono.m3u8
 #EXTINF:-1 ,Киносерия
 http://82.215.111.249/1235/mono.m3u8
 #EXTINF:-1 ,Душевное
-http://77.235.1.13/nash_kinoroman_hd/index.m3u8
+http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 ,Романтичное
-http://77.235.1.13/romantichnoe_hd/index.m3u8
+http://193.242.190.6:8099/31/index.m3u8
 #EXTINF:-1 ,Комедийное
 http://tv.newline.in.ua:8001/play/e014
 #EXTINF:-1 ,Наше новое кино
@@ -447,11 +448,11 @@ https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/playlist.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://141.95.55.143/CH227/index.m3u8
 #EXTINF:-1 ,МАТЧ! ИГРА
-http://91.90.255.235:8000/play/a00a/index.m3u8
+http://91.224.169.250:5000/c32
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
 #http://95.216.40.210/nashfootball/mono.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
-http://91.90.255.235:8000/play/a00f/index.m3u8
+http://91.224.169.250:5000/c31
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://91.207.115.228:12000/play/a02u
 #EXTINF:-1 ,Матч! Футбол 1 HD
