@@ -61,6 +61,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 http://185.112.140.28:8080/TVC/index.m3u8
 #EXTINF:-1 ,ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+#EXTINF:-1 ,Раменское ТВ
+http://46.254.94.238/rtv/0.m3u8
 #EXTINF:-1 ,Неизвестная Россия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/unknown_russia/mono.m3u8
