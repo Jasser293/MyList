@@ -142,7 +142,7 @@ http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://91.207.115.228:12000/play/a01e
 #EXTINF:-1 ,СТС Love
-http://185.50.148.2:7706/STSLove/index.m3u8
+http://185.223.125.136:1984/play/ctclove/index.m3u8
 #EXTINF:-1 ,tvg-id="tvoetv",Твоё ТВ
 http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
 #EXTINF:-1 ,tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
@@ -262,12 +262,12 @@ http://91.224.169.250:5000/c162
 http://82.215.111.249/1043/mono.m3u8
 #EXTINF:-1 ,Наука
 http://91.224.169.250:5000/c2
-#EXTINF:-1 ,Viasat Nature
-http://185.50.148.2:7703/ViasatNature/index.m3u8
 #EXTINF:-1 ,Viasat Explore
-http://185.50.148.2:7703/ViasatExplorer/index.m3u8
+http://91.207.115.228:12000/play/a02j
 #EXTINF:-1 ,Viasat History
-http://185.50.148.2:7703/ViasatHistory/index.m3u8
+http://91.207.115.228:12000/play/a02k
+#EXTINF:-1 ,Viasat Nature
+http://91.207.115.228:12000/play/a02l
 #EXTINF:-1 ,Диалоги о рыбалке
 http://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -363,7 +363,7 @@ http://91.207.115.228:12000/play/a015
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://91.224.169.250:5000/c28
 #EXTINF:-1 ,КИНОМИКС
-http://185.50.148.2:7711/Kinomiks/index.m3u8
+http://91.207.115.228:12000/play/a017
 #EXTINF:-1 ,Ретро
 http://82.215.111.249/1047/mono.m3u8
 #EXTINF:-1 ,Тайна
@@ -410,13 +410,13 @@ http://31.47.199.45:1400/tv1000russkoekino/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://31.47.199.45:1400/tv1000action/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
-http://185.50.148.2:7711/RodnoeKino/index.m3u8
+http://77.235.1.17/rodnoe_kino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
 http://82.215.111.249/1232/mono.m3u8
 #EXTINF:-1 ,Кинокомедия
 rtmp://5.182.229.90//7248
 #EXTINF:-1 ,Киномикс
-http://185.50.148.2:7711/Kinomiks/index.m3u8
+rtmp://5.182.229.90//7249
 #EXTINF:-1 ,Киносемья
 http://82.215.111.249/1234/mono.m3u8
 #EXTINF:-1 ,Киносерия
@@ -480,7 +480,7 @@ http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
 http://193.242.204.28:10127/127
 #EXTINF:-1 ,Мультиландия
-http://185.50.148.2:7706/Multimania/index.m3u8
+http://92.118.134.244:8002/play/Multilandia/index.m3u8
 #EXTINF:-1 ,В гостях у сказки
 http://82.215.111.249/1270/mono.m3u8
 #EXTINF:-1 ,Капитан Фантастика
