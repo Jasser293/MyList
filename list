@@ -51,14 +51,14 @@ http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://185.112.140.28:8080/REN_TV/index.m3u8
+http://s1.merlive.am:80/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 #http://112.72.4.108/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
-http://185.112.140.28:8080/TVC/index.m3u8
+http://31.47.199.45:1401/tvc/index.m3u8
 #EXTINF:-1 ,ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 ,Раменское ТВ
@@ -136,7 +136,7 @@ http://91.207.115.228:12000/play/a00f
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС
-http://185.112.140.28:8080/STS/index.m3u8
+http://77.235.1.17/sts/index.m3u8
 #EXTINF:-1 ,СТС International
 http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
@@ -158,7 +158,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
-http://185.112.140.28:8080/Domashnij/index.m3u8
+http://92.118.134.244:8001/play/Domashnij/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -249,7 +249,7 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Три Ангела
 http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://185.112.140.28:8080/DiscoveryChannel/index.m3u8
+http://91.224.169.250:5000/c161
 #EXTINF:-1 ,Investigation Discovery
 http://91.207.115.228:12000/play/a042
 #EXTINF:-1 ,History
@@ -352,10 +352,9 @@ http://91.207.115.228:12000/play/a01l
 #EXTINF:-1 ,КИНОХИТ
 http://82.215.111.249/1055/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
-http://185.112.140.28:8080/Kinohit/index.m3u8
-#rtmp://5.182.229.90//7250
+rtmp://5.182.229.90//7250
 #EXTINF:-1 ,Кино ТВ
-http://185.112.140.28:8080/Kino_TV/index.m3u8
+http://77.235.1.17/kino_tv/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://193.242.190.6:8099/88/index.m3u8
 #EXTINF:-1 ,Кинопремьера
@@ -389,8 +388,7 @@ http://91.207.115.228:12000/play/a01m
 #EXTINF:-1 ,НСТ
 http://91.207.115.228:12000/play/a04n
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://185.112.140.28:8080/Mosfilm/index.m3u8
-#rtmp://5.182.229.90//7347
+rtmp://5.182.229.90//7347
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://91.207.115.228:12000/play/a00s
 #EXTINF:-1 ,.Red
@@ -428,7 +426,7 @@ http://193.242.190.6:8099/31/index.m3u8
 #EXTINF:-1 ,Комедийное
 http://tv.newline.in.ua:8001/play/e014
 #EXTINF:-1 ,Наше новое кино
-http://185.112.140.28:8080/Nashe_Novoe_Kino/index.m3u8
+http://77.235.1.17/nashe_novoe_kino/index.m3u8
 #EXTINF:-1 ,Премиальное
 rtmp://5.182.229.90//7222
 #EXTINF:-1 ,Остросюжетное
