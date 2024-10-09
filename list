@@ -420,9 +420,9 @@ http://82.215.111.249/1234/mono.m3u8
 #EXTINF:-1 ,Киносерия
 http://82.215.111.249/1235/mono.m3u8
 #EXTINF:-1 ,Душевное
-http://193.242.190.6:8099/37/index.m3u8
+http://77.235.1.17/nash_kinoroman_hd/index.m3u8
 #EXTINF:-1 ,Романтичное
-http://193.242.190.6:8099/31/index.m3u8
+http://77.235.1.17/romantichnoe_hd/index.m3u8
 #EXTINF:-1 ,Комедийное
 http://tv.newline.in.ua:8001/play/e014
 #EXTINF:-1 ,Наше новое кино
