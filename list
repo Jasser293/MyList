@@ -351,6 +351,8 @@ http://91.207.115.228:12000/play/a01l
 http://82.215.111.249/1055/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
 rtmp://5.182.229.90//7250
+#EXTINF:-1 ,КИНОХИТ
+http://45.159.74.13/Kinokhit/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://77.235.1.17/kino_tv/index.m3u8
 #EXTINF:-1 ,Кино ТВ
