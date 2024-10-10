@@ -157,7 +157,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
-http://92.118.134.244:8001/play/Domashnij/index.m3u8
+http://193.242.204.28:10018/18
 #EXTINF:-1 ,ПЯТНИЦА
 http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -207,7 +207,7 @@ http://193.242.204.28:10177/177
 #EXTINF:-1 ,Здоровое ТВ
 http://82.215.111.249/1428/mono.m3u8
 #EXTINF:-1 ,Здоровое ТВ
-http://94.230.128.105:8080/Zdorovoe_TV/mono.m3u8
+http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Тонус 
 http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 ,Живи
@@ -477,7 +477,7 @@ http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
 http://193.242.204.28:10127/127
 #EXTINF:-1 ,Мультиландия
-http://92.118.134.244:8002/play/Multilandia/index.m3u8
+http://dmi3y-tv.ru/hls/CH_MULTILANDIYA.m3u8
 #EXTINF:-1 ,В гостях у сказки
 http://82.215.111.249/1270/mono.m3u8
 #EXTINF:-1 ,Капитан Фантастика
