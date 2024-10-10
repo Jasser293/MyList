@@ -71,7 +71,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,РБК
 http://dmi3y-tv.ru/hls/CH_RBK.m3u8
 #EXTINF:-1 ,Беларусь 24
-http://91.207.115.228:12000/play/a03t
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24.m3u8
 #EXTINF:-1 ,СТВ
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://93.85.87.5/ctv/ctv.stream/playlist.m3u8
@@ -85,7 +85,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://91.207.115.228:12000/play/a03i
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/63338
-#http://91.207.115.228:12000/play/a00q
 #EXTINF:-1 ,Соловьев.Live
 http://31.131.136.4:8001/play/e00h
 #http://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/63338
@@ -118,7 +117,7 @@ http://88.218.242.237:8000/play/a00t
 #EXTINF:-1 ,Перец
 http://112.72.4.108/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,КВН ТВ
-http://91.207.115.228:12000/play/a023
+http://77.235.1.17/kvn_tv/index.m3u8
 #EXTINF:-1 ,НВВ
 http://176.222.191.62/btv/live/hls/000008614.m3u8
 #EXTINF:-1 ,ТНТ
@@ -132,7 +131,7 @@ http://tv.mediacdn.ru/live/tnt4/playlist.m3u8
 #EXTINF:-1 ,ТВ3
 http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
 #EXTINF:-1 ,ТВ3
-http://91.207.115.228:12000/play/a00f
+http://77.235.1.17/tv3/index.m3u8
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС
@@ -140,7 +139,7 @@ http://77.235.1.17/sts/index.m3u8
 #EXTINF:-1 ,СТС International
 http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
-http://91.207.115.228:12000/play/a01e
+http://dmi3y-tv.ru/hls/CH_STSLOVE.m3u8
 #EXTINF:-1 ,СТС Love
 http://185.223.125.136:1984/play/ctclove/index.m3u8
 #EXTINF:-1 ,tvg-id="tvoetv",Твоё ТВ
@@ -170,9 +169,9 @@ http://91.224.169.250:5000/c23
 #EXTINF:-1 ,АВТО 24
 http://91.224.169.250:5000/c42
 #EXTINF:-1 ,АВТО 24
-http://91.207.115.228:12000/play/a04y
+http://77.235.1.17/avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
-http://91.207.115.228:12000/play/a02y
+http://s1.merlive.am:80/Avtoplus/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://82.215.111.249/1036/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
@@ -192,7 +191,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.
 #EXTINF:-1 ,Усадьба
 http://82.215.111.249/1427/mono.m3u8
 #EXTINF:-1 ,Усадьба
-http://91.207.115.228:12000/play/a04t
+http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
 #EXTINF:-1 ,Бобёр
 http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
@@ -210,7 +209,7 @@ http://82.215.111.249/1428/mono.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://94.230.128.105:8080/Zdorovoe_TV/mono.m3u8
 #EXTINF:-1 ,Тонус 
-http://91.207.115.228:12000/play/a02g
+http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 ,Живи
 http://82.215.111.249/1419/mono.m3u8
 #EXTINF:-1 ,Кухня ТВ
@@ -237,11 +236,11 @@ http://91.205.199.3/sovershennosekretno/index.m3u8
 http://31.131.136.5:9013/play/s00j
 #http://45.133.106.35:80/sovershennosekretno/index.m3u8
 #EXTINF:-1 ,Кто Есть Кто
-http://91.207.115.228:9001/play/a02u/index.m3u8
+http://193.242.204.28:10165/165
 #EXTINF:-1 ,Вопросы и ответы
 http://82.215.111.249/1429/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-http://91.207.115.228:12000/play/a04v
+http://91.224.169.250:5000/c40
 #EXTINF:-1 ,Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Радость Моя
@@ -280,7 +279,7 @@ http://176.222.191.62/btv/live/hls/000004609.m3u8
 #EXTINF:-1 ,Дикая рыбалка
 http://176.222.191.62/btv/live/hls/000004610.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
-http://91.207.114.220:9001/play/a04m/index.m3u8
+http://91.205.199.3:80/roos-365-dnej/manifest.m3u8
 #EXTINF:-1 ,TERRA
 http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 ,1HD
@@ -290,7 +289,7 @@ http://91.205.199.3/shansontv/index.m3u8
 #EXTINF:-1 ,Bridge TV Classic
 http://185.223.125.136:1984/play/a05n/index.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
-http://91.207.114.220:9001/play/a0cc/index.m3u8
+http://193.242.204.28:10194/194
 #EXTINF:-1 ,ТНТ Music
 http://91.207.115.228:12000/play/a039
 #EXTINF:-1 ,МузТВ
