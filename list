@@ -13,7 +13,7 @@ http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ Право
-http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
+http://176.222.191.62/btv/live/hls/000002759.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -183,7 +183,7 @@ http://176.222.191.62/btv/live/hls/000000286.m3u8
 #EXTINF:-1 ,Кто Куда
 http://176.222.191.62/btv/live/hls/000001377.m3u8
 #EXTINF:-1 ,Russian Extreme
-http://195.26.83.96:7029/play/a008
+http://91.224.169.250:5000/c61
 #EXTINF:-1 ,Motorsport
 http://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 #EXTINF:-1 ,MotoR Racing
@@ -322,7 +322,7 @@ http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
-http://195.26.83.96:7005/play/16/index.m3u8
+http://91.194.191.241:8081/chid235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
 #http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
