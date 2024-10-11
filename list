@@ -4,7 +4,7 @@ http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
 #EXTINF:-1 ,Первый канал
-http://194.143.148.28:8080/PerviyHD/mpegts
+http://91.224.169.250:5000/c67
 #EXTINF:-1 ,НТВ
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
 #EXTINF:-1 ,НТВ
@@ -51,7 +51,7 @@ http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://91.194.191.241:8081/chid9/tracks-v1a1/mono.m3u8
+http://91.224.169.250:5000/c311
 #EXTINF:-1 ,Рен ТВ International
 http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 #http://112.72.4.108/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
