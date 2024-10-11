@@ -120,6 +120,8 @@ http://112.72.4.108/live/disk1/Che/HLS-FTA/Che.m3u8
 http://77.235.1.17/kvn_tv/index.m3u8
 #EXTINF:-1 ,НВВ
 http://176.222.191.62/btv/live/hls/000008614.m3u8
+#EXTINF:-1 ,Gags Network
+rtmp://5.182.229.90//7142
 #EXTINF:-1 ,ТНТ
 http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
 #EXTINF:-1 ,ТНТ
