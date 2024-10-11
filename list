@@ -13,7 +13,7 @@ http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ Право
-http://s1.merlive.am:80/ntvpravo/index.m3u8
+http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -51,7 +51,7 @@ http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://s1.merlive.am:80/rentv/index.m3u8
+http://91.194.191.241:8081/chid9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 #http://112.72.4.108/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
@@ -173,7 +173,7 @@ http://91.224.169.250:5000/c42
 #EXTINF:-1 ,АВТО 24
 http://77.235.1.17/avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
-http://s1.merlive.am:80/Avtoplus/index.m3u8
+http://91.194.191.241:8081/chid104/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Авто плюс
 http://82.215.111.249/1036/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
