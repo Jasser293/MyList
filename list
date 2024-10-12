@@ -36,8 +36,6 @@ http://player.smotrim.ru/iframe/stream/live_id/2961
 http://193.242.204.28:10002/2
 #EXTINF:-1 ,РТР Планета
 http://31.47.199.45:1401/rtrplaneta/index.m3u8
-#EXTINF:-1 ,Россия РТР
-http://player.smotrim.ru/iframe/stream/live_id/63253?43e=5.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTINF:-1 ,РОССИЯ 24
@@ -147,8 +145,7 @@ http://185.223.125.136:1984/play/ctclove/index.m3u8
 #EXTINF:-1 ,tvg-id="tvoetv",Твоё ТВ
 http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
 #EXTINF:-1 ,tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
-https://tvoetv.space/tvoetv_humor/video.m3u8
-#http://144.76.61.88:8080/tvoetv_humor/video.m3u8?token=tvoetv
+http://144.76.61.88:8080/tvoetv_humor/video.m3u8?token=tvoetv
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
@@ -210,7 +207,7 @@ http://193.242.204.28:10177/177
 #EXTINF:-1 ,Здоровое ТВ
 http://82.215.111.249/1428/mono.m3u8
 #EXTINF:-1 ,Здоровое ТВ
-http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
+http://91.194.191.241:8081/chid267/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Тонус 
 http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 ,Живи
@@ -449,7 +446,7 @@ http://91.207.115.228:12000/play/a045
 #EXTINF:-1 ,МАТЧ!
 https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/playlist.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
-http://141.95.55.143/CH227/index.m3u8
+http://77.235.1.17/match_arena/index.m3u8
 #EXTINF:-1 ,МАТЧ! ИГРА
 http://91.224.169.250:5000/c32
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
