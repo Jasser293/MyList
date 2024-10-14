@@ -82,7 +82,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
 http://91.207.115.228:12000/play/a03i
 #EXTINF:-1 ,Соловьев.Live
-http://player.smotrim.ru/iframe/stream/live_id/63338
+http://91.207.115.228:12000/play/a00q
+#http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Соловьев.Live
 http://31.131.136.4:8001/play/e00h
 #http://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/63338
