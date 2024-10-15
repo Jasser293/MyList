@@ -120,7 +120,7 @@ http://112.72.4.108/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://77.235.1.17/kvn_tv/index.m3u8
 #EXTINF:-1 ,НВВ
-http://176.222.191.62/btv/live/hls/000008614.m3u8
+#http://176.222.191.62/btv/live/hls/000008614.m3u8
 #EXTINF:-1 ,Gags Network
 rtmp://5.182.229.90//7142
 #EXTINF:-1 ,ТНТ
@@ -180,9 +180,11 @@ http://82.215.111.249/1036/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://82.215.111.249/1421/mono.m3u8
 #EXTINF:-1 ,Мужской
-http://176.222.191.62/btv/live/hls/000000286.m3u8
+http://91.194.191.241:8081/chid120/tracks-v1a1/mono.m3u8
+#http://176.222.191.62/btv/live/hls/000000286.m3u8
 #EXTINF:-1 ,Кто Куда
-http://176.222.191.62/btv/live/hls/000001377.m3u8
+http://91.194.191.241:8081/chid446/tracks-v1a1/mono.m3u8
+#http://176.222.191.62/btv/live/hls/000001377.m3u8
 #EXTINF:-1 ,Russian Extreme
 http://91.224.169.250:5000/c61
 #EXTINF:-1 ,Motorsport
@@ -200,7 +202,8 @@ http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
 http://109.200.130.123:7537/play/a02c
 #EXTINF:-1 ,Загородная жизнь
-http://176.222.191.62/btv/live/hls/000000289.m3u8
+http://91.194.191.241:8081/chid167/tracks-v1a1/mono.m3u8
+#http://176.222.191.62/btv/live/hls/000000289.m3u8
 #EXTINF:-1 ,Доктор
 http://91.194.191.241:8081/chid117/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Доктор
@@ -281,9 +284,11 @@ http://82.215.111.249/1038/mono.m3u8
 http://91.224.169.250:5000/c160
 #http://91.207.115.228:12000/play/a02m
 #EXTINF:-1 ,Дикая охота
-http://176.222.191.62/btv/live/hls/000004609.m3u8
+http://185.23.80.28:8080/Dikaya_Ohota/index.m3u8?token=test
+#http://176.222.191.62/btv/live/hls/000004609.m3u8
 #EXTINF:-1 ,Дикая рыбалка
-http://176.222.191.62/btv/live/hls/000004610.m3u8
+http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=test
+#http://176.222.191.62/btv/live/hls/000004610.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
 http://91.224.169.250:5000/c25
 #EXTINF:-1 ,TERRA
@@ -495,7 +500,7 @@ http://dmi3y-tv.ru/hls/CH_MULT.m3u8
 #EXTINF:-1 ,Tiji
 http://dmi3y-tv.ru/hls/CH_TIJI.m3u8
 #EXTINF:-1 ,Gulli Girl
-http://78.62.135.122:8082/gulli/index.m3u8
+http://77.235.1.17/gulli_girl/index.m3u8
 #EXTINF:-1 ,Карусель
 http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 #EXTINF:-1 ,Cartoonito
