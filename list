@@ -223,7 +223,7 @@ http://91.224.169.250:5000/c27
 #EXTINF:-1 ,КУХНЯ ТВ
 http://82.215.111.249/1236/mono.m3u8
 #EXTINF:-1 ,Аппетитный
-http://185.50.148.2:7703/Motorsport/index.m3u8
+#http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,FOOD TIME
 http://dmi3y-tv.ru/hls/CH_FOODTIMEHD.m3u8
 #EXTINF:-1 ,Еда HD
@@ -245,7 +245,7 @@ http://91.205.199.3/sovershennosekretno/index.m3u8
 #EXTINF:-1 ,Совершенно секретно
 http://31.131.136.5:9013/play/s00j
 #EXTINF:-1 ,Кто Есть Кто
-http://193.242.204.28:10165/165
+http://93.125.121.75:80/Ktoestkto/index.m3u8?token=test
 #EXTINF:-1 ,Вопросы и ответы
 http://82.215.111.249/1429/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
