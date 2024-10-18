@@ -117,6 +117,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 http://88.218.242.237:8000/play/a00t
 #EXTINF:-1 ,Перец
 http://112.72.4.108/live/disk1/Che/HLS-FTA/Che.m3u8
+#EXTINF:-1 ,Перец
+http://45.159.74.14/Perec/mono.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://77.235.1.17/kvn_tv/index.m3u8
 #EXTINF:-1 ,НВВ
