@@ -504,7 +504,7 @@ http://dmi3y-tv.ru/hls/CH_MULT.m3u8
 #EXTINF:-1 ,Tiji
 http://dmi3y-tv.ru/hls/CH_TIJI.m3u8
 #EXTINF:-1 ,Gulli Girl
-http://77.235.1.17/gulli_girl/index.m3u8
+http://93.125.121.75:80/GulliGirl/index.m3u8?token=test
 #EXTINF:-1 ,Карусель
 http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 #EXTINF:-1 ,Cartoonito
