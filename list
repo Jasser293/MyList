@@ -226,6 +226,8 @@ http://82.215.111.249/1236/mono.m3u8
 http://dmi3y-tv.ru/hls/CH_FOODTIMEHD.m3u8
 #EXTINF:-1 ,Еда HD
 http://185.23.80.28:8080/Eda/index.m3u8?token=test
+#EXTINF:-1 ,Аппетитный
+http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
