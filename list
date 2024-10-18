@@ -180,8 +180,7 @@ http://82.215.111.249/1036/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://82.215.111.249/1421/mono.m3u8
 #EXTINF:-1 ,Мужской
-http://91.194.191.241:8081/chid120/tracks-v1a1/mono.m3u8
-#http://176.222.191.62/btv/live/hls/000000286.m3u8
+http://86.57.198.251:8181/play/1036/index.m3u8
 #EXTINF:-1 ,Кто Куда
 http://91.194.191.241:8081/chid446/tracks-v1a1/mono.m3u8
 #http://176.222.191.62/btv/live/hls/000001377.m3u8
@@ -202,8 +201,7 @@ http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
 http://109.200.130.123:7537/play/a02c
 #EXTINF:-1 ,Загородная жизнь
-http://91.194.191.241:8081/chid167/tracks-v1a1/mono.m3u8
-#http://176.222.191.62/btv/live/hls/000000289.m3u8
+http://93.125.121.75:80/ZagorodnayaZhizn/index.m3u8?token=test
 #EXTINF:-1 ,Доктор
 http://91.194.191.241:8081/chid117/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Доктор
