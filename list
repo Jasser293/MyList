@@ -61,6 +61,8 @@ http://31.47.199.45:1401/tvc/index.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 ,Вместе РФ
 http://cdn-01.bonus-tv.ru:80/vmesterf/mono.m3u8
+#EXTINF:-1 ,Москва. Доверие
+https://player.smotrim.ru/iframe/stream/live_id/61125
 #EXTINF:-1 ,Раменское ТВ
 http://46.254.94.238/rtv/0.m3u8
 #EXTINF:-1 ,Неизвестная Россия
