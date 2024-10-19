@@ -492,7 +492,7 @@ http://91.207.115.228:12000/play/a01z
 #EXTINF:-1 ,Мультимания
 http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
-http://193.242.204.28:10127/127
+http://80.94.225.126:8080/Mama/mono.m3u8?token=test
 #EXTINF:-1 ,Мультиландия
 http://dmi3y-tv.ru/hls/CH_MULTILANDIYA.m3u8
 #EXTINF:-1 ,В гостях у сказки
