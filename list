@@ -418,9 +418,9 @@ http://91.207.115.228:12000/play/a04m
 #EXTINF:-1 ,Viju TV1000
 http://185.223.125.136:1984/play/TV1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
-http://31.47.199.45:1400/tv1000russkoekino/index.m3u8
+http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
-http://31.47.199.45:1400/tv1000action/index.m3u8
+http://91.194.191.241:8081/chid78/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://77.235.1.17/rodnoe_kino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
