@@ -242,6 +242,8 @@ http://82.215.111.249/1417/mono.m3u8
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://91.224.169.250:5000/c1
+#EXTINF:-1 ,Большая Азия
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
