@@ -82,10 +82,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
-http://91.207.115.228:12000/play/a03i
+http://77.235.1.17/rt_doc/index.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/63338
-#http://91.207.115.228:12000/play/a00q
 #EXTINF:-1 ,Соловьев.Live
 http://31.131.136.4:8001/play/e00h
 #http://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/63338
@@ -265,7 +264,7 @@ http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://91.224.169.250:5000/c161
 #EXTINF:-1 ,Investigation Discovery
-http://91.207.115.228:12000/play/a042
+http://91.224.169.250:5000/c163
 #EXTINF:-1 ,History
 http://sc.id-tv.kz/HistoryHD_36_37.m3u8
 #EXTINF:-1 ,National Geographic
@@ -277,18 +276,17 @@ http://82.215.111.249/1043/mono.m3u8
 #EXTINF:-1 ,Наука
 http://91.224.169.250:5000/c2
 #EXTINF:-1 ,Viasat Explore
-http://91.207.115.228:12000/play/a02j
+http://80.94.225.126:8080/ViasatExplore/mono.m3u8?token=test
 #EXTINF:-1 ,Viasat History
-http://91.207.115.228:12000/play/a02k
+http://80.94.225.126:8080/ViasatHistory/mono.m3u8?token=test
 #EXTINF:-1 ,Viasat Nature
-http://91.207.115.228:12000/play/a02l
+http://80.94.225.126:8080/ViasatNature/mono.m3u8?token=test
 #EXTINF:-1 ,Диалоги о рыбалке
 http://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://82.215.111.249/1038/mono.m3u8
 #EXTINF:-1 ,Дикий
 http://91.224.169.250:5000/c160
-#http://91.207.115.228:12000/play/a02m
 #EXTINF:-1 ,Дикая охота
 http://185.23.80.28:8080/Dikaya_Ohota/index.m3u8?token=test
 #http://176.222.191.62/btv/live/hls/000004609.m3u8
@@ -308,31 +306,31 @@ http://91.194.191.241:8081/chid466/mono.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
 http://193.242.204.28:10194/194
 #EXTINF:-1 ,ТНТ Music
-http://91.207.115.228:12000/play/a039
+http://93.189.224.24/TNTMusic/index.m3u8
 #EXTINF:-1 ,МузТВ
-http://91.207.115.228:12000/play/a00k
+http://hls127.homeiptv.org:8880/MUZ_TV/video.m3u8
 #EXTINF:-1 ,Ля-минор
-http://91.207.115.228:12000/play/a03f
-#EXTINF:-1 ,Bridge TV
-http://91.207.115.228:12000/play/a035
+http://93.189.224.24/LaMinor/index.m3u8
+#EXTINF:-1 ,Bridge TV Шлягер
+http://91.194.191.241:8081/chid98/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Bridge TV Фрэш
+http://91.194.191.241:8081/chid467/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
-http://91.207.115.228:12000/play/a036
+http://91.194.191.241:8081/chid468/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Bridge TV Rock
+http://91.194.191.241:8081/chid475/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Bridge TV Classic
+http://91.194.191.241:8081/chid466/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Bridge TV
+http://91.194.191.241:8081/chid90/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Bridge TV CLASSIC
+http://185.223.125.136:1984/play/a05n/index.m3u8
+#EXTINF:-1 ,Bridge TV Русский Хит
+http://185.223.125.136:1984/play/Rusong/index.m3u8
 #EXTINF:-1 ,Europa Plus TV
-http://91.207.115.228:12000/play/a037
-#EXTINF:-1 ,Bridge Hits
-http://91.207.115.228:12000/play/a038
+http://77.235.1.17/europa_plus/index.m3u8
 #EXTINF:-1 ,RU.TV
-http://91.207.115.228:12000/play/a03a
-#EXTINF:-1 ,Музыка Первого
-http://91.207.115.228:12000/play/a03b
-#EXTINF:-1 ,Mezzo
-http://91.207.115.228:12000/play/a03c
-#EXTINF:-1 ,Mezzo Live
-http://91.207.115.228:12000/play/a03d
-#EXTINF:-1 ,Мультимузыка
-http://91.207.115.228:12000/play/a01t
-#EXTINF:-1 ,Bridge TV Deluxe HD
-http://91.197.104.34/AAC/mono.m3u8
+http://93.125.121.75:80/RuTV/index.m3u8?token=test
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Теледом ТВ
@@ -344,7 +342,7 @@ http://91.194.191.241:8081/chid235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
 #http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
-http://91.207.115.228:12000/play/a02e
+http://193.242.204.28:10056/56
 #EXTINF:-1 ,2x2
 http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 ,2x2
@@ -362,9 +360,9 @@ http://45.143.108.104/AMEDIA1_SD/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://45.143.108.104/AMEDIA2_SD/index.m3u8
 #EXTINF:-1 ,Amedia Hit
-http://91.207.115.228:12000/play/a01k
+http://5.9.11.197:57419/chu-87/mpegts
 #EXTINF:-1 ,Amedia Premium
-http://91.207.115.228:12000/play/a01l
+http://5.9.11.197:57419/chu-88/mpegts
 #EXTINF:-1 ,КИНОХИТ
 http://82.215.111.249/1055/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
@@ -376,21 +374,21 @@ http://77.235.1.17/kino_tv/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://193.242.190.6:8099/88/index.m3u8
 #EXTINF:-1 ,Кинопремьера
-http://91.207.115.228:12000/play/a015
+http://80.94.225.126:8080/Kinopremyera/mono.m3u8?token=test
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://91.224.169.250:5000/c28
 #EXTINF:-1 ,КИНОМИКС
-http://91.207.115.228:12000/play/a017
+http://93.189.224.24/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
 http://82.215.111.249/1047/mono.m3u8
 #EXTINF:-1 ,Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://91.207.115.228:12000/play/a00x
+http://193.242.204.28:10075/75
 #EXTINF:-1 ,Русский бестселлер
 http://91.194.191.241:8081/chid75/mono.m3u8
 #EXTINF:-1 ,Русский детектив
-http://91.207.115.228:12000/play/a00y
+http://193.242.204.28:10077/77
 #EXTINF:-1 ,Русский детектив
 http://91.224.169.250:5000/c12
 #EXTINF:-1 ,Русский иллюзион
@@ -402,15 +400,15 @@ http://91.194.191.241:8081/chid66/mono.m3u8
 #EXTINF:-1 ,BollywooD
 http://91.224.169.250:5000/c155
 #EXTINF:-1 ,HollywooD
-http://91.207.115.228:12000/play/a01m
+http://93.125.121.75:80/Hollywood/index.m3u8?token=test
 #EXTINF:-1 ,НСТ
-http://91.207.115.228:12000/play/a04n
+http://77.235.1.17/nst/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
 rtmp://5.182.229.90//7347
 #EXTINF:-1 ,Мосфильм золотая коллекция
-http://91.207.115.228:12000/play/a00s
+http://77.235.1.17/mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
-http://91.207.115.228:12000/play/a025
+http://hls127.homeiptv.org:8880/Red/video.m3u8
 #EXTINF:-1 ,.Black
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Индия
@@ -418,7 +416,7 @@ https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
 http://91.224.169.250:5000/c11
 #EXTINF:-1 ,Комедия
-http://91.207.115.228:12000/play/a04m
+http://80.94.225.126:8080/Komedia/mono.m3u8?token=test
 #EXTINF:-1 ,Viju TV1000
 http://185.223.125.136:1984/play/TV1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
@@ -452,13 +450,13 @@ http://31.131.136.5:8001/play/e012
 #EXTINF:-1 ,Страшное
 rtmp://5.182.229.90//7247
 #EXTINF:-1 ,Eurosport 1
-http://91.207.115.228:12000/play/a044
+http://s1.merlive.am:80/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://91.224.169.250:5000/c167
 #EXTINF:-1 ,Eurosport 2
 rtmp://5.182.229.90//7203
 #EXTINF:-1 ,Eurosport 2
-http://91.207.115.228:12000/play/a045
+http://s1.merlive.am:80/eurosport2/index.m3u8
 #EXTINF:-1 ,МАТЧ!
 https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/playlist.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
@@ -470,13 +468,9 @@ http://91.224.169.250:5000/c32
 #EXTINF:-1 ,Матч! БОЕЦ
 http://91.194.191.241:8081/chid143/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://91.207.115.228:12000/play/a02u
+http://193.242.204.28:10099/99
 #EXTINF:-1 ,Матч! Футбол 1 HD
-http://91.207.115.228:12000/play/a032
-#EXTINF:-1 ,Матч! Футбол 2 HD
-http://91.207.115.228:12000/play/a033
-#EXTINF:-1 ,Матч! Футбол 3 HD
-http://91.207.115.228:12000/play/a034
+http://s1.merlive.am:80/matchfutbol1/index.m3u8
 #EXTINF:-1 ,KHL
 http://82.215.111.249/1028/mono.m3u8
 #EXTINF:-1 ,KHL Prime
@@ -490,7 +484,7 @@ http://85.192.10.173/MamontRu/mono.m3u8
 #EXTINF:-1 ,Солнце
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:-1 ,Da Vinci
-http://91.207.115.228:12000/play/a01z
+http://hls127.homeiptv.org:8880/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 ,Мультимания
 http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
