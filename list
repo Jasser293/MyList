@@ -254,6 +254,8 @@ http://82.215.111.249/1429/mono.m3u8
 http://91.224.169.250:5000/c40
 #EXTINF:-1 ,Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 ,Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Три Ангела
