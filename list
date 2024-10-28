@@ -1,17 +1,15 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
 #EXTINF:-1 ,Первый канал
-http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
+http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1 ,Первый канал
 http://91.224.169.250:5000/c67
+#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
+http://45.159.74.13/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
-http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+http://185.23.80.28:8080/NTV/index.m3u8?token=test
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ
-http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ Право
 http://185.23.80.28:8080/NTVPravo/index.m3u8?token=test
 #EXTINF:-1 ,НТВ Право
@@ -29,34 +27,32 @@ http://cdn2.ntv.ru/th_hit/mono.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ 1
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+http://45.159.74.13/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия 1
 http://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 ,Россия 1
 http://193.242.204.28:10002/2
 #EXTINF:-1 ,РОССИЯ 24
-http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
-#EXTINF:-1 ,РОССИЯ 24
 http://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 ,Россия К
 http://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 ,Россия К
-http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
+http://185.23.80.28:8080/RossiyaK/index.m3u8?token=test
 #EXTINF:-1 ,РЕН ТВ
-http://dmi3y-tv.ru/hls/T2/CH_RENTV.m3u8
+http://185.23.80.28:8080/REN/index.m3u8?token=test
 #EXTINF:-1 ,Рен ТВ
-http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
+http://91.194.191.241:8081/chid9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://91.224.169.250:5000/c311
 #EXTINF:-1 ,Рен ТВ International
 http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 #http://112.72.4.108/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
-http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
+http://91.194.191.241:8081/chid444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТВЦ
 http://77.235.1.17/tvcentr/index.m3u8
 #EXTINF:-1 ,ОТР
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+http://91.194.191.241:8081/chid163/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Вместе РФ
 http://cdn-01.bonus-tv.ru:80/vmesterf/mono.m3u8
 #EXTINF:-1 ,Москва. Доверие
@@ -106,11 +102,9 @@ http://82.215.111.249/1414/mono.m3u8
 #EXTINF:-1 ,Ратник
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
-http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
+http://91.224.169.250:5000/c305
 #EXTINF:-1 ,Пятый канал
 http://94.230.128.105:8080/5_kanal/mono.m3u8
-#EXTINF:-1 ,Пятый канал
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 ,ЦТВ
 http://88.218.242.237:8000/play/a00t
 #EXTINF:-1 ,Перец
@@ -119,20 +113,18 @@ http://112.72.4.108/live/disk1/Che/HLS-FTA/Che.m3u8
 http://45.159.74.14/Perec/mono.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://77.235.1.17/kvn_tv/index.m3u8
-#EXTINF:-1 ,НВВ
-#http://176.222.191.62/btv/live/hls/000008614.m3u8
 #EXTINF:-1 ,Gags Network
 rtmp://5.182.229.90//7142
 #EXTINF:-1 ,ТНТ
-http://dmi3y-tv.ru/hls/T2/CH_TNT.m3u8
+http://91.142.158.107:8092/play/19/index.m3u8
 #EXTINF:-1 ,ТНТ
-http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+http://94.230.128.105:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТНТ4
 http://tv.mediacdn.ru/live/tnt4/playlist.m3u8
 #EXTINF:-1 ,ТВ3
-http://dmi3y-tv.ru/hls/T2/CH_TV3.m3u8
+http://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1 ,ТВ3
 http://77.235.1.17/tv3/index.m3u8
 #EXTINF:-1 ,СТС
@@ -154,17 +146,17 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
 http://91.224.169.250:5000/c5
 #EXTINF:-1 ,Че!
-http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
+http://hls.bemtv.t62a.com/hls2/m4LsdY4j/1730226154/qHfcn5VYuwmXDz1LgJXghA/stream411/index.m3u8
 #EXTINF:-1 ,Ю
-http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
+https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
-http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
+http://93.125.121.75:80/Domashniy/index.m3u8?token=test
 #EXTINF:-1 ,ДОМАШНИЙ
 http://193.242.204.28:10018/18
 #EXTINF:-1 ,ПЯТНИЦА
-http://dmi3y-tv.ru/hls/T2/CH_FRIDAY.m3u8
+http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
 #EXTINF:-1 ,ПЯТНИЦА
-http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+http://91.194.191.241:8081/chid14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница! International
 http://112.72.4.108/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
@@ -452,8 +444,8 @@ http://91.224.169.250:5000/c167
 rtmp://5.182.229.90//7203
 #EXTINF:-1 ,Eurosport 2
 http://s1.merlive.am:80/eurosport2/index.m3u8
-#EXTINF:-1 ,МАТЧ!
-https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA2/playlist.m3u8
+#EXTINF:-1 ,МАТЧ! ПЛАНЕТА
+http://45.159.74.13/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://77.235.1.17/match_arena/index.m3u8
 #EXTINF:-1 ,МАТЧ! ИГРА
