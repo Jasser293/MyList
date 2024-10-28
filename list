@@ -84,8 +84,6 @@ http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Соловьев.Live
 http://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Звезда
-http://dmi3y-tv.ru/hls/T2/CH_ZVEZDA.m3u8
-#EXTINF:-1 ,Звезда
 http://94.230.240.12:8080/zvezda/index.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
