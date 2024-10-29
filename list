@@ -53,7 +53,8 @@ http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 #EXTINF:-1 ,ТВЦ
 http://77.235.1.17/tvcentr/index.m3u8
 #EXTINF:-1 ,ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+http://80.94.225.126:8080/TVCentr/mono.m3u8?token=test
+#http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 http://91.194.191.241:8081/chid444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ОТР
