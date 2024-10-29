@@ -1,10 +1,12 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz"
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1 ,Первый канал
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1 ,Первый канал
 http://91.224.169.250:5000/c67
+#EXTINF:-1 ,НТВ
+http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1 ,НТВ
 http://185.23.80.28:8080/NTV/index.m3u8?token=test
 #EXTINF:-1 ,НТВ
@@ -126,7 +128,7 @@ http://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1 ,ТВ3
 http://77.235.1.17/tv3/index.m3u8
 #EXTINF:-1 ,СТС
-http://dmi3y-tv.ru/hls/T2/CH_STS.m3u8
+http://dmi3y-tv.ru/hls/T2/CH_STSHD.m3u8
 #EXTINF:-1 ,СТС
 http://77.235.1.17/sts/index.m3u8
 #EXTINF:-1 ,СТС International
@@ -136,11 +138,15 @@ http://dmi3y-tv.ru/hls/CH_STSLOVE.m3u8
 #EXTINF:-1 ,СТС Love
 http://185.223.125.136:1984/play/ctclove/index.m3u8
 #EXTINF:-1 ,tvg-id="tvoetv",Твоё ТВ
-http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
+#http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
 #EXTINF:-1 ,tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
-http://144.76.61.88:8080/tvoetv_humor/video.m3u8?token=tvoetv
+#http://144.76.61.88:8080/tvoetv_humor/video.m3u8?token=tvoetv
+#EXTINF:-1 ,Телекафе
+http://dmi3y-tv.ru/hls/CH_TELEKAFE.m3u8
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
+#EXTINF:-1 ,Сарафан
+http://dmi3y-tv.ru/hls/CH_SARAFAN.m3u8
 #EXTINF:-1 ,Сарафан
 http://91.224.169.250:5000/c5
 #EXTINF:-1 ,Че!
