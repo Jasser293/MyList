@@ -504,6 +504,44 @@ http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 http://45.159.74.14/Channel_120/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Cartoon Network
 http://112.72.4.108/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 ,ТНТ
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317077/tP-MzM2zhehbR2hKCJeD3g/stream414/index.m3u8
+#EXTINF:-1 ,ТНТ 4
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317078/5VCBA9xuDfQBXNQThXDYVA/stream722/index.m3u8
+#EXTINF:-1 ,СТС
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317077/UXW0wqAg-Jb2A-F_glDo3w/stream412/index.m3u8
+#EXTINF:-1 ,Пятница
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317077/0PwMKtKdxzaubi-HeKDv9Q/stream415/index.m3u8
+#EXTINF:-1 ,ЧЕ!
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317077/yd3KtK4SMUeRYbmha8zbRw/stream411/index.m3u8
+#EXTINF:-1 ,Ю
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317078/gRNNoXhhhOqCLs-VDxTkBg/stream260/index.m3u8
+#EXTINF:-1 ,Домашний
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317077/w2uwKA26ZjRUAiWUa_kvEQ/stream410/index.m3u8
+#EXTINF:-1 ,Русский бестселлер
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317077/WuOlLx3hy4sz7TPKECrUhg/stream339/index.m3u8
+#EXTINF:-1 ,Русский Детектив
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317077/EKopddypSiHwEHAnlRyHew/stream417/index.m3u8
+#EXTINF:-1 ,Русский роман
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317078/BtSy6TSJGBwJMeMy3b4Rew/stream717/index.m3u8
+#EXTINF:-1 ,Ретро
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317077/8_tCickre8aSC_LoLUDe4w/stream145/index.m3u8
+#EXTINF:-1 ,Ностальгия
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317077/84id2RBMQz5P366Rn-96Uw/stream724/index.m3u8
+#EXTINF:-1 ,Моя планета
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317077/PExkQBza9lLcJQX0coMPYQ/stream218/index.m3u8
+#EXTINF:-1 ,Дом кино
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317078/e-aqHuPkz__RXLBokhZUlw/stream422/index.m3u8
+#EXTINF:-1 ,Наука
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317078/E2Gf69vAbaVZTh3-7bkjFw/stream215/index.m3u8
+#EXTINF:-1 ,Любимое кино
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317078/e4ViOP_DOtfHPZvyUH3YKQ/stream424/index.m3u8
+#EXTINF:-1 ,TV1000 русское кино
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317078/QNIrlwPtQfEV7zujEEaTMA/stream423/index.m3u8
+#EXTINF:-1 ,Тайна
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317078/F6qi-UH2kukLOzCyNdqUPg/stream308/index.m3u8
+#EXTINF:-1 ,Охота и рыбалка
+https://hls.bemtv.t62a.com/hls2/hUGFLpjV/1730317078/3dSpE_mgBcwdv97aGPFBQg/stream338/index.m3u8
 #EXTINF:-1 ,Re TV
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 ,TV Jūrmala
