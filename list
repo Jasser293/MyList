@@ -120,7 +120,7 @@ http://77.235.1.17/kvn_tv/index.m3u8
 #EXTINF:-1 ,Gags Network
 rtmp://5.182.229.90//7142
 #EXTINF:-1 ,ТНТ
-http://91.142.158.107:8092/play/19/index.m3u8
+http://77.235.1.17/tnt/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://94.230.128.105:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ4
