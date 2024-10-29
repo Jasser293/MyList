@@ -51,9 +51,11 @@ http://91.224.169.250:5000/c311
 http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 #http://112.72.4.108/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
-http://91.194.191.241:8081/chid444/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ТВЦ
 http://77.235.1.17/tvcentr/index.m3u8
+#EXTINF:-1 ,ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 ,ТВЦ
+http://91.194.191.241:8081/chid444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ОТР
 http://91.194.191.241:8081/chid163/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Вместе РФ
