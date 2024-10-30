@@ -519,3 +519,6 @@ http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 http://194.204.46.137:80/live/eds/TV6_LT_SD/GO3_LIVE_HLS/TV6_LT_SD.m3u8
 #EXTINF:-1 ,TV3 LT
 http://194.204.46.137:80/live/eds/TV3_LT_SD/GO3_LIVE_HLS/TV3_LT_SD.m3u8
+#EXTINF:-1 , Зал суда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd116.iptv2022.com/p/gLYAXOOXXOTrHeKskLTqvQ,1730365210/streaming/zal_suda/324/1/index.m3u8
