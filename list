@@ -88,7 +88,8 @@ http://77.235.1.17/rt_doc/index.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Соловьев.Live
-http://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/63338
+http://130.193.73.10:8937/play/a002
+#http://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Звезда
 http://94.230.240.12:8080/zvezda/index.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
