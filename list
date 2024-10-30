@@ -365,9 +365,9 @@ http://45.143.108.104/AMEDIA1_SD/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://45.143.108.104/AMEDIA2_SD/index.m3u8
 #EXTINF:-1 ,Amedia Hit
-http://5.9.11.197:57419/chu-87/mpegts
+http://77.235.1.17/amedia_hit/index.m3u8
 #EXTINF:-1 ,Amedia Premium
-http://5.9.11.197:57419/chu-88/mpegts
+http://77.235.1.17/amedia_premium/index.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://82.215.111.249/1055/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
@@ -377,7 +377,7 @@ http://45.159.74.13/Kinokhit/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://77.235.1.17/kino_tv/index.m3u8
 #EXTINF:-1 ,Кино ТВ
-http://5.9.11.197:57419/chu-117/mpegts
+http://86.57.198.251:8181/play/1026/index.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://45.159.74.13/Kinopremera/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
@@ -389,7 +389,7 @@ http://82.215.111.249/1047/mono.m3u8
 #EXTINF:-1 ,Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://5.9.11.197:57419/chu-135/index.m3u8
+http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 ,Русский бестселлер
 http://91.194.191.241:8081/chid75/mono.m3u8
 #EXTINF:-1 ,Русский детектив
@@ -413,7 +413,7 @@ rtmp://5.182.229.90//7347
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://77.235.1.17/mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
-http://5.9.11.197:57419/chu-97/index.m3u8
+http://193.242.204.28:10085/85
 #EXTINF:-1 ,.Black
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Индия
@@ -423,7 +423,7 @@ http://91.224.169.250:5000/c11
 #EXTINF:-1 ,Комедия
 http://91.194.191.241:8081/chid80/mono.m3u8
 #EXTINF:-1 ,Viju TV1000
-http://5.9.11.197:57419/chu-103/index.m3u8
+http://86.57.198.251:8181/play/1013/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
