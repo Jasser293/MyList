@@ -49,7 +49,7 @@ http://91.194.191.241:8081/chid9/tracks-v1a1/mono.m3u8
 http://91.224.169.250:5000/c311
 #EXTINF:-1 ,Рен ТВ International
 http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
-#http://112.72.4.108/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+#http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
 http://77.235.1.17/tvcentr/index.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -112,7 +112,7 @@ http://94.230.128.105:8080/5_kanal/mono.m3u8
 #EXTINF:-1 ,ЦТВ
 http://88.218.242.237:8000/play/a00t
 #EXTINF:-1 ,Перец
-http://112.72.4.108/live/disk1/Che/HLS-FTA/Che.m3u8
+http://112.72.4.116/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,Перец
 http://45.159.74.14/Perec/mono.m3u8
 #EXTINF:-1 ,КВН ТВ
@@ -121,6 +121,8 @@ http://77.235.1.17/kvn_tv/index.m3u8
 rtmp://5.182.229.90//7142
 #EXTINF:-1 ,ТНТ
 http://77.235.1.17/tnt/index.m3u8
+#EXTINF:-1 ,ТНТ
+https://37.77.9.102/live/38.m3u8
 #EXTINF:-1 ,ТНТ
 http://94.230.128.105:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ4
@@ -136,11 +138,11 @@ http://dmi3y-tv.ru/hls/T2/CH_STSHD.m3u8
 #EXTINF:-1 ,СТС
 http://77.235.1.17/sts/index.m3u8
 #EXTINF:-1 ,СТС International
-http://112.72.4.108/live/disk1/STS/HLS-FTA/STS.m3u8
+http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
-http://dmi3y-tv.ru/hls/CH_STSLOVE.m3u8
+http://193.242.204.28:10140/140
 #EXTINF:-1 ,СТС Love
-http://185.223.125.136:1984/play/ctclove/index.m3u8
+http://217.113.16.2/stslove/index.m3u8
 #EXTINF:-1 ,tvg-id="tvoetv",Твоё ТВ
 #http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
 #EXTINF:-1 ,tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
@@ -168,7 +170,7 @@ http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
 #EXTINF:-1 ,ПЯТНИЦА
 http://91.194.191.241:8081/chid14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница! International
-http://112.72.4.108/live/disk1/Friday/HLS-FTA/Friday.m3u8
+http://112.72.4.116/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
 http://91.224.169.250:5000/c23
 #EXTINF:-1 ,АВТО 24
@@ -199,7 +201,7 @@ http://82.215.111.249/1427/mono.m3u8
 #EXTINF:-1 ,Усадьба
 http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
 #EXTINF:-1 ,Бобёр
-http://112.72.4.108/live/disk1/Bober/HLS-FTA/Bober.m3u8
+http://112.72.4.116/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
 http://109.200.130.123:7537/play/a02c
 #EXTINF:-1 ,Загородная жизнь
@@ -307,7 +309,7 @@ http://91.194.191.241:8081/chid466/mono.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
 http://193.242.204.28:10194/194
 #EXTINF:-1 ,ТНТ Music
-http://93.189.224.24/TNTMusic/index.m3u8
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 ,МузТВ
 http://hls127.homeiptv.org:8880/MUZ_TV/video.m3u8
 #EXTINF:-1 ,Ля-минор
@@ -325,9 +327,9 @@ http://91.194.191.241:8081/chid466/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Bridge TV
 http://91.194.191.241:8081/chid90/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Bridge TV CLASSIC
-http://185.223.125.136:1984/play/a05n/index.m3u8
+http://45.159.74.14/BRIDGETVClassic/mono.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
-http://185.223.125.136:1984/play/Rusong/index.m3u8
+http://45.159.74.14/Channel_115/mono.m3u8
 #EXTINF:-1 ,Europa Plus TV
 http://77.235.1.17/europa_plus/index.m3u8
 #EXTINF:-1 ,RU.TV
@@ -419,7 +421,7 @@ http://91.224.169.250:5000/c11
 #EXTINF:-1 ,Комедия
 http://80.94.225.126:8080/Komedia/mono.m3u8?token=test
 #EXTINF:-1 ,Viju TV1000
-http://185.223.125.136:1984/play/TV1000/index.m3u8
+http://5.9.11.197:57419/chu-103/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
@@ -503,7 +505,7 @@ http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 #EXTINF:-1 ,Cartoonito
 http://45.159.74.14/Channel_120/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Cartoon Network
-http://112.72.4.108/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+http://112.72.4.116/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 ,Re TV
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 ,TV Jūrmala
