@@ -53,8 +53,7 @@ http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 #EXTINF:-1 ,ТВЦ
 http://77.235.1.17/tvcentr/index.m3u8
 #EXTINF:-1 ,ТВЦ
-http://80.94.225.126:8080/TVCentr/mono.m3u8?token=test
-#http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 http://91.194.191.241:8081/chid444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ОТР
@@ -252,7 +251,7 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
 http://91.205.199.3/sovershennosekretno/index.m3u8
 #EXTINF:-1 ,Совершенно секретно
-http://hls127.homeiptv.org:8880/Sovershenno_Sekretno/video.m3u8
+http://178.124.152.238:8088/sovsec
 #EXTINF:-1 ,Кто Есть Кто
 http://93.125.121.75:80/Ktoestkto/index.m3u8?token=test
 #EXTINF:-1 ,Вопросы и ответы
@@ -282,11 +281,11 @@ http://82.215.111.249/1043/mono.m3u8
 #EXTINF:-1 ,Наука
 http://91.224.169.250:5000/c2
 #EXTINF:-1 ,Viasat Explore
-http://80.94.225.126:8080/ViasatExplore/mono.m3u8?token=test
+http://dmi3y-tv.ru/hls/CH_VIASATEXPLORE.m3u8
 #EXTINF:-1 ,Viasat History
-http://80.94.225.126:8080/ViasatHistory/mono.m3u8?token=test
+http://dmi3y-tv.ru/hls/CH_VIASATHISTORY.m3u8
 #EXTINF:-1 ,Viasat Nature
-http://80.94.225.126:8080/ViasatNature/mono.m3u8?token=test
+http://dmi3y-tv.ru/hls/CH_VIASATNATURE.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -314,7 +313,7 @@ http://193.242.204.28:10194/194
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 ,МузТВ
-http://hls127.homeiptv.org:8880/MUZ_TV/video.m3u8
+http://45.159.74.14/MuzTv/mono.m3u8
 #EXTINF:-1 ,Ля-минор
 http://93.189.224.24/LaMinor/index.m3u8
 #EXTINF:-1 ,Bridge TV Шлягер
@@ -378,9 +377,9 @@ http://45.159.74.13/Kinokhit/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://77.235.1.17/kino_tv/index.m3u8
 #EXTINF:-1 ,Кино ТВ
-http://193.242.190.6:8099/88/index.m3u8
+http://5.9.11.197:57419/chu-117/mpegts
 #EXTINF:-1 ,Кинопремьера
-http://80.94.225.126:8080/Kinopremyera/mono.m3u8?token=test
+http://45.159.74.13/Kinopremera/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://91.224.169.250:5000/c28
 #EXTINF:-1 ,КИНОМИКС
@@ -390,7 +389,7 @@ http://82.215.111.249/1047/mono.m3u8
 #EXTINF:-1 ,Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://193.242.204.28:10075/75
+http://5.9.11.197:57419/chu-135/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://91.194.191.241:8081/chid75/mono.m3u8
 #EXTINF:-1 ,Русский детектив
@@ -414,7 +413,7 @@ rtmp://5.182.229.90//7347
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://77.235.1.17/mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
-http://hls127.homeiptv.org:8880/Red/video.m3u8
+http://5.9.11.197:57419/chu-97/index.m3u8
 #EXTINF:-1 ,.Black
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Индия
@@ -422,7 +421,7 @@ https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
 http://91.224.169.250:5000/c11
 #EXTINF:-1 ,Комедия
-http://80.94.225.126:8080/Komedia/mono.m3u8?token=test
+http://91.194.191.241:8081/chid80/mono.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://5.9.11.197:57419/chu-103/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
@@ -486,11 +485,11 @@ http://85.192.10.173/MamontRu/mono.m3u8
 #EXTINF:-1 ,Солнце
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:-1 ,Da Vinci
-http://hls127.homeiptv.org:8880/Da_Vinci_Learning/video.m3u8
+http://dmi3y-tv.ru/hls/CH_DAVINCI.m3u8
 #EXTINF:-1 ,Мультимания
 http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
-http://80.94.225.126:8080/Mama/mono.m3u8?token=test
+http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
 #EXTINF:-1 ,Мультиландия
 http://dmi3y-tv.ru/hls/CH_MULTILANDIYA.m3u8
 #EXTINF:-1 ,В гостях у сказки
@@ -521,6 +520,3 @@ http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 http://194.204.46.137:80/live/eds/TV6_LT_SD/GO3_LIVE_HLS/TV6_LT_SD.m3u8
 #EXTINF:-1 ,TV3 LT
 http://194.204.46.137:80/live/eds/TV3_LT_SD/GO3_LIVE_HLS/TV3_LT_SD.m3u8
-#EXTINF:-1 , Зал суда
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd116.iptv2022.com/p/gLYAXOOXXOTrHeKskLTqvQ,1730365210/streaming/zal_suda/324/1/index.m3u8
