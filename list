@@ -287,17 +287,15 @@ http://dmi3y-tv.ru/hls/CH_VIASATHISTORY.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://dmi3y-tv.ru/hls/CH_VIASATNATURE.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
-http://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
+http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 ,Охота и рыбалка
 http://82.215.111.249/1038/mono.m3u8
 #EXTINF:-1 ,Дикий
 http://91.224.169.250:5000/c160
 #EXTINF:-1 ,Дикая охота
 http://185.23.80.28:8080/Dikaya_Ohota/index.m3u8?token=test
-#http://176.222.191.62/btv/live/hls/000004609.m3u8
 #EXTINF:-1 ,Дикая рыбалка
 http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=test
-#http://176.222.191.62/btv/live/hls/000004610.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
 http://91.224.169.250:5000/c25
 #EXTINF:-1 ,TERRA
