@@ -275,7 +275,9 @@ http://91.224.169.250:5000/c161
 #EXTINF:-1 ,Investigation Discovery
 http://91.224.169.250:5000/c163
 #EXTINF:-1 ,History
-http://sc.id-tv.kz/HistoryHD_36_37.m3u8
+http://45.159.74.14/Channel_123/mono.m3u8
+#EXTINF:-1 ,History
+http://77.235.1.17/history/index.m3u8
 #EXTINF:-1 ,National Geographic
 rtmp://5.182.229.90//7320
 #EXTINF:-1 ,Animal Planet
