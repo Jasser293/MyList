@@ -501,7 +501,7 @@ http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
 #EXTINF:-1 ,Мультиландия
 http://dmi3y-tv.ru/hls/CH_MULTILANDIYA.m3u8
 #EXTINF:-1 ,В гостях у сказки
-http://82.215.111.249/1270/mono.m3u8
+http://91.194.191.241:8081/chid61/mono.m3u8
 #EXTINF:-1 ,Капитан Фантастика
 http://82.215.111.249/1406/mono.m3u8
 #EXTINF:-1 ,Мульт
