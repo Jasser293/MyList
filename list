@@ -70,7 +70,7 @@ http://46.254.94.238/rtv/0.m3u8
 #EXTINF:-1 ,Неизвестная Россия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/unknown_russia/mono.m3u8
-#EXTINF:-1 ,Своё
+#EXTINF:-1 ,Своё ТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Известия
@@ -170,9 +170,9 @@ https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1 ,Ю
 http://91.224.169.250:5000/c75
 #EXTINF:-1 ,ДОМАШНИЙ
-http://93.125.121.75:80/Domashniy/index.m3u8?token=test
+http://50.7.92.98:8887/8062/video.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
-http://193.242.204.28:10018/18
+http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,ПЯТНИЦА
 http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
 #EXTINF:-1 ,ПЯТНИЦА
@@ -213,7 +213,9 @@ http://112.72.4.116/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
 http://109.200.130.123:7537/play/a02c
 #EXTINF:-1 ,Загородная жизнь
-http://93.125.121.75:80/ZagorodnayaZhizn/index.m3u8?token=test
+http://195.26.83.96:7007/play/10/index.m3u8
+#EXTINF:-1 ,Загородный
+http://94.230.128.105:8080/Zagorodnyi/index.m3u8
 #EXTINF:-1 ,Доктор
 http://91.194.191.241:8081/chid117/mono.m3u8
 #EXTINF:-1 ,Доктор
@@ -259,7 +261,7 @@ http://91.205.199.3/sovershennosekretno/index.m3u8
 #EXTINF:-1 ,Совершенно секретно
 http://178.124.152.238:8088/sovsec
 #EXTINF:-1 ,Кто Есть Кто
-http://93.125.121.75:80/Ktoestkto/index.m3u8?token=test
+http://50.7.92.98:8887/8105/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://82.215.111.249/1429/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
@@ -343,7 +345,7 @@ http://45.159.74.14/Channel_115/mono.m3u8
 #EXTINF:-1 ,Europa Plus TV
 http://77.235.1.17/europa_plus/index.m3u8
 #EXTINF:-1 ,RU.TV
-http://93.125.121.75:80/RuTV/index.m3u8?token=test
+http://50.7.92.98:8887/8185/video.m3u8
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Теледом ТВ
@@ -414,7 +416,7 @@ http://91.194.191.241:8081/chid66/mono.m3u8
 #EXTINF:-1 ,BollywooD
 http://91.224.169.250:5000/c155
 #EXTINF:-1 ,HollywooD
-http://93.125.121.75:80/Hollywood/index.m3u8?token=test
+http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 ,НСТ
 http://77.235.1.17/nst/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
@@ -510,7 +512,7 @@ http://dmi3y-tv.ru/hls/CH_MULT.m3u8
 #EXTINF:-1 ,Tiji
 http://dmi3y-tv.ru/hls/CH_TIJI.m3u8
 #EXTINF:-1 ,Gulli Girl
-http://93.125.121.75:80/GulliGirl/index.m3u8?token=test
+http://50.7.92.98:8887/8097/video.m3u8
 #EXTINF:-1 ,Карусель
 https://37.77.9.101/live/232.m3u8
 #EXTINF:-1 ,Cartoonito
