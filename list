@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml,https://iptvx.one/epg/epg_lite.xml.gz"
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1 ,Первый канал
