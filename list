@@ -110,7 +110,7 @@ http://193.242.204.28:10160/160
 #EXTINF:-1 ,Оружие
 http://dmi3y-tv.ru/hls/CH_ORUZHIE.m3u8
 #EXTINF:-1 ,Арсенал
-http://82.215.111.249/1414/mono.m3u8
+http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 ,Ратник
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -188,9 +188,11 @@ http://77.235.1.17/avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://91.194.191.241:8081/chid104/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Авто плюс
-http://82.215.111.249/1036/mono.m3u8
+http://50.7.92.98:8887/8095/video.m3u8
+#http://82.215.111.249/1036/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
-http://82.215.111.249/1421/mono.m3u8
+http://77.235.1.17/drive/index.m3u8
+#http://82.215.111.249/1421/mono.m3u8
 #EXTINF:-1 ,Мужской
 http://86.57.198.251:8181/play/1036/index.m3u8
 #EXTINF:-1 ,Кто Куда
@@ -205,7 +207,8 @@ http://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
-http://82.215.111.249/1427/mono.m3u8
+http://50.7.92.98:8887/8017/video.m3u8
+#http://82.215.111.249/1427/mono.m3u8
 #EXTINF:-1 ,Усадьба
 http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
 #EXTINF:-1 ,Бобёр
@@ -223,17 +226,19 @@ http://50.7.92.98:8887/8214/video.m3u8
 #EXTINF:-1 ,Доктор
 http://dmi3y-tv.ru/hls/CH_DOKTOR.m3u8
 #EXTINF:-1 ,Здоровое ТВ
-http://82.215.111.249/1428/mono.m3u8
+http://50.7.92.98:8887/8127/video.m3u8
+#http://82.215.111.249/1428/mono.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://91.194.191.241:8081/chid267/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Тонус 
 http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 ,Живи
-http://82.215.111.249/1419/mono.m3u8
+http://91.194.191.241:8081/chid275/tracks-v1a1/mono.m3u8
+#http://82.215.111.249/1419/mono.m3u8
 #EXTINF:-1 ,Кухня ТВ
 http://91.224.169.250:5000/c27
 #EXTINF:-1 ,КУХНЯ ТВ
-http://82.215.111.249/1236/mono.m3u8
+http://45.159.74.14/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,Аппетитный
 #http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,FOOD TIME
@@ -263,9 +268,9 @@ http://178.124.152.238:8088/sovsec
 #EXTINF:-1 ,Кто Есть Кто
 http://50.7.92.98:8887/8105/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-http://82.215.111.249/1429/mono.m3u8
-#EXTINF:-1 ,Вопросы и ответы
 http://91.224.169.250:5000/c40
+#EXTINF:-1 ,Вопросы и ответы
+https://89.39.107.10/live/voprosyiotvety.stream/playlist.m3u8
 #EXTINF:-1 ,Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Союз
@@ -299,7 +304,7 @@ http://dmi3y-tv.ru/hls/CH_VIASATNATURE.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 ,Охота и рыбалка
-http://82.215.111.249/1038/mono.m3u8
+http://91.224.169.250:5000/c34
 #EXTINF:-1 ,Дикий
 http://91.224.169.250:5000/c160
 #EXTINF:-1 ,Дикая охота
@@ -379,9 +384,9 @@ http://77.235.1.17/amedia_hit/index.m3u8
 #EXTINF:-1 ,Amedia Premium
 http://77.235.1.17/amedia_premium/index.m3u8
 #EXTINF:-1 ,КИНОХИТ
-http://82.215.111.249/1055/mono.m3u8
-#EXTINF:-1 ,КИНОХИТ
 rtmp://5.182.229.90//7250
+#EXTINF:-1 ,КИНОХИТ
+http://93.189.224.24/Kinohit/index.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://45.159.74.13/Kinokhit/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
@@ -395,7 +400,7 @@ http://91.224.169.250:5000/c28
 #EXTINF:-1 ,КИНОМИКС
 http://93.189.224.24/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
-http://82.215.111.249/1047/mono.m3u8
+https://89.39.107.10/live/retrotv.stream/playlist.m3u8
 #EXTINF:-1 ,Тайна
 http://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m3u8
 #EXTINF:-1 ,Русский бестселлер
@@ -442,15 +447,15 @@ http://91.194.191.241:8081/chid78/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://77.235.1.17/rodnoe_kino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
-http://82.215.111.249/1232/mono.m3u8
+http://93.189.224.24/Kinokomediya/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 rtmp://5.182.229.90//7248
 #EXTINF:-1 ,Киномикс
 rtmp://5.182.229.90//7249
 #EXTINF:-1 ,Киносемья
-http://82.215.111.249/1234/mono.m3u8
+http://50.7.92.98:8887/8047/video.m3u8
 #EXTINF:-1 ,Киносерия
-http://82.215.111.249/1235/mono.m3u8
+http://93.189.224.24/Kinoseriya/index.m3u8
 #EXTINF:-1 ,Душевное
 http://77.235.1.17/nash_kinoroman_hd/index.m3u8
 #EXTINF:-1 ,Романтичное
@@ -484,7 +489,7 @@ http://193.242.204.28:10099/99
 #EXTINF:-1 ,Матч! Футбол 1 HD
 http://s1.merlive.am:80/matchfutbol1/index.m3u8
 #EXTINF:-1 ,KHL
-http://82.215.111.249/1028/mono.m3u8
+http://93.189.224.24/KHL/index.m3u8
 #EXTINF:-1 ,KHL Prime
 http://87.250.254.45/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 ,Tennis Channel
