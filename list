@@ -33,7 +33,8 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 ,Россия 1
-http://player.smotrim.ru/iframe/stream/live_id/2961
+http://50.7.92.98:8887/8152/video.m3u8
+#http://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 ,Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-sd/index.m3u8
 #http://193.242.204.28:10002/2
