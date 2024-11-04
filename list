@@ -466,6 +466,8 @@ http://77.235.1.17/nashe_novoe_kino/index.m3u8
 rtmp://5.182.229.90//7222
 #EXTINF:-1 ,Страшное
 rtmp://5.182.229.90//7247
+#EXTINF:-1 ,Шокирующее
+http://50.7.92.98:8887/8322/video.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://s1.merlive.am:80/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 1
