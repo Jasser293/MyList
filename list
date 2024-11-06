@@ -398,7 +398,7 @@ http://45.159.74.13/Kinopremera/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://91.224.169.250:5000/c28
 #EXTINF:-1 ,КИНОМИКС
-http://93.189.224.24/Kinomiks/index.m3u8
+http://77.235.1.17/kinomix/index.m3u8
 #EXTINF:-1 ,Ретро
 https://89.39.107.10/live/retrotv.stream/playlist.m3u8
 #EXTINF:-1 ,Тайна
@@ -447,7 +447,7 @@ http://91.194.191.241:8081/chid78/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://77.235.1.17/rodnoe_kino/index.m3u8
 #EXTINF:-1 ,КИНОКОМЕДИЯ
-http://93.189.224.24/Kinokomediya/index.m3u8
+http://91.194.191.241:8081/chid406/mono.m3u8
 #EXTINF:-1 ,Кинокомедия
 rtmp://5.182.229.90//7248
 #EXTINF:-1 ,Киномикс
@@ -455,7 +455,7 @@ rtmp://5.182.229.90//7249
 #EXTINF:-1 ,Киносемья
 http://50.7.92.98:8887/8047/video.m3u8
 #EXTINF:-1 ,Киносерия
-http://93.189.224.24/Kinoseriya/index.m3u8
+http://193.242.204.28:10048/48
 #EXTINF:-1 ,Душевное
 http://77.235.1.17/nash_kinoroman_hd/index.m3u8
 #EXTINF:-1 ,Романтичное
