@@ -33,14 +33,13 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 ,Россия 1
-http://50.7.92.98:8887/8152/video.m3u8
-#http://player.smotrim.ru/iframe/stream/live_id/2961
+http://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 ,Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-sd/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://91.194.191.241:8081/chid6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия К
-http://50.7.92.98:8887/8072/video.m3u8
+http://65.21.85.175:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 ,Россия К
 http://185.23.80.28:8080/RossiyaK/index.m3u8?token=test
 #EXTINF:-1 ,РЕН ТВ
@@ -169,6 +168,8 @@ https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1 ,Ю
 http://91.224.169.250:5000/c75
 #EXTINF:-1 ,ДОМАШНИЙ
+http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
+#EXTINF:-1 ,ДОМАШНИЙ
 http://50.7.92.98:8887/8062/video.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://130.193.73.10:8937/play/a008
@@ -187,11 +188,9 @@ http://77.235.1.17/avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://91.194.191.241:8081/chid104/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Авто плюс
-http://50.7.92.98:8887/8095/video.m3u8
-#http://82.215.111.249/1036/mono.m3u8
+http://82.215.111.227/1036/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://77.235.1.17/drive/index.m3u8
-#http://82.215.111.249/1421/mono.m3u8
 #EXTINF:-1 ,Мужской
 http://86.57.198.251:8181/play/1036/index.m3u8
 #EXTINF:-1 ,Кто Куда
@@ -206,8 +205,7 @@ http://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
-http://50.7.92.98:8887/8017/video.m3u8
-#http://82.215.111.249/1427/mono.m3u8
+http://178.124.179.122:8088/Usadba/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
 #EXTINF:-1 ,Бобёр
@@ -221,12 +219,11 @@ http://94.230.128.105:8080/Zagorodnyi/index.m3u8
 #EXTINF:-1 ,Доктор
 http://91.194.191.241:8081/chid117/mono.m3u8
 #EXTINF:-1 ,Доктор
-http://50.7.92.98:8887/8214/video.m3u8
+http://82.215.111.227/1409/index.m3u8
 #EXTINF:-1 ,Доктор
 http://dmi3y-tv.ru/hls/CH_DOKTOR.m3u8
 #EXTINF:-1 ,Здоровое ТВ
-http://50.7.92.98:8887/8127/video.m3u8
-#http://82.215.111.249/1428/mono.m3u8
+http://82.215.111.227/1428/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://91.194.191.241:8081/chid267/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Тонус 
