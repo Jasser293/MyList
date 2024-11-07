@@ -37,7 +37,6 @@ http://50.7.92.98:8887/8152/video.m3u8
 #http://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 ,Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-sd/index.m3u8
-#http://193.242.204.28:10002/2
 #EXTINF:-1 ,РОССИЯ 24
 http://91.194.191.241:8081/chid6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия К
@@ -106,7 +105,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://91.224.169.250:5000/c80
 #EXTINF:-1 ,Оружие
-http://193.242.204.28:10160/160
+http://50.7.92.98:8887/8206/video.m3u8
 #EXTINF:-1 ,Оружие
 http://dmi3y-tv.ru/hls/CH_ORUZHIE.m3u8
 #EXTINF:-1 ,Арсенал
@@ -148,7 +147,7 @@ http://77.235.1.17/sts/index.m3u8
 #EXTINF:-1 ,СТС International
 http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
-http://193.242.204.28:10140/140
+http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://217.113.16.2/stslove/index.m3u8
 #EXTINF:-1 ,tvg-id="tvoetv",Твоё ТВ
@@ -264,7 +263,7 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
 http://50.7.92.98:8887/8073/video.m3u8
 #EXTINF:-1 ,Совершенно секретно
-http://195.181.175.132:88/s/s-0194f550/sovershenno-sekretno.m3u8
+http://178.124.152.238:8088/sovsec
 #EXTINF:-1 ,Кто Есть Кто
 http://50.7.92.98:8887/8105/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
@@ -324,7 +323,7 @@ http://91.194.191.241:8081/chid466/mono.m3u8
 #EXTINF:-1 ,MTV 
 http://50.7.92.98:8887/8137/index.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
-http://193.242.204.28:10194/194
+http://45.159.74.14/Channel_115/mono.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 ,МузТВ
@@ -362,7 +361,7 @@ http://91.194.191.241:8081/chid235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
 #http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
-http://193.242.204.28:10056/56
+http://109.200.130.123:7537/play/a028
 #EXTINF:-1 ,2x2
 http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 ,2x2
@@ -409,7 +408,6 @@ http://130.193.73.10:8937/play/a03l
 http://91.194.191.241:8081/chid75/mono.m3u8
 #EXTINF:-1 ,Русский детектив
 http://130.193.73.10:8937/play/a03o
-#http://193.242.204.28:10077/77
 #EXTINF:-1 ,Русский детектив
 http://91.224.169.250:5000/c12
 #EXTINF:-1 ,Русский иллюзион
@@ -429,7 +427,7 @@ rtmp://5.182.229.90//7347
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://77.235.1.17/mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
-http://193.242.204.28:10085/85
+http://178.124.152.238:8088/sony
 #EXTINF:-1 ,.Black
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Индия
@@ -455,7 +453,7 @@ rtmp://5.182.229.90//7249
 #EXTINF:-1 ,Киносемья
 http://50.7.92.98:8887/8047/video.m3u8
 #EXTINF:-1 ,Киносерия
-http://193.242.204.28:10048/48
+http://50.7.92.98:8887/8043/video.m3u8
 #EXTINF:-1 ,Душевное
 http://77.235.1.17/nash_kinoroman_hd/index.m3u8
 #EXTINF:-1 ,Романтичное
@@ -487,7 +485,7 @@ http://91.224.169.250:5000/c32
 #EXTINF:-1 ,Матч! БОЕЦ
 http://91.194.191.241:8081/chid143/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://193.242.204.28:10099/99
+http://91.224.169.250:5000/c33
 #EXTINF:-1 ,Матч! Футбол 1 HD
 http://s1.merlive.am:80/matchfutbol1/index.m3u8
 #EXTINF:-1 ,KHL
