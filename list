@@ -260,7 +260,7 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
 http://50.7.92.98:8887/8073/video.m3u8
 #EXTINF:-1 ,Совершенно секретно
-http://178.124.152.238:8088/sovsec
+http://91.194.191.241:8081/chid432/mono.m3u8
 #EXTINF:-1 ,Кто Есть Кто
 http://50.7.92.98:8887/8105/video.m3u8
 #EXTINF:-1 ,Вопросы и ответы
@@ -424,7 +424,7 @@ rtmp://5.182.229.90//7347
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://77.235.1.17/mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
-http://178.124.152.238:8088/sony
+http://91.194.191.241:8081/chid85/mono.m3u8
 #EXTINF:-1 ,.Black
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Индия
