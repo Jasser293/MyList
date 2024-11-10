@@ -148,7 +148,7 @@ http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://217.113.16.2/stslove/index.m3u8
+http://50.7.92.98:8887/8174/video.m3u8
 #EXTINF:-1 ,tvg-id="tvoetv",Твоё ТВ
 #http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
 #EXTINF:-1 ,tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
@@ -464,13 +464,13 @@ rtmp://5.182.229.90//7247
 #EXTINF:-1 ,Шокирующее
 http://50.7.92.98:8887/8322/video.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://s1.merlive.am:80/eurosport1/index.m3u8
+http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://91.224.169.250:5000/c167
 #EXTINF:-1 ,Eurosport 2
 rtmp://5.182.229.90//7203
 #EXTINF:-1 ,Eurosport 2
-http://s1.merlive.am:80/eurosport2/index.m3u8
+http://77.235.1.17/eurosport_2/index.m3u8
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
 http://45.159.74.13/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
@@ -483,8 +483,12 @@ http://91.224.169.250:5000/c32
 http://91.194.191.241:8081/chid143/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://91.224.169.250:5000/c33
-#EXTINF:-1 ,Матч! Футбол 1 HD
-http://s1.merlive.am:80/matchfutbol1/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 1
+http://50.7.92.98:8887/8236/video.m3u8
+#EXTINF:-1 ,Матч! Футбол 2
+http://50.7.92.98:8887/8237/video.m3u8
+#EXTINF:-1 ,Матч! Футбол 3
+http://50.7.92.98:8887/8238/video.m3u8
 #EXTINF:-1 ,KHL
 http://93.189.224.24/KHL/index.m3u8
 #EXTINF:-1 ,KHL Prime
