@@ -211,7 +211,7 @@ http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
 #EXTINF:-1 ,Бобёр
 http://112.72.4.116/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
-http://109.200.130.123:7537/play/a02c
+http://50.7.92.98:8887/8172/video.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 ,Загородный
@@ -310,7 +310,7 @@ http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=test
 #EXTINF:-1 ,365 ДНЕЙ
 http://91.224.169.250:5000/c25
 #EXTINF:-1 ,TERRA
-http://109.200.130.123:7537/play/a02i
+http://130.193.73.10:8937/play/a01g
 #EXTINF:-1 ,1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
@@ -358,7 +358,7 @@ http://91.194.191.241:8081/chid235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
 #http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Сапфир
-http://109.200.130.123:7537/play/a028
+http://130.193.73.10:8937/play/a01e
 #EXTINF:-1 ,2x2
 http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 ,2x2
@@ -416,7 +416,7 @@ http://91.194.191.241:8081/chid66/mono.m3u8
 #EXTINF:-1 ,BollywooD
 http://91.224.169.250:5000/c155
 #EXTINF:-1 ,HollywooD
-http://109.200.130.123:7537/play/a02g
+http://91.194.191.241:8081/chid421/mono.m3u8
 #EXTINF:-1 ,НСТ
 http://77.235.1.17/nst/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
@@ -426,9 +426,9 @@ http://77.235.1.17/mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
 http://91.194.191.241:8081/chid85/mono.m3u8
 #EXTINF:-1 ,.Black
-http://109.200.130.123:7537/play/a02s
+http://185.50.148.2:7703/Sony_Turbo/index.m3u8
 #EXTINF:-1 ,Индия
-https://stream01.vnet.am/ZeeTV/mono.m3u8
+http://45.159.74.14/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
 http://91.224.169.250:5000/c11
 #EXTINF:-1 ,Комедия
