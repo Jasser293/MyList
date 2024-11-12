@@ -382,7 +382,7 @@ http://77.235.1.17/amedia_premium/index.m3u8
 #EXTINF:-1 ,КИНОХИТ
 rtmp://5.182.229.90//7250
 #EXTINF:-1 ,КИНОХИТ
-http://93.189.224.24/Kinohit/index.m3u8
+http://50.7.92.98:8887/8039/video.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://45.159.74.13/Kinokhit/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
