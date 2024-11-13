@@ -104,7 +104,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://91.224.169.250:5000/c80
 #EXTINF:-1 ,Оружие
-http://50.7.92.98:8887/8206/video.m3u8
+http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://dmi3y-tv.ru/hls/CH_ORUZHIE.m3u8
 #EXTINF:-1 ,Арсенал
@@ -148,7 +148,7 @@ http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://50.7.92.98:8887/8174/video.m3u8
+http://5.134.87.10:8000/play/ViasatSport/index.m3u8
 #EXTINF:-1 ,tvg-id="tvoetv",Твоё ТВ
 #http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
 #EXTINF:-1 ,tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
@@ -170,7 +170,7 @@ http://91.224.169.250:5000/c75
 #EXTINF:-1 ,ДОМАШНИЙ
 http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
 #EXTINF:-1 ,ДОМАШНИЙ
-http://50.7.92.98:8887/8062/video.m3u8
+http://193.242.190.6:8099/14/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,ПЯТНИЦА
@@ -211,7 +211,7 @@ http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
 #EXTINF:-1 ,Бобёр
 http://112.72.4.116/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
-http://50.7.92.98:8887/8172/video.m3u8
+http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 ,Загородный
@@ -258,11 +258,11 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://50.7.92.98:8887/8073/video.m3u8
+http://178.124.152.238:8088/sovsec
 #EXTINF:-1 ,Совершенно секретно
 http://91.194.191.241:8081/chid432/mono.m3u8
 #EXTINF:-1 ,Кто Есть Кто
-http://50.7.92.98:8887/8105/video.m3u8
+http://91.224.169.250:5000/c26
 #EXTINF:-1 ,Вопросы и ответы
 http://91.224.169.250:5000/c40
 #EXTINF:-1 ,Вопросы и ответы
@@ -317,8 +317,6 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
 #EXTINF:-1 ,Bridge TV Classic
 http://91.194.191.241:8081/chid466/mono.m3u8
-#EXTINF:-1 ,MTV 
-http://50.7.92.98:8887/8137/index.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
 http://45.159.74.14/Channel_115/mono.m3u8
 #EXTINF:-1 ,ТНТ Music
@@ -346,7 +344,7 @@ http://45.159.74.14/Channel_115/mono.m3u8
 #EXTINF:-1 ,Europa Plus TV
 http://77.235.1.17/europa_plus/index.m3u8
 #EXTINF:-1 ,RU.TV
-http://50.7.92.98:8887/8185/video.m3u8
+http://65.21.85.175:8000/play/a00q/index.m3u8?token=livetv
 #EXTINF:-1 ,Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Теледом ТВ
@@ -382,7 +380,7 @@ http://77.235.1.17/amedia_premium/index.m3u8
 #EXTINF:-1 ,КИНОХИТ
 rtmp://5.182.229.90//7250
 #EXTINF:-1 ,КИНОХИТ
-http://50.7.92.98:8887/8039/video.m3u8
+http://77.235.1.17/kinohit/index.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://45.159.74.13/Kinokhit/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
@@ -448,9 +446,9 @@ rtmp://5.182.229.90//7248
 #EXTINF:-1 ,Киномикс
 rtmp://5.182.229.90//7249
 #EXTINF:-1 ,Киносемья
-http://50.7.92.98:8887/8047/video.m3u8
+http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 ,Киносерия
-http://50.7.92.98:8887/8043/video.m3u8
+http://77.235.1.17/kinoseria/index.m3u8
 #EXTINF:-1 ,Душевное
 http://77.235.1.17/nash_kinoroman_hd/index.m3u8
 #EXTINF:-1 ,Романтичное
@@ -461,8 +459,6 @@ http://77.235.1.17/nashe_novoe_kino/index.m3u8
 rtmp://5.182.229.90//7222
 #EXTINF:-1 ,Страшное
 rtmp://5.182.229.90//7247
-#EXTINF:-1 ,Шокирующее
-http://50.7.92.98:8887/8322/video.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
@@ -484,11 +480,11 @@ http://91.194.191.241:8081/chid143/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://91.224.169.250:5000/c33
 #EXTINF:-1 ,Матч! Футбол 1
-http://50.7.92.98:8887/8236/video.m3u8
+http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 ,Матч! Футбол 2
-http://50.7.92.98:8887/8237/video.m3u8
+http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 #EXTINF:-1 ,Матч! Футбол 3
-http://50.7.92.98:8887/8238/video.m3u8
+http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
 #EXTINF:-1 ,KHL
 http://93.189.224.24/KHL/index.m3u8
 #EXTINF:-1 ,KHL Prime
@@ -518,7 +514,7 @@ http://dmi3y-tv.ru/hls/CH_MULT.m3u8
 #EXTINF:-1 ,Tiji
 http://dmi3y-tv.ru/hls/CH_TIJI.m3u8
 #EXTINF:-1 ,Gulli Girl
-http://50.7.92.98:8887/8097/video.m3u8
+http://86.57.198.251:8181/play/1091/index.m3u8
 #EXTINF:-1 ,Карусель
 https://37.77.9.101/live/232.m3u8
 #EXTINF:-1 ,Cartoonito
