@@ -136,7 +136,7 @@ http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТНТ4
 http://tv.mediacdn.ru/live/tnt4/playlist.m3u8
 #EXTINF:-1 ,ТВ3
-http://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
+http://91.224.169.250:5000/c315
 #EXTINF:-1 ,ТВ3
 http://77.235.1.17/tv3/index.m3u8
 #EXTINF:-1 ,СТС
@@ -257,8 +257,6 @@ http://91.224.169.250:5000/c1
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
-#EXTINF:-1 ,Совершенно секретно
-http://178.124.152.238:8088/sovsec
 #EXTINF:-1 ,Совершенно секретно
 http://91.194.191.241:8081/chid432/mono.m3u8
 #EXTINF:-1 ,Кто Есть Кто
@@ -516,7 +514,7 @@ http://dmi3y-tv.ru/hls/CH_TIJI.m3u8
 #EXTINF:-1 ,Gulli Girl
 http://86.57.198.251:8181/play/1091/index.m3u8
 #EXTINF:-1 ,Карусель
-https://37.77.9.101/live/232.m3u8
+http://193.242.190.6:8099/8/index.m3u8
 #EXTINF:-1 ,Cartoonito
 http://45.159.74.14/Channel_120/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Cartoon Network
