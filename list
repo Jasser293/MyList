@@ -164,9 +164,9 @@ http://91.224.169.250:5000/c5
 #EXTINF:-1 ,Че!
 http://77.235.1.17/che/index.m3u8
 #EXTINF:-1 ,Ю
-https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
-#EXTINF:-1 ,Ю
 http://91.224.169.250:5000/c75
+#EXTINF:-1 ,Ю
+http://194.143.148.28:8080/U/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
 #EXTINF:-1 ,ДОМАШНИЙ
