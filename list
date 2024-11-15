@@ -104,7 +104,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://91.224.169.250:5000/c80
 #EXTINF:-1 ,Оружие
-http://185.37.150.40:8092/orujie/playlist.m3u8
+http://91.194.191.241:8081/chid115/mono.m3u8
 #EXTINF:-1 ,Оружие
 http://dmi3y-tv.ru/hls/CH_ORUZHIE.m3u8
 #EXTINF:-1 ,Арсенал
@@ -148,7 +148,7 @@ http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://5.134.87.10:8000/play/ViasatSport/index.m3u8
+http://91.224.169.250:5000/c76
 #EXTINF:-1 ,tvg-id="tvoetv",Твоё ТВ
 #http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
 #EXTINF:-1 ,tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
