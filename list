@@ -33,11 +33,12 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 ,Россия 1
-http://player.smotrim.ru/iframe/stream/live_id/2961
+http://178.212.71.253:8002/play/a00w/index.m3u8
+#http://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 ,Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-sd/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
-http://91.194.191.241:8081/chid6/tracks-v1a1/mono.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
 #EXTINF:-1 ,Россия К
 http://65.21.85.175:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 ,Россия К
@@ -45,7 +46,7 @@ http://185.23.80.28:8080/RossiyaK/index.m3u8?token=test
 #EXTINF:-1 ,РЕН ТВ
 http://185.23.80.28:8080/REN/index.m3u8?token=test
 #EXTINF:-1 ,Рен ТВ
-http://91.194.191.241:8081/chid9/tracks-v1a1/mono.m3u8
+http://130.193.73.10:8937/play/a00i
 #EXTINF:-1 ,РЕН ТВ
 http://91.224.169.250:5000/c311
 #EXTINF:-1 ,Рен ТВ International
@@ -55,10 +56,8 @@ http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 http://77.235.1.17/tvcentr/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 ,ТВЦ
-http://91.194.191.241:8081/chid444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ОТР
-http://91.194.191.241:8081/chid163/tracks-v1a1/mono.m3u8
+http://185.50.148.2:7702/OTR/index.m3u8
 #EXTINF:-1 ,Вместе РФ
 http://cdn-01.bonus-tv.ru:80/vmesterf/mono.m3u8
 #EXTINF:-1 ,Москва. Доверие
@@ -89,7 +88,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Russia today
 http://77.235.1.17/rt_doc/index.m3u8
 #EXTINF:-1 ,Russia today
-http://91.194.191.241:8081/chid284/mono.m3u8
+http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Соловьев.Live
@@ -103,8 +102,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 http://91.224.169.250:5000/c80
-#EXTINF:-1 ,Оружие
-http://91.194.191.241:8081/chid115/mono.m3u8
 #EXTINF:-1 ,Оружие
 http://dmi3y-tv.ru/hls/CH_ORUZHIE.m3u8
 #EXTINF:-1 ,Арсенал
@@ -176,7 +173,7 @@ http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,ПЯТНИЦА
 http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
 #EXTINF:-1 ,ПЯТНИЦА
-http://91.194.191.241:8081/chid14/tracks-v1a1/mono.m3u8
+http://193.242.190.6:8099/16/index.m3u8
 #EXTINF:-1 ,Пятница! International
 http://112.72.4.116/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
@@ -186,16 +183,13 @@ http://91.224.169.250:5000/c42
 #EXTINF:-1 ,АВТО 24
 http://77.235.1.17/avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
-http://91.194.191.241:8081/chid104/tracks-v1a1/mono.m3u8
+http://stream2.cinerama.uz/1036/mono.m3u8
 #EXTINF:-1 ,Авто плюс
 http://82.215.111.227/1036/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://77.235.1.17/drive/index.m3u8
 #EXTINF:-1 ,Мужской
 http://86.57.198.251:8181/play/1036/index.m3u8
-#EXTINF:-1 ,Кто Куда
-http://91.194.191.241:8081/chid446/tracks-v1a1/mono.m3u8
-#http://176.222.191.62/btv/live/hls/000001377.m3u8
 #EXTINF:-1 ,Russian Extreme
 http://91.224.169.250:5000/c61
 #EXTINF:-1 ,Motorsport
@@ -217,7 +211,7 @@ http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 ,Загородный
 http://94.230.128.105:8080/Zagorodnyi/index.m3u8
 #EXTINF:-1 ,Доктор
-http://91.194.191.241:8081/chid117/mono.m3u8
+http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Доктор
 http://82.215.111.227/1409/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -225,12 +219,11 @@ http://dmi3y-tv.ru/hls/CH_DOKTOR.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://82.215.111.227/1428/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
-http://91.194.191.241:8081/chid267/tracks-v1a1/mono.m3u8
+http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Тонус 
 http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 ,Живи
-http://91.194.191.241:8081/chid275/tracks-v1a1/mono.m3u8
-#http://82.215.111.249/1419/mono.m3u8
+http://82.215.111.249/1419/mono.m3u8
 #EXTINF:-1 ,Кухня ТВ
 http://91.224.169.250:5000/c27
 #EXTINF:-1 ,КУХНЯ ТВ
@@ -258,7 +251,7 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://91.194.191.241:8081/chid432/mono.m3u8
+http://de.russkoe-iptv.com:88/s/s-0194f550/sovershenno-sekretno.m3u8
 #EXTINF:-1 ,Кто Есть Кто
 http://91.224.169.250:5000/c26
 #EXTINF:-1 ,Вопросы и ответы
@@ -314,7 +307,7 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
 #EXTINF:-1 ,Bridge TV Classic
-http://91.194.191.241:8081/chid466/mono.m3u8
+http://77.235.1.17/bridge_classic/index.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
 http://45.159.74.14/Channel_115/mono.m3u8
 #EXTINF:-1 ,ТНТ Music
@@ -323,18 +316,18 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 http://45.159.74.14/MuzTv/mono.m3u8
 #EXTINF:-1 ,Ля-минор
 http://93.189.224.24/LaMinor/index.m3u8
-#EXTINF:-1 ,Bridge TV Шлягер
-http://91.194.191.241:8081/chid98/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Bridge TV Фрэш
-http://91.194.191.241:8081/chid467/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Bridge TV Русский Хит
-http://91.194.191.241:8081/chid468/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Bridge TV Rock
-http://91.194.191.241:8081/chid475/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Bridge TV Classic
-http://91.194.191.241:8081/chid466/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Bridge TV
-http://91.194.191.241:8081/chid90/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Европа Плюс ТВ HD
+http://185.23.80.28:8080/EuropaHD/index.m3u8?token=test
+#EXTINF:-1 ,BRIDGE TV CLASSIC
+http://185.23.80.28:8080/BRIDGETVCLASSIC/index.m3u8?token=test
+#EXTINF:-1 ,BRIDGE TV ФРЭШ
+http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8?token=test
+#EXTINF:-1 ,BRIDGE TV HITS
+http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
+#EXTINF:-1 ,BRIDGE TV Русский хит
+http://185.23.80.28:8080/BRIDGETVRusskijXit/index.m3u8?token=test
+#EXTINF:-1 ,BRIDGE TV ШЛЯГЕР
+http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test
 #EXTINF:-1 ,Bridge TV CLASSIC
 http://45.159.74.14/BRIDGETVClassic/mono.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
@@ -348,7 +341,7 @@ http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
-http://91.194.191.241:8081/chid235/tracks-v1a1/mono.m3u8
+http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 ,Кино и сериалы
 #http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Кино и сериалы
@@ -398,7 +391,7 @@ http://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac.smil/playlist.m
 #EXTINF:-1 ,Русский бестселлер
 http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 ,Русский бестселлер
-http://91.194.191.241:8081/chid75/mono.m3u8
+http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский детектив
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский детектив
@@ -408,11 +401,11 @@ http://91.224.169.250:5000/c48
 #EXTINF:-1 ,Русский роман
 http://91.224.169.250:5000/c3
 #EXTINF:-1 ,Русский Роман
-http://91.194.191.241:8081/chid66/mono.m3u8
+http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 ,BollywooD
 http://91.224.169.250:5000/c155
 #EXTINF:-1 ,HollywooD
-http://91.194.191.241:8081/chid421/mono.m3u8
+http://82.215.111.227/1443/index.m3u8
 #EXTINF:-1 ,НСТ
 http://77.235.1.17/nst/index.m3u8
 #EXTINF:-1 ,Мосфильм золотая коллекция
@@ -420,7 +413,7 @@ rtmp://5.182.229.90//7347
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://77.235.1.17/mosfilm/index.m3u8
 #EXTINF:-1 ,.Red
-http://91.194.191.241:8081/chid85/mono.m3u8
+http://178.124.152.238:8088/sony
 #EXTINF:-1 ,.Black
 http://185.50.148.2:7703/Sony_Turbo/index.m3u8
 #EXTINF:-1 ,Индия
@@ -428,17 +421,17 @@ http://45.159.74.14/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
 http://91.224.169.250:5000/c11
 #EXTINF:-1 ,Комедия
-http://91.194.191.241:8081/chid80/mono.m3u8
+http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 ,Viju TV1000
 http://86.57.198.251:8181/play/1013/index.m3u8
+#EXTINF:-1 ,TV1000
+http://77.235.1.17/tv1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
-http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
+http://77.235.1.17/tv1000_russkoe_kino/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
-http://91.194.191.241:8081/chid78/tracks-v1a1/mono.m3u8
+http://77.235.1.17/tv1000_action/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://77.235.1.17/rodnoe_kino/index.m3u8
-#EXTINF:-1 ,КИНОКОМЕДИЯ
-http://91.194.191.241:8081/chid406/mono.m3u8
 #EXTINF:-1 ,Кинокомедия
 rtmp://5.182.229.90//7248
 #EXTINF:-1 ,Киномикс
@@ -474,7 +467,7 @@ http://91.224.169.250:5000/c32
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
 #http://95.216.40.210/nashfootball/mono.m3u8
 #EXTINF:-1 ,Матч! БОЕЦ
-http://91.194.191.241:8081/chid143/tracks-v1a1/mono.m3u8
+http://91.224.169.250:5000/c31
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://91.224.169.250:5000/c33
 #EXTINF:-1 ,Матч! Футбол 1
@@ -504,7 +497,7 @@ http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
 #EXTINF:-1 ,Мультиландия
 http://dmi3y-tv.ru/hls/CH_MULTILANDIYA.m3u8
 #EXTINF:-1 ,В гостях у сказки
-http://91.194.191.241:8081/chid61/mono.m3u8
+http://109.200.130.123:7537/play/a02m
 #EXTINF:-1 ,Капитан Фантастика
 http://82.215.111.249/1406/mono.m3u8
 #EXTINF:-1 ,Мульт
