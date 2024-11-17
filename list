@@ -310,10 +310,6 @@ http://130.193.73.10:8937/play/a01g
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
-#EXTINF:-1 ,Bridge TV Classic
-http://77.235.1.17/bridge_classic/index.m3u8
-#EXTINF:-1 ,Bridge TV Русский Хит
-http://45.159.74.14/Channel_115/mono.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 ,МузТВ
@@ -322,6 +318,8 @@ http://45.159.74.14/MuzTv/mono.m3u8
 http://93.189.224.24/LaMinor/index.m3u8
 #EXTINF:-1 ,Европа Плюс ТВ HD
 http://185.23.80.28:8080/EuropaHD/index.m3u8?token=test
+#EXTINF:-1 ,Bridge TV Classic
+http://77.235.1.17/bridge_classic/index.m3u8
 #EXTINF:-1 ,BRIDGE TV CLASSIC
 http://185.23.80.28:8080/BRIDGETVCLASSIC/index.m3u8?token=test
 #EXTINF:-1 ,BRIDGE TV ФРЭШ
@@ -416,8 +414,6 @@ http://77.235.1.17/nst/index.m3u8
 rtmp://5.182.229.90//7347
 #EXTINF:-1 ,Мосфильм золотая коллекция
 http://77.235.1.17/mosfilm/index.m3u8
-#EXTINF:-1 ,.Red
-http://178.124.152.238:8088/sony
 #EXTINF:-1 ,.Black
 http://185.50.148.2:7703/Sony_Turbo/index.m3u8
 #EXTINF:-1 ,Индия
