@@ -448,8 +448,6 @@ http://77.235.1.17/romantichnoe_hd/index.m3u8
 http://77.235.1.17/nashe_novoe_kino/index.m3u8
 #EXTINF:-1 ,Премиальное
 rtmp://5.182.229.90//7222
-#EXTINF:-1 ,Страшное
-rtmp://5.182.229.90//7247
 #EXTINF:-1 ,Eurosport 1
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
