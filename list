@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml,https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://194.143.148.28:8080/PerviyHD/index.m3u8
+http://213.226.137.140:81/tl/l46/mono.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://93.189.224.246:52900/play/a011/index.m3u8
-#http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
+http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
+#http://93.189.224.246:52900/play/a011/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1 ,Первый канал
@@ -171,7 +171,7 @@ http://77.235.1.17/che/index.m3u8
 #EXTINF:-1 ,Ю
 http://91.224.169.250:5000/c75
 #EXTINF:-1 ,Ю
-http://194.143.148.28:8080/U/index.m3u8
+http://213.226.137.140:81/tl/l1006/mono.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
 #EXTINF:-1 ,ДОМАШНИЙ
