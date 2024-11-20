@@ -171,7 +171,7 @@ http://77.235.1.17/che/index.m3u8
 #EXTINF:-1 ,Ю
 http://91.224.169.250:5000/c75
 #EXTINF:-1 ,Ю
-http://213.226.137.140:81/tl/l1006/mono.m3u8
+http://213.226.137.140:81/tl/l1006/mpegts
 #EXTINF:-1 ,ДОМАШНИЙ
 http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
 #EXTINF:-1 ,ДОМАШНИЙ
