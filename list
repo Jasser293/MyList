@@ -93,6 +93,7 @@ http://77.235.1.17/rt_doc/index.m3u8
 #EXTINF:-1 ,Russia today
 http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 ,Соловьев.Live
+#EXTVLCOPT:http-user-agent=Donate BTC
 http://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/63338
 #http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Соловьев.Live
