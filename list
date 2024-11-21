@@ -483,7 +483,8 @@ http://93.189.224.24/KHL/index.m3u8
 #EXTINF:-1 ,KHL Prime
 http://87.250.254.45/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 ,Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 ,Пингвин ТВ
 http://85.192.10.173/PingvinRu/mono.m3u8
 #EXTINF:-1 ,Мамонтенок ТВ
