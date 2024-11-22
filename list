@@ -340,6 +340,8 @@ http://65.21.85.175:8000/play/a00q/index.m3u8?token=livetv
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,VH1 Classic
 http://213.226.137.140:81/tl/l108/mono.m3u8
+#EXTINF:-1 ,MTV
+http://212.102.60.231/MTV/index.m3u8
 #EXTINF:-1 ,MTV 90s
 http://213.226.137.140:81/tl/l109/mono.m3u8
 #EXTINF:-1 ,Теледом ТВ
