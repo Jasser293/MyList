@@ -271,6 +271,8 @@ https://89.39.107.10/live/voprosyiotvety.stream/playlist.m3u8
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 ,МузСоюз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 ,Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Три Ангела
@@ -453,6 +455,8 @@ http://193.242.190.6:8099/37/index.m3u8
 http://213.226.137.140:81/tl/l53/mono.m3u8
 #EXTINF:-1 ,Премиальное
 rtmp://5.182.229.90//7222
+#EXTINF:-1 ,Кошмар
+http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
