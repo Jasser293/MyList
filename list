@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml,https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
-#http://93.189.224.246:52900/play/a011/index.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://213.226.137.140:81/tl/l46/mpegts
 #EXTINF:-1 ,Первый канал
@@ -319,7 +318,7 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 ,МузТВ
 http://45.159.74.14/MuzTv/mono.m3u8
 #EXTINF:-1 ,Ля-минор
-http://93.189.224.24/LaMinor/index.m3u8
+http://flussonic.salomtv.uz/lya_minor/video.m3u8
 #EXTINF:-1 ,Европа Плюс ТВ HD
 http://185.23.80.28:8080/EuropaHD/index.m3u8?token=test
 #EXTINF:-1 ,BRIDGE TV CLASSIC
@@ -333,7 +332,7 @@ http://185.23.80.28:8080/BRIDGETVRusskijXit/index.m3u8?token=test
 #EXTINF:-1 ,BRIDGE TV ШЛЯГЕР
 http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test
 #EXTINF:-1 ,Europa Plus TV
-http://93.189.224.246:52900/play/a00r/index.m3u8
+http://213.226.137.140:81/tl/l89/mpegts
 #EXTINF:-1 ,RU.TV
 http://65.21.85.175:8000/play/a00q/index.m3u8?token=livetv
 #EXTINF:-1 ,Муз Союз
@@ -373,7 +372,7 @@ http://45.143.108.104/AMEDIA2_SD/index.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://213.226.137.140:81/tl/l90/mpegts
 #EXTINF:-1 ,Amedia Premium
-http://93.189.224.24/Amedia_Premium/index.m3u8
+http://45.159.74.14/AmediaPremium/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
 rtmp://5.182.229.90//7250
 #EXTINF:-1 ,КИНОХИТ
@@ -481,7 +480,7 @@ http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 #EXTINF:-1 ,Матч! Футбол 3
 http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
 #EXTINF:-1 ,KHL
-http://93.189.224.24/KHL/index.m3u8
+http://45.159.74.14/Channel_113/mono.m3u8
 #EXTINF:-1 ,KHL Prime
 http://87.250.254.45/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 ,Tennis Channel
