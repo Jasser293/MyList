@@ -348,9 +348,8 @@ http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
 http://str05.tv/7310/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 ,Кино и сериалы
-#http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Кино и сериалы
-#http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Сапфир
 http://130.193.73.10:8937/play/a01e
 #EXTINF:-1 ,2x2
