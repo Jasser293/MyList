@@ -7,7 +7,6 @@ http://213.226.137.140:81/tl/l46/mpegts
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#http://91.224.169.250:5000/c67
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
@@ -50,7 +49,7 @@ http://185.23.80.28:8080/REN/index.m3u8?token=test
 #EXTINF:-1 ,Рен ТВ
 http://130.193.73.10:8937/play/a00i
 #EXTINF:-1 ,РЕН ТВ
-http://91.224.169.250:5000/c311
+http://213.226.137.140:81/tl/l47/mono.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 #http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
@@ -105,10 +104,8 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
-http://91.224.169.250:5000/c80
-#EXTINF:-1 ,Оружие
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd116.iptv2022.com/p/YNmc9SJTPMl-4yaGuKVJQQ,1732395607/streaming/orujie/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/ovPdEM4gh51asx7bGxRcMw,1732309207/streaming/orujie/324/1/index.m3u8
 #EXTINF:-1 ,Оружие
 http://str05.tv/6836/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
 #http://dmi3y-tv.ru/hls/CH_ORUZHIE.m3u8
@@ -117,9 +114,9 @@ http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 ,Ратник
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
-http://91.224.169.250:5000/c305
+http://94.230.128.105:8080/5_kanal/index.m3u8
 #EXTINF:-1 ,Пятый канал
-http://94.230.128.105:8080/5_kanal/mono.m3u8
+http://185.23.80.28:8080/Pyatyj/index.m3u8?token=test
 #EXTINF:-1 ,ЦТВ
 http://88.218.242.237:8000/play/a00t
 #EXTINF:-1 ,Перец
@@ -139,9 +136,9 @@ http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТНТ4
 http://tv.mediacdn.ru/live/tnt4/playlist.m3u8
 #EXTINF:-1 ,ТВ3
-http://91.224.169.250:5000/c315
-#EXTINF:-1 ,ТВ3
 http://213.226.137.140:81/tl/l51/mpegts
+#EXTINF:-1 ,ТВ3
+http://45.159.74.14/Channel_121/mono.m3u8
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STSHD.m3u8
 #EXTINF:-1 ,СТС
@@ -151,7 +148,7 @@ http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://91.224.169.250:5000/c76
+http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 ,tvg-id="tvoetv",Твоё ТВ
 #http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
 #EXTINF:-1 ,tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
@@ -162,15 +159,14 @@ http://dmi3y-tv.ru/hls/CH_TELEKAFE.m3u8
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
 http://130.193.73.10:8937/play/a01v
-#http://dmi3y-tv.ru/hls/CH_SARAFAN.m3u8
 #EXTINF:-1 ,Сарафан
-http://91.224.169.250:5000/c5
+http://dmi3y-tv.ru/hls/CH_SARAFAN.m3u8
 #EXTINF:-1 ,Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 ,Ю
-http://91.224.169.250:5000/c75
-#EXTINF:-1 ,Ю
 http://213.226.137.140:81/tl/l1006/mpegts
+#EXTINF:-1 ,Ю
+http://194.143.148.28:8080/U/mpegts
 #EXTINF:-1 ,ДОМАШНИЙ
 http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
 #EXTINF:-1 ,ДОМАШНИЙ
@@ -184,9 +180,9 @@ http://193.242.190.6:8099/16/index.m3u8
 #EXTINF:-1 ,Пятница! International
 http://112.72.4.116/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
-http://91.224.169.250:5000/c23
+http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 ,АВТО 24
-http://91.224.169.250:5000/c42
+http://185.23.80.28:8080/AVTO24/index.m3u8?token=test
 #EXTINF:-1 ,АВТО 24
 http://82.215.111.249/1430/mono.m3u8
 #EXTINF:-1 ,Авто плюс
@@ -194,11 +190,9 @@ http://213.226.137.140:81/tl/l105/mpegts
 #EXTINF:-1 ,Авто плюс
 http://flussonic.salomtv.uz/Avto_Plus/video.m3u8
 #EXTINF:-1 ,ДРАЙВ
-http://91.224.169.250:5000/c41
+http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 ,Мужской
 http://86.57.198.251:8181/play/1036/index.m3u8
-#EXTINF:-1 ,Russian Extreme
-http://91.224.169.250:5000/c61
 #EXTINF:-1 ,Motorsport
 http://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 #EXTINF:-1 ,MotoR Racing
@@ -224,15 +218,15 @@ http://185.23.80.28:8080/Doktor/index.m3u8?token=test
 #EXTINF:-1 ,Доктор
 http://dmi3y-tv.ru/hls/CH_DOKTOR.m3u8
 #EXTINF:-1 ,Здоровое ТВ
-http://91.224.169.250:5000/c36
-#EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
+#EXTINF:-1 ,Здоровое ТВ
+http://dmi3y-tv.ru/hls/CH_ZDOROVOETV.m3u8
 #EXTINF:-1 ,Тонус 
 http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 ,Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://91.224.169.250:5000/c27
+http://213.226.137.140:81/tl/l65/mono.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://45.159.74.14/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -252,7 +246,7 @@ http://82.215.111.249/1417/mono.m3u8
 #EXTINF:-1 ,Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://91.224.169.250:5000/c1
+http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
@@ -260,9 +254,9 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
 http://s5.merlive.am/sovershennosekretno/index.m3u8
 #EXTINF:-1 ,Кто Есть Кто
-http://91.224.169.250:5000/c26
+https://wowza4.leisertv.com/live/ktoyestkto.stream/playlist.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-http://91.224.169.250:5000/c40
+https://wowza4.leisertv.com/live/voprosyiotvety.stream/playlist.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 https://89.39.107.10/live/voprosyiotvety.stream/playlist.m3u8
 #EXTINF:-1 ,Спас
@@ -276,19 +270,19 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Три Ангела
 http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://91.224.169.250:5000/c161
+http://80.245.93.242:9030/play/a01o/index.m3u8
 #EXTINF:-1 ,Investigation Discovery
-http://91.224.169.250:5000/c163
+http://str05.tv/5885/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 ,History
 http://45.159.74.14/Channel_123/mono.m3u8
 #EXTINF:-1 ,National Geographic
 rtmp://5.182.229.90//7320
 #EXTINF:-1 ,Animal Planet
-http://91.224.169.250:5000/c162
+http://dmi3y-tv.ru/hls/CH_ANIMALPLANETHD.m3u8
 #EXTINF:-1 ,Animal Planet
 http://213.226.137.140:81/tl/l13/mpegts
 #EXTINF:-1 ,Наука
-http://91.224.169.250:5000/c2
+http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
 #EXTINF:-1 ,Viasat Explore
 http://dmi3y-tv.ru/hls/CH_VIASATEXPLORE.m3u8
 #EXTINF:-1 ,Viasat History
@@ -298,15 +292,15 @@ http://dmi3y-tv.ru/hls/CH_VIASATNATURE.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 ,Охота и рыбалка
-http://91.224.169.250:5000/c34
+http://dmi3y-tv.ru/hls/CH_OHOTAIRYBALKA.m3u8
 #EXTINF:-1 ,Дикий
-http://91.224.169.250:5000/c160
+http://hls127.homeiptv.org:8880/Dikiy/video.m3u8
 #EXTINF:-1 ,Дикая охота
 http://185.23.80.28:8080/Dikaya_Ohota/index.m3u8?token=test
 #EXTINF:-1 ,Дикая рыбалка
 http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=test
 #EXTINF:-1 ,365 ДНЕЙ
-http://91.224.169.250:5000/c25
+http://213.226.137.140:81/tl/l413/mpegts
 #EXTINF:-1 ,TERRA
 http://130.193.73.10:8937/play/a01g
 #EXTINF:-1 ,1HD
@@ -363,7 +357,7 @@ http://85.192.10.173/Pro100tvRu/video.m3u8
 #EXTINF:-1 ,Kino 24
 http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 ,ДОМ КИНО
-http://91.224.169.250:5000/c60
+http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 ,Amedia 1
 http://45.143.108.104/AMEDIA1_SD/index.m3u8
 #EXTINF:-1 ,Amedia 2
@@ -385,7 +379,7 @@ http://86.57.198.251:8181/play/1026/index.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://45.159.74.13/Kinopremera/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
-http://91.224.169.250:5000/c28
+http://213.226.137.140:81/tl/l111/mpegts
 #EXTINF:-1 ,КИНОМИКС
 http://213.226.137.140:81/tl/l79/mpegts
 #EXTINF:-1 ,Ретро
@@ -399,15 +393,15 @@ http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский детектив
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский детектив
-http://91.224.169.250:5000/c12
+http://dmi3y-tv.ru/hls/CH_RUSSKIY_DETEKTIV.m3u8
 #EXTINF:-1 ,Русский иллюзион
-http://91.224.169.250:5000/c48
+http://dmi3y-tv.ru/hls/CH_RUSSKIYILLUZION.m3u8
 #EXTINF:-1 ,Русский роман
-http://91.224.169.250:5000/c3
+http://185.23.80.28:8080/RusskijRoman/index.m3u8?token=test
 #EXTINF:-1 ,Русский Роман
 http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 ,BollywooD
-http://91.224.169.250:5000/c155
+http://str05.tv/7148/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 ,HollywooD
 http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 ,НСТ
@@ -420,8 +414,6 @@ http://80.245.93.242:9030/play/a028/index.m3u8
 http://185.50.148.2:7703/Sony_Turbo/index.m3u8
 #EXTINF:-1 ,Индия
 http://45.159.74.14/ZeeTV/mono.m3u8
-#EXTINF:-1 ,Комедия
-http://91.224.169.250:5000/c11
 #EXTINF:-1 ,Комедия
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 ,Viju TV1000
@@ -457,23 +449,21 @@ http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://91.224.169.250:5000/c167
+http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 rtmp://5.182.229.90//7203
-#EXTINF:-1 ,Eurosport 2
-http://91.224.169.250:5000/c168
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
 http://45.159.74.13/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! ИГРА
-http://91.224.169.250:5000/c32
+http://213.226.137.140:81/tl/l304/mpegts
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
 #http://95.216.40.210/nashfootball/mono.m3u8
-#EXTINF:-1 ,Матч! БОЕЦ
-http://91.224.169.250:5000/c31
+#EXTINF:-1 ,Бокс ТВ
+http://213.226.137.140:81/tl/l104/mpegts
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://91.224.169.250:5000/c33
+http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 ,Матч! Футбол 1
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 ,Матч! Футбол 2
