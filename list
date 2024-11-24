@@ -276,6 +276,9 @@ http://80.245.93.242:9030/play/a01o/index.m3u8
 #EXTINF:-1 ,Investigation Discovery
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://str05.tv/5885/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
+#EXTINF:-1 ,Investigation Discovery
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://str16.tv/5630/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
 #EXTINF:-1 ,History
 http://45.159.74.14/Channel_123/mono.m3u8
 #EXTINF:-1 ,National Geographic
