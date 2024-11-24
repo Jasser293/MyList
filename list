@@ -105,11 +105,13 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd116.iptv2022.com/p/YNmc9SJTPMl-4yaGuKVJQQ,1732395607/streaming/orujie/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/ZAmwhrRIYJdbc3dZP6D09Q,1732482012/streaming/orujie/324/1/index.m3u8
 #EXTINF:-1 ,Оружие
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://str05.tv/6836/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
 #http://dmi3y-tv.ru/hls/CH_ORUZHIE.m3u8
+#EXTINF:-1 ,Оружие
+http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:-1 ,Арсенал
 http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 ,Ратник
@@ -230,10 +232,9 @@ http://195.18.23.20:8000/play/10/index.m3u8
 http://213.226.137.140:81/tl/l65/mono.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://45.159.74.14/KukhnyaTv/mono.m3u8
-#EXTINF:-1 ,Аппетитный
-#http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,FOOD TIME
-http://dmi3y-tv.ru/hls/CH_FOODTIMEHD.m3u8
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://str05.tv/9940/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
 #EXTINF:-1 ,Еда HD
 http://185.23.80.28:8080/Eda/index.m3u8?token=test
 #EXTINF:-1 ,Аппетитный
