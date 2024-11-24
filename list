@@ -191,7 +191,7 @@ http://82.215.111.249/1430/mono.m3u8
 #EXTINF:-1 ,Авто плюс
 http://213.226.137.140:81/tl/l105/mpegts
 #EXTINF:-1 ,Авто плюс
-http://flussonic.salomtv.uz/Avto_Plus/video.m3u8
+http://82.215.111.227/1036/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 ,Мужской
@@ -318,7 +318,7 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 ,МузТВ
 http://45.159.74.14/MuzTv/mono.m3u8
 #EXTINF:-1 ,Ля-минор
-http://flussonic.salomtv.uz/lya_minor/video.m3u8
+http://82.215.111.227/1238/mono.m3u8
 #EXTINF:-1 ,Европа Плюс ТВ HD
 http://185.23.80.28:8080/EuropaHD/index.m3u8?token=test
 #EXTINF:-1 ,BRIDGE TV CLASSIC
@@ -433,7 +433,7 @@ http://213.226.137.140:81/tl/l93/mpegts
 #EXTINF:-1 ,Viju TV1000 Русское
 http://82.215.111.227/1059/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
-http://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+http://dmi3y-tv.ru/hls/CH_TV1000ACTION.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://82.215.111.227/1225/mono.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
@@ -445,7 +445,7 @@ rtmp://5.182.229.90//7249
 #EXTINF:-1 ,Киносемья
 http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 ,Киносерия
-http://flussonic.salomtv.uz/Kinoseriya/video.m3u8
+http://hls127.homeiptv.org:8880/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 ,Душевное
 http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 ,Наше новое кино
