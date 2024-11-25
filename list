@@ -151,7 +151,7 @@ http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://185.50.148.2:7706/STSLove/index.m3u8
+http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 ,tvg-id="tvoetv",Твоё ТВ
 #http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
 #EXTINF:-1 ,tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
