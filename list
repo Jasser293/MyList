@@ -106,9 +106,6 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://46.17.41.254:2020/channel/n22587c53/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
-#EXTINF:-1 ,Оружие
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://str05.tv/6836/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
 #http://dmi3y-tv.ru/hls/CH_ORUZHIE.m3u8
 #EXTINF:-1 ,Оружие
 http://185.37.150.40:8092/orujie/playlist.m3u8
@@ -234,7 +231,7 @@ http://213.226.137.140:81/tl/l65/mono.m3u8
 http://45.159.74.14/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,FOOD TIME
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://str05.tv/9940/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
+http://46.17.41.254:2020/channel/n723486ec/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
 #EXTINF:-1 ,Еда HD
 http://185.23.80.28:8080/Eda/index.m3u8?token=test
 #EXTINF:-1 ,Аппетитный
@@ -275,7 +272,7 @@ http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 http://80.245.93.242:9030/play/a01o/index.m3u8
 #EXTINF:-1 ,Investigation Discovery
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://str05.tv/5885/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
+http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 ,Investigation Discovery
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://str16.tv/5630/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
@@ -346,8 +343,7 @@ http://213.226.137.140:81/tl/l109/mpegts
 #EXTINF:-1 ,Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://str05.tv/7310/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
+http://hls127.homeiptv.org:8880/Teatr/video.m3u8
 #EXTINF:-1 ,Кино и сериалы
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -408,8 +404,7 @@ http://185.23.80.28:8080/RusskijRoman/index.m3u8?token=test
 #EXTINF:-1 ,Русский Роман
 http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 ,BollywooD
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://str05.tv/7148/video.m3u8?token=e06aa33302e42fedf78d3106858d5634
+http://82.215.111.227/1444/index.m3u8
 #EXTINF:-1 ,HollywooD
 http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 ,НСТ
@@ -498,7 +493,7 @@ http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
 http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
 #EXTINF:-1 ,Мультиландия
-http://dmi3y-tv.ru/hls/CH_MULTILANDIYA.m3u8
+http://93.189.224.246:52900/play/a00m/index.m3u8
 #EXTINF:-1 ,В гостях у сказки
 http://109.200.130.123:7537/play/a02m
 #EXTINF:-1 ,Мульт
