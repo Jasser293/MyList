@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml,https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://213.226.137.140:81/tl/l46/mpegts
 #EXTINF:-1 ,Первый канал
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1 ,Первый канал
@@ -49,14 +47,14 @@ http://185.23.80.28:8080/REN/index.m3u8?token=test
 #EXTINF:-1 ,Рен ТВ
 http://130.193.73.10:8937/play/a00i
 #EXTINF:-1 ,РЕН ТВ
-http://213.226.137.140:81/tl/l47/mono.m3u8
+http://88.85.172.243:7005/play/a00p
 #EXTINF:-1 ,Рен ТВ International
 http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 #http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
-http://213.226.137.140:81/tl/l28/mpegts
-#EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 ,ТВЦ
+http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
 #EXTINF:-1 ,ОТР
 http://185.50.148.2:7702/OTR/index.m3u8
 #EXTINF:-1 ,Вместе РФ
@@ -134,18 +132,19 @@ rtmp://5.182.229.90//7142
 http://193.242.190.6:8099/19/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://94.230.128.105:8080/THT/index.m3u8
+#https://93.88.79.156/live/38.m3u8
 #EXTINF:-1 ,ТНТ4
 http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТНТ4
 http://tv.mediacdn.ru/live/tnt4/playlist.m3u8
 #EXTINF:-1 ,ТВ3
-http://213.226.137.140:81/tl/l51/mpegts
+http://93.189.224.246:52900/play/a016/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://45.159.74.14/Channel_121/mono.m3u8
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STSHD.m3u8
 #EXTINF:-1 ,СТС
-http://213.226.137.140:81/tl/l43/mpegts
+http://88.85.172.243:7005/play/a00q
 #EXTINF:-1 ,СТС International
 http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
@@ -167,9 +166,9 @@ http://dmi3y-tv.ru/hls/CH_SARAFAN.m3u8
 #EXTINF:-1 ,Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 ,Ю
-http://213.226.137.140:81/tl/l1006/mpegts
+http://194.143.148.28:8080/U/index.m3u8
 #EXTINF:-1 ,Ю
-http://194.143.148.28:8080/U/mpegts
+http://31.148.48.15/U/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
 #EXTINF:-1 ,ДОМАШНИЙ
@@ -189,7 +188,7 @@ http://185.23.80.28:8080/AVTO24/index.m3u8?token=test
 #EXTINF:-1 ,АВТО 24
 http://82.215.111.249/1430/mono.m3u8
 #EXTINF:-1 ,Авто плюс
-http://213.226.137.140:81/tl/l105/mpegts
+http://80.245.93.242:9030/play/a037/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://82.215.111.227/1036/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
@@ -229,7 +228,7 @@ http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 ,Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://213.226.137.140:81/tl/l65/mono.m3u8
+http://80.245.93.242:9030/play/a03a/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://45.159.74.14/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,FOOD TIME
@@ -287,7 +286,7 @@ rtmp://5.182.229.90//7320
 #EXTINF:-1 ,Animal Planet
 http://dmi3y-tv.ru/hls/CH_ANIMALPLANETHD.m3u8
 #EXTINF:-1 ,Animal Planet
-http://213.226.137.140:81/tl/l13/mpegts
+http://80.245.93.242:9030/play/a00o/index.m3u8
 #EXTINF:-1 ,Наука
 http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
 #EXTINF:-1 ,Viasat Explore
@@ -307,7 +306,7 @@ http://185.23.80.28:8080/Dikaya_Ohota/index.m3u8?token=test
 #EXTINF:-1 ,Дикая рыбалка
 http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=test
 #EXTINF:-1 ,365 ДНЕЙ
-http://213.226.137.140:81/tl/l413/mpegts
+http://fs2.persik.by/365dney/index.m3u8
 #EXTINF:-1 ,TERRA
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
 #EXTINF:-1 ,1HD
@@ -333,15 +332,13 @@ http://185.23.80.28:8080/BRIDGETVRusskijXit/index.m3u8?token=test
 #EXTINF:-1 ,BRIDGE TV ШЛЯГЕР
 http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test
 #EXTINF:-1 ,Europa Plus TV
-http://213.226.137.140:81/tl/l89/mpegts
+http://93.189.224.246:52900/play/a00r/index.m3u8
 #EXTINF:-1 ,RU.TV
 http://65.21.85.175:8000/play/a00q/index.m3u8?token=livetv
-#EXTINF:-1 ,VH1 Classic
-http://213.226.137.140:81/tl/l108/mpegts
 #EXTINF:-1 ,MTV
 http://212.102.60.231/MTV/index.m3u8
-#EXTINF:-1 ,MTV 90s
-http://213.226.137.140:81/tl/l109/mpegts
+#EXTINF:-1 ,Mezzo
+http://185.50.148.2:7703/Mezzo/index.m3u8
 #EXTINF:-1 ,Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
@@ -368,13 +365,13 @@ http://45.143.108.104/AMEDIA1_SD/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://45.143.108.104/AMEDIA2_SD/index.m3u8
 #EXTINF:-1 ,Amedia Hit
-http://213.226.137.140:81/tl/l90/mpegts
+http://45.159.74.14/Nauka/index.m3u8
 #EXTINF:-1 ,Amedia Premium
 http://45.159.74.14/AmediaPremium/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
 rtmp://5.182.229.90//7250
 #EXTINF:-1 ,КИНОХИТ
-http://213.226.137.140:81/tl/l16/mpegts
+http://80.245.93.242:9030/play/a02w/index.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://45.159.74.13/Kinokhit/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
@@ -384,9 +381,9 @@ http://86.57.198.251:8181/play/1026/index.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://45.159.74.13/Kinopremera/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
-http://213.226.137.140:81/tl/l111/mpegts
+http://80.245.93.242:9030/play/a030/index.m3u8
 #EXTINF:-1 ,КИНОМИКС
-http://213.226.137.140:81/tl/l79/mpegts
+http://80.245.93.242:9030/play/a02u/index.m3u8
 #EXTINF:-1 ,Ретро
 https://89.39.107.10/live/retrotv.stream/playlist.m3u8
 #EXTINF:-1 ,Тайна
@@ -426,7 +423,7 @@ http://86.57.198.251:8181/play/1013/index.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://82.215.111.227/1058/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
-http://213.226.137.140:81/tl/l93/mpegts
+http://80.245.93.242:9030/play/a03m/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://82.215.111.227/1059/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
@@ -434,7 +431,7 @@ http://dmi3y-tv.ru/hls/CH_TV1000ACTION.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://82.215.111.227/1225/mono.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
-http://213.226.137.140:81/tl/l54/mpegts
+http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 rtmp://5.182.229.90//7248
 #EXTINF:-1 ,Киномикс
@@ -446,7 +443,7 @@ http://hls127.homeiptv.org:8880/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 ,Душевное
 http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 ,Наше новое кино
-http://213.226.137.140:81/tl/l53/mpegts
+http://hls127.homeiptv.org:8880/Nashe_Novoe_Kino/video.m3u8
 #EXTINF:-1 ,Премиальное
 rtmp://5.182.229.90//7222
 #EXTINF:-1 ,Кошмар
@@ -462,13 +459,13 @@ http://45.159.74.13/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! ИГРА
-http://213.226.137.140:81/tl/l304/mpegts
+http://31.148.48.15/Match_Igra/index.m3u8
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
 #http://95.216.40.210/nashfootball/mono.m3u8
 #EXTINF:-1 ,Бокс ТВ
-http://213.226.137.140:81/tl/l104/mpegts
+http://fs2.persik.by/Box/index.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://213.226.137.140:81/tl/l73/mpegts
+http://str16.tv/4751/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
 #EXTINF:-1 ,Матч! Футбол 1
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 ,Матч! Футбол 2
