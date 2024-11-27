@@ -466,7 +466,7 @@ http://31.148.48.15/Match_Igra/index.m3u8
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
 #http://95.216.40.210/nashfootball/mono.m3u8
 #EXTINF:-1 ,Бокс ТВ
-http://fs2.persik.by/Box/index.m3u8
+http://213.226.137.140:81/tl/l104/mpegts
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://str16.tv/4751/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
 #EXTINF:-1 ,Матч! Футбол 1
