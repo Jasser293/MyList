@@ -106,7 +106,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://str16.tv/6836/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+https://mhd116.iptv2022.com/p/wPONZZ4hXJvOesAhDGGJtQ,1732827606/streaming/orujie/324/1/index.m3u8
 #EXTINF:-1 ,Оружие
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://46.17.41.254:2020/channel/n22587c53/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
@@ -279,9 +279,6 @@ http://80.245.93.242:9030/play/a01o/index.m3u8
 #EXTINF:-1 ,Investigation Discovery
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
-#EXTINF:-1 ,Investigation Discovery
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://str16.tv/5630/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
 #EXTINF:-1 ,History
 http://45.159.74.14/Channel_123/mono.m3u8
 #EXTINF:-1 ,National Geographic
@@ -468,7 +465,7 @@ http://31.148.48.15/Match_Igra/index.m3u8
 #EXTINF:-1 ,Бокс ТВ
 http://213.226.137.140:81/tl/l104/mpegts
 #EXTINF:-1 ,МАТЧ! СТРАНА
-http://str16.tv/4751/video.m3u8?token=80371e0fdff818f5f61daf7ea26ca9dc
+http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 ,Матч! Футбол 1
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 ,Матч! Футбол 2
@@ -522,3 +519,6 @@ http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 http://194.204.46.137:80/live/eds/TV6_LT_SD/GO3_LIVE_HLS/TV6_LT_SD.m3u8
 #EXTINF:-1 ,TV3 LT
 http://194.204.46.137:80/live/eds/TV3_LT_SD/GO3_LIVE_HLS/TV3_LT_SD.m3u8
+#EXTINF:-1 ,Оружие
+#EXTVLCOPT:http-user-agent=Donate BTC
+https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
