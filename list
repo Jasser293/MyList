@@ -42,9 +42,13 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-sd/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
 #EXTINF:-1 ,Россия К
+http://213.226.137.140:81/tl/l49/mpegts
+#EXTINF:-1 ,Россия К
 http://65.21.85.175:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 ,Россия К
 http://185.23.80.28:8080/RossiyaK/index.m3u8?token=test
+#EXTINF:-1 ,РЕН ТВ
+http://213.226.137.140:81/tl/l47/mpegts
 #EXTINF:-1 ,РЕН ТВ
 http://185.23.80.28:8080/REN/index.m3u8?token=test
 #EXTINF:-1 ,Рен ТВ
@@ -54,6 +58,8 @@ http://88.85.172.243:7005/play/a00p
 #EXTINF:-1 ,Рен ТВ International
 http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 #http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+#EXTINF:-1 ,ТВЦ
+http://213.226.137.140:81/tl/l28/mpegts
 #EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -137,6 +143,8 @@ http://93.189.224.246:52900/play/a00u/index.m3u8
 http://94.230.128.105:8080/THT/index.m3u8
 #https://93.88.79.156/live/38.m3u8
 #EXTINF:-1 ,ТНТ4
+http://213.226.137.140:81/tl/l63/mpegts
+#EXTINF:-1 ,ТНТ4
 http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТНТ4
 http://tv.mediacdn.ru/live/tnt4/playlist.m3u8
@@ -190,6 +198,8 @@ http://195.26.83.96:7013/play/a00e/index.m3u8
 http://185.23.80.28:8080/AVTO24/index.m3u8?token=test
 #EXTINF:-1 ,АВТО 24
 http://82.215.111.249/1430/mono.m3u8
+#EXTINF:-1 ,Авто Плюс
+http://213.226.137.140:81/tl/l105/mpegts
 #EXTINF:-1 ,Авто плюс
 http://80.245.93.242:9030/play/a037/index.m3u8
 #EXTINF:-1 ,Авто плюс
@@ -234,6 +244,8 @@ http://195.18.23.20:8000/play/10/index.m3u8
 http://80.245.93.242:9030/play/a03a/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://45.159.74.14/KukhnyaTv/mono.m3u8
+#EXTINF:-1 ,Food Network
+http://213.226.137.140:81/tl/l98/mpegts
 #EXTINF:-1 ,FOOD TIME
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://46.17.41.254:2020/channel/n723486ec/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
@@ -368,6 +380,8 @@ http://45.143.108.104/AMEDIA2_SD/index.m3u8
 http://45.159.74.14/Nauka/index.m3u8
 #EXTINF:-1 ,Amedia Premium
 http://45.159.74.14/AmediaPremium/mono.m3u8
+#EXTINF:-1 ,КИНОХИТ
+http://213.226.137.140:81/tl/l16/mpegts
 #EXTINF:-1 ,КИНОХИТ
 rtmp://5.182.229.90//7250
 #EXTINF:-1 ,КИНОХИТ
@@ -519,4 +533,3 @@ http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 http://194.204.46.137:80/live/eds/TV6_LT_SD/GO3_LIVE_HLS/TV6_LT_SD.m3u8
 #EXTINF:-1 ,TV3 LT
 http://194.204.46.137:80/live/eds/TV3_LT_SD/GO3_LIVE_HLS/TV3_LT_SD.m3u8
-
