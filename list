@@ -184,9 +184,9 @@ http://194.143.148.28:8080/U/index.m3u8
 #EXTINF:-1 ,Ю
 http://31.148.48.15/U/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
-http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
+http://82.215.111.227/1436/index.m3u8?token=fas-tv.com
 #EXTINF:-1 ,ДОМАШНИЙ
-http://193.242.190.6:8099/14/index.m3u8
+http://45.159.74.13/Domashniy/mono.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,ПЯТНИЦА
