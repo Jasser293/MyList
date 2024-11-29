@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml,https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
+http://213.226.137.140:81/tl/l46/mpegts
+#http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://194.143.148.28:8080/PerviyHD/mpegts
