@@ -118,7 +118,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 http://46.17.41.254:2020/channel/n22587c53/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
 #EXTINF:-1 ,Оружие
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd116.iptv2022.com/p/4cX9FAxQ_zmUHwA-YqSJqg,1732914006/streaming/orujie/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/i2cQQuqQnBjkF5Tw3EXoDg,1733000406/streaming/orujie/324/1/index.m3u8
 #http://dmi3y-tv.ru/hls/CH_ORUZHIE.m3u8
 #EXTINF:-1 ,Оружие
 http://185.37.150.40:8092/orujie/playlist.m3u8
@@ -538,4 +538,3 @@ http://178.219.128.68:64889/TTVHD
 http://178.219.128.68:64889/TVP1HD
 #EXTINF:-1 ,TVP2
 http://178.219.128.68:64889/TVP2HD
-
