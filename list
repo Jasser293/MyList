@@ -234,7 +234,7 @@ http://94.230.128.105:8080/Zagorodnyi/index.m3u8
 #EXTINF:-1 ,Доктор
 http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Доктор
-http://185.23.80.28:8080/Doktor/index.m3u8?token=test
+http://45.151.69.10:8887/8214/video.m3u8
 #EXTINF:-1 ,Доктор
 http://dmi3y-tv.ru/hls/CH_DOKTOR.m3u8
 #EXTINF:-1 ,Здоровое ТВ
