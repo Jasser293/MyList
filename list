@@ -230,7 +230,7 @@ http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://80.245.93.242:9030/play/a00q/index.m3u8
 #EXTINF:-1 ,Загородный
-http://94.230.128.105:8080/Zagorodnyi/index.m3u8
+http://45.159.74.14/DTX/mono.m3u8
 #EXTINF:-1 ,Доктор
 http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Доктор
@@ -538,3 +538,11 @@ http://178.219.128.68:64889/TTVHD
 http://178.219.128.68:64889/TVP1HD
 #EXTINF:-1 ,TVP2
 http://178.219.128.68:64889/TVP2HD
+#EXTINF:-1 ,Re TV
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+#EXTINF:-1 ,TV Jūrmala
+https://air.star.lv/TV_Jurmala_multistream/index.m3u8
+#EXTINF:-1 ,TV3 
+http://194.204.46.137:80/live/eds/TV3_LV_SD/GO3_LIVE_HLS/TV3_LV_SD.m3u8
+#EXTINF:-1 ,TBN BALTIA
+http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
