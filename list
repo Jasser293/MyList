@@ -141,6 +141,8 @@ http://45.159.74.14/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
 rtmp://5.182.229.90//7142
 #EXTINF:-1 ,ТНТ
+http://45.151.69.10:8887/8311/video.m3u8
+#EXTINF:-1 ,ТНТ
 http://93.189.224.246:52900/play/a00u/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://94.230.128.105:8080/THT/index.m3u8
