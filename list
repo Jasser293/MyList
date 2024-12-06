@@ -373,10 +373,6 @@ http://185.23.80.28:8080/2x2/index.m3u8?token=test
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,VHS-ка
 http://88.218.242.237:8000/play/a00x
-#EXTINF:-1 ,Pro100TV
-http://85.192.10.173/Pro100tvRu/video.m3u8
-#EXTINF:-1 ,Kino 24
-http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 ,ДОМ КИНО
 http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 ,Amedia 1
@@ -500,10 +496,6 @@ http://87.250.254.45/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
 #EXTINF:-1 ,Tennis Channel
 http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Пингвин ТВ
-http://85.192.10.173/PingvinRu/mono.m3u8
-#EXTINF:-1 ,Мамонтенок ТВ
-http://85.192.10.173/MamontRu/mono.m3u8
 #EXTINF:-1 ,Солнце
 http://tv.mediacdn.ru/live/disney/playlist.m3u8
 #EXTINF:-1 ,Da Vinci
