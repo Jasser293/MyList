@@ -141,7 +141,7 @@ http://45.159.74.14/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
 rtmp://5.182.229.90//7142
 #EXTINF:-1 ,ТНТ
-http://45.151.69.10:8887/8311/video.m3u8
+http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 #EXTINF:-1 ,ТНТ
 http://93.189.224.246:52900/play/a00u/index.m3u8
 #EXTINF:-1 ,ТНТ
@@ -236,7 +236,7 @@ http://45.159.74.14/DTX/mono.m3u8
 #EXTINF:-1 ,Доктор
 http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Доктор
-http://45.151.69.10:8887/8214/video.m3u8
+http://178.57.121.38:8080/doctor/index.m3u8?token=test
 #EXTINF:-1 ,Доктор
 http://dmi3y-tv.ru/hls/CH_DOKTOR.m3u8
 #EXTINF:-1 ,Здоровое ТВ
@@ -366,9 +366,9 @@ http://185.23.80.28:8080/Teatr/index.m3u8?token=test
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Сапфир
-http://45.151.69.10:8887/8169/video.m3u8
-#EXTINF:-1 ,Сапфир
 http://109.200.130.123:7537/play/a028
+#EXTINF:-1 ,Сапфир
+http://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
 #EXTINF:-1 ,2x2
 http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 ,2x2
@@ -458,11 +458,11 @@ rtmp://5.182.229.90//7249
 #EXTINF:-1 ,Киносемья
 http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 ,Киносерия
-http://45.151.69.10:8887/8043/video.m3u8
+http://stream2.cinerama.uz/1235/index.m3u8
 #EXTINF:-1 ,Душевное
 http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 ,Наше новое кино
-http://45.151.69.10:8887/8044/video.m3u8
+http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 ,Премиальное
 rtmp://5.182.229.90//7222
 #EXTINF:-1 ,Кошмар
