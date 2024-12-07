@@ -147,6 +147,8 @@ http://93.189.224.246:52900/play/a00u/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://94.230.128.105:8080/THT/index.m3u8
 #https://93.88.79.156/live/38.m3u8
+#EXTINF:-1 ,ТНТ HD
+https://s83.chas.tv:8082/chas/tnttv-hq.stream/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 http://213.226.137.140:81/tl/l63/mpegts
 #EXTINF:-1 ,ТНТ4
