@@ -148,7 +148,7 @@ http://93.189.224.246:52900/play/a00u/index.m3u8
 http://94.230.128.105:8080/THT/index.m3u8
 #https://93.88.79.156/live/38.m3u8
 #EXTINF:-1 ,ТНТ HD
-#EXTVLCOPT:http-user-agent=Donate BTC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://s83.chas.tv:8082/chas/tnttv-hq.stream/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 http://213.226.137.140:81/tl/l63/mpegts
