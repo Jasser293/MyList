@@ -117,8 +117,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://46.17.41.254:2020/channel/n22587c53/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
 #EXTINF:-1 ,Оружие
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://45.151.69.10:8887/8206/video.m3u8
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/oruzhie.stream/playlist.m3u8
 #http://dmi3y-tv.ru/hls/CH_ORUZHIE.m3u8
 #EXTINF:-1 ,Оружие
 http://185.37.150.40:8092/orujie/playlist.m3u8
@@ -147,8 +147,8 @@ http://93.189.224.246:52900/play/a00u/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://94.230.128.105:8080/THT/index.m3u8
 #https://93.88.79.156/live/38.m3u8
-#EXTINF:-1 ,ТНТ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 ,ТНТ
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/tnttv-hq.stream/playlist.m3u8
 #EXTINF:-1 ,ТНТ4
 http://213.226.137.140:81/tl/l63/mpegts
@@ -161,7 +161,7 @@ http://93.189.224.246:52900/play/a016/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://45.159.74.14/Channel_121/mono.m3u8
 #EXTINF:-1 ,СТС
-http://dmi3y-tv.ru/hls/T2/CH_STSHD.m3u8
+http://185.23.80.28:8080/STS/index.m3u8?token=test
 #EXTINF:-1 ,СТС
 http://88.85.172.243:7005/play/a00q
 #EXTINF:-1 ,СТС International
