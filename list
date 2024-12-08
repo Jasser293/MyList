@@ -114,12 +114,11 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://46.17.41.254:2020/channel/n22587c53/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
-#EXTINF:-1 ,Оружие
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/oruzhie.stream/playlist.m3u8
-#http://dmi3y-tv.ru/hls/CH_ORUZHIE.m3u8
+#EXTINF:-1 ,Оружие
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://46.17.41.254:2020/channel/n22587c53/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
 #EXTINF:-1 ,Оружие
 http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:-1 ,Арсенал
@@ -189,7 +188,9 @@ http://194.143.148.28:8080/U/index.m3u8
 #EXTINF:-1 ,Ю
 http://31.148.48.15/U/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
-http://82.215.111.227/1436/index.m3u8?token=fas-tv.com
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/domashniy-hq.stream/playlist.m3u8
+#http://82.215.111.227/1436/index.m3u8?token=fas-tv.com
 #EXTINF:-1 ,ДОМАШНИЙ
 http://45.159.74.13/Domashniy/mono.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
