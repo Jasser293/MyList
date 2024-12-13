@@ -72,7 +72,8 @@ http://185.50.148.2:7702/OTR/index.m3u8
 #EXTINF:-1 ,Вместе РФ
 http://cdn-01.bonus-tv.ru:80/vmesterf/mono.m3u8
 #EXTINF:-1 ,Москва. Доверие
-https://player.smotrim.ru/iframe/stream/live_id/61125
+http://185.23.80.28:8080/MoskvaDoverie/index.m3u8?token=iptv50na50
+#https://player.smotrim.ru/iframe/stream/live_id/61125
 #EXTINF:-1 ,Раменское ТВ
 http://46.254.94.238/rtv/0.m3u8
 #EXTINF:-1 ,Неизвестная Россия
@@ -105,7 +106,6 @@ http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://195.26.83.96:7029/play/a003
 #http://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/63338
-#http://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Соловьев.Live
 http://130.193.73.10:8937/play/a002
 #EXTINF:-1 ,Звезда
@@ -314,17 +314,18 @@ http://dmi3y-tv.ru/hls/CH_ANIMALPLANETHD.m3u8
 #EXTINF:-1 ,Animal Planet
 http://80.245.93.242:9030/play/a00o/index.m3u8
 #EXTINF:-1 ,Наука
-http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
+http://hls127.homeiptv.org:8880/NAUKA/video.m3u8
 #EXTINF:-1 ,Viasat Explore
-http://dmi3y-tv.ru/hls/CH_VIASATEXPLORE.m3u8
+http://213.226.137.140:81/tl/l94/mpegts
 #EXTINF:-1 ,Viasat History
-http://dmi3y-tv.ru/hls/CH_VIASATHISTORY.m3u8
+http://213.226.137.140:81/tl/l95/mpegts
 #EXTINF:-1 ,Viasat Nature
-http://dmi3y-tv.ru/hls/CH_VIASATNATURE.m3u8
+http://213.226.137.140:81/tl/l96/mpegts
 #EXTINF:-1 ,Диалоги о рыбалке
 http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 ,Охота и рыбалка
-http://dmi3y-tv.ru/hls/CH_OHOTAIRYBALKA.m3u8
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/ohota.stream/playlist.m3u8
 #EXTINF:-1 ,Дикий
 http://185.23.80.28:8080/Dikiy/index.m3u8?token=test
 #EXTINF:-1 ,Дикая охота
