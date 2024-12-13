@@ -11,7 +11,8 @@ http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
+http://213.226.137.140:81/tl/l40/mpegts
+#http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1 ,НТВ
 http://185.23.80.28:8080/NTV/index.m3u8?token=test
 #EXTINF:-1 ,НТВ
@@ -181,9 +182,9 @@ http://dmi3y-tv.ru/hls/CH_TELEKAFE.m3u8
 #EXTINF:-1 ,Телекафе
 http://45.159.74.14/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
-http://130.193.73.10:8937/play/a01v
+http://213.226.137.140:81/tl/l103/mpegts
 #EXTINF:-1 ,Сарафан
-http://dmi3y-tv.ru/hls/CH_SARAFAN.m3u8
+http://130.193.73.10:8937/play/a01v
 #EXTINF:-1 ,Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 ,Ю
@@ -231,7 +232,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.
 #EXTINF:-1 ,Усадьба
 http://178.124.179.122:8088/Usadba/index.m3u8
 #EXTINF:-1 ,Усадьба
-http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
+http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
+#http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
 #EXTINF:-1 ,Бобёр
 http://112.72.4.116/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
@@ -245,11 +247,11 @@ http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Доктор
 http://178.57.121.38:8080/doctor/index.m3u8?token=test
 #EXTINF:-1 ,Доктор
-http://dmi3y-tv.ru/hls/CH_DOKTOR.m3u8
+http://82.215.111.227/1409/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
-http://dmi3y-tv.ru/hls/CH_ZDOROVOETV.m3u8
+#http://dmi3y-tv.ru/hls/CH_ZDOROVOETV.m3u8
 #EXTINF:-1 ,Тонус 
 http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 ,Живи
@@ -339,7 +341,7 @@ http://185.50.148.2:7707/NationalGeographic/index.m3u8
 #EXTINF:-1 ,1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
-http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 ,МузТВ
@@ -422,9 +424,10 @@ http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский детектив
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский детектив
-http://dmi3y-tv.ru/hls/CH_RUSSKIY_DETEKTIV.m3u8
+http://178.57.121.38:8080/rusdet/index.m3u8?token=test
 #EXTINF:-1 ,Русский иллюзион
-http://dmi3y-tv.ru/hls/CH_RUSSKIYILLUZION.m3u8
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/rusillyuzion.stream/playlist.m3u8
 #EXTINF:-1 ,Русский роман
 http://178.57.121.38:8080/rusrom/index.m3u8?token=test
 #EXTINF:-1 ,Русский Роман
@@ -454,9 +457,9 @@ http://80.245.93.242:9030/play/a03m/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://82.215.111.227/1059/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
-http://dmi3y-tv.ru/hls/CH_TV1000ACTION.m3u8
+http://82.215.111.227/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
-http://82.215.111.227/1225/mono.m3u8
+http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,Кинокомедия
