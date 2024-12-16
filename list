@@ -105,7 +105,7 @@ http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
 http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 ,Соловьев.Live
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://91.207.115.228:5000/c27
+http://195.26.83.96:7029/play/a003
 #http://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Соловьев.Live
 http://130.193.73.10:8937/play/a002
@@ -126,7 +126,8 @@ http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:-1 ,Арсенал
 http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 ,Ратник
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+http://185.23.80.28:8080/RATNIK/index.m3u8?token=video
+#http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
 http://94.230.128.105:8080/5_kanal/index.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -449,7 +450,7 @@ http://45.159.74.14/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 ,Viju TV1000
-http://86.57.198.251:8181/play/1013/index.m3u8
+http://93.189.224.246:52900/play/a00p/index.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://82.215.111.227/1058/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
