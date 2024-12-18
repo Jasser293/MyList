@@ -291,7 +291,7 @@ http://s7.merlive.am/ktoestkto/index.m3u8
 #EXTINF:-1 ,Кто Есть Кто
 https://wowza4.leisertv.com/live/ktoyestkto.stream/playlist.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-http://91.207.115.228:5000/c178
+http://82.215.111.227/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 https://89.39.107.10/live/voprosyiotvety.stream/playlist.m3u8
 #EXTINF:-1 ,Спас
