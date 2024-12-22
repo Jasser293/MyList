@@ -485,6 +485,8 @@ http://80.245.93.242:9030/play/a031/index.m3u8
 rtmp://5.182.229.90//7222
 #EXTINF:-1 ,Кошмар
 http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 ,Дорама
+http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
