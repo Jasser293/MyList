@@ -219,8 +219,6 @@ http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
 http://213.226.137.140:81/tl/l105/mpegts
 #EXTINF:-1 ,Авто плюс
-http://80.245.93.242:9030/play/a037/index.m3u8
-#EXTINF:-1 ,Авто плюс
 http://82.215.111.227/1036/mono.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
@@ -242,7 +240,7 @@ http://112.72.4.116/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
 http://213.226.137.140:81/tl/l112/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
-http://80.245.93.242:9030/play/a00q/index.m3u8
+rtmp://5.182.229.90//7348
 #EXTINF:-1 ,Загородный
 http://45.159.74.14/DTX/mono.m3u8
 #EXTINF:-1 ,Доктор
@@ -254,20 +252,17 @@ http://82.215.111.227/1409/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
-#http://dmi3y-tv.ru/hls/CH_ZDOROVOETV.m3u8
+http://stream2.cinerama.uz/1428/index.m3u8
 #EXTINF:-1 ,Тонус 
 http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 ,Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://80.245.93.242:9030/play/a03a/index.m3u8
+http://213.226.137.140:81/tl/l65/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://45.159.74.14/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,Food Network
 http://213.226.137.140:81/tl/l98/mpegts
-#EXTINF:-1 ,FOOD TIME
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://46.17.41.254:2020/channel/n723486ec/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
 #EXTINF:-1 ,Еда HD
 http://185.23.80.28:8080/Eda/index.m3u8?token=test
 #EXTINF:-1 ,Аппетитный
@@ -308,7 +303,8 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Три Ангела
 http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://80.245.93.242:9030/play/a01o/index.m3u8
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Investigation Discovery
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
@@ -320,10 +316,8 @@ http://45.159.74.13/NationalGeographic/index.m3u8
 #rtmp://5.182.229.90//7320
 #EXTINF:-1 ,Animal Planet
 http://dmi3y-tv.ru/hls/CH_ANIMALPLANETHD.m3u8
-#EXTINF:-1 ,Animal Planet
-http://80.245.93.242:9030/play/a00o/index.m3u8
 #EXTINF:-1 ,Наука
-http://80.245.93.242:9030/play/a02k/index.m3u8
+http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 ,Viasat Explore
 http://213.226.137.140:81/tl/l94/mpegts
 #EXTINF:-1 ,Viasat History
@@ -407,8 +401,6 @@ http://213.226.137.140:81/tl/l16/mpegts
 #EXTINF:-1 ,КИНОХИТ
 rtmp://5.182.229.90//7250
 #EXTINF:-1 ,КИНОХИТ
-http://80.245.93.242:9030/play/a02w/index.m3u8
-#EXTINF:-1 ,КИНОХИТ
 http://45.159.74.13/Kinokhit/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://194.190.78.80/kinotvplus4/index.m3u8
@@ -417,9 +409,9 @@ http://86.57.198.251:8181/play/1026/index.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://45.159.74.13/Kinopremera/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
-http://80.245.93.242:9030/play/a030/index.m3u8
+http://213.226.137.140:81/tl/l111/mpegts
 #EXTINF:-1 ,КИНОМИКС
-http://80.245.93.242:9030/play/a02u/index.m3u8
+http://185.50.148.2:7711/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
 http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 ,Тайна
@@ -448,7 +440,7 @@ http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 rtmp://5.182.229.90//7347
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://80.245.93.242:9030/play/a028/index.m3u8
+http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:-1 ,.Black
 http://185.50.148.2:7703/Sony_Turbo/index.m3u8
 #EXTINF:-1 ,Индия
@@ -460,7 +452,7 @@ http://93.189.224.246:52900/play/a00p/index.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://82.215.111.227/1058/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
-http://80.245.93.242:9030/play/a03m/index.m3u8
+http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 ,Viju TV1000 Русское
 http://82.215.111.227/1059/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
@@ -480,7 +472,7 @@ http://stream2.cinerama.uz/1235/index.m3u8
 #EXTINF:-1 ,Душевное
 http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 ,Наше новое кино
-http://80.245.93.242:9030/play/a031/index.m3u8
+http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 ,Премиальное
 rtmp://5.182.229.90//7222
 #EXTINF:-1 ,Кошмар
@@ -521,7 +513,7 @@ http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Солнце
 http://tv.streams.baikal-telecom.net:8080/Disney/index.m3u8
 #EXTINF:-1 ,Da Vinci
-http://80.245.93.242:9030/play/a04c/index.m3u8
+http://185.50.148.2:7703/DaVinciLearning/index.m3u8
 #EXTINF:-1 ,Мультимания
 http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
