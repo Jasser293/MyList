@@ -121,8 +121,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/oruzhie.stream/playlist.m3u8
 #EXTINF:-1 ,Оружие
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://46.17.41.254:2020/channel/n22587c53/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/oruzhie.stream/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:-1 ,Арсенал
