@@ -379,7 +379,8 @@ http://185.23.80.28:8080/Teatr/index.m3u8?token=test
 #EXTINF:-1 ,Сапфир
 http://109.200.130.123:7537/play/a028
 #EXTINF:-1 ,Сапфир
-http://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
+http://130.193.73.10:8937/play/a01d
+#http://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
 #EXTINF:-1 ,2x2
 http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 ,2x2
