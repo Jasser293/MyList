@@ -376,9 +376,8 @@ http://185.50.148.2:7703/Mezzo/index.m3u8
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
 http://185.23.80.28:8080/Teatr/index.m3u8?token=test
-#EXTINF:-1 ,Кино и сериалы
-#EXTVLCOPT:http-user-agent=Donate BTC
-#http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/index.m3u8
 #EXTINF:-1 ,Сапфир
 http://109.200.130.123:7537/play/a028
 #EXTINF:-1 ,Сапфир
