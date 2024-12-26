@@ -59,8 +59,6 @@ http://213.226.137.140:81/tl/l47/mpegts
 http://185.23.80.28:8080/REN/index.m3u8?token=test
 #EXTINF:-1 ,Рен ТВ
 http://130.193.73.10:8937/play/a00i
-#EXTINF:-1 ,РЕН ТВ
-http://93.189.224.246:52900/play/a00v/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 #http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
@@ -154,6 +152,8 @@ http://93.189.224.246:52900/play/a00u/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://94.230.128.105:8080/THT/index.m3u8
 #https://93.88.79.156/live/38.m3u8
+#EXTINF:-1 ,ТНТ
+http://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 ,ТНТ4
 http://213.226.137.140:81/tl/l63/mpegts
 #EXTINF:-1 ,ТНТ4
@@ -164,7 +164,8 @@ https://s83.chas.tv:8082/chas/fourtv.stream/playlist.m3u8
 #EXTINF:-1 ,ТВ3
 http://93.189.224.246:52900/play/a016/index.m3u8
 #EXTINF:-1 ,ТВ3
-http://45.159.74.14/Channel_121/mono.m3u8
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/tvtri-hq.stream/playlist.m3u8
 #EXTINF:-1 ,СТС
 http://185.23.80.28:8080/STS/index.m3u8?token=test
 #EXTINF:-1 ,СТС
@@ -345,8 +346,10 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
-#EXTINF:-1 ,МузТВ
-http://45.159.74.14/MuzTv/mono.m3u8
+#EXTINF:-1 ,Муз ТВ
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/muztvtv-hq.stream/playlist.m3u8
+#http://45.159.74.14/MuzTv/mono.m3u8
 #EXTINF:-1 ,Ля-минор
 http://82.215.111.227/1238/mono.m3u8
 #EXTINF:-1 ,Европа Плюс ТВ HD
@@ -437,7 +440,8 @@ http://82.215.111.227/1444/index.m3u8
 #EXTINF:-1 ,HollywooD
 http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 ,НСТ
-http://45.159.74.14/Channel_125/mono.m3u8
+http://130.193.73.10:8937/play/a03c
+#http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 rtmp://5.182.229.90//7347
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
