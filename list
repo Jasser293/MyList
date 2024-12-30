@@ -483,9 +483,6 @@ http://178.212.71.253:8002/play/a00i/index.m3u8
 rtmp://5.182.229.90//7222
 #EXTINF:-1 ,Кошмар
 http://195.9.195.3:8080/hls/204709.m3u8
-#EXTINF:-1 ,Остросюжетное
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://live.admuspeh.my/8184/index.m3u8?token=video
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
