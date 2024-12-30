@@ -283,8 +283,10 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://live.admuspeh.my/8073/index.m3u8?token=video
 #EXTINF:-1 ,Кто Есть Кто
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://live.admuspeh.my/8105/index.m3u8?token=video
 #EXTINF:-1 ,Кто Есть Кто
 https://wowza4.leisertv.com/live/ktoyestkto.stream/playlist.m3u8
@@ -388,8 +390,6 @@ http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 ,2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,VHS-ка
-http://live.admuspeh.my/8962/video.m3u8?token=video
-#EXTINF:-1 ,VHS-ка
 http://88.218.242.237:8000/play/a00x
 #EXTINF:-1 ,ДОМ КИНО
 http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
@@ -481,10 +481,11 @@ http://193.242.190.6:8099/37/index.m3u8
 http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 ,Премиальное
 rtmp://5.182.229.90//7222
-#EXTINF:-1 ,Остросюжетное
-http://live.admuspeh.my/8184/index.m3u8?token=video
 #EXTINF:-1 ,Кошмар
 http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 ,Остросюжетное
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://live.admuspeh.my/8184/index.m3u8?token=video
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
@@ -493,8 +494,6 @@ http://45.132.87.69:8080/eurosport1/mono.m3u8
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 rtmp://5.182.229.90//7203
-#EXTINF:-1 ,Eurosport 2
-http://live.admuspeh.my/8014/index.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
 http://45.159.74.13/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
