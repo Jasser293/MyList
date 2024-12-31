@@ -220,7 +220,7 @@ http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
 http://213.226.137.140:81/tl/l105/mpegts
 #EXTINF:-1 ,Авто плюс
-http://82.215.111.227/1036/mono.m3u8
+http://live.admuspeh.my/8095/index.m3u8?token=iptv50na50
 #EXTINF:-1 ,ДРАЙВ
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 ,Мужской
@@ -247,8 +247,6 @@ http://45.159.74.14/DTX/mono.m3u8
 #EXTINF:-1 ,Доктор
 http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Доктор
-http://82.215.111.227/1409/mono.m3u8
-#EXTINF:-1 ,Доктор
 http://178.57.121.38:8080/doctor/index.m3u8?token=test
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
@@ -273,7 +271,7 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
 #http://176.222.191.62/btv/live/hls/000002927.m3u8
 #EXTINF:-1 ,ЗООПАРК
-http://82.215.111.227/1417/mono.m3u8
+http://live.admuspeh.my/8655/index.m3u8?token=iptv50na50
 #EXTINF:-1 ,Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
@@ -291,7 +289,7 @@ http://live.admuspeh.my/8105/index.m3u8?token=video
 #EXTINF:-1 ,Кто Есть Кто
 https://wowza4.leisertv.com/live/ktoyestkto.stream/playlist.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-http://82.215.111.227/1429/tracks-v1a1/mono.m3u8
+http://live.admuspeh.my/8053/index.m3u8?token=iptv50na50
 #EXTINF:-1 ,Вопросы и ответы
 https://89.39.107.10/live/voprosyiotvety.stream/playlist.m3u8
 #EXTINF:-1 ,Спас
@@ -353,7 +351,8 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 https://s83.chas.tv:8082/chas/muztvtv-hq.stream/playlist.m3u8
 #http://45.159.74.14/MuzTv/mono.m3u8
 #EXTINF:-1 ,Ля-минор
-http://82.215.111.227/1238/mono.m3u8
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/lyaminor.stream/playlist.m3u8
 #EXTINF:-1 ,Европа Плюс ТВ HD
 http://185.23.80.28:8080/EuropaHD/index.m3u8?token=test
 #EXTINF:-1 ,BRIDGE TV CLASSIC
@@ -437,7 +436,7 @@ http://178.57.121.38:8080/rusrom/index.m3u8?token=test
 #EXTINF:-1 ,Русский Роман
 http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 ,BollywooD
-http://82.215.111.227/1444/index.m3u8
+http://130.193.73.10:8937/play/a02l
 #EXTINF:-1 ,HollywooD
 http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 ,НСТ
@@ -456,15 +455,15 @@ http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 ,Viju TV1000
 http://93.189.224.246:52900/play/a00p/index.m3u8
 #EXTINF:-1 ,Viju TV1000
-http://82.215.111.227/1058/mono.m3u8
+http://45.143.108.104/TV1000_HD/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 ,Viju TV1000 Русское
-http://82.215.111.227/1059/mono.m3u8
-#EXTINF:-1 ,Viju TV1000 Action
-http://82.215.111.227/1225/tracks-v1a1/mono.m3u8
+http://194.143.148.28:8080/TV1000RuKino/mpegts
 #EXTINF:-1 ,Viju TV1000 Action
 http://185.50.148.2:7703/TV1000Action/index.m3u8
+#EXTINF:-1 ,Viju TV1000 Action
+http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,Кинокомедия
