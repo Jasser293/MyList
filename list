@@ -26,7 +26,9 @@ http://185.23.80.28:8080/NTVPravo/index.m3u8?token=test
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Зал суда
-rtmp://5.182.229.90//7141
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/__A1RsmB6CawYPUrhcVoVQ,1735938015/streaming/zal_suda/324/1/tracks-v5a1/mono.m3u8
+#rtmp://5.182.229.90//7141
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -141,7 +143,8 @@ http://45.159.74.14/Perec/mono.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://45.159.74.14/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
-rtmp://5.182.229.90//7142
+http://95.67.12.82:9069
+#rtmp://5.182.229.90//7142
 #EXTINF:-1 ,ТНТ HD
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/tnttv-hq.stream/playlist.m3u8
@@ -241,7 +244,8 @@ http://112.72.4.116/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
 http://213.226.137.140:81/tl/l112/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
-rtmp://5.182.229.90//7348
+http://195.26.83.96:7007/play/10/index.m3u8
+#rtmp://5.182.229.90//7348
 #EXTINF:-1 ,Загородный
 http://45.159.74.14/DTX/mono.m3u8
 #EXTINF:-1 ,Доктор
@@ -281,11 +285,10 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://live.admuspeh.my/8073/index.m3u8?token=video
+http://live.admuspeh.my/8073/index.m3u8?token=iptv50na50
 #EXTINF:-1 ,Кто Есть Кто
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://live.admuspeh.my/8105/index.m3u8?token=video
+http://live.admuspeh.my/8105/index.m3u8?token=iptv50na50
 #EXTINF:-1 ,Кто Есть Кто
 https://wowza4.leisertv.com/live/ktoyestkto.stream/playlist.m3u8
 #EXTINF:-1 ,Вопросы и ответы
@@ -403,7 +406,8 @@ http://45.159.74.14/AmediaPremium/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://213.226.137.140:81/tl/l16/mpegts
 #EXTINF:-1 ,КИНОХИТ
-rtmp://5.182.229.90//7250
+http://185.50.148.2:7711/Kinohit/index.m3u8
+#rtmp://5.182.229.90//7250
 #EXTINF:-1 ,КИНОХИТ
 http://45.159.74.13/Kinokhit/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
@@ -443,7 +447,8 @@ http://109.200.130.123:7537/play/a02g
 http://130.193.73.10:8937/play/a03c
 #http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-rtmp://5.182.229.90//7347
+http://193.242.190.6:8099/98/index.m3u8
+#rtmp://5.182.229.90//7347
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:-1 ,.Black
@@ -467,9 +472,12 @@ http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,Кинокомедия
-rtmp://5.182.229.90//7248
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/komediya.stream/playlist.m3u8
+#rtmp://5.182.229.90//7248
 #EXTINF:-1 ,Киномикс
-rtmp://5.182.229.90//7249
+http://213.226.137.140:81/tl/l79/mpegts
+#rtmp://5.182.229.90//7249
 #EXTINF:-1 ,Киносемья
 http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 ,Киносерия
@@ -489,7 +497,8 @@ http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
-rtmp://5.182.229.90//7203
+http://live.admuspeh.my/8014/index.m3u8?token=iptv50na50
+#rtmp://5.182.229.90//7203
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
 http://45.159.74.13/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
