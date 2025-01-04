@@ -203,11 +203,9 @@ http://31.148.48.15/U/index.m3u8
 https://s83.chas.tv:8082/chas/domashniy-hq.stream/playlist.m3u8
 #http://82.215.111.227/1436/index.m3u8?token=fas-tv.com
 #EXTINF:-1 ,ДОМАШНИЙ
-http://45.159.74.14/Domashniy/mono.m3u8
-#EXTINF:-1 ,ДОМАШНИЙ
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний International
-http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+http://178.124.152.238:8088/dom
 #EXTINF:-1 ,ПЯТНИЦА
 http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
 #EXTINF:-1 ,ПЯТНИЦА
