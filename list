@@ -486,7 +486,8 @@ http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 ,Премиальное
-rtmp://5.182.229.90//7222
+http://live.admuspeh.my/8028/video.m3u8?token=iptv50na50
+#rtmp://5.182.229.90//7222
 #EXTINF:-1 ,Кошмар
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 ,Дорама
