@@ -180,10 +180,6 @@ http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 http://185.50.148.2:7706/STSLove/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://185.23.80.28:8080/STSLove/index.m3u8?token=video
-#EXTINF:-1 ,tvg-id="tvoetv",Твоё ТВ
-#http://144.76.61.88:8080/tvoetv/video.m3u8?token=tvoetv
-#EXTINF:-1 ,tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
-#http://144.76.61.88:8080/tvoetv_humor/video.m3u8?token=tvoetv
 #EXTINF:-1 ,Телекафе
 http://dmi3y-tv.ru/hls/CH_TELEKAFE.m3u8
 #EXTINF:-1 ,Телекафе
@@ -234,7 +230,7 @@ http://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
-http://178.124.179.122:8088/Usadba/index.m3u8
+http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
 #http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
@@ -502,7 +498,7 @@ http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 http://live.admuspeh.my/8014/index.m3u8?token=iptv50na50
 #rtmp://5.182.229.90//7203
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
-http://45.159.74.13/MatchPlaneta/tracks-v1a1/mono.m3u8
+http://45.159.74.14/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! ИГРА
