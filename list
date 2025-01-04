@@ -201,7 +201,8 @@ http://31.148.48.15/U/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/domashniy-hq.stream/playlist.m3u8
-#http://82.215.111.227/1436/index.m3u8?token=fas-tv.com
+#EXTINF:-1 ,ДОМАШНИЙ
+http://82.215.111.227/1436/index.m3u8?token=fas-tv.com
 #EXTINF:-1 ,ДОМАШНИЙ
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний International
