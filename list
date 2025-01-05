@@ -27,6 +27,7 @@ http://185.23.80.28:8080/NTVPravo/index.m3u8?token=test
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Зал суда
 http://46.17.41.254:2020/channel/n5aec9d69/index.m3u8?q=d41a27c3e8f49739095fb18ad6a0b0a3
+#rtmp://5.182.229.90//7141
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -198,8 +199,6 @@ https://s83.chas.tv:8082/chas/domashniy-hq.stream/playlist.m3u8
 http://82.215.111.227/1436/index.m3u8?token=fas-tv.com
 #EXTINF:-1 ,ДОМАШНИЙ
 http://130.193.73.10:8937/play/a008
-#EXTINF:-1 ,Домашний International
-http://178.124.152.238:8088/dom
 #EXTINF:-1 ,ПЯТНИЦА
 http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
 #EXTINF:-1 ,ПЯТНИЦА
@@ -310,7 +309,9 @@ http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #http://45.159.74.14/Channel_123/mono.m3u8
 #EXTINF:-1 ,National Geographic
-http://45.159.74.14/NationalGeographic/index.m3u8
+http://45.159.74.22/NationalGeographic/index.m3u8
+#EXTINF:-1 ,National Geographic
+http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
 #rtmp://5.182.229.90//7320
 #EXTINF:-1 ,Animal Planet
 http://dmi3y-tv.ru/hls/CH_ANIMALPLANETHD.m3u8
@@ -403,13 +404,13 @@ http://213.226.137.140:81/tl/l16/mpegts
 http://185.50.148.2:7711/Kinohit/index.m3u8
 #rtmp://5.182.229.90//7250
 #EXTINF:-1 ,КИНОХИТ
-http://45.159.74.14/Kinokhit/mono.m3u8
+http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 ,Кино ТВ
 http://194.190.78.80/kinotvplus4/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://86.57.198.251:8181/play/1026/index.m3u8
 #EXTINF:-1 ,Кинопремьера
-http://45.159.74.14/Kinopremera/mono.m3u8
+http://45.159.74.22/Kinopremera/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://213.226.137.140:81/tl/l111/mpegts
 #EXTINF:-1 ,КИНОМИКС
@@ -495,7 +496,7 @@ http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 http://live.admuspeh.my/8014/index.m3u8?token=iptv50na50
 #rtmp://5.182.229.90//7203
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
-http://45.159.74.14/MatchPlaneta/tracks-v1a1/mono.m3u8
+http://45.159.74.22/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! ИГРА
