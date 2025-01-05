@@ -104,9 +104,8 @@ http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
 #EXTINF:-1 ,Russia today
 http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 ,Соловьев.Live
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://195.26.83.96:7029/play/a003
-#http://livehlsvgtrk.cdnvideo.ru/iframe/stream/live_id/63338
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#http://195.26.83.96:7029/play/a003
 #EXTINF:-1 ,Соловьев.Live
 http://130.193.73.10:8937/play/a002
 #EXTINF:-1 ,Звезда
