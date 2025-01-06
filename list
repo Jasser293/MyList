@@ -123,7 +123,7 @@ http://s83.chas.tv:8081/chas/oruzhie.stream/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://185.37.150.40:8092/orujie/playlist.m3u8
 #EXTINF:-1 ,Арсенал
-http://45.143.108.104/arsenal/index.m3u8
+http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
 http://185.23.80.28:8080/RATNIK/index.m3u8?token=video
 #http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
@@ -390,9 +390,9 @@ http://88.218.242.237:8000/play/a00x
 #EXTINF:-1 ,ДОМ КИНО
 http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 ,Amedia 1
-http://45.143.108.104/AMEDIA1_SD/index.m3u8
+http://stream01.vnet.am/Channel_128/mono.m3u8
 #EXTINF:-1 ,Amedia 2
-http://45.143.108.104/AMEDIA2_SD/index.m3u8
+http://185.50.148.2:7707/A2/index.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://45.159.74.14/Nauka/index.m3u8
 #EXTINF:-1 ,Amedia Premium
@@ -454,7 +454,7 @@ http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 ,Viju TV1000
 http://93.189.224.246:52900/play/a00p/index.m3u8
 #EXTINF:-1 ,Viju TV1000
-http://45.143.108.104/TV1000_HD/index.m3u8
+http://185.50.148.2:7703/TV1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 ,Viju TV1000 Русское
