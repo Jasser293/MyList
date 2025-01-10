@@ -73,7 +73,7 @@ http://185.50.148.2:7702/OTR/index.m3u8
 #EXTINF:-1 ,Вместе РФ
 http://cdn-01.bonus-tv.ru:80/vmesterf/mono.m3u8
 #EXTINF:-1 ,Москва. Доверие
-http://185.23.80.28:8080/MoskvaDoverie/index.m3u8?token=iptv50na50
+http://185.23.80.28:8080/MoskvaDoverie/index.m3u8?token=itest
 #https://player.smotrim.ru/iframe/stream/live_id/61125
 #EXTINF:-1 ,Раменское ТВ
 http://46.254.94.238/rtv/0.m3u8
@@ -195,7 +195,7 @@ http://31.148.48.15/U/index.m3u8
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/domashniy-hq.stream/playlist.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
-http://185.23.80.28:8080/Domashnij/index.m3u8?token=iptv50na50
+http://185.23.80.28:8080/Domashnij/index.m3u8?token=itest
 #EXTINF:-1 ,ДОМАШНИЙ
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,ПЯТНИЦА
@@ -213,7 +213,7 @@ http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
 http://213.226.137.140:81/tl/l105/mpegts
 #EXTINF:-1 ,Авто плюс
-http://live.admuspeh.my/8095/index.m3u8?token=iptv50na50
+http://live.admuspeh.my/8095/index.m3u8?token=itest
 #EXTINF:-1 ,ДРАЙВ
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 ,Мужской
@@ -265,7 +265,7 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
 #http://176.222.191.62/btv/live/hls/000002927.m3u8
 #EXTINF:-1 ,ЗООПАРК
-http://live.admuspeh.my/8655/index.m3u8?token=iptv50na50
+http://live.admuspeh.my/8655/index.m3u8?token=itest
 #EXTINF:-1 ,Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
@@ -275,14 +275,14 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://live.admuspeh.my/8073/index.m3u8?token=iptv50na50
+http://live.admuspeh.my/8073/index.m3u8?token=itest
 #EXTINF:-1 ,Кто Есть Кто
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://live.admuspeh.my/8105/index.m3u8?token=iptv50na50
+http://live.admuspeh.my/8105/index.m3u8?token=itest
 #EXTINF:-1 ,Кто Есть Кто
 https://wowza4.leisertv.com/live/ktoyestkto.stream/playlist.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-http://live.admuspeh.my/8053/index.m3u8?token=iptv50na50
+http://live.admuspeh.my/8053/index.m3u8?token=itest
 #EXTINF:-1 ,Вопросы и ответы
 https://89.39.107.10/live/voprosyiotvety.stream/playlist.m3u8
 #EXTINF:-1 ,Спас
@@ -475,13 +475,13 @@ http://213.226.137.140:81/tl/l79/mpegts
 #EXTINF:-1 ,Киносемья
 http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 ,Киносерия
-http://live.admuspeh.my/8043/index.m3u8?token=iptv50na50
+http://live.admuspeh.my/8043/index.m3u8?token=itest
 #EXTINF:-1 ,Душевное
-http://live.admuspeh.my/8296/index.m3u8?token=iptv50na50
+http://live.admuspeh.my/8296/index.m3u8?token=itest
 #EXTINF:-1 ,Наше новое кино
 http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 ,Премиальное
-http://live.admuspeh.my/8028/video.m3u8?token=iptv50na50
+http://live.admuspeh.my/8028/video.m3u8?token=itest
 #rtmp://5.182.229.90//7222
 #EXTINF:-1 ,Кошмар
 http://195.9.195.3:8080/hls/204709.m3u8
@@ -492,7 +492,7 @@ http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://live.admuspeh.my/8014/index.m3u8?token=iptv50na50
+http://live.admuspeh.my/8014/index.m3u8?token=itest
 #rtmp://5.182.229.90//7203
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
 http://45.159.74.22/MatchPlaneta/tracks-v1a1/mono.m3u8
