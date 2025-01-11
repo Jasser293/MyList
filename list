@@ -132,7 +132,7 @@ http://94.230.128.105:8080/5_kanal/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://185.23.80.28:8080/Pyatyj/index.m3u8?token=test
 #EXTINF:-1 ,ЦТВ
-http://88.218.242.237:8000/play/a00t
+http://185.23.80.28:8080/CentralnoeTelevidenie/index.m3u8?token=test
 #EXTINF:-1 ,Перец
 http://112.72.4.116/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,Перец
@@ -386,7 +386,7 @@ http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 ,2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,VHS-ка
-http://88.218.242.237:8000/play/a00x
+http://live.admuspeh.my/8962/video.m3u8?token=test
 #EXTINF:-1 ,ДОМ КИНО
 http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 ,Amedia 1
