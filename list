@@ -477,7 +477,7 @@ http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 ,Киносерия
 http://live.admuspeh.my/8043/index.m3u8?token=itest
 #EXTINF:-1 ,Душевное
-http://live.admuspeh.my/8296/index.m3u8?token=itest
+http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 ,Премиальное
