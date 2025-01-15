@@ -516,7 +516,7 @@ http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
 #EXTINF:-1 ,KHL
 http://45.159.74.14/Channel_113/mono.m3u8
 #EXTINF:-1 ,KHL Prime
-http://87.250.254.45/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+http://213.226.137.140:81/tl/l67/mpegts
 #EXTINF:-1 ,Tennis Channel
 http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
