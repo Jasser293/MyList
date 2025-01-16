@@ -489,7 +489,7 @@ http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
-http://45.132.87.69:8080/eurosport1/mono.m3u8
+http://live.admuspeh.my/8013/index.m3u8?token=itest
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
