@@ -492,7 +492,7 @@ http://live.admuspeh.my/8013/index.m3u8?token=itest
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://live.admuspeh.my/8014/index.m3u8?token=itest
+http://tinyurl.com/2szybtdy
 #rtmp://5.182.229.90//7203
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
 http://45.159.74.22/MatchPlaneta/tracks-v1a1/mono.m3u8
