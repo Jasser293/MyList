@@ -42,7 +42,6 @@ http://213.226.137.140:81/tl/l42/mpegts
 #http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 ,Россия 1
 http://185.23.80.28:8080/Rossiya1/index.m3u8?token=video
-#http://player.smotrim.ru/iframe/stream/live_id/2961
 #EXTINF:-1 ,Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 ,Россия 1 (+4)
@@ -408,7 +407,7 @@ http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 ,Кино ТВ
 http://194.190.78.80/kinotvplus4/index.m3u8
 #EXTINF:-1 ,Кино ТВ
-http://86.57.198.251:8181/play/1026/index.m3u8
+http://live-3.otcnet.ru/kinotvplus4/index.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://45.159.74.22/Kinopremera/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
@@ -510,9 +509,9 @@ http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 ,Матч! Футбол 1
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 ,Матч! Футбол 2
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+http://live.admuspeh.my/8022/index.m3u8?token=itest
 #EXTINF:-1 ,Матч! Футбол 3
-http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
+http://live.admuspeh.my/8238/index.m3u8?token=itest
 #EXTINF:-1 ,KHL
 http://45.159.74.14/Channel_113/mono.m3u8
 #EXTINF:-1 ,KHL Prime
@@ -537,7 +536,7 @@ http://dmi3y-tv.ru/hls/CH_MULT.m3u8
 #EXTINF:-1 ,Tiji
 http://dmi3y-tv.ru/hls/CH_TIJI.m3u8
 #EXTINF:-1 ,Gulli Girl
-http://86.57.198.251:8181/play/1091/index.m3u8
+http://130.193.73.10:8937/play/a00v
 #EXTINF:-1 ,Карусель
 http://193.242.190.6:8099/8/index.m3u8
 #EXTINF:-1 ,Cartoonito
