@@ -503,9 +503,9 @@ http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 ,Матч! Футбол 1
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 ,Матч! Футбол 2
-http://tinyurl.com/57cefwk7
+http://live.admuspeh.my/8022/index.m3u8?token=itest
 #EXTINF:-1 ,Матч! Футбол 3
-http://tinyurl.com/3mv5b55t
+http://live.admuspeh.my/8029/index.m3u8?token=itest
 #EXTINF:-1 ,KHL
 http://45.159.74.14/Channel_113/mono.m3u8
 #EXTINF:-1 ,KHL Prime
