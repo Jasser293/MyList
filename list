@@ -421,7 +421,7 @@ http://185.23.80.28:8080/Tayna/index.m3u8?token=video
 #EXTINF:-1 ,Русский бестселлер
 http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 ,Русский бестселлер
-http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
+http://185.37.150.40:8092/russkiy_b/playlist.m3u8
 #EXTINF:-1 ,Русский детектив
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский детектив
