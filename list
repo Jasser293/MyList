@@ -188,7 +188,7 @@ http://185.23.80.28:8080/Che/index.m3u8?token=video
 #EXTINF:-1 ,Ю
 http://213.226.137.140:81/tl/l1006/index.m3u8
 #EXTINF:-1 ,Ю
-http://31.148.48.15/U/index.m3u8
+http://185.23.80.28:8080/Yu/index.m3u8?token=itest
 #EXTINF:-1 ,ДОМАШНИЙ
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/domashniy-hq.stream/playlist.m3u8
