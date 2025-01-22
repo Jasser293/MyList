@@ -3,8 +3,7 @@
 http://213.226.137.140:81/tl/l46/mpegts
 #http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://194.143.148.28:8080/PerviyHD/mpegts
+http://93.189.224.246:52900/play/a011/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1 ,Первый канал
@@ -187,7 +186,7 @@ http://130.193.73.10:8937/play/a01v
 #EXTINF:-1 ,Че!
 http://185.23.80.28:8080/Che/index.m3u8?token=video
 #EXTINF:-1 ,Ю
-http://194.143.148.28:8080/U/index.m3u8
+http://213.226.137.140:81/tl/l1006/index.m3u8
 #EXTINF:-1 ,Ю
 http://31.148.48.15/U/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
@@ -270,7 +269,7 @@ http://91.205.199.3/zoopark/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://194.143.148.28:8080/Nauka20/mpegts
+http://live.admuspeh.my/8154/index.m3u8?token=itest
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
@@ -458,7 +457,7 @@ http://185.50.148.2:7703/TV1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 ,Viju TV1000 Русское
-http://194.143.148.28:8080/TV1000RuKino/mpegts
+http://185.50.148.2:7703/TV1000RusKino/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
