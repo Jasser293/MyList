@@ -502,7 +502,7 @@ http://213.226.137.140:81/tl/l104/mpegts
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 ,Матч! Футбол 1
-http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+http://live.admuspeh.my/8236/index.m3u8?token=itest
 #EXTINF:-1 ,Матч! Футбол 2
 http://live.admuspeh.my/8022/index.m3u8?token=itest
 #EXTINF:-1 ,Матч! Футбол 3
