@@ -116,10 +116,9 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/oruzhie.stream/playlist.m3u8
 #EXTINF:-1 ,Оружие
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/oruzhie.stream/playlist.m3u8
+http://live.admuspeh.my/8206/index.m3u8?token=itest
 #EXTINF:-1 ,Оружие
-http://185.37.150.40:8092/orujie/playlist.m3u8
+https://tinyurl.com/2p969d55
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -419,7 +418,7 @@ http://185.23.80.28:8080/Tayna/index.m3u8?token=video
 #EXTINF:-1 ,Русский бестселлер
 http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 ,Русский бестселлер
-http://185.37.150.40:8092/russkiy_b/playlist.m3u8
+http://live.admuspeh.my/8162/index.m3u8?token=itest
 #EXTINF:-1 ,Русский детектив
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский детектив
