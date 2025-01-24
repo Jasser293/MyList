@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml,https://iptvx.one/EPG_LITE"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://213.226.137.140:81/tl/l46/mpegts
 #http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
@@ -96,22 +96,6 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 ,Russia today
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
-#EXTINF:-1 ,Russia today
-http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 ,Соловьев.Live
-http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#http://195.26.83.96:7029/play/a003
-#EXTINF:-1 ,Соловьев.Live
-http://130.193.73.10:8937/play/a002
-#EXTINF:-1 ,Звезда
-http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 ,ЗВЕЗДА HD
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 ,Звезда плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Оружие
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/oruzhie.stream/playlist.m3u8
@@ -216,6 +200,22 @@ http://live.admuspeh.my/8095/index.m3u8?token=itest
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 ,Мужской
 http://185.23.80.28:8080/Muzhskoy/index.m3u8?token=video
+#EXTINF:-1 ,Russia today
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
+#EXTINF:-1 ,Russia today
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 ,Соловьев.Live
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#http://195.26.83.96:7029/play/a003
+#EXTINF:-1 ,Соловьев.Live
+http://130.193.73.10:8937/play/a002
+#EXTINF:-1 ,Звезда
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 ,ЗВЕЗДА HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 ,Звезда плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Motorsport
 http://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 #EXTINF:-1 ,MotoR Racing
