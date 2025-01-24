@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+#EXTM3U url-tvg="http://epg.one/epg2.xml,https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://213.226.137.140:81/tl/l46/mpegts
 #http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
@@ -69,7 +69,7 @@ http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
 #EXTINF:-1 ,ОТР
 http://185.50.148.2:7702/OTR/index.m3u8
 #EXTINF:-1 ,Вместе РФ
-http://cdn-01.bonus-tv.ru:80/vmesterf/mono.m3u8
+http://185.23.80.28:8080/Vmeste-RF_HD/index.m3u8?token=itest
 #EXTINF:-1 ,Москва. Доверие
 http://185.23.80.28:8080/MoskvaDoverie/index.m3u8?token=itest
 #https://player.smotrim.ru/iframe/stream/live_id/61125
@@ -102,7 +102,7 @@ https://s83.chas.tv:8082/chas/oruzhie.stream/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://live.admuspeh.my/8206/index.m3u8?token=itest
 #EXTINF:-1 ,Оружие
-https://tinyurl.com/2p969d55
+#https://tinyurl.com/2p969d55
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -372,7 +372,7 @@ http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
 http://185.23.80.28:8080/Teatr/index.m3u8?token=test
 #EXTINF:-1 ,Калейдоскоп ТВ
-http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/index.m3u8
+http://origin5.mediacdn.ru/live/kaleidoskop/index.m3u8
 #EXTINF:-1 ,Сапфир
 http://109.200.130.123:7537/play/a028
 #EXTINF:-1 ,Сапфир
@@ -532,7 +532,7 @@ http://130.193.73.10:8937/play/a00v
 #EXTINF:-1 ,Карусель
 http://193.242.190.6:8099/8/index.m3u8
 #EXTINF:-1 ,Cartoonito
-http://45.159.74.14/Channel_120/tracks-v1a1/mono.m3u8
+http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 ,Cartoon Network
 http://112.72.4.116/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 ,TV6 LT
