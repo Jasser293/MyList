@@ -133,9 +133,8 @@ http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 http://93.189.224.246:52900/play/a00u/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://94.230.128.105:8080/THT/index.m3u8
-#https://93.88.79.156/live/38.m3u8
 #EXTINF:-1 ,ТНТ
-http://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+http://195.49.206.244:90/TNT4/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ4
 http://213.226.137.140:81/tl/l63/mpegts
 #EXTINF:-1 ,ТНТ4
@@ -502,7 +501,7 @@ http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 ,Матч! Футбол 1
 http://217.113.16.2/matchfutbol1/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 2
-http://live.admuspeh.my/8022/index.m3u8?token=itest
+http://195.49.206.244:90/Football_2HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 3
 http://live.admuspeh.my/8029/index.m3u8?token=itest
 #EXTINF:-1 ,KHL
