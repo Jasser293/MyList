@@ -196,7 +196,7 @@ http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
 http://213.226.137.140:81/tl/l105/mpegts
 #EXTINF:-1 ,Авто плюс
-http://live.admuspeh.my/8095/index.m3u8?token=itest
+http://217.113.16.2/Avtoplus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 ,Мужской
@@ -268,7 +268,7 @@ http://91.205.199.3/zoopark/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://live.admuspeh.my/8154/index.m3u8?token=itest
+http://stream01.vnet.am/365Dney/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
@@ -282,7 +282,7 @@ https://wowza4.leisertv.com/live/ktoyestkto.stream/playlist.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 https://89.39.107.10/live/voprosyiotvety.stream/playlist.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-http://live.admuspeh.my/8053/index.m3u8?token=itest
+https://wowza4.leisertv.com/live/voprosyiotvety.stream/playlist.m3u8
 #EXTINF:-1 ,Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Союз
@@ -383,8 +383,8 @@ http://130.193.73.10:8937/play/a01d
 http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 ,2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:-1 ,VHS-ка
-http://live.admuspeh.my/8962/video.m3u8?token=itest
+#EXTINF:-1 ,Видеокассета VHS
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 ,ДОМ КИНО
 http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 ,Amedia 1
@@ -419,7 +419,7 @@ http://185.23.80.28:8080/Tayna/index.m3u8?token=video
 #EXTINF:-1 ,Русский бестселлер
 http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 ,Русский бестселлер
-http://live.admuspeh.my/8162/index.m3u8?token=itest
+http://178.57.121.38:8080/rusbest/index.m3u8?token=test
 #EXTINF:-1 ,Русский детектив
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский детектив
@@ -500,7 +500,7 @@ http://213.226.137.140:81/tl/l104/mpegts
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 ,Матч! Футбол 1
-http://live.admuspeh.my/8236/index.m3u8?token=itest
+http://217.113.16.2/matchfutbol1/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 2
 http://live.admuspeh.my/8022/index.m3u8?token=itest
 #EXTINF:-1 ,Матч! Футбол 3
