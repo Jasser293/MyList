@@ -24,8 +24,6 @@ http://185.23.80.28:8080/NTVPravo/index.m3u8?token=test
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Зал суда
-#rtmp://5.182.229.90//7141
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -123,7 +121,6 @@ http://45.159.74.14/Perec/mono.m3u8
 http://45.159.74.14/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
 http://95.67.12.82:9069
-#rtmp://5.182.229.90//7142
 #EXTINF:-1 ,ТНТ HD
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/tnttv-hq.stream/playlist.m3u8
@@ -233,7 +230,6 @@ http://112.72.4.116/live/disk1/Bober/HLS-FTA/Bober.m3u8
 http://213.226.137.140:81/tl/l112/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
-#rtmp://5.182.229.90//7348
 #EXTINF:-1 ,Загородный
 http://45.159.74.14/DTX/mono.m3u8
 #EXTINF:-1 ,Доктор
@@ -310,7 +306,6 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 http://45.159.74.22/NationalGeographic/index.m3u8
 #EXTINF:-1 ,National Geographic
 http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
-#rtmp://5.182.229.90//7320
 #EXTINF:-1 ,Animal Planet
 http://dmi3y-tv.ru/hls/CH_ANIMALPLANETHD.m3u8
 #EXTINF:-1 ,Наука
@@ -402,7 +397,6 @@ http://45.159.74.14/AmediaPremium/mono.m3u8
 http://213.226.137.140:81/tl/l16/mpegts
 #EXTINF:-1 ,КИНОХИТ
 http://185.50.148.2:7711/Kinohit/index.m3u8
-#rtmp://5.182.229.90//7250
 #EXTINF:-1 ,КИНОХИТ
 http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 ,Кино ТВ
@@ -468,10 +462,8 @@ http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/komediya.stream/playlist.m3u8
-#rtmp://5.182.229.90//7248
 #EXTINF:-1 ,Киномикс
 http://213.226.137.140:81/tl/l79/mpegts
-#rtmp://5.182.229.90//7249
 #EXTINF:-1 ,Киносемья
 http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 ,Наше новое кино
