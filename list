@@ -233,13 +233,11 @@ http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 ,Загородный
 http://45.159.74.14/DTX/mono.m3u8
 #EXTINF:-1 ,Доктор
-http://195.49.206.244:90/Doktor/mono.m3u8?token=video
-#EXTINF:-1 ,Доктор
 http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Доктор
 http://178.57.121.38:8080/doctor/index.m3u8?token=test
 #EXTINF:-1 ,Здоровое ТВ
-http://46.151.151.250:9036
+http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://live.admuspeh.my/8127/index.m3u8?token=iptv
 #EXTINF:-1 ,Тонус 
