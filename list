@@ -298,8 +298,7 @@ http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 ,History
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-#http://45.159.74.14/Channel_123/mono.m3u8
+http://45.159.74.14/Channel_123/mono.m3u8
 #EXTINF:-1 ,National Geographic
 http://45.159.74.22/NationalGeographic/index.m3u8
 #EXTINF:-1 ,National Geographic
@@ -448,7 +447,7 @@ http://93.189.224.246:52900/play/a00p/index.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://185.50.148.2:7703/TV1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
-http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
+http://213.226.137.140:81/tl/l93/mpegts
 #EXTINF:-1 ,Viju TV1000 Русское
 http://185.50.148.2:7703/TV1000RusKino/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
