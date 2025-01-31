@@ -236,6 +236,8 @@ http://45.159.74.14/DTX/mono.m3u8
 http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Доктор
 http://178.57.121.38:8080/doctor/index.m3u8?token=test
+#EXTINF:-1 ,Доктор
+http://31.131.136.5:9006/play/a00b
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
@@ -302,7 +304,7 @@ http://45.159.74.14/Channel_123/mono.m3u8
 #EXTINF:-1 ,National Geographic
 http://45.159.74.22/NationalGeographic/index.m3u8
 #EXTINF:-1 ,National Geographic
-http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
+http://31.211.77.158:8000/play/a141/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://dmi3y-tv.ru/hls/CH_ANIMALPLANETHD.m3u8
 #EXTINF:-1 ,Наука
@@ -477,6 +479,10 @@ http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://live.admuspeh.my/8014/index.m3u8?token=itest
+#EXTINF:-1 ,Eurosport 2
+http://91.207.115.228:5000/c154
+#EXTINF:-1 ,Eurosport 2
+http://45.133.106.36/eurosport2/index.m3u8
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
@@ -496,7 +502,7 @@ http://217.113.16.2/matchfutbol1/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 2
 http://195.49.206.244:90/Football_2HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 3
-http://live.admuspeh.my/8029/index.m3u8?token=itest
+http://195.49.206.244:90/football_3/mono.m3u8?token=video
 #EXTINF:-1 ,KHL
 http://45.159.74.14/Channel_113/mono.m3u8
 #EXTINF:-1 ,KHL Prime
