@@ -401,6 +401,8 @@ http://213.226.137.140:81/tl/l16/mpegts
 #EXTINF:-1 ,КИНОХИТ
 http://185.50.148.2:7711/Kinohit/index.m3u8
 #EXTINF:-1 ,КИНОХИТ
+http://195.49.206.244:90/kinohit/mono.m3u8?token=video
+#EXTINF:-1 ,КИНОХИТ
 http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 ,Кино ТВ
 http://194.190.78.80/kinotvplus4/index.m3u8
