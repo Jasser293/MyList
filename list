@@ -24,6 +24,8 @@ http://185.23.80.28:8080/NTVPravo/index.m3u8?token=test
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Зал суда
+http://31.131.136.5:9009/play/a00b
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -139,6 +141,10 @@ http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТНТ4
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/fourtv.stream/playlist.m3u8
+#EXTINF:-1 ,Твоё ТВ
+http://87.228.57.152:8987/CH_TVOETV/index.m3u8
+#EXTINF:-1 ,Твоё ТВ Юмор
+http://87.228.57.152:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://93.189.224.246:52900/play/a016/index.m3u8
 #EXTINF:-1 ,ТВ3
