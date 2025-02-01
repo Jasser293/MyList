@@ -261,7 +261,7 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
 #http://176.222.191.62/btv/live/hls/000002927.m3u8
 #EXTINF:-1 ,ЗООПАРК
-http://91.205.199.3/zoopark/index.m3u8
+http://195.49.206.244:90/Zoopark/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
@@ -380,8 +380,8 @@ http://185.23.80.28:8080/2x2/index.m3u8?token=test
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,VHS-ка
 http://live.admuspeh.my/8962/video.m3u8?token=itest
-#EXTINF:-1 ,Видеокассета VHS
-https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1 ,CineMan VHS
+http://live.admuspeh.my/8807/index.m3u8?token=itest
 #EXTINF:-1 ,ДОМ КИНО
 http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 ,Amedia 1
