@@ -386,8 +386,6 @@ http://185.23.80.28:8080/2x2/index.m3u8?token=test
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,VHS-ка
 http://live.admuspeh.my/8962/video.m3u8?token=itest
-#EXTINF:-1 ,CineMan VHS
-http://live.admuspeh.my/8807/index.m3u8?token=itest
 #EXTINF:-1 ,ДОМ КИНО
 http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 ,Amedia 1
