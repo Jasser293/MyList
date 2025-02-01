@@ -441,9 +441,9 @@ http://109.200.130.123:7537/play/a02g
 http://130.193.73.10:8937/play/a03c
 #http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://193.242.190.6:8099/98/index.m3u8
+http://91.207.115.228:5000/c29
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://185.50.148.2:7706/Mosfilm/index.m3u8
+http://45.133.106.36/mosfilm/index.m3u8
 #EXTINF:-1 ,.Black
 http://185.50.148.2:7703/Sony_Turbo/index.m3u8
 #EXTINF:-1 ,Индия
