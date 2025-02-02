@@ -198,7 +198,8 @@ http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
 http://213.226.137.140:81/tl/l105/mpegts
 #EXTINF:-1 ,Авто плюс
-http://217.113.16.2/Avtoplus/index.m3u8
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/auto.stream/playlist.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 ,Мужской
@@ -400,7 +401,7 @@ http://45.159.74.14/AmediaPremium/mono.m3u8
 http://213.226.137.140:81/tl/l16/mpegts
 #EXTINF:-1 ,КИНОХИТ
 http://185.50.148.2:7711/Kinohit/index.m3u8
-#EXTINF:-1 ,КИНОХИТ
+#EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,КИНОХИТ
 http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
@@ -443,7 +444,7 @@ http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://91.207.115.228:5000/c29
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://45.133.106.36/mosfilm/index.m3u8
+http://31.131.136.5:9004/play/a002
 #EXTINF:-1 ,.Black
 http://185.50.148.2:7703/Sony_Turbo/index.m3u8
 #EXTINF:-1 ,Индия
@@ -508,7 +509,7 @@ http://213.226.137.140:81/tl/l104/mpegts
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 ,Матч! Футбол 1
-http://217.113.16.2/matchfutbol1/index.m3u8
+http://91.207.115.228:5000/c114
 #EXTINF:-1 ,Матч! Футбол 2
 http://195.49.206.244:90/Football_2HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 3
@@ -540,7 +541,7 @@ http://130.193.73.10:8937/play/a00v
 #EXTINF:-1 ,Карусель
 http://193.242.190.6:8099/8/index.m3u8
 #EXTINF:-1 ,Cartoonito
-http://135.181.115.81:8000/play/a01f/index.m3u8?token=livetv
+http://stream01.vnet.am/Channel_120/mono.m3u8
 #EXTINF:-1 ,Cartoon Network
 http://112.72.4.116/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 ,TV6 LT
