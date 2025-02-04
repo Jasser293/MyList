@@ -280,7 +280,7 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
 http://live.admuspeh.my/8073/index.m3u8?token=itest
 #EXTINF:-1 ,Кто Есть Кто
-https://89.39.107.10/live/ktoyestkto.stream/playlist.m3u8
+http://tv.newline.in.ua:9000/play/f08a
 #EXTINF:-1 ,Кто Есть Кто
 http://tinyurl.com/whbasjxe
 #EXTINF:-1 ,Вопросы и ответы
@@ -311,7 +311,7 @@ http://45.159.74.14/Channel_123/mono.m3u8
 #EXTINF:-1 ,National Geographic
 http://45.159.74.22/NationalGeographic/index.m3u8
 #EXTINF:-1 ,National Geographic
-http://31.211.77.158:8000/play/a141/index.m3u8
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 ,Animal Planet
 http://dmi3y-tv.ru/hls/CH_ANIMALPLANETHD.m3u8
 #EXTINF:-1 ,Наука
@@ -442,7 +442,7 @@ http://109.200.130.123:7537/play/a02g
 http://130.193.73.10:8937/play/a03c
 #http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://91.207.115.228:5000/c29
+http://195.49.206.244:90/Mosfilm/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://31.131.136.5:9004/play/a002
 #EXTINF:-1 ,.Black
@@ -491,9 +491,7 @@ http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://live.admuspeh.my/8014/index.m3u8?token=itest
 #EXTINF:-1 ,Eurosport 2
-http://91.207.115.228:5000/c154
-#EXTINF:-1 ,Eurosport 2
-http://45.133.106.36/eurosport2/index.m3u8
+http://tinyurl.com/mbx3cewk
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
@@ -509,7 +507,7 @@ http://213.226.137.140:81/tl/l104/mpegts
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://213.226.137.140:81/tl/l73/mpegts
 #EXTINF:-1 ,Матч! Футбол 1
-http://91.207.115.228:5000/c114
+http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 2
 http://195.49.206.244:90/Football_2HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 3
