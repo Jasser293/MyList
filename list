@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://213.226.137.140:81/tl/l46/mpegts
-#http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://93.189.224.246:52900/play/a011/index.m3u8
 #EXTINF:-1 ,Первый канал
@@ -13,7 +12,6 @@ http://81.211.33.84/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://213.226.137.140:81/tl/l40/mpegts
-#http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1 ,НТВ
 http://185.23.80.28:8080/NTV/index.m3u8?token=test
 #EXTINF:-1 ,НТВ
@@ -38,7 +36,6 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://213.226.137.140:81/tl/l42/mpegts
-#http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 ,Россия 1
 http://185.23.80.28:8080/Rossiya1/index.m3u8?token=video
 #EXTINF:-1 ,Россия 1
@@ -59,7 +56,8 @@ http://185.23.80.28:8080/REN/index.m3u8?token=test
 http://130.193.73.10:8937/play/a00i
 #EXTINF:-1 ,Рен ТВ International
 http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
-#http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+#EXTINF:-1 ,Рен ТВ International
+http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
 http://213.226.137.140:81/tl/l28/mpegts
 #EXTINF:-1 ,ТВЦ
@@ -72,7 +70,6 @@ http://185.50.148.2:7702/OTR/index.m3u8
 http://185.23.80.28:8080/Vmeste-RF_HD/index.m3u8?token=itest
 #EXTINF:-1 ,Москва. Доверие
 http://185.23.80.28:8080/MoskvaDoverie/index.m3u8?token=itest
-#https://player.smotrim.ru/iframe/stream/live_id/61125
 #EXTINF:-1 ,Раменское ТВ
 http://46.254.94.238/rtv/0.m3u8
 #EXTINF:-1 ,Неизвестная Россия
@@ -108,7 +105,6 @@ http://s83.chas.tv:8081/chas/oruzhie.stream/playlist.m3u8
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
 http://185.23.80.28:8080/RATNIK/index.m3u8?token=video
-#http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
 http://94.230.128.105:8080/5_kanal/index.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -230,7 +226,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.
 http://195.49.206.244:90/Usadba/mono.m3u8?token=video
 #EXTINF:-1 ,Усадьба
 http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
-#http://dmi3y-tv.ru/hls/CH_USADBA.m3u8
 #EXTINF:-1 ,Бобёр
 http://112.72.4.116/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
@@ -293,7 +288,6 @@ http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 ,МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 ,Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Три Ангела
@@ -301,10 +295,8 @@ http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 #EXTINF:-1 ,Надежда
 http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
 #EXTINF:-1 ,Discovery Channel
-#EXTVLCOPT:http-user-agent=Donate BTC
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Investigation Discovery
-#EXTVLCOPT:http-user-agent=Donate BTC
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 ,History
 http://45.159.74.14/Channel_123/mono.m3u8
@@ -346,7 +338,8 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Муз ТВ
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/muztvtv-hq.stream/playlist.m3u8
-#http://45.159.74.14/MuzTv/mono.m3u8
+#EXTINF:-1 ,Муз ТВ
+http://45.159.74.14/MuzTv/mono.m3u8
 #EXTINF:-1 ,Ля-минор
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://s83.chas.tv:8081/chas/lyaminor.stream/playlist.m3u8
@@ -380,7 +373,6 @@ http://origin5.mediacdn.ru/live/kaleidoskop/index.m3u8
 http://109.200.130.123:7537/play/a028
 #EXTINF:-1 ,Сапфир
 http://130.193.73.10:8937/play/a01d
-#http://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
 #EXTINF:-1 ,2x2
 http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 ,2x2
@@ -440,7 +432,8 @@ http://130.193.73.10:8937/play/a02l
 http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 ,НСТ
 http://130.193.73.10:8937/play/a03c
-#http://45.159.74.14/Channel_125/mono.m3u8
+#EXTINF:-1 ,НСТ
+http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
