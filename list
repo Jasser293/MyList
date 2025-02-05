@@ -279,9 +279,9 @@ http://tv.newline.in.ua:9000/play/f08a
 #EXTINF:-1 ,Кто Есть Кто
 http://tinyurl.com/whbasjxe
 #EXTINF:-1 ,Вопросы и ответы
-https://89.39.107.10/live/voprosyiotvety.stream/playlist.m3u8
-#EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
+#EXTINF:-1 ,Вопросы и ответы
+http://tinyurl.com/3ks7rewf
 #EXTINF:-1 ,Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Союз
