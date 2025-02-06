@@ -398,9 +398,9 @@ http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,КИНОХИТ
 http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 ,Кино ТВ
-http://194.190.78.80/kinotvplus4/index.m3u8
+http://185.23.80.28:8080/Kino_TV/index.m3u8?token=itest
 #EXTINF:-1 ,Кино ТВ
-http://live-3.otcnet.ru/kinotvplus4/index.m3u8
+http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://45.159.74.22/Kinopremera/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
