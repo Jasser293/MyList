@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://213.226.137.140:81/tl/l46/mpegts
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
@@ -106,7 +106,7 @@ http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
 http://185.23.80.28:8080/RATNIK/index.m3u8?token=video
 #EXTINF:-1 ,Пятый канал
-http://94.230.128.105:8080/5_kanal/index.m3u8
+http://195.49.206.244:90/5kanal/mono.m3u8?token=video
 #EXTINF:-1 ,Пятый канал
 http://185.23.80.28:8080/Pyatyj/index.m3u8?token=test
 #EXTINF:-1 ,ЦТВ
@@ -127,8 +127,6 @@ http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 #EXTINF:-1 ,ТНТ
 http://93.189.224.246:52900/play/a00u/index.m3u8
 #EXTINF:-1 ,ТНТ
-http://94.230.128.105:8080/THT/index.m3u8
-#EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ4
 http://213.226.137.140:81/tl/l63/mpegts
@@ -137,10 +135,6 @@ http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТНТ4
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/fourtv.stream/playlist.m3u8
-#EXTINF:-1 ,Твоё ТВ
-http://87.228.57.152:8987/CH_TVOETV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
-http://87.228.57.152:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://93.189.224.246:52900/play/a016/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -275,13 +269,9 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
 http://live.admuspeh.my/8073/index.m3u8?token=itest
 #EXTINF:-1 ,Кто Есть Кто
-http://tv.newline.in.ua:9000/play/f08a
-#EXTINF:-1 ,Кто Есть Кто
-http://tinyurl.com/whbasjxe
+http://31.131.136.5:9000/play/f08a
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
-#EXTINF:-1 ,Вопросы и ответы
-http://tinyurl.com/3ks7rewf
 #EXTINF:-1 ,Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Союз
@@ -468,7 +458,7 @@ http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 ,Премиальное
-http://tinyurl.com/2tcp3b5w
+http://116bc677.amazzin.pw/iptv/DDUW3MS3CHQ98L2M74NWZZRR/7222/index.m3u8
 #EXTINF:-1 ,Кошмар
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 ,Киноужас
@@ -482,9 +472,11 @@ http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://live.admuspeh.my/8014/index.m3u8?token=itest
+http://tinyurl.com/2frucm89
 #EXTINF:-1 ,Eurosport 2
 http://tinyurl.com/mbx3cewk
+#EXTINF:-1 ,Eurosport 2
+http://live.admuspeh.my/8014/index.m3u8?token=itest
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
