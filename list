@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://213.226.137.140:81/tl/l46/mpegts
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
@@ -137,6 +137,10 @@ http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТНТ4
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/fourtv.stream/playlist.m3u8
+#EXTINF:-1 ,Твоё ТВ
+http://lime-pi.tlgx.ru:8987/CH_TVOETV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
+http://lime-pi.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://93.189.224.246:52900/play/a016/index.m3u8
 #EXTINF:-1 ,ТВ3
