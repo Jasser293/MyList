@@ -23,7 +23,8 @@ http://185.23.80.28:8080/NTVPravo/index.m3u8?token=test
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Зал суда
-http://31.131.136.5:9009/play/a00b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0https://tinyurl.com/ynnkpeud
+http://tinyurl.com/ynnkpeud
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -269,9 +270,13 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
 http://live.admuspeh.my/8073/index.m3u8?token=itest
 #EXTINF:-1 ,Кто Есть Кто
+http://cdn.admuspeh.my/8105/index.m3u8?token=itest
+#EXTINF:-1 ,Кто Есть Кто
 http://31.131.136.5:9000/play/f08a
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
+#EXTINF:-1 ,Вопросы и ответы
+http://cdn.admuspeh.my/8053/index.m3u8?token=itest
 #EXTINF:-1 ,Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Союз
@@ -457,6 +462,8 @@ http://213.226.137.140:81/tl/l79/mpegts
 http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://178.212.71.253:8002/play/a00i/index.m3u8
+#EXTINF:-1 ,Премиальное
+http://cdn.admuspeh.my/8028/video.m3u8?token=itest
 #EXTINF:-1 ,Премиальное
 http://116bc677.amazzin.pw/iptv/DDUW3MS3CHQ98L2M74NWZZRR/7222/index.m3u8
 #EXTINF:-1 ,Кошмар
