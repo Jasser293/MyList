@@ -247,7 +247,7 @@ http://cdn.admuspeh.my/8214/index.m3u8?token=itest
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
-http://live.admuspeh.my/8127/index.m3u8?token=iptv
+http://cdn.admuspeh.my/8127/index.m3u8?token=iptv
 #EXTINF:-1 ,Тонус 
 http://185.23.80.28:8080/Zdorove/index.m3u8?token=itest
 #EXTINF:-1 ,Живи
