@@ -24,7 +24,7 @@ http://185.23.80.28:8080/NTVPravo/index.m3u8?token=test
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Зал суда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0https://tinyurl.com/ynnkpeud
-https://mhd116.iptv2022.com/p/PGI-7vc6hEAfzCnVGJATwA,1739048412/streaming/zal_suda/324/1/tracks-v5a1/mono.m3u8
+https://mhd116.iptv2022.com/p/uaPjFI0VgACdB-eVMVlqhg,1739134242/streaming/zal_suda/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -99,7 +99,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 https://s83.chas.tv:8082/chas/oruzhie.stream/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://live.admuspeh.my/8206/index.m3u8?token=itest
+http://cdn.admuspeh.my/8206/index.m3u8?token=itest
 #EXTINF:-1 ,Оружие
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://s83.chas.tv:8081/chas/oruzhie.stream/playlist.m3u8
