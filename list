@@ -165,13 +165,13 @@ http://213.226.137.140:81/tl/l1006/index.m3u8
 #EXTINF:-1 ,Ю
 http://185.23.80.28:8080/Yu/index.m3u8?token=itest
 #EXTINF:-1 ,ДОМАШНИЙ
-http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
-#EXTINF:-1 ,ДОМАШНИЙ
-http://193.242.190.6:8099/14/index.m3u8
-#EXTINF:-1 ,ДОМАШНИЙ
 http://185.23.80.28:8080/Domashnij/index.m3u8?token=itest
 #EXTINF:-1 ,ДОМАШНИЙ
 http://130.193.73.10:8937/play/a008
+#EXTINF:-1 ,ДОМАШНИЙ
+http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
+#EXTINF:-1 ,ДОМАШНИЙ
+http://193.242.190.6:8099/14/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
 #EXTINF:-1 ,ПЯТНИЦА
