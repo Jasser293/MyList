@@ -96,9 +96,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/oruzhie.stream/playlist.m3u8
-#EXTINF:-1 ,Оружие
 http://cdn.admuspeh.my/8206/index.m3u8?token=itest
 #EXTINF:-1 ,Оружие
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
@@ -122,8 +119,7 @@ http://45.159.74.14/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
 http://95.67.12.82:9069
 #EXTINF:-1 ,ТНТ HD
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/tnttv-hq.stream/playlist.m3u8
+http://195.49.206.244:90/TNT_HD/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
 http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 #EXTINF:-1 ,ТНТ
@@ -135,8 +131,7 @@ http://213.226.137.140:81/tl/l63/mpegts
 #EXTINF:-1 ,ТНТ4
 http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТНТ4
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/fourtv.stream/playlist.m3u8
+http://195.49.206.244:90/TNT4/mono.m3u8?token=video
 #EXTINF:-1 ,Твоё ТВ
 http://lime-pi.tlgx.ru:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
@@ -144,13 +139,11 @@ http://lime-pi.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://93.189.224.246:52900/play/a016/index.m3u8
 #EXTINF:-1 ,ТВ3
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/tvtri-hq.stream/playlist.m3u8
+http://195.49.206.244:90/TV_3/mono.m3u8?token=video
 #EXTINF:-1 ,СТС
 http://185.23.80.28:8080/STS/index.m3u8?token=test
 #EXTINF:-1 ,СТС
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/sts.stream/chunks.m3u8
+http://195.49.206.244:90/STS/mono.m3u8?token=video
 #EXTINF:-1 ,СТС International
 http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
@@ -172,10 +165,9 @@ http://213.226.137.140:81/tl/l1006/index.m3u8
 #EXTINF:-1 ,Ю
 http://185.23.80.28:8080/Yu/index.m3u8?token=itest
 #EXTINF:-1 ,ДОМАШНИЙ
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/domashniy-hq.stream/playlist.m3u8
+http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
 #EXTINF:-1 ,ДОМАШНИЙ
-http://cdn.admuspeh.my/8062/index.m3u8?token=itest
+http://193.242.190.6:8099/14/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://185.23.80.28:8080/Domashnij/index.m3u8?token=itest
 #EXTINF:-1 ,ДОМАШНИЙ
@@ -187,8 +179,7 @@ http://193.242.190.6:8099/16/index.m3u8
 #EXTINF:-1 ,Пятница! International
 http://112.72.4.116/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/supertv-hq.stream/playlist.m3u8
+http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://185.23.80.28:8080/AVTO24/index.m3u8?token=test
 #EXTINF:-1 ,АВТО 24
@@ -196,8 +187,7 @@ http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
 http://213.226.137.140:81/tl/l105/mpegts
 #EXTINF:-1 ,Авто плюс
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/auto.stream/playlist.m3u8
+http://cdn.admuspeh.my/8095/index.m3u8?token=itest
 #EXTINF:-1 ,ДРАЙВ
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 ,Мужской
@@ -317,8 +307,7 @@ http://213.226.137.140:81/tl/l96/mpegts
 #EXTINF:-1 ,Диалоги о рыбалке
 http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 ,Охота и рыбалка
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/ohota.stream/playlist.m3u8
+http://195.49.206.244:90/Ohota_i_rybalka/mono.m3u8?token=video
 #EXTINF:-1 ,Дикий
 http://185.23.80.28:8080/Dikiy/index.m3u8?token=test
 #EXTINF:-1 ,Дикая охота
@@ -336,13 +325,9 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Муз ТВ
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/muztvtv-hq.stream/playlist.m3u8
-#EXTINF:-1 ,Муз ТВ
 http://45.159.74.14/MuzTv/mono.m3u8
 #EXTINF:-1 ,Ля-минор
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/lyaminor.stream/playlist.m3u8
+http://fs2.persik.by/LaMinor/index.m3u8
 #EXTINF:-1 ,Европа Плюс ТВ HD
 http://185.23.80.28:8080/EuropaHD/index.m3u8?token=test
 #EXTINF:-1 ,BRIDGE TV CLASSIC
@@ -420,8 +405,7 @@ http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский детектив
 http://178.57.121.38:8080/rusdet/index.m3u8?token=test
 #EXTINF:-1 ,Русский иллюзион
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/rusillyuzion.stream/playlist.m3u8
+http://185.23.80.28:8080/RusIlluzion/index.m3u8?token=itest
 #EXTINF:-1 ,Русский роман
 http://178.57.121.38:8080/rusrom/index.m3u8?token=test
 #EXTINF:-1 ,Русский Роман
@@ -459,8 +443,7 @@ http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,Кинокомедия
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/komediya.stream/playlist.m3u8
+http://213.226.137.140:81/tl/l52/mpegts
 #EXTINF:-1 ,Киномикс
 http://213.226.137.140:81/tl/l79/mpegts
 #EXTINF:-1 ,Киносемья
