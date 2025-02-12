@@ -84,7 +84,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 ,Беларусь 24
-http://cdn.admuspeh.my/8144/index.m3u8?token=itest
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/index.m3u8
 #EXTINF:-1 ,СТВ
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://93.85.87.5/ctv/ctv.stream/playlist.m3u8
@@ -237,11 +237,11 @@ http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 ,Загородный
 http://45.159.74.14/DTX/mono.m3u8
 #EXTINF:-1 ,Доктор
-http://195.49.206.244:90/Doktor/mono.m3u8?token=video
-#EXTINF:-1 ,Доктор
 http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Доктор
 http://cdn.admuspeh.my/8214/index.m3u8?token=itest
+#EXTINF:-1 ,Доктор
+http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
