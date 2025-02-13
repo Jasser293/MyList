@@ -363,6 +363,10 @@ http://130.193.73.10:8937/play/a01d
 http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 ,2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 ,Видеокассета VHS
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1 ,Видеокассета VHS
+http://hls.goodgame.ru:8080/hls/176975.m3u8
 #EXTINF:-1 ,VHS-ка
 http://cdn.admuspeh.my/8962/video.m3u8?token=itest
 #EXTINF:-1 ,ДОМ КИНО
