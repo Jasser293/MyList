@@ -185,8 +185,6 @@ http://185.23.80.28:8080/AVTO24/index.m3u8?token=test
 http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
 http://213.226.137.140:81/tl/l105/mpegts
-#EXTINF:-1 ,Авто плюс
-http://cdn.admuspeh.my/8095/index.m3u8?token=itest
 #EXTINF:-1 ,ДРАЙВ
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 ,Мужской
@@ -216,7 +214,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.
 #EXTINF:-1 ,Усадьба
 http://195.49.206.244:90/Usadba/mono.m3u8?token=video
 #EXTINF:-1 ,Усадьба
-http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
+http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 ,Бобёр
 http://112.72.4.116/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:-1 ,Бобёр
@@ -233,8 +231,6 @@ http://178.57.121.38:8080/doctor/index.m3u8?token=test
 http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
-#EXTINF:-1 ,Здоровое ТВ
-http://cdn.admuspeh.my/8127/index.m3u8?token=iptv
 #EXTINF:-1 ,Тонус 
 http://185.23.80.28:8080/Zdorove/index.m3u8?token=itest
 #EXTINF:-1 ,Живи
@@ -243,8 +239,6 @@ http://195.18.23.20:8000/play/10/index.m3u8
 http://213.226.137.140:81/tl/l65/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://45.159.74.14/KukhnyaTv/mono.m3u8
-#EXTINF:-1 ,Food Network
-http://cdn.admuspeh.my/8385/index.m3u8?token=itest
 #EXTINF:-1 ,Food Network
 http://213.226.137.140:81/tl/l98/mpegts
 #EXTINF:-1 ,Food time
@@ -271,8 +265,6 @@ http://cdn.admuspeh.my/8073/index.m3u8?token=itest
 http://cdn.admuspeh.my/8105/index.m3u8?token=itest
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
-#EXTINF:-1 ,Вопросы и ответы
-http://cdn.admuspeh.my/8053/index.m3u8?token=itest
 #EXTINF:-1 ,Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Союз
@@ -318,7 +310,7 @@ http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=test
 #EXTINF:-1 ,365 ДНЕЙ
 http://213.226.137.140:81/tl/l413/index.m3u8
 #EXTINF:-1 ,TERRA
-http://185.50.148.2:7707/NationalGeographic/index.m3u8
+http://213.226.137.140:81/tl/l798/mpegts
 #EXTINF:-1 ,1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
@@ -367,22 +359,18 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 ,Видеокассета VHS
 http://hls.goodgame.ru:8080/hls/176975.m3u8
-#EXTINF:-1 ,VHS-ка
-http://cdn.admuspeh.my/8962/video.m3u8?token=itest
 #EXTINF:-1 ,ДОМ КИНО
-http://cdn.admuspeh.my/8136/index.m3u8?token=itest
+http://195.49.206.244:90/Dom_kino/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 1
 http://stream01.vnet.am/Channel_128/mono.m3u8
 #EXTINF:-1 ,Amedia 2
-http://185.50.148.2:7707/A2/index.m3u8
+http://stream01.vnet.am/Zagorodniy/mono.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://45.159.74.14/Nauka/index.m3u8
 #EXTINF:-1 ,Amedia Premium
 http://45.159.74.14/AmediaPremium/mono.m3u8
 #EXTINF:-1 ,КИНОХИТ
 http://213.226.137.140:81/tl/l16/mpegts
-#EXTINF:-1 ,КИНОХИТ
-http://185.50.148.2:7711/Kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,КИНОХИТ
@@ -396,7 +384,7 @@ http://45.159.74.22/Kinopremera/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://213.226.137.140:81/tl/l111/mpegts
 #EXTINF:-1 ,КИНОМИКС
-http://185.50.148.2:7711/Kinomiks/index.m3u8
+http://213.226.137.140:81/tl/l79/mpegts
 #EXTINF:-1 ,Ретро
 http://185.23.80.28:8080/Retro/index.m3u8?token=test
 #EXTINF:-1 ,Тайна
@@ -428,7 +416,7 @@ http://195.49.206.244:90/Mosfilm/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://cdn.admuspeh.my/8707/index.m3u8?token=itest
 #EXTINF:-1 ,.Black
-http://185.50.148.2:7703/Sony_Turbo/index.m3u8
+http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Индия
 http://45.159.74.14/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
@@ -440,13 +428,13 @@ http://195.49.206.244:90/TV1000/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Русское
 http://213.226.137.140:81/tl/l93/mpegts
 #EXTINF:-1 ,Viju TV1000 Русское
-http://185.50.148.2:7703/TV1000RusKino/index.m3u8
+http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
 #EXTINF:-1 ,Viju TV1000 Action
-http://185.50.148.2:7703/TV1000Action/index.m3u8
+http://213.226.137.140:81/tl/l1242/video.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 ,РОДНОЕ КИНО
-http://185.50.148.2:7711/RodnoeKino/index.m3u8
+http://213.226.137.140:81/tl/l54/mpegts
 #EXTINF:-1 ,Кинокомедия
 http://213.226.137.140:81/tl/l52/mpegts
 #EXTINF:-1 ,Киномикс
@@ -461,18 +449,12 @@ http://cdn.admuspeh.my/8028/video.m3u8?token=itest
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 ,Киноужас
 http://109.200.130.123:7537/play/a021
-#EXTINF:-1 ,Шокирующее
-http://cdn.admuspeh.my/8322/index.m3u8?token=itest
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://tinyurl.com/2frucm89
-#EXTINF:-1 ,Eurosport 2
-http://tinyurl.com/mbx3cewk
 #EXTINF:-1 ,Eurosport 2
 http://cdn.admuspeh.my/8014/index.m3u8?token=itest
 #EXTINF:-1 ,Viasat Sport
@@ -504,7 +486,7 @@ http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Солнце
 http://185.23.80.28:8080/Disney/index.m3u8?token=itest
 #EXTINF:-1 ,Da Vinci
-http://185.50.148.2:7703/DaVinciLearning/index.m3u8
+http://195.49.206.244:90/DaVinci/mono.m3u8?token=video
 #EXTINF:-1 ,Мультимания
 http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
