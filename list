@@ -413,7 +413,7 @@ http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://cdn.admuspeh.my/8707/index.m3u8?token=itest
+http://193.242.190.6:8099/98/index.m3u8
 #EXTINF:-1 ,.Black
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Индия
