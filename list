@@ -363,9 +363,13 @@ http://hls.goodgame.ru:8080/hls/176975.m3u8
 #EXTINF:-1 ,ДОМ КИНО
 http://195.49.206.244:90/Dom_kino/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 1
-http://stream01.vnet.am/Channel_128/mono.m3u8
+http://195.49.206.244:90/A-1/mono.m3u8?token=video
+#EXTINF:-1 ,Amedia 1
+http://89.106.234.5/A1.m3u8
 #EXTINF:-1 ,Amedia 2
-http://stream01.vnet.am/Zagorodniy/mono.m3u8
+http://195.49.206.244:90/A-2/mono.m3u8?token=video
+#EXTINF:-1 ,Amedia 2
+http://89.106.234.5/A2.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://45.159.74.14/Nauka/index.m3u8
 #EXTINF:-1 ,Amedia Premium
