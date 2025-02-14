@@ -184,6 +184,8 @@ http://185.23.80.28:8080/AVTO24/index.m3u8?token=test
 http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
 http://213.226.137.140:81/tl/l105/mpegts
+#EXTINF:-1 ,Авто Плюс
+http://77.239.125.42:8070/@Dimonovich1982_chautoplus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 ,Мужской
