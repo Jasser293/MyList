@@ -95,7 +95,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://77.239.125.42:8070/@Dimonovich1982_chweapon/index.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/4t5y65kv
+http://cdn.admuspeh.my/8206/index.m3u8?token=video
+#EXTINF:-1 ,Оружие
+http://tinyurl.com/pdxdxd9d
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -183,7 +185,7 @@ http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
 http://213.226.137.140:81/tl/l105/mpegts
 #EXTINF:-1 ,Авто Плюс
-http://77.239.125.42:8070/@Dimonovich1982_chautoplus/index.m3u8
+http://cdn.admuspeh.my/8095/index.m3u8?token=video
 #EXTINF:-1 ,ДРАЙВ
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 ,Мужской
