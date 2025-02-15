@@ -185,7 +185,7 @@ http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
 http://213.226.137.140:81/tl/l105/mpegts
 #EXTINF:-1 ,Авто Плюс
-http://cdn.admuspeh.my/8095/index.m3u8?token=video
+http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 ,Мужской
@@ -260,10 +260,6 @@ http://stream01.vnet.am/365Dney/tracks-v1a1/mono.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
-#EXTINF:-1 ,Совершенно секретно
-http://cdn.admuspeh.my/8073/index.m3u8?token=itest
-#EXTINF:-1 ,Кто Есть Кто
-http://cdn.admuspeh.my/8105/index.m3u8?token=itest
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
 #EXTINF:-1 ,Спас
@@ -461,15 +457,17 @@ http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://cdn.admuspeh.my/8163/index.m3u8?token=itest
-#EXTINF:-1 ,Eurosport 2
 http://tinyurl.com/2frucm89
+#EXTINF:-1 ,Eurosport 2
+http://cdn.admuspeh.my/8014/index.m3u8?token=itest
+#EXTINF:-1 ,Eurosport 2
+http://104.26.13.217/8163/index.m3u8?token=itest
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
 http://45.159.74.22/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
-http://cdn.admuspeh.my/8018/index.m3u8?token=itest
+http://195.49.206.244:90/Arena/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! ИГРА
 http://31.148.48.15/Match_Igra/index.m3u8
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
