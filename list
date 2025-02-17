@@ -91,9 +91,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://77.239.125.42:8070/@Dimonovich1982_chweapon/index.m3u8
+http://tinyurl.com/kvcrm28k
 #EXTINF:-1 ,Оружие
-https://tinyurl.com/mr4xpcbe
+http://77.239.125.42:8070/@Dimonovich1982_chweapon/index.m3u8
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -179,7 +179,7 @@ http://185.23.80.28:8080/AVTO24/index.m3u8?token=test
 #EXTINF:-1 ,АВТО 24
 http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
-http://tinyurl.com/yrhyw8nj
+http://tinyurl.com/mr9vwu73
 #EXTINF:-1 ,Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
@@ -193,7 +193,6 @@ https://streaming102.goodstream.cyou/live/554-req_offset_28000000-req_window_0-1
 http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#http://195.26.83.96:7029/play/a003
 #EXTINF:-1 ,Соловьев.Live
 http://130.193.73.10:8937/play/a002
 #EXTINF:-1 ,Звезда
@@ -521,7 +520,3 @@ https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 http://194.204.46.137:80/live/eds/TV3_LV_SD/GO3_LIVE_HLS/TV3_LV_SD.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 ,НТВ
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10)
-https://s83.chas.tv:8082/chas/ntvtv.stream/playlist.m3u8
-
