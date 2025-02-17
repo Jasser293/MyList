@@ -240,8 +240,8 @@ http://213.226.137.140:81/tl/l65/index.m3u8
 http://45.159.74.14/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,Food Network
 http://213.226.137.140:81/tl/l98/mpegts
-#EXTINF:-1 ,Food time
-http://46.17.41.254:2020/channel/n477f0f72/index.m3u8?q=c9a4efc12540f7d0eb46417ddc618c8b
+#EXTINF:-1 ,Аппетитный
+http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,Еда HD
 http://185.23.80.28:8080/Eda/index.m3u8?token=test
 #EXTINF:-1 ,Кулинар ТВ
