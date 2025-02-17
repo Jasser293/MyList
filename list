@@ -521,3 +521,7 @@ https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 http://194.204.46.137:80/live/eds/TV3_LV_SD/GO3_LIVE_HLS/TV3_LV_SD.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 ,НТВ
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10)
+https://s83.chas.tv:8082/chas/ntvtv.stream/playlist.m3u8
+
