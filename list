@@ -232,7 +232,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://45.159.74.14/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,Food Network
-http://213.226.137.140:81/tl/l98/mpegts
+rtmp://212.0.213.132//Joy_Cook
 #EXTINF:-1 ,Аппетитный
 http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,Еда HD
