@@ -177,6 +177,8 @@ http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
 http://tinyurl.com/mr9vwu73
 #EXTINF:-1 ,Авто Плюс
+http://77.239.125.42:8070/@Dimonovich1982_chautoplus/index.m3u8
+#EXTINF:-1 ,Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
@@ -439,10 +441,14 @@ http://195.9.195.3:8080/hls/204709.m3u8
 http://109.200.130.123:7537/play/a021
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
-#EXTINF:-1 ,Eurosport 1
-http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1 ,Танцуй!
+http://109.200.130.123:7537/play/a02l
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://iptv-hls.idc.md:8200/hls/261/live2.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://tinyurl.com/2frucm89
 #EXTINF:-1 ,Viasat Sport
