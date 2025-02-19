@@ -179,11 +179,9 @@ http://185.23.80.28:8080/AVTO24/index.m3u8?token=test
 #EXTINF:-1 ,АВТО 24
 http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
-http://tinyurl.com/bdvk2kw5
+http://tinyurl.com/2s3965ak
 #EXTINF:-1 ,Авто Плюс
-http://77.239.125.42:8070/@Dimonovich1982_chautoplus/index.m3u8
-#EXTINF:-1 ,Авто Плюс
-http://s.tivix.co/NgO4SMSAgCHxqcyziz5JGw/147/1739989872/index.m3u8
+http://flussonic.salomtv.uz/Avto_Plus/video.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 ,Мужской
