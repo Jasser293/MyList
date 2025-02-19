@@ -100,6 +100,8 @@ http://tinyurl.com/mt3snc8r
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
 http://185.23.80.28:8080/RATNIK/index.m3u8?token=video
+#EXTINF:-1 ,Победа
+http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
 http://195.49.206.244:90/5kanal/mono.m3u8?token=video
 #EXTINF:-1 ,Пятый канал
