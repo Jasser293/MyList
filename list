@@ -66,6 +66,8 @@ http://195.49.206.244:90/OTR/mono.m3u8?token=video
 http://185.23.80.28:8080/Vmeste-RF_HD/index.m3u8?token=itest
 #EXTINF:-1 ,Москва. Доверие
 http://185.23.80.28:8080/MoskvaDoverie/index.m3u8?token=itest
+#EXTINF:-1 ,Аист ТВ
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 ,Неизвестная Россия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/unknown_russia/mono.m3u8
@@ -76,6 +78,8 @@ http://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,РБК
 http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 ,Вместе РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 ,Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/index.m3u8
 #EXTINF:-1 ,СТВ
@@ -88,9 +92,6 @@ http://83.222.205.26/sr1/tro/playlist_1.5M.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 ,Оружие
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/2RnXuLwO451a7ItMGTjNZw,1739912410/streaming/orujie/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Оружие
 http://77.239.125.42:8070/@Dimonovich1982_chweapon/index.m3u8
 #EXTINF:-1 ,Арсенал
@@ -264,6 +265,8 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 #EXTINF:-1 ,Надежда
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Investigation Discovery
@@ -445,9 +448,9 @@ http://109.200.130.123:7537/play/a02l
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://217.19.214.39:8200/hls/78/live1.m3u8
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://iptv-hls.idc.md:8200/hls/261/live2.m3u8
+http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://tinyurl.com/2frucm89
 #EXTINF:-1 ,Viasat Sport
