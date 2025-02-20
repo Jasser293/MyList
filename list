@@ -335,8 +335,16 @@ http://dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
 http://dmi3y-tv.ru/hls/CH_BRIDGETV_HITS.m3u8
 #EXTINF:-1 ,BRIDGE TV РУССКИЙ ХИТ
 http://dmi3y-tv.ru/hls/CH_BRIDGETV_RUSSKIYHIT.m3u8
-#EXTINF:-1 ,V2BEAT HD720
-http://dmi3y-tv.ru/hls/CH_V2BEATHD720.m3u8
+#EXTINF:-1 ,BRIDGE TV CLASSIC
+http://185.23.80.29:8080/BRIDGETVCLASSIC/index.m3u8?token=test
+#EXTINF:-1 ,BRIDGE TV ФРЭШ
+http://185.23.80.29:8080/BRIDGE_FRESH/index.m3u8?token=test
+#EXTINF:-1 ,BRIDGE TV HITS
+http://185.23.80.29:8080/BRIDGETVDANCE/index.m3u8?token=test
+#EXTINF:-1 ,BRIDGE TV Русский хит
+http://185.23.80.29:8080/BRIDGETVRusskijXit/index.m3u8?token=test
+#EXTINF:-1 ,BRIDGE TV ШЛЯГЕР
+http://185.23.80.29:8080/BridgeTVShlyager/index.m3u8?token=test
 #EXTINF:-1 ,Spirit TV
 http://dmi3y-tv.ru/hls/CH_SPIRITTV.m3u8
 #EXTINF:-1 ,Spirit TV HD720
