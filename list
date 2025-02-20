@@ -415,16 +415,14 @@ http://185.50.148.2:7711/Kinomiks/index.m3u8
 http://195.49.206.244:90/Retro/mono.m3u8?token=video
 #EXTINF:-1 ,Русский бестселлер
 http://130.193.73.10:8937/play/a03l
-#EXTINF:-1 ,Русский бестселлер
-http://178.57.121.38:8080/rusbest/index.m3u8?token=test
 #EXTINF:-1 ,Русский детектив
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский детектив
 http://178.57.121.38:8080/rusdet/index.m3u8?token=test
 #EXTINF:-1 ,Русский иллюзион
-http://192.166.144.101:8000/play/a00b/index.m3u8
+http://185.23.80.29:8080/RusIlluzion/index.m3u8?token=itest
 #EXTINF:-1 ,Русский роман
-http://178.57.121.38:8080/rusrom/index.m3u8?token=test
+http://185.23.80.29:8080/RusskijRoman/index.m3u8?token=itest
 #EXTINF:-1 ,Русский Роман
 http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 ,Индийское кино
