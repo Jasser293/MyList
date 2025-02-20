@@ -163,7 +163,7 @@ http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Ю
 http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
-http://130.193.73.10:8937/play/a008
+http://185.23.80.29:8080/Domashnij/index.m3u8?token=itest
 #EXTINF:-1 ,ДОМАШНИЙ
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,ДОМАШНИЙ
