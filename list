@@ -4,7 +4,7 @@ http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://93.189.224.246:52900/play/a011/index.m3u8
 #EXTINF:-1 ,Первый канал
-http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
+http://130.193.73.10:8937/play/a00f
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал (+4)
@@ -12,12 +12,12 @@ http://81.211.33.84/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,НТВ
 http://195.49.206.244:90/NTV/mono.m3u8?token=video
 #EXTINF:-1 ,НТВ
-http://185.23.80.28:8080/NTV/index.m3u8?token=test
+http://93.189.224.246:52900/play/a012/index.m3u8
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Право
-http://185.23.80.28:8080/NTVPravo/index.m3u8?token=test
+http://130.193.73.10:8937/play/a01s
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -33,7 +33,7 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://195.49.206.244:90/Russia-1/mono.m3u8?token=video
 #EXTINF:-1 ,Россия 1
-http://185.23.80.28:8080/Rossiya1/index.m3u8?token=video
+http://135.181.115.81:8000/play/a039/index.m3u8?token=livetv
 #EXTINF:-1 ,Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 ,Россия 1 (+4)
@@ -243,6 +243,8 @@ http://185.23.80.28:8080/Eda/index.m3u8?token=test
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
 #http://176.222.191.62/btv/live/hls/000002927.m3u8
+#EXTINF:-1 ,Точка Отрыва
+http://109.200.130.123:7537/play/a022
 #EXTINF:-1 ,ЗООПАРК
 http://195.49.206.244:90/Zoopark/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
