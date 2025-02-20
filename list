@@ -95,6 +95,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
+http://77.239.125.42:8070/@Dimonovich1982_chweapon/index.m3u8
+#EXTINF:-1 ,Оружие
 http://tinyurl.com/36b27pzw
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
@@ -179,9 +181,7 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
-http://tinyurl.com/2s3965ak
-#EXTINF:-1 ,Авто Плюс
-http://flussonic.salomtv.uz/Avto_Plus/video.m3u8
+http://77.239.125.42:8070/@Dimonovich1982_chautoplus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
