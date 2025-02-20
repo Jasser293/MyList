@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
@@ -116,6 +116,10 @@ http://45.159.74.14/Perec/mono.m3u8
 http://45.159.74.14/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
 http://95.67.12.82:9069
+#EXTINF:-1 ,Твоё ТВ
+http://lime-pi.tlgx.ru:8987/CH_TVOETV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
+http://lime-pi.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТНТ HD
 http://195.49.206.244:90/TNT_HD/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
