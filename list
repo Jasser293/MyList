@@ -180,6 +180,8 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
 http://77.239.125.42:8070/@Dimonovich1982_chautoplus/index.m3u8
+#EXTINF:-1 ,Авто Плюс
+http://flussonic.salomtv.uz/Avto_Plus/video.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
@@ -263,6 +265,8 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Три Ангела
 http://hls.tv.3angels.ru/stream/HD/HD.m3u8
+#EXTINF:-1 ,Просвещение
+http://dmi3y-tv.ru/hls/CH_PROSVESHENIE.m3u8
 #EXTINF:-1 ,Надежда
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Жар Птица
@@ -405,8 +409,8 @@ http://178.57.121.38:8080/rusrom/index.m3u8?token=test
 http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 ,BollywooD
 http://130.193.73.10:8937/play/a02l
-#EXTINF:-1 ,HollywooD
-http://109.200.130.123:7537/play/a02g
+#EXTINF:-1 ,FlixSnip
+http://185.50.148.2:7703/FlixSnip/index.m3u8
 #EXTINF:-1 ,НСТ
 http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 ,НСТ
@@ -419,6 +423,8 @@ http://195.49.206.244:90/Mosfilm/mono.m3u8?token=video
 http://193.242.190.6:8099/98/index.m3u8
 #EXTINF:-1 ,.Black
 http://109.200.130.123:7537/play/a02s
+#EXTINF:-1 ,Индия
+http://hls127.homeiptv.org:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 ,Индия
 http://45.159.74.14/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Комедия
