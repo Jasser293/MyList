@@ -473,8 +473,6 @@ http://195.9.195.3:8080/hls/204709.m3u8
 http://109.200.130.123:7537/play/a021
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
-#EXTINF:-1 ,Танцуй!
-http://109.200.130.123:7537/play/a02l
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
