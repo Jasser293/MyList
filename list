@@ -95,7 +95,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/5aa47zmp
+http://tinyurl.com/ynbvpudf
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -168,12 +168,10 @@ http://185.23.80.29:8080/Domashnij/index.m3u8?token=itest
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,ДОМАШНИЙ
 http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
-#EXTINF:-1 ,ДОМАШНИЙ
-http://193.242.190.6:8099/14/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://93.189.224.246:52900/play/a00n/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
-http://193.242.190.6:8099/16/index.m3u8
+http://185.23.80.29:8080/Pyatnica/index.m3u8?token=test
 #EXTINF:-1 ,Пятница! International
 http://112.72.4.116/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
@@ -185,9 +183,9 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
-http://77.239.125.42:8070/@Dimonovich1982_chautoplus/index.m3u8
+http://s1.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 ,Авто Плюс
-http://flussonic.salomtv.uz/Avto_Plus/video.m3u8
+http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
@@ -422,9 +420,9 @@ http://178.57.121.38:8080/rusdet/index.m3u8?token=test
 #EXTINF:-1 ,Русский иллюзион
 http://185.23.80.29:8080/RusIlluzion/index.m3u8?token=itest
 #EXTINF:-1 ,Русский роман
-http://185.23.80.29:8080/RusskijRoman/index.m3u8?token=itest
+http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,Русский Роман
-http://193.242.190.6:8099/39/index.m3u8
+http://130.193.73.10:8937/play/a03n
 #EXTINF:-1 ,Про Любовь
 http://185.23.80.29:8080/ProLyubov/index.m3u8?token=itest
 #EXTINF:-1 ,Индийское кино
@@ -440,7 +438,7 @@ http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://193.242.190.6:8099/98/index.m3u8
+http://hls127.homeiptv.org:8080/Mosfilm/video.m3u8
 #EXTINF:-1 ,.Black
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Индия
@@ -466,7 +464,7 @@ http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://185.50.148.2:7711/Kinomiks/index.m3u8
 #EXTINF:-1 ,Киносемья
-http://193.242.190.6:8099/85/index.m3u8
+http://fs2.persik.by/Kinosemya/index.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 ,Кошмар
@@ -483,6 +481,8 @@ http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
+#EXTINF:-1 Eurosport 2
+http://158.101.211.157:2020/channel/6d393086/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
@@ -529,7 +529,7 @@ http://stream01.vnet.am/Tiji/mono.m3u8
 #EXTINF:-1 ,Gulli Girl
 http://130.193.73.10:8937/play/a00v
 #EXTINF:-1 ,Карусель
-http://193.242.190.6:8099/8/index.m3u8
+http://185.23.80.29:8080/Karusel/index.m3u8?token=test
 #EXTINF:-1 ,Cartoonito
 http://stream01.vnet.am/Channel_120/mono.m3u8
 #EXTINF:-1 ,Cartoon Network
