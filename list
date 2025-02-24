@@ -198,7 +198,8 @@ http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
-http://130.193.73.10:8937/play/a002
+http://178.57.121.38:8080/idxtra/index.m3u8?token=test
+#http://130.193.73.10:8937/play/a002
 #EXTINF:-1 ,Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
