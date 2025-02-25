@@ -417,9 +417,9 @@ http://195.49.206.244:90/Retro/mono.m3u8?token=video
 #EXTINF:-1 ,Русский бестселлер
 http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 ,Русский детектив
-http://130.193.73.10:8937/play/a03o
+http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский детектив
-http://178.57.121.38:8080/rusdet/index.m3u8?token=test
+http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский иллюзион
 http://185.23.80.29:8080/RusIlluzion/index.m3u8?token=itest
 #EXTINF:-1 ,Русский роман
