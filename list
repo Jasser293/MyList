@@ -107,7 +107,7 @@ http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
 http://195.49.206.244:90/5kanal/mono.m3u8?token=video
 #EXTINF:-1 ,Пятый канал
-http://94.230.128.105:8080/5_kanal/index.m3u8
+http://185.23.80.29:8080/Pyatyj/index.m3u8?token=test
 #EXTINF:-1 ,ЦТВ
 http://stream01.vnet.am/Channel_129/mono.m3u8
 #EXTINF:-1 ,Перец
@@ -473,7 +473,7 @@ http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://193.160.224.255:8000/play/a013
+http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 ,Eurosport 1
