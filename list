@@ -157,7 +157,7 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
 http://130.193.73.10:8937/play/a01v
 #EXTINF:-1 ,Че!
-http://185.50.148.2:7702/Che/index.m3u8
+http://185.23.80.29:8080/Che/index.m3u8?token=itest
 #EXTINF:-1 ,Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 ,Ю
@@ -185,7 +185,7 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
-http://185.50.148.2:7711/AutoPlus/index.m3u8
+http://s1.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 ,Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
@@ -364,8 +364,6 @@ http://93.189.224.246:52900/play/a00r/index.m3u8
 http://65.21.85.175:8000/play/a00q/index.m3u8?token=livetv
 #EXTINF:-1 ,MTV
 http://212.102.60.231/MTV/index.m3u8
-#EXTINF:-1 ,Mezzo
-http://185.50.148.2:7703/Mezzo/index.m3u8
 #EXTINF:-1 ,Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
@@ -397,7 +395,7 @@ http://45.159.74.14/Nauka/index.m3u8
 #EXTINF:-1 ,Amedia Premium
 http://45.159.74.14/AmediaPremium/mono.m3u8
 #EXTINF:-1 ,КиноХит
-http://185.50.148.2:7711/Kinohit/index.m3u8
+http://178.212.71.253:8000/play/123/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,КИНОХИТ
@@ -410,8 +408,6 @@ http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Kinopremera/mono.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://stream01.vnet.am/MujskoeKino/index.m3u8
-#EXTINF:-1 ,КИНОМИКС
-http://185.50.148.2:7711/Kinomiks/index.m3u8
 #EXTINF:-1 ,Ретро
 http://195.49.206.244:90/Retro/mono.m3u8?token=video
 #EXTINF:-1 ,Русский бестселлер
@@ -431,13 +427,13 @@ http://185.23.80.29:8080/ProLyubov/index.m3u8?token=itest
 #EXTINF:-1 ,Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 ,FlixSnip
-http://185.50.148.2:7703/FlixSnip/index.m3u8
+http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 ,НСТ
 http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 ,НСТ
 http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://185.50.148.2:7706/Mosfilm/index.m3u8
+http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=itest
 #EXTINF:-1 ,.Black
@@ -453,17 +449,17 @@ http://93.189.224.246:52900/play/a00p/index.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Русское
-http://185.50.148.2:7703/TV1000RusKino/index.m3u8
-#EXTINF:-1 ,Viju TV1000 Русское
 http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
+#EXTINF:-1 ,Viju TV1000 Русское
+http://130.193.73.10:8937/play/a02u
 #EXTINF:-1 ,Viju TV1000 Action
-http://185.50.148.2:7703/TV1000Action/index.m3u8
+http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
 http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,Киномикс
-http://185.50.148.2:7711/Kinomiks/index.m3u8
+http://s1.merlive.am/kinomix/index.m3u8
 #EXTINF:-1 ,Киносемья
 http://fs2.persik.by/Kinosemya/index.m3u8
 #EXTINF:-1 ,Наше новое кино
