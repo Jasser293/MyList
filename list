@@ -245,7 +245,7 @@ rtmp://212.0.213.132//Joy_Cook
 #EXTINF:-1 ,Еда HD
 http://185.23.80.29:8080/Eda/index.m3u8?token=test
 #EXTINF:-1 ,Аппетитный
-http://185.50.148.2:7703/Motorsport/index.m3u8
+#http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,UNIVER TV
@@ -267,7 +267,7 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Кто есть кто
-http://185.50.148.2:7711/Ktoestkto/index.m3u8
+#http://185.50.148.2:7711/Ktoestkto/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
 #EXTINF:-1 ,Спас
@@ -456,8 +456,6 @@ http://130.193.73.10:8937/play/a02u
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
 http://130.193.73.10:8937/play/a02t
-#EXTINF:-1 ,РОДНОЕ КИНО
-http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://s1.merlive.am/kinomix/index.m3u8
 #EXTINF:-1 ,Киносемья
