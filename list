@@ -40,6 +40,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
+#EXTINF:-1 ,РОССИЯ 24
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 ,Россия К
 http://185.23.80.29:8080/RossiyaK/index.m3u8?token=test
 #EXTINF:-1 ,Россия К
@@ -88,6 +90,8 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 ,360 HD
 http://195.49.206.244:90/360_HD/mono.m3u8?token=video
+#EXTINF:-1 ,360 HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://195.49.206.244:90/Belarus24/mono.m3u8?token=video
 #EXTINF:-1 ,СТВ
@@ -101,7 +105,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/3mkkbdn5
+http://tinyurl.com/mv4b9npf
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -257,7 +261,7 @@ http://185.23.80.29:8080/PervyjVegetarianskij/index.m3u8?token=test
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://185.23.80.29:8080/SvetloeTV/index.m3u8?token=test
 #EXTINF:-1 ,Точка Отрыва
-http://109.200.130.123:7537/play/a022
+http://185.23.80.29:8080/TochkoOtryva/index.m3u8?token=itest
 #EXTINF:-1 ,ЗООПАРК
 http://195.49.206.244:90/Zoopark/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
@@ -377,9 +381,9 @@ http://195.49.206.244:90/Teatr/mono.m3u8?token=video
 #EXTINF:-1 ,Калейдоскоп ТВ
 http://origin5.mediacdn.ru/live/kaleidoskop/index.m3u8
 #EXTINF:-1 ,Сапфир
-http://109.200.130.123:7537/play/a028
-#EXTINF:-1 ,Сапфир
 http://130.193.73.10:8937/play/a01d
+#EXTINF:-1 ,Сапфир
+http://135.181.115.81:8000/play/a03f/index.m3u8?token=livetv
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=video
 #EXTINF:-1 ,2x2
@@ -467,7 +471,7 @@ http://s1.merlive.am/kinomix/index.m3u8
 #EXTINF:-1 ,Киносемья
 http://fs2.persik.by/Kinosemya/index.m3u8
 #EXTINF:-1 ,Наше новое кино
-http://178.212.71.253:8002/play/a00i/index.m3u8
+http://178.57.121.38:8080/kinohit/index.m3u8?token=test
 #EXTINF:-1 ,Кошмар
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 ,Киноужас
