@@ -187,9 +187,9 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
-http://tinyurl.com/bdhywv8b
+http://s1.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 ,Авто Плюс
-http://31.148.48.15/Avto_Plus/index.m3u8
+http://tinyurl.com/ye9kuewn
 #EXTINF:-1 ,ДРАЙВ
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
