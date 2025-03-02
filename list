@@ -99,7 +99,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/adm8tf33
+http://tinyurl.com/3mkkbdn5
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -161,7 +161,7 @@ http://130.193.73.10:8937/play/a01v
 #EXTINF:-1 ,Че!
 http://185.23.80.29:8080/Che/index.m3u8?token=itest
 #EXTINF:-1 ,Че!
-http://178.212.71.253:8002/play/a00s/index.m3u8
+http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Ю
@@ -188,8 +188,6 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 http://178.57.121.38:8080/avto24/index.m3u8?token=test
 #EXTINF:-1 ,Авто Плюс
 http://s1.merlive.am/Avtoplus/index.m3u8
-#EXTINF:-1 ,Авто Плюс
-http://tinyurl.com/ye9kuewn
 #EXTINF:-1 ,ДРАЙВ
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
@@ -310,8 +308,12 @@ http://195.49.206.244:90/Explorer/mono.m3u8?token=video
 http://195.49.206.244:90/Viasat_History/mono.m3u8?token=video
 #EXTINF:-1 ,Диалоги о рыбалке
 http://130.193.73.10:8937/play/a04q
+#EXTINF:-1 ,Диалоги о рыбалке
+http://185.23.80.29:8080/DialogiORybalke/index.m3u8?token=itest
 #EXTINF:-1 ,Охота и рыбалка
 http://195.49.206.244:90/Ohota_i_rybalka/mono.m3u8?token=video
+#EXTINF:-1 ,Охота и рыбалка
+http://185.23.80.29:8080/OxotnikIRybolov_HD/index.m3u8?token=itest
 #EXTINF:-1 ,Дикий
 http://185.23.80.29:8080/Dikiy/index.m3u8?token=test
 #EXTINF:-1 ,Дикая охота
