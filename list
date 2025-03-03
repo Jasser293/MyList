@@ -199,10 +199,10 @@ http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 ,Russia today
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 ,Russia today
 #EXTVLCOPT:http-user-agent=Donate BTC
 https://streaming102.goodstream.cyou/live/554-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 ,Russia today
-http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
@@ -225,7 +225,7 @@ http://195.49.206.244:90/Usadba/mono.m3u8?token=video
 #EXTINF:-1 ,Усадьба
 http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 ,Бобёр
-http://112.72.4.116/live/disk1/Bober/HLS-FTA/Bober.m3u8
+http://185.23.80.29:8080/Bober/index.m3u8?token=itest
 #EXTINF:-1 ,Бобёр
 http://195.49.206.244:90/Bober/mono.m3u8?token=video
 #EXTINF:-1 ,Загородная жизнь
@@ -526,7 +526,7 @@ http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 #EXTINF:-1 ,Мультиландия
 http://93.189.224.246:52900/play/a00m/index.m3u8
 #EXTINF:-1 ,В гостях у сказки
-http://109.200.130.123:7537/play/a02m
+#http://109.200.130.123:7537/play/a02m
 #EXTINF:-1 ,Мульт
 http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Tiji
