@@ -467,7 +467,7 @@ http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
 http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 ,Киномикс
-http://s1.merlive.am/kinomix/index.m3u8
+#http://s1.merlive.am/kinomix/index.m3u8
 #EXTINF:-1 ,Киносемья
 http://fs2.persik.by/Kinosemya/index.m3u8
 #EXTINF:-1 ,Наше новое кино
