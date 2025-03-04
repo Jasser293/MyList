@@ -191,7 +191,7 @@ http://185.23.80.29:8080/AVTO24/index.m3u8?token=test
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
-http://178.57.121.38:8080/avto24/index.m3u8?token=test
+http://178.124.152.238:8088/auto24
 #EXTINF:-1 ,Авто Плюс
 #http://s1.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
@@ -206,8 +206,7 @@ https://streaming102.goodstream.cyou/live/554-req_offset_28000000-req_window_0-1
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
-http://178.57.121.38:8080/idxtra/index.m3u8?token=test
-#http://130.193.73.10:8937/play/a002
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 ,Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
@@ -234,8 +233,6 @@ http://185.57.68.33/40/mpegts
 http://45.159.74.14/DTX/mono.m3u8
 #EXTINF:-1 ,Доктор
 http://130.193.73.10:8937/play/a01q
-#EXTINF:-1 ,Доктор
-http://178.57.121.38:8080/doctor/index.m3u8?token=test
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 #EXTINF:-1 ,Здоровое ТВ
@@ -297,7 +294,10 @@ http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 ,History
-http://45.159.74.14/Channel_123/mono.m3u8
+http://95.67.12.81:10619
+#http://45.159.74.14/Channel_123/mono.m3u8
+#EXTINF:-1 ,History 2
+http://95.67.12.81:10620
 #EXTINF:-1 ,National Geographic
 http://45.159.74.22/NationalGeographic/index.m3u8
 #EXTINF:-1 ,National Geographic
@@ -466,14 +466,14 @@ http://130.193.73.10:8937/play/a02u
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
 http://130.193.73.10:8937/play/a02t
-#EXTINF:-1 ,Киномикс
-#http://s1.merlive.am/kinomix/index.m3u8
+#EXTINF:-1 ,Кинопоказ
+http://185.23.80.29:8080/Kinopokaz/index.m3u8?token=itest
+#EXTINF:-1 ,Киносат
+http://185.23.80.29:8080/KinoSat/index.m3u8?token=itest
 #EXTINF:-1 ,Киносемья
 http://fs2.persik.by/Kinosemya/index.m3u8
 #EXTINF:-1 ,Наше новое кино
-http://178.57.121.38:8080/kinohit/index.m3u8?token=test
-#EXTINF:-1 ,Кошмар
-http://195.9.195.3:8080/hls/204709.m3u8
+http://178.212.71.253:8002/play/a00i/index.m3u8
 #EXTINF:-1 ,Киноужас
 http://109.200.130.123:7537/play/a021
 #EXTINF:-1 ,Дорама
