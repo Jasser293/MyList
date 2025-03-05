@@ -432,6 +432,10 @@ http://91.205.199.3:80/lubimoekino/index.m3u8
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Viju+ Megahit
+http://91.205.199.3/vipmegahit/index.m3u8
+#EXTINF:-1 ,Viju+ Comedy
+http://91.205.199.3:80/vipcomedi/index.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://45.159.74.22/Kinopremera/mono.m3u8
 #EXTINF:-1 ,Кинопремьера
