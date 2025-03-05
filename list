@@ -179,6 +179,10 @@ http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://185.23.80.29:8080/Domashnij/index.m3u8?token=itest
 #EXTINF:-1 ,ДОМАШНИЙ
+http://tv.ttk.mx:9013
+#EXTINF:-1 ,ДОМАШНИЙ
+http://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1 ,ДОМАШНИЙ
 http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://178.124.152.238:8088/dom
