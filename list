@@ -51,7 +51,7 @@ http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
 #EXTINF:-1 ,РЕН ТВ
 http://93.189.224.246:52900/play/a00v/index.m3u8
 #EXTINF:-1 ,Рен ТВ
-http://130.193.73.10:8937/play/a00i
+http://185.23.80.29:8080/REN/index.m3u8?token=itest
 #EXTINF:-1 ,Рен ТВ International
 http://112.72.4.109/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,Рен ТВ International
@@ -179,9 +179,11 @@ http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://185.23.80.29:8080/Domashnij/index.m3u8?token=itest
 #EXTINF:-1 ,ДОМАШНИЙ
-http://130.193.73.10:8937/play/a008
-#EXTINF:-1 ,ДОМАШНИЙ
 http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
+#EXTINF:-1 ,ДОМАШНИЙ
+http://178.124.152.238:8088/dom
+#EXTINF:-1 ,ДОМАШНИЙ
+http://193.242.190.6:8099/14/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://93.189.224.246:52900/play/a00n/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -196,6 +198,8 @@ http://185.23.80.29:8080/AVTO24/index.m3u8?token=test
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://178.124.152.238:8088/auto24
+#EXTINF:-1 ,АВТО24
+http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 ,Авто Плюс
 #http://s1.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
@@ -317,8 +321,6 @@ http://195.49.206.244:90/Explorer/mono.m3u8?token=video
 #EXTINF:-1 ,Viasat History
 http://195.49.206.244:90/Viasat_History/mono.m3u8?token=video
 #EXTINF:-1 ,Диалоги о рыбалке
-http://130.193.73.10:8937/play/a04q
-#EXTINF:-1 ,Диалоги о рыбалке
 http://185.23.80.29:8080/DialogiORybalke/index.m3u8?token=itest
 #EXTINF:-1 ,Охота и рыбалка
 http://195.49.206.244:90/Ohota_i_rybalka/mono.m3u8?token=video
@@ -395,9 +397,9 @@ http://195.49.206.244:90/Teatr/mono.m3u8?token=video
 #EXTINF:-1 ,Калейдоскоп ТВ
 http://origin5.mediacdn.ru/live/kaleidoskop/index.m3u8
 #EXTINF:-1 ,Сапфир
-http://130.193.73.10:8937/play/a01d
-#EXTINF:-1 ,Сапфир
 http://135.181.115.81:8000/play/a03f/index.m3u8?token=livetv
+#EXTINF:-1 ,Сапфир
+https://132544.edgevideo.ru/streams/132544_858950/1325441080/index.m3u8
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=video
 #EXTINF:-1 ,2x2
@@ -453,7 +455,7 @@ http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:-1 ,Ретро
 http://195.49.206.244:90/Retro/mono.m3u8?token=video
 #EXTINF:-1 ,Русский бестселлер
-http://130.193.73.10:8937/play/a03l
+http://65.21.85.175:8000/play/a039/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский детектив
 http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский детектив
@@ -462,8 +464,6 @@ http://130.193.73.10:8937/play/a03o
 http://185.23.80.29:8080/RusIlluzion/index.m3u8?token=itest
 #EXTINF:-1 ,Русский роман
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
-#EXTINF:-1 ,Русский Роман
-http://130.193.73.10:8937/play/a03n
 #EXTINF:-1 ,Про Любовь
 http://185.23.80.29:8080/ProLyubov/index.m3u8?token=itest
 #EXTINF:-1 ,Индийское кино
@@ -471,13 +471,11 @@ http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 ,FlixSnip
 http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 ,НСТ
-http://130.193.73.10:8937/play/a03c
-#EXTINF:-1 ,НСТ
 http://45.159.74.14/Channel_125/mono.m3u8
+#EXTINF:-1 ,НСТ
+http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://91.205.199.3:80/mosfilm/index.m3u8
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=itest
 #EXTINF:-1 ,.Black
@@ -486,8 +484,6 @@ http://109.200.130.123:7537/play/a02s
 http://45.159.74.22/ZeeTV/index.m3u8
 #EXTINF:-1 ,Индия
 http://45.159.74.14/ZeeTV/mono.m3u8
-#EXTINF:-1 ,Комедия
-http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 ,Viju TV1000
 http://93.189.224.246:52900/play/a00p/index.m3u8
 #EXTINF:-1 ,Viju TV1000
@@ -499,7 +495,7 @@ http://130.193.73.10:8937/play/a02u
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
-http://130.193.73.10:8937/play/a02t
+http://tinyurl.com/2yh3sd8j
 #EXTINF:-1 ,Кинопоказ
 http://185.23.80.29:8080/Kinopokaz/index.m3u8?token=itest
 #EXTINF:-1 ,Киносат
