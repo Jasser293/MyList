@@ -16,6 +16,9 @@ http://93.189.224.246:52900/play/a012/index.m3u8
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ (+2)
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
 #EXTINF:-1 ,НТВ Право
 http://185.23.80.29:8080/NTVPravo/index.m3u8?token=itest
 #EXTINF:-1 ,НТВ Право
@@ -167,6 +170,8 @@ http://45.159.74.14/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
+http://46.151.151.250:9044
+#EXTINF:-1 ,Сарафан
 http://130.193.73.10:8937/play/a01v
 #EXTINF:-1 ,Че!
 http://185.23.80.29:8080/Che/index.m3u8?token=itest
@@ -179,7 +184,7 @@ http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://185.23.80.29:8080/Domashnij/index.m3u8?token=itest
 #EXTINF:-1 ,ДОМАШНИЙ
-http://tv.ttk.mx:9013
+http://46.151.151.250:9013
 #EXTINF:-1 ,ДОМАШНИЙ
 http://livetv.mylifeisgood.net.ru/channels/domashnii
 #EXTINF:-1 ,ДОМАШНИЙ
