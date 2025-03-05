@@ -68,6 +68,8 @@ http://195.49.206.244:90/OTR/mono.m3u8?token=video
 http://cdn-01.bonus-tv.ru/vmesterf/index.m3u8
 #EXTINF:-1 ,Москва. Доверие
 http://195.49.206.244:90/Doverie/mono.m3u8?token=video
+#EXTINF:-1 ,Ностальгия
+http://91.205.199.3/nostalgia/index.m3u8
 #EXTINF:-1 ,Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 ,Неизвестная Россия
@@ -325,7 +327,11 @@ http://185.23.80.29:8080/OxotnikIRybolov_HD/index.m3u8?token=itest
 #EXTINF:-1 ,Дикий
 http://185.23.80.29:8080/Dikiy/index.m3u8?token=test
 #EXTINF:-1 ,Дикая охота
+http://91.205.199.3/dikayaoxotahd/index.m3u8
+#EXTINF:-1 ,Дикая охота
 http://stream01.vnet.am/Channel_127/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Дикая рыбалка
+http://91.205.199.3/dikayaribalkahd/index.m3u8
 #EXTINF:-1 ,Дикая рыбалка
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
@@ -412,18 +418,32 @@ http://89.106.234.5/A2.m3u8
 http://45.159.74.14/Nauka/index.m3u8
 #EXTINF:-1 ,Amedia Premium
 http://45.159.74.14/AmediaPremium/mono.m3u8
+#EXTINF:-1 ,Кинохит
+http://91.205.199.3:80/kinoxithd/index.m3u8
 #EXTINF:-1 ,КиноХит
 http://178.212.71.253:8000/play/123/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,КИНОХИТ
 http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
+#EXTINF:-1 ,Любимое Кино
+http://91.205.199.3:80/lubimoekino/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://45.159.74.22/Kinopremera/mono.m3u8
+#EXTINF:-1 ,Кинопремьера
+http://91.205.199.3/kinopremerahd/index.m3u8
+#EXTINF:-1 ,Кинохит
+http://91.205.199.3:80/kinoxithd/index.m3u8
+#EXTINF:-1 ,Киносемья
+http://91.205.199.3:80/kinosemyahd/index.m3u8
+#EXTINF:-1 ,Киносвидание
+http://91.205.199.3:80/kinosvidanie/index.m3u8
+#EXTINF:-1 ,Кинокомедия
+http://91.205.199.3/komedia/index.m3u8
 #EXTINF:-1 ,МУЖСКОЕ КИНО
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:-1 ,Ретро
@@ -450,6 +470,8 @@ http://130.193.73.10:8937/play/a02r
 http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 ,НСТ
 http://45.159.74.14/Channel_125/mono.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://91.205.199.3:80/mosfilm/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
