@@ -198,6 +198,9 @@ http://93.189.224.246:52900/play/a00n/index.m3u8
 http://185.23.80.29:8080/Pyatnica/index.m3u8?token=test
 #EXTINF:-1 ,Пятница! International
 http://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1 ,Пятница! International
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://92.43.140.249/s50/04.m3u8
 #EXTINF:-1 ,Суббота!
 http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
