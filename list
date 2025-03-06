@@ -124,6 +124,8 @@ http://195.49.206.244:90/5kanal/mono.m3u8?token=video
 #EXTINF:-1 ,Пятый канал
 http://185.23.80.29:8080/Pyatyj/index.m3u8?token=test
 #EXTINF:-1 ,ЦТВ
+http://185.23.80.29:8080/CentralnoeTelevidenie/index.m3u8?token=test
+#EXTINF:-1 ,ЦТВ
 http://stream01.vnet.am/Channel_129/mono.m3u8
 #EXTINF:-1 ,Перец
 http://112.72.4.116/live/disk1/Che/HLS-FTA/Che.m3u8
@@ -170,8 +172,6 @@ http://45.159.74.14/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
-http://46.151.151.250:9044
-#EXTINF:-1 ,Сарафан
 http://130.193.73.10:8937/play/a01v
 #EXTINF:-1 ,Че!
 http://185.23.80.29:8080/Che/index.m3u8?token=itest
@@ -183,8 +183,6 @@ http://195.49.206.244:90/U/mono.m3u8?token=video
 http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://185.23.80.29:8080/Domashnij/index.m3u8?token=itest
-#EXTINF:-1 ,ДОМАШНИЙ
-http://46.151.151.250:9013
 #EXTINF:-1 ,ДОМАШНИЙ
 http://livetv.mylifeisgood.net.ru/channels/domashnii
 #EXTINF:-1 ,ДОМАШНИЙ
@@ -248,8 +246,6 @@ http://195.49.206.244:90/Bober/mono.m3u8?token=video
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородный
 http://45.159.74.14/DTX/mono.m3u8
-#EXTINF:-1 ,Доктор
-http://46.151.151.250:9058
 #EXTINF:-1 ,Доктор
 http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Доктор
@@ -465,8 +461,6 @@ http://91.205.199.3/komedia/index.m3u8
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:-1 ,Ретро
 http://195.49.206.244:90/Retro/mono.m3u8?token=video
-#EXTINF:-1 ,Русский бестселлер
-http://46.151.151.250:9043
 #EXTINF:-1 ,Русский бестселлер
 http://65.21.85.175:8000/play/a039/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский детектив
