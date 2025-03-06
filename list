@@ -112,7 +112,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/ycxaf5a8
+http://tinyurl.com/595wfc52
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -188,8 +188,6 @@ http://livetv.mylifeisgood.net.ru/channels/domashnii
 #EXTINF:-1 ,ДОМАШНИЙ
 http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
-http://178.124.152.238:8088/dom
-#EXTINF:-1 ,ДОМАШНИЙ
 http://193.242.190.6:8099/14/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://93.189.224.246:52900/play/a00n/index.m3u8
@@ -203,8 +201,6 @@ http://195.49.206.244:90/Super/mono.m3u8?token=video
 http://185.23.80.29:8080/AVTO24/index.m3u8?token=test
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
-#EXTINF:-1 ,АВТО 24
-http://178.124.152.238:8088/auto24
 #EXTINF:-1 ,АВТО24
 http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 ,Авто Плюс
@@ -258,20 +254,18 @@ http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://45.159.74.14/KukhnyaTv/mono.m3u8
-#EXTINF:-1 ,Food Network
-rtmp://212.0.213.132//Joy_Cook
 #EXTINF:-1 ,Еда HD
 http://185.23.80.29:8080/Eda/index.m3u8?token=test
 #EXTINF:-1 ,Аппетитный
 #http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 ,UNIVER TV
-http://185.23.80.29:8080/UNIVERTV/index.m3u8?token=test
 #EXTINF:-1 ,Первый вегетарианский
 http://185.23.80.29:8080/PervyjVegetarianskij/index.m3u8?token=test
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://185.23.80.29:8080/SvetloeTV/index.m3u8?token=test
+#EXTINF:-1 ,UNIVER TV
+http://185.23.80.29:8080/UNIVERTV/index.m3u8?token=test
 #EXTINF:-1 ,Точка Отрыва
 http://185.23.80.29:8080/TochkoOtryva/index.m3u8?token=itest
 #EXTINF:-1 ,ЗООПАРК
@@ -473,8 +467,6 @@ http://185.23.80.29:8080/RusIlluzion/index.m3u8?token=itest
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,Про Любовь
 http://185.23.80.29:8080/ProLyubov/index.m3u8?token=itest
-#EXTINF:-1 ,Индийское кино
-http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 ,FlixSnip
 http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 ,НСТ
