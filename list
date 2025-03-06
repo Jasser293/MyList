@@ -260,6 +260,9 @@ http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://45.159.74.14/KukhnyaTv/mono.m3u8
+#EXTINF:-1 ,Food Network
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 ,Еда HD
 http://185.23.80.29:8080/Eda/index.m3u8?token=test
 #EXTINF:-1 ,Аппетитный
