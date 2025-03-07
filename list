@@ -619,3 +619,7 @@ http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 #EXTINF:-1 ,Русский иллюзион
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://192.166.144.101:8000/play/a00b/index.m3u8
+#EXTINF:-1 ,Русский детектив
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://192.166.144.101:8000/play/a03o/index.m3u8
+
