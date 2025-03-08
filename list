@@ -522,7 +522,9 @@ http://130.193.73.10:8937/play/a02u
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
-http://tinyurl.com/2yh3sd8j
+http://130.193.73.10:8937/play/a02t
+#EXTINF:-1 ,Viju TV1000 Action
+http://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 #EXTINF:-1 ,Кинопоказ
 http://185.23.80.29:8080/Kinopokaz/index.m3u8?token=itest
 #EXTINF:-1 ,Киносат
@@ -621,3 +623,6 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 ,Оружие
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
