@@ -9,7 +9,7 @@ http://185.23.80.29:8080/Pervyj/index.m3u8?token=itest
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 t,Первый канал
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://ott-cdn.ucom.am/s14/04.m3u8
+http://92.43.140.249/s14/04.m3u8
 #EXTINF:-1 ,Первый канал (+4)
 http://81.211.33.84/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,НТВ
@@ -228,7 +228,7 @@ http://rtmp.api.rt.com/hls/rtdru.m3u8
 https://streaming102.goodstream.cyou/live/554-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Russia today
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://ott-cdn.ucom.am/s93/04.m3u8
+http://92.43.140.249/s93/04.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Звезда
@@ -272,7 +272,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 http://45.159.74.14/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://ott-cdn.ucom.am/s18/04.m3u8
+http://92.43.140.249/s18/04.m3u8
 #EXTINF:-1 ,Еда HD
 http://185.23.80.29:8080/Eda/index.m3u8?token=test
 #EXTINF:-1 ,Аппетитный
@@ -609,8 +609,3 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 ,Первый канал HD
-http://tinyurl.com/29565nym
-#EXTINF:-1 ,НТВ HD
-http://tinyurl.com/35aab42c
-
