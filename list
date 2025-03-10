@@ -13,12 +13,12 @@ http://92.43.140.249/s14/04.m3u8
 #EXTINF:-1 ,Первый канал (+4)
 http://81.211.33.84/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,НТВ
-http://195.49.206.244:90/NTV/mono.m3u8?token=video
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
 http://93.189.224.246:52900/play/a012/index.m3u8
 #EXTINF:-1 ,НТВ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+http://195.49.206.244:90/NTV/mono.m3u8?token=video
 #EXTINF:-1 ,НТВ (+2)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
@@ -36,43 +36,43 @@ http://cdn2.ntv.ru/th_hit/mono.m3u8
 #EXTINF:-1 ,НТВ СЕРИАЛ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,РОССИЯ 1
-http://195.49.206.244:90/Russia-1/mono.m3u8?token=video
-#EXTINF:-1 ,Россия 1
-http://135.181.115.81:8000/play/a039/index.m3u8?token=livetv
 #EXTINF:-1 ,Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 ,Россия 1
+http://135.181.115.81:8000/play/a039/index.m3u8?token=livetv
+#EXTINF:-1 ,РОССИЯ 1
+http://195.49.206.244:90/Russia-1/mono.m3u8?token=video
 #EXTINF:-1 ,Россия 1 (+4)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1 ,Запад 24
+http://dmi3y-tv.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
 #EXTINF:-1 ,РТР Планета
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s15/index.m3u8
-#EXTINF:-1 ,Запад 24
-http://dmi3y-tv.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
 #EXTINF:-1 ,Россия К
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К
 http://45.11.139.43:8555/kultura/index.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
-#EXTINF:-1 ,РЕН ТВ
 http://93.189.224.246:52900/play/a00v/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://130.193.73.10:8937/play/a00i
+#EXTINF:-1 ,РЕН ТВ
+http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
 #EXTINF:-1 ,Рен ТВ International
 http://112.72.4.109/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
-http://195.49.206.244:90/TVC/mono.m3u8?token=video
-#EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
+#EXTINF:-1 ,ТВЦ
+http://195.49.206.244:90/TVC/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
 #EXTINF:-1 ,Вместе РФ
@@ -101,12 +101,10 @@ http://92.50.128.180/utv/1358/index.m3u8
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 ,Прима
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1 ,Родной канал
-http://n1.slavmir.tv/live/slavmir/chunklist.m3u8
-#EXTINF:-1 ,360 HD
-http://195.49.206.244:90/360_HD/mono.m3u8?token=video
 #EXTINF:-1 ,360 HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 ,360 HD
+http://195.49.206.244:90/360_HD/mono.m3u8?token=video
 #EXTINF:-1 ,Беларусь 24
 http://195.49.206.244:90/Belarus24/mono.m3u8?token=video
 #EXTINF:-1 ,СТВ
@@ -120,7 +118,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/2xrsxm6z
+http://tinyurl.com/yrwfvh48
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -129,9 +127,11 @@ http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
-http://195.49.206.244:90/5kanal/mono.m3u8?token=video
-#EXTINF:-1 ,Пятый канал
 http://93.189.224.246:52900/play/a00y/index.m3u8
+#EXTINF:-1 ,Пятый канал
+http://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+#EXTINF:-1 ,Пятый канал
+http://195.49.206.244:90/5kanal/mono.m3u8?token=video
 #EXTINF:-1 ,ЦТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s20/03.m3u8
@@ -149,19 +149,19 @@ http://95.67.12.82:9069
 http://lime-pi.tlgx.ru:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
 http://lime-pi.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
-#EXTINF:-1 ,ТНТ HD
-http://195.49.206.244:90/TNT_HD/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
 http://93.189.224.246:52900/play/a00u/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
+#EXTINF:-1 ,ТНТ
+http://195.49.206.244:90/TNT_HD/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ International
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s19/index.m3u8
 #EXTINF:-1 ,ТНТ4
-http://195.49.206.244:90/TNT4/mono.m3u8?token=video
-#EXTINF:-1 ,ТНТ4
 http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 ,ТНТ4
+http://stream02.vnet.am/THTComedy/mono.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
 #EXTINF:-1 ,ТВ3
@@ -171,13 +171,13 @@ http://195.49.206.244:90/TV_3/mono.m3u8?token=video
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STSHD.m3u8
 #EXTINF:-1 ,СТС
-http://195.49.206.244:90/STS/mono.m3u8?token=video
+http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС International
 http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
-http://195.49.206.244:90/STS_Love/mono.m3u8?token=video
-#EXTINF:-1 ,СТС Love
 http://dmi3y-tv.ru/hls/CH_STSLOVE.m3u8
+#EXTINF:-1 ,СТС Love
+http://195.49.206.244:90/STS_Love/mono.m3u8?token=video
 #EXTINF:-1 ,Телекафе
 http://112.72.4.109/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 #EXTINF:-1 ,Телекафе
@@ -191,11 +191,11 @@ http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Че!
 http://45.11.139.43:8555/perez/index.m3u8
 #EXTINF:-1 ,Ю
-http://195.49.206.244:90/U/mono.m3u8?token=video
-#EXTINF:-1 ,Ю
 http://dmi3y-tv.ru/hls/CH_U.m3u8
+#EXTINF:-1 ,Ю
+http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,ДОМАШНИЙ
-http://livetv.mylifeisgood.net.ru/channels/domashnii
+http://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
@@ -246,9 +246,9 @@ http://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 ,Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Усадьба
-http://195.49.206.244:90/Usadba/mono.m3u8?token=video
-#EXTINF:-1 ,Усадьба
 http://194.158.218.123:8880/Usadba/index.m3u8
+#EXTINF:-1 ,Усадьба
+http://195.49.206.244:90/Usadba/mono.m3u8?token=video
 #EXTINF:-1 ,Бобёр
 http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 ,Бобёр
@@ -278,7 +278,7 @@ http://92.43.140.249/s18/04.m3u8
 #EXTINF:-1 ,Еда HD
 http://tinyurl.com/5n8cma7u
 #EXTINF:-1 ,Аппетитный
-#http://185.50.148.2:7703/Motorsport/index.m3u8
+http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
@@ -341,7 +341,7 @@ http://195.49.206.244:90/Nature/mono.m3u8?token=video
 #EXTINF:-1 ,Viasat Explore
 http://195.49.206.244:90/Explorer/mono.m3u8?token=video
 #EXTINF:-1 ,Viasat History
-http://195.49.206.244:90/Viasat_History/mono.m3u8?token=video
+http://185.50.148.2:7703/ViasatHistory/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -477,6 +477,8 @@ http://130.193.73.10:8937/play/a02r
 http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,НСТ
 http://130.193.73.10:8937/play/a03c
+#EXTINF:-1 ,Мосфильм.Золотая коллекция
+http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=itest
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
