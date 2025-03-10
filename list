@@ -80,6 +80,8 @@ http://cdn-01.bonus-tv.ru/vmesterf/index.m3u8
 #EXTINF:-1 ,Москва. Доверие
 http://195.49.206.244:90/Doverie/mono.m3u8?token=video
 #EXTINF:-1 ,Ностальгия
+http://185.50.148.2:7711/Nostalgiya/index.m3u8
+#EXTINF:-1 ,Ностальгия
 http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 ,Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
@@ -93,6 +95,8 @@ http://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 ,Продвижение (+4)
 http://dvhome.ru/hls/tv.m3u8
+#EXTINF:-1 ,Время
+http://185.50.148.2:7707/Vremya/index.m3u8
 #EXTINF:-1 ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,РБК
@@ -218,7 +222,7 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО24
 http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 ,Авто Плюс
-#http://s1.merlive.am/Avtoplus/index.m3u8
+http://185.50.148.2:7711/AutoPlus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
@@ -275,8 +279,6 @@ http://45.159.74.14/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
-#EXTINF:-1 ,Еда HD
-http://tinyurl.com/5n8cma7u
 #EXTINF:-1 ,Аппетитный
 http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
@@ -288,7 +290,7 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,UNIVER TV
 http://cdn.universmotri.ru/live/mq.sdp/chunklist_w1403962929.m3u8
 #EXTINF:-1 ,Точка Отрыва
-http://109.200.130.123:7537/play/a022
+http://185.50.148.2:7703/OhotaiRibalka/index.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://195.49.206.244:90/Zoopark/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
@@ -300,7 +302,7 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Кто есть кто
-#http://185.50.148.2:7711/Ktoestkto/index.m3u8
+http://185.50.148.2:7711/Ktoestkto/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
 #EXTINF:-1 ,Спас
@@ -338,8 +340,12 @@ http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://195.49.206.244:90/Nature/mono.m3u8?token=video
+#EXTINF:-1 ,Viasat Nature
+http://185.50.148.2:7703/ViasatNature/index.m3u8
 #EXTINF:-1 ,Viasat Explore
 http://195.49.206.244:90/Explorer/mono.m3u8?token=video
+#EXTINF:-1 ,Viasat Explore
+http://185.50.148.2:7703/ViasatExplorer/index.m3u8
 #EXTINF:-1 ,Viasat History
 http://185.50.148.2:7703/ViasatHistory/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
@@ -422,6 +428,8 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 http://hls.goodgame.ru:8080/hls/176975.m3u8
 #EXTINF:-1 ,ДОМ КИНО
 http://stream01.vnet.am/DomKino/mono.m3u8
+#EXTINF:-1 ,Кино Без Границ
+http://185.50.148.2:7703/Detskiy/index.m3u8
 #EXTINF:-1 ,Amedia 1
 http://stream01.vnet.am/Channel_128/mono.m3u8
 #EXTINF:-1 ,Amedia 1
@@ -440,6 +448,8 @@ http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кинохит
 http://178.212.71.253:8000/play/123/index.m3u8
+#EXTINF:-1 ,КиноХит
+http://185.50.148.2:7711/Kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 ,Кинозал
@@ -471,13 +481,17 @@ http://192.166.144.101:8000/play/a00b/index.m3u8
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,Про Любовь
 #http://185.23.80.29:8080/ProLyubov/index.m3u8?token=itest
+#EXTINF:-1 ,FlixSnip [720x576]
+http://185.50.148.2:7703/FlixSnip/index.m3u8
 #EXTINF:-1 ,FlixSnip
 http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 ,НСТ
 http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,НСТ
 http://130.193.73.10:8937/play/a03c
-#EXTINF:-1 ,Мосфильм.Золотая коллекция
+#EXTINF:-1 ,Родное кино
+http://185.50.148.2:7711/RodnoeKino/index.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=itest
