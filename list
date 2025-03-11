@@ -215,9 +215,9 @@ http://92.43.140.249/s50/04.m3u8
 #EXTINF:-1 ,Суббота!
 http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
-http://178.124.152.238:8088/auto24
-#EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
+#EXTINF:-1 ,АВТО 24
+http://178.124.152.238:8088/auto24
 #EXTINF:-1 ,АВТО24
 http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 ,Авто Плюс
@@ -290,6 +290,8 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 http://cdn.universmotri.ru/live/mq.sdp/chunklist_w1403962929.m3u8
 #EXTINF:-1 ,Точка Отрыва
 http://185.50.148.2:7703/OhotaiRibalka/index.m3u8
+#EXTINF:-1 ,Лапки Live
+http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 ,ЗООПАРК
 http://195.49.206.244:90/Zoopark/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
