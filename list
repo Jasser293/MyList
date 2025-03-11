@@ -18,7 +18,7 @@ http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
 http://93.189.224.246:52900/play/a012/index.m3u8
 #EXTINF:-1 ,НТВ
-http://195.49.206.244:90/NTV/mono.m3u8?token=video
+http://185.50.148.2:7702/NTV/index.m3u8
 #EXTINF:-1 ,НТВ (+2)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
@@ -120,7 +120,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/yrwfvh48
+#http://tinyurl.com/yrwfvh48
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -146,7 +146,8 @@ http://45.159.74.14/Perec/mono.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://45.159.74.14/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
-http://95.67.12.82:9069
+http://s3.merlive.am/gagsnetwork/index.m3u8
+#http://95.67.12.82:9069
 #EXTINF:-1 ,Твоё ТВ
 http://lime-pi.tlgx.ru:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
@@ -156,7 +157,7 @@ http://93.189.224.246:52900/play/a00u/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
-http://195.49.206.244:90/TNT_HD/mono.m3u8?token=video
+http://185.50.148.2:7702/TNT/index.m3u8
 #EXTINF:-1 ,ТНТ International
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s19/index.m3u8
@@ -518,7 +519,7 @@ http://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 #EXTINF:-1 ,Кинопоказ
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 #EXTINF:-1 ,Киносемья
-http://fs2.persik.by/Kinosemya/index.m3u8
+http://185.50.148.2:7711/Kinosemya/index.m3u8
 #EXTINF:-1 ,Киносерия
 rtmp://212.0.213.132//Kinoseria
 #EXTINF:-1 ,Наше новое кино
