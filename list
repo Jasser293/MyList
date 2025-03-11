@@ -120,7 +120,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-#http://tinyurl.com/yrwfvh48
+http://tinyurl.com/4djk3xu2
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -133,7 +133,7 @@ http://93.189.224.246:52900/play/a00y/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 ,Пятый канал
-http://195.49.206.244:90/5kanal/mono.m3u8?token=video
+http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 ,ЦТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s20/03.m3u8
@@ -360,7 +360,7 @@ http://stream01.vnet.am/Channel_127/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
-http://fs2.persik.by/365dney/index.m3u8
+http://185.50.148.2:7711/365/index.m3u8
 #EXTINF:-1 ,TERRA
 http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 ,1HD
@@ -377,8 +377,6 @@ http://146.59.85.40:89/MTV80s/mpegts
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 ,Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 ,Ля-минор
-http://fs2.persik.by/LaMinor/index.m3u8
 #EXTINF:-1 ,OneBY HD [RUS]
 http://rtmp.one.by:2300
 #EXTINF:-1 ,ТНТ MUSIC
@@ -414,7 +412,8 @@ http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
 http://195.49.206.244:90/Teatr/mono.m3u8?token=video
 #EXTINF:-1 ,Калейдоскоп ТВ
-http://origin5.mediacdn.ru/live/kaleidoskop/index.m3u8
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
 #EXTINF:-1 ,Сапфир
 http://135.181.115.81:8000/play/a03f/index.m3u8?token=livetv
 #EXTINF:-1 ,Сапфир
