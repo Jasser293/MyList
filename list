@@ -3,6 +3,8 @@
 http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
 #EXTINF:-1 ,Первый канал
 http://195.26.83.96:7013/play/12/index.m3u8
+#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
+https://streaming.televizor-24-tochka.ru/live/210.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 t,Первый канал
@@ -15,6 +17,8 @@ http://81.211.33.84/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
 http://185.50.148.2:7702/NTV/index.m3u8
+#EXTINF:-1 ,НТВ
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 ,НТВ (+2)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
@@ -51,6 +55,8 @@ http://92.43.140.249/s15/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К
 http://45.11.139.43:8555/kultura/index.m3u8
+#EXTINF:-1 ,РЕН ТВ
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://130.193.73.10:8937/play/a00i
 #EXTINF:-1 ,РЕН ТВ
@@ -114,7 +120,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/47jnr6hc
+http://tinyurl.com/4djk3xu2
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -147,6 +153,8 @@ http://lime-pi.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
+https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#EXTINF:-1 ,ТНТ
 http://185.50.148.2:7702/TNT/index.m3u8
 #EXTINF:-1 ,ТНТ International
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -158,7 +166,11 @@ http://stream02.vnet.am/THTComedy/mono.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
 #EXTINF:-1 ,ТВ3
+https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
+#EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=video
+#EXTINF:-1 ,ТВ3
+http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/T2/CH_STSHD.m3u8
 #EXTINF:-1 ,СТС
@@ -191,6 +203,10 @@ http://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://193.242.190.6:8099/14/index.m3u8
+#EXTINF:-1 ,ПЯТНИЦА
+http://195.49.206.244:90/Pyatnica/mono.m3u8?token=video
+#EXTINF:-1 ,ПЯТНИЦА
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница! International
@@ -389,6 +405,8 @@ http://dmi3y-tv.ru/hls/CH_SPIRITTVHD720.m3u8
 http://dmi3y-tv.ru/hls/CH_KRONEHIT.m3u8
 #EXTINF:-1 ,Kronehit HD
 http://dmi3y-tv.ru/hls/CH_KRONEHITHD.m3u8
+#EXTINF:-1 ,Europa Plus TV
+http://135.181.115.81:8000/play/a03l/index.m3u8?token=livetv
 #EXTINF:-1 ,RU.TV
 http://65.21.85.175:8000/play/a00q/index.m3u8?token=livetv
 #EXTINF:-1 ,MTV
@@ -488,6 +506,8 @@ http://45.159.74.22/ZeeTV/index.m3u8
 #EXTINF:-1 ,Индия
 http://45.159.74.14/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Viju TV1000
+http://185.50.148.2:7703/TV1000/index.m3u8
+#EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Русское
 http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
@@ -554,6 +574,8 @@ http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+#EXTINF:-1 ,Мультиландия
+http://185.50.148.2:7706/Multimania/index.m3u8
 #EXTINF:-1 ,В гостях у сказки
 #http://109.200.130.123:7537/play/a02m
 #EXTINF:-1 ,Мульт
