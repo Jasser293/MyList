@@ -122,7 +122,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/47jnr6hc
+http://tinyurl.com/3eyym9ff
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -484,6 +484,8 @@ http://130.193.73.10:8937/play/a03o
 http://192.166.144.101:8000/play/a00b/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
+#EXTINF:-1 ,Русский роман
+http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 ,Про Любовь
 #http://185.23.80.29:8080/ProLyubov/index.m3u8?token=itest
 #EXTINF:-1 ,Душевное
@@ -618,3 +620,5 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 , Discovery Channel
+http://tinyurl.com/yrkca3m8
