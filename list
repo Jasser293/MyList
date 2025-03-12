@@ -4,7 +4,7 @@ http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
 #EXTINF:-1 ,Первый канал
 http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-https://streaming.televizor-24-tochka.ru/live/210.m3u8
+https://93.88.79.156.ru/live/210.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 t,Первый канал
@@ -22,6 +22,8 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 ,НТВ (+2)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
+#EXTINF:-1 ,НТВ-Мир
+https://93.88.79.156/live/213.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -153,7 +155,7 @@ http://lime-pi.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
-https://streaming.televizor-24-tochka.ru/live/38.m3u8
+https://93.88.79.156.ru/live/38.m3u8
 #EXTINF:-1 ,ТНТ
 http://185.50.148.2:7702/TNT/index.m3u8
 #EXTINF:-1 ,ТНТ International
