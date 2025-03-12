@@ -158,6 +158,8 @@ http://195.49.206.244:90/TNT/mono.m3u8?token=video
 http://185.50.148.2:7702/TNT/index.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://193.242.190.6:8099/19/index.m3u8
+#EXTINF:-1 ,ТНТ (+4)
+https://105.29.232.68/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
