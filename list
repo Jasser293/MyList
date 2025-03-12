@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://93.189.224.246:52900/play/a011/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 ,Первый канал
@@ -15,8 +13,6 @@ http://81.211.33.84/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ
-http://93.189.224.246:52900/play/a012/index.m3u8
 #EXTINF:-1 ,НТВ
 http://185.50.148.2:7702/NTV/index.m3u8
 #EXTINF:-1 ,НТВ (+2)
@@ -55,8 +51,6 @@ http://92.43.140.249/s15/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К
 http://45.11.139.43:8555/kultura/index.m3u8
-#EXTINF:-1 ,РЕН ТВ
-http://93.189.224.246:52900/play/a00v/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://130.193.73.10:8937/play/a00i
 #EXTINF:-1 ,РЕН ТВ
@@ -120,7 +114,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/4djk3xu2
+http://tinyurl.com/47jnr6hc
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -128,8 +122,6 @@ http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 #EXTINF:-1 ,Победа
 https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
-#EXTINF:-1 ,Пятый канал
-http://93.189.224.246:52900/play/a00y/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -153,8 +145,6 @@ http://lime-pi.tlgx.ru:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
 http://lime-pi.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТНТ
-http://93.189.224.246:52900/play/a00u/index.m3u8
-#EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
 http://185.50.148.2:7702/TNT/index.m3u8
@@ -167,8 +157,6 @@ http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 http://stream02.vnet.am/THTComedy/mono.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
-#EXTINF:-1 ,ТВ3
-http://93.189.224.246:52900/play/a016/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=video
 #EXTINF:-1 ,СТС
@@ -204,8 +192,6 @@ http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://193.242.190.6:8099/14/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
-http://93.189.224.246:52900/play/a00n/index.m3u8
-#EXTINF:-1 ,ПЯТНИЦА
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница! International
 http://stream01.vnet.am/Pyatnica/mono.m3u8
@@ -215,9 +201,9 @@ http://92.43.140.249/s50/04.m3u8
 #EXTINF:-1 ,Суббота!
 http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
-http://195.49.206.244:90/Avto24/mono.m3u8?token=video
-#EXTINF:-1 ,АВТО 24
 http://178.124.152.238:8088/auto24
+#EXTINF:-1 ,АВТО 24
+http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО24
 http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 ,Авто Плюс
@@ -403,8 +389,6 @@ http://dmi3y-tv.ru/hls/CH_SPIRITTVHD720.m3u8
 http://dmi3y-tv.ru/hls/CH_KRONEHIT.m3u8
 #EXTINF:-1 ,Kronehit HD
 http://dmi3y-tv.ru/hls/CH_KRONEHITHD.m3u8
-#EXTINF:-1 ,Europa Plus TV
-http://93.189.224.246:52900/play/a00r/index.m3u8
 #EXTINF:-1 ,RU.TV
 http://65.21.85.175:8000/play/a00q/index.m3u8?token=livetv
 #EXTINF:-1 ,MTV
@@ -504,8 +488,6 @@ http://45.159.74.22/ZeeTV/index.m3u8
 #EXTINF:-1 ,Индия
 http://45.159.74.14/ZeeTV/mono.m3u8
 #EXTINF:-1 ,Viju TV1000
-http://93.189.224.246:52900/play/a00p/index.m3u8
-#EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Русское
 http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
@@ -537,8 +519,6 @@ http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
-#EXTINF:-1 ,Беларусь 5
-http://93.189.224.246:52900/play/a005/index.m3u8
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
@@ -574,8 +554,6 @@ http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Мама
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
-#EXTINF:-1 ,Мультиландия
-http://93.189.224.246:52900/play/a00m/index.m3u8
 #EXTINF:-1 ,В гостях у сказки
 #http://109.200.130.123:7537/play/a02m
 #EXTINF:-1 ,Мульт
