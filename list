@@ -12,8 +12,6 @@ http://tinyurl.com/2kcsvwwv
 http://92.43.140.249/s14/04.m3u8
 #EXTINF:-1 ,Первый канал (+2)
 http://193.242.190.6:8099/1/index.m3u8
-#EXTINF:-1 ,Первый канал (+4)
-http://81.211.33.84/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
