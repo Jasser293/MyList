@@ -4,7 +4,8 @@ http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
 #EXTINF:-1 ,Первый канал
 http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 ,Первый канал
-http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://91.205.199.3/roos-pervikanalrosia/manifest.m3u8
+#http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://tinyurl.com/2kcsvwwv
 #EXTINF:-1 ,Первый канал СНГ
@@ -67,8 +68,6 @@ http://112.72.4.109/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 ,ТВЦ
-http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
 #EXTINF:-1 ,ТВЦ
 http://195.49.206.244:90/TVC/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
@@ -362,7 +361,7 @@ http://195.49.206.244:90/Ohota_i_rybalka/mono.m3u8?token=video
 #EXTINF:-1 ,Охотник и рыболов
 http://stream01.vnet.am/Channel_124/manifest.m3u8
 #EXTINF:-1 ,Дикий
-http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
+http://185.50.148.2:7711/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикая охота
 http://stream01.vnet.am/Channel_127/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка
@@ -414,7 +413,7 @@ http://dmi3y-tv.ru/hls/CH_KRONEHITHD.m3u8
 #EXTINF:-1 ,Europa Plus TV
 http://135.181.115.81:8000/play/a03l/index.m3u8?token=livetv
 #EXTINF:-1 ,RU.TV
-http://65.21.85.175:8000/play/a00q/index.m3u8?token=livetv
+http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 ,MTV
 http://212.102.60.231/MTV/index.m3u8
 #EXTINF:-1 ,Теледом ТВ
@@ -458,8 +457,6 @@ http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 http://178.212.71.253:8000/play/123/index.m3u8
 #EXTINF:-1 ,КиноХит
 http://185.50.148.2:7711/Kinohit/index.m3u8
-#EXTINF:-1 ,Кинохит
-http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 ,Кинозал
 http://185.57.68.33/237/mpegts
 #EXTINF:-1 ,Кино ТВ
@@ -489,6 +486,8 @@ http://192.166.144.101:8000/play/a00b/index.m3u8
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,Русский роман
 http://193.242.190.6:8099/39/index.m3u8
+#EXTINF:-1 ,Киносвидание
+http://178.212.71.253:8000/play/122/index.m3u8
 #EXTINF:-1 ,Про Любовь
 #http://185.23.80.29:8080/ProLyubov/index.m3u8?token=itest
 #EXTINF:-1 ,Душевное
@@ -527,8 +526,6 @@ http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 ,Viju TV1000 Action
 http://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
-#EXTINF:-1 ,Кинопоказ
-http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 #EXTINF:-1 ,Киносемья
 http://185.50.148.2:7711/Kinosemya/index.m3u8
 #EXTINF:-1 ,Киносерия
