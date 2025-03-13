@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
+#EXTINF:-1 ,Первый канал
 http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
 #EXTINF:-1 ,Первый канал
 http://195.26.83.96:7013/play/12/index.m3u8
