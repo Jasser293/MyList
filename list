@@ -7,7 +7,7 @@ http://195.26.83.96:7013/play/12/index.m3u8
 http://91.205.199.3/roos-pervikanalrosia/manifest.m3u8
 #http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
-http://tinyurl.com/2kcsvwwv
+http://5.153.180.129:8000/play/a04f
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s14/04.m3u8
@@ -56,11 +56,11 @@ http://92.43.140.249/s15/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К
 http://45.11.139.43:8555/kultura/index.m3u8
-#EXTINF:-1 ,РЕН ТВ
+#EXTINF:-1 ,Рен ТВ
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 ,Рен ТВ
-http://130.193.73.10:8937/play/a00i
-#EXTINF:-1 ,РЕН ТВ
+http://5.153.180.129:8000/play/a04m
+#EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
 #EXTINF:-1 ,Рен ТВ International
 http://112.72.4.109/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
@@ -122,6 +122,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
+http://5.153.180.129:8000/play/a06u
+#EXTINF:-1 ,Оружие
 http://tinyurl.com/4bjnw4v5
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
@@ -134,8 +136,6 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 http://5.153.180.129:8000/play/a006
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
-#EXTINF:-1 ,Пятый канал
-http://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 ,ЦТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s20/03.m3u8
@@ -149,7 +149,8 @@ http://45.159.74.14/Perec/mono.m3u8
 http://45.159.74.14/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
 http://s3.merlive.am/gagsnetwork/index.m3u8
-#http://95.67.12.82:9069
+#EXTINF:-1,Анекдот ТВ
+http://5.153.180.129:8000/play/a07j
 #EXTINF:-1 ,Твоё ТВ
 http://lime-pi.tlgx.ru:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
@@ -223,10 +224,14 @@ http://92.43.140.249/s50/04.m3u8
 http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://178.124.152.238:8088/auto24
+#EXTINF:-1 ,Авто 24
+http://5.153.180.129:8000/play/a01q
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО24
 http://91.205.199.3/avto24/index.m3u8
+#EXTINF:-1 ,Авто плюс
+http://5.153.180.129:8000/play/a01r
 #EXTINF:-1 ,Авто Плюс
 http://185.50.148.2:7711/AutoPlus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
@@ -282,6 +287,8 @@ http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
 http://45.159.74.14/KukhnyaTv/mono.m3u8
+#EXTINF:-1 ,Food time
+http://5.153.180.129:8000/play/a07o
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
@@ -478,7 +485,7 @@ http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 ,Русский бестселлер
 http://65.21.85.175:8000/play/a039/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский детектив
-http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
+http://5.153.180.129:8000/play/a04x
 #EXTINF:-1 ,Русский детектив
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский иллюзион
@@ -546,6 +553,8 @@ http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://5.153.180.129:8000/play/a071
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! ПЛАНЕТА
