@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
 #EXTINF:-1 ,Первый канал
-http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://tinyurl.com/bdfwj8u9
+http://tinyurl.com/fkjx9d2w
 #EXTINF:-1 ,Первый канал
 http://91.205.199.3/roos-pervikanalrosia/manifest.m3u8
 #EXTINF:-1 ,Первый канал
@@ -117,9 +115,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/3978zwcn
-#EXTINF:-1 ,Оружие
 http://5.153.180.129:8000/play/a06u
+#EXTINF:-1 ,Оружие
+http://tinyurl.com/3978zwcn
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
