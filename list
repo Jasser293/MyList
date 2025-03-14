@@ -294,11 +294,11 @@ http://cdn.universmotri.ru/live/mq.sdp/chunklist_w1403962929.m3u8
 #EXTINF:-1 ,Точка Отрыва
 http://185.50.148.2:7703/OhotaiRibalka/index.m3u8
 #EXTINF:-1 ,Лапки Live
-http://91.247.68.229:8000/play/Lapki/index.m3u8
+http://5.153.180.129:8000/play/a05f
 #EXTINF:-1 ,ЗООПАРК
 http://195.49.206.244:90/Zoopark/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
-http://91.247.68.229:8000/play/Poehali/index.m3u8
+http://195.49.206.244:90/Poehali/mono.m3u8?token=video
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://stream01.vnet.am/365Dney/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Большая Азия
@@ -374,8 +374,6 @@ http://stream01.vnet.am/Channel_126/mono.m3u8
 http://185.50.148.2:7711/365/index.m3u8
 #EXTINF:-1 ,TERRA
 http://109.200.130.123:7537/play/a02i
-#EXTINF:-1 ,1HD
-http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,ТНТ Music
