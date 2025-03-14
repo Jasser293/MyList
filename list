@@ -185,7 +185,7 @@ http://45.159.74.14/Telekafe/mono.m3u8
 #EXTINF:-1 ,Сарафан
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
-http://130.193.73.10:8937/play/a01v
+http://185.50.148.2:7706/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Че!
@@ -503,17 +503,15 @@ http://185.50.148.2:7703/FlixSnip/index.m3u8
 #EXTINF:-1 ,FlixSnip
 http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 ,НСТ
-http://45.159.74.14/Channel_125/mono.m3u8
+http://195.49.206.244:90/NST/mono.m3u8?token=video
 #EXTINF:-1 ,НСТ
-http://130.193.73.10:8937/play/a03c
+http://45.159.74.14/Channel_125/mono.m3u8
 #EXTINF:-1 ,Родное кино
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=itest
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 ,.Black
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Индия
@@ -525,11 +523,11 @@ http://195.49.206.244:90/TV1000/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Русское
 http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
 #EXTINF:-1 ,Viju TV1000 Русское
-http://130.193.73.10:8937/play/a02u
+http://91.205.199.3/tv1000ruskoekino/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
-http://130.193.73.10:8937/play/a02t
+http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 #EXTINF:-1 ,Киносемья
