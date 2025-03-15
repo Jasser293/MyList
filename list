@@ -488,10 +488,6 @@ http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 ,Киносвидание
 http://91.205.199.3/kinosvidanie/index.m3u8
-#EXTINF:-1 ,Про Любовь
-#http://185.23.80.29:8080/ProLyubov/index.m3u8?token=itest
-#EXTINF:-1 ,Душевное
-http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 ,FlixSnip
 http://185.50.148.2:7703/FlixSnip/index.m3u8
 #EXTINF:-1 ,FlixSnip
