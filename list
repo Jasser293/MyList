@@ -61,6 +61,8 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 http://45.11.139.43:8555/kultura/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
+#EXTINF:-1, Рен ТВ
+http://178.212.71.253:8000/play/11/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://stream01.vnet.am/RenTv/mono.m3u8
 #EXTINF:-1 ,Рен ТВ International
@@ -154,6 +156,8 @@ http://45.159.74.14/Perec/mono.m3u8
 http://45.159.74.14/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
 http://s3.merlive.am/gagsnetwork/index.m3u8
+#EXTINF:-1, ТНТ
+http://178.212.71.253:8000/play/19/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
@@ -200,6 +204,8 @@ http://45.11.139.43:8555/perez/index.m3u8
 http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
+#EXTINF:-1, Домашний
+http://178.212.71.253:8000/play/14/index.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ
 http://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 #EXTINF:-1 ,Домашний
@@ -274,6 +280,8 @@ http://45.159.74.14/DTX/mono.m3u8
 http://92.43.140.249/s31/04.m3u8
 #EXTINF:-1 ,Доктор
 #http://195.49.206.244:90/Doktor/mono.m3u8?token=video
+#EXTINF:-1, Доктор
+http://178.212.71.253:8000/play/68/index.m3u8
 #EXTINF:-1 ,Доктор
 http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Здоровое ТВ
@@ -477,17 +485,19 @@ http://45.159.74.22/Kinopremera/mono.m3u8
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:-1 ,Ретро
 http://195.49.206.244:90/Retro/mono.m3u8?token=video
+#EXTINF:-1, Русский бестселлер
+http://178.212.71.253:8000/play/115/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://130.193.73.10:8937/play/a03l
-#EXTINF:-1 ,Русский бестселлер
-http://65.21.85.175:8000/play/a039/index.m3u8?token=livetv
+#EXTINF:-1, Русский детектив
+http://178.212.71.253:8000/play/45/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://5.153.180.129:8000/play/a04x
-#EXTINF:-1 ,Русский детектив
-http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский иллюзион
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://192.166.144.101:8000/play/a00b/index.m3u8
+#EXTINF:-1, Русский роман
+http://178.212.71.253:8000/play/42/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,Русский роман
