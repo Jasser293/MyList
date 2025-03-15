@@ -46,7 +46,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:-1 ,Запад 24
 http://dmi3y-tv.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
-#EXTINF:-1 ,ЛенТВ 24
+#EXTINF:-1 ,ЛенТВ24
 http://tinyurl.com/mse3u42h
 #EXTINF:-1 ,РТР Планета
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -231,9 +231,9 @@ http://185.50.148.2:7711/AutoPlus/index.m3u8
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
-#EXTINF:-1 ,Russia today
+#EXTINF:-1 ,RT Doc
 http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 ,Russia today
+#EXTINF:-1 ,RT Doc
 #EXTVLCOPT:http-user-agent=Donate BTC
 https://streaming102.goodstream.cyou/live/554-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,RT Doc
