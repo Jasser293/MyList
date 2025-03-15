@@ -2,6 +2,8 @@
 #EXTINF:-1 ,Первый канал
 http://tinyurl.com/fkjx9d2w
 #EXTINF:-1 ,Первый канал
+http://192.166.144.101:8000/play/a00e/index.m3u8
+#EXTINF:-1 ,Первый канал
 http://91.205.199.3/roos-pervikanalrosia/manifest.m3u8
 #EXTINF:-1 ,Первый канал
 http://195.26.83.96:7013/play/12/index.m3u8
@@ -34,6 +36,8 @@ http://cdn2.ntv.ru/th_hit/mono.m3u8
 http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 ,Россия 1
+http://192.166.144.101:8000/play/a00h/index.m3u8
 #EXTINF:-1 ,Россия 1
 http://135.181.115.81:8000/play/a039/index.m3u8?token=livetv
 #EXTINF:-1 ,РОССИЯ 1
