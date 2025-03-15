@@ -67,6 +67,10 @@ http://195.49.206.244:90/TVC/mono.m3u8?token=video
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
 #EXTINF:-1 ,Rutube
 http://tinyurl.com/ndw3dap7
+#EXTINF:-1 ,Кино и Жизнь
+http://tinyurl.com/59bp3ydp
+#EXTINF:-1 ,Кинолента 24
+http://tinyurl.com/4ctdb4su
 #EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
