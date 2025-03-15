@@ -451,10 +451,10 @@ http://45.159.74.14/Nauka/index.m3u8
 http://45.159.74.14/AmediaPremium/mono.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
+#EXTINF:-1 ,КиноХит
+http://91.205.199.3/kinoxithd/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Кинохит
-http://178.212.71.253:8000/play/123/index.m3u8
 #EXTINF:-1 ,КиноХит
 http://185.50.148.2:7711/Kinohit/index.m3u8
 #EXTINF:-1 ,Кинозал
@@ -487,7 +487,7 @@ http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,Русский роман
 http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 ,Киносвидание
-http://178.212.71.253:8000/play/122/index.m3u8
+http://91.205.199.3/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Про Любовь
 #http://185.23.80.29:8080/ProLyubov/index.m3u8?token=itest
 #EXTINF:-1 ,Душевное
