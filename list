@@ -46,7 +46,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:-1 ,Запад 24
 http://dmi3y-tv.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
-#EXTINF:-1 ,ЛенТВ24
+#EXTINF:-1 ,ЛенТВ 24
 http://tinyurl.com/mse3u42h
 #EXTINF:-1 ,РТР Планета
 #EXTVLCOPT:http-user-agent=Donate BTC
