@@ -6,7 +6,7 @@ http://192.166.144.101:8000/play/a00e/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://91.205.199.3/roos-pervikanalrosia/manifest.m3u8
 #EXTINF:-1 ,Первый канал
-http://195.26.83.96:7013/play/12/index.m3u8
+http://178.212.71.253:8000/play/1/index.m3u8
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s14/04.m3u8
@@ -199,7 +199,7 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
 http://185.50.148.2:7706/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
-http://195.26.83.96:7009/play/89/index.m3u8
+http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 ,Че!
 http://45.11.139.43:8555/perez/index.m3u8
 #EXTINF:-1 ,Ю
@@ -237,6 +237,8 @@ http://91.205.199.3/avto24/index.m3u8
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО24
 http://91.205.199.3/avto24/index.m3u8
+#EXTINF:-1, Авто плюс
+http://178.212.71.253:8000/play/69/index.m3u8
 #EXTINF:-1 ,Авто Плюс
 http://185.50.148.2:7711/AutoPlus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
