@@ -139,10 +139,12 @@ http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 #EXTINF:-1 ,Победа
 https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
-#EXTINF:-1 ,Пятый канал
-http://130.193.73.10:8937/play/a00h
+#EXTINF:-1, Пятый
+http://178.212.71.253:8000/play/5/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://5.153.180.129:8000/play/a006
+#EXTINF:-1 ,Пятый канал
+#http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 ,ЦТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s20/03.m3u8
@@ -251,6 +253,8 @@ https://streaming102.goodstream.cyou/live/554-req_offset_28000000-req_window_0-1
 http://92.43.140.249/s93/04.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1, Соловьев.Live
+http://178.212.71.253:8000/play/111/index.m3u8
 #EXTINF:-1 ,Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
@@ -546,6 +550,8 @@ http://178.212.71.253:8002/play/a00i/index.m3u8
 http://109.200.130.123:7537/play/a021
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
+#EXTINF:-1, Танцуй!
+http://178.212.71.253:8000/play/81/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
