@@ -56,7 +56,7 @@ http://92.43.140.249/s15/index.m3u8
 #EXTINF:-1 ,Россия К
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К
-http://45.11.139.43:8555/kultura/index.m3u8
+http://91.205.199.3/kultura/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
 #EXTINF:-1 ,Рен ТВ International
@@ -475,10 +475,10 @@ http://45.159.74.22/Kinopremera/mono.m3u8
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:-1 ,Ретро
 http://195.49.206.244:90/Retro/mono.m3u8?token=video
-#EXTINF:-1, Русский бестселлер
-http://178.212.71.253:8000/play/115/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://130.193.73.10:8937/play/a03l
+#EXTINF:-1, Русский бестселлер
+http://178.212.71.253:8000/play/115/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://5.153.180.129:8000/play/a04x
 #EXTINF:-1 ,Русский иллюзион
@@ -532,8 +532,6 @@ http://178.212.71.253:8002/play/a00i/index.m3u8
 http://109.200.130.123:7537/play/a021
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
-#EXTINF:-1, Танцуй!
-http://178.212.71.253:8000/play/81/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
