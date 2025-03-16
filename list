@@ -285,11 +285,11 @@ http://45.159.74.14/DTX/mono.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s31/04.m3u8
 #EXTINF:-1 ,Доктор
-#http://195.49.206.244:90/Doktor/mono.m3u8?token=video
+http://130.193.73.10:8937/play/a01q
+#EXTINF:-1 ,Доктор
+http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 #EXTINF:-1, Доктор
 http://178.212.71.253:8000/play/68/index.m3u8
-#EXTINF:-1 ,Доктор
-http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Тонус 
