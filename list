@@ -127,7 +127,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://5.153.180.129:8000/play/a06u
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/aubn3pjb
+http://tinyurl.com/ywy46zb4
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -175,7 +175,7 @@ http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:-1 ,СТС
 http://193.242.190.6:8099/13/index.m3u8
 #EXTINF:-1 ,СТС
-http://94.230.128.107:8080/CTC/index.m3u8
+http://5.153.180.129:8000/play/a04z
 #EXTINF:-1 ,СТС International
 http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
