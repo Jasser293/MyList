@@ -4,7 +4,7 @@ http://tinyurl.com/fkjx9d2w
 #EXTINF:-1 ,Первый канал
 http://192.166.144.101:8000/play/a00e/index.m3u8
 #EXTINF:-1 ,Первый канал
-http://91.205.199.3/roos-pervikanalrosia/manifest.m3u8
+http://178.212.236.3:8802/play/m3_11
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s14/04.m3u8
@@ -56,7 +56,7 @@ http://92.43.140.249/s15/index.m3u8
 #EXTINF:-1 ,Россия К
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К
-http://91.205.199.3/kultura/index.m3u8
+http://178.212.236.3:8802/play/m3_16
 #EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
 #EXTINF:-1 ,Рен ТВ
@@ -140,6 +140,8 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,Пятый канал
 http://178.212.236.3:8802/play/m3_15
 #EXTINF:-1 ,Пятый канал
+http://5.153.180.129:8000/play/a006
+#EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 ,ЦТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -205,7 +207,7 @@ http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,ДОМАШНИЙ
 http://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 #EXTINF:-1 ,Домашний
-http://91.205.199.3/domashni/index.m3u8
+http://178.212.236.3:8802/play/m2_26
 #EXTINF:-1 ,ДОМАШНИЙ
 http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ДОМАШНИЙ (+2)
@@ -225,12 +227,10 @@ http://stream01.vnet.am/Pyatnica/mono.m3u8
 http://92.43.140.249/s50/04.m3u8
 #EXTINF:-1 ,Суббота!
 http://195.49.206.244:90/Super/mono.m3u8?token=video
-#EXTINF:-1 ,Авто 24
-http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
-#EXTINF:-1 ,АВТО24
-http://91.205.199.3/avto24/index.m3u8
+#EXTINF:-1 ,Авто 24
+http://178.124.152.238:8088/auto24
 #EXTINF:-1 ,Авто Плюс
 http://185.50.148.2:7711/AutoPlus/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
@@ -241,10 +241,10 @@ http://195.26.83.96:7007/play/11/index.m3u8
 http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 ,RT Doc
 #EXTVLCOPT:http-user-agent=Donate BTC
-https://streaming102.goodstream.cyou/live/554-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://92.43.140.249/s93/04.m3u8
 #EXTINF:-1 ,RT Doc
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s93/04.m3u8
+https://streaming102.goodstream.cyou/live/554-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
@@ -255,16 +255,11 @@ http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF:-1 ,Motorsport
-http://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
-#EXTINF:-1 ,MotoR Racing
-http://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
-#EXTINF:-1 ,Red Bull
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 ,Усадьба
-http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://195.49.206.244:90/Usadba/mono.m3u8?token=video
+#EXTINF:-1 ,Усадьба
+http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
+#http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 ,Бобёр
 http://195.49.206.244:90/Bober/mono.m3u8?token=video
 #EXTINF:-1 ,Бобёр
@@ -320,7 +315,7 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Кто есть кто
 http://185.50.148.2:7711/Ktoestkto/index.m3u8
 #EXTINF:-1 ,Совершенно секретно
-http://91.205.199.3/sovershennosekretno/index.m3u8
+http://178.124.152.238:8088/sovsec
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
 #EXTINF:-1 ,Спас
@@ -374,12 +369,8 @@ http://195.49.206.244:90/Ohota_i_rybalka/mono.m3u8?token=video
 http://stream01.vnet.am/Channel_124/manifest.m3u8
 #EXTINF:-1 ,Дикий
 http://185.50.148.2:7711/Dikiy/index.m3u8
-#EXTINF:-1 ,Дикая Охота
-http://91.205.199.3/dikayaoxotahd/index.m3u8
 #EXTINF:-1 ,Дикая охота
 http://stream01.vnet.am/Channel_127/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Дикая рыбалка
-http://91.205.199.3/dikayaribalkahd/index.m3u8
 #EXTINF:-1 ,Дикая рыбалка
 http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
@@ -463,8 +454,6 @@ http://45.159.74.14/Nauka/index.m3u8
 http://45.159.74.14/AmediaPremium/mono.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
-#EXTINF:-1 ,КиноХит
-http://91.205.199.3/kinoxithd/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КиноХит
@@ -497,7 +486,7 @@ http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 ,Русский роман
 http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 ,Киносвидание
-http://91.205.199.3/kinosvidanie/index.m3u8
+http://185.50.148.2:7711/Kinosvidanie/index.m3u8
 #EXTINF:-1 ,FlixSnip
 http://185.50.148.2:7703/FlixSnip/index.m3u8
 #EXTINF:-1 ,FlixSnip
@@ -523,11 +512,11 @@ http://195.49.206.244:90/TV1000/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Русское
 http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
 #EXTINF:-1 ,Viju TV1000 Русское
-http://91.205.199.3/tv1000ruskoekino/index.m3u8
+http://185.50.148.2:7703/TV1000RusKino/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
-http://91.205.199.3/tv1000action/index.m3u8
+http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 #EXTINF:-1 ,Киносемья
@@ -574,6 +563,12 @@ http://45.159.74.14/Channel_113/mono.m3u8
 http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 ,Tennis Channel
 http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Motorsport
+http://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
+#EXTINF:-1 ,MotoR Racing
+http://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXTINF:-1 ,Red Bull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 ,Солнце
 http://dmi3y-tv.ru/hls/CH_SOLNCE.m3u8
 #EXTINF:-1 ,Da Vinci
