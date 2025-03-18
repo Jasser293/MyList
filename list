@@ -345,8 +345,6 @@ http://95.67.12.81:10619
 #http://45.159.74.14/Channel_123/mono.m3u8
 #EXTINF:-1 ,H2
 http://95.67.12.81:10620
-#EXTINF:-1 ,National Geographic Wild
-http://tinyurl.com/yw9x3t7f
 #EXTINF:-1 ,National Geographic
 http://45.159.74.22/NationalGeographic/index.m3u8
 #EXTINF:-1 ,National Geographic
