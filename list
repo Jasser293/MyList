@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
 #EXTINF:-1 ,Первый канал
-http://tinyurl.com/fkjx9d2w
+http://tinyurl.com/y7rwku3p
 #EXTINF:-1 ,Первый канал
 http://192.166.144.101:8000/play/a00e/index.m3u8
 #EXTINF:-1 ,Первый канал
@@ -14,7 +14,7 @@ http://193.242.190.6:8099/1/index.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
-http://tinyurl.com/yfd5vtv2
+http://tinyurl.com/2jbx5yxp
 #EXTINF:-1 ,НТВ
 http://178.212.236.3:8802/play/m3_14
 #EXTINF:-1 ,НТВ (+2)
@@ -72,11 +72,11 @@ http://195.49.206.244:90/TVC/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
 #EXTINF:-1 ,Rutube
-http://tinyurl.com/ndw3dap7
+http://tinyurl.com/y5hnp2n7
 #EXTINF:-1 ,Кино и Жизнь
-http://tinyurl.com/59bp3ydp
+http://tinyurl.com/3utxvebf
 #EXTINF:-1 ,Кинолента 24
-http://tinyurl.com/4ctdb4su
+http://tinyurl.com/4k2xy2au
 #EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
