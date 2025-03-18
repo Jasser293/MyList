@@ -125,9 +125,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://5.153.180.129:8000/play/a06u
-#EXTINF:-1 ,Оружие
-http://tinyurl.com/49uc6bz4
+http://tinyurl.com/y23nkyew
 #EXTINF:-1 ,Арсенал
 http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
@@ -138,7 +136,7 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,Пятый канал
 http://178.212.236.3:8802/play/m3_15
 #EXTINF:-1 ,Пятый канал
-http://5.153.180.129:8000/play/a006
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 ,ЦТВ
@@ -170,6 +168,12 @@ http://tinyurl.com/y2mnu4ey
 http://stream02.vnet.am/THTComedy/mono.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
+#EXTINF:-1 ,Твоё ТВ
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#http://lime-pi.tlgx.ru:8987/CH_TVOETV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#http://lime-pi.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://tinyurl.com/5n743eve
 #EXTINF:-1 ,ТВ3
@@ -300,8 +304,6 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 http://cdn.universmotri.ru/live/mq.sdp/chunklist_w1403962929.m3u8
 #EXTINF:-1 ,Точка Отрыва
 http://195.49.206.244:90/tochka_otryva/mono.m3u8?token=video
-#EXTINF:-1 ,Лапки Live
-http://5.153.180.129:8000/play/a05f
 #EXTINF:-1 ,ЗООПАРК
 http://195.49.206.244:90/Zoopark/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
@@ -432,10 +434,6 @@ http://195.49.206.244:90/Teatr/mono.m3u8?token=video
 #EXTINF:-1 ,Калейдоскоп ТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8
-#EXTINF:-1 ,HollyWood Movies
-http://tinyurl.com/39t28amp
-#EXTINF:-1 ,Кошмарное
-http://tinyurl.com/5erkjuny
 #EXTINF:-1 ,Сапфир
 http://135.181.115.81:8000/play/a03f/index.m3u8?token=livetv
 #EXTINF:-1 ,Сапфир
