@@ -15,6 +15,8 @@ http://193.242.190.6:8099/1/index.m3u8
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
 http://tinyurl.com/yfd5vtv2
+#EXTINF:-1 ,НТВ
+http://178.212.236.3:8802/play/m3_14
 #EXTINF:-1 ,НТВ (+2)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
