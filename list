@@ -166,12 +166,6 @@ http://tinyurl.com/y2mnu4ey
 http://stream02.vnet.am/THTComedy/mono.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
-#EXTINF:-1 ,Твоё ТВ
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#http://lime-pi.tlgx.ru:8987/CH_TVOETV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#http://lime-pi.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://tinyurl.com/5n743eve
 #EXTINF:-1 ,ТВ3
