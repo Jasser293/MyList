@@ -8,8 +8,6 @@ http://178.212.236.3:8802/play/m3_11
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s14/04.m3u8
-#EXTINF:-1 ,Первый канал (+2)
-http://193.242.190.6:8099/1/index.m3u8
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
@@ -156,8 +154,6 @@ http://s3.merlive.am/gagsnetwork/index.m3u8
 http://tinyurl.com/2wtmaw6x
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
-#EXTINF:-1 ,ТНТ (+2)
-http://193.242.190.6:8099/19/index.m3u8
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
@@ -184,8 +180,6 @@ http://stream01.vnet.am/Channel_121/mono.m3u8
 http://178.212.236.3:8802/play/m2_25
 #EXTINF:-1 ,СТС
 https://streaming.goodstream.cyou/live/296.m3u8
-#EXTINF:-1 ,СТС (+2)
-http://193.242.190.6:8099/13/index.m3u8
 #EXTINF:-1 ,СТС International
 http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
@@ -214,16 +208,12 @@ http://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 http://178.212.236.3:8802/play/m2_26
 #EXTINF:-1 ,ДОМАШНИЙ
 http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ДОМАШНИЙ (+2)
-http://193.242.190.6:8099/14/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://tinyurl.com/yrvcwsnm
 #EXTINF:-1 ,ПЯТНИЦА
 http://195.49.206.244:90/Pyatnica/mono.m3u8?token=video
 #EXTINF:-1 ,ПЯТНИЦА
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Пятница! (+2)
-http://193.242.190.6:8099/16/index.m3u8
 #EXTINF:-1 ,Пятница! International
 http://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 ,Пятница! International
@@ -233,8 +223,6 @@ http://92.43.140.249/s50/04.m3u8
 http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
-#EXTINF:-1 ,Авто 24
-http://178.124.152.238:8088/auto24
 #EXTINF:-1 ,Авто Плюс
 http://178.212.71.253:8000/play/69/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
@@ -293,7 +281,7 @@ http://45.159.74.14/KukhnyaTv/mono.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
 #EXTINF:-1 ,Аппетитный
-http://185.50.148.2:7703/Motorsport/index.m3u8
+#http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
@@ -489,8 +477,6 @@ http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
 http://192.166.144.101:8000/play/a00b/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
-#EXTINF:-1 ,Русский роман
-http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 ,FlixSnip
 http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 ,НСТ
@@ -515,8 +501,6 @@ http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
 http://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
-#EXTINF:-1 ,Киносемья
-http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 ,Киносерия
 rtmp://212.0.213.132//Kinoseria
 #EXTINF:-1 ,Наше новое кино
@@ -593,8 +577,6 @@ http://92.43.140.249/s58/04.m3u8
 http://92.43.140.249/s57/04.m3u8
 #EXTINF:-1 ,Gulli Girl
 http://130.193.73.10:8937/play/a00v
-#EXTINF:-1 ,Карусель
-http://193.242.190.6:8099/8/index.m3u8
 #EXTINF:-1 ,Cartoonito
 http://stream01.vnet.am/Channel_120/mono.m3u8
 #EXTINF:-1 ,Cartoon Network
