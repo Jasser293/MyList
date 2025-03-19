@@ -1,10 +1,8 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
 http://tinyurl.com/y7rwku3p
 #EXTINF:-1 ,Первый канал
 http://192.166.144.101:8000/play/a00e/index.m3u8
-#EXTINF:-1 ,Первый канал
-http://91.205.199.3:80/roos-pervikanalrosia/manifest.m3u8
 #EXTINF:-1 ,Первый канал
 http://178.212.236.3:8802/play/m3_11
 #EXTINF:-1 ,Первый канал СНГ
@@ -183,9 +181,9 @@ http://dmi3y-tv.ru/hls/CH_STSLOVE.m3u8
 #EXTINF:-1 ,СТС Love
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=video
 #EXTINF:-1 ,Телекафе
-http://112.72.4.109/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
-#EXTINF:-1 ,Телекафе
 http://45.159.74.14/Telekafe/mono.m3u8
+#EXTINF:-1 ,Телекафе
+http://112.72.4.109/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 #EXTINF:-1 ,Сарафан
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
