@@ -2,7 +2,8 @@
 #EXTINF:-1 ,Первый канал
 http://tinyurl.com/y7rwku3p
 #EXTINF:-1 ,Первый канал
-http://192.166.144.101:8000/play/a00e/index.m3u8
+http://91.205.199.3:80/roos-pervikanalrosia/manifest.m3u8
+#http://192.166.144.101:8000/play/a00e/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://178.212.236.3:8802/play/m3_11
 #EXTINF:-1 ,Первый канал СНГ
@@ -223,6 +224,8 @@ http://92.43.140.249/s50/04.m3u8
 http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
+#EXTINF:-1 ,АВТО 24
+http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 ,Авто Плюс
 http://178.212.71.253:8000/play/69/index.m3u8
 #EXTINF:-1 ,ДРАЙВ
