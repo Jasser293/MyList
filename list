@@ -2,8 +2,9 @@
 #EXTINF:-1 ,Первый канал
 http://tinyurl.com/y7rwku3p
 #EXTINF:-1 ,Первый канал
+http://192.166.144.101:8000/play/a00e/index.m3u8
+#EXTINF:-1 ,Первый канал
 http://91.205.199.3:80/roos-pervikanalrosia/manifest.m3u8
-#http://192.166.144.101:8000/play/a00e/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://178.212.236.3:8802/play/m3_11
 #EXTINF:-1 ,Первый канал СНГ
