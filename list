@@ -125,7 +125,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://tinyurl.com/4xb6r8m2
 #EXTINF:-1 ,Арсенал
-http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://92.43.140.249/s68/04.m3u8
 #EXTINF:-1 ,Ратник
 http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 #EXTINF:-1 ,Победа
@@ -140,12 +141,10 @@ http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 ,ЦТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s20/03.m3u8
-#EXTINF:-1 ,ЦТВ
-http://stream01.vnet.am/Channel_129/mono.m3u8
 #EXTINF:-1 ,Перец
 http://112.72.4.116/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,Перец
-http://45.159.74.14/Perec/mono.m3u8
+rtmp://212.0.213.132//Teledom
 #EXTINF:-1 ,КВН ТВ
 http://45.159.74.14/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
