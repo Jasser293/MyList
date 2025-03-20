@@ -67,8 +67,6 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 http://195.49.206.244:90/TVC/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
-#EXTINF:-1 ,Царьград ТВ
-http://tinyurl.com/6jemxkbj
 #EXTINF:-1 ,Rutube
 http://tinyurl.com/5n6ezcua
 #EXTINF:-1 ,Кино и Жизнь
@@ -297,6 +295,8 @@ http://178.212.71.253:8000/play/132/index.m3u8
 http://91.205.199.3/sovershennosekretno/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
+#EXTINF:-1 ,Царьград ТВ
+http://tinyurl.com/6jemxkbj
 #EXTINF:-1 ,Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Союз
