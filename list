@@ -182,7 +182,7 @@ http://112.72.4.109/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 #EXTINF:-1 ,Сарафан
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
-http://178.212.71.253:8000/play/44/index.m3u8
+http://5.153.180.129:8000/play/a052
 #EXTINF:-1 ,Че!
 http://45.11.139.43:8555/perez/index.m3u8
 #EXTINF:-1 ,Ю
@@ -213,7 +213,7 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://91.205.199.3/avto24/index.m3u8
 #EXTINF:-1 ,Авто Плюс
-http://178.212.71.253:8000/play/69/index.m3u8
+http://5.153.180.129:8000/play/a01r
 #EXTINF:-1 ,ДРАЙВ
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
@@ -290,7 +290,7 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Кто есть кто
-http://178.212.71.253:8000/play/132/index.m3u8
+http://5.153.180.129:8000/play/a02x
 #EXTINF:-1 ,Совершенно секретно
 http://91.205.199.3/sovershennosekretno/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
@@ -349,7 +349,7 @@ http://91.205.199.3/dikayaoxotahd/index.m3u8
 #EXTINF:-1 ,Дикая рыбалка
 http://91.205.199.3/dikayaribalkahd/index.m3u8
 #EXTINF:-1 ,365 ДНЕЙ
-http://178.212.71.253:8000/play/67/index.m3u8
+http://s3.merlive.am/roos-365-dnej/manifest.m3u8
 #EXTINF:-1 ,TERRA
 http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 ,Шансон ТВ
@@ -436,7 +436,7 @@ http://195.49.206.244:90/Retro/mono.m3u8?token=video
 #EXTINF:-1 ,Русский бестселлер
 http://130.193.73.10:8937/play/a03l
 #EXTINF:-1, Русский бестселлер
-http://178.212.71.253:8000/play/115/index.m3u8
+http://5.153.180.129:8000/play/a04w
 #EXTINF:-1 ,Русский детектив
 http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский иллюзион
@@ -467,7 +467,7 @@ http://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 #EXTINF:-1 ,Киносерия
 rtmp://212.0.213.132//Kinoseria
 #EXTINF:-1 ,Наше новое кино
-http://178.212.71.253:8002/play/a00i/index.m3u8
+http://5.153.180.129:8000/play/a047
 #EXTINF:-1 ,Киноужас
 http://109.200.130.123:7537/play/a021
 #EXTINF:-1 ,Дорама
