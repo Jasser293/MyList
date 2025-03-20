@@ -212,6 +212,8 @@ http://195.49.206.244:90/Super/mono.m3u8?token=video
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://91.205.199.3/avto24/index.m3u8
+#EXTINF:-1 ,Авто 24
+http://tv.ttk.mx:9031
 #EXTINF:-1 ,Авто Плюс
 http://5.153.180.129:8000/play/a01r
 #EXTINF:-1 ,ДРАЙВ
@@ -415,6 +417,8 @@ http://195.18.23.20:8000/play/3/index.m3u8
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,КиноХит
 http://s3.merlive.am/kinoxithd/index.m3u8
+#EXTINF:-1 ,Кинохит
+http://tv.ttk.mx:9163
 #EXTINF:-1 ,Кинозал
 http://185.57.68.33/237/mpegts
 #EXTINF:-1 ,Кино ТВ
@@ -542,3 +546,5 @@ https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 #EXTINF:-1 ,Первый канал
 http://tinyurl.com/y7rwku3p
+#EXTINF:-1 ,Food time
+http://5.153.180.129:8000/play/a07o
