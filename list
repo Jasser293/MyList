@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://tinyurl.com/y7rwku3p
+http://tinyurl.com/4em97uyj
 #EXTINF:-1 ,Первый канал
 http://192.166.144.101:8000/play/a00e/index.m3u8
 #EXTINF:-1 ,Первый канал
@@ -12,7 +12,7 @@ http://92.43.140.249/s14/04.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
-http://tinyurl.com/2jbx5yxp
+http://tinyurl.com/mvdvxcx5
 #EXTINF:-1 ,НТВ
 http://178.212.236.3:8802/play/m3_14
 #EXTINF:-1 ,НТВ (+2)
@@ -47,7 +47,7 @@ http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:-1 ,Запад 24
 http://dmi3y-tv.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
 #EXTINF:-1 ,ЛенТВ24
-http://tinyurl.com/mse3u42h
+http://tinyurl.com/5x8zzatz
 #EXTINF:-1 ,РТР Планета
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s15/index.m3u8
@@ -60,8 +60,6 @@ http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
 #EXTINF:-1 ,Рен ТВ
 http://178.212.236.3:8802/play/m2_23
 #EXTINF:-1 ,Рен ТВ International
-http://stream01.vnet.am/RenTv/mono.m3u8
-#EXTINF:-1 ,Рен ТВ International
 http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -69,12 +67,14 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 http://195.49.206.244:90/TVC/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
+#EXTINF:-1 ,ЦАРЬГРАД
+http://tinyurl.com/6jemxkbj
 #EXTINF:-1 ,Rutube
-http://tinyurl.com/y5hnp2n7
+http://tinyurl.com/5n6ezcua
 #EXTINF:-1 ,Кино и Жизнь
-http://tinyurl.com/3utxvebf
+http://tinyurl.com/5hyen9jb
 #EXTINF:-1 ,Кинолента 24
-http://tinyurl.com/4k2xy2au
+http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/xRLVhVRNomxlj-2S4O7LEQ/stream/genetta-324.m9.rutube.ru/NbQeMK9RFZW0bhtf_jsJWQ/1743069181/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -152,19 +152,19 @@ http://91.205.199.3/kvntv/index.m3u8
 #EXTINF:-1 ,Gags Network
 http://s3.merlive.am/gagsnetwork/index.m3u8
 #EXTINF:-1 ,ТНТ
-http://tinyurl.com/2wtmaw6x
+http://river-1.rutube.ru/stream/genetta-323.m9.rutube.ru/nPosozip9H2J1wNS1D2Wxw/1742543073/546602986e6a424d74d594876ddb3f04/720p_stream.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
-http://tinyurl.com/y2mnu4ey
+http://river-1.rutube.ru/stream/musang-701.brz.rutube.ru/ct15PPRBfceQ2aVXv5_3Fw/1742548950/c801a7087e29a097192d74c270fbc6c1/720p_stream.m3u8
 #EXTINF:-1 ,ТНТ4
 #http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
 #EXTINF:-1 ,ТВ3
-http://tinyurl.com/5n743eve
+http://river-1.rutube.ru/stream/musang-705.brz.rutube.ru/zmiRhHuBxcpL0eqvYw1kUA/1742543086/7bf12d9c050f9a7ef3728db5730432ae/720p_stream.m3u8
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=video
 #EXTINF:-1 ,СТС
@@ -248,7 +248,7 @@ http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородный Int
-http://tinyurl.com/cxnkss4s
+http://tinyurl.com/2s436cmz
 #EXTINF:-1 ,Загородный
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s31/04.m3u8
@@ -265,7 +265,7 @@ http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 ,Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
-http://194.143.148.28:8080/Nauka20/mpegts
+http://5.153.180.129:8000/play/a02y
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
@@ -286,7 +286,7 @@ http://195.49.206.244:90/Zoopark/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
 http://195.49.206.244:90/Poehali/mono.m3u8?token=video
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://stream01.vnet.am/365Dney/tracks-v1a1/mono.m3u8
+http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
@@ -341,7 +341,7 @@ https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://195.49.206.244:90/Ohota_i_rybalka/mono.m3u8?token=video
 #EXTINF:-1 ,Охотник и рыболов Int
-http://tinyurl.com/2w8h63wz
+http://tinyurl.com/yuxhcmbt
 #EXTINF:-1 ,Дикий
 http://130.193.73.10:8937/play/a04s
 #EXTINF:-1 ,Дикая охота
@@ -475,7 +475,7 @@ http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://tinyurl.com/bdjfxe3k
 #EXTINF:-1 ,Eurosport 1
-http://178.212.71.253:8000/play/143/index.m3u8
+http://5.153.180.129:8000/play/a070
 #EXTINF:-1 ,Eurosport Live
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 ,Eurosport Live
@@ -496,8 +496,6 @@ http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
 http://195.49.206.244:90/Football_2HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 3
 http://195.49.206.244:90/football_3/mono.m3u8?token=video
-#EXTINF:-1 ,KHL
-http://178.124.152.238:8088/khl
 #EXTINF:-1 ,KHL Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 ,Tennis Channel
@@ -550,5 +548,5 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
-http://tinyurl.com/r2yc5w2f
+#EXTINF:-1 ,Первый канал
+http://tinyurl.com/y7rwku3p
