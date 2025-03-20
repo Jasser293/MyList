@@ -67,7 +67,7 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 http://195.49.206.244:90/TVC/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
-#EXTINF:-1 ,ЦАРЬГРАД
+#EXTINF:-1 ,Царьград ТВ
 http://tinyurl.com/6jemxkbj
 #EXTINF:-1 ,Rutube
 http://tinyurl.com/5n6ezcua
