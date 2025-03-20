@@ -123,7 +123,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/4xb6r8m2
+http://tinyurl.com/2eyb3vve
+#EXTINF:-1 ,Оружие
+http://5.153.180.129:8000/play/a06u
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
@@ -312,9 +314,9 @@ http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+http://5.153.180.129:8000/play/a06j
 #EXTINF:-1 ,Investigation Discovery
-http://stream01.vnet.am/InvestigationDiscovery/mono.m3u8
+http://5.153.180.129:8000/play/a06l
 #EXTINF:-1 ,History
 http://95.67.12.81:10619
 #http://45.159.74.14/Channel_123/mono.m3u8
@@ -412,7 +414,7 @@ http://195.49.206.244:90/A-2/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 2
 http://89.106.234.5/A2.m3u8
 #EXTINF:-1 ,Amedia Hit
-http://130.193.73.10:8937/play/a02o
+http://5.153.180.129:8000/play/a08e
 #EXTINF:-1 ,Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 ,Кинохит
@@ -471,7 +473,7 @@ http://109.200.130.123:7537/play/a021
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
-http://45.159.74.14/Eurosport/tracks-v1a2/mono.m3u8
+http://tinyurl.com/bdjfxe3k
 #EXTINF:-1 ,Eurosport 1
 http://178.212.71.253:8000/play/143/index.m3u8
 #EXTINF:-1 ,Eurosport Live
