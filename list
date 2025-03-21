@@ -194,6 +194,8 @@ http://5.153.180.129:8000/play/a052
 #EXTINF:-1 ,Че!
 http://45.11.139.43:8555/perez/index.m3u8
 #EXTINF:-1 ,Ю
+http://salam-mskth-20.rutube.ru/dive/river-5-551.rutube.ru/14v-F8wUMBuNCHV5bfR8GA/stream/genetta-317.m9.rutube.ru/RO6R2n1SshzecoQveZpyrQ/1743164175/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
+#EXTINF:-1 ,Ю
 http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
@@ -321,11 +323,12 @@ http://5.153.180.129:8000/play/a06j
 http://5.153.180.129:8000/play/a06l
 #EXTINF:-1 ,History
 http://95.67.12.81:10619
-#http://45.159.74.14/Channel_123/mono.m3u8
 #EXTINF:-1 ,H2
 http://95.67.12.81:10620
 #EXTINF:-1 ,National Geographic
 http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
+#EXTINF:-1 ,National Geographic Wild
+https://salam-mskth-17.rutube.ru/dive/river-5-539.rutube.ru/-D0bQ1BnKSJlvxWB1Nh_uA/stream/genetta-503.ost.rutube.ru/0m91Ojgei97QTLp_BNq7Fw/1743163875/9f96e00ce0f4256c6ad608aaf580bf88/576p_stream.m3u8
 #EXTINF:-1 ,Animal Planet
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 ,Наука
