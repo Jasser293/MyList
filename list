@@ -436,6 +436,22 @@ http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 ,Кинопремьера
 http://91.205.199.3/kinopremerahd/index.m3u8
+#EXTINF:-1 ,Еврокино
+http://193.35.224.154/8034/index.m3u8?token=anus
+#EXTINF:-1 ,Индийское кино
+http://193.35.224.154/8038/index.m3u8?token=anus
+#EXTINF:-1 ,Родное кино
+http://193.35.224.154/8096/index.m3u8?token=anus
+#EXTINF:-1 ,Киносвидание HD
+http://193.35.224.154/8041/index.m3u8?token=anus
+#EXTINF:-1 ,Кинохит HD
+http://193.35.224.154/8039/index.m3u8?token=anus
+#EXTINF:-1 ,Кинокомедия
+http://193.35.224.154/8042/index.m3u8?token=anus
+#EXTINF:-1 ,Киносерия HD
+http://193.35.224.154/8043/index.m3u8?token=anus
+#EXTINF:-1 ,Киносемья HD
+http://193.35.224.154/8047/index.m3u8?token=anus
 #EXTINF:-1 ,Ретро
 http://195.49.206.244:90/Retro/mono.m3u8?token=video
 #EXTINF:-1 ,Русский бестселлер
