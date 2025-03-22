@@ -133,9 +133,9 @@ http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
-http://178.212.236.3:8802/play/m3_15
+http://193.35.224.154/8009/index.m3u8?token=panda
 #EXTINF:-1 ,Пятый канал
-https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+http://178.212.236.3:8802/play/m3_15
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 ,ЦТВ
@@ -200,7 +200,8 @@ http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,ДОМАШНИЙ
-http://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
+http://193.35.224.154/8062/index.m3u8?token=anus
+#http://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 #EXTINF:-1 ,Домашний
 http://178.212.236.3:8802/play/m2_26
 #EXTINF:-1 ,Домашний
@@ -320,7 +321,8 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://5.153.180.129:8000/play/a06j
 #EXTINF:-1 ,Investigation Discovery
-http://5.153.180.129:8000/play/a06l
+http://193.35.224.154/8074/index.m3u8?token=anus
+#http://5.153.180.129:8000/play/a06l
 #EXTINF:-1 ,History
 http://95.67.12.81:10619
 #EXTINF:-1 ,H2
@@ -418,6 +420,8 @@ http://89.106.234.5/A2.m3u8
 http://5.153.180.129:8000/play/a08e
 #EXTINF:-1 ,Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:-1 ,Кинохит
+http://193.35.224.154/8039/index.m3u8?token=anus
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,КиноХит
