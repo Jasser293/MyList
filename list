@@ -136,7 +136,7 @@ http://5.153.180.129:8000/play/a006
 http://178.212.236.3:8802/play/m3_15
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
-#EXTINF:-1 ,5 International
+#EXTINF:-1 ,Пятый канал International
 http://213.91.178.133:8000/play/a0b4
 #EXTINF:-1 ,ЦТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
