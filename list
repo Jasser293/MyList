@@ -471,6 +471,10 @@ http://109.200.130.123:7537/play/a021
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://5.153.180.129:8000/play/a070
+#EXTINF:-1 ,Eurosport 1
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 ,Eurosport Live
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 ,Eurosport Live
