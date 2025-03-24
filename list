@@ -463,6 +463,8 @@ http://5.153.180.129:8000/play/a047
 http://109.200.130.123:7537/play/a021
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
+#EXTINF:-1 ,Cinema UHD
+http://5.101.0.202:8080/4/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://5.153.180.129:8000/play/a070
 #EXTINF:-1 ,Eurosport 1
@@ -491,6 +493,10 @@ http://195.49.206.244:90/Football_2HD/mono.m3u8?token=video
 http://195.49.206.244:90/football_3/mono.m3u8?token=video
 #EXTINF:-1 ,KHL Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
+#EXTINF:-1 ,Боец
+http://5.101.0.202:8080/1/index.m3u8
+#EXTINF:-1 ,Бокс ТВ
+http://5.101.0.202:8080/2/index.m3u8
 #EXTINF:-1 ,Tennis Channel
 http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Motorsport
