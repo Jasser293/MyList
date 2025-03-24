@@ -70,7 +70,9 @@ https://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/wAPQCSSMhg2E-yBtsPN
 #EXTINF:-1 ,Кино и Жизнь
 https://river-3-318.rutube.ru/stream/genetta-316.m9.rutube.ru/Vfzo0n9FQOE6amm_t-9mTA/1743394086/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/Psrxf1V8skOdjvGTDdc8uA/stream/genetta-324.m9.rutube.ru/nwr-4V-azkRE0wYBzCaUXQ/1743394137/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+http://tinyurl.com/2xu667vr
+#EXTINF:-1 ,Кинолента 24
+http://tinyurl.com/trrkv5sj
 #EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -79,7 +81,7 @@ http://cdn-01.bonus-tv.ru/vmesterf/index.m3u8
 #EXTINF:-1 ,Москва. Доверие
 http://195.49.206.244:90/Doverie/mono.m3u8?token=video
 #EXTINF:-1 ,Ностальгия
-http://s3.merlive.am/nostalgia/index.m3u8
+http://5.153.180.129:8000/play/a049
 #EXTINF:-1 ,Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 ,Неизвестная Россия
@@ -121,7 +123,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://5.153.180.129:8000/play/a06u
 #EXTINF:-1 ,Оружие
-https://tinyurl.com/3cbvm4sd
+http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI5MzI4MjgsImlhdCI6MTc0Mjg0NjQyOCwiY2lkIjo2LCJ1aWQiOjkwNDEwMzUwNSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.zA7VUooBLjbqRubw5MudnkyLpR1bYVE5TPz9pq-c1tE&offset=10
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
@@ -146,15 +148,13 @@ http://112.72.4.116/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,Перец
 rtmp://212.0.213.132//Teledom
 #EXTINF:-1 ,КВН ТВ
-http://91.205.199.3/kvntv/index.m3u8
+http://5.153.180.129:8000/play/a02i
 #EXTINF:-1 ,Gags Network
-http://s3.merlive.am/gagsnetwork/index.m3u8
+http://95.67.12.82:9069
 #EXTINF:-1 ,ТНТ
 https://river-mskm9rtk-320.rutube.ru/stream/genetta-323.m9.rutube.ru/9D0pAGQAh9N6HRsxUYyxNQ/1743394298/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
-#EXTINF:-1 ,ТНТ
-http://s3.merlive.am/tnthd/index.m3u8
 #EXTINF:-1 ,ТНТ
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 ,ТНТ International
@@ -204,7 +204,7 @@ http://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 #EXTINF:-1 ,Домашний
 http://178.212.236.3:8802/play/m2_26
 #EXTINF:-1 ,Домашний
-http://s3.merlive.am/domashni/index.m3u8
+http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
 https://river-mskostrtk-519.rutube.ru/stream/genetta-520.ost.rutube.ru/kw9_Fi4tvf3UjDasL9H0Fw/1743394596/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -297,8 +297,6 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Кто есть кто
 http://5.153.180.129:8000/play/a02x
-#EXTINF:-1 ,Совершенно секретно
-http://91.205.199.3/sovershennosekretno/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
 #EXTINF:-1 ,Спас
@@ -347,8 +345,6 @@ http://195.49.206.244:90/Ohota_i_rybalka/mono.m3u8?token=video
 https://salam-mskm9-19.rutube.ru/dive/river-3-346.rutube.ru/aE8ToMe0dMX114HKx8ZOxg/stream/genetta-315.m9.rutube.ru/b7s7KB-7LDU9HX2OZZNbBg/1743394695/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 ,365 ДНЕЙ
-http://s3.merlive.am/roos-365-dnej/manifest.m3u8
 #EXTINF:-1 ,TERRA
 http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 ,Шансон ТВ
@@ -407,7 +403,7 @@ rtmp://212.0.213.132//Dom_Kino
 #EXTINF:-1 ,Amedia 1
 http://89.106.234.5/A1.m3u8
 #EXTINF:-1 ,Amedia 1
-http://91.205.199.3/amedia1/index.m3u8
+http://130.193.73.10:8937/play/a02m
 #EXTINF:-1 ,Amedia 2
 http://195.49.206.244:90/A-2/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 2
@@ -419,7 +415,7 @@ http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,КиноХит
-http://s3.merlive.am/kinoxithd/index.m3u8
+http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 ,Кинозал
 http://185.57.68.33/237/mpegts
 #EXTINF:-1 ,Кино ТВ
@@ -428,8 +424,6 @@ http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viju+ Comedy
 http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
-#EXTINF:-1 ,Кинопремьера
-http://91.205.199.3/kinopremerahd/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://130.193.73.10:8937/play/a03l
 #EXTINF:-1, Русский бестселлер
@@ -446,9 +440,9 @@ http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 ,НСТ
 http://195.49.206.244:90/NST/mono.m3u8?token=video
 #EXTINF:-1 ,Родное кино
-http://s3.merlive.am/rodnoekino/index.m3u8
+http://5.153.180.129:8000/play/a04p
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://s3.merlive.am/mosfilm/index.m3u8
+http://5.101.0.202:8080/3/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=itest
 #EXTINF:-1 ,.Black
@@ -515,7 +509,7 @@ http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 #EXTINF:-1 ,Мультиландия
-http://s3.merlive.am/multilandia/index.m3u8
+http://130.193.73.10:8937/play/a00z
 #EXTINF:-1 ,В гостях у сказки
 #http://109.200.130.123:7537/play/a02m
 #EXTINF:-1 ,Мульт
