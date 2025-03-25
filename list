@@ -72,7 +72,7 @@ https://river-3-318.rutube.ru/stream/genetta-316.m9.rutube.ru/Vfzo0n9FQOE6amm_t-
 #EXTINF:-1 ,Кинолента 24
 https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/DaK2IW8c6gyTpTgWfPRoow/stream/musang-702.brz.rutube.ru/FDQQ5YZUjKPOAd7lPeLssA/1743497747/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/IPNcmaa4Kyg1MXm3iEusBg/stream/musang-702.brz.rutube.ru/9tLbozS65cd5To3TsdgJug/1743497803/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/wghJ7acdmH_Z8OwdYgx-3g/stream/musang-702.brz.rutube.ru/mhs2mFLF8EvnKFc77EwVRw/1743500297/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -123,7 +123,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://5.153.180.129:8000/play/a06u
 #EXTINF:-1 ,Оружие
-http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI5MzI4MjgsImlhdCI6MTc0Mjg0NjQyOCwiY2lkIjo2LCJ1aWQiOjkwNDEwMzUwNSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.zA7VUooBLjbqRubw5MudnkyLpR1bYVE5TPz9pq-c1tE&offset=10
+http://tinyurl.com/3m8xm533
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
@@ -219,7 +219,7 @@ http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
-http://91.205.199.3/avto24/index.m3u8
+http://178.124.152.238:8088/auto24
 #EXTINF:-1 ,Авто Плюс
 http://5.153.180.129:8000/play/a01r
 #EXTINF:-1 ,ДРАЙВ
