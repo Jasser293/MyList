@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/H165Y8dsunAv006NEA9K1w/stream/genetta-516.ost.rutube.ru/RSPPm2Dqmxk-yAlzc9zLpQ/1743503991/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/siYoGNhjaZKugHymPgqJ9Q/stream/genetta-516.ost.rutube.ru/4qt5kU4_EtaKxllFYtSKzA/1743586777/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/sSPLy8su_vPTS0VA7zOcHg/stream/genetta-516.ost.rutube.ru/XkE8czqIUgZqSqvxj83AZQ/1743393945/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
@@ -72,7 +72,7 @@ https://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/wAPQCSSMhg2E-yBtsPN
 #EXTINF:-1 ,Кино и Жизнь
 https://river-3-318.rutube.ru/stream/genetta-316.m9.rutube.ru/Vfzo0n9FQOE6amm_t-9mTA/1743394086/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/DaK2IW8c6gyTpTgWfPRoow/stream/musang-702.brz.rutube.ru/FDQQ5YZUjKPOAd7lPeLssA/1743497747/23c568b69e0eada33560850484223739/720p_stream.m3u8
+https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/tg_xwyyBg9kW0odIRkyDtQ/stream/musang-702.brz.rutube.ru/67iZcUKay3knYqP6HteEkw/1743586823/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/wghJ7acdmH_Z8OwdYgx-3g/stream/musang-702.brz.rutube.ru/mhs2mFLF8EvnKFc77EwVRw/1743500297/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Красная линия
@@ -194,13 +194,15 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
 http://5.153.180.129:8000/play/a052
 #EXTINF:-1 ,Че!
-http://45.11.139.43:8555/perez/index.m3u8
+http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Ю
 https://river-mskostrtk-519.rutube.ru/stream/genetta-317.m9.rutube.ru/m7CmgrLloxhKagZ4PcD7pA/1743394485/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
 #EXTINF:-1 ,Ю
 http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
+#EXTINF:-1 ,ДОМАШНИЙ
+http://65.21.85.175:8000/play/a00n/index.m3u8?token=livetv
 #EXTINF:-1 ,ДОМАШНИЙ
 http://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
 #EXTINF:-1 ,Домашний
@@ -221,7 +223,7 @@ http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
-http://178.124.152.238:8088/auto24
+http://130.193.73.10:8937/play/a01p
 #EXTINF:-1 ,Авто Плюс
 http://5.153.180.129:8000/play/a01r
 #EXTINF:-1 ,ДРАЙВ
