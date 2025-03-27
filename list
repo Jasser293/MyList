@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-https://salam-mskth-72.rutube.ru/dive/river-5-552.rutube.ru/Yaj0omGG38NXzixKkwFn3Q/stream/genetta-516.ost.rutube.ru/GmBNEgyuy4PVi4lySvManA/1743613598/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/WKfURDNPdjMJ-3OAmtUfOg/stream/genetta-516.ost.rutube.ru/KyEIhTW3Z9A8hYAOiIs-zg/1743678773/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 https://river-mskostrtk-543.rutube.ru/stream/genetta-516.ost.rutube.ru/pQp90wMK7YToJaBFe3fwXw/1743612805/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
@@ -14,7 +14,7 @@ http://92.43.140.249/s14/04.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
-https://salam-mskth-72.rutube.ru/dive/river-3-312.rutube.ru/ekauXgSZZvgAVquah_-qNA/stream/genetta-315.m9.rutube.ru/-a4RY9OWwwdU2u_xQQWQNw/1743612845/c37cd74192c6bc3d6cd6077c0c4fd686/720p_stream.m3u8
+https://salam-mskth-46.rutube.ru/dive/river-3-312.rutube.ru/WrWuPbOjTSXyA_VYx51B7g/stream/genetta-315.m9.rutube.ru/6ISWfukSJB11x8Ei1QfOIg/1743678806/c37cd74192c6bc3d6cd6077c0c4fd686/720p_stream.m3u8
 #EXTINF:-1 ,НТВ
 http://178.212.236.3:8802/play/m3_14
 #EXTINF:-1 ,НТВ (+2)
@@ -68,11 +68,11 @@ http://195.49.206.244:90/TVC/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
 #EXTINF:-1 ,Rutube
-https://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/rFlZDX8EyRVL7fVGwcFrug/stream/genetta-312.m9.rutube.ru/RLoDAlfcBhx-HGfRHGIGww/1743613667/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+https://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/eylOIKJuD_VHzz792ddoNQ/stream/genetta-312.m9.rutube.ru/WXnV4WmEx8bPyAed45eiQg/1743678897/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Кино и Жизнь
-https://river-3-318.rutube.ru/stream/genetta-316.m9.rutube.ru/1nrc5NFohZwJ4avxmnxqpw/1743613730/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
+https://salam-mskth-16.rutube.ru/dive/river-3-318.rutube.ru/UGXaKIQ7gfmLFvwJpx0P2Q/stream/genetta-316.m9.rutube.ru/-u3OQsOg90j-FgaNGPb0Sw/1743678954/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/tg_xwyyBg9kW0odIRkyDtQ/stream/musang-702.brz.rutube.ru/67iZcUKay3knYqP6HteEkw/1743586823/23c568b69e0eada33560850484223739/720p_stream.m3u8
+https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/D51qqgHi1ilZHUNb4FLIcQ/stream/musang-702.brz.rutube.ru/lNQsnWG4OtmmXE-JTwAL1g/1743679016/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 https://river-mskm9rtk-337.rutube.ru/stream/musang-702.brz.rutube.ru/R27o8Y4O4emj-T7_6xmGpw/1743612940/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Красная линия
