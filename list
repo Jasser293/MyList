@@ -125,7 +125,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://5.153.180.129:8000/play/a06u
 #EXTINF:-1 ,Оружие
-https://tinyurl.com/2565sxmu
+https://tinyurl.com/jn5cjd4n
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
@@ -461,6 +461,8 @@ http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 http://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 #EXTINF:-1 ,Киносерия
 rtmp://212.0.213.132//Kinoseria
+#EXTINF:-1 ,Феникс+Кино
+rtmp://212.0.213.132//Fenix_Kino
 #EXTINF:-1 ,Наше новое кино
 http://5.153.180.129:8000/play/a047
 #EXTINF:-1 ,Киноужас
@@ -471,8 +473,6 @@ http://95.67.12.82:9046
 http://5.101.0.202:8080/4/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://5.153.180.129:8000/play/a070
-#EXTINF:-1 ,Eurosport 1
-https://tinyurl.com/y8ybj478
 #EXTINF:-1 ,Eurosport 1
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
