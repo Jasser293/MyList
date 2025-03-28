@@ -260,7 +260,9 @@ http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородный Int
-https://salam-mskth-6.rutube.ru/dive/river-3-334.rutube.ru/-9cuKnQuOa405vHQgByKtA/stream/genetta-522.ost.rutube.ru/dSRIA8o4aMTm1ofTcFhnWQ/1743758707/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+https://river-mskm9rtk-332.rutube.ru/stream/genetta-301.m9.rutube.ru/hL7th_kLZiX3QEdQiiBX3g/1743788958/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+#EXTINF:-1 ,Загородный Int
+https://salam-mskth-6.rutube.ru/dive/river-3-334.rutube.ru/YDS_SHEbnMA8WA_Ax2IHeA/stream/genetta-301.m9.rutube.ru/xGVIfkaDIupeADttoM4WDQ/1743789241/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
 #EXTINF:-1 ,Загородный
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s31/04.m3u8
@@ -350,7 +352,9 @@ https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://195.49.206.244:90/Ohota_i_rybalka/mono.m3u8?token=video
 #EXTINF:-1 ,Охотник и рыболов Int
-https://salam-mskm9-19.rutube.ru/dive/river-3-346.rutube.ru/6OCxWNf-bJPtlkHsz2zGQA/stream/musang-705.brz.rutube.ru/zy7vHfl377s7kLsZlBMLaw/1743758765/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+https://salam-nnv-63.rutube.ru/dive/river-3-346.rutube.ru/LytsWJ9rfgjo1bWaVwyEvA/stream/genetta-522.ost.rutube.ru/eJ8jMsj0i-Bhs5mNCDAckw/1743789051/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+#EXTINF:-1 ,Охотник и рыболов Int
+https://salam-mskm9-19.rutube.ru/dive/river-3-346.rutube.ru/kCkzZKlOlLHvvpa8uYPi9Q/stream/genetta-522.ost.rutube.ru/WQtdqutOHHmoauRP5AQIww/1743789152/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://188.190.222.53/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикий
