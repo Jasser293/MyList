@@ -458,9 +458,9 @@ http://195.49.206.244:90/NST/mono.m3u8?token=video
 #EXTINF:-1 ,Родное кино
 http://5.153.180.129:8000/play/a04p
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://5.101.0.202:8080/3/index.m3u8
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=itest
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 ,.Black
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Viju TV1000
@@ -481,8 +481,6 @@ http://5.153.180.129:8000/play/a047
 http://109.200.130.123:7537/play/a021
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
-#EXTINF:-1 ,Cinema UHD
-http://5.101.0.202:8080/4/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://5.153.180.129:8000/play/a070
 #EXTINF:-1 ,Eurosport 1
@@ -511,10 +509,6 @@ http://195.49.206.244:90/Football_2HD/mono.m3u8?token=video
 http://195.49.206.244:90/football_3/mono.m3u8?token=video
 #EXTINF:-1 ,KHL Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
-#EXTINF:-1 ,Боец
-http://5.101.0.202:8080/1/index.m3u8
-#EXTINF:-1 ,Бокс ТВ
-http://5.101.0.202:8080/2/index.m3u8
 #EXTINF:-1 ,Tennis Channel
 http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Motorsport
@@ -551,14 +545,6 @@ http://92.43.140.249/s57/04.m3u8
 http://130.193.73.10:8937/play/a00v
 #EXTINF:-1 ,Cartoon Network
 http://112.72.4.116/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 ,TV6 Poland
-http://178.219.128.68:64889/TV6HD
-#EXTINF:-1 ,TTV Poland
-http://178.219.128.68:64889/TTVHD
-#EXTINF:-1 ,TVP1
-http://178.219.128.68:64889/TVP1HD
-#EXTINF:-1 ,TVP2
-http://178.219.128.68:64889/TVP2HD
 #EXTINF:-1 ,Re TV
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 ,TV Jūrmala
