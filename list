@@ -162,6 +162,8 @@ https://river-mskm9rtk-320.rutube.ru/stream/genetta-323.m9.rutube.ru/q3YGd-Z10nw
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
+http://188.190.222.53/THT/index.m3u8
+#EXTINF:-1 ,ТНТ
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
@@ -352,6 +354,8 @@ http://195.49.206.244:90/Ohota_i_rybalka/mono.m3u8?token=video
 #EXTINF:-1 ,Охотник и рыболов Int
 https://salam-mskm9-19.rutube.ru/dive/river-3-346.rutube.ru/6OCxWNf-bJPtlkHsz2zGQA/stream/musang-705.brz.rutube.ru/zy7vHfl377s7kLsZlBMLaw/1743758765/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
+http://188.190.222.53/Dikiy/index.m3u8
+#EXTINF:-1 ,Дикий
 http://130.193.73.10:8937/play/a04s
 #EXTINF:-1 ,TERRA
 http://109.200.130.123:7537/play/a02i
@@ -423,6 +427,8 @@ http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,КиноХит
+http://31.47.199.45:1403/kinoxit/index.m3u8
+#EXTINF:-1 ,КиноХит
 http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 ,Кинозал
 http://185.57.68.33/237/mpegts
@@ -443,6 +449,12 @@ http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
 http://192.166.144.101:8000/play/a00b/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://130.193.73.10:8937/play/a03n
+#EXTINF:-1 ,Киносвидание
+http://31.47.199.45:1403/kinosvidanie/index.m3u8
+#EXTINF:-1 ,Киносемья
+http://31.47.199.45:1403/kinosemya/index.m3u8
+#EXTINF:-1 ,Мир сериала
+http://188.190.222.53/Mir_seriala/index.m3u8
 #EXTINF:-1 ,FlixSnip
 http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 ,НСТ
