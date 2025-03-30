@@ -75,9 +75,9 @@ http://195.49.206.244:90/OTR/mono.m3u8?token=video
 https://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/lz0dN1NW7KbB3h1TOO1ZIQ/stream/genetta-312.m9.rutube.ru/5O2U5lDAQ8BusYuvj5TAOg/1743917412/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Кино и Жизнь
 https://river-3-318.rutube.ru/stream/genetta-521.ost.rutube.ru/inWjWI5pTkYNCqgfo_zuUg/1743917460/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
-#EXTINF:-1 ,Кинолента 24
+#EXTINF:-1 tvg-name="кинолента 24" ,Кинолента 24
 https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/5Yk8KT7uPghQpn-koN-iGw/stream/musang-702.brz.rutube.ru/WU_JOW_BB8wnxalkBZtceg/1743917510/23c568b69e0eada33560850484223739/720p_stream.m3u8
-#EXTINF:-1 ,Кинолента 24
+#EXTINF:-1 tvg-name="кинолента 24" ,Кинолента 24
 https://salam-nnv-79.rutube.ru/dive/river-5-520.rutube.ru/UydyhfuZe6NLmjnKyEtgQg/stream/musang-702.brz.rutube.ru/r3jRs_Ov9NqzKxL9UWmdOw/1743920143/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -434,6 +434,8 @@ http://185.57.68.33/237/mpegts
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BollywooD
+http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 ,Viju+ Comedy
 http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский бестселлер
@@ -477,12 +479,20 @@ rtmp://212.0.213.132//Fenix_Kino
 http://5.153.180.129:8000/play/a047
 #EXTINF:-1 ,Киноужас
 http://109.200.130.123:7537/play/a021
+#EXTINF:-1 tvg-name="сити эдем - киномистика" ,Сити Эдем - КиноМистика
+https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-name="сити эдем - киноновелла" ,Сити Эдем - КиноНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
+#EXTINF:-1 ,Eurosport 1
+http://193.27.209.122/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://5.153.180.129:8000/play/a070
 #EXTINF:-1 ,Eurosport 1
 http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://193.27.209.122/eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 ,Eurosport Live
