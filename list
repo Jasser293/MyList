@@ -337,6 +337,8 @@ http://5.153.180.129:8000/play/a06j
 http://91.146.94.234:10000/play/a045
 #EXTINF:-1 ,Investigation Discovery
 http://5.153.180.129:8000/play/a06l
+#EXTINF:-1 ,Galaxy
+http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,History
 http://95.67.12.81:10619
 #EXTINF:-1 ,H2
@@ -489,10 +491,6 @@ rtmp://212.0.213.132//Fenix_Kino
 http://5.153.180.129:8000/play/a047
 #EXTINF:-1 ,Киноужас
 http://109.200.130.123:7537/play/a021
-#EXTINF:-1 tvg-name="сити эдем - киномистика" ,Сити Эдем - КиноМистика
-https://autopilot.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-name="сити эдем - киноновелла" ,Сити Эдем - КиноНовелла
-https://autopilot.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
