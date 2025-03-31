@@ -424,6 +424,18 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 http://hls.goodgame.ru:8080/hls/176975.m3u8
 #EXTINF:-1 ,ДОМ КИНО
 rtmp://212.0.213.132//Dom_Kino
+#EXTINF:-1 ,Иллюзион+
+http://195.49.206.244:90/Illuzion+/mono.m3u8?token=video
+#EXTINF:-1 ,Кинопоказ
+http://195.49.206.244:90/kinopokaz/mono.m3u8?token=video
+#EXTINF:-1 ,Кинопремьера HD
+http://195.49.206.244:90/Kinopremiera/mono.m3u8?token=video
+#EXTINF:-1 ,Киносвидание
+http://195.49.206.244:90/Kinosvidanie/mono.m3u8?token=video
+#EXTINF:-1 ,Mужское Кино
+http://195.49.206.244:90/Muzhskoe_Kino/mono.m3u8?token=video
+#EXTINF:-1 ,Kиносемья
+http://195.49.206.244:90/Kinosemia/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 1
 http://89.106.234.5/A1.m3u8
 #EXTINF:-1 ,Amedia 1
