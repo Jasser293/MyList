@@ -444,6 +444,8 @@ http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BollywooD
 http://193.27.209.122/bollywood/index.m3u8
+#EXTINF:-1 ,FOX
+http://45.143.108.110:2203/FOX
 #EXTINF:-1 ,Viju+ Comedy
 http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский бестселлер
