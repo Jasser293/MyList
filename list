@@ -455,7 +455,9 @@ http://130.193.73.10:8937/play/a03l
 #EXTINF:-1, Русский бестселлер
 http://5.153.180.129:8000/play/a04w
 #EXTINF:-1 ,Русский детектив
-http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
+http://5.153.180.129:8000/play/a04x
+#EXTINF:-1 ,Русский детектив
+http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский иллюзион
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://192.166.144.101:8000/play/a00b/index.m3u8
