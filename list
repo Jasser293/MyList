@@ -76,7 +76,7 @@ http://195.49.206.244:90/OTR/mono.m3u8?token=video
 #EXTINF:-1 ,Rutube
 https://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/lz0dN1NW7KbB3h1TOO1ZIQ/stream/genetta-312.m9.rutube.ru/5O2U5lDAQ8BusYuvj5TAOg/1743917412/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Кино и Жизнь
-https://river-3-318.rutube.ru/stream/genetta-521.ost.rutube.ru/inWjWI5pTkYNCqgfo_zuUg/1743917460/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
+#https://river-3-318.rutube.ru/stream/genetta-521.ost.rutube.ru/inWjWI5pTkYNCqgfo_zuUg/1743917460/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
 #EXTINF:-1 tvg-name="кинолента 24" ,Кинолента 24
 https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/5Yk8KT7uPghQpn-koN-iGw/stream/musang-702.brz.rutube.ru/WU_JOW_BB8wnxalkBZtceg/1743917510/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 tvg-name="кинолента 24" ,Кинолента 24
@@ -131,7 +131,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://5.153.180.129:8000/play/a06u
 #EXTINF:-1 ,Оружие
-https://tinyurl.com/sry9zcz2
+#https://tinyurl.com/sry9zcz2
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
