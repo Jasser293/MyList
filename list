@@ -99,10 +99,8 @@ http://cdn2.ntv.ru/unknown_russia/mono.m3u8
 http://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 ,Продвижение (+4)
-http://dvhome.ru/hls/tv.m3u8
 #EXTINF:-1 ,Время
-http://112.72.4.109/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
+http://195.49.206.244:90/Vremya/mono.m3u8?token=video
 #EXTINF:-1 ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,РБК
