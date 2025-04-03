@@ -218,6 +218,8 @@ http://195.49.206.244:90/Super/mono.m3u8?token=video
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://130.193.73.10:8937/play/a01p
+#EXTINF:-1 ,Авто Плюс
+http://5.166.64.254:81/udp/225.0.55.30:1234
 #EXTINF:-1 ,ДРАЙВ
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
@@ -453,9 +455,13 @@ http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 ,Русский детектив
 http://130.193.73.10:8937/play/a03o
+#EXTINF:-1 ,Русский детектив
+http://5.166.64.254:81/udp/225.0.55.179:1234
 #EXTINF:-1 ,Русский иллюзион
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://192.166.144.101:8000/play/a00b/index.m3u8
+#EXTINF:-1 ,Русский иллюзион
+http://5.166.64.254:81/udp/225.0.55.185:1234
 #EXTINF:-1 ,Русский роман
 http://130.193.73.10:8937/play/a03n
 #EXTINF:-1 ,Мир сериала
