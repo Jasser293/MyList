@@ -5,6 +5,7 @@ https://salam-tmn-1085.rutube.ru/dive/river-5-552.rutube.ru/lzSihCYi3hPr0tsU8eA5
 https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/5pRXWiyr0wV9HO4ndwOEug/stream/genetta-303.m9.rutube.ru/9bkjiBnwQreYYpxI2BnywA/1744226780/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#http://192.166.144.101:8000/play/a00e/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 ,Первый канал СНГ
@@ -38,10 +39,8 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 http://195.49.206.244:90/Russia-1/mono.m3u8?token=video
 #EXTINF:-1 ,Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/720p.m3u8
-#https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#http://192.166.144.101:8000/play/a00h/index.m3u8
 #EXTINF:-1 ,Россия 1
-http://135.181.115.81:8000/play/a039/index.m3u8?token=livetv
+http://192.166.144.101:8000/play/a00h/index.m3u8
 #EXTINF:-1 ,РОССИЯ 1
 http://195.49.206.244:90/Russia-1/mono.m3u8?token=video
 #EXTINF:-1 ,Россия 1 (+4)
