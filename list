@@ -4,6 +4,8 @@ https://salam-tmn-1085.rutube.ru/dive/river-5-552.rutube.ru/lzSihCYi3hPr0tsU8eA5
 #EXTINF:-1 ,Первый канал
 https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/5pRXWiyr0wV9HO4ndwOEug/stream/genetta-303.m9.rutube.ru/9bkjiBnwQreYYpxI2BnywA/1744226780/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 ,Первый канал
 http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -574,6 +576,6 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 ,Киносвидание
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://tv.ttk.mx:9164
+#EXTINF:-1 ,Top Secret
+#EXTVLCOPT:http-referrer=https://sovsekretno.tv/
+https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
