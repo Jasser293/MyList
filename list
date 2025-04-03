@@ -126,6 +126,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 https://tinyurl.com/5x56974x
+#EXTINF:-1 ,Оружие
+http://5.166.64.254:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
