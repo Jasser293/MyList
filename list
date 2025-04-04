@@ -201,9 +201,9 @@ http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Домашний
-http://195.158.222.113:8000/play/14/index.m3u8
-#EXTINF:-1 ,Домашний
 http://130.193.73.10:8937/play/a008
+#EXTINF:-1 ,Домашний
+http://195.158.222.113:8000/play/14/index.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
@@ -490,9 +490,6 @@ http://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 rtmp://212.0.213.132//Kinoseria
 #EXTINF:-1 ,Феникс+Кино
 rtmp://212.0.213.132//Fenix_Kino
-#EXTINF:-1 ,Киноужас
-http://195.158.222.113:8000/play/52/index.m3u8
-#http://109.200.130.123:7537/play/a021
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
