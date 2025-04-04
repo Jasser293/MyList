@@ -137,6 +137,8 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
+#EXTINF:-1 ,Пятый канал
+http://178.163.0.18:4022/udp/234.0.0.205:2000
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
 http://213.91.178.133:8000/play/a0b4
 #EXTINF:-1 ,ЦТВ
@@ -260,9 +262,8 @@ http://92.43.140.249/s31/04.m3u8
 #EXTINF:-1 ,Доктор
 http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Доктор
-http://195.49.206.244:90/Doktor/mono.m3u8?token=video
-#EXTINF:-1, Доктор
-#http://178.212.71.253:8000/play/68/index.m3u8
+http://178.163.0.18:4022/udp/234.0.0.232:2000
+#http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Тонус 
@@ -298,6 +299,8 @@ http://194.143.148.28:8080/Nauka20/mpegts
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
+#EXTINF:-1 ,Совершенно секретно
+http://178.163.0.18:4022/udp/234.0.0.185:2000
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
 #EXTINF:-1 ,Спас
@@ -410,8 +413,6 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 http://hls.goodgame.ru:8080/hls/176975.m3u8
 #EXTINF:-1 ,Дом Кино
 rtmp://212.0.213.132//Dom_Kino
-#EXTINF:-1 ,Дом Кино Премиум
-http://194.158.222.36:6100
 #EXTINF:-1 ,Иллюзион+
 http://195.49.206.244:90/Illuzion+/mono.m3u8?token=video
 #EXTINF:-1 ,Кинопоказ
