@@ -348,6 +348,8 @@ http://vod.tuva.ru/nauka2/index.m3u8
 http://195.49.206.244:90/Nature/mono.m3u8?token=video
 #EXTINF:-1 ,Viasat Explore
 http://195.49.206.244:90/Explorer/mono.m3u8?token=video
+#EXTINF:-1 ,Viasat Explore
+http://188.190.222.53/Viasat_Explore/index.m3u8
 #EXTINF:-1 ,Viasat History
 http://188.190.222.53/Viasat_History/index.m3u8
 #EXTINF:-1 ,Viasat History
@@ -433,7 +435,7 @@ http://195.49.206.244:90/Kinosemia/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 1
 http://89.106.234.5/A1.m3u8
 #EXTINF:-1 ,Amedia 1
-http://130.193.73.10:8937/play/a02m
+http://188.190.222.53/Amedia_1/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://195.49.206.244:90/A-2/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 2
@@ -482,7 +484,7 @@ http://195.49.206.244:90/NST/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=itest
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://130.193.73.10:8937/play/a03i
+http://188.190.222.53/Mosfilm/index.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Русское
