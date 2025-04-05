@@ -167,7 +167,8 @@ https://salam-mskth-49.rutube.ru/dive/river-5-549.rutube.ru/YLM7nrWzsFpC1ngDL1U-
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ4
-http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+http://188.190.222.53/TNT4/index.m3u8
+#http://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 ,ТВ3
 https://river-mskm9rtk-335.rutube.ru/stream/musang-705.brz.rutube.ru/TWxpXAyC0KwqoYdnbqAvYg/1744289684/7bf12d9c050f9a7ef3728db5730432ae/720p_stream.m3u8
 #EXTINF:-1 ,ТВ3
@@ -265,7 +266,8 @@ https://salam-mskth-6.rutube.ru/dive/river-3-334.rutube.ru/ud4qFbMsg6CNT5tEb5Mlg
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s31/04.m3u8
 #EXTINF:-1 ,Доктор
-http://130.193.73.10:8937/play/a01q
+http://188.190.222.53/Doctor/index.m3u8
+#http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Доктор
 http://178.163.0.18:4022/udp/234.0.0.232:2000
 #http://195.49.206.244:90/Doktor/mono.m3u8?token=video
@@ -463,7 +465,8 @@ http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский бестселлер
 http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 ,Русский детектив
-http://130.193.73.10:8937/play/a03o
+http://188.190.222.53/Russkiy_detektiv/index.m3u8
+#http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский детектив
 http://5.166.64.254:81/udp/225.0.55.179:1234
 #EXTINF:-1 ,Русский иллюзион
@@ -472,7 +475,8 @@ http://192.166.144.101:8000/play/a00b/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://5.166.64.254:81/udp/225.0.55.185:1234
 #EXTINF:-1 ,Русский роман
-http://130.193.73.10:8937/play/a03n
+http://188.190.222.53/Russkiy_roman/index.m3u8
+#http://130.193.73.10:8937/play/a03n
 #EXTINF:-1 ,Мир сериала
 http://188.190.222.53/Mir_seriala/index.m3u8
 #EXTINF:-1 ,FlixSnip
