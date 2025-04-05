@@ -11,8 +11,6 @@ http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s14/04.m3u8
-#EXTINF:-1 ,Первый канал Европа
-https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
@@ -126,7 +124,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://5.166.64.254:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Оружие
-https://tinyurl.com/v6s4cpts
+https://tinyurl.com/ywawt9n8
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
