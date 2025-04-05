@@ -111,6 +111,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 http://195.49.206.244:90/360_HD/mono.m3u8?token=video
 #EXTINF:-1 ,Беларусь 24
 http://195.49.206.244:90/Belarus24/mono.m3u8?token=video
+#EXTINF:-1 ,ТСВ
+http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 #EXTINF:-1 ,СТВ
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://93.85.87.5/ctv/ctv.stream/playlist.m3u8
@@ -214,6 +216,8 @@ http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница! International
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s50/04.m3u8
+#EXTINF:-1 ,Пятница! International
+http://45.11.139.43:8555/pyatnica/index.m3u8
 #EXTINF:-1 ,Суббота!
 http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
@@ -436,8 +440,10 @@ http://195.49.206.244:90/A-2/mono.m3u8?token=video
 http://89.106.234.5/A2.m3u8
 #EXTINF:-1 ,Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
-#EXTINF:-1 ,.black
+#EXTINF:-1 ,.Black
 http://188.190.222.53/Sony_turbo/index.m3u8
+#EXTINF:-1 ,.Black
+http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,КиноХит
@@ -477,8 +483,6 @@ http://195.49.206.244:90/NST/mono.m3u8?token=video
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=itest
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://130.193.73.10:8937/play/a03i
-#EXTINF:-1 ,.Black
-http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Русское
