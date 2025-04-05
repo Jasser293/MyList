@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/b6jEvdIhUfbFKs7cMOqUfQ/stream/genetta-303.m9.rutube.ru/9e60QmEPpQqk_gB46zhspQ/1744312494/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/JfzbJiziH4iXOyb6_Tgx_Q/stream/genetta-303.m9.rutube.ru/Q-r11pYeO_KIDamROBoVLQ/1744433799/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/5pRXWiyr0wV9HO4ndwOEug/stream/genetta-303.m9.rutube.ru/9bkjiBnwQreYYpxI2BnywA/1744226780/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
@@ -126,7 +126,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://5.166.64.254:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Оружие
-https://tinyurl.com/yc5y2dhf
+https://tinyurl.com/v6s4cpts
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
@@ -201,10 +201,10 @@ http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Домашний
-http://178.163.0.18:4022/udp/234.0.0.191:2000
-#http://130.193.73.10:8937/play/a008
+http://188.190.222.53/Domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
-http://195.158.222.113:8000/play/14/index.m3u8
+http://178.163.0.18:4022/udp/234.0.0.191:2000
+#http://130.193.73.10:8937/play/a00
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
@@ -276,7 +276,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://178.124.152.238:8088/kuhnya
+http://178.163.0.18:4022/udp/234.0.0.241:2000
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
@@ -438,6 +438,8 @@ http://195.49.206.244:90/A-2/mono.m3u8?token=video
 http://89.106.234.5/A2.m3u8
 #EXTINF:-1 ,Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:-1 ,.black
+http://188.190.222.53/Sony_turbo/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,КиноХит
