@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/JfzbJiziH4iXOyb6_Tgx_Q/stream/genetta-303.m9.rutube.ru/Q-r11pYeO_KIDamROBoVLQ/1744433799/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/p5FMuyHpx9MVWwxxwYI7NA/stream/genetta-303.m9.rutube.ru/H9cd18VmVFoOCEBc_N4GHw/1744522715/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/a0yIrTRr9tUkV1jIyEP3UQ/stream/genetta-303.m9.rutube.ru/N4jVxUetFNi4MeMH3GEXPg/1744437848/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/wgc5l6owj_rFpNwbflKkBg/stream/genetta-303.m9.rutube.ru/j1XUwyvYWjXE9N2fZgo6lQ/1744522951/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://192.166.144.101:8000/play/a00e/index.m3u8
@@ -75,7 +75,7 @@ https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/5cggotIMex77eYN3d0zZ
 #EXTINF:-1 ,Кинолента 24
 https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/5cggotIMex77eYN3d0zZNQ/stream/genetta-520.ost.rutube.ru/dwr5z9IbOWyaGjZ5ZHKYjw/1744522536/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Кинолаффка
-https://salam-mskth-49.rutube.ru/dive/river-5-545.rutube.ru/IMEs2Mit9fKN3PobU3AJpg/stream/genetta-305.m9.rutube.ru/IfcBgKAluA8nBi893z10FA/1744356480/3b7d1499da9396462bfd17282d758d30/720p_stream.m3u8
+https://salam-mskth-49.rutube.ru/dive/river-5-545.rutube.ru/V6yGBv2Hhcj9h_CsavdM_w/stream/genetta-305.m9.rutube.ru/4NUqEGPqTM2JZ6kx-X9fMg/1744522795/3b7d1499da9396462bfd17282d758d30/720p_stream.m3u8
 #EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -126,7 +126,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://5.166.64.254:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Оружие
-https://tinyurl.com/ywawt9n8
+https://tinyurl.com/yckc6p6k
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
