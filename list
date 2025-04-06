@@ -128,7 +128,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://5.166.64.254:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Оружие
-https://tinyurl.com/yckc6p6k
+http://87.76.32.36:9106/udp/238.1.1.34:1234
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
@@ -240,7 +240,7 @@ http://92.43.140.249/s93/04.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
-http://salam-mskost-3.rutube.ru/dive/river-3-328.rutube.ru/4bVVFK-TFiB7kGdHHulHmw/stream/genetta-315.m9.rutube.ru/XQJo_Uaerox-Dd0r74ze7Q/1744539924/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
+http://salam-mskost-51.rutube.ru/dive/river-3-328.rutube.ru/7fVCYCuTTwJ-ino-RZBy9g/stream/genetta-305.m9.rutube.ru/vZkmYnuXUYT84T3ojrda9w/1744569114/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
 #EXTINF:-1 ,Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
@@ -280,7 +280,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://178.163.0.18:4022/udp/234.0.0.241:2000
+http://109.197.192.121:8080/kuhnia/index.m3u8
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
