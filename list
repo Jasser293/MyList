@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/yVUVV1fYqwRDYSUb2Pt7-Q/stream/genetta-303.m9.rutube.ru/7iOWlD4v8m5SD7ZmGjVM4Q/1744546684/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://109.197.192.121:8080/1hd/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/CL-IJbrWF1uLx9qiIEMnJQ/1744220080/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
@@ -71,11 +71,11 @@ https://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/qJLQkqtX4UGIsBKppY7
 #EXTINF:-1 ,Твой 2007
 http://salam-mskth-72.rutube.ru/dive/river-5-527.rutube.ru/BERieP28JViL18XnR4Of4Q/stream/genetta-317.m9.rutube.ru/jIw2Vu8vI0rSabbgm31Vbw/1744539735/348ebaac61a382f2028e9a1b06f4f2b6/720p_stream.m3u8
 #EXTINF:-1 ,Кино и Жизнь
-#fff
+http://river-3-318.rutube.ru/stream/musang-703.brz.rutube.ru/jLNu02ISS6t_b9YQ3V85pQ/1744604239/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/BLIn4mrO8t--Cdc9VxVqaw/stream/musang-701.brz.rutube.ru/dHnAOBkhQTO5C22c61e_7g/1744539784/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/IVDhzUdFDQ_Y04NqwWMGKQ/stream/genetta-514.ost.rutube.ru/_nyrOcXQNWNsQkpags7IDg/1744604114/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-vld-62.rutube.ru/dive/river-5-520.rutube.ru/MA7I7rJHAM4dNooGM8EJuQ/stream/musang-701.brz.rutube.ru/OQN-HX06s3kp5jEOBOrxnQ/1744540189/23c568b69e0eada33560850484223739/720p_stream.m3u8
+http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/IVDhzUdFDQ_Y04NqwWMGKQ/stream/genetta-514.ost.rutube.ru/_nyrOcXQNWNsQkpags7IDg/1744604114/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Кинолаффка
 http://salam-mskth-49.rutube.ru/dive/river-5-545.rutube.ru/QPhP7sibVb7YK8hZ0aIrgg/stream/genetta-305.m9.rutube.ru/WGjCi27tnc6sNPqCt6Jxig/1744539867/3b7d1499da9396462bfd17282d758d30/720p_stream.m3u8
 #EXTINF:-1 ,Красная линия
@@ -505,6 +505,8 @@ http://5.9.44.106/content/38617/index.m3u8
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://193.27.209.122/eurosport1/index.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://109.197.192.121:8080/eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
