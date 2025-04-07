@@ -127,8 +127,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://5.166.64.254:81/udp/225.0.55.106:1234
-#EXTINF:-1 ,Оружие
-http://87.76.32.36:9106/udp/238.1.1.34:1234
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
@@ -224,12 +222,16 @@ http://45.11.139.43:8555/pyatnica/index.m3u8
 http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
-#EXTINF:-1 ,АВТО 24
-http://130.193.73.10:8937/play/a01p
+#EXTINF:-1 ,Авто 24
+http://109.197.192.121:8080/auto24/index.m3u8
+#EXTINF:-1 ,Авто Плюс
+http://176.113.48.221:8986/133
 #EXTINF:-1 ,Авто Плюс
 http://5.166.64.254:81/udp/225.0.55.30:1234
-#EXTINF:-1 ,ДРАЙВ
+#EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
+#EXTINF:-1 ,Драйв
+http://109.197.192.121:8080/drive/index.m3u8
 #EXTINF:-1 ,Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 ,RT Doc
@@ -240,7 +242,7 @@ http://92.43.140.249/s93/04.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
-http://salam-mskost-51.rutube.ru/dive/river-3-328.rutube.ru/7fVCYCuTTwJ-ino-RZBy9g/stream/genetta-305.m9.rutube.ru/vZkmYnuXUYT84T3ojrda9w/1744569114/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
+http://salam-mskost-3.rutube.ru/dive/river-3-328.rutube.ru/YBnzWa9WGXxGBL2IX5WIOg/stream/genetta-520.ost.rutube.ru/jl1n66mtobSoUK-RYG-q4w/1744619060/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
 #EXTINF:-1 ,Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
@@ -255,6 +257,8 @@ http://194.158.218.123:8880/Usadba/index.m3u8
 http://195.49.206.244:90/Bober/mono.m3u8?token=video
 #EXTINF:-1 ,Бобёр
 http://195.18.23.20:8000/play/1/index.m3u8
+#EXTINF:-1 ,Загородная жизнь
+http://109.197.192.121:8080/zagorod/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородная жизнь
@@ -465,6 +469,8 @@ http://45.143.108.110:2203/FOX
 #EXTINF:-1 ,Viju+ Comedy
 http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский бестселлер
+http://176.113.48.221:8986/44
+#EXTINF:-1 ,Русский бестселлер
 http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 ,Русский детектив
 http://188.190.222.53/Russkiy_detektiv/index.m3u8
@@ -473,8 +479,6 @@ http://5.166.64.254:81/udp/225.0.55.179:1234
 #EXTINF:-1 ,Русский иллюзион
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://192.166.144.101:8000/play/a00b/index.m3u8
-#EXTINF:-1 ,Русский иллюзион
-http://5.166.64.254:81/udp/225.0.55.185:1234
 #EXTINF:-1 ,Русский роман
 http://188.190.222.53/Russkiy_roman/index.m3u8
 #EXTINF:-1 ,Мир сериала
@@ -497,6 +501,8 @@ http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 http://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 #EXTINF:-1 ,Киносерия
 rtmp://212.0.213.132//Kinoseria
+#EXTINF:-1 ,Киноужас
+http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:-1 ,Феникс+Кино
 rtmp://212.0.213.132//Fenix_Kino
 #EXTINF:-1 ,Кино 1 International
