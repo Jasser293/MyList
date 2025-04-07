@@ -138,7 +138,7 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,Пятый канал
 http://188.190.222.53/5_kanal/index.m3u8
 #EXTINF:-1 ,Пятый канал
-http://178.163.0.18:4022/udp/234.0.0.205:2000
+http://178.163.5.162:4022/udp/234.0.0.205:2000
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
 http://213.91.178.133:8000/play/a0b4
 #EXTINF:-1 ,ЦТВ
@@ -273,8 +273,7 @@ http://92.43.140.249/s31/04.m3u8
 #EXTINF:-1 ,Доктор
 http://188.190.222.53/Doctor/index.m3u8
 #EXTINF:-1 ,Доктор
-http://178.163.0.18:4022/udp/234.0.0.232:2000
-#http://195.49.206.244:90/Doktor/mono.m3u8?token=video
+http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Тонус 
@@ -474,8 +473,6 @@ http://176.113.48.221:8986/44
 http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 ,Русский детектив
 http://188.190.222.53/Russkiy_detektiv/index.m3u8
-#EXTINF:-1 ,Русский детектив
-http://5.166.64.254:81/udp/225.0.55.179:1234
 #EXTINF:-1 ,Русский иллюзион
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://192.166.144.101:8000/play/a00b/index.m3u8
