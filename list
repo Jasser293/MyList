@@ -15,7 +15,7 @@ http://92.43.140.249/s14/04.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
-http://salam-mskth-46.rutube.ru/dive/river-3-312.rutube.ru/UmnOY5k80EiaZ61rucximA/stream/genetta-315.m9.rutube.ru/ZBPCnXTnAiF8n8UBnyuX7w/1744539662/c37cd74192c6bc3d6cd6077c0c4fd686/720p_stream.m3u8
+http://109.197.192.121:8080/ntvhd/index.m3u8
 #EXTINF:-1 ,НТВ (+2)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
@@ -67,17 +67,17 @@ http://195.49.206.244:90/TVC/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
 #EXTINF:-1 ,Rutube
-http://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/OWRMaqNFKTsrFyYxSphwew/stream/genetta-312.m9.rutube.ru/n_eE8esZwscJoXdVb8ETBQ/1744616331/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+http://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/Bz0y2kVjnSAvi6J1SIKSZQ/stream/genetta-312.m9.rutube.ru/b73nfIG870fw3VmSqTc8Jw/1744702008/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Твой 2007
-http://salam-mskth-72.rutube.ru/dive/river-5-527.rutube.ru/a_rtKbYPQEJwqHfBWiutBg/stream/genetta-317.m9.rutube.ru/wx0guT8nBimlxCf-wZGWPQ/1744616379/348ebaac61a382f2028e9a1b06f4f2b6/720p_stream.m3u8
+http://salam-mskth-72.rutube.ru/dive/river-5-527.rutube.ru/Nh5FqF-M5muYztGdqoAwHQ/stream/genetta-317.m9.rutube.ru/yQ_tFLvjxbBMq22iO2d6Ww/1744702065/348ebaac61a382f2028e9a1b06f4f2b6/720p_stream.m3u8
 #EXTINF:-1 ,Кино и Жизнь
-http://river-3-318.rutube.ru/stream/musang-703.brz.rutube.ru/_EB2DRD9sBVr1yZ3H456Ww/1744616417/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
+http://river-3-318.rutube.ru/stream/musang-703.brz.rutube.ru/b6-f2poLxEm1pm1HKTb88Q/1744702095/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/NS9c96yBEgHFcqBZPe66GQ/stream/genetta-514.ost.rutube.ru/9k52NDa5Y-7uG5BK2nPVWQ/1744655272/23c568b69e0eada33560850484223739/720p_stream.m3u8
+http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/7jjC-YEj7B4m-zmApSc7qQ/stream/genetta-514.ost.rutube.ru/EWhfQSlY2QiKdhxt0im5Kg/1744702146/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/q3CpQwgyv-FIbH0OyH1byg/stream/genetta-514.ost.rutube.ru/nN89bfxQye2px3QkF4pzYQ/1744621410/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Кинолаффка
-http://salam-mskth-49.rutube.ru/dive/river-5-545.rutube.ru/n_eS0hrgCYddWTTH_pBlnw/stream/genetta-305.m9.rutube.ru/RTtem5qmhuU4NvIUoKJTYg/1744616456/3b7d1499da9396462bfd17282d758d30/720p_stream.m3u8
+http://salam-mskth-49.rutube.ru/dive/river-5-545.rutube.ru/jioXQ_51XC6oj1KFADm--g/stream/genetta-305.m9.rutube.ru/qQtmUthT33rAeJ0F-iitgw/1744702198/3b7d1499da9396462bfd17282d758d30/720p_stream.m3u8
 #EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -379,6 +379,12 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 http://dmi3y-tv.ru/hls/CH_TNT_MUSIC.m3u8
 #EXTINF:-1 ,ТНТ MUSIC HD
 http://dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
+#EXTINF:-1 ,Bridge TV Rock
+http://109.197.192.121:8080/mtv/index.m3u8
+#EXTINF:-1 ,Музыка первого
+http://109.197.192.121:8080/muz1/index.m3u8
+#EXTINF:-1 ,МузТВ
+http://109.197.192.121:8080/muztv/index.m3u8
 #EXTINF:-1 ,Viva Russia
 https://162.212.179.32/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 ,MIXM TV
@@ -429,8 +435,16 @@ rtmp://212.0.213.132//Dom_Kino
 http://195.49.206.244:90/Illuzion+/mono.m3u8?token=video
 #EXTINF:-1 ,Кинопоказ
 http://195.49.206.244:90/kinopokaz/mono.m3u8?token=video
+#EXTINF:-1 ,Наше новое кино
+http://109.197.192.121:8080/kinohit/index.m3u8
+#EXTINF:-1 ,Киномикс
+http://109.197.192.121:8080/kinoplus/index.m3u8
+#EXTINF:-1 ,Киносемья
+http://109.197.192.121:8080/kinosemya/index.m3u8
 #EXTINF:-1 ,Кинопремьера HD
 http://195.49.206.244:90/Kinopremiera/mono.m3u8?token=video
+#EXTINF:-1 ,Киносвидание
+http://109.197.192.121:8080/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносвидание
 http://195.49.206.244:90/Kinosvidanie/mono.m3u8?token=video
 #EXTINF:-1 ,Mужское Кино
@@ -447,6 +461,8 @@ http://195.49.206.244:90/A-2/mono.m3u8?token=video
 http://89.106.234.5/A2.m3u8
 #EXTINF:-1 ,Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:-1 ,Paramount comedy
+http://109.197.192.121:8080/Paramountcomedy/index.m3u8
 #EXTINF:-1 ,.Black
 http://188.190.222.53/Sony_turbo/index.m3u8
 #EXTINF:-1 ,.Black
@@ -478,6 +494,8 @@ http://188.190.222.53/Russkiy_detektiv/index.m3u8
 http://192.166.144.101:8000/play/a00b/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://188.190.222.53/Russkiy_roman/index.m3u8
+#EXTINF:-1 ,Наше новое кино
+http://109.197.192.121:8080/kinohit/index.m3u8
 #EXTINF:-1 ,Мир сериала
 http://188.190.222.53/Mir_seriala/index.m3u8
 #EXTINF:-1 ,FlixSnip
@@ -496,6 +514,8 @@ http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
 http://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
+#EXTINF:-1 ,Киносерия
+http://109.197.192.121:8080/kinoseria/index.m3u8
 #EXTINF:-1 ,Киносерия
 rtmp://212.0.213.132//Kinoseria
 #EXTINF:-1 ,Киноужас
