@@ -195,11 +195,11 @@ http://130.193.73.10:8937/play/a01v
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Ю
-http://salam-mskth-20.rutube.ru/dive/river-5-551.rutube.ru/kjD43Wso0-BOz00dR_ykMA/stream/genetta-315.m9.rutube.ru/PFbgmUUAKeTTk4WuAMlwFA/1744741897/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
-#EXTINF:-1 ,Ю
-http://dmi3y-tv.ru/hls/CH_U.m3u8
+http://salam-tmn-1085.rutube.ru/dive/river-5-551.rutube.ru/Z-Q1uAe9s4izf7A8jYDCnA/stream/genetta-315.m9.rutube.ru/ln24yVkzQ7gWlLRNdjXpuw/1744812053/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
+#EXTINF:-1 ,Ю
+http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 ,Домашний
 http://188.190.222.53/Domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
@@ -424,8 +424,14 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 http://hls.goodgame.ru:8080/hls/176975.m3u8
 #EXTINF:-1 ,Дом Кино
 rtmp://212.0.213.132//Dom_Kino
+#EXTINF:-1 ,Дом Кино
+http://176.113.48.221:8986/36
+#EXTINF:-1 ,КИНЕКО
+http://176.113.48.221:8986/115
 #EXTINF:-1 ,Иллюзион+
 http://195.49.206.244:90/Illuzion+/mono.m3u8?token=video
+#EXTINF:-1 ,Иллюзион+
+http://176.113.48.221:8986/73
 #EXTINF:-1 ,Кинопоказ
 http://195.49.206.244:90/kinopokaz/mono.m3u8?token=video
 #EXTINF:-1 ,Киносвидание
@@ -434,6 +440,10 @@ http://195.49.206.244:90/Kinosvidanie/mono.m3u8?token=video
 http://195.49.206.244:90/Muzhskoe_Kino/mono.m3u8?token=video
 #EXTINF:-1 ,Kиносемья
 http://195.49.206.244:90/Kinosemia/mono.m3u8?token=video
+#EXTINF:-1 ,Любимое Кино
+http://176.113.48.221:8986/129
+#EXTINF:-1 ,Родное Кино
+http://176.113.48.221:8986/33
 #EXTINF:-1 ,Amedia 1
 http://89.106.234.5/A1.m3u8
 #EXTINF:-1 ,Amedia 1
@@ -456,18 +466,28 @@ http://185.57.68.33/237/mpegts
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мужское кино
+http://176.113.48.221:8986/136
+#EXTINF:-1 ,КИНОМИКС HD
+http://176.113.48.221:8986/67
+#EXTINF:-1 ,КИНОКОМЕДИЯ
+http://176.113.48.221:8986/113
 #EXTINF:-1 ,BollywooD
 http://193.27.209.122/bollywood/index.m3u8
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://176.113.48.221:8986/85
 #EXTINF:-1 ,FOX
 http://45.143.108.110:2203/FOX
 #EXTINF:-1 ,Viju+ Comedy
 http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский бестселлер
 http://176.113.48.221:8986/44
-#EXTINF:-1 ,Русский бестселлер
-http://130.193.73.10:8937/play/a03l
+#EXTINF:-1 ,Русский Бестселлер
+http://176.113.48.221:8986/44
 #EXTINF:-1 ,Русский детектив
 http://188.190.222.53/Russkiy_detektiv/index.m3u8
+#EXTINF:-1 ,Русский Детектив
+http://176.113.48.221:8986/45
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский роман
