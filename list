@@ -71,9 +71,9 @@ http://salam-mskth-72.rutube.ru/dive/river-5-527.rutube.ru/Z4QKHqY68Xa2qBOZWQswb
 #EXTINF:-1 ,Кино и Жизнь
 http://river-3-318.rutube.ru/stream/genetta-318.m9.rutube.ru/4Cw7MLnyE8bzc8CcTGz48g/1744740900/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/spYPawOZigCO9_napq9YqA/stream/genetta-514.ost.rutube.ru/4_3AcMUltCBNhTARaPkZtg/1744740940/23c568b69e0eada33560850484223739/720p_stream.m3u8
+http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/aDSWq8Zkpy_VCY12kmR80g/stream/genetta-315.m9.rutube.ru/q6CAFZ9xG_gVSJDO8sknXw/1744787637/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/hxtGjgIPUqNJURYM0Ex1Fw/stream/genetta-514.ost.rutube.ru/4Wlx7oDiPxeXEmWWejlH8A/1744741998/23c568b69e0eada33560850484223739/720p_stream.m3u8
+http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/aDSWq8Zkpy_VCY12kmR80g/stream/genetta-315.m9.rutube.ru/q6CAFZ9xG_gVSJDO8sknXw/1744787637/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Кинолаффка
 http://salam-mskth-49.rutube.ru/dive/river-5-545.rutube.ru/Ubc9-CkxuBNQoeSWitUydg/stream/genetta-305.m9.rutube.ru/Y4UuE-XiqAMVzhY0p62fFQ/1744740990/3b7d1499da9396462bfd17282d758d30/720p_stream.m3u8
 #EXTINF:-1 ,Красная линия
@@ -123,6 +123,8 @@ http://83.222.205.26/sr1/tro/playlist_1.5M.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 ,Оружие
+http://tinyurl.com/y645nku5
 #EXTINF:-1 ,Оружие
 http://5.166.64.254:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Арсенал
@@ -272,6 +274,8 @@ http://92.43.140.249/s31/04.m3u8
 http://188.190.222.53/Doctor/index.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=video
+#EXTINF:-1 ,Доктор
+http://95.156.76.230:33001/udp/230.4.34.73:1234
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Тонус 
