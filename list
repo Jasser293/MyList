@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/0XQFBRVhdvtmWZGMKpd8pw/stream/genetta-303.m9.rutube.ru/Y8jrPd467MeV5f5yJ-h7tQ/1744798876/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/FWii4VpdZPEyi5mKiWlxAA/stream/genetta-303.m9.rutube.ru/OsVPDklL0pwv6UPwsjDJCA/1744865063/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://salam-tmn-1092.rutube.ru/dive/river-5-552.rutube.ru/NjfsWgWWNvKWZRf7B3C0xg/stream/genetta-303.m9.rutube.ru/DukHJ2nE47JQeEAmRHG4mg/1744825695/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
@@ -124,7 +124,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/y645nku5
+http://tinyurl.com/3xpsp3y2
 #EXTINF:-1 ,Оружие
 http://5.166.64.254:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Арсенал
