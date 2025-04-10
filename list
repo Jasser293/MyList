@@ -15,7 +15,8 @@ http://92.43.140.249/s14/04.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
-http://salam-mskth-46.rutube.ru/dive/river-3-312.rutube.ru/k_dIaLV8TsRArXTIMai0zQ/stream/genetta-315.m9.rutube.ru/6jnOw4pupRwN1-fBLaXsZA/1744798916/c37cd74192c6bc3d6cd6077c0c4fd686/720p_stream.m3u8
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
 #EXTINF:-1 ,НТВ (+2)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
