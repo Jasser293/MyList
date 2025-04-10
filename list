@@ -204,8 +204,7 @@ http://dmi3y-tv.ru/hls/CH_U.m3u8
 #EXTINF:-1 ,Домашний
 http://188.190.222.53/Domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
-http://178.163.0.18:4022/udp/234.0.0.191:2000
-#http://130.193.73.10:8937/play/a00
+http://130.193.73.10:8937/play/a008
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
@@ -568,8 +567,6 @@ http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 #EXTINF:-1 ,Мультиландия
 http://130.193.73.10:8937/play/a00z
-#EXTINF:-1 ,В гостях у сказки
-#http://109.200.130.123:7537/play/a02m
 #EXTINF:-1 ,Мульт
 http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Cartoon Network
