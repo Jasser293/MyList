@@ -66,17 +66,17 @@ http://195.49.206.244:90/TVC/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
 #EXTINF:-1 ,Rutube
-http://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/BozmS5iGAIog_Xcc2C4rwQ/stream/genetta-312.m9.rutube.ru/w1IIEKeqFOMK8M5RvgaJRg/1744963638/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+http://salam-mskugr-12.rutube.ru/dive/river-3-327.rutube.ru/YZbCLTU4B9uqUioJ4Qz7Lg/stream/genetta-312.m9.rutube.ru/ybv6ye9bLwc1eSxhQUE4Bg/1744990713/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Твой 2007
-https://salam-mskth-72.rutube.ru/dive/river-5-527.rutube.ru/_gUsG3fIWL9raqCJ8Nl9lQ/stream/genetta-317.m9.rutube.ru/lPP5V8yGz6g65ATaKNgWeQ/1744963680/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
+http://salam-mskth-72.rutube.ru/dive/river-5-527.rutube.ru/Ddg8g9MCdP97J7qietA7gQ/stream/genetta-317.m9.rutube.ru/mfwH3lEKw2lvOX2UzotSNw/1744990762/348ebaac61a382f2028e9a1b06f4f2b6/720p_stream.m3u8
 #EXTINF:-1 ,Кино и Жизнь
-http://river-3-318.rutube.ru/stream/genetta-323.m9.rutube.ru/rniCqkbo40zKIqFDPm8hCg/1744987318/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
+http://river-3-318.rutube.ru/stream/genetta-323.m9.rutube.ru/JJWt1lp8xjFOOlmMFXtDOA/1744990796/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-khb-1029.rutube.ru/dive/river-5-520.rutube.ru/6-bm_Nm7F2DS0kXTWkg2Ig/stream/genetta-315.m9.rutube.ru/BfUtiS-A_Q8_kfz3ECJ2tw/1744987385/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/TZFbHtAF5dXQ2Gvw80HsCg/stream/genetta-315.m9.rutube.ru/NY73S3BYHKGpAP5W6IOWyw/1744963541/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/ilGA9irI8LitAeJLgDgURg/stream/genetta-315.m9.rutube.ru/fv17IWQOv9nP5W6AdvJZFw/1744990630/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Кинолаффка
-http://salam-mskth-20.rutube.ru/dive/river-5-545.rutube.ru/ZaJB6PDBXXe2WAz7kAWwog/stream/genetta-305.m9.rutube.ru/OmOJNxn6T6c7_62Z8xgqDA/1744826015/3b7d1499da9396462bfd17282d758d30/1080p_stream.m3u8
+http://salam-mskth-49.rutube.ru/dive/river-5-545.rutube.ru/VMygxGWMEp20KSPdGVrbrA/stream/genetta-305.m9.rutube.ru/mdFGTl6CFQQvWT_OlI7MUQ/1744990675/3b7d1499da9396462bfd17282d758d30/720p_stream.m3u8
 #EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
