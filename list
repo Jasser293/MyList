@@ -182,6 +182,8 @@ http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС International
 http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
+http://188.190.222.53/CTC_Love/index.m3u8
+#EXTINF:-1 ,СТС Love
 http://dmi3y-tv.ru/hls/CH_STSLOVE.m3u8
 #EXTINF:-1 ,СТС Love
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=video
@@ -220,6 +222,8 @@ http://92.43.140.249/s50/04.m3u8
 http://45.11.139.43:8555/pyatnica/index.m3u8
 #EXTINF:-1 ,Суббота!
 http://195.49.206.244:90/Super/mono.m3u8?token=video
+#EXTINF:-1 ,Суббота!
+http://188.190.222.53/Super/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,Авто 24
@@ -276,7 +280,6 @@ http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Тонус 
 http://31.130.16.62:4022/udp/239.1.9.41:1234
-#http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 ,Живи
 http://176.113.48.221:8986/55
 #EXTINF:-1 ,World Fashion Channel
@@ -450,8 +453,6 @@ http://188.190.222.53/Amedia_1/index.m3u8
 http://195.49.206.244:90/A-2/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 2
 http://89.106.234.5/A2.m3u8
-#EXTINF:-1 ,Amedia Premium
-http://130.193.73.10:8937/play/a02p
 #EXTINF:-1 ,.Black
 http://188.190.222.53/Sony_turbo/index.m3u8
 #EXTINF:-1 ,.Black
@@ -492,8 +493,6 @@ http://195.26.83.96:7006/play/a00y/index.m3u8
 http://188.190.222.53/Russkiy_roman/index.m3u8
 #EXTINF:-1 ,Мир сериала
 http://188.190.222.53/Mir_seriala/index.m3u8
-#EXTINF:-1 ,FlixSnip
-http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 ,НСТ
 http://195.49.206.244:90/NST/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
