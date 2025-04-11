@@ -2,12 +2,11 @@
 #EXTINF:-1 ,Первый канал
 http://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/SPC9WlJVkmNO6CuwEAsNcw/stream/genetta-303.m9.rutube.ru/OjNITsJXKRzgpJCUmq-f4A/1744963481/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-http://salam-tmn-1092.rutube.ru/dive/river-5-552.rutube.ru/NjfsWgWWNvKWZRf7B3C0xg/stream/genetta-303.m9.rutube.ru/DukHJ2nE47JQeEAmRHG4mg/1744825695/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/rN7yX8DXLoDWSO7S63i-ZQ/1744837853/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#http://192.166.144.101:8000/play/a00e/index.m3u8
 #EXTINF:-1 ,Первый канал
-http://195.26.83.96:7013/play/12/index.m3u8
+http://176.113.48.221:8986/1
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s14/04.m3u8
