@@ -272,15 +272,13 @@ http://92.43.140.249/s31/04.m3u8
 http://188.190.222.53/Doctor/index.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=video
-#EXTINF:-1 ,Доктор
-http://95.156.76.230:33001/udp/230.4.34.73:1234
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Тонус 
 http://31.130.16.62:4022/udp/239.1.9.41:1234
 #http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 ,Живи
-http://195.18.23.20:8000/play/10/index.m3u8
+http://176.113.48.221:8986/55
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
@@ -453,7 +451,7 @@ http://195.49.206.244:90/A-2/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 2
 http://89.106.234.5/A2.m3u8
 #EXTINF:-1 ,Amedia Premium
-http://195.18.23.20:8000/play/3/index.m3u8
+http://130.193.73.10:8937/play/a02p
 #EXTINF:-1 ,.Black
 http://188.190.222.53/Sony_turbo/index.m3u8
 #EXTINF:-1 ,.Black
