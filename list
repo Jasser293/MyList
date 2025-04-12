@@ -152,6 +152,10 @@ rtmp://212.0.213.132//Teledom
 http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
 #EXTINF:-1 ,Gags Network
 http://95.67.12.82:9069
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
+http://lime-pi2.tlgx.ru:8987/CH_TVOETV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
+http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://salam-spbsed-45.rutube.ru/dive/river-3-321.rutube.ru/3gVyR-jEgqOOTIYgF5qIAQ/stream/genetta-323.m9.rutube.ru/GdF2c6D4e-xdM83c_o_kLA/1745046202/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
 #EXTINF:-1 ,ТНТ
