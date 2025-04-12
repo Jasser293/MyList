@@ -219,8 +219,7 @@ http://195.49.206.244:90/Pyatnica/mono.m3u8?token=video
 #EXTINF:-1 ,ПЯТНИЦА
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница! International
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s50/04.m3u8
+https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 ,Пятница! International
 http://45.11.139.43:8555/pyatnica/index.m3u8
 #EXTINF:-1 ,Суббота!
@@ -287,6 +286,8 @@ http://31.130.16.62:4022/udp/239.1.9.41:1234
 http://176.113.48.221:8986/55
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 ,Кухня ТВ
+http://178.163.5.162:4022/udp/234.0.0.241:2000
 #EXTINF:-1 ,Кухня ТВ
 http://178.163.0.18:4022/udp/234.0.0.241:2000
 #EXTINF:-1 ,Food Network
