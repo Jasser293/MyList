@@ -328,6 +328,8 @@ http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 http://dmi3y-tv.ru/hls/CH_PROSVESHENIE.m3u8
 #EXTINF:-1 ,Надежда
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BogBlagTV.us" tvg-name="бог благ тв" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bogblag-tv-us.png" ,Бог Благ ТВ
+http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,Discovery Channel
