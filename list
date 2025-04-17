@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://salam-spbsed-83.rutube.ru/dive/river-5-552.rutube.ru/Q97ZTbkWIwsHAgjkknII4g/stream/genetta-303.m9.rutube.ru/nujq86fDxJe-MGaNqO90hw/1745483088/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/gOxZ1G4gL22SUQMrcocAlQ/stream/genetta-303.m9.rutube.ru/PD1GCnY9iSpTCDf4AD7GTw/1745522146/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 https://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/Q8V6T0UvioTGm3kBG1wHGQ/stream/genetta-303.m9.rutube.ru/yC7txFLXlPSZ0GnB6Zeicg/1745483934/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
@@ -74,7 +74,7 @@ http://salam-spbsed-45.rutube.ru/dive/river-5-527.rutube.ru/OfNIMId5_7NLvemSeyXo
 #EXTINF:-1 ,Кино и Жизнь
 http://river-3-318.rutube.ru/stream/genetta-323.m9.rutube.ru/I-xsvy6Fx3gH_gIBokOsFA/1745483214/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-spbsed-15.rutube.ru/dive/river-5-520.rutube.ru/qo_wAtTAw5XIIi3EgXwkMg/stream/genetta-315.m9.rutube.ru/GxjzH-0IiECEBKvYCJlcwQ/1745483253/23c568b69e0eada33560850484223739/720p_stream.m3u8
+http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/3RrBaf-ZLti4NxpTj9aa2A/stream/genetta-315.m9.rutube.ru/0nmu9TaEK4YmIP6DiVLrWQ/1745522211/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/GE6kAO4LR7rRoHlJCaETxw/stream/genetta-315.m9.rutube.ru/Sg4m1EwiQdqpqmfRgMN-jg/1745484117/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Красная линия
@@ -126,7 +126,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/2fecdm53
+http://tinyurl.com/uw8c8uwb
 #EXTINF:-1 ,Оружие
 http://5.166.64.254:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Арсенал
@@ -275,7 +275,7 @@ http://176.113.48.221:8986/55
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://tinyurl.com/725v3zr6
+http://tinyurl.com/3m3jbxbc
 #EXTINF:-1 ,Кухня ТВ
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Food Network
