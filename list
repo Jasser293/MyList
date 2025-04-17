@@ -77,8 +77,6 @@ http://river-3-318.rutube.ru/stream/genetta-323.m9.rutube.ru/I-xsvy6Fx3gH_gIBokO
 http://salam-spbsed-15.rutube.ru/dive/river-5-520.rutube.ru/qo_wAtTAw5XIIi3EgXwkMg/stream/genetta-315.m9.rutube.ru/GxjzH-0IiECEBKvYCJlcwQ/1745483253/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/GE6kAO4LR7rRoHlJCaETxw/stream/genetta-315.m9.rutube.ru/Sg4m1EwiQdqpqmfRgMN-jg/1745484117/23c568b69e0eada33560850484223739/1080p_stream.m3u8
-#EXTINF:-1 ,Кинолаффка
-http://salam-spbefm-68.rutube.ru/dive/river-5-545.rutube.ru/Cy1bvxF77Bm8dzRetvHqng/stream/genetta-305.m9.rutube.ru/OudHEosVOMLlLp0qtMx_ew/1745483284/3b7d1499da9396462bfd17282d758d30/720p_stream.m3u8
 #EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -202,8 +200,6 @@ http://dmi3y-tv.ru/hls/CH_U.m3u8
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний
 http://5.166.64.254:81/udp/225.0.59.14:1234
-#EXTINF:-1 ,Домашний
-http://tinyurl.com/3pz3hdky
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
