@@ -123,6 +123,8 @@ http://195.49.206.244:90/Belarus24/mono.m3u8?token=video
 http://83.222.205.26/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-id="555.ru" tvg-name="телерадиокомания 555" tvg-logo="https://i.imgur.com/JQZkxeA.png" ,555
 http://91.207.106.1:8888/live
+#EXTINF:-1 ,Скиф ТВ
+http://95.46.208.8:24432/skif
 #EXTINF:-1 ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
@@ -297,7 +299,7 @@ http://195.49.206.244:90/tochka_otryva/mono.m3u8?token=video
 http://195.49.206.244:90/Zoopark/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
 http://195.49.206.244:90/Poehali/mono.m3u8?token=video
-#EXTINF:-1 ,Т24
+#EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=video
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://87.120.142.11:18000/RENTV
@@ -417,6 +419,8 @@ rtmp://212.0.213.132//Dom_Kino
 http://109.200.130.123:7537/play/a027
 #EXTINF:-1 ,Еврокино
 http://87.120.142.11:18000/STSLove
+#EXTINF:-1 ,Cinema
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Иллюзион+
 http://195.49.206.244:90/Illuzion+/mono.m3u8?token=video
 #EXTINF:-1 ,Кинопоказ
@@ -490,6 +494,10 @@ rtmp://212.0.213.132//Fenix_Kino
 http://5.9.44.106/content/38617/index.m3u8
 #EXTINF:-1 ,КОШМАР
 http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
+#EXTINF:-1 ,Видеокассета VHS
+https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
+#EXTINF:-1 ,Horror TV
+https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
