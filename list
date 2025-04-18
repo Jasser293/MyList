@@ -481,7 +481,6 @@ http://130.193.73.10:8937/play/a03i
 http://195.49.206.244:90/TV1000/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Русское
 http://130.193.73.10:8937/play/a02u
-http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
