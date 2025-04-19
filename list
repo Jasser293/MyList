@@ -41,8 +41,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
-#EXTINF:-1 ,РОССИЯ 24
-http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:-1 ,Запад 24
 http://dmi3y-tv.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
 #EXTINF:-1 ,РТР Планета
@@ -77,6 +75,8 @@ http://river-3-318.rutube.ru/stream/genetta-302.m9.rutube.ru/LMhUhwcNyDmxZH1Cefk
 http://salam-smf-25.rutube.ru/dive/river-5-520.rutube.ru/UokopTIila5m_fwl1NSkSw/stream/genetta-315.m9.rutube.ru/lSFpBnqJo6siT2xMwAJ4gw/1745689307/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/garVRCKHSXbvmPtnzhawdQ/stream/genetta-315.m9.rutube.ru/ObB8iJaObdOfouwJ67EbQQ/1745689951/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+#EXTINF:-1 ,Comedy Hub
+http://salam-mskth-2.rutube.ru/dive/river-5-521.rutube.ru/Gd9ahwCFMtSOjGH3Dz_H8w/stream/genetta-319.m9.rutube.ru/ZWaJY4lgCZgXACTlsScf7g/1745690365/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -140,8 +140,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://tinyurl.com/3t28fhfv
 #EXTINF:-1 ,Оружие
-http://178.35.24.161:81/udp/225.23.3.88:5000
-#EXTINF:-1 ,Оружие
 http://5.166.64.254:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -154,7 +152,7 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 ,Пятый канал
-http://178.35.24.161:81/udp/225.23.223.41:5000
+http://178.163.3.222:4022/udp/234.0.0.205:2000
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
 http://213.91.178.133:8000/play/a0b4
 #EXTINF:-1 ,ЦТВ
@@ -215,7 +213,7 @@ http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Домашний
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний
-http://178.35.24.161:81/udp/225.23.223.131:5000
+http://178.163.3.222:4022/udp/234.0.0.191:2000
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
@@ -441,8 +439,6 @@ http://195.49.206.244:90/Muzhskoe_Kino/mono.m3u8?token=video
 http://195.49.206.244:90/Kinosemia/mono.m3u8?token=video
 #EXTINF:-1 ,Любимое Кино
 http://130.193.73.10:8937/play/a037
-#EXTINF:-1 ,Родное Кино
-http://178.35.24.161:81/udp/225.23.3.42:5000
 #EXTINF:-1 ,Amedia 1
 http://89.106.234.5/A1.m3u8
 #EXTINF:-1 ,Amedia 2
@@ -468,11 +464,9 @@ http://45.143.108.110:2203/FOX
 #EXTINF:-1 ,Комедия
 http://195.49.206.244:90/Komediya/mono.m3u8?token=video
 #EXTINF:-1 ,Русский Бестселлер
-http://178.35.24.161:81/udp/225.23.3.50:5000
+http://178.163.3.222:4022/udp/234.0.0.250:2000
 #EXTINF:-1 ,Русский Детектив
 http://130.193.73.10:8937/play/a03o
-#EXTINF:-1 ,Русский детектив
-http://178.35.24.161:81/udp/225.23.3.51:5000
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
