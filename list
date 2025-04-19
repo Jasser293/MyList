@@ -138,7 +138,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/3t28fhfv
+http://tinyurl.com/hu9hykkb
 #EXTINF:-1 ,Оружие
 http://5.166.64.254:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Арсенал
@@ -214,8 +214,8 @@ http://195.49.206.244:90/U/mono.m3u8?token=video
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний
 http://178.163.3.222:4022/udp/234.0.0.191:2000
-#EXTINF:-1 ,Домашний (+2)
-http://tinyurl.com/mrxffzsa
+#EXTINF:-1 ,Домашний (+4)
+http://tinyurl.com/4yhae963
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
@@ -285,7 +285,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://tinyurl.com/y6wnnc9x
+http://tinyurl.com/nhbxx6wa
 #EXTINF:-1 ,Кухня ТВ
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Food Network
