@@ -71,6 +71,8 @@ http://195.49.206.244:90/OTR/mono.m3u8?token=video
 http://salam-nnv-79.rutube.ru/dive/river-3-327.rutube.ru/_Rv2dy4D5uKbPbfqWDyVng/stream/genetta-326.m9.rutube.ru/H1Yo_buPET7ZHBmlZ0j0tQ/1745655417/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 ,Твой 2007
 http://salam-nnv-63.rutube.ru/dive/river-5-527.rutube.ru/GWWAq8-0DgTS8EhjLkNWAQ/stream/genetta-518.ost.rutube.ru/q4Fbp-qg3slN91FUOMAlIA/1745655482/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
+#EXTINF:-1 ,Кино и жизнь
+http://river-3-318.rutube.ru/stream/genetta-302.m9.rutube.ru/Px1a4T9SaJOV9FiIKinCdw/1745666985/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-nnv-79.rutube.ru/dive/river-5-520.rutube.ru/AM7mLMRpEb16erq8rdSOjg/stream/genetta-315.m9.rutube.ru/Ji8o7xzMlVgdCrcnQ4wmRw/1745655583/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
@@ -83,7 +85,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 #EXTINF:-1 ,Москва. Доверие
 http://195.49.206.244:90/Doverie/mono.m3u8?token=video
 #EXTINF:-1 ,Ностальгия
-http://178.163.5.162:4022/udp/234.0.0.190:2000
+http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 ,Ретро ТВ
 http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 ,Аист ТВ
@@ -125,6 +127,10 @@ http://91.207.106.1:8888/live
 http://95.46.208.8:24432/skif
 #EXTINF:-1 tvg-id="Sever.ru" tvg-name="север" tvg-logo="https://i.imgur.com/sTOQLYl.png" ,Север
 http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 tvg-id="NovyVek.ru" tvg-name="новый век" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novy-vek-ru.png" ,Новый Век
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist.m3u8
+#EXTINF:-1 tvg-id="Volga.ru" tvg-name="волга" tvg-logo="https://i.imgur.com/xHs1pr1.png" ,Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
