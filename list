@@ -140,6 +140,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://tinyurl.com/3t28fhfv
 #EXTINF:-1 ,Оружие
+http://178.35.24.161:81/udp/225.23.3.88:5000
+#EXTINF:-1 ,Оружие
 http://5.166.64.254:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -150,9 +152,9 @@ http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
-http://5.166.64.254:81/udp/225.0.59.5:1234
-#EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
+#EXTINF:-1 ,Пятый канал
+http://178.35.24.161:81/udp/225.23.223.41:5000
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
 http://213.91.178.133:8000/play/a0b4
 #EXTINF:-1 ,ЦТВ
@@ -213,7 +215,7 @@ http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Домашний
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний
-http://5.166.64.254:81/udp/225.0.59.14:1234
+http://178.35.24.161:81/udp/225.23.223.131:5000
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
@@ -279,7 +281,7 @@ http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Тонус 
 http://31.130.16.62:4022/udp/239.1.9.41:1234
 #EXTINF:-1 ,Живи
-http://5.166.64.254:81/udp/225.0.55.62:1234
+http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
@@ -440,7 +442,7 @@ http://195.49.206.244:90/Kinosemia/mono.m3u8?token=video
 #EXTINF:-1 ,Любимое Кино
 http://130.193.73.10:8937/play/a037
 #EXTINF:-1 ,Родное Кино
-http://5.166.64.254:81/udp/225.0.55.192:1234
+http://178.35.24.161:81/udp/225.23.3.42:5000
 #EXTINF:-1 ,Amedia 1
 http://89.106.234.5/A1.m3u8
 #EXTINF:-1 ,Amedia 2
@@ -466,11 +468,11 @@ http://45.143.108.110:2203/FOX
 #EXTINF:-1 ,Комедия
 http://195.49.206.244:90/Komediya/mono.m3u8?token=video
 #EXTINF:-1 ,Русский Бестселлер
-http://5.166.64.254:81/udp/225.0.55.180:1234
+http://178.35.24.161:81/udp/225.23.3.50:5000
 #EXTINF:-1 ,Русский Детектив
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский детектив
-http://5.166.64.254:81/udp/225.0.55.179:1234
+http://178.35.24.161:81/udp/225.23.3.51:5000
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
