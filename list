@@ -2,7 +2,7 @@
 #EXTINF:-1 ,Первый канал
 http://salam-smf-25.rutube.ru/dive/river-5-552.rutube.ru/h8rvvF1KyKyJhpN3RajoVA/stream/genetta-303.m9.rutube.ru/W2WQfST-Bf0PHgZUYZdnzw/1745689071/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-http://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/TCi-BBZ5AyyGruSdg-7Ynw/stream/genetta-303.m9.rutube.ru/qwrzQqRzC0DEqqmmBxQlxA/1745689896/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/FsJG4pSti-eIHuL-N4fsZw/stream/genetta-303.m9.rutube.ru/StWjmlaOw24W9mYUbnzKwQ/1745732381/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
@@ -74,7 +74,7 @@ http://river-3-318.rutube.ru/stream/genetta-302.m9.rutube.ru/LMhUhwcNyDmxZH1Cefk
 #EXTINF:-1 ,Кинолента 24
 http://salam-smf-25.rutube.ru/dive/river-5-520.rutube.ru/UokopTIila5m_fwl1NSkSw/stream/genetta-315.m9.rutube.ru/lSFpBnqJo6siT2xMwAJ4gw/1745689307/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/garVRCKHSXbvmPtnzhawdQ/stream/genetta-315.m9.rutube.ru/ObB8iJaObdOfouwJ67EbQQ/1745689951/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/dtXdei3kWqHZb68UkBSBvA/stream/genetta-315.m9.rutube.ru/rZDN4iwXOXp7ikLRoYzR_w/1745732432/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Comedy Hub
 http://salam-mskth-2.rutube.ru/dive/river-5-521.rutube.ru/Gd9ahwCFMtSOjGH3Dz_H8w/stream/genetta-319.m9.rutube.ru/ZWaJY4lgCZgXACTlsScf7g/1745690365/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 ,Красная линия
@@ -442,11 +442,12 @@ http://195.49.206.244:90/Kinosemia/mono.m3u8?token=video
 #EXTINF:-1 ,Любимое Кино
 http://130.193.73.10:8937/play/a037
 #EXTINF:-1 ,Amedia 1
-http://89.106.234.5/A1.m3u8
+http://195.49.206.244:90/A-1/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 2
 http://195.49.206.244:90/A-2/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 2
-http://89.106.234.5/A2.m3u8
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://92.43.140.249/s33/04.m3u8
 #EXTINF:-1 ,TV21
 http://195.49.206.244:90/TV21/mono.m3u8?token=video
 #EXTINF:-1 ,.Black
