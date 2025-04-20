@@ -163,7 +163,7 @@ http://112.72.4.116/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,Перец
 rtmp://212.0.213.132//Teledom
 #EXTINF:-1 ,КВН ТВ
-http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv
+http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:-1 ,Gags Network
 http://95.67.12.82:9069
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
