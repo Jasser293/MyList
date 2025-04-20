@@ -152,7 +152,7 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 ,Пятый канал
-http://178.163.4.251:4022/udp/234.0.0.205:2000
+#
 #EXTINF:-1 ,Пятый канал
 http://178.163.3.222:4022/udp/234.0.0.205:2000
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -215,7 +215,7 @@ http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Домашний
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний
-http://178.163.4.251:4022/udp/234.0.0.191:2000
+#
 #EXTINF:-1 ,Домашний
 http://178.163.3.222:4022/udp/234.0.0.191:2000
 #EXTINF:-1 ,Домашний (+4)
@@ -290,8 +290,6 @@ http://195.18.23.20:8000/play/10/index.m3u8
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
 http://tinyurl.com/2s3vj3ya
-#EXTINF:-1 ,Кухня ТВ
-http://178.163.4.251:4022/udp/234.0.0.241:2000
 #EXTINF:-1 ,Кухня ТВ
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Food Network
