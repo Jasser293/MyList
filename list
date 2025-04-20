@@ -140,7 +140,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://tinyurl.com/hu9hykkb
 #EXTINF:-1 ,Оружие
-http://5.166.64.254:81/udp/225.0.55.106:1234
+http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/2087/index.m3u8
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
@@ -151,6 +151,8 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
+#EXTINF:-1 ,Пятый канал
+http://178.163.4.251:4022/udp/234.0.0.205:2000
 #EXTINF:-1 ,Пятый канал
 http://178.163.3.222:4022/udp/234.0.0.205:2000
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -212,6 +214,8 @@ http://salam-mskth-20.rutube.ru/dive/river-5-551.rutube.ru/d1V2u0hd03jfG1UdT5m2m
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Домашний
 http://130.193.73.10:8937/play/a008
+#EXTINF:-1 ,Домашний
+http://178.163.4.251:4022/udp/234.0.0.191:2000
 #EXTINF:-1 ,Домашний
 http://178.163.3.222:4022/udp/234.0.0.191:2000
 #EXTINF:-1 ,Домашний (+4)
@@ -466,6 +470,8 @@ http://193.27.209.122/bollywood/index.m3u8
 http://45.143.108.110:2203/FOX
 #EXTINF:-1 ,Комедия
 http://195.49.206.244:90/Komediya/mono.m3u8?token=video
+#EXTINF:-1 ,Русский Бестселлер
+http://178.163.4.251:4022/udp/234.0.0.250:2000
 #EXTINF:-1 ,Русский Бестселлер
 http://178.163.3.222:4022/udp/234.0.0.250:2000
 #EXTINF:-1 ,Русский Детектив
