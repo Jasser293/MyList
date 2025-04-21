@@ -138,7 +138,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/56arf9kb
+http://tinyurl.com/yc88f5fa
 #EXTINF:-1 ,Оружие
 #
 #EXTINF:-1 ,Арсенал
@@ -219,7 +219,7 @@ http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний
 http://178.163.3.222:4022/udp/234.0.0.191:2000
 #EXTINF:-1 ,Домашний (+4)
-https://tinyurl.com/cf2ehvkj
+http://tinyurl.com/38zued2h
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
@@ -289,7 +289,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://tinyurl.com/y4w3ph5k
+http://tinyurl.com/mrx6vvew
 #EXTINF:-1 ,Кухня ТВ
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Food Network
@@ -356,8 +356,6 @@ http://95.67.12.81:10620
 http://92.43.140.249/s99/04.m3u8
 #EXTINF:-1 ,National Geographic Wild
 http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
-#EXTINF:-1 ,National Geographic Wild
-http://salam-smf-56.rutube.ru/dive/river-3-344.rutube.ru/BNwWhY8ki_p9jhaBz_RYUw/stream/genetta-317.m9.rutube.ru/ZWCBhgZOZGGRyU2cRNf7Ng/1745848668/c18137e3491619017f984f84598035ec/720p_stream.m3u8
 #EXTINF:-1 ,Живая природа HD
 http://195.49.206.244:90/Zhivaya_Priroda_HD/mono.m3u8?token=video
 #EXTINF:-1 ,Зоопарк
