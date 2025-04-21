@@ -341,8 +341,8 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://ott.watch/stream/8TA6MPRRA5/177.m3u8
-#EXTINF:-1 ,Discovery Channel
-http://salam-smf-56.rutube.ru/dive/river-3-322.rutube.ru/hZk85FqHZzhHF8PhFjHr6g/stream/genetta-316.m9.rutube.ru/TPBEXIk2Kb1Uq7Bu5zY1PQ/1745830374/f61701b91f0f15e49611bc2c85494d4b/720p_stream.m3u8
+#EXTINF:-1 ,Investigation Discovery
+http://ott.watch/stream/87QV7SK7TI/205.m3u8
 #EXTINF:-1 ,Animal Planet
 http://salam-smf-25.rutube.ru/dive/river-5-530.rutube.ru/MU6HY1D_9oW4E2UOK2n9dg/stream/genetta-317.m9.rutube.ru/wxJiFNfOKQbD1Z01tyR3WA/1745828758/d73e70070a806f9baf6e662f6cc40665/1080p_stream.m3u8
 #EXTINF:-1 ,Galaxy
@@ -591,3 +591,5 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 ,Discovery Channel
+http://salam-smf-56.rutube.ru/dive/river-3-322.rutube.ru/hZk85FqHZzhHF8PhFjHr6g/stream/genetta-316.m9.rutube.ru/TPBEXIk2Kb1Uq7Bu5zY1PQ/1745830374/f61701b91f0f15e49611bc2c85494d4b/720p_stream.m3u8
