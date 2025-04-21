@@ -589,3 +589,5 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 ,Test
+http://river-5-548.rutube.ru/stream/genetta-503.ost.rutube.ru/gThlZ9WuaZeERXjBE3ww5A/1745833770/ca5c6dab1412bae2fd4545937ffa4c7b/1080p_stream.m3u8
