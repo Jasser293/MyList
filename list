@@ -354,9 +354,9 @@ http://95.67.12.81:10620
 #EXTINF:-1 ,Приключения
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s99/04.m3u8
-#EXTINF:-1 ,National Geographic
+#EXTINF:-1 ,National Geographic Wild
 http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
-#EXTINF:-1 ,National Geographic
+#EXTINF:-1 ,National Geographic Wild
 http://salam-smf-56.rutube.ru/dive/river-3-344.rutube.ru/BNwWhY8ki_p9jhaBz_RYUw/stream/genetta-317.m9.rutube.ru/ZWCBhgZOZGGRyU2cRNf7Ng/1745848668/c18137e3491619017f984f84598035ec/720p_stream.m3u8
 #EXTINF:-1 ,Живая природа HD
 http://195.49.206.244:90/Zhivaya_Priroda_HD/mono.m3u8?token=video
