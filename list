@@ -334,13 +334,15 @@ http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 #EXTINF:-1 ,Просвещение
 http://dmi3y-tv.ru/hls/CH_PROSVESHENIE.m3u8
 #EXTINF:-1 ,Надежда
-http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/mono.m3u8
 #EXTINF:-1 tvg-id="BogBlagTV.us" tvg-name="бог благ тв" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bogblag-tv-us.png" ,Бог Благ ТВ
 http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://ott.watch/stream/8TA6MPRRA5/177.m3u8
+#EXTINF:-1 ,Discovery Channel
+http://salam-smf-56.rutube.ru/dive/river-3-322.rutube.ru/qEEkNyoRz5luqehEqBK4NA/stream/genetta-522.ost.rutube.ru/VwJp7qICAs9hELmQSEEsTQ/1745911280/f61701b91f0f15e49611bc2c85494d4b/720p_stream.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://ott.watch/stream/87QV7SK7TI/205.m3u8
 #EXTINF:-1 ,Animal Planet
