@@ -138,9 +138,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/u7ppcxwb
-#EXTINF:-1 ,Оружие
-http://5.166.64.254:81/udp/225.0.55.106:1234
+http://tinyurl.com/3c5t5v8z
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
@@ -219,7 +217,7 @@ http://89.23.180.147:4022/udp/239.1.9.1:1234
 #EXTINF:-1 ,Домашний
 http://178.163.3.222:4022/udp/234.0.0.191:2000
 #EXTINF:-1 ,Домашний (+4)
-http://tinyurl.com/mxp7vk8c
+http://tinyurl.com/59nc3er6
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
@@ -289,7 +287,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://tinyurl.com/bdepj53d
+http://tinyurl.com/nhbtpbz8
 #EXTINF:-1 ,Кухня ТВ
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Food Network
@@ -595,9 +593,3 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 ,5 КАНАЛ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://31.210.208.171:8080/5kanal/index.m3u8?token=+W2MSER
-#EXTINF:-1 ,5 КАНАЛ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://31.210.208.171:8080/5kanal/index.m3u8?token=+W2MSER
