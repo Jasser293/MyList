@@ -132,7 +132,7 @@ http://91.207.106.1:8888/live
 http://95.46.208.8:24432/skif
 #EXTINF:-1 tvg-id="Sever.ru" tvg-name="север" tvg-logo="https://i.imgur.com/sTOQLYl.png" ,Север
 http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:-1 tvg-id="Almaznyykray.ru" tvg-name="алмазный край" tvg-logo="https://i.imgur.com/zErXTdF.png" Алмазный край
+#EXTINF:-1 tvg-id="Almaznyykray.ru" tvg-name="алмазный край" tvg-logo="https://i.imgur.com/zErXTdF.png" ,Алмазный край
 https://stream.almaz-media.tv:8080/hls/720.m3u8
 #EXTINF:-1 tvg-id="NovyVek.ru" tvg-name="новый век" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novy-vek-ru.png" ,Новый Век
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist.m3u8
