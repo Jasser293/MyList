@@ -150,9 +150,9 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 ,Пятый канал
-#
-#EXTINF:-1 ,Пятый канал
 http://178.163.3.222:4022/udp/234.0.0.205:2000
+#EXTINF:-1 ,Пятый канал (+2)
+http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
 http://213.91.178.133:8000/play/a0b4
 #EXTINF:-1 ,ЦТВ
@@ -176,6 +176,8 @@ http://salam-smf-56.rutube.ru/dive/river-3-321.rutube.ru/jrvjMlC0lmZhMUfdeWvJkw/
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#EXTINF:-1 ,ТНТ (+2)
+http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
@@ -224,7 +226,9 @@ http://213.91.178.133:8000/play/a0b5
 http://salam-smf-25.rutube.ru/dive/river-5-511.rutube.ru/-_vytGaErr9uZmyLfVcrCw/stream/genetta-517.ost.rutube.ru/bMwC4X-BwBieHUSfjf0LPg/1746001721/9f87a9a0cecbe773be6fddcbd93585ac/720p_stream.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://195.49.206.244:90/Pyatnica/mono.m3u8?token=video
-#EXTINF:-1 ,ПЯТНИЦА
+#EXTINF:-1 ,ПЯТНИЦА (+2)
+http://94.230.128.107:8080/Friday/index.m3u8
+#EXTINF:-1 ,ПЯТНИЦА (+4)
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница! International
 https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
@@ -318,7 +322,7 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Совершенно секретно
-http://178.163.3.222:4022/udp/234.0.0.185:2000
+http://178.124.152.238:8088/sovsec
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
 #EXTINF:-1 ,Спас
