@@ -19,6 +19,8 @@ http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
 #EXTINF:-1 ,НТВ (+2)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
+#EXTINF:-1 ,НТВ (+2)
+http://94.230.128.107:8080/HTB/index.m3u8
 #EXTINF:-1 ,НТВ Мир
 https://streaming.goodstream.cyou/live/213.m3u8
 #EXTINF:-1 ,НТВ Право
@@ -67,6 +69,7 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 http://195.49.206.244:90/TVC/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
+#http://94.230.128.107:8080/OTP/index.m3u8
 #EXTINF:-1 ,Rutube
 http://salam-smf-25.rutube.ru/dive/river-3-327.rutube.ru/jwW671BD2jfT_q7mtQNN4g/stream/genetta-326.m9.rutube.ru/QIEfxNNuY59oKp4zTWlH-A/1746001229/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Твой 2007
@@ -129,6 +132,8 @@ http://91.207.106.1:8888/live
 http://95.46.208.8:24432/skif
 #EXTINF:-1 tvg-id="Sever.ru" tvg-name="север" tvg-logo="https://i.imgur.com/sTOQLYl.png" ,Север
 http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 tvg-id="Almaznyykray.ru" tvg-name="алмазный край" tvg-logo="https://i.imgur.com/zErXTdF.png" Алмазный край
+https://stream.almaz-media.tv:8080/hls/720.m3u8
 #EXTINF:-1 tvg-id="NovyVek.ru" tvg-name="новый век" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novy-vek-ru.png" ,Новый Век
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Volga.ru" tvg-name="волга" tvg-logo="https://i.imgur.com/xHs1pr1.png" ,Волга
@@ -555,6 +560,8 @@ http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
 http://195.49.206.244:90/Football_2HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 3
 http://195.49.206.244:90/football_3/mono.m3u8?token=video
+#EXTINF:-1 ,Formula 1
+https://32tech0steam0dp01.org/live/US_Formula1/chunks.m3u8
 #EXTINF:-1 ,Tennis Channel
 http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Motorsport
