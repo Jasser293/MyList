@@ -530,6 +530,10 @@ http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
 https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
 #EXTINF:-1 ,Horror TV
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+#EXTINF:-1 ,KLI Horror
+http://salam-smf-25.rutube.ru/dive/river-5-512.rutube.ru/mEa9gnKMxQYB0WE9Xam4og/stream/genetta-519.ost.rutube.ru/5OTdK8bKL5WiolQrcjaGbw/1746023325/696bffe7b7be44aa1c64fda33c2cff5c/1080p_stream.m3u8
+#EXTINF:-1 ,KLI Fantasy
+http://salam-smf-56.rutube.ru/dive/river-5-513.rutube.ru/DyJ9d1o0e8xvxXposBIY_g/stream/genetta-518.ost.rutube.ru/iXnwaaOChV0S4gFqoDLUOw/1746023402/6a91d8da3a2040b829adda18dc4fbd94/1080p_stream.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
