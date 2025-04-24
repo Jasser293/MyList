@@ -4,7 +4,8 @@ http://salam-nnv-63.rutube.ru/dive/river-5-552.rutube.ru/t6teDwFmBP7wAci-cENGVw/
 #EXTINF:-1 ,Первый канал
 http://salam-khb-67.rutube.ru/dive/river-5-543.rutube.ru/JeX33zxiKCSq8MPwMqP6cA/stream/genetta-303.m9.rutube.ru/GRTyLYR_7CDhPbSpTehzAQ/1745919779/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 ,Первый канал СНГ
@@ -140,6 +141,8 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6025.png" ,Ника ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="EchoTV.ru" tvg-name="эхо-тв" tvg-logo="https://i.imgur.com/YWKJA1O.png" ,Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
@@ -157,7 +160,7 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 ,Пятый канал
-http://178.163.3.222:4022/udp/234.0.0.205:2000
+http://89.23.180.147:4022/udp/239.1.8.8:1234
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -206,7 +209,8 @@ http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=video
 #EXTINF:-1 ,СТС Love
-http://130.193.73.10:8937/play/a01x
+http://194.143.148.28:8080/CTC_LOVE/tracks-v1a1/mono.m3u8
+#http://130.193.73.10:8937/play/a01x
 #EXTINF:-1 ,Телекафе
 http://195.49.206.244:90/Telekafe/mono.m3u8?token=video
 #EXTINF:-1 ,Телекафе
@@ -258,6 +262,8 @@ http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 ,RT Doc
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s93/04.m3u8
+#EXTINF:-1 ,RT Doc
+http://194.143.148.28:8080/RTD_HD/mpegts
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
@@ -325,7 +331,11 @@ http://195.49.206.244:90/Zoopark/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
 http://195.49.206.244:90/Poehali/mono.m3u8?token=video
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
+http://194.143.148.28:8080/MoyaPlanetaHD/mpegts
+#EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://87.120.142.11:18000/RENTV
+#EXTINF:-1 tvg-id="Nano.ru" tvg-name="нано" tvg-logo="https://i.imgur.com/dYj3XDa.png" ,Нано
+http://194.143.148.28:8080/NanoTV/mpegts
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
@@ -445,6 +455,8 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 http://hls.goodgame.ru:8080/hls/176975.m3u8
 #EXTINF:-1 ,Дом Кино
 rtmp://212.0.213.132//Dom_Kino
+#EXTINF:-1 ,Кинеко
+http://194.143.148.28:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КИНЕКО
 http://109.200.130.123:7537/play/a027
 #EXTINF:-1 ,Еврокино
