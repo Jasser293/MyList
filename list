@@ -149,6 +149,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://tinyurl.com/3btm3v2v
+#EXTINF:-1 ,Оружие
+http://5.166.73.40:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
@@ -309,8 +311,6 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 http://tinyurl.com/ymh7bdhv
 #EXTINF:-1 ,Кухня ТВ
 http://178.124.152.238:8088/kuhnya
-#EXTINF:-1 ,Еда
-http://109.74.160.59:1234/udp/239.255.0.12:1234
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
