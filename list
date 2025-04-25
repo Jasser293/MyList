@@ -417,6 +417,8 @@ https://162.212.179.32/ssh101/ssh101/vivarussia/playlist.m3u8
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 ,MTV 80s
 http://146.59.85.40:89/MTV80s/mpegts
+#EXTINF:-1 ,Dancehits 80
+http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 ,MTV 90s
 http://146.59.85.40:89/MTV90s/mpegts
 #EXTINF:-1 ,MTV 90s
@@ -548,6 +550,8 @@ http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
+#EXTINF:-1 ,МАТЧ ТВ
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://195.49.206.244:90/Arena/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! ИГРА
