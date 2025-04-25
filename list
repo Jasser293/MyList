@@ -197,7 +197,7 @@ http://salam-nnv-79.rutube.ru/dive/river-5-549.rutube.ru/C5KPtTtPy2HS1ndOZYUobQ/
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
 #EXTINF:-1 ,ТВ3
-http://salam-nnv-63.rutube.ru/dive/river-5-513.rutube.ru/O3b1zU72YqlwE3KHxM_GCA/stream/genetta-524.ost.rutube.ru/BAPxJ2dKVbH2GLWbKGX36A/1746174505/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+http://salam-nnv-63.rutube.ru/dive/river-5-513.rutube.ru/2XFxa8SFtZaQJ-tbzaTQNA/stream/genetta-520.ost.rutube.ru/g1fQHfx4cwhdmrbunoYriQ/1746187732/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=video
 #EXTINF:-1 ,ТВ3 (+2)
@@ -211,8 +211,7 @@ http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=video
 #EXTINF:-1 ,СТС Love
-http://194.143.148.28:8080/CTC_LOVE/tracks-v1a1/mono.m3u8
-#http://130.193.73.10:8937/play/a01x
+http://130.193.73.10:8937/play/a01x
 #EXTINF:-1 ,Телекафе
 http://195.49.206.244:90/Telekafe/mono.m3u8?token=video
 #EXTINF:-1 ,Телекафе
@@ -262,8 +261,6 @@ http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 ,RT Doc
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s93/04.m3u8
-#EXTINF:-1 ,RT Doc
-http://194.143.148.28:8080/RTD_HD/mpegts
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
@@ -329,11 +326,7 @@ http://195.49.206.244:90/Zoopark/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
 http://195.49.206.244:90/Poehali/mono.m3u8?token=video
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://194.143.148.28:8080/MoyaPlanetaHD/mpegts
-#EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://87.120.142.11:18000/RENTV
-#EXTINF:-1 tvg-id="Nano.ru" tvg-name="нано" tvg-logo="https://i.imgur.com/dYj3XDa.png" ,Нано
-http://194.143.148.28:8080/NanoTV/mpegts
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
@@ -455,8 +448,6 @@ http://195.49.206.244:90/2x2/mono.m3u8?token=video
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,Дом Кино
 rtmp://212.0.213.132//Dom_Kino
-#EXTINF:-1 ,Кинеко
-http://194.143.148.28:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КИНЕКО
 http://109.200.130.123:7537/play/a027
 #EXTINF:-1 ,Еврокино
