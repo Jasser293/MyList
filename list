@@ -528,6 +528,8 @@ http://5.9.44.106/content/38617/index.m3u8
 http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
+#EXTINF:-1 tvg-id="Kinoliving.ru" tvg-name="kino living" tvg-logo="https://i.imgur.com/9XJcmBY.png" ,KINO LIVING
+http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 ,Eurosport 1
 http://193.27.209.122/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 1
