@@ -356,11 +356,13 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://91.146.94.234:10000/play/a041
+http://salam-nnv-79.rutube.ru/dive/river-3-322.rutube.ru/TojaQmxOhJgWwnXY5w1mnw/stream/genetta-503.ost.rutube.ru/E9s3zxO7eycdt6ZSZcdJPg/1746336296/f61701b91f0f15e49611bc2c85494d4b/720p_stream.m3u8
+#http://91.146.94.234:10000/play/a041
 #EXTINF:-1 ,Investigation Discovery
-http://91.146.94.234:10000/play/a045
+#http://91.146.94.234:10000/play/a045
 #EXTINF:-1 ,Animal Planet
-http://91.146.94.234:10000/play/a042
+http://salam-nnv-63.rutube.ru/dive/river-5-530.rutube.ru/1F74gqKkzAv_cNRqibyE3A/stream/genetta-318.m9.rutube.ru/EaLt4v5lEN12xWNl8HZunw/1746336370/d73e70070a806f9baf6e662f6cc40665/720p_stream.m3u8
+#http://91.146.94.234:10000/play/a042
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,History
@@ -587,18 +589,18 @@ http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 http://130.193.73.10:8937/play/a00z
 #EXTINF:-1 ,Мульт
 http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
-#EXTINF:-1 ,Cartoon Network
-http://91.146.94.234:10000/play/a06e
-#EXTINF:-1 ,Jim Jam
-http://91.146.94.234:10000/play/a061
 #EXTINF:-1 ,TiJi
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s59/04.m3u8
 #EXTINF:-1 ,Детский Мир
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s58/04.m3u8
+#EXTINF:-1 ,В гостях у сказки
+http://109.200.130.123:7537/play/a02m
 #EXTINF:-1,Кино Сказка
 http://95.67.12.82:9084
+#EXTINF:-1 ,Карусель
+http://130.193.73.10:8937/play/a00a
 #EXTINF:-1 ,Рыжий
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s57/04.m3u8
