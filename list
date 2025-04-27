@@ -263,7 +263,7 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 http://109.248.236.51/avto24/mono.m3u8
 #http://130.193.73.10:8937/play/a01p
 #EXTINF:-1 ,Авто Плюс
-#http://109.248.236.51/avtoplus/mono.m3u8
+http://109.248.236.51/avtoplus/mono.m3u8
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
@@ -287,6 +287,8 @@ http://195.49.206.244:90/Usadba/mono.m3u8?token=video
 http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 ,Бобёр
 http://195.49.206.244:90/Bober/mono.m3u8?token=video
+#EXTINF:-1 ,Бобёр
+http://109.248.236.51/bober/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Бобёр
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
@@ -333,10 +335,10 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 http://cdn.universmotri.ru/live/mq.sdp/chunklist_w1403962929.m3u8
 #EXTINF:-1 ,Точка Отрыва
 http://195.49.206.244:90/tochka_otryva/mono.m3u8?token=video
-#EXTINF:-1 ,ЗООПАРК
-http://195.49.206.244:90/Zoopark/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
 http://195.49.206.244:90/Poehali/mono.m3u8?token=video
+#EXTINF:-1 ,Поехали!
+http://109.248.236.51/poehali/mono.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://87.120.142.11:18000/RENTV
 #EXTINF:-1 ,Большая Азия
@@ -347,6 +349,8 @@ http://brodilo.tv/channel.php
 http://178.124.152.238:8088/sovsec
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
+#EXTINF:-1 ,Вопросы и ответы
+http://109.248.236.51/voprosy_i_otvety/mono.m3u8
 #EXTINF:-1 ,Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Союз
@@ -388,16 +392,24 @@ http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
 http://188.237.47.212:6005
 #EXTINF:-1 ,Живая природа HD
 http://195.49.206.244:90/Zhivaya_Priroda_HD/mono.m3u8?token=video
-#EXTINF:-1 ,Зоопарк
+#EXTINF:-1 ,Zooпарк
 http://195.49.206.244:90/Zoopark/mono.m3u8?token=video
+#EXTINF:-1 ,Zooпарк
+http://109.248.236.51/zoopark/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,One planet
 http://95.67.12.82:9088
 #EXTINF:-1 ,Наука
 http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 ,Viasat History
+http://109.248.236.51/viju_history/mono.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://195.49.206.244:90/Nature/mono.m3u8?token=video
+#EXTINF:-1 ,Viasat Nature
+http://109.248.236.51/viju_nature/mono.m3u8
 #EXTINF:-1 ,Viasat Explore
 http://195.49.206.244:90/Explorer/mono.m3u8?token=video
+#EXTINF:-1 ,Viasat Explore
+http://109.248.236.51/viju_explore/mono.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -534,6 +546,8 @@ http://5.166.73.40:81/udp/225.0.55.179:1234
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://109.200.130.123:7537/play/a023
+#EXTINF:-1 ,Русский иллюзион (+2)
+http://109.248.236.51/russkiy_illusion/mono.m3u8
 #EXTINF:-1 ,Русский роман
 http://130.193.73.10:8937/play/a03n
 #EXTINF:-1 ,НСТ
@@ -541,15 +555,24 @@ http://195.49.206.244:90/NST/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=itest
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://130.193.73.10:8937/play/a03i
+http://109.248.236.51/mosfilm/mono.m3u8
+#http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=video
+#EXTINF:-1 ,Viju TV1000
+http://109.248.236.51/viju_tv1000/mono.m3u8
+#EXTINF:-1 ,Viju TV1000 Русское
+http://109.248.236.51/viju_tv1000_russkoe/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://130.193.73.10:8937/play/a02u
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
+#EXTINF:-1 ,Viju TV1000 Action
+http://109.248.236.51/viju_tv1000_action/mono.m3u8
 #EXTINF:-1 ,Киносерия
 rtmp://212.0.213.132//Kinoseria
+#EXTINF:-1 ,Киносерия
+http://109.248.236.51/kinoseria/mono.m3u8
 #EXTINF:-1 ,Феникс+Кино
 rtmp://212.0.213.132//Fenix_Kino
 #EXTINF:-1 ,Кино 1 International
