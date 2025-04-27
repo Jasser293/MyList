@@ -230,9 +230,9 @@ http://130.193.73.10:8937/play/a01v
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Ю
-http://salam-nnv-79.rutube.ru/dive/river-5-551.rutube.ru/TrdOmswv_Bo6V0Vy3TPUMA/stream/genetta-315.m9.rutube.ru/HV_5x9incy1oRMw9wRYHLg/1746174534/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
-#EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
+#EXTINF:-1 ,Ю
+http://109.248.236.51/u/mono.m3u8
 #EXTINF:-1 ,Домашний
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний (+2)
@@ -260,9 +260,10 @@ http://195.26.83.96:7013/play/a00e/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,Авто 24
-http://130.193.73.10:8937/play/a01p
+http://109.248.236.51/avto24/mono.m3u8
+#http://130.193.73.10:8937/play/a01p
 #EXTINF:-1 ,Авто Плюс
-#
+#http://109.248.236.51/avtoplus/mono.m3u8
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
