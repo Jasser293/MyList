@@ -597,8 +597,10 @@ http://109.248.236.51/eurosport2/mono.m3u8
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 ,Eurosport Live
 http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
-#EXTINF:-1 ,SETANTA 1 HD
+#EXTINF:-1 ,Setanta Sports 1 HD
 http://iptv-hls.idc.md:8200/hls/888/live1.m3u8
+#EXTINF:-1 ,Setanta Sports 1
+http://iptv-hls.idc.md:8200/hls/888/live2.m3u8
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ ТВ
