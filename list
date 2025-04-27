@@ -61,7 +61,8 @@ http://130.193.73.10:8937/play/a00i
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
-http://213.91.178.133:8000/play/a0ax
+http://109.248.236.51/ren/mono.m3u8
+#http://213.91.178.133:8000/play/a0ax
 #EXTINF:-1 ,Рен ТВ International
 http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -148,7 +149,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://tinyurl.com/bp4a2ja7
+http://109.248.236.51/oruzhie/mono.m3u8
 #EXTINF:-1 ,Оружие
 http://5.166.73.40:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Арсенал
@@ -196,6 +197,8 @@ http://85.187.13.40:18000/tntint
 http://salam-nnv-79.rutube.ru/dive/river-5-549.rutube.ru/C5KPtTtPy2HS1ndOZYUobQ/stream/genetta-318.m9.rutube.ru/EiNoAkDCtwP4ooqKgEBuKg/1746174480/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
+#EXTINF:-1 ,ТНТ4 (+2)
+http://109.248.236.51/tnt4/mono.m3u8
 #EXTINF:-1 ,ТВ3
 http://salam-nnv-63.rutube.ru/dive/river-5-513.rutube.ru/2XFxa8SFtZaQJ-tbzaTQNA/stream/genetta-520.ost.rutube.ru/g1fQHfx4cwhdmrbunoYriQ/1746187732/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 #EXTINF:-1 ,ТВ3
@@ -207,9 +210,13 @@ http://195.49.206.244:90/STS/mono.m3u8?token=video
 #EXTINF:-1 ,СТС (+2)
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС International
+http://109.248.236.51/sts/mono.m3u8
+#EXTINF:-1 ,СТС International
 http://112.72.4.116/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=video
+#EXTINF:-1 ,СТС Love
+http://109.248.236.51/sts_love/mono.m3u8
 #EXTINF:-1 ,СТС Love
 http://130.193.73.10:8937/play/a01x
 #EXTINF:-1 ,Телекафе
@@ -232,6 +239,8 @@ http://130.193.73.10:8937/play/a008
 http://5.166.73.40:81/udp/225.0.59.14:1234
 #EXTINF:-1 ,Домашний (+4)
 http://tinyurl.com/53umcw3e
+#EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
+http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
@@ -355,6 +364,8 @@ http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/mono.m3u8
 http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+#EXTINF:-1 ,Travel XP
+http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
 #http://91.146.94.234:10000/play/a041
 #EXTINF:-1 ,Investigation Discovery
@@ -466,10 +477,16 @@ http://195.49.206.244:90/Illuzion+/mono.m3u8?token=video
 http://195.49.206.244:90/kinopokaz/mono.m3u8?token=video
 #EXTINF:-1 ,Киносвидание
 http://195.49.206.244:90/Kinosvidanie/mono.m3u8?token=video
+#EXTINF:-1 ,Киносвидание
+http://109.248.236.51/kinosvidanie/mono.m3u8
 #EXTINF:-1 ,Mужское Кино
 http://195.49.206.244:90/Muzhskoe_Kino/mono.m3u8?token=video
+#EXTINF:-1 ,Mужское Кино
+http://109.248.236.51/muzhskoe_kino/mono.m3u8
 #EXTINF:-1 ,Kиносемья
 http://195.49.206.244:90/Kinosemia/mono.m3u8?token=video
+#EXTINF:-1 ,Kиносемья
+http://109.248.236.51/kinosemya/mono.m3u8
 #EXTINF:-1 ,Любимое Кино
 http://130.193.73.10:8937/play/a037
 #EXTINF:-1 ,Amedia 1
@@ -479,12 +496,16 @@ http://195.49.206.244:90/A-2/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 2
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s33/04.m3u8
+#EXTINF:-1 ,Amedia Hit
+http://109.248.236.51/amedia_hit_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TV21
 http://195.49.206.244:90/TV21/mono.m3u8?token=video
 #EXTINF:-1 ,.Black
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
+#EXTINF:-1 ,Кинохит
+http://109.248.236.51/kinohit/mono.m3u8
 #EXTINF:-1 ,Кинозал
 http://185.57.68.33/237/mpegts
 #EXTINF:-1 ,Кино ТВ
@@ -541,11 +562,13 @@ http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 ,Eurosport 1
 http://193.27.209.122/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://185.189.225.157/EuroSport1/index.m3u8
+http://109.248.236.51/eurosport1/mono.m3u8
+#http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://193.27.209.122/eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://185.189.225.157/EuroSport2/index.m3u8
+http://109.248.236.51/eurosport2/mono.m3u8
+#http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 ,Eurosport Live
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 ,Eurosport Live
