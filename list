@@ -317,7 +317,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://tinyurl.com/3p3hehzt
+http://85.15.107.76:81/udp/238.0.2.28:1234
 #EXTINF:-1 ,Кухня ТВ
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Food Network
@@ -388,6 +388,8 @@ http://95.67.12.81:10620
 #EXTINF:-1 ,Приключения
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s99/04.m3u8
+#EXTINF:-1 ,Приключения
+http://91.194.191.241:8081/chid142/mono.m3u8
 #EXTINF:-1 ,Nat Geo Wild
 http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
 #EXTINF:-1 ,Nat Geo Wild
@@ -422,6 +424,8 @@ http://salam-nnv-63.rutube.ru/dive/river-3-346.rutube.ru/oFKTrFVZi_9t4LQO2GriuQ/
 http://salam-mskm9-19.rutube.ru/dive/river-3-346.rutube.ru/I3g8kbhEdvwHdouUxjEWsQ/stream/genetta-319.m9.rutube.ru/hHcbXBO-giwKqqpoP9HFUw/1746174875/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://130.193.73.10:8937/play/a04s
+#EXTINF:-1 ,Дикий
+http://85.15.107.76:81/udp/238.0.3.131:1234
 #EXTINF:-1 ,TERRA
 http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 ,Шансон ТВ
@@ -460,12 +464,6 @@ http://dmi3y-tv.ru/hls/CH_KRONEHIT.m3u8
 http://dmi3y-tv.ru/hls/CH_KRONEHITHD.m3u8
 #EXTINF:-1 ,Europa Plus TV
 http://135.181.115.81:8000/play/a03l/index.m3u8?token=livetv
-#EXTINF:-1 ,Bridge TV Classic
-http://85.192.30.10:8070/chbridgetvclassic/index.m3u8
-#EXTINF:-1 ,Bridge TV Dance
-http://85.192.30.10:8070/chbridgetvdance/index.m3u8
-#EXTINF:-1 ,Bridge TV Deluxe
-http://85.192.30.10:8070/chbridgehd/index.m3u8
 #EXTINF:-1 ,RU.TV
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 ,Теледом ТВ
@@ -519,12 +517,6 @@ http://195.49.206.244:90/A-2/mono.m3u8?token=video
 http://92.43.140.249/s33/04.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://109.248.236.51/amedia_hit_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Amedia Premium
-http://85.192.30.10:8070/amediapremium/index.m3u8
-#EXTINF:-1 ,Star Cinema
-http://85.192.30.10:8070/starcinemahd/index.m3u8
-#EXTINF:-1 ,Star Family
-http://85.192.30.10:8070/starfamilyhd/index.m3u8
 #EXTINF:-1 ,TV21
 http://195.49.206.244:90/TV21/mono.m3u8?token=video
 #EXTINF:-1 ,.Black
@@ -533,8 +525,6 @@ http://109.200.130.123:7537/play/a02s
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,Кинохит
 http://109.248.236.51/kinohit/mono.m3u8
-#EXTINF:-1 ,Кинохит
-http://85.192.30.10:8070/kinohithd/index.m3u8
 #EXTINF:-1 ,Кинозал
 http://185.57.68.33/237/mpegts
 #EXTINF:-1 ,Кино ТВ
@@ -549,26 +539,20 @@ http://45.143.108.110:2203/FOX
 http://188.237.47.212:6008
 #EXTINF:-1 ,Комедия
 http://195.49.206.244:90/Komediya/mono.m3u8?token=video
-#EXTINF:-1 ,Русский бестселлер
-http://85.192.30.10:8070/russianbestseller/index.m3u8
 #EXTINF:-1 ,Русский Бестселлер
 http://178.163.3.222:4022/udp/234.0.0.250:2000
 #EXTINF:-1 ,Русский Детектив
 http://130.193.73.10:8937/play/a03o
-#EXTINF:-1 ,Русский детектив
-http://85.192.30.10:8070/russiandetective/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
-#EXTINF:-1 ,Русский иллюзион
-http://85.192.30.10:8070/russianillusion/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://109.200.130.123:7537/play/a023
 #EXTINF:-1 ,Русский иллюзион (+2)
 http://109.248.236.51/russkiy_illusion/mono.m3u8
 #EXTINF:-1 ,Русский роман
-http://85.192.30.10:8070/russkiyromanhd/index.m3u8
-#EXTINF:-1 ,Русский роман
 http://130.193.73.10:8937/play/a03n
+#EXTINF:-1 ,Русский Роман
+http://85.15.107.76:81/udp/238.0.2.145:1234
 #EXTINF:-1 ,НСТ
 http://195.49.206.244:90/NST/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
