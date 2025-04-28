@@ -229,6 +229,8 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 http://130.193.73.10:8937/play/a01v
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
+#EXTINF:-1 ,Че!
+http://31.130.16.62:4022/udp/239.1.9.77:1234
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Ю
@@ -317,7 +319,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://85.15.107.76:81/udp/238.0.2.28:1234
+#
 #EXTINF:-1 ,Кухня ТВ
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Food Network
@@ -424,8 +426,6 @@ http://salam-nnv-63.rutube.ru/dive/river-3-346.rutube.ru/oFKTrFVZi_9t4LQO2GriuQ/
 http://salam-mskm9-19.rutube.ru/dive/river-3-346.rutube.ru/I3g8kbhEdvwHdouUxjEWsQ/stream/genetta-319.m9.rutube.ru/hHcbXBO-giwKqqpoP9HFUw/1746174875/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 ,Дикий
-http://85.15.107.76:81/udp/238.0.3.131:1234
 #EXTINF:-1 ,TERRA
 http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 ,Шансон ТВ
@@ -551,8 +551,6 @@ http://109.200.130.123:7537/play/a023
 http://109.248.236.51/russkiy_illusion/mono.m3u8
 #EXTINF:-1 ,Русский роман
 http://130.193.73.10:8937/play/a03n
-#EXTINF:-1 ,Русский Роман
-http://85.15.107.76:81/udp/238.0.2.145:1234
 #EXTINF:-1 ,НСТ
 http://195.49.206.244:90/NST/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
