@@ -238,7 +238,7 @@ http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний (+2)
 http://5.166.73.40:81/udp/225.0.59.14:1234
 #EXTINF:-1 ,Домашний (+4)
-http://tinyurl.com/32v22dbw
+http://tinyurl.com/bdtjz2ys
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
@@ -317,7 +317,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://tinyurl.com/4sbksbmh
+http://tinyurl.com/3p3hehzt
 #EXTINF:-1 ,Кухня ТВ
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Food Network
@@ -365,6 +365,8 @@ http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 http://dmi3y-tv.ru/hls/CH_PROSVESHENIE.m3u8
 #EXTINF:-1 ,Надежда
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/mono.m3u8
+#EXTINF:-1 ,ТБВ
+http://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 #EXTINF:-1 tvg-id="BogBlagTV.us" tvg-name="бог благ тв" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bogblag-tv-us.png" ,Бог Благ ТВ
 http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Жар Птица
@@ -625,7 +627,7 @@ http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://195.49.206.244:90/Arena/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! ИГРА
-http://31.148.48.15/Match_Igra/index.m3u8
+http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
 #http://95.216.40.210/nashfootball/mono.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
