@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://salam-nnv-63.rutube.ru/dive/river-5-552.rutube.ru/zMbG5__AQZQ4qpzBrtYv9Q/stream/genetta-303.m9.rutube.ru/xZgwoQtotXPJFtKDOhy9gw/1746174182/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://salam-nnv-63.rutube.ru/dive/river-5-552.rutube.ru/r9Z04WgyIB5RD9_kJrpfgw/stream/genetta-303.m9.rutube.ru/nL18Cc9aRe2_ISqIN-_VVg/1746515849/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://salam-mskth-46.rutube.ru/dive/river-5-552.rutube.ru/uq7b_80YXeAG8IqKlg10-g/stream/genetta-303.m9.rutube.ru/y2d6DbSgeP4sustEE3T0vw/1746174747/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
@@ -200,7 +200,7 @@ http://195.49.206.244:90/TNT4/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ4 (+2)
 http://109.248.236.51/tnt4/mono.m3u8
 #EXTINF:-1 ,ТВ3
-http://salam-nnv-63.rutube.ru/dive/river-5-513.rutube.ru/2XFxa8SFtZaQJ-tbzaTQNA/stream/genetta-520.ost.rutube.ru/g1fQHfx4cwhdmrbunoYriQ/1746187732/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+http://salam-nnv-63.rutube.ru/dive/river-5-513.rutube.ru/NL__srEon1mpFq7XYa3WvQ/stream/genetta-520.ost.rutube.ru/QMF1wz20rApVXFtER8YFkw/1746515624/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=video
 #EXTINF:-1 ,ТВ3 (+2)
