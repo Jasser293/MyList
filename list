@@ -230,7 +230,8 @@ http://130.193.73.10:8937/play/a01v
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Че!
-http://31.130.16.62:4022/udp/239.1.9.77:1234
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/S6_hjS6flGZFSHOolcDnCg,1745960416/streaming/cheott/324/1/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Ю
@@ -240,7 +241,7 @@ http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний (+2)
 http://5.166.73.40:81/udp/225.0.59.14:1234
 #EXTINF:-1 ,Домашний (+4)
-http://tinyurl.com/bdtjz2ys
+http://tinyurl.com/nhzebskf
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
@@ -367,7 +368,7 @@ http://hls.tv.3angels.ru/stream/HD/HD.m3u8
 http://dmi3y-tv.ru/hls/CH_PROSVESHENIE.m3u8
 #EXTINF:-1 ,Надежда
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/mono.m3u8
-#EXTINF:-1 ,ТБВ
+#EXTINF:-1 ,Благая Весть
 http://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 #EXTINF:-1 tvg-id="BogBlagTV.us" tvg-name="бог благ тв" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bogblag-tv-us.png" ,Бог Благ ТВ
 http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
@@ -540,9 +541,11 @@ http://188.237.47.212:6008
 #EXTINF:-1 ,Комедия
 http://195.49.206.244:90/Komediya/mono.m3u8?token=video
 #EXTINF:-1 ,Русский Бестселлер
-http://178.163.3.222:4022/udp/234.0.0.250:2000
+http://5.166.73.40:81/udp/225.0.55.180:1234
 #EXTINF:-1 ,Русский Детектив
 http://130.193.73.10:8937/play/a03o
+#EXTINF:-1 ,Русский Детектив
+http://5.166.73.40:81/udp/225.0.55.179:1234
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
