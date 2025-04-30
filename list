@@ -76,7 +76,7 @@ http://salam-nnv-79.rutube.ru/dive/river-3-327.rutube.ru/7NE5jm2i2VnnduR4G3igAQ/
 #EXTINF:-1 ,Твой 2007
 http://salam-nnv-63.rutube.ru/dive/river-5-527.rutube.ru/AEZzjZhSbQI8ZAj2W5tAfg/stream/genetta-518.ost.rutube.ru/ELPuSdmGAM8IoQX3UghHlw/1746174286/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
 #EXTINF:-1 ,Кино и жизнь
-http://river-5-521.rutube.ru/stream/genetta-513.ost.rutube.ru/tYQPYu_mXzTrljOMIQitAA/1746377535/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+http://river-3-318.rutube.ru/stream/genetta-319.m9.rutube.ru/egE2dKUmXDm6kWQGBcinuQ/1746605748/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-nnv-79.rutube.ru/dive/river-5-520.rutube.ru/pzaEpENQwK-uPJECGdlgIw/stream/genetta-315.m9.rutube.ru/yKMIJPVOD4E9804vIQV6Dw/1746174373/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
@@ -239,9 +239,6 @@ http://195.49.206.244:90/U/mono.m3u8?token=video
 http://109.248.236.51/u/mono.m3u8
 #EXTINF:-1 ,Домашний
 http://130.193.73.10:8937/play/a008
-#EXTINF:-1 ,Домашний
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/XZD5vAq2dNCcEO-GhlLClw,1746046803/streaming/domashiyott/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Домашний (+2)
 http://5.166.73.40:81/udp/225.0.59.14:1234
 #EXTINF:-1 ,Домашний (+4)
@@ -418,15 +415,15 @@ http://95.67.12.82:9088
 #EXTINF:-1 ,Наука
 http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 ,Viasat History
-http://109.248.236.51/viju_history/mono.m3u8
+#http://109.248.236.51/viju_history/mono.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://195.49.206.244:90/Nature/mono.m3u8?token=video
 #EXTINF:-1 ,Viasat Nature
-http://109.248.236.51/viju_nature/mono.m3u8
+#http://109.248.236.51/viju_nature/mono.m3u8
 #EXTINF:-1 ,Viasat Explore
 http://195.49.206.244:90/Explorer/mono.m3u8?token=video
 #EXTINF:-1 ,Viasat Explore
-http://109.248.236.51/viju_explore/mono.m3u8
+#http://109.248.236.51/viju_explore/mono.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -508,7 +505,7 @@ http://195.49.206.244:90/kinopokaz/mono.m3u8?token=video
 #EXTINF:-1 ,Киносвидание
 http://195.49.206.244:90/Kinosvidanie/mono.m3u8?token=video
 #EXTINF:-1 ,Киносвидание
-http://109.248.236.51/kinosvidanie/mono.m3u8
+#http://109.248.236.51/kinosvidanie/mono.m3u8
 #EXTINF:-1 ,Mужское Кино
 http://195.49.206.244:90/Muzhskoe_Kino/mono.m3u8?token=video
 #EXTINF:-1 ,Mужское Кино
@@ -516,7 +513,7 @@ http://109.248.236.51/muzhskoe_kino/mono.m3u8
 #EXTINF:-1 ,Kиносемья
 http://195.49.206.244:90/Kinosemia/mono.m3u8?token=video
 #EXTINF:-1 ,Kиносемья
-http://109.248.236.51/kinosemya/mono.m3u8
+#http://109.248.236.51/kinosemya/mono.m3u8
 #EXTINF:-1 ,Любимое Кино
 http://130.193.73.10:8937/play/a037
 #EXTINF:-1 ,Amedia 1
@@ -574,15 +571,15 @@ http://109.248.236.51/mosfilm/mono.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000
-http://109.248.236.51/viju_tv1000/mono.m3u8
+#http://109.248.236.51/viju_tv1000/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
-http://109.248.236.51/viju_tv1000_russkoe/mono.m3u8
+#http://109.248.236.51/viju_tv1000_russkoe/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://130.193.73.10:8937/play/a02u
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
-http://109.248.236.51/viju_tv1000_action/mono.m3u8
+#http://109.248.236.51/viju_tv1000_action/mono.m3u8
 #EXTINF:-1 ,Киносерия
 http://109.248.236.51/kinoseria/mono.m3u8
 #EXTINF:-1 ,Кино 1 International
