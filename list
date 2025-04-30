@@ -6,6 +6,9 @@ http://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/QycvTHl1d28QWpr0w0eWkQ/
 #EXTINF:-1 ,Первый канал
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 ,Первый канал СНГ
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://92.43.140.249/s14/04.m3u8
 #EXTINF:-1 ,Первый канал
 http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 ,НТВ
@@ -415,15 +418,15 @@ http://95.67.12.82:9088
 #EXTINF:-1 ,Наука
 http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 ,Viasat History
-#http://109.248.236.51/viju_history/mono.m3u8
+http://109.248.236.51/viju_history/mono.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://195.49.206.244:90/Nature/mono.m3u8?token=video
 #EXTINF:-1 ,Viasat Nature
-#http://109.248.236.51/viju_nature/mono.m3u8
+http://109.248.236.51/viju_nature/mono.m3u8
 #EXTINF:-1 ,Viasat Explore
 http://195.49.206.244:90/Explorer/mono.m3u8?token=video
 #EXTINF:-1 ,Viasat Explore
-#http://109.248.236.51/viju_explore/mono.m3u8
+http://109.248.236.51/viju_explore/mono.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -505,7 +508,7 @@ http://195.49.206.244:90/kinopokaz/mono.m3u8?token=video
 #EXTINF:-1 ,Киносвидание
 http://195.49.206.244:90/Kinosvidanie/mono.m3u8?token=video
 #EXTINF:-1 ,Киносвидание
-#http://109.248.236.51/kinosvidanie/mono.m3u8
+http://109.248.236.51/kinosvidanie/mono.m3u8
 #EXTINF:-1 ,Mужское Кино
 http://195.49.206.244:90/Muzhskoe_Kino/mono.m3u8?token=video
 #EXTINF:-1 ,Mужское Кино
@@ -513,7 +516,7 @@ http://109.248.236.51/muzhskoe_kino/mono.m3u8
 #EXTINF:-1 ,Kиносемья
 http://195.49.206.244:90/Kinosemia/mono.m3u8?token=video
 #EXTINF:-1 ,Kиносемья
-#http://109.248.236.51/kinosemya/mono.m3u8
+http://109.248.236.51/kinosemya/mono.m3u8
 #EXTINF:-1 ,Любимое Кино
 http://130.193.73.10:8937/play/a037
 #EXTINF:-1 ,Amedia 1
@@ -571,15 +574,15 @@ http://109.248.236.51/mosfilm/mono.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000
-#http://109.248.236.51/viju_tv1000/mono.m3u8
+http://109.248.236.51/viju_tv1000/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
-#http://109.248.236.51/viju_tv1000_russkoe/mono.m3u8
+http://109.248.236.51/viju_tv1000_russkoe/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://130.193.73.10:8937/play/a02u
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
-#http://109.248.236.51/viju_tv1000_action/mono.m3u8
+http://109.248.236.51/viju_tv1000_action/mono.m3u8
 #EXTINF:-1 ,Киносерия
 http://109.248.236.51/kinoseria/mono.m3u8
 #EXTINF:-1 ,Кино 1 International
@@ -674,6 +677,3 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 ,Первый канал СНГ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s14/04.m3u8
