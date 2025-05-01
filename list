@@ -244,7 +244,7 @@ http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний (+2)
 http://5.166.73.40:81/udp/225.0.59.14:1234
 #EXTINF:-1 ,Домашний (+4)
-http://tinyurl.com/5bratfwk
+http://tinyurl.com/ytcevfv8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
@@ -350,7 +350,7 @@ http://195.49.206.244:90/Poehali/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
 http://109.248.236.51/poehali/mono.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
-http://87.120.142.11:18000/RENTV
+http://tv.streams.baikal-telecom.net:8080/Nauka20/mpegts
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
@@ -407,8 +407,6 @@ http://109.248.236.51/black/mono.m3u8
 #EXTINF:-1 ,Nat Geo Wild
 http://109.248.236.51/sci-fi/mono.m3u8
 #http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
-#EXTINF:-1 ,Nat Geo Wild
-http://188.237.47.212:6005
 #EXTINF:-1 ,Живая природа HD
 http://195.49.206.244:90/Zhivaya_Priroda_HD/mono.m3u8?token=video
 #EXTINF:-1 ,Zooпарк
