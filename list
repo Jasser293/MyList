@@ -678,4 +678,7 @@ http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 #EXTINF:-1 tvg-name="твч (черноморск)" ,ТВЧ
 http://live.tvchernomorsk.cdnvideo.ru/tvchernomorsk/tvchernomorsk.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="тв-ин (магнитогорск)" ,ТВ-ИН
-https://live.tv-in.ru/hls/stream/index.m3u8
+https://62.109.3.30/hls/stream/index.m3u8
+#EXTINF:-1 tvg-name="солнечный тв" ,Солнечный ТВ
+https://5.133.121.195/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
+
