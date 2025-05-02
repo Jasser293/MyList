@@ -198,7 +198,7 @@ http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
-http://salam-nnv-79.rutube.ru/dive/river-5-549.rutube.ru/C5KPtTtPy2HS1ndOZYUobQ/stream/genetta-318.m9.rutube.ru/EiNoAkDCtwP4ooqKgEBuKg/1746174480/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+http://salam-nnv-63.rutube.ru/dive/river-5-549.rutube.ru/znEFtHMMk9u3H1V1NMG3TQ/stream/genetta-311.m9.rutube.ru/dGanISjRhg5eR2uOF8NxZg/1746779051/c801a7087e29a097192d74c270fbc6c1/720p_stream.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ4 (+2)
@@ -244,7 +244,7 @@ http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний (+2)
 http://5.166.73.40:81/udp/225.0.59.14:1234
 #EXTINF:-1 ,Домашний (+4)
-http://tinyurl.com/ytcevfv8
+http://tinyurl.com/ybuwkwdj
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
@@ -318,8 +318,6 @@ http://130.193.73.10:8937/play/a01q
 http://5.166.73.40:81/udp/225.0.56.104:1234
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
-#EXTINF:-1 ,Тонус 
-http://31.130.16.62:4022/udp/239.1.9.41:1234
 #EXTINF:-1 ,Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,Живи
