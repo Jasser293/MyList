@@ -7,7 +7,8 @@ http://salam-nnv-63.rutube.ru/dive/river-5-552.rutube.ru/Av_7OmfXXZwA-82SdFUdsQ/
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
-http://195.26.83.96:7013/play/12/index.m3u8
+http://130.193.73.10:8937/play/a00f
+#http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s14/04.m3u8
@@ -148,16 +149,18 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6025.png" ,Ника ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="EchoTV.ru" tvg-name="эхо-тв" tvg-logo="https://i.imgur.com/YWKJA1O.png" ,Эхо ТВ
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLuch.ru" tvg-name="тв луч" tvg-logo="https://i.imgur.com/ajGMLnd.png" ,ТВ Луч
 https://luch.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="EchoTV.ru" tvg-name="эхо-тв" tvg-logo="https://i.imgur.com/YWKJA1O.png" ,Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://109.248.236.51/oruzhie/mono.m3u8
+#EXTINF:-1 ,Оружие
+http://5.166.75.208:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
@@ -538,8 +541,12 @@ http://185.57.68.33/237/mpegts
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Kinowood
+http://193.27.209.122/kinowood/index.m3u8
 #EXTINF:-1 ,BollywooD
 http://193.27.209.122/bollywood/index.m3u8
+#EXTINF:-1 ,dizi HD
+http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 ,FOX
 http://45.143.108.110:2203/FOX
 #EXTINF:-1 tvg-id="FoxLife.ru" tvg-name="fox life" tvg-logo="https://i.imgur.com/O2miSLA.png" ,Fox Life
@@ -652,6 +659,8 @@ http://92.43.140.249/s59/04.m3u8
 #EXTINF:-1 ,Детский Мир
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s58/04.m3u8
+#EXTINF:-1 ,Кнопка ТВ
+http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 ,В гостях у сказки
 http://109.200.130.123:7537/play/a02m
 #EXTINF:-1,Кино Сказка
