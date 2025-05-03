@@ -156,8 +156,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://109.248.236.51/oruzhie/mono.m3u8
-#EXTINF:-1 ,Оружие
-http://5.166.73.40:81/udp/225.0.55.106:1234
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s68/04.m3u8
@@ -243,10 +241,8 @@ http://195.49.206.244:90/U/mono.m3u8?token=video
 http://109.248.236.51/u/mono.m3u8
 #EXTINF:-1 ,Домашний
 http://130.193.73.10:8937/play/a008
-#EXTINF:-1 ,Домашний (+2)
-http://5.166.73.40:81/udp/225.0.59.14:1234
 #EXTINF:-1 ,Домашний (+4)
-http://tinyurl.com/mr2d2bj6
+http://tinyurl.com/yh4zkkm4
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
@@ -316,8 +312,6 @@ http://91.247.68.229:8000/play/Lapki/index.m3u8
 http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 #EXTINF:-1 ,Доктор
 http://130.193.73.10:8937/play/a01q
-#EXTINF:-1 ,Доктор
-http://5.166.73.40:81/udp/225.0.56.104:1234
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Живи
@@ -551,11 +545,9 @@ http://188.237.47.212:6008
 #EXTINF:-1 ,Комедия
 http://195.49.206.244:90/Komediya/mono.m3u8?token=video
 #EXTINF:-1 ,Русский Бестселлер
-http://5.166.73.40:81/udp/225.0.55.180:1234
+http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 ,Русский Детектив
 http://130.193.73.10:8937/play/a03o
-#EXTINF:-1 ,Русский Детектив
-http://5.166.73.40:81/udp/225.0.55.179:1234
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
@@ -677,10 +669,3 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 tvg-name="твч (черноморск)" ,ТВЧ
-http://live.tvchernomorsk.cdnvideo.ru/tvchernomorsk/tvchernomorsk.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="тв-ин (магнитогорск)" ,ТВ-ИН
-https://62.109.3.30/hls/stream/index.m3u8
-#EXTINF:-1 tvg-name="солнечный тв" ,Солнечный ТВ
-https://5.133.121.195/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
-
