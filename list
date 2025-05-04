@@ -688,6 +688,26 @@ http://92.43.140.249/s57/04.m3u8
 http://130.193.73.10:8937/play/a00v
 #EXTINF:-1 ,Cartoon Network
 http://112.72.4.116/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 ,TV3
+http://84.32.80.23/TV3/index.m3u8
+#EXTINF:-1 ,LRT
+http://84.32.80.23/LRT/index.m3u8
+#EXTINF:-1 ,TV1
+http://84.32.80.23/TV1/index.m3u8
+#EXTINF:-1 ,2TV
+http://84.32.80.23/2TV/index.m3u8
+#EXTINF:-1 ,BTV
+http://84.32.80.23/BTV/index.m3u8
+#EXTINF:-1 ,INFO TV
+http://84.32.80.23/INFOTV/index.m3u8
+#EXTINF:-1 ,TV6
+http://84.32.80.23/TV6/index.m3u8
+#EXTINF:-1 ,TV8
+http://84.32.80.23/TV8/index.m3u8
+#EXTINF:-1 ,LNK
+http://84.32.80.23/LNK/index.m3u8
+#EXTINF:-1 ,LTV7
+http://84.32.80.23/LTV7/index.m3u8
 #EXTINF:-1 ,Re TV
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 ,TV Jūrmala
