@@ -342,7 +342,8 @@ http://178.124.152.238:8088/kuhnya
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
 #EXTINF:-1 ,Аппетитный
-#http://185.50.148.2:7703/Motorsport/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/-ysv_TaV7iA42jDqFm7nfQ,1746651621/streaming/appetitniy/324/1/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,Первый вегетарианский
