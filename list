@@ -7,7 +7,7 @@ http://salam-kzn-32.rutube.ru/dive/river-5-552.rutube.ru/w_R4mzVkR-OcFzLXBdAQmQ/
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
-http://178.163.3.222:4022/udp/234.0.0.200:2000
+http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
 #http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
