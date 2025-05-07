@@ -217,7 +217,7 @@ http://195.49.206.244:90/TNT4/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ4 (+2)
 http://109.248.236.51/tnt4/mono.m3u8
 #EXTINF:-1 ,ТВ3
-http://river-6-601.rutube.ru/stream/genetta-520.ost.rutube.ru/qdT-hvnVvM725dA-rsSq7w/1747224935/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+http://river-6-601.rutube.ru/stream/genetta-319.m9.rutube.ru/hBK-bE51U9I_mCYK6idd0g/1747251838/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=video
 #EXTINF:-1 ,ТВ3 (+2)
@@ -445,9 +445,6 @@ http://river-6-601.rutube.ru/stream/genetta-319.m9.rutube.ru/EbhqzsNaiRGL4fMKrEj
 http://salam-kzn-32.rutube.ru/dive/river-3-346.rutube.ru/BwUGZ3ty_LipiZTKT-4KDQ/stream/genetta-319.m9.rutube.ru/bH-S63wFZPydOjX_66nt2A/1746907246/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 ,Дикий
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/WGHdpsptJ4HuPeLyA4CI4Q,1746651608/streaming/dikiy/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,TERRA
 http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 ,Шансон ТВ
