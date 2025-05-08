@@ -581,8 +581,12 @@ http://188.237.47.212:6008
 http://195.49.206.244:90/Komediya/mono.m3u8?token=video
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
+#EXTINF:-1 ,Русский бестселлер
+http://130.193.73.10:8937/play/a03l
 #EXTINF:-1 ,Русский Бестселлер
 http://178.163.3.222:4022/udp/234.0.0.250:2000
+#EXTINF:-1 ,Русский детектив
+http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский Детектив
 http://5.166.75.208:81/udp/225.0.55.179:1234
 #EXTINF:-1 ,Русский иллюзион
@@ -729,6 +733,8 @@ http://84.32.80.23/TV8/index.m3u8
 http://84.32.80.23/LNK/index.m3u8
 #EXTINF:-1 ,LTV7
 http://84.32.80.23/LTV7/index.m3u8
+#EXTINF:-1 ,LTV1
+http://84.32.80.23/LTV1/index.m3u8
 #EXTINF:-1 ,Re TV
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 ,TV Jūrmala
