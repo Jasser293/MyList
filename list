@@ -84,7 +84,7 @@ http://river-6-601.rutube.ru/stream/genetta-326.m9.rutube.ru/4e-LDp3g-8letPCDnkD
 #EXTINF:-1 ,Твой 2007
 http://salam-kgd-58.rutube.ru/dive/river-5-527.rutube.ru/tUwlOTPYbj7vRnUSWD26kw/stream/genetta-325.m9.rutube.ru/uRNBFhuILCBIAzE2ZFZjXw/1747224486/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
 #EXTINF:-1 ,Кино и жизнь
-#http://river-3-318.rutube.ru/stream/genetta-317.m9.rutube.ru/QxCfE920zGaXqFDtE9xHRQ/1747224682/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+http://river-6-602.rutube.ru/stream/genetta-520.ost.rutube.ru/OjeC0r4qApSyQGVnd_GmAw/1747319920/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-kzn-32.rutube.ru/dive/river-5-520.rutube.ru/VXqOt5l5TuB4KTc7F9xLRQ/stream/genetta-315.m9.rutube.ru/3wK9pf3dwKNe9kxQ9tlYzg/1746906803/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
@@ -147,6 +147,8 @@ http://91.207.106.1:8888/live
 http://95.46.208.8:24432/skif
 #EXTINF:-1 tvg-id="Sever.ru" tvg-name="север" tvg-logo="https://i.imgur.com/sTOQLYl.png" ,Север
 http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 tvg-name="арктика 24" ,Арктика 24
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Almaznyykray.ru" tvg-name="алмазный край" tvg-logo="https://i.imgur.com/zErXTdF.png" ,Алмазный край
 https://stream.almaz-media.tv:8080/hls/720.m3u8
 #EXTINF:-1 tvg-id="NovyVek.ru" tvg-name="новый век" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novy-vek-ru.png" ,Новый Век
