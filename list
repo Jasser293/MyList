@@ -244,8 +244,6 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 http://178.163.3.222:4022/udp/234.0.0.246:2000
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
-#EXTINF:-1 ,Че!
-http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Ю
