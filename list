@@ -84,7 +84,7 @@ http://river-6-601.rutube.ru/stream/genetta-326.m9.rutube.ru/4e-LDp3g-8letPCDnkD
 #EXTINF:-1 ,Твой 2007
 http://salam-kgd-58.rutube.ru/dive/river-5-527.rutube.ru/tUwlOTPYbj7vRnUSWD26kw/stream/genetta-325.m9.rutube.ru/uRNBFhuILCBIAzE2ZFZjXw/1747224486/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
 #EXTINF:-1 ,Кино и жизнь
-http://river-3-318.rutube.ru/stream/genetta-317.m9.rutube.ru/QxCfE920zGaXqFDtE9xHRQ/1747224682/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+#http://river-3-318.rutube.ru/stream/genetta-317.m9.rutube.ru/QxCfE920zGaXqFDtE9xHRQ/1747224682/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-kzn-32.rutube.ru/dive/river-5-520.rutube.ru/VXqOt5l5TuB4KTc7F9xLRQ/stream/genetta-315.m9.rutube.ru/3wK9pf3dwKNe9kxQ9tlYzg/1746906803/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
@@ -176,11 +176,9 @@ http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
-http://178.163.3.222:4022/udp/234.0.0.205:2000
-#EXTINF:-1 ,Пятый канал
-http://178.163.16.7:4022/udp/234.0.0.205:2000
-#EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
+#EXTINF:-1 ,Пятый канал
+http://178.163.3.222:4022/udp/234.0.0.205:2000
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -250,12 +248,12 @@ http://178.212.71.253:8002/play/a00s/index.m3u8
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Ю
 http://109.248.236.51/u/mono.m3u8
+#EXTINF:-1 ,Ю
+http://194.143.148.28:8080/U/index.m3u8
 #EXTINF:-1 ,Домашний
 http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний
 http://178.163.5.162:4022/udp/234.0.0.191:2000
-#EXTINF:-1 ,Домашний
-http://178.163.16.7:4022/udp/234.0.0.191:2000
 #EXTINF:-1 ,Домашний (+4)
 http://tinyurl.com/372tyjep
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
@@ -335,9 +333,9 @@ http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://178.163.16.7:4022/udp/234.0.0.241:2000
-#EXTINF:-1 ,Кухня ТВ
 http://178.163.3.222:4022/udp/234.0.0.241:2000
+#EXTINF:-1 ,Кухня ТВ
+http://tinyurl.com/54euwxs6
 #EXTINF:-1 ,Кухня ТВ
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Food Network
@@ -360,6 +358,8 @@ http://195.49.206.244:90/tochka_otryva/mono.m3u8?token=video
 http://195.49.206.244:90/Poehali/mono.m3u8?token=video
 #EXTINF:-1 ,Поехали!
 http://109.248.236.51/poehali/mono.m3u8
+#EXTINF:-1 ,МОЯ ПЛАНЕТА
+http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://tv.streams.baikal-telecom.net:8080/Nauka20/mpegts
 #EXTINF:-1 ,Большая Азия
@@ -452,6 +452,8 @@ http://130.193.73.10:8937/play/a04s
 http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 ,Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 ,1HD
+http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 ,ТНТ MUSIC
