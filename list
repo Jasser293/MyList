@@ -4,8 +4,8 @@ http://river-6-602.rutube.ru/stream/genetta-303.m9.rutube.ru/tbDly-_zsrXqIlZwMVY
 #EXTINF:-1 ,Первый канал
 http://salam-kzn-32.rutube.ru/dive/river-5-552.rutube.ru/w_R4mzVkR-OcFzLXBdAQmQ/stream/genetta-303.m9.rutube.ru/cHL9IPZpLZL3EmUJgYOfCA/1746906734/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
 #http://195.26.83.96:7013/play/12/index.m3u8
@@ -92,7 +92,8 @@ http://river-6-601.rutube.ru/stream/genetta-315.m9.rutube.ru/xWXctrD_ABzD_Gm5eoi
 #EXTINF:-1 ,Comedy Hub
 http://river-6-601.rutube.ru/stream/genetta-319.m9.rutube.ru/13YBSHzBxNRl_S3xWapnmw/1747224748/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
-http://river-3-321.rutube.ru/stream/genetta-326.m9.rutube.ru/kVPQUA5d4TdXOU8QSKCirQ/1747335896/e2d1a304d55b9a807ec5df1837859304/1080p_stream.m3u8#EXTINF:-1 ,Красная линия
+http://river-3-321.rutube.ru/stream/genetta-314.m9.rutube.ru/yGHRWZ60sAn6md5HSe3big/1747390936/e2d1a304d55b9a807ec5df1837859304/1080p_stream.m3u8
+#EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Вместе РФ
@@ -103,8 +104,6 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v4
 http://195.49.206.244:90/Doverie/mono.m3u8?token=video
 #EXTINF:-1 ,Ностальгия
 http://213.91.178.133:8000/play/a07r
-#EXTINF:-1 ,Ностальгия
-http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 ,Ретро ТВ
 http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 ,Аист ТВ
@@ -178,8 +177,6 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
-#EXTINF:-1 ,Пятый канал
-http://178.163.3.222:4022/udp/234.0.0.205:2000
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -337,8 +334,6 @@ http://185.50.148.2:7703/Motorsport/index.m3u8
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
 http://tinyurl.com/mwxj37fj
-#EXTINF:-1 ,Кухня ТВ
-http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
@@ -367,8 +362,6 @@ http://tv.streams.baikal-telecom.net:8080/Nauka20/mpegts
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
-#EXTINF:-1 ,Совершенно секретно
-http://178.124.152.238:8088/sovsec
 #EXTINF:-1 ,Кто есть кто
 http://185.50.148.2:7711/Ktoestkto/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
@@ -580,8 +573,6 @@ http://195.49.206.244:90/Komediya/mono.m3u8?token=video
 http://185.50.148.2:7711/RodnoeKino/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://130.193.73.10:8937/play/a03l
-#EXTINF:-1 ,Русский Бестселлер
-http://178.163.3.222:4022/udp/234.0.0.250:2000
 #EXTINF:-1 ,Русский детектив
 http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский Детектив
@@ -593,7 +584,7 @@ http://109.200.130.123:7537/play/a023
 #EXTINF:-1 ,Русский иллюзион (+2)
 http://109.248.236.51/russkiy_illusion/mono.m3u8
 #EXTINF:-1 ,Русский роман
-http://178.163.3.222:4022/udp/234.0.0.224:2000
+#
 #EXTINF:-1 ,НСТ
 http://195.49.206.244:90/NST/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
