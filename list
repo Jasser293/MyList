@@ -147,6 +147,8 @@ http://95.46.208.8:24432/skif
 http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1 tvg-name="арктика 24" ,Арктика 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+#EXTINF:-1 ,Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-id="Almaznyykray.ru" tvg-name="алмазный край" tvg-logo="https://i.imgur.com/zErXTdF.png" ,Алмазный край
 https://stream.almaz-media.tv:8080/hls/720.m3u8
 #EXTINF:-1 tvg-id="NovyVek.ru" tvg-name="новый век" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novy-vek-ru.png" ,Новый Век
@@ -611,6 +613,8 @@ http://85.192.10.173/Pro100tvRu/video.m3u8
 http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 ,КОШМАР
 http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
+#EXTINF:-1 ,Киномистика
+https://v2.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 tvg-id="Kinoliving.ru" tvg-name="kino living" tvg-logo="https://i.imgur.com/9XJcmBY.png" ,KINO LIVING
