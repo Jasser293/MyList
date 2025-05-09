@@ -122,6 +122,8 @@ http://195.49.206.244:90/Vremya/mono.m3u8?token=video
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,РБК
 http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 ,8 канал
+http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 ,Прима
@@ -545,6 +547,8 @@ http://195.49.206.244:90/A-2/mono.m3u8?token=video
 http://92.43.140.249/s33/04.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://109.248.236.51/amedia_hit_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Amedia Premium
+http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 ,TV21
 http://195.49.206.244:90/TV21/mono.m3u8?token=video
 #EXTINF:-1 ,.Black
