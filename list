@@ -259,7 +259,7 @@ http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний
 #
 #EXTINF:-1 ,Домашний (+4)
-http://tinyurl.com/4aj398t8
+http://api.peers.tv/timeshift/domashny/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDY5NDY4NDQsImlhdCI6MTc0Njg2MDQ0NCwiY2lkIjo2LCJ1aWQiOjkxNTI0NTY3MywicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.LW6y8BrlBNzickfRbytRqbYDXXwcPmkd6f4omGZCwX4&offset=10
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
