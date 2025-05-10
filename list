@@ -628,23 +628,16 @@ http://95.67.12.82:9046
 #EXTINF:-1 tvg-id="Kinoliving.ru" tvg-name="kino living" tvg-logo="https://i.imgur.com/9XJcmBY.png" ,KINO LIVING
 http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 ,Eurosport 1
-http://193.27.209.122/eurosport1/index.m3u8
-#EXTINF:-1 ,Eurosport 1
 http://109.248.236.51/eurosport1/mono.m3u8
-#http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://193.27.209.122/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://193.27.209.122/eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://109.248.236.51/eurosport2/mono.m3u8
 #http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 ,Eurosport Live
-#http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-#EXTINF:-1 ,Eurosport Live
-#http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
-#EXTINF:-1 ,Setanta Sports 1 HD
-#http://iptv-hls.idc.md:8200/hls/888/live1.m3u8
-#EXTINF:-1 ,Setanta Sports 1
-#http://iptv-hls.idc.md:8200/hls/888/live2.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 ,KHL Prime
