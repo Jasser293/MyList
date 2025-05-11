@@ -583,6 +583,10 @@ http://185.57.68.33/237/mpegts
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Kinoman
+http://217.113.16.2/Kinoman/index.m3u8
+#EXTINF:-1 ,Star Cinema
+http://217.113.16.2/starsinema/index.m3u8
 #EXTINF:-1 ,Kinowood
 http://193.27.209.122/kinowood/index.m3u8
 #EXTINF:-1 ,BollywooD
