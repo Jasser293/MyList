@@ -67,6 +67,8 @@ http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
 http://130.193.73.10:8937/play/a00i
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
+#EXTINF:-1 ,Рен ТВ (+4)
+http://217.113.16.2/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://109.248.236.51/ren/mono.m3u8
 #http://213.91.178.133:8000/play/a0ax
@@ -102,6 +104,8 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v4a1/mono.m3u8
 #EXTINF:-1 ,Москва. Доверие
 http://195.49.206.244:90/Doverie/mono.m3u8?token=video
+#EXTINF:-1 ,Ностальгия
+http://217.113.16.2/Nostalgia/index.m3u8
 #EXTINF:-1 ,Ностальгия
 http://213.91.178.133:8000/play/a07r
 #EXTINF:-1 ,Ретро ТВ
@@ -212,6 +216,8 @@ http://195.49.206.244:90/TNT/mono.m3u8?token=video
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
+#EXTINF:-1 ,ТНТ (+4)
+http://217.113.16.2/tnt/index.m3u8
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
@@ -412,6 +418,8 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 http://95.67.12.81:10619
 #EXTINF:-1 ,H2
 http://95.67.12.81:10620
+#EXTINF:-1 ,История
+http://217.113.16.2/Istoria/index.m3u8
 #EXTINF:-1 ,Приключения
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s99/04.m3u8
@@ -452,6 +460,8 @@ http://salam-spbsedpakt-93.rutube.ru/dive/river-3-346.rutube.ru/Mou-c-A0J4JiNHEr
 http://salam-smr-53.rutube.ru/dive/river-3-346.rutube.ru/-xGzReN5VN0jw4hhOOeJIw/stream/genetta-319.m9.rutube.ru/yl6DFHEd6TezdE3iF8T0AQ/1747511733/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://130.193.73.10:8937/play/a04s
+#EXTINF:-1 ,Дикая Охота
+http://217.113.16.2/dikayaoxota/index.m3u8
 #EXTINF:-1 ,TERRA
 http://109.200.130.123:7537/play/a02i
 #EXTINF:-1 ,TERRA
@@ -565,6 +575,8 @@ http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 http://109.248.236.51/kinohit/mono.m3u8
 #EXTINF:-1 ,КиноХит
 http://217.113.16.2/KinoxitHD/index.m3u8
+#EXTINF:-1 ,Киномикс
+http://217.113.16.2/kinomix/index.m3u8
 #EXTINF:-1 ,Кинозал
 http://185.57.68.33/237/mpegts
 #EXTINF:-1 ,Кино ТВ
@@ -664,6 +676,8 @@ http://87.120.142.11:18000/Match!Igra
 #http://95.216.40.210/nashfootball/mono.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
+#EXTINF:-1 ,Матч! Боец
+http://217.113.16.2/match-boec/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 2
