@@ -287,6 +287,8 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,Авто 24
 http://109.248.236.51/avto24/mono.m3u8
 #EXTINF:-1 ,Авто Плюс
+http://217.113.16.2/Avtoplus/index.m3u8
+#EXTINF:-1 ,Авто Плюс
 http://109.248.236.51/avtoplus/mono.m3u8
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
@@ -399,7 +401,7 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,Travel XP
 http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
-#http://91.146.94.234:10000/play/a041
+http://217.113.16.2/discovery/index.m3u8
 #EXTINF:-1 ,Investigation Discovery
 #http://91.146.94.234:10000/play/a045
 #EXTINF:-1 ,Animal Planet
@@ -561,6 +563,8 @@ http://109.200.130.123:7537/play/a02s
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,Кинохит
 http://109.248.236.51/kinohit/mono.m3u8
+#EXTINF:-1 ,КиноХит
+http://217.113.16.2/KinoxitHD/index.m3u8
 #EXTINF:-1 ,Кинозал
 http://185.57.68.33/237/mpegts
 #EXTINF:-1 ,Кино ТВ
