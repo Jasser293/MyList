@@ -667,6 +667,8 @@ http://109.248.236.51/eurosport2/mono.m3u8
 #http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://87.120.142.11:18000/Rossiya1
+#EXTINF:-1 ,Конный мир
+http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 ,KHL Prime
 http://109.248.236.51/khl_prime/mono.m3u8
 #EXTINF:-1 ,Viasat Sport
