@@ -507,6 +507,10 @@ http://dmi3y-tv.ru/hls/CH_KRONEHIT.m3u8
 http://dmi3y-tv.ru/hls/CH_KRONEHITHD.m3u8
 #EXTINF:-1 ,Europa Plus TV
 http://135.181.115.81:8000/play/a03l/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-name="impact tv dance [ro]" tvg-logo="https://i.imgur.com/G5mNdpE.png" ,Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-name="impact tv manele [ro]" tvg-logo="https://i.imgur.com/G5mNdpE.png" ,Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
 #EXTINF:-1 ,RU.TV
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 ,Теледом ТВ
