@@ -24,10 +24,9 @@ http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
 #EXTINF:-1 ,НТВ (+2)
 http://94.230.128.107:8080/HTB/index.m3u8
 #EXTINF:-1 ,НТВ (+4)
-http://217.113.16.2/ntvplus4/index.m3u8
+#http://217.113.16.2/ntvplus4/index.m3u8
 #EXTINF:-1 ,НТВ Мир
-http://217.113.16.2/NTVMir/index.m3u8
-#https://streaming.goodstream.cyou/live/213.m3u8
+https://streaming.goodstream.cyou/live/213.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -71,7 +70,7 @@ http://130.193.73.10:8937/play/a00i
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+4)
-http://217.113.16.2/rentv/index.m3u8
+#http://217.113.16.2/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://109.248.236.51/ren/mono.m3u8
 #http://213.91.178.133:8000/play/a0ax
@@ -108,7 +107,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v4
 #EXTINF:-1 ,Москва. Доверие
 http://195.49.206.244:90/Doverie/mono.m3u8?token=video
 #EXTINF:-1 ,Ностальгия
-http://217.113.16.2/Nostalgia/index.m3u8
+#http://217.113.16.2/Nostalgia/index.m3u8
 #EXTINF:-1 ,Ностальгия
 http://213.91.178.133:8000/play/a07r
 #EXTINF:-1 ,Ретро ТВ
@@ -218,7 +217,7 @@ https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ (+4)
-http://217.113.16.2/tnt/index.m3u8
+#http://217.113.16.2/tnt/index.m3u8
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
@@ -294,7 +293,7 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,Авто 24
 http://109.248.236.51/avto24/mono.m3u8
 #EXTINF:-1 ,Авто Плюс
-http://217.113.16.2/Avtoplus/index.m3u8
+#http://217.113.16.2/Avtoplus/index.m3u8
 #EXTINF:-1 ,Авто Плюс
 http://109.248.236.51/avtoplus/mono.m3u8
 #EXTINF:-1 ,Драйв
@@ -420,7 +419,7 @@ http://95.67.12.81:10619
 #EXTINF:-1 ,H2
 http://95.67.12.81:10620
 #EXTINF:-1 ,История
-http://217.113.16.2/Istoria/index.m3u8
+#http://217.113.16.2/Istoria/index.m3u8
 #EXTINF:-1 ,Приключения
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s99/04.m3u8
@@ -578,8 +577,6 @@ http://195.49.206.244:90/TV21/mono.m3u8?token=video
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,Кинохит
 http://109.248.236.51/kinohit/mono.m3u8
-#EXTINF:-1 ,КиноХит
-http://217.113.16.2/KinoxitHD/index.m3u8
 #EXTINF:-1 ,Киномикс
 #http://217.113.16.2/kinomix/index.m3u8
 #EXTINF:-1 ,Кинозал
@@ -592,12 +589,10 @@ http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 tvg-id="ATVKinoman.am" tvg-name="kinoman" tvg-logo="https://i.imgur.com/lidNHkH.png" ,Kinoman
 #http://217.113.16.2/Kinoman/index.m3u8
-#EXTINF:-1 ,Star Cinema
-http://217.113.16.2/starsinema/index.m3u8
 #EXTINF:-1 ,Kinowood
 http://193.27.209.122/kinowood/index.m3u8
 #EXTINF:-1 ,HollywooD
-http://217.113.16.2/hollywood/index.m3u8
+#http://217.113.16.2/hollywood/index.m3u8
 #EXTINF:-1 ,BollywooD
 http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 ,Индийское кино
@@ -690,7 +685,8 @@ http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Боец
-http://217.113.16.2/match-boec/index.m3u8
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://87.120.142.11:18000/Match
 #EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 2
