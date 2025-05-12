@@ -24,7 +24,11 @@ http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
 #EXTINF:-1 ,НТВ (+2)
 http://94.230.128.107:8080/HTB/index.m3u8
 #EXTINF:-1 ,НТВ (+4)
-#http://217.113.16.2/ntvplus4/index.m3u8
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ (+7)
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Мир
 https://streaming.goodstream.cyou/live/213.m3u8
 #EXTINF:-1 ,НТВ Право
