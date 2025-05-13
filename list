@@ -73,7 +73,7 @@ http://130.193.73.10:8937/play/a00i
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+4)
-#http://217.113.16.2/rentv/index.m3u8
+http://217.113.16.2/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://109.248.236.51/ren/mono.m3u8
 #http://213.91.178.133:8000/play/a0ax
