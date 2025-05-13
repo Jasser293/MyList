@@ -18,11 +18,13 @@ http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+#EXTINF:-1 ,НТВ (+1)
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://cdn.ntv.ru/ntv1/mono.m3u8
 #EXTINF:-1 ,НТВ (+2)
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
-#EXTINF:-1 ,НТВ (+2)
-http://94.230.128.107:8080/HTB/index.m3u8
+http://cdn2.ntv.ru/ntv2/tracks-v1a1/mono.m3u8
+#http://94.230.128.107:8080/HTB/index.m3u8
 #EXTINF:-1 ,НТВ (+4)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
@@ -273,7 +275,7 @@ http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний
 #
 #EXTINF:-1 ,Домашний (+4)
-http://api.peers.tv/timeshift/domashny/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDcxMTk2MjEsImlhdCI6MTc0NzAzMzIyMSwiY2lkIjo2LCJ1aWQiOjkxNTgwMDk2NywicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.HjYqBqliON-7mFMz9gWQyQ1VaYY05gYXleNyJr2pG44&offset=10
+http://api.peers.tv/timeshift/domashny/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDcxNjI2NTQsImlhdCI6MTc0NzA3NjI1NCwiY2lkIjo2LCJ1aWQiOjkxNTk1MTE3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.ehwi_JQKfOyUIAUap8-d75lZIFaCPn5pbLE07OF2Q2Y&offset=10
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
@@ -355,13 +357,13 @@ http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDcxMTk2MjEsImlhdCI6MTc0NzAzMzIyMSwiY2lkIjo2LCJ1aWQiOjkxNTgwMDk2NywicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.HjYqBqliON-7mFMz9gWQyQ1VaYY05gYXleNyJr2pG44&offset=10
+http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDcxNjI2NTQsImlhdCI6MTc0NzA3NjI1NCwiY2lkIjo2LCJ1aWQiOjkxNTk1MTE3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.ehwi_JQKfOyUIAUap8-d75lZIFaCPn5pbLE07OF2Q2Y&offset=10
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
 #EXTINF:-1 ,Аппетитный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/rhhZusLyIPGlBl7XBqrOXQ,1747083630/streaming/appetitniy/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/q_9CszMnA5z4F21SobxH-w,1747170022/streaming/appetitniy/324/1/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
