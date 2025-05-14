@@ -9,9 +9,6 @@ http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
 #http://195.26.83.96:7013/play/12/index.m3u8
-#EXTINF:-1, Первый Канал (+4)
-#EXTVLCOPT:network-caching=1000
-http://109.200.130.123:7055/play/a01c
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s14/04.m3u8
@@ -367,9 +364,6 @@ http://185.50.148.2:7703/Motorsport/index.m3u8
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня ТВ
 http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDcyOTI0MDcsImlhdCI6MTc0NzIwNjAwNywiY2lkIjo2LCJ1aWQiOjkxNjM2NjEwNywicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.cs8EJ4kB0FkRXKDYchAiT4X2lzcABzKo_aKxM_YvDKs&offset=10
-#EXTINF:-1 ,Кухня
-#EXTVLCOPT:network-caching=1000
-http://31.173.165.29:8000/play/a05g/index.m3u8
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
@@ -398,8 +392,6 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Кто есть кто
 http://185.50.148.2:7711/Ktoestkto/index.m3u8
-#EXTINF:-1 ,Кто есть кто
-http://31.173.165.29:8000/play/a05f/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
 #EXTINF:-1 ,Вопросы и ответы
@@ -677,11 +669,11 @@ http://95.67.12.82:9046
 #EXTINF:-1 tvg-id="Kinoliving.ru" tvg-name="kino living" tvg-logo="https://i.imgur.com/9XJcmBY.png" ,KINO LIVING
 http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 ,Eurosport 1
+http://193.27.209.122/eurosport1/index.m3u8
+#EXTINF:-1 ,Eurosport 1
 http://109.248.236.51/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 ,Eurosport 1
-http://193.27.209.122/eurosport1/index.m3u8
+#http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://193.27.209.122/eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
