@@ -367,6 +367,9 @@ http://185.50.148.2:7703/Motorsport/index.m3u8
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня
 #EXTVLCOPT:network-caching=3000
+http://178.124.152.238:8088/kuhnya
+#EXTINF:-1 ,Кухня
+#EXTVLCOPT:network-caching=3000
 http://31.173.165.29:8000/play/a05g/index.m3u8
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
