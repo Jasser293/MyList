@@ -355,6 +355,8 @@ http://91.247.68.229:8000/play/Lapki/index.m3u8
 http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 #EXTINF:-1 ,Доктор
 http://130.193.73.10:8937/play/a01q
+#EXTINF:-1 ,Доктор
+http://109.200.130.123:7055/play/a01k
 #EXTINF:-1 ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Живи
