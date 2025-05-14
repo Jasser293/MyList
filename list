@@ -95,7 +95,7 @@ http://salam-spbsedpakt-93.rutube.ru/dive/river-3-327.rutube.ru/5bgu00AACaHctFuZ
 #EXTINF:-1 ,Твой 2007
 http://salam-spbsedpakt-93.rutube.ru/dive/river-5-527.rutube.ru/Ahes1ZNmkEnpVahYfE2XmA/stream/genetta-325.m9.rutube.ru/PGZzyFjv-mJGyqPmUl-ezQ/1747511261/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
 #EXTINF:-1 ,Кино и жизнь
-http://salam-spbsedpakt-93.rutube.ru/dive/river-3-318.rutube.ru/NYm941B11H7POVsk4zKfVQ/stream/genetta-520.ost.rutube.ru/n2WoHZkBTiYAU_CSF_7LFw/1747511284/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+https://salam-mskth-16.rutube.ru/dive/river-3-318.rutube.ru/5YeIJeb2omgaX35kdoLmAw/stream/genetta-311.m9.rutube.ru/c11aFhlt5ITu3WXueKcfSw/1747838581/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/IHB5wKdWEBLLBQ9QRhYSiw/stream/genetta-313.m9.rutube.ru/X9bEFcjAhSYA7G5387SITg/1747594466/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
@@ -208,7 +208,10 @@ http://112.72.4.116/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,Перец
 http://213.91.178.133:8000/play/a0ay
 #EXTINF:-1 ,КВН ТВ
-http://178.212.71.253:8000/play/119/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://109.200.130.123:7055/play/a012
+#EXTINF:-1 ,КВН ТВ
+#http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:-1 ,Gags Network
 http://95.67.12.82:9069
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
