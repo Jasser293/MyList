@@ -80,7 +80,6 @@ http://94.230.128.107:8080/PEH_TB/index.m3u8
 http://217.113.16.2/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://109.248.236.51/ren/mono.m3u8
-#http://213.91.178.133:8000/play/a0ax
 #EXTINF:-1 ,Рен ТВ International
 http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -114,9 +113,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v4
 #EXTINF:-1 ,Москва. Доверие
 http://195.49.206.244:90/Doverie/mono.m3u8?token=video
 #EXTINF:-1 ,Ностальгия
-#http://217.113.16.2/Nostalgia/index.m3u8
-#EXTINF:-1 ,Ностальгия
-http://213.91.178.133:8000/play/a07r
+http://217.113.16.2/Nostalgia/index.m3u8
 #EXTINF:-1 ,Ретро ТВ
 http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 ,Аист ТВ
@@ -199,14 +196,14 @@ http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
-http://213.91.178.133:8000/play/a0b4
+#http://213.91.178.133:8000/play/a0b4
 #EXTINF:-1 ,ЦТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s20/03.m3u8
 #EXTINF:-1 ,Перец
 http://112.72.4.116/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,Перец
-http://213.91.178.133:8000/play/a0ay
+http://112.72.4.109/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,КВН ТВ
 #EXTVLCOPT:network-caching=3000
 http://109.200.130.123:7055/play/a012
@@ -285,8 +282,6 @@ http://130.193.73.10:8937/play/a008
 http://api.peers.tv/timeshift/domashny/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDczMzU1NTgsImlhdCI6MTc0NzI0OTE1OCwiY2lkIjo2LCJ1aWQiOjkxNjUwODk5MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.ttWn6vigpdmOWoeSpssNpNg-eW56qmvxfeJhskaXV-g&offset=10
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://109.248.236.51/domashniy/mono.m3u8
-#EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
-http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
 http://salam-mskth-35.rutube.ru/dive/river-3-336.rutube.ru/gZA-DQkhQ56rsdktnda-UQ/stream/genetta-318.m9.rutube.ru/UPUQq9AAAatgU3EZdFW1EQ/1747886650/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -536,8 +531,6 @@ http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
 http://195.49.206.244:90/Teatr/mono.m3u8?token=video
-#EXTINF:-1 ,Калейдоскоп ТВ
-http://213.91.178.133:8000/play/a0aw
 #EXTINF:-1 ,Сапфир
 http://135.181.115.81:8000/play/a03f/index.m3u8?token=livetv
 #EXTINF:-1 ,Сапфир
