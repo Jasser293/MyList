@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://salam-spbsedpakt-93.rutube.ru/dive/river-5-552.rutube.ru/LRIELAe3EN40nwDqmS6kFg/stream/genetta-303.m9.rutube.ru/W0AZmpbQZlkMqpc9fXmTsg/1747511144/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://salam-mskth-46.rutube.ru/dive/river-5-543.rutube.ru/NmpcQqo87Q9_C0Vu29MKuA/stream/genetta-303.m9.rutube.ru/tph4sMv7LTuO3X7Wc6KB3Q/1747886395/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://river-mskostrtk-543.rutube.ru/stream/genetta-303.m9.rutube.ru/dszTlW6JoUaxwtaKQGY71w/1747511875/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
@@ -61,7 +61,7 @@ http://87.120.142.11:18000/RossiyaK
 #EXTINF:-1 ,Запад 24
 http://dmi3y-tv.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
 #EXTINF:-1 tvg-id="LenTV24.ru" tvg-name="лентв24" tvg-logo="https://i.imgur.com/d02uxkB.png" ,ЛЕНТВ24
-http://salam-mskugr-11.rutube.ru/dive/river-3-338.rutube.ru/i_vnB9VAPHqeg4RUmisjWw/stream/genetta-513.ost.rutube.ru/WGgzaKJKgAVjlel_FLYCWw/1747642856/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-513.ost.rutube.ru/eX2CPbgM-VlVAujT8p8Pog/1747886468/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
 #EXTINF:-1 ,РТР Планета
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s15/index.m3u8
@@ -97,7 +97,7 @@ http://salam-spbsedpakt-93.rutube.ru/dive/river-5-527.rutube.ru/Ahes1ZNmkEnpVahY
 #EXTINF:-1 ,Кино и жизнь
 https://salam-mskth-16.rutube.ru/dive/river-3-318.rutube.ru/5YeIJeb2omgaX35kdoLmAw/stream/genetta-311.m9.rutube.ru/c11aFhlt5ITu3WXueKcfSw/1747838581/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/IHB5wKdWEBLLBQ9QRhYSiw/stream/genetta-313.m9.rutube.ru/X9bEFcjAhSYA7G5387SITg/1747594466/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+https://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/F7_7Mfvbs2W2GbkwsknVlQ/stream/genetta-313.m9.rutube.ru/wgu-xTxKJ0BIErB3nU8tAQ/1747886566/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-spbcvt-14.rutube.ru/dive/river-5-520.rutube.ru/DAfBeXVshty9OhGtq6ovIA/stream/genetta-313.m9.rutube.ru/Ik00JIeetLgmNyR-4Ehlww/1747594721/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Comedy Hub
@@ -288,7 +288,7 @@ http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
-http://salam-spbsedpakt-93.rutube.ru/dive/river-5-511.rutube.ru/9gXv78poyTJWjuR9pg-uqQ/stream/genetta-318.m9.rutube.ru/EvaYOEXYENcJ7pT_xQNuSg/1747511559/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+http://salam-mskth-35.rutube.ru/dive/river-3-336.rutube.ru/gZA-DQkhQ56rsdktnda-UQ/stream/genetta-318.m9.rutube.ru/UPUQq9AAAatgU3EZdFW1EQ/1747886650/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://195.49.206.244:90/Pyatnica/mono.m3u8?token=video
 #EXTINF:-1 ,ПЯТНИЦА (+2)
