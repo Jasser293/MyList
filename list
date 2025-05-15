@@ -485,8 +485,6 @@ http://130.193.73.10:8937/play/a04s
 #EXTVLCOPT:network-caching=3000
 http://45.133.106.36/dikayaoxota/index.m3u8
 #EXTINF:-1 ,TERRA
-http://109.200.130.123:7537/play/a02i
-#EXTINF:-1 ,TERRA
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
@@ -543,7 +541,7 @@ http://213.91.178.133:8000/play/a0aw
 #EXTINF:-1 ,Сапфир
 http://135.181.115.81:8000/play/a03f/index.m3u8?token=livetv
 #EXTINF:-1 ,Сапфир
-http://109.200.130.123:7537/play/a028
+http://109.200.130.123:7055/play/a00z
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=video
 #EXTINF:-1 ,2x2
@@ -551,7 +549,8 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,Дом Кино
 https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,КИНЕКО
-http://109.200.130.123:7537/play/a027
+#EXTVLCOPT:network-caching=3000
+http://217.113.16.2/kineko/index.m3u8
 #EXTINF:-1 ,Еврокино
 http://87.120.142.11:18000/STSLove
 #EXTINF:-1 ,Viasat Kino World
@@ -638,7 +637,7 @@ http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
-http://109.200.130.123:7537/play/a023
+http://130.193.73.10:8937/play/a03m
 #EXTINF:-1 ,Русский иллюзион (+2)
 http://109.248.236.51/russkiy_illusion/mono.m3u8
 #EXTINF:-1 ,Русский роман
@@ -673,8 +672,6 @@ http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
 https://v2.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
-#EXTINF:-1 tvg-id="Kinoliving.ru" tvg-name="kino living" tvg-logo="https://i.imgur.com/9XJcmBY.png" ,KINO LIVING
-http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 ,Eurosport 1
 http://193.27.209.122/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 1
@@ -747,7 +744,7 @@ http://92.43.140.249/s59/04.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s58/04.m3u8
 #EXTINF:-1 ,В гостях у сказки
-http://109.200.130.123:7537/play/a02m
+http://130.193.73.10:8937/play/a0b2
 #EXTINF:-1 ,КиноКазка
 http://95.67.12.82:9084
 #EXTINF:-1 ,Карусель
