@@ -785,5 +785,6 @@ https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 #EXTINF:0,Первый канал СНГ
+#EXTVLCOPT:http-user-agent=Donate BTC
 #EXTVLCOPT:network-caching=3000
 http://92.43.140.249/s14/04.m3u8
