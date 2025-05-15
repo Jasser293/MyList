@@ -265,10 +265,10 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
 http://130.193.73.10:8937/play/a01v
 #EXTINF:-1 ,Че!
+http://130.193.73.10:8937/play/a025
+#EXTINF:-1 ,Че!
 #EXTVLCOPT:network-caching=3000
 http://109.200.130.123:7055/play/a01b
-#EXTINF:-1 ,Че!
-http://130.193.73.10:8937/play/a025
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Ю
@@ -282,7 +282,7 @@ http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний
 #
 #EXTINF:-1 ,Домашний (+4)
-http://api.peers.tv/timeshift/domashny/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDcyOTI0MDcsImlhdCI6MTc0NzIwNjAwNywiY2lkIjo2LCJ1aWQiOjkxNjM2NjEwNywicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.cs8EJ4kB0FkRXKDYchAiT4X2lzcABzKo_aKxM_YvDKs&offset=10
+http://api.peers.tv/timeshift/domashny/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDczMzU1NTgsImlhdCI6MTc0NzI0OTE1OCwiY2lkIjo2LCJ1aWQiOjkxNjUwODk5MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.ttWn6vigpdmOWoeSpssNpNg-eW56qmvxfeJhskaXV-g&offset=10
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
@@ -370,13 +370,13 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Кухня
 #EXTVLCOPT:network-caching=3000
-http://31.173.165.29:8000/play/a05g/index.m3u8
+http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDczMzU1NTgsImlhdCI6MTc0NzI0OTE1OCwiY2lkIjo2LCJ1aWQiOjkxNjUwODk5MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.ttWn6vigpdmOWoeSpssNpNg-eW56qmvxfeJhskaXV-g&offset=10
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
 #EXTINF:-1 ,Аппетитный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/oBJAqEFERFMrVRVeH0nWAg,1747256422/streaming/appetitniy/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/IkfaOrLtjbDELiKCvdlfDA,1747342823/streaming/appetitniy/324/1/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
