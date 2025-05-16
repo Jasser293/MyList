@@ -198,7 +198,8 @@ http://188.187.96.24:81/udp/235.10.10.12:1234
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
-#http://213.91.178.133:8000/play/a0b4
+#EXTVLCOPT:network-caching=3000
+http://213.91.178.133:8000/play/a0b4
 #EXTINF:-1 ,ЦТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s20/03.m3u8
@@ -780,6 +781,3 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:0,Первый канал СНГ
-#EXTVLCOPT:http-user-agent=Donate BTC,network-caching=3000
-http://92.43.140.249/s14/04.m3u8
