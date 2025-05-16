@@ -180,7 +180,7 @@ http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 aspect-ratio="4:3" ,Оружие
+#EXTINF:-1 ,Оружие
 http://109.248.236.51/oruzhie/mono.m3u8
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -424,10 +424,11 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,Travel XP
 http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.ru" tvg-name="discovery channel" audio-track="rus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" ,Discovery Channel
+#EXTINF:-1,Discovery Channel
+#EXTVLCOPT:network-caching=1000
 http://45.133.106.36/discovery/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://45.133.106.36/tlc/index.m3u8
 #http://217.113.16.2/tlc/index.m3u8
 #EXTINF:-1 ,Animal Planet
