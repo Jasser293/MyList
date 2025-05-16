@@ -422,7 +422,7 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,Travel XP
 http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Discovery Channel
+#EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=3000
 http://45.133.106.36/discovery/index.m3u8
 #http://217.113.16.2/discovery/index.m3u8
@@ -434,12 +434,13 @@ http://45.133.106.36/tlc/index.m3u8
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:-1 ,History
+#EXTINF:0,,History
 http://95.67.12.81:10619
 #EXTINF:-1 ,H2
 http://95.67.12.81:10620
 #EXTINF:-1 ,История
-#http://217.113.16.2/Istoria/index.m3u8
+#EXTVLCOPT:network-caching=3000
+http://217.113.16.2/Istoria/index.m3u8
 #EXTINF:-1 ,Приключения
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s99/04.m3u8
