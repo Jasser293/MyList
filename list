@@ -31,7 +31,6 @@ http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Мир
 https://streaming.goodstream.cyou/live/213.m3u8
 #EXTINF:0,НТВ Мир
-#EXTVLCOPT:network-caching=3000
 http://45.133.106.36/NTVMir/index.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -192,13 +191,11 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
-#EXTINF:0,Пятый канал
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 ,Пятый канал
 http://188.187.96.24:81/udp/235.10.10.12:1234
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
-#EXTVLCOPT:network-caching=3000
 http://213.91.178.133:8000/play/a0b4
 #EXTINF:-1 ,ЦТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -208,10 +205,7 @@ http://112.72.4.116/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,Перец
 http://112.72.4.109/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 ,КВН ТВ
-#EXTVLCOPT:network-caching=3000
 http://109.200.130.123:7055/play/a012
-#EXTINF:-1 ,КВН ТВ
-#http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:-1 ,Gags Network
 http://95.67.12.82:9069
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
@@ -226,8 +220,6 @@ http://195.49.206.244:90/TNT/mono.m3u8?token=video
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
-#EXTINF:-1 ,ТНТ (+4)
-#http://217.113.16.2/tnt/index.m3u8
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
@@ -267,7 +259,6 @@ http://130.193.73.10:8937/play/a01v
 #EXTINF:-1 ,Че!
 http://130.193.73.10:8937/play/a025
 #EXTINF:-1 ,Че!
-#EXTVLCOPT:network-caching=3000
 http://109.200.130.123:7055/play/a01b
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
@@ -280,7 +271,6 @@ http://194.143.148.28:8080/U/index.m3u8
 #EXTINF:-1 ,Домашний
 http://130.193.73.10:8937/play/a008
 #EXTINF:-0,Домашний
-#EXTVLCOPT:network-caching=3000
 http://178.163.16.150:4022/udp/234.0.0.191:2000
 #EXTINF:-1 ,Домашний (+4)
 http://api.peers.tv/timeshift/domashny/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc0NjU5MjAsImlhdCI6MTc0NzM3OTUyMCwiY2lkIjo2LCJ1aWQiOjkxNjkxNTMyMywicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.i-oLygrmZrTJOOJZ1bUH06kGAYLr5Q-r0pSkS5A8GWA&offset=10
@@ -305,7 +295,7 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,Авто 24
 http://109.248.236.51/avto24/mono.m3u8
 #EXTINF:-1 ,Авто Плюс
-#http://217.113.16.2/Avtoplus/index.m3u8
+http://45.133.106.36/Avtoplus/index.m3u8
 #EXTINF:-1 ,Авто Плюс
 http://109.248.236.51/avtoplus/mono.m3u8
 #EXTINF:-1 ,Драйв
@@ -365,10 +355,8 @@ http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня
-#EXTVLCOPT:network-caching=3000
 http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc0NjU5MjAsImlhdCI6MTc0NzM3OTUyMCwiY2lkIjo2LCJ1aWQiOjkxNjkxNTMyMywicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.i-oLygrmZrTJOOJZ1bUH06kGAYLr5Q-r0pSkS5A8GWA&offset=10
 #EXTINF:-1 ,Кухня
-#EXTVLCOPT:network-caching=3000
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -424,13 +412,10 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,Travel XP
 http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Discovery Channel
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,Discovery Channel
 http://45.133.106.36/discovery/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
-#EXTVLCOPT:network-caching=1000
 http://45.133.106.36/tlc/index.m3u8
-#http://217.113.16.2/tlc/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 ,Galaxy
@@ -440,7 +425,6 @@ http://95.67.12.81:10619
 #EXTINF:-1 ,H2
 http://95.67.12.81:10620
 #EXTINF:-1 ,История
-#EXTVLCOPT:network-caching=3000
 http://217.113.16.2/Istoria/index.m3u8
 #EXTINF:-1 ,Приключения
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -483,7 +467,6 @@ http://salam-smr-53.rutube.ru/dive/river-3-346.rutube.ru/-xGzReN5VN0jw4hhOOeJIw/
 #EXTINF:-1 ,Дикий
 http://130.193.73.10:8937/play/a04s
 #EXTINF:-1 ,Дикая Охота
-#EXTVLCOPT:network-caching=3000
 http://45.133.106.36/dikayaoxota/index.m3u8
 #EXTINF:-1 ,TERRA
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
@@ -542,7 +525,6 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,Дом Кино
 https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,КИНЕКО
-#EXTVLCOPT:network-caching=3000
 http://217.113.16.2/kineko/index.m3u8
 #EXTINF:-1 ,Еврокино
 http://87.120.142.11:18000/STSLove
@@ -597,17 +579,12 @@ http://109.248.236.51/kinohit/mono.m3u8
 http://185.57.68.33/237/mpegts
 #EXTINF:-1 ,Кино ТВ
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кино ТВ
-#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 ,Кино ТВ
 http://217.113.16.2/kinotvhd/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="Фильмы",Cinema
 http://185.46.48.18/cinema/index.m3u8
-#EXTINF:-1 tvg-id="ATVKinoman.am" tvg-name="kinoman" tvg-logo="https://i.imgur.com/lidNHkH.png" ,Kinoman
-#http://217.113.16.2/Kinoman/index.m3u8
 #EXTINF:-1 ,Kinowood
 http://193.27.209.122/kinowood/index.m3u8
-#EXTINF:-1 ,HollywooD
-#http://217.113.16.2/hollywood/index.m3u8
 #EXTINF:-1 ,BollywooD
 http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 ,Индийское кино
@@ -689,8 +666,6 @@ http://94.230.250.141:8080/machtv/index.m3u8
 http://195.49.206.244:90/Arena/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! ИГРА
 http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
-#http://95.216.40.210/nashfootball/mono.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Боец
