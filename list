@@ -31,7 +31,7 @@ http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Мир
 https://streaming.goodstream.cyou/live/213.m3u8
 #EXTINF:0,НТВ Мир
-http://45.133.106.36/NTVMir/index.m3u8
+http://45.143.108.110:2200/ntvmir
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -273,7 +273,7 @@ http://130.193.73.10:8937/play/a008
 #EXTINF:-0,Домашний
 http://178.163.16.150:4022/udp/234.0.0.191:2000
 #EXTINF:-1 ,Домашний (+4)
-http://api.peers.tv/timeshift/domashny/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc0NjU5MjAsImlhdCI6MTc0NzM3OTUyMCwiY2lkIjo2LCJ1aWQiOjkxNjkxNTMyMywicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.i-oLygrmZrTJOOJZ1bUH06kGAYLr5Q-r0pSkS5A8GWA&offset=10
+http://45.143.108.110:2200/domashni
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -355,7 +355,7 @@ http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня
-http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc0NjU5MjAsImlhdCI6MTc0NzM3OTUyMCwiY2lkIjo2LCJ1aWQiOjkxNjkxNTMyMywicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.i-oLygrmZrTJOOJZ1bUH06kGAYLr5Q-r0pSkS5A8GWA&offset=10
+http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc1MDgyODcsImlhdCI6MTc0NzQyMTg4NywiY2lkIjo2LCJ1aWQiOjkxNzAzNTI4NCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.L8piBbgaUiV6fJ6kg2U2wGQe9uekzcjeVWGLYSTVmdY&offset=10
 #EXTINF:-1 ,Кухня
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Food Network
