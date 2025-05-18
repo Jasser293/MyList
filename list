@@ -422,9 +422,11 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,Travel XP
 http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Discovery Channel
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
 http://217.113.16.2/discovery/index.m3u8
-#EXTINF:-1 ,Discovery Channel
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=100
 http://45.133.106.36/discovery/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
 http://217.113.16.2/tlc/index.m3u8
@@ -480,7 +482,8 @@ http://salam-ptg-100.rutube.ru/dive/river-3-346.rutube.ru/-7CszbO-ONvv8I-NZtD8IQ
 http://river-1.rutube.ru/stream/genetta-301.m9.rutube.ru/x3n1VFKIgwBgWu5C-HENEA/1748102015/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 ,Дикая Охота
+#EXTINF:0,Дикая Охота
+#EXTVLCOPT:network-caching=100
 http://45.133.106.36/dikayaoxota/index.m3u8
 #EXTINF:-1 ,TERRA
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
@@ -691,8 +694,7 @@ http://217.113.16.2/match-igra/index.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Боец
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://87.120.142.11:18000/Match
+http://130.193.73.10:8937/play/a04k
 #EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 2
