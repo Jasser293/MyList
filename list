@@ -268,6 +268,8 @@ http://195.49.206.244:90/U/mono.m3u8?token=video
 http://109.248.236.51/u/mono.m3u8
 #EXTINF:-1 ,Ю
 http://194.143.148.28:8080/U/index.m3u8
+#EXTINF:-1 ,Домашний
+http://195.49.206.244:90/Domashni/mono.m3u8?token=video
 #EXTINF:-0,Домашний
 http://178.212.236.3:8802/play/m2_26
 #EXTINF:-1 ,Домашний
@@ -355,7 +357,7 @@ http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня
-http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc1NTE2ODUsImlhdCI6MTc0NzQ2NTI4NSwiY2lkIjo2LCJ1aWQiOjkxNzE1MTc5MiwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.doDmyfsUqY_422zfv0Eja69EbrqtrLt6WMvrcoZDtHw&offset=10
+http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc1OTQ1OTMsImlhdCI6MTc0NzUwODE5MywiY2lkIjo2LCJ1aWQiOjkxNzI3ODI2OSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.AzNUqLaG_3yvXLAmD_JWbQPKB7OTXMejms9wqPSARoc&offset=10
 #EXTINF:-1 ,Кухня
 http://178.124.152.238:8088/kuhnya
 #EXTINF:-1 ,Food Network
