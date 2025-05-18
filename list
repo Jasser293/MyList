@@ -12,6 +12,8 @@ http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s14/04.m3u8
+#EXTINF:-1 ,Первый канал Евразия
+http://89.106.234.5/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
