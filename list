@@ -31,7 +31,8 @@ http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Мир
-https://streaming.goodstream.cyou/live/213.m3u8
+http://109.248.236.51/ntv_mir/tracks-v1a1/mono.m3u8
+#https://streaming.goodstream.cyou/live/213.m3u8
 #EXTINF:0,НТВ Мир
 http://45.143.108.110:2200/ntvmir
 #EXTINF:-1 ,НТВ Право
@@ -426,6 +427,8 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,Travel XP
 http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Discovery Channel
+http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=1000
 http://217.113.16.2/discovery/index.m3u8
