@@ -348,6 +348,8 @@ http://185.57.68.14/40/mpegts
 http://salam-ptg-100.rutube.ru/dive/river-3-334.rutube.ru/BLjIMDiiQR4l8ArDm2-MbA/stream/genetta-301.m9.rutube.ru/mp97yGmpmdR9lPNbvzT3Hg/1748101478/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Загородный Int
 http://salam-kry-34.rutube.ru/dive/river-3-334.rutube.ru/x3n1VFKIgwBgWu5C-HENEA/stream/genetta-301.m9.rutube.ru/21-1ss5HKfL99KbCTC3VLA/1748102015/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+#EXTINF:-1 aspect-ratio="16:9",Загородный
+http://109.248.236.51/zagorodniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Загородный
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s31/04.m3u8
@@ -371,7 +373,7 @@ http://185.50.148.2:7703/Motorsport/index.m3u8
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня
 http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc2ODEzNTcsImlhdCI6MTc0NzU5NDk1NywiY2lkIjo2LCJ1aWQiOjkxNzUxODcwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.CW4-M8KAafB5CrzlcN8yNtN80r3Y0QVRYYVCw5_kajg&offset=10
-#EXTINF:-1 ,Кухня
+#EXTINF:-1 aspect-ratio="16:9",Кухня
 http://109.248.236.51/kuhnya_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
