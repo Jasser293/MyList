@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE" aspect-ratio="16:9"
 #EXTINF:-1 ,Первый канал
 http://river-mskostrtk-543.rutube.ru/stream/genetta-303.m9.rutube.ru/Dq2rvAfOFlTYQWoOPd_ZQg/1748101843/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
