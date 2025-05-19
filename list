@@ -433,16 +433,16 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
 #EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=1000
-http://217.113.16.2/discovery/index.m3u8
-#EXTINF:-1 ,Discovery Channel
+#http://217.113.16.2/discovery/index.m3u8
+#EXTINF:-1 ,Discovery Channel (-1)
 http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=100
 #http://45.133.106.36/discovery/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
-http://217.113.16.2/tlc/index.m3u8
+#http://217.113.16.2/tlc/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
-http://45.133.106.36/tlc/index.m3u8
+#http://45.133.106.36/tlc/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 ,Galaxy
@@ -793,3 +793,12 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 ,Дикая охота HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/FiSfL07fcVyXieRoa5OMzA,1747688411/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Рыболов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/bZYYyZZ8a_KG7Id4u7btJw,1747688411/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Дикая рыбалка HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/fuHspa69oZW4DuusOwR1pw,1747688411/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
