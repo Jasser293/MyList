@@ -9,6 +9,8 @@ http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
 #http://195.26.83.96:7013/play/12/index.m3u8
+#EXTINF:0,Первый Канал (+4)
+http://109.200.130.123:7055/play/a01c
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s14/04.m3u8
@@ -507,6 +509,8 @@ http://217.113.16.2/dikayaoxota/index.m3u8
 #http://45.133.106.36/dikayaoxota/index.m3u8
 #EXTINF:-1 ,TERRA
 http://130.193.73.10:8937/play/a01g
+#EXTINF:-1 ,TERRA
+http://109.200.130.123:7055/play/a01f
 #EXTINF:-1 ,Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,1HD
