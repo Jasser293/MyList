@@ -372,8 +372,6 @@ http://185.50.148.2:7703/Motorsport/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня
-http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc3MjQ0OTMsImlhdCI6MTc0NzYzODA5MywiY2lkIjo2LCJ1aWQiOjkxNzYwNDgzNSwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.bqf_wCS8HSusG2Uh_VbTUooQ2RplkRy7Q91X1Of4UzI&offset=10
-#EXTINF:-1 ,Кухня
 http://109.248.236.51/kuhnya_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кухня
 http://178.124.152.238:8088/kuhnya
@@ -382,7 +380,7 @@ http://178.124.152.238:8088/kuhnya
 http://92.43.140.249/s18/04.m3u8
 #EXTINF:-1 ,Аппетитный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/x-CgNa-D4JTCM6IIwHlpig,1747688426/streaming/appetitniy/324/1/index.m3u8
+#https://mhd128.iptv2022.com/p/x-CgNa-D4JTCM6IIwHlpig,1747688426/streaming/appetitniy/324/1/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
@@ -495,16 +493,13 @@ http://river-1.rutube.ru/stream/genetta-301.m9.rutube.ru/x3n1VFKIgwBgWu5C-HENEA/
 http://130.193.73.10:8937/play/a04s
 #EXTINF:-1 ,Дикая охота HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/FiSfL07fcVyXieRoa5OMzA,1747688411/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Рыболов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/bZYYyZZ8a_KG7Id4u7btJw,1747688411/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
+#https://mhd128.iptv2022.com/p/bZYYyZZ8a_KG7Id4u7btJw,1747688411/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/fuHspa69oZW4DuusOwR1pw,1747688411/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+#https://mhd128.iptv2022.com/p/fuHspa69oZW4DuusOwR1pw,1747688411/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
-#http://217.113.16.2/dikayaoxota/index.m3u8
+http://217.113.16.2/dikayaoxota/index.m3u8
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
 #http://45.133.106.36/dikayaoxota/index.m3u8
