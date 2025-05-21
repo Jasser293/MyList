@@ -99,7 +99,7 @@ http://salam-ptg-100.rutube.ru/dive/river-3-327.rutube.ru/tnQ4n1JDpNl5mquYUgwm8g
 #EXTINF:-1 ,Твой 2007
 http://salam-ptg-100.rutube.ru/dive/river-5-527.rutube.ru/NOWBCPbFOoRnK703gRx9vQ/stream/genetta-325.m9.rutube.ru/gw5grnMzjpfzYEQELoVcIQ/1748101113/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
 #EXTINF:-1 ,Кино и жизнь
-http://river-mskostrtk-532.rutube.ru/stream/genetta-311.m9.rutube.ru/00niyAnuOHaJmKCh-zb10w/1748101137/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+http://salam-vld-62.rutube.ru/dive/river-3-318.rutube.ru/xbrOs89W3TpJ__-jM-r1sQ/stream/genetta-302.m9.rutube.ru/k-LcWXr0nUxqx8QXP05-6w/1748421057/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-ptg-100.rutube.ru/dive/river-5-520.rutube.ru/OBudMyMxRLTqURgzyu50NA/stream/genetta-313.m9.rutube.ru/LDKFLgPoRJpVu_DnzdFUcg/1748101181/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
@@ -333,7 +333,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Усадьба
 http://195.49.206.244:90/Usadba/mono.m3u8?token=video
 #EXTINF:-1 ,Усадьба
-http://194.158.218.123:8880/Usadba/index.m3u8
+http://130.193.73.10:8937/play/a024
 #EXTINF:-1 ,Бобёр
 http://195.49.206.244:90/Bober/mono.m3u8?token=video
 #EXTINF:-1 ,Бобёр
@@ -364,7 +364,7 @@ http://109.200.130.123:7055/play/a01k
 #EXTINF:-1 ,Доктор
 http://45.143.108.110:2200/doctor
 #EXTINF:-1 ,Здоровое ТВ
-http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
+http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 ,Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
@@ -400,7 +400,7 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Кто есть кто
-http://185.50.148.2:7711/Ktoestkto/index.m3u8
+http://178.212.71.253:8000/play/132/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
 #EXTINF:-1 ,Вопросы и ответы
@@ -570,7 +570,7 @@ http://217.113.16.2/kineko/index.m3u8
 #EXTINF:-1 ,Еврокино
 http://87.120.142.11:18000/STSLove
 #EXTINF:-1 ,Viasat Kino World
-https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+http://ukr.ukrainske.tv/9987/tvainua/video.m3u8
 #EXTINF:-1 ,Видеокассета
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 ,Horror TV
