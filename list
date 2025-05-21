@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://river-mskostrtk-543.rutube.ru/stream/genetta-303.m9.rutube.ru/Dq2rvAfOFlTYQWoOPd_ZQg/1748101843/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://salam-smr-41.rutube.ru/dive/river-5-543.rutube.ru/KuiHXrD3JOwI7J1vrrOS_g/stream/genetta-303.m9.rutube.ru/HK3YVzJ1bufLk-dkyAFuoA/1748459880/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://salam-ptg-100.rutube.ru/dive/river-5-543.rutube.ru/4Rk1XeG_5Bra7Iphvbobdg/stream/genetta-303.m9.rutube.ru/qMKI23qAm-JqlzOVm2HIEw/1748100885/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
@@ -103,7 +103,7 @@ http://salam-vld-62.rutube.ru/dive/river-3-318.rutube.ru/xbrOs89W3TpJ__-jM-r1sQ/
 #EXTINF:-1 ,Кинолента 24
 http://salam-ptg-100.rutube.ru/dive/river-5-520.rutube.ru/OBudMyMxRLTqURgzyu50NA/stream/genetta-313.m9.rutube.ru/LDKFLgPoRJpVu_DnzdFUcg/1748101181/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-kry-34.rutube.ru/dive/river-5-520.rutube.ru/dLVQnFgNeJx9JSbaLy8H1w/stream/genetta-313.m9.rutube.ru/9_SoZul24UJ4CdnyE77CFA/1748101932/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+http://salam-smr-41.rutube.ru/dive/river-5-520.rutube.ru/KWaQpAzboijr5AWGe2qHVQ/stream/genetta-313.m9.rutube.ru/Rku8HIYx9lk9hgDl1Eq2ew/1748460050/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Comedy Hub
 http://salam-ptg-100.rutube.ru/dive/river-5-521.rutube.ru/374v0aoUUqOr0756fcuohA/stream/genetta-319.m9.rutube.ru/hkvSgMh-8x-s08tv1hGLOA/1748101217/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
