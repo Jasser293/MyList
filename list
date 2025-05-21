@@ -375,7 +375,7 @@ http://178.124.152.238:8088/kuhnya
 http://92.43.140.249/s18/04.m3u8
 #EXTINF:-1 ,Аппетитный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/aH68Ok8Qa3pC0_mE_pFz7w,1747861222/streaming/appetitniy/324/1/index.m3u8
+#https://mhd128.iptv2022.com/p/aH68Ok8Qa3pC0_mE_pFz7w,1747861222/streaming/appetitniy/324/1/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
@@ -486,18 +486,7 @@ http://salam-ptg-100.rutube.ru/dive/river-3-346.rutube.ru/-7CszbO-ONvv8I-NZtD8IQ
 http://river-1.rutube.ru/stream/genetta-301.m9.rutube.ru/x3n1VFKIgwBgWu5C-HENEA/1748102015/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 tvg-id="10060 group-title="Lime (VPN 🇷🇺)", Дикая охота HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/ZQBv8E12-Xx21GXrADjgKg,1747861209/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10157 group-title="Lime (VPN 🇷🇺)", Охотник и Рыболов HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/SP17rNFxhGzBHmDOXu3dsQ,1747861209/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10176 group-title="Lime (VPN 🇷🇺)", Рыболов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/uR1pY6l7frBLVTXdGRaunA,1747861209/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10179 group-title="Lime (VPN 🇷🇺)", Дикая рыбалка HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/4jRylhuLpWFhtKmBW1exsw,1747861209/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
 http://217.113.16.2/dikayaoxota/index.m3u8
