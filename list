@@ -118,9 +118,9 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v4
 #EXTINF:-1 ,Москва. Доверие
 http://195.49.206.244:90/Doverie/mono.m3u8?token=video
 #EXTINF:-1 ,Ностальгия
-http://217.113.16.2/Nostalgia/index.m3u8
+http://109.248.236.51/nostalgia/mono.m3u8
 #EXTINF:-1 ,Ретро ТВ
-http://194.158.218.123:8880/Retrotv/index.m3u8
+http://178.212.71.253:8000/play/90/index.m3u8
 #EXTINF:-1 ,Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 ,Неизвестная Россия
