@@ -702,9 +702,9 @@ http://193.27.209.122/eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://109.248.236.51/eurosport2/mono.m3u8
 #http://185.189.225.157/EuroSport2/index.m3u8
-TINF:-1 tvg-id="SetantaSports1.ru" tvg-name="setanta sports 1" tvg-logo="http://i.imgur.com/8ANUZAu.png" ,Setanta Sports 1
+TINF:-1:-1 ,tvg-id="SetantaSports1.ru" tvg-name="setanta sports 1" tvg-logo="http://i.imgur.com/8ANUZAu.png" ,Setanta Sports 1
 http://82.215.111.249/1263/mono.m3u8
-#EXTINF:-1 tvg-id="SetantaSports2.ru" tvg-name="setanta sports 2" tvg-logo="http://i.imgur.com/NOBACb6.png" ,Setanta Sports 2
+#EXTINF:-1 ,tvg-id="SetantaSports2.ru" tvg-name="setanta sports 2" tvg-logo="http://i.imgur.com/NOBACb6.png" ,Setanta Sports 2
 http://82.215.111.249/1264/mono.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://87.120.142.11:18000/Rossiya1
