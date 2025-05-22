@@ -91,11 +91,12 @@ http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 http://195.49.206.244:90/TVC/mono.m3u8?token=video
-#EXTINF:-1 ,ТВЦ (+2)
+#EXTINF:-1 ,ТВЦ
 http://82.215.111.249/1025/mono.m3u8
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
-#http://94.230.128.107:8080/OTP/index.m3u8
+#EXTINF:-1 ,ОТР
+http://94.230.128.107:8080/OTP/index.m3u8
 #EXTINF:-1 ,Rutube
 http://salam-ptg-100.rutube.ru/dive/river-3-327.rutube.ru/tnQ4n1JDpNl5mquYUgwm8g/stream/genetta-326.m9.rutube.ru/oOVwp7osKZJ911QSSq_EuQ/1748101080/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 ,Твой 2007
@@ -380,7 +381,7 @@ http://109.248.236.51/kuhnya_tv/tracks-v1a1/mono.m3u8
 http://92.43.140.249/s18/04.m3u8
 #EXTINF:-1 ,Аппетитный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/X-chSZLImGQpgM6O7ViN5A,1747947631/streaming/appetitniy/324/1/index.m3u8
+#https://mhd128.iptv2022.com/p/X-chSZLImGQpgM6O7ViN5A,1747947631/streaming/appetitniy/324/1/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
@@ -432,7 +433,7 @@ http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
 #EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=1000
 http://217.113.16.2/discovery/index.m3u8
-#EXTINF:-1 ,Discovery Channel (-1)
+#EXTINF:-1 ,Discovery Channel
 http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=100
@@ -491,18 +492,7 @@ http://salam-ptg-100.rutube.ru/dive/river-3-346.rutube.ru/-7CszbO-ONvv8I-NZtD8IQ
 http://river-1.rutube.ru/stream/genetta-301.m9.rutube.ru/x3n1VFKIgwBgWu5C-HENEA/1748102015/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 ,Дикая охота HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/rZZKGEkObMZ3X_qFnoK1Aw,1747947611/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Охотник и Рыболов HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/c0pJhNX0tx5wtbZV0YKvtg,1747947611/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Рыболов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/5-ldzCV7JLYpQ-LgUQQeDQ,1747947611/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Дикая рыбалка HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/EMt3wLYc9RsWzDrMovOTzw,1747947612/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
 http://217.113.16.2/dikayaoxota/index.m3u8
@@ -696,12 +686,10 @@ http://193.27.209.122/eurosport1/index.m3u8
 http://109.248.236.51/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://82.215.111.249/1439/mono.m3u8
-#http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://193.27.209.122/eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://109.248.236.51/eurosport2/mono.m3u8
-#http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 ,tvg-id="SetantaSports1.ru" tvg-name="setanta sports 1" tvg-logo="http://i.imgur.com/8ANUZAu.png" ,Setanta Sports 1
 http://82.215.111.249/1263/mono.m3u8
 #EXTINF:-1 ,tvg-id="SetantaSports2.ru" tvg-name="setanta sports 2" tvg-logo="http://i.imgur.com/NOBACb6.png" ,Setanta Sports 2
