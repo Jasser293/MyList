@@ -307,7 +307,7 @@ http://109.248.236.51/avto24/mono.m3u8
 #EXTINF:-1 ,Авто Плюс
 http://217.113.16.2/Avtoplus/index.m3u8
 #EXTINF:-1 ,Авто Плюс
-http://82.215.111.249/1036/mono.m3u8
+#http://82.215.111.249/1036/mono.m3u8
 #http://45.133.106.36/Avtoplus/index.m3u8
 #EXTINF:-1 ,Авто Плюс
 http://109.248.236.51/avtoplus/mono.m3u8
@@ -353,7 +353,7 @@ http://salam-ptg-100.rutube.ru/dive/river-3-334.rutube.ru/BLjIMDiiQR4l8ArDm2-MbA
 #EXTINF:-1 ,Загородный Int
 http://salam-kry-34.rutube.ru/dive/river-3-334.rutube.ru/x3n1VFKIgwBgWu5C-HENEA/stream/genetta-301.m9.rutube.ru/21-1ss5HKfL99KbCTC3VLA/1748102015/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Загородный
-http://82.215.111.249/1044/mono.m3u8
+#http://82.215.111.249/1044/mono.m3u8
 #EXTINF:-1 ,Загородный
 http://109.248.236.51/zagorodniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Лапки Live
@@ -373,7 +373,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня
-http://82.215.111.249/1236/mono.m3u8
+#http://82.215.111.249/1236/mono.m3u8
 #EXTINF:-1 ,Кухня
 http://109.248.236.51/kuhnya_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Food Network
@@ -696,15 +696,15 @@ http://193.27.209.122/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://109.248.236.51/eurosport1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://82.215.111.249/1439/mono.m3u8
+#http://82.215.111.249/1439/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://193.27.209.122/eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://109.248.236.51/eurosport2/mono.m3u8
 #EXTINF:-1 ,tvg-id="SetantaSports1.ru" tvg-name="setanta sports 1" tvg-logo="http://i.imgur.com/8ANUZAu.png" ,Setanta Sports 1
-http://82.215.111.249/1263/mono.m3u8
+#http://82.215.111.249/1263/mono.m3u8
 #EXTINF:-1 ,tvg-id="SetantaSports2.ru" tvg-name="setanta sports 2" tvg-logo="http://i.imgur.com/NOBACb6.png" ,Setanta Sports 2
-http://82.215.111.249/1264/mono.m3u8
+#http://82.215.111.249/1264/mono.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 ,Конный мир
