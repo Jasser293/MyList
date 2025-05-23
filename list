@@ -116,6 +116,8 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v4a1/mono.m3u8
 #EXTINF:-1 ,Москва. Доверие
 http://195.49.206.244:90/Doverie/mono.m3u8?token=video
+#EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-name="открытый мир. здоровье" tvg-logo="https://i.imgur.com/7orZOJA.png" ,Открытый мир
+http://212.233.98.62/0mir/index.m3u8
 #EXTINF:-1 ,Ностальгия
 http://109.248.236.51/nostalgia/mono.m3u8
 #EXTINF:-1 ,Ретро ТВ
@@ -662,6 +664,8 @@ http://109.248.236.51/viju_tv1000_action/mono.m3u8
 http://109.248.236.51/kinoseria/mono.m3u8
 #EXTINF:-1 ,Кино 1 International
 http://5.9.44.106/content/38617/index.m3u8
+#EXTINF:-1 tvg-name="о!кино" ,О!Кино
+http://212.233.98.62/okino-tv/index.m3u8
 #EXTINF:-1 ,Pro100TV
 http://85.192.10.173/Pro100tvRu/video.m3u8
 #EXTINF:-1 ,Kino 24
