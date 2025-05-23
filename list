@@ -792,3 +792,6 @@ http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 http://82.215.111.249/1025/mono.m3u8
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
+#EXTINF:-1 ,Пятый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/r3tNP2zJfKfNFB5Txv-eGQ,1748034002/streaming/5kanalott/324/1/tracks-v5a1/mono.m3u8
