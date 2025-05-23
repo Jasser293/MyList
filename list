@@ -194,7 +194,7 @@ http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
-http://178.212.236.3:8802/play/m3_15
+http://5.3.176.223:81/udp/235.10.10.12:1234
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -271,7 +271,7 @@ http://194.143.148.28:8080/U/index.m3u8
 #EXTINF:-1 ,Домашний
 http://195.49.206.244:90/Domashni/mono.m3u8?token=video
 #EXTINF:-0,Домашний
-http://178.212.236.3:8802/play/m2_26
+#
 #EXTINF:-1 ,Домашний (+4)
 http://45.143.108.110:2200/domashni
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
@@ -633,7 +633,7 @@ http://109.248.236.51/rodnoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Любимое кино
 http://45.143.108.110:2200/lubimoekino
 #EXTINF:-1 ,Русский бестселлер
-http://178.212.236.3:8802/play/421
+http://5.3.176.223:81/udp/235.10.10.45:1234
 #EXTINF:-1 ,Русский Детектив
 http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский иллюзион
@@ -641,7 +641,7 @@ http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский иллюзион (+2)
 http://109.248.236.51/russkiy_illusion/mono.m3u8
 #EXTINF:-1 ,Русский роман
-http://178.212.236.3:8802/play/424
+http://178.163.5.162:4022/udp/234.0.0.224:2000
 #EXTINF:-1 ,НСТ
 http://195.49.206.244:90/NST/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
