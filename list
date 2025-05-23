@@ -77,8 +77,6 @@ http://92.43.140.249/s15/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
-#EXTINF:-1 ,Рен ТВ
-http://130.193.73.10:8937/play/a00i
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+4)
@@ -91,8 +89,6 @@ http://112.72.4.116/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 http://195.49.206.244:90/TVC/mono.m3u8?token=video
-#EXTINF:-1 ,ТВЦ
-http://82.215.111.249/1025/mono.m3u8
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
@@ -199,8 +195,6 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
 http://178.212.236.3:8802/play/m3_15
-#EXTINF:-1 ,Пятый канал
-http://130.193.73.10:8937/play/a00h
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -263,9 +257,7 @@ http://112.72.4.109/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 #EXTINF:-1 ,Сарафан
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
-http://130.193.73.10:8937/play/a01v
-#EXTINF:-1 ,Че!
-http://130.193.73.10:8937/play/a025
+http://45.133.106.36/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
 http://109.200.130.123:7055/play/a01b
 #EXTINF:-1 ,Че!
@@ -280,8 +272,6 @@ http://194.143.148.28:8080/U/index.m3u8
 http://195.49.206.244:90/Domashni/mono.m3u8?token=video
 #EXTINF:-0,Домашний
 http://178.212.236.3:8802/play/m2_26
-#EXTINF:-1 ,Домашний
-http://130.193.73.10:8937/play/a008
 #EXTINF:-1 ,Домашний (+4)
 http://45.143.108.110:2200/domashni
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
@@ -337,7 +327,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Усадьба
 http://195.49.206.244:90/Usadba/mono.m3u8?token=video
 #EXTINF:-1 ,Усадьба
-http://130.193.73.10:8937/play/a024
+http://178.212.71.253:8000/play/91/index.m3u8
 #EXTINF:-1 ,Бобёр
 http://195.49.206.244:90/Bober/mono.m3u8?token=video
 #EXTINF:-1 ,Бобёр
@@ -360,8 +350,6 @@ http://109.248.236.51/zagorodniy/tracks-v1a1/mono.m3u8
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=video
-#EXTINF:-1 ,Доктор
-http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 ,Доктор
 http://109.200.130.123:7055/play/a01k
 #EXTINF:-1 ,Доктор
@@ -482,8 +470,6 @@ http://109.248.236.51/viju_nature/mono.m3u8
 http://195.49.206.244:90/Explorer/mono.m3u8?token=video
 #EXTINF:-1 ,Viasat Explore
 http://109.248.236.51/viju_explore/mono.m3u8
-#EXTINF:-1 ,Диалоги о рыбалке
-http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 ,Охота и рыбалка
 http://195.49.206.244:90/Ohota_i_rybalka/mono.m3u8?token=video
 #EXTINF:-1 ,Охотник и рыболов Int
@@ -491,7 +477,7 @@ http://salam-ptg-100.rutube.ru/dive/river-3-346.rutube.ru/-7CszbO-ONvv8I-NZtD8IQ
 #EXTINF:-1 ,Охотник и рыболов Int
 http://river-1.rutube.ru/stream/genetta-301.m9.rutube.ru/x3n1VFKIgwBgWu5C-HENEA/1748102015/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
-http://130.193.73.10:8937/play/a04s
+http://45.143.108.110:2200/dikiy
 #EXTINF:-1 ,Дикая охота HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/HAOilpt52q9a8HIeeUoWsQ,1748034011/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
@@ -504,14 +490,15 @@ https://mhd128.iptv2022.com/p/8NcK6C8ncvnlsxwyDF-oNQ,1748034011/streaming/ohotni
 #EXTINF:-1 ,Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/VFv0XyqUBz7KTxe40noiMA,1748034011/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Диалоги о рыбалке
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/ZbXeDXNlvnZBMY2Q9yaEsQ,1748034011/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
 http://217.113.16.2/dikayaoxota/index.m3u8
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
 #http://45.133.106.36/dikayaoxota/index.m3u8
-#EXTINF:-1 ,TERRA
-http://130.193.73.10:8937/play/a01g
 #EXTINF:-1 ,TERRA
 http://109.200.130.123:7055/play/a01f
 #EXTINF:-1 ,Шансон ТВ
@@ -646,21 +633,13 @@ http://109.248.236.51/rodnoe_kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Любимое кино
 http://45.143.108.110:2200/lubimoekino
 #EXTINF:-1 ,Русский бестселлер
-http://130.193.73.10:8937/play/a03l
-#EXTINF:-1 ,Русский бестселлер
 http://178.212.236.3:8802/play/421
-#EXTINF:-1 ,Русский детектив
-http://130.193.73.10:8937/play/a03o
 #EXTINF:-1 ,Русский Детектив
 http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
-#EXTINF:-1 ,Русский иллюзион
-http://130.193.73.10:8937/play/a03m
 #EXTINF:-1 ,Русский иллюзион (+2)
 http://109.248.236.51/russkiy_illusion/mono.m3u8
-#EXTINF:-1 ,Русский роман
-http://130.193.73.10:8937/play/a03n
 #EXTINF:-1 ,Русский роман
 http://178.212.236.3:8802/play/424
 #EXTINF:-1 ,НСТ
@@ -724,7 +703,7 @@ http://217.113.16.2/match-igra/index.m3u8
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Боец
-http://130.193.73.10:8937/play/a04k
+http://45.133.106.36/matchboec/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 2
@@ -809,3 +788,7 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 ,ТВЦ
+http://82.215.111.249/1025/mono.m3u8
+#EXTINF:-1 ,Пятый канал
+http://130.193.73.10:8937/play/a00h
