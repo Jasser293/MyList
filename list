@@ -203,6 +203,8 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
 http://5.3.176.223:81/udp/235.10.10.12:1234
+#EXTINF:-1 ,Пятый канал
+http://176.113.89.188:81/udp/239.195.1.5:1234
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
