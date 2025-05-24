@@ -505,7 +505,7 @@ http://217.113.16.2/dikayaoxota/index.m3u8
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
 #http://45.133.106.36/dikayaoxota/index.m3u8
-#EXTINF:-1 ,Подсекай ТВ
+#EXTINF:-1 tvg-name="555 hunt fishing tv" ,555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
 #EXTINF:-1 ,TERRA
 http://109.200.130.123:7055/play/a01f
@@ -750,7 +750,7 @@ http://92.43.140.249/s59/04.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s58/04.m3u8
 #EXTINF:-1 ,В гостях у сказки
-http://130.193.73.10:8937/play/a0b2
+http://109.248.236.51/v_gostyah_u_skazki/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КиноКазка
 http://95.67.12.82:9084
 #EXTINF:-1 ,Карусель
