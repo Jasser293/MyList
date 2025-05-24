@@ -800,5 +800,5 @@ http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 http://82.215.111.249/1025/mono.m3u8
 #EXTINF:-1 ,Пятый канал
 http://130.193.73.10:8937/play/a00h
-#EXTINF:-1 tvg-id="TsargradTV.ru" tvg-name="царьград тв" tvg-logo="https://tv-app.ru/images/logo-channel/tv-cargrad.png" ,Царьград ТВ
+#EXTINF:-1 ,Царьград
 http://river-1.rutube.ru/stream/genetta-321.m9.rutube.ru/Qtrs9raTl_dOczvwMPr1Cg/1748546312/91815da4edb167b5bd617bae490e57da/1080p_stream.m3u8
