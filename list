@@ -75,6 +75,8 @@ http://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/3HMJomom5mG5KtnUiA7xXw/
 http://92.43.140.249/s15/index.m3u8
 #EXTINF:-1 ,Россия К
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 ,Россия К (+2)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
 #EXTINF:-1 ,Рен ТВ (+2)
@@ -187,6 +189,8 @@ http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 ,LIFE TV
+http://dmi3y-tv.ru/hls/CH_LIFETV_RUS.m3u8
 #EXTINF:-1 ,Оружие
 http://109.248.236.51/oruzhie/mono.m3u8
 #EXTINF:-1 ,Арсенал
@@ -392,6 +396,8 @@ http://109.248.236.51/poehali/mono.m3u8
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://tv.streams.baikal-telecom.net:8080/Nauka20/mpegts
+#EXTINF:-1 ,RTG
+http://dmi3y-tv.ru/hls/CH_RTGHD720.m3u8
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
