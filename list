@@ -373,7 +373,7 @@ http://109.248.236.51/kuhnya_tv/tracks-v1a1/mono.m3u8
 http://92.43.140.249/s18/04.m3u8
 #EXTINF:-1 ,Аппетитный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-#https://mhd128.iptv2022.com/p/XTQf8hP7iUn01GSNPkTnKw,1748034030/streaming/appetitniy/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/KpcwlpKaBddGlq1dC6Tb0w,1748120423/streaming/appetitniy/324/1/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
@@ -482,7 +482,21 @@ http://salam-khb-67.rutube.ru/dive/river-3-346.rutube.ru/nRili5Dq43byEhvGD1q76g/
 http://salam-mskm9-19.rutube.ru/dive/river-3-346.rutube.ru/001Jq2Ah4Uh_ELWd7m5tHA/stream/genetta-319.m9.rutube.ru/-5op3_FmPEfDb8ydz7rMUQ/1748626714/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://45.143.108.110:2200/dikiy
-
+#EXTINF:-1 ,Дикая охота
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Z-6hzKs6e-tKaOy8u5_4Gg,1748120410/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Охотник и Рыболов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/CdWSxZ-DpIyEDo57lMJ1Ag,1748120410/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Рыболов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Z7XLK0mvlHh5Ppezxy7M4Q,1748120410/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Дикая рыбалка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/YLy9v1KQ7_s63M9Sf0JnBw,1748120410/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Диалоги о рыбалке
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/CbH3JqwgSpeBKA5f1qTfSg,1748120410/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
 http://217.113.16.2/dikayaoxota/index.m3u8
