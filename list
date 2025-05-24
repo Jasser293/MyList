@@ -228,6 +228,8 @@ http://195.49.206.244:90/TNT/mono.m3u8?token=video
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
+#EXTINF:-1 ,ТНТ (+4)
+http://salam-kry-34.rutube.ru/dive/river-5-524.rutube.ru/ZQYGds1lC4nvTGNCVi66gw/stream/genetta-312.m9.rutube.ru/kXBJIpHAtqEREkf5hY_Hcw/1748668755/f02b63bc8f0ed4dba04bbfce4a1119c5/1080p_stream.m3u8
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
