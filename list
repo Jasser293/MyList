@@ -505,7 +505,7 @@ http://217.113.16.2/dikayaoxota/index.m3u8
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
 #http://45.133.106.36/dikayaoxota/index.m3u8
-#EXTINF:-1 tvg-name="555 hunt fishing tv" ,555 Hunt Fishing TV
+#EXTINF:-1 ,Подсекай ТВ
 http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
 #EXTINF:-1 ,TERRA
 http://109.200.130.123:7055/play/a01f
