@@ -523,14 +523,16 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
+#EXTINF:-1 ,Жара
+http://109.248.236.51/zhara/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="муз-тв" tvg-logo="https://i.imgur.com/BtqrHmz.png" ,Муз-ТВ
+https://streaming.televizor-24-tochka.ru/live/618.m3u8
 #EXTINF:-1 ,Viva Russia
 https://162.212.179.32/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 ,MTV
 http://212.102.60.231/MTV/index.m3u8
-#EXTINF:-1 ,MTV 80s
-http://146.59.85.40:89/MTV80s/mpegts
 #EXTINF:-1 ,Dancehits 80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 ,MTV 90s
