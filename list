@@ -227,7 +227,7 @@ http://78.24.180.184:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
 http://78.24.180.184:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТНТ
-http://salam-ptg-100.rutube.ru/dive/river-3-321.rutube.ru/lBj2ypuvuja8Yg_e4qGzPQ/stream/genetta-323.m9.rutube.ru/l6ODkvsQYsT9nFGl8T69bw/1748100962/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+#
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
@@ -239,13 +239,13 @@ http://salam-kry-34.rutube.ru/dive/river-5-524.rutube.ru/ZQYGds1lC4nvTGNCVi66gw/
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
-http://salam-ptg-100.rutube.ru/dive/river-5-549.rutube.ru/Q2qx1c1TS424BOql40J5vQ/stream/genetta-311.m9.rutube.ru/nFwLC8qyyor0or33NuISkg/1748101289/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+#
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ4 (+2)
 http://109.248.236.51/tnt4/mono.m3u8
 #EXTINF:-1 ,ТВ3
-http://salam-ptg-100.rutube.ru/dive/river-5-513.rutube.ru/RWa2NyDxEdLGniZfBO7hPw/stream/genetta-319.m9.rutube.ru/HZnj5ltz6bV1WaDw00R4sg/1748101331/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+#
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=video
 #EXTINF:-1 ,ТВ3 (+2)
@@ -283,13 +283,13 @@ http://194.143.148.28:8080/U/index.m3u8
 #EXTINF:-1 ,Домашний
 http://195.49.206.244:90/Domashni/mono.m3u8?token=video
 #EXTINF:-0,Домашний
-#
+http://176.113.89.188:81/udp/239.195.1.14:1234
 #EXTINF:-1 ,Домашний (+4)
 http://45.143.108.110:2200/domashni
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
-http://salam-ptg-100.rutube.ru/dive/river-3-336.rutube.ru/QLUc5wAOZHtIvMpsJmG7GA/stream/genetta-318.m9.rutube.ru/ilRDIt8u6fUwGgJH63rLAA/1748101386/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+#
 #EXTINF:-1 ,ПЯТНИЦА
 http://195.49.206.244:90/Pyatnica/mono.m3u8?token=video
 #EXTINF:-1 ,ПЯТНИЦА (+2)
