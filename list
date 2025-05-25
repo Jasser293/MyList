@@ -100,7 +100,7 @@ http://salam-khb-21.rutube.ru/dive/river-3-327.rutube.ru/rNJ5OQZOdWMOKI2H2mr4CQ/
 #EXTINF:-1 ,Твой 2007
 http://salam-khb-1029.rutube.ru/dive/river-5-527.rutube.ru/tz14oifQEX5DPFSKGTjv0Q/stream/genetta-325.m9.rutube.ru/L4dHI_nHD_0fnoIF3qp14g/1748626177/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
 #EXTINF:-1 ,Кино и жизнь
-http://salam-khb-21.rutube.ru/dive/river-3-318.rutube.ru/XzPe1WsXG0B3IvM4umgaPw/stream/genetta-302.m9.rutube.ru/Hqx064cedXbauUAwsngwig/1748626231/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+http://river-3-318.rutube.ru/stream/genetta-320.m9.rutube.ru/GP9vxIOLZpb0SHx6XE5cog/1748795845/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-mskm9-48.rutube.ru/dive/river-5-520.rutube.ru/2tnSr3B_bsxT3SQ1r1tiYQ/stream/genetta-313.m9.rutube.ru/ZE7A39ugr3zTlDp2bGaHZQ/1748626815/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
@@ -204,7 +204,7 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,Пятый канал
 http://5.3.176.223:81/udp/235.10.10.12:1234
 #EXTINF:-1 ,Пятый канал
-http://178.163.5.162:4022/udp/234.0.0.205:2000
+http://178.163.16.7:4022/udp/234.0.0.205:2000
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
