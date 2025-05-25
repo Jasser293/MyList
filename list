@@ -2,7 +2,7 @@
 #EXTINF:-1 ,Первый канал
 http://salam-khb-67.rutube.ru/dive/river-5-543.rutube.ru/3HMJomom5mG5KtnUiA7xXw/stream/genetta-303.m9.rutube.ru/qw6wQtweCXITCWWsuszqEA/1748625973/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-http://salam-ptg-100.rutube.ru/dive/river-5-543.rutube.ru/4Rk1XeG_5Bra7Iphvbobdg/stream/genetta-303.m9.rutube.ru/qMKI23qAm-JqlzOVm2HIEw/1748100885/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://salam-oms-91.rutube.ru/dive/river-5-543.rutube.ru/ii506Lwdgih5zOFy_DjOYQ/stream/genetta-303.m9.rutube.ru/Y9JXep8sTW7whdj-_dRHYA/1748764283/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -804,3 +804,7 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 ,ТВЦ
+#http://82.215.111.249/1025/mono.m3u8
+#EXTINF:-1 ,Пятый канал
+#http://130.193.73.10:8937/play/a00h
