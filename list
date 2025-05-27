@@ -80,11 +80,11 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
 #EXTINF:-1 ,Рен ТВ
-http://45.133.106.36/RENTV/index.m3u8
+http://s7.merlive.am/RENTV/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+4)
-http://217.113.16.233/rentv/index.m3u8
+http://s1.merlive.am/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://109.248.236.51/ren/mono.m3u8
 #EXTINF:-1 ,Рен ТВ International
@@ -271,7 +271,7 @@ http://112.72.4.109/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 #EXTINF:-1 ,Сарафан
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
-http://45.133.106.36/Sarafan/index.m3u8
+http://s7.merlive.am/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
 http://109.200.130.123:7055/play/a01b
 #EXTINF:-1 ,Че!
@@ -309,7 +309,7 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,Авто 24
 http://109.248.236.51/avto24/mono.m3u8
 #EXTINF:-1 ,Авто Плюс
-http://45.133.106.36/Avtoplus/index.m3u8
+http://s7.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 ,Авто Плюс
 http://109.248.236.51/avtoplus/mono.m3u8
 #EXTINF:-1 ,Драйв
@@ -438,11 +438,11 @@ http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
 http://217.113.16.23/discovery/index.m3u8
 #EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=100
-http://45.133.106.36/discovery/index.m3u8
+http://s7.merlive.am/discovery/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
 http://217.113.16.23/tlc/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
-http://45.133.106.36/tlc/index.m3u8
+http://s7.merlive.am/tlc/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 ,Galaxy
@@ -512,7 +512,7 @@ https://mhd128.iptv2022.com/p/b_wNuz1tCvYdLVh533w7kw,1748379611/streaming/oribal
 #http://217.113.16.23/dikayaoxota/index.m3u8
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
-http://45.133.106.36/dikayaoxota/index.m3u8
+http://s7.merlive.am/dikayaoxota/index.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 ,TERRA
@@ -574,7 +574,7 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,Дом Кино
 https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,КИНЕКО
-http://45.133.106.36/kineko/index.m3u8
+http://s7.merlive.am/kineko/index.m3u8
 #EXTINF:-1 ,Еврокино
 http://87.120.142.11:18000/STSLove
 #EXTINF:-1 ,Viasat Kino World
@@ -719,7 +719,7 @@ http://109.200.130.123:7534/play/a00i
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Боец
-http://45.133.106.36/matchboec/index.m3u8
+http://s7.merlive.am/matchboec/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 2
