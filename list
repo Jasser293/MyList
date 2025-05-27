@@ -84,7 +84,7 @@ http://45.133.106.36/RENTV/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+4)
-http://217.113.16.23/rentv/index.m3u8
+http://217.113.16.233/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://109.248.236.51/ren/mono.m3u8
 #EXTINF:-1 ,Рен ТВ International
@@ -435,12 +435,12 @@ http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
 http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=1000
-#http://217.113.16.2/discovery/index.m3u8
+http://217.113.16.23/discovery/index.m3u8
 #EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=100
 http://45.133.106.36/discovery/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
-#http://217.113.16.2/tlc/index.m3u8
+http://217.113.16.23/tlc/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
 http://45.133.106.36/tlc/index.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -509,7 +509,7 @@ https://mhd128.iptv2022.com/p/fFYQpwdmzu7Rbg45zULvAg,1748379611/streaming/ribalk
 https://mhd128.iptv2022.com/p/b_wNuz1tCvYdLVh533w7kw,1748379611/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
-#http://217.113.16.2/dikayaoxota/index.m3u8
+#http://217.113.16.23/dikayaoxota/index.m3u8
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
 http://45.133.106.36/dikayaoxota/index.m3u8
@@ -715,7 +715,7 @@ http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,МАТЧ! АРЕНА
 http://195.49.206.244:90/Arena/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! ИГРА
-#http://45.133.106.36/match-igra/index.m3u8
+http://109.200.130.123:7534/play/a00i
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Боец
@@ -730,8 +730,6 @@ http://195.49.206.244:90/football_3/mono.m3u8?token=video
 http://213.108.175.226/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
 http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Motorsport
-http://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 #EXTINF:-1 ,MotoR Racing
 http://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 ,Red Bull
