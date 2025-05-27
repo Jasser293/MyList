@@ -102,7 +102,7 @@ http://river-mskostrtk-540.rutube.ru/stream/genetta-326.m9.rutube.ru/W9OJVz899kx
 #EXTINF:-1 ,Твой 2007
 http://river-mskm9rtk-328.rutube.ru/stream/genetta-325.m9.rutube.ru/xwywz6n7DDfZFYfu0abU8g/1748879207/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
 #EXTINF:-1 ,Кино и жизнь
-http://river-mskostrtk-532.rutube.ru/stream/genetta-320.m9.rutube.ru/NGp7utIUH4hI_MpwB25Q-g/1748879240/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+http://river-3-318.rutube.ru/stream/genetta-316.m9.rutube.ru/AfxvuFZRJBrZID2V96idGA/1748959436/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://river-mskm9rtk-337.rutube.ru/stream/genetta-313.m9.rutube.ru/22y25bNIbRXhXaGl2N29sw/1748879272/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
@@ -435,12 +435,12 @@ http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
 http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=1000
-http://217.113.16.23/discovery/index.m3u8
+http://s1.merlive.am/discovery/index.m3u8
 #EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=100
 http://s7.merlive.am/discovery/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
-http://217.113.16.23/tlc/index.m3u8
+http://s1.merlive.am/tlc/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
 http://s7.merlive.am/tlc/index.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -451,6 +451,8 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 http://95.67.12.81:10619
 #EXTINF:-1 ,H2
 http://95.67.12.81:10620
+#EXTINF:-1 ,История
+http://s1.merlive.am/Istoria/index.m3u8
 #EXTINF:-1 ,История
 http://s7.merlive.am/History2/index.m3u8
 #EXTINF:-1 ,Приключения
@@ -509,10 +511,10 @@ https://mhd128.iptv2022.com/p/fFYQpwdmzu7Rbg45zULvAg,1748379611/streaming/ribalk
 https://mhd128.iptv2022.com/p/b_wNuz1tCvYdLVh533w7kw,1748379611/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
-#http://217.113.16.23/dikayaoxota/index.m3u8
+http://s1.merlive.am/dikayaoxota/index.m3u8
 #EXTINF:0,Дикая Охота
 #EXTVLCOPT:network-caching=100
-http://s7.merlive.am/dikayaoxota/index.m3u8
+#http://s7.merlive.am/dikayaoxota/index.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 ,TERRA
