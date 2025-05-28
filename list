@@ -572,6 +572,8 @@ http://109.200.130.123:7055/play/a00z
 http://195.49.206.244:90/2x2/mono.m3u8?token=video
 #EXTINF:-1 ,2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 ,Дом кино
+http://178.217.72.66:8080/Dom_Kino/index.m3u8
 #EXTINF:-1 ,Дом Кино
 https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,КИНЕКО
@@ -606,11 +608,14 @@ http://195.49.206.244:90/Kinosemia/mono.m3u8?token=video
 http://109.248.236.51/kinosemya/mono.m3u8
 #EXTINF:-1 ,Amedia 1
 http://195.49.206.244:90/A-1/mono.m3u8?token=video
+#EXTINF:-1 ,Amedia 1
+http://178.217.72.66:8080/A1/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://195.49.206.244:90/A-2/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 2
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s33/04.m3u8
+http://178.217.72.66:8080/A2/index.m3u8
+#EXTINF:-1 ,Amedia Hit
+http://178.217.72.66:8080/Amedia_Hit/index.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://109.248.236.51/amedia_hit_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Amedia Premium
@@ -754,8 +759,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s59/04.m3u8
 #EXTINF:-1 ,Детский Мир
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s58/04.m3u8
+http://45.143.108.110:2200/detskimir
 #EXTINF:-1 ,В гостях у сказки
 http://109.248.236.51/v_gostyah_u_skazki/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,КиноКазка
@@ -764,9 +768,6 @@ http://95.67.12.82:9084
 http://109.248.236.51/karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Мультиландия
 http://109.248.236.51/multilandia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Рыжий
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s57/04.m3u8
 #EXTINF:-1 ,Gulli Girl
 http://135.181.115.81:8000/play/a03p/index.m3u8?token=livetv
 #EXTINF:-1 ,Cartoon Network
