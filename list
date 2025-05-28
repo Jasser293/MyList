@@ -235,7 +235,7 @@ http://178.217.72.66:8080/TNT_HD/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
-https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ (+4)
