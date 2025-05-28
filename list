@@ -78,9 +78,9 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 ,Рен ТВ
-http://178.217.72.66:8080/REN_TV/index.m3u8
-#EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
+#EXTINF:-1 ,Рен ТВ
+http://178.217.72.66:8080/REN_TV/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+4)
@@ -234,10 +234,11 @@ http://78.24.180.184:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
 http://78.24.180.184:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТНТ
-http://178.217.72.66:8080/TNT_HD/index.m3u8
-#http://river-mskm9rtk-320.rutube.ru/stream/genetta-323.m9.rutube.ru/uGXmBmTj6z48RRGPMCeMwQ/1748876609/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+http://river-mskm9rtk-320.rutube.ru/stream/genetta-323.m9.rutube.ru/uGXmBmTj6z48RRGPMCeMwQ/1748876609/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
+#EXTINF:-1 ,ТНТ
+http://178.217.72.66:8080/TNT_HD/index.m3u8
 #EXTINF:-1 ,ТНТ
 #https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 ,ТНТ (+2)
@@ -247,17 +248,19 @@ http://salam-kry-34.rutube.ru/dive/river-5-524.rutube.ru/ZQYGds1lC4nvTGNCVi66gw/
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
-http://178.217.72.66:8080/TNT4/index.m3u8
-#http://river-mskostrtk-539.rutube.ru/stream/genetta-311.m9.rutube.ru/_qqLpQqDl8i7IyiCo1brmQ/1748879404/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+http://river-mskostrtk-539.rutube.ru/stream/genetta-311.m9.rutube.ru/_qqLpQqDl8i7IyiCo1brmQ/1748879404/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
+#EXTINF:-1 ,ТНТ4
+http://178.217.72.66:8080/TNT4/index.m3u8
 #EXTINF:-1 ,ТНТ4 (+2)
 http://109.248.236.51/tnt4/mono.m3u8
 #EXTINF:-1 ,ТВ3
-http://178.217.72.66:8080/TV3/index.m3u8
-#http://river-mskm9rtk-335.rutube.ru/stream/genetta-319.m9.rutube.ru/G4YiF6UOCv3br1i_MWyFLQ/1748879440/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+http://river-mskm9rtk-335.rutube.ru/stream/genetta-319.m9.rutube.ru/G4YiF6UOCv3br1i_MWyFLQ/1748879440/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=video
+#EXTINF:-1 ,ТВ3
+http://178.217.72.66:8080/TV3/index.m3u8
 #EXTINF:-1 ,ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 ,СТС
@@ -303,10 +306,11 @@ http://45.143.108.110:2200/domashni
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
-http://178.217.72.66:8080/Pyatnitsa/index.m3u8
-#http://salam-mskost-3.rutube.ru/dive/river-3-336.rutube.ru/CsK57vXEw1Dof-a4a18RhA/stream/genetta-318.m9.rutube.ru/T6rFo2YmkptqK6-g1WnDgw/1748879476/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+http://salam-mskost-3.rutube.ru/dive/river-3-336.rutube.ru/CsK57vXEw1Dof-a4a18RhA/stream/genetta-318.m9.rutube.ru/T6rFo2YmkptqK6-g1WnDgw/1748879476/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://195.49.206.244:90/Pyatnica/mono.m3u8?token=video
+#EXTINF:-1 ,ПЯТНИЦА
+http://178.217.72.66:8080/Pyatnitsa/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА (+2)
 http://94.230.128.107:8080/Friday/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА (+4)
@@ -394,8 +398,7 @@ http://109.248.236.51/kuhnya_tv/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
 #EXTINF:-1 ,Аппетитный
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/0OS3LzTU-DAJ63mpCaWYjg,1748462420/streaming/appetitniy/324/1/index.m3u8
+#
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
@@ -520,18 +523,6 @@ http://178.217.72.66:8080/Dikiy/index.m3u8
 #http://45.143.108.110:2200/dikiy
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
-#EXTINF:-1 ,Дикая охота
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/dFKGkbqcSQhAzxvDT6GBUQ,1748466009/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Дикая рыбалка
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/QG8fr6KkOZ9ZBAh2uKIUkQ,1748466009/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Охотник и Рыболов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/YHDp2cheqY52t3XN6jc7vg,1748466009/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Рыболов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/1TDU60i4j4Qhq03YPC6_qA,1748466009/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 ,TERRA
@@ -842,6 +833,3 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 ,Еда
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/9WfYtQyHQMizbMtexWUGBA,1748466009/streaming/eda/324/1/tracks-v5a1/mono.m3u8
