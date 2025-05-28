@@ -84,7 +84,7 @@ http://178.217.72.66:8080/REN_TV/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+4)
-http://s1.merlive.am/rentv/index.m3u8
+#http://s1.merlive.am/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://109.248.236.51/ren/mono.m3u8
 #EXTINF:-1 ,Рен ТВ International
@@ -272,7 +272,7 @@ http://112.72.4.109/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 #EXTINF:-1 ,Сарафан
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
-http://s7.merlive.am/Sarafan/index.m3u8
+http://178.217.72.66:8080/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
 http://109.200.130.123:7055/play/a01b
 #EXTINF:-1 ,Че!
@@ -310,7 +310,7 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,Авто 24
 http://109.248.236.51/avto24/mono.m3u8
 #EXTINF:-1 ,Авто Плюс
-http://s7.merlive.am/Avtoplus/index.m3u8
+#http://s7.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 ,Авто Плюс
 http://109.248.236.51/avtoplus/mono.m3u8
 #EXTINF:-1 ,Драйв
@@ -383,7 +383,7 @@ http://109.248.236.51/kuhnya_tv/tracks-v1a1/mono.m3u8
 http://92.43.140.249/s18/04.m3u8
 #EXTINF:-1 ,Аппетитный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/LLmLM6PjySsBXCmIBUU9hw,1748379630/streaming/appetitniy/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/0OS3LzTU-DAJ63mpCaWYjg,1748462420/streaming/appetitniy/324/1/index.m3u8
 #EXTINF:-1 ,Кулинар ТВ
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
@@ -438,14 +438,14 @@ http://109.248.236.51/discovery_channel/tracks-v1a1/mono.m3u8
 http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=1000
-http://s1.merlive.am/discovery/index.m3u8
+#http://s1.merlive.am/discovery/index.m3u8
 #EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=100
-http://s7.merlive.am/discovery/index.m3u8
+#http://s7.merlive.am/discovery/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
-http://s1.merlive.am/tlc/index.m3u8
+#http://s1.merlive.am/tlc/index.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
-http://s7.merlive.am/tlc/index.m3u8
+#http://s7.merlive.am/tlc/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 ,Galaxy
@@ -455,9 +455,9 @@ http://95.67.12.81:10619
 #EXTINF:-1 ,H2
 http://95.67.12.81:10620
 #EXTINF:-1 ,История
-http://s1.merlive.am/Istoria/index.m3u8
+#http://s1.merlive.am/Istoria/index.m3u8
 #EXTINF:-1 ,История
-http://s7.merlive.am/History2/index.m3u8
+#http://s7.merlive.am/History2/index.m3u8
 #EXTINF:-1 ,Приключения
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s99/04.m3u8
@@ -500,27 +500,20 @@ http://salam-mskm9-19.rutube.ru/dive/river-3-346.rutube.ru/001Jq2Ah4Uh_ELWd7m5tH
 #EXTINF:-1 ,Дикий
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #http://45.143.108.110:2200/dikiy
+#EXTINF:-1 ,Диалоги о рыбалке
+http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,Дикая охота
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/C12kWFzwMcpChcH2e7FJcQ,1748379611/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Охотник и Рыболов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/tF0DB0Zj0sCABHDzDsm9xg,1748379611/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Рыболов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/_l-VlQWpt-ZqLsCYGMVrhQ,1748379611/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/dFKGkbqcSQhAzxvDT6GBUQ,1748466009/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/fFYQpwdmzu7Rbg45zULvAg,1748379611/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Диалоги о рыбалке
+https://mhd128.iptv2022.com/p/QG8fr6KkOZ9ZBAh2uKIUkQ,1748466009/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Охотник и Рыболов
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/b_wNuz1tCvYdLVh533w7kw,1748379611/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:0,Дикая Охота
-#EXTVLCOPT:network-caching=100
-http://s1.merlive.am/dikayaoxota/index.m3u8
-#EXTINF:0,Дикая Охота
-#EXTVLCOPT:network-caching=100
-#http://s7.merlive.am/dikayaoxota/index.m3u8
+https://mhd128.iptv2022.com/p/YHDp2cheqY52t3XN6jc7vg,1748466009/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Рыболов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/1TDU60i4j4Qhq03YPC6_qA,1748466009/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 ,TERRA
@@ -582,7 +575,7 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 ,Дом Кино
 https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,КИНЕКО
-http://s7.merlive.am/kineko/index.m3u8
+#http://s7.merlive.am/kineko/index.m3u8
 #EXTINF:-1 ,Еврокино
 http://87.120.142.11:18000/STSLove
 #EXTINF:-1 ,Viasat Kino World
@@ -665,7 +658,7 @@ http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский иллюзион (+2)
 http://109.248.236.51/russkiy_illusion/mono.m3u8
 #EXTINF:-1 ,Русский роман
-https://s7.merlive.am/ruskiroman/index.m3u8
+#https://s7.merlive.am/ruskiroman/index.m3u8
 #EXTINF:-1 ,НСТ
 http://195.49.206.244:90/NST/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -727,7 +720,7 @@ http://109.200.130.123:7534/play/a00i
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Боец
-http://s7.merlive.am/matchboec/index.m3u8
+#http://s7.merlive.am/matchboec/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 2
