@@ -468,9 +468,7 @@ http://95.67.12.81:10619
 #EXTINF:-1 ,H2
 http://95.67.12.81:10620
 #EXTINF:-1 ,История
-#http://s1.merlive.am/Istoria/index.m3u8
-#EXTINF:-1 ,История
-#http://s7.merlive.am/History2/index.m3u8
+http://178.217.72.66:8080/Istoriya/index.m3u8
 #EXTINF:-1 ,Приключения
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s99/04.m3u8
