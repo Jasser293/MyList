@@ -727,20 +727,30 @@ http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
 http://185.46.48.18/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
-#EXTINF:-1 ,МАТЧ! АРЕНА
+#EXTINF:-1 ,МАТЧ! Арена
 http://195.49.206.244:90/Arena/mono.m3u8?token=video
-#EXTINF:-1 ,МАТЧ! ИГРА
+#EXTINF:-1 ,МАТЧ! Игра
 http://109.200.130.123:7534/play/a00i
-#EXTINF:-1 ,МАТЧ! СТРАНА
+#EXTINF:-1 ,МАТЧ! Страна
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
+#EXTINF:-1 ,МАТЧ! Премьер
+http://109.200.130.124:7005/play/a00d
+#EXTINF:-1 ,Матч! Боец
+http://109.200.130.124:7005/play/a00j
 #EXTINF:-1 ,Матч! Боец
 http://109.200.130.123:7534/play/a008
 #EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
+#EXTINF:-1 ,Матч! Футбол 1
+http://109.200.130.124:7005/play/a00h
 #EXTINF:-1 ,Матч! Футбол 2
 http://195.49.206.244:90/Football_2HD/mono.m3u8?token=video
+#EXTINF:-1 ,Матч! Футбол 2
+http://109.200.130.124:7005/play/a00b
 #EXTINF:-1 ,Матч! Футбол 3
 http://195.49.206.244:90/football_3/mono.m3u8?token=video
+#EXTINF:-1 ,Матч! Футбол 3
+http://109.200.130.124:7005/play/a00c
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="астрахань спорт" tvg-logo="https://i.imgur.com/BKaEtqL.png" ,Астрахань Спорт
 http://213.108.175.226/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
