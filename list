@@ -734,7 +734,7 @@ http://109.200.130.123:7534/play/a00i
 #EXTINF:-1 ,МАТЧ! СТРАНА
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Боец
-#http://s7.merlive.am/matchboec/index.m3u8
+http://109.200.130.123:7534/play/a008
 #EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 2
