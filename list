@@ -69,7 +69,7 @@ http://87.120.142.11:18000/RossiyaK
 #EXTINF:-1 ,Запад 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 tvg-id="LenTV24.ru" tvg-name="лентв24" tvg-logo="https://i.imgur.com/d02uxkB.png" ,ЛЕНТВ24
-http://river-mskm9rtk-334.rutube.ru/stream/genetta-513.ost.rutube.ru/PV44hFljjkTHYyAxLqJeHQ/1748879133/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
+https://river-mskm9rtk-334.rutube.ru/stream/genetta-513.ost.rutube.ru/RP6LK4n5q7GwFiu-1hIiTQ/1749146945/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
 #EXTINF:-1 ,РТР Планета
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s15/index.m3u8
@@ -208,8 +208,6 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #http://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 ,Пятый канал
 http://178.217.72.66:8080/5_Kanal/index.m3u8
-#EXTINF:-1 ,Пятый канал
-http://5.3.176.223:81/udp/235.10.10.12:1234
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -232,7 +230,7 @@ http://78.24.180.184:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
 http://78.24.180.184:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,ТНТ
-http://river-mskm9rtk-320.rutube.ru/stream/genetta-323.m9.rutube.ru/uGXmBmTj6z48RRGPMCeMwQ/1748876609/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+http://river-mskm9rtk-320.rutube.ru/stream/genetta-323.m9.rutube.ru/Oz_m-yXwa81yylUFjtgJ9g/1749146622/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
@@ -246,7 +244,7 @@ http://salam-mskm9-48.rutube.ru/dive/river-5-524.rutube.ru/MrF0HHz6BwReDV_R-UHgX
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
-http://river-mskostrtk-539.rutube.ru/stream/genetta-311.m9.rutube.ru/_qqLpQqDl8i7IyiCo1brmQ/1748879404/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+http://river-mskostrtk-539.rutube.ru/stream/genetta-311.m9.rutube.ru/wa3eEThwALMCW69K1tgA2A/1749146795/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ4
@@ -254,7 +252,7 @@ http://178.217.72.66:8080/TNT4/index.m3u8
 #EXTINF:-1 ,ТНТ4 (+2)
 http://109.248.236.51/tnt4/mono.m3u8
 #EXTINF:-1 ,ТВ3
-http://river-mskm9rtk-335.rutube.ru/stream/genetta-319.m9.rutube.ru/G4YiF6UOCv3br1i_MWyFLQ/1748879440/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+http://river-mskm9rtk-335.rutube.ru/stream/genetta-319.m9.rutube.ru/ts-_I-LX6k6YDOzRzti3lg/1749146847/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=video
 #EXTINF:-1 ,ТВ3
@@ -302,7 +300,7 @@ http://45.143.108.110:2200/domashni
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://109.248.236.51/domashniy/mono.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
-http://salam-mskost-3.rutube.ru/dive/river-3-336.rutube.ru/CsK57vXEw1Dof-a4a18RhA/stream/genetta-318.m9.rutube.ru/T6rFo2YmkptqK6-g1WnDgw/1748879476/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+http://river-mskostrtk-519.rutube.ru/stream/genetta-318.m9.rutube.ru/5bgnUUGOORcaOq2Oj3fjcw/1749146895/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://195.49.206.244:90/Pyatnica/mono.m3u8?token=video
 #EXTINF:-1 ,ПЯТНИЦА
