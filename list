@@ -792,15 +792,5 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 ,Домашний HD
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://livetv.mylifeisgood.net.ru/channels/domashnii
-#EXTINF:-1 ,Домашний HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://livetv.mylifeisgood.net.ru/channels/domashnii
-#EXTINF:-1 ,Домашний HD
-#EXTVLCOPT:http-user-agent=Donate BTC
-https://livetv.mylifeisgood.net.ru/channels/domashnii
-#EXTINF:-1 ,Домашний HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1 ,Среда
+http://salam-khb-29.rutube.ru/dive/river-3-354.rutube.ru/UyuSCF-mYxB5z3CZPP9eaQ/stream/genetta-502.ost.rutube.ru/UGWf7GkJjSA9x875fjensA/1749305374/5fa486bf465c8735fff9f41b372610cc/1080p_stream.m3u8
