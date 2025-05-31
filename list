@@ -2,7 +2,7 @@
 #EXTINF:-1 ,Первый канал
 http://salam-mskost-3.rutube.ru/dive/river-5-543.rutube.ru/9tDjyJfJqRA-PqvGQ6VCEg/stream/genetta-303.m9.rutube.ru/KigDcwko0kzE6aQOwqTlAw/1749131335/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-http://salam-vld-1062.rutube.ru/dive/river-5-543.rutube.ru/c2xOT2eM_jIIkDbm9d2oVw/stream/genetta-303.m9.rutube.ru/YY9zI8Rhzp1A_pwUUD7vcQ/1749132585/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://salam-khb-67.rutube.ru/dive/river-5-543.rutube.ru/pjGzM8osRZsTY2v0oELXFQ/stream/genetta-303.m9.rutube.ru/WFfeJPD7NVeRE04Ta8mrKA/1749286841/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -304,6 +304,8 @@ http://45.11.139.43:8555/pyatnica/index.m3u8
 http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,Суббота!
 http://138.201.67.145/2_super/index.m3u8
+#EXTINF:-1 ,Суббота!
+http://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,Авто 24
@@ -352,7 +354,7 @@ http://185.57.68.14/40/mpegts
 #EXTINF:-1 ,Загородный Int
 http://salam-kry-34.rutube.ru/dive/river-3-334.rutube.ru/v-WENaFhpJplcX3McNmHaw/stream/genetta-301.m9.rutube.ru/LQdrqmFKe57Or_6IhYNBhw/1749132001/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Загородный Int
-http://salam-vld-62.rutube.ru/dive/river-3-334.rutube.ru/UHdVdkKYhQYfIRR0n9FCYQ/stream/genetta-301.m9.rutube.ru/qtK1vcwgX94o_xR3YHILkw/1749132682/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -426,11 +428,17 @@ http://lifetv.bitflip.ee/live/stream1.m3u8
 http://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
 #EXTINF:-1 ,Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+#EXTINF:-1 ,TERRA
+http://109.200.130.123:7055/play/a01f
+#EXTINF:-1 ,TERRA
+http://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 ,Animal Planet
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:0,,History
+#EXTINF:-1 ,Discovery Channel
+http://87.118.142.91:6064/play/a084
+#EXTINF:-1 ,History
 http://95.67.12.81:10619
 #EXTINF:-1 ,H2
 http://95.67.12.81:10620
@@ -480,8 +488,6 @@ http://178.217.72.66:8080/Dikiy/index.m3u8
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
-#EXTINF:-1 ,TERRA
-http://109.200.130.123:7055/play/a01f
 #EXTINF:-1 ,Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,1HD
@@ -646,6 +652,8 @@ http://195.49.206.244:90/TV1000/mono.m3u8?token=video
 http://178.217.72.66:8080/TV_1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://45.143.108.110:2200/tv1000rukino
+#EXTINF:-1 ,Viju TV1000 Русское
+http://213.91.178.133:8000/play/a0bx
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000 Action
@@ -658,6 +666,10 @@ http://85.192.10.173/Pro100tvRu/video.m3u8
 http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Киномистика
 https://v2.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-id="STARTAir.ru" tvg-logo="https://i.imgur.com/4bACa7x.png" ,START Air
+http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 tvg-id="STARTWorld.ru" tvg-logo="https://i.imgur.com/TXtY5eM.png" ,START World
+http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
@@ -666,6 +678,8 @@ http://193.27.209.122/eurosport1/index.m3u8
 #http://82.215.111.249/1439/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://193.27.209.122/eurosport2/index.m3u8
+#EXTINF:-1 ,IDC EuroSport
+http://217.19.214.38:8200/hls/78/live1.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 #EXTINF:-1 ,Конный мир
@@ -778,3 +792,15 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 ,Домашний HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1 ,Домашний HD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1 ,Домашний HD
+#EXTVLCOPT:http-user-agent=Donate BTC
+https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1 ,Домашний HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://livetv.mylifeisgood.net.ru/channels/domashnii
