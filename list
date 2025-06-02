@@ -82,6 +82,8 @@ http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
 http://178.217.72.66:8080/REN_TV/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
+#EXTINF:-1 ,Рен ТВ (+4)
+http://s1.merlive.am/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://213.91.178.133:8000/play/a0ax
 #EXTINF:-1 ,ТВЦ
@@ -440,6 +442,10 @@ http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://87.118.142.91:6064/play/a084
+#EXTINF:-1 ,TLC
+http://s1.merlive.am/tlc/index.m3u8
+#EXTINF:-1 ,National Geographic
+http://s1.merlive.am/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 ,History
@@ -488,6 +494,8 @@ http://salam-vld-1062.rutube.ru/dive/river-3-346.rutube.ru/SaTAewZ2VSoFlVYA-HuBV
 #EXTINF:-1 ,Дикий
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #http://45.143.108.110:2200/dikiy
+#EXTINF:-1 ,Дикая Охота
+http://s1.merlive.am/dikayaoxota/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
