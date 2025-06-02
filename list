@@ -108,6 +108,8 @@ http://salam-vld-62.rutube.ru/dive/river-5-520.rutube.ru/stI97Fapfbd_8D7vc_a8Qg/
 http://salam-mskost-3.rutube.ru/dive/river-5-521.rutube.ru/JGulo0CU7Je8EQ4XV_gJVw/stream/genetta-319.m9.rutube.ru/Q79E56AbHuVEk4TtCmo0Nw/1749366153/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
 http://river-3-321.rutube.ru/stream/genetta-524.ost.rutube.ru/ep8BMwQ5XlPQoTcizNrX6g/1749366182/e2d1a304d55b9a807ec5df1837859304/1080p_stream.m3u8
+#EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
+http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
