@@ -393,6 +393,8 @@ http://178.217.72.66:8080/Kukhnya_TV/index.m3u8
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s18/04.m3u8
+#EXTINF:-1 tvg-name="вкус" ,Вкус
+http://91.194.191.241:8081/chid515/mono.m3u8
 #EXTINF:-1 ,Аппетитный
 #
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
