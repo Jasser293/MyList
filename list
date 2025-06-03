@@ -281,7 +281,7 @@ http://178.217.72.66:8080/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
 http://109.200.130.123:7055/play/a01b
 #EXTINF:-1 ,Че!
-https://vs6.cdn.mrf.tvime.ru/che/index.m3u8
+http://31.184.219.37/che/index.m3u8
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Ю
@@ -630,6 +630,8 @@ http://31.173.165.29:8000/play/a04z/index.m3u8
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,Кинохит
 http://178.217.72.66:8080/Kinokhit/index.m3u8
+#EXTINF:-1 ,Кинохит
+http://217.113.25.29:8001/play/a01t/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://178.217.72.66:8080/Kinomiks/index.m3u8
 #EXTINF:-1 ,Кинозал
