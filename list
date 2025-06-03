@@ -317,7 +317,8 @@ http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,Суббота!
 http://138.201.67.145/2_super/index.m3u8
 #EXTINF:-1 ,Суббота!
-http://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+http://138.201.67.145/2_super/index.m3u8
+#http://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,Авто 24
@@ -367,6 +368,8 @@ http://185.57.68.14/40/mpegts
 http://salam-nsk-mts-103.rutube.ru/dive/river-3-334.rutube.ru/6edg8x8m_x0pU4E-5jH9Qg/stream/genetta-301.m9.rutube.ru/2fmk0s3yvyqGnZtqh7heyA/1749544842/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Загородный Int
 http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:-1 ,Лапки Live
+http://91.194.191.241:8081/chid514/mono.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -524,6 +527,10 @@ https://162.212.179.32/ssh101/ssh101/vivarussia/playlist.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 ,Первый Музыкальный
 http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 ,Bridge TV Deluxe
+http://91.194.191.241:8081/chid519/mono.m3u8
+#EXTINF:-1 ,Bridge TV Этно
+http://91.194.191.241:8081/chid520/mono.m3u8
 #EXTINF:-1 ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 ,MTV
