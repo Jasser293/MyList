@@ -194,7 +194,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://5.3.176.223:81/udp/235.10.10.75:1234
 #EXTINF:-1 ,Оружие
-http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5NzY5MTUsImlhdCI6MTc0ODg5MDUxNSwiY2lkIjo2LCJ1aWQiOjkyMTIzNzQwMiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.nihqWznAMHxnsSDU_zlG-C4QvscImE27yZ2DNyxs9hs&offset=10
+http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDkwNjMzMTYsImlhdCI6MTc0ODk3NjkxNiwiY2lkIjo2LCJ1aWQiOjkyMTQ1ODk3MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.SDZS2C4D83iWTUeZNubrJE-RO4UMZkQ6xWXK8TvAJuM&offset=10
 #EXTINF:-1 ,Арсенал
 http://178.217.72.66:8080/arsenalhd/mono.m3u8
 #EXTINF:-1 ,Арсенал
@@ -385,7 +385,8 @@ http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 ,Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
-http://live-3.otcnet.ru/wfcrus/index.m3u8
+http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня
 http://217.113.25.29:8001/play/a013/index.m3u8
 #EXTINF:-1 ,Кухня
