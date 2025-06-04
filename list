@@ -97,19 +97,19 @@ http://195.49.206.244:90/OTR/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
 http://94.230.128.107:8080/OTP/index.m3u8
 #EXTINF:-1 ,Rutube
-http://salam-nsk-mts-103.rutube.ru/dive/river-3-327.rutube.ru/8pw39g2e5xT9YGPQF0nFVg/stream/genetta-514.ost.rutube.ru/Jm_5n2FdMXHWlDsSnNAz4g/1749544510/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+http://salam-ekb-73.rutube.ru/dive/river-3-327.rutube.ru/jutX4HP8Eb7P-yvYueoNVw/stream/genetta-517.ost.rutube.ru/tDdzK7yuBOkYLu1pmBoVnw/1749630023/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 ,Твой 2007
-http://salam-nsk-70.rutube.ru/dive/river-5-527.rutube.ru/dg1VZL8a9f_dnCezUgHFcA/stream/genetta-515.ost.rutube.ru/iGxCpcSESot9UCa8QMSoiw/1749544545/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
+http://salam-ekb-mts-101.rutube.ru/dive/river-5-527.rtbcdn.ru/gC3f_IxUMDILsfhr2sF_Mw/stream/genetta-515.ost.rutube.ru/swSRYLASKBpl6SoeG_kmBg/1749630074/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
 #EXTINF:-1 ,Кино и жизнь
-http://salam-nsk-23.rutube.ru/dive/river-3-318.rutube.ru/UwPpspAl_EONP_uU1TnUZA/stream/genetta-513.ost.rutube.ru/Wfw9VFWzo8j1V9ElfMGOoA/1749544607/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+http://salam-ekb-80.rutube.ru/dive/river-3-318.rutube.ru/GyU-IwkMnjZ3wmawJyZ15A/stream/genetta-513.ost.rutube.ru/UtAKeYZF5lARrp60RpETIg/1749630111/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-mskth-16.rutube.ru/dive/river-5-520.rutube.ru/PF_xukapGBLHGUN85E7UVQ/stream/genetta-313.m9.rutube.ru/pZL40S8MLOy5_bZZgR0m-Q/1749366117/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+http://salam-ekb-80.rutube.ru/dive/river-5-520.rtbcdn.ru/DWuOE2V_gpNk9uUfvhHa4w/stream/genetta-313.m9.rutube.ru/YXdamFtco51mX4iF-2ME_A/1749630138/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-nsk-23.rutube.ru/dive/river-5-520.rutube.ru/Jwf1bf5N6Orf6i18ODH5Zw/stream/genetta-313.m9.rutube.ru/qd6lDPTD6w5Ba--XH6Z7Fg/1749544636/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Comedy Hub
-http://salam-nsk-mts-103.rutube.ru/dive/river-5-521.rutube.ru/6q9jU3ZTyE79K83eXXogPw/stream/genetta-519.ost.rutube.ru/c7yIy2-grLUdg17njy2ptw/1749544696/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
+http://salam-ekb-102.rutube.ru/dive/river-5-521.rtbcdn.ru/g7Y66U1j4KkvP48IXISOGg/stream/genetta-320.m9.rutube.ru/HMNqP05sv6gs3XbB1I1j_g/1749630171/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
-http://river-mskm9rtk-333.rutube.ru/stream/genetta-320.m9.rutube.ru/ysprN_tHgc-aNNVHRhlBOA/1749544734/e2d1a304d55b9a807ec5df1837859304/720p_stream.m3u8
+http://river-3-321.rutube.ru/stream/genetta-517.ost.rutube.ru/aRxlHoxfw0OdcMbFEoeCaw/1749630205/e2d1a304d55b9a807ec5df1837859304/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Красная линия
@@ -194,7 +194,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://5.3.176.223:81/udp/235.10.10.75:1234
 #EXTINF:-1 ,Оружие
-http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDkwNjMzMTYsImlhdCI6MTc0ODk3NjkxNiwiY2lkIjo2LCJ1aWQiOjkyMTQ1ODk3MiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.SDZS2C4D83iWTUeZNubrJE-RO4UMZkQ6xWXK8TvAJuM&offset=10
+http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDkxMDY5NTUsImlhdCI6MTc0OTAyMDU1NSwiY2lkIjo2LCJ1aWQiOjkyMTU1MTcyNywicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.sQfN3NFOMySIrNKhf6uMbIUgLZ0Rg7xebe2D8oBq9mg&offset=10
 #EXTINF:-1 ,Арсенал
 http://178.217.72.66:8080/arsenalhd/mono.m3u8
 #EXTINF:-1 ,Арсенал
@@ -343,7 +343,7 @@ http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
-http://salam-nsk-23.rutube.ru/dive/river-3-328.rutube.ru/JmewMy6ZUWRmPiqbobHpPg/stream/genetta-314.m9.rutube.ru/FT-Q4KMiNXqYXDA0K3xQpQ/1749544808/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+http://salam-ekb-73.rutube.ru/dive/river-3-328.rutube.ru/lsrFz3x77YZP8-jahcYqtg/stream/genetta-314.m9.rutube.ru/ogq0x1_sLMvu-UH2TvLVOQ/1749630240/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
 #EXTINF:-1 ,Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
@@ -365,7 +365,7 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородная жизнь
 http://185.57.68.14/40/mpegts
 #EXTINF:-1 ,Загородный Int
-http://salam-nsk-mts-103.rutube.ru/dive/river-3-334.rutube.ru/6edg8x8m_x0pU4E-5jH9Qg/stream/genetta-301.m9.rutube.ru/2fmk0s3yvyqGnZtqh7heyA/1749544842/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+http://salam-ekb-73.rutube.ru/dive/river-3-334.rutube.ru/8shDTiTtA3ebHg2_QV9_Lw/stream/genetta-301.m9.rutube.ru/Pz2QYhiNwpC7uW_xMuBxYw/1749630300/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Загородный Int
 http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 ,Лапки Live
@@ -504,7 +504,7 @@ http://178.217.72.66:8080/Viasat_Explorer/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://195.49.206.244:90/Ohota_i_rybalka/mono.m3u8?token=video
 #EXTINF:-1 ,Охотник и рыболов Int
-http://salam-mskm9-19.rutube.ru/dive/river-3-346.rutube.ru/HcIrCQgNXMoONjcqzESyEA/stream/genetta-319.m9.rutube.ru/oxFS2TyrnpwgvR9PB0-WWQ/1749365908/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://salam-ekb-80.rutube.ru/dive/river-3-346.rutube.ru/fGrh1P9gsHc8UG4DvA82WA/stream/genetta-319.m9.rutube.ru/JIdNRtJWEqMg3S4XKa2EUw/1749630345/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 http://salam-nsk-mts-103.rutube.ru/dive/river-3-346.rutube.ru/a5Ts1NbI03lBd2wow0wTfw/stream/genetta-319.m9.rutube.ru/2lag1siGsT5HQcRNXvZIig/1749544879/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
@@ -718,8 +718,6 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 #http://193.27.209.122/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 #http://193.27.209.122/eurosport2/index.m3u8
-#EXTINF:-1 ,IDC EuroSport
-http://217.19.214.38:8200/hls/78/live1.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 #EXTINF:-1 ,Конный мир
