@@ -177,7 +177,8 @@ http://94.230.128.107:8080/Friday/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА (+4)
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница! International
-http://45.11.139.43:8555/pyatnica/index.m3u8
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://92.43.140.249/s50/04.m3u8
 #EXTINF:-1 ,Суббота!
 http://195.49.206.244:90/Super/mono.m3u8?token=video
 #EXTINF:-1 ,Суббота!
@@ -198,7 +199,7 @@ http://salam-nsk-23.rutube.ru/dive/river-5-520.rutube.ru/Jwf1bf5N6Orf6i18ODH5Zw/
 #EXTINF:-1 ,Comedy Hub
 http://salam-ekb-102.rutube.ru/dive/river-5-521.rtbcdn.ru/g7Y66U1j4KkvP48IXISOGg/stream/genetta-320.m9.rutube.ru/HMNqP05sv6gs3XbB1I1j_g/1749630171/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
-http://river-3-321.rutube.ru/stream/genetta-517.ost.rutube.ru/aRxlHoxfw0OdcMbFEoeCaw/1749630205/e2d1a304d55b9a807ec5df1837859304/1080p_stream.m3u8
+http://river-3-321.rutube.ru/stream/genetta-524.ost.rutube.ru/u8QlBx5S7dCGTbYBVfulpw/1749716581/e2d1a304d55b9a807ec5df1837859304/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Красная линия
