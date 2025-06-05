@@ -196,7 +196,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://5.3.176.223:81/udp/235.10.10.75:1234
 #EXTINF:-1 ,Оружие
-http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDkxMDY5NTUsImlhdCI6MTc0OTAyMDU1NSwiY2lkIjo2LCJ1aWQiOjkyMTU1MTcyNywicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.sQfN3NFOMySIrNKhf6uMbIUgLZ0Rg7xebe2D8oBq9mg&offset=10
+http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDkxNTAwNzksImlhdCI6MTc0OTA2MzY3OSwiY2lkIjo2LCJ1aWQiOjkyMTY3NTE2OSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.D3lp2Ku04qWGeYU638YBmSWQxFQNWUtqq8teJ-A7faE&offset=10
 #EXTINF:-1 ,Арсенал
 http://178.217.72.66:8080/arsenalhd/mono.m3u8
 #EXTINF:-1 ,Арсенал
