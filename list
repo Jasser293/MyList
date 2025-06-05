@@ -462,11 +462,13 @@ http://217.113.25.29:8001/play/a047/index.m3u8
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://217.113.25.29:8001/play/a045/index.m3u8
-#EXTINF:-1 ,Discovery Channel
 http://195.245.99.242/Discovery/playlist.m3u8
+#EXTINF:-1 ,Discovery Channel
+http://217.113.25.29:8001/play/a045/index.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://195.245.99.242/ID/playlist.m3u8
+#EXTINF:-1 ,TLC
+http://195.245.99.242/TLC/playlist.m3u8
 #EXTINF:-1 ,TLC
 http://217.113.25.29:8001/play/a046/index.m3u8
 #EXTINF:-1 ,National Geographic
@@ -726,17 +728,15 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
-http://178.134.1.158:8081/eurosport/index.m3u8
+http://195.245.99.242/Eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
-#http://193.27.209.122/eurosport1/index.m3u8
+http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-#http://193.27.209.122/eurosport2/index.m3u8
+http://195.245.99.242/Eurosport2/playlist.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 #EXTINF:-1 ,Конный мир
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
-#EXTINF:-1 ,Billiards TV 
-https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,KHL Prime
 http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 #EXTINF:-1 ,Viasat Sport
