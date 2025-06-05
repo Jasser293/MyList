@@ -393,6 +393,8 @@ http://195.18.23.20:8000/play/10/index.m3u8
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня
+http://195.245.99.242/Kuhnya/playlist.m3u8
+#EXTINF:-1 ,Кухня
 http://217.113.25.29:8001/play/a013/index.m3u8
 #EXTINF:-1 ,Кухня
 http://178.217.72.66:8080/Kukhnya_TV/index.m3u8
@@ -521,6 +523,10 @@ http://river-mskm9mts-323.rutube.ru/stream/genetta-319.m9.rutube.ru/C6IO6viKEWph
 #EXTINF:-1 ,Дикий
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #http://45.143.108.110:2200/dikiy
+#EXTINF:-1 ,Дикая рыбалка
+http://195.245.99.242/Dikaya_ribalka/playlist.m3u8
+#EXTINF:-1 ,Дикая охота
+http://195.245.99.242/Dikaya_ohota/playlist.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
