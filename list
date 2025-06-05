@@ -277,9 +277,9 @@ https://luch.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EchoTV.ru" tvg-name="эхо-тв" tvg-logo="https://i.imgur.com/YWKJA1O.png" ,Эхо ТВ
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://5.3.176.223:81/udp/235.10.10.75:1234
+http://195.245.99.242/Oruzhie/playlist.m3u8
 #EXTINF:-1 ,Оружие
-http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDkxNTAwNzksImlhdCI6MTc0OTA2MzY3OSwiY2lkIjo2LCJ1aWQiOjkyMTY3NTE2OSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.D3lp2Ku04qWGeYU638YBmSWQxFQNWUtqq8teJ-A7faE&offset=10
+http://5.3.176.223:81/udp/235.10.10.75:1234
 #EXTINF:-1 ,Арсенал
 http://178.217.72.66:8080/arsenalhd/mono.m3u8
 #EXTINF:-1 ,Арсенал
