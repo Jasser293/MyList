@@ -463,6 +463,10 @@ http://217.113.25.29:8001/play/a047/index.m3u8
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://217.113.25.29:8001/play/a045/index.m3u8
+#EXTINF:-1 ,Discovery Channel
+http://195.245.99.242/Discovery/playlist.m3u8
+#EXTINF:-1 ,Investigation Discovery
+http://195.245.99.242/ID/playlist.m3u8
 #EXTINF:-1 ,TLC
 http://217.113.25.29:8001/play/a046/index.m3u8
 #EXTINF:-1 ,National Geographic
@@ -676,7 +680,11 @@ http://178.217.72.66:8080/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 ,Любимое кино
 http://45.143.108.110:2200/lubimoekino
 #EXTINF:-1 ,Русский бестселлер
+http://195.245.99.242/Bestseler/playlist.m3u8
+#EXTINF:-1 ,Русский бестселлер
 http://5.3.176.223:81/udp/235.10.10.45:1234
+#EXTINF:-1 ,Русский Детектив
+http://195.245.99.242/Detectiv/playlist.m3u8
 #EXTINF:-1 ,Русский Детектив
 http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
 #EXTINF:-1 ,Русский иллюзион
@@ -684,7 +692,7 @@ http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский роман
-#https://s7.merlive.am/ruskiroman/index.m3u8
+http://195.245.99.242/Roman/playlist.m3u8
 #EXTINF:-1 ,НСТ
 http://195.49.206.244:90/NST/mono.m3u8?token=video
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
