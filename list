@@ -6,9 +6,6 @@ http://31.184.219.37/pervyikanalhd_MSK/video.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 ,Первый канал
-http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
-#http://195.26.83.96:7013/play/12/index.m3u8
 #EXTINF:-1 ,Первый Канал (+4)
 http://109.200.130.123:7055/play/a01c
 #EXTINF:-1 ,Первый канал СНГ
@@ -458,8 +455,6 @@ http://109.200.130.123:7055/play/a01f
 #EXTINF:-1 ,TERRA
 http://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 ,Animal Planet
-http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
-#EXTINF:-1 ,Animal Planet
 http://217.113.25.29:8001/play/a047/index.m3u8
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
@@ -489,7 +484,7 @@ http://92.43.140.249/s99/04.m3u8
 #EXTINF:-1 ,Приключения
 http://91.194.191.241:8081/chid142/mono.m3u8
 #EXTINF:-1 ,Nat Geo Wild
-http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
+http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 ,Живая природа HD
 http://195.49.206.244:90/Zhivaya_Priroda_HD/mono.m3u8?token=video
 #EXTINF:-1 ,Домашние животные
@@ -591,8 +586,6 @@ http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
 http://195.49.206.244:90/Teatr/mono.m3u8?token=video
-#EXTINF:-1 ,Сапфир
-http://135.181.115.81:8000/play/a03f/index.m3u8?token=livetv
 #EXTINF:-1 ,Сапфир
 http://109.200.130.123:7055/play/a00z
 #EXTINF:-1 ,2x2
@@ -816,7 +809,7 @@ http://178.217.72.66:8080/Karusel/index.m3u8
 #EXTINF:-1 ,Мультиландия
 http://178.217.72.66:8080/Mult/index.m3u8
 #EXTINF:-1 ,Gulli Girl
-http://135.181.115.81:8000/play/a03p/index.m3u8?token=livetv
+http://178.217.72.66:8080/Gulli/index.m3u8
 #EXTINF:-1 ,Cartoon Network
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 ,Пингвин ТВ
