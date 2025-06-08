@@ -104,6 +104,7 @@ http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
+http://92.242.110.52:9835/udp/238.1.6.27:1234
 #http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
@@ -748,8 +749,12 @@ http://195.49.206.244:90/Strana/mono.m3u8?token=video
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 2
 http://195.49.206.244:90/Football_2HD/mono.m3u8?token=video
+#EXTINF:-1 ,Матч! Футбол 2
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
 http://195.49.206.244:90/football_3/mono.m3u8?token=video
+#EXTINF:-1 ,Матч! Футбол 3
+http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="астрахань спорт" tvg-logo="https://i.imgur.com/BKaEtqL.png" ,Астрахань Спорт
 http://213.108.175.226/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
