@@ -7,7 +7,7 @@ http://31.184.219.37/pervyikanalhd_MSK/video.m3u8
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый Канал (+4)
-http://109.200.130.123:7055/play/a01c
+#http://109.200.130.123:7055/play/a01c
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s14/04.m3u8
@@ -124,7 +124,7 @@ http://178.217.72.66:8080/TNT_HD/index.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ (+4)
-http://109.200.130.123:7534/play/a00j
+#http://109.200.130.123:7534/play/a00j
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
@@ -210,7 +210,7 @@ http://212.233.98.62/0mir/index.m3u8
 #EXTINF:-1 tvg-name="о!кино" ,О!Кино
 http://212.233.98.62/okino-tv/index.m3u8
 #EXTINF:-1 ,Ностальгия
-http://109.200.130.123:7534/play/a00p
+#http://109.200.130.123:7534/play/a00p
 #EXTINF:-1 ,Ретро ТВ
 http://195.49.206.244:90/Retro/mono.m3u8?token=video
 #http://178.212.71.253:8000/play/90/index.m3u8
@@ -298,7 +298,7 @@ http://45.143.108.110:2200/perec
 #EXTINF:-1 ,Перец
 http://213.169.39.30:5261
 #EXTINF:-1 ,КВН ТВ
-http://109.200.130.123:7055/play/a012
+#http://109.200.130.123:7055/play/a012
 #EXTINF:-1 ,КВН ТВ
 http://178.217.72.66:8080/KVN_TV/index.m3u8
 #EXTINF:-1 ,Gags Network
@@ -318,7 +318,7 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
 http://178.217.72.66:8080/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
-http://109.200.130.123:7055/play/a01b
+#http://109.200.130.123:7055/play/a01b
 #EXTINF:-1 ,Че!
 http://31.184.219.37/che/index.m3u8
 #EXTINF:-1 ,Че!
@@ -381,7 +381,7 @@ http://178.217.72.66:8080/Doktor/index.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 #EXTINF:-1 ,Доктор
-http://109.200.130.123:7055/play/a01k
+#http://109.200.130.123:7055/play/a01k
 #EXTINF:-1 ,Доктор
 #http://45.143.108.110:2200/doctor
 #EXTINF:-1 ,Здоровое ТВ
@@ -453,7 +453,7 @@ http://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
 #EXTINF:-1 ,Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,TERRA
-http://109.200.130.123:7055/play/a01f
+#http://109.200.130.123:7055/play/a01f
 #EXTINF:-1 ,TERRA
 http://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -535,7 +535,7 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Жара
-http://109.200.130.123:7537/play/a03u
+#http://109.200.130.123:7537/play/a03u
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="муз-тв" tvg-logo="https://i.imgur.com/BtqrHmz.png" ,Муз-ТВ
 http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1 ,Viva Russia
@@ -585,7 +585,7 @@ http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
 http://195.49.206.244:90/Teatr/mono.m3u8?token=video
 #EXTINF:-1 ,Сапфир
-http://109.200.130.123:7055/play/a00z
+#http://109.200.130.123:7055/play/a00z
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=video
 #EXTINF:-1 ,2x2
@@ -597,7 +597,7 @@ https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,КИНЕКО
 #http://s7.merlive.am/kineko/index.m3u8
 #EXTINF:-1 ,Еврокино
-http://109.200.130.123:7537/play/a030
+#http://109.200.130.123:7537/play/a030
 #EXTINF:-1 ,Viasat Kino World
 http://ukr.ukrainske.tv/9987/tvainua/video.m3u8
 #EXTINF:-1 ,Видеокассета
@@ -745,7 +745,7 @@ http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
 http://195.49.206.244:90/Arena/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! Игра
-http://109.200.130.123:7534/play/a00i
+#http://109.200.130.123:7534/play/a00i
 #EXTINF:-1 ,МАТЧ! Страна
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! Премьер
@@ -753,7 +753,7 @@ http://109.200.130.124:7005/play/a00d
 #EXTINF:-1 ,Матч! Боец
 http://109.200.130.124:7005/play/a00j
 #EXTINF:-1 ,Матч! Боец
-http://109.200.130.123:7534/play/a008
+#http://109.200.130.123:7534/play/a008
 #EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 1
@@ -799,7 +799,7 @@ http://92.43.140.249/s59/04.m3u8
 #EXTINF:-1 ,Детский Мир
 http://45.143.108.110:2200/detskimir
 #EXTINF:-1 ,В гостях у сказки
-http://109.200.130.123:7537/play/a03m
+#http://109.200.130.123:7537/play/a03m
 #EXTINF:-1 ,КиноКазка
 http://95.67.12.82:9084
 #EXTINF:-1 ,Карусель
