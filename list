@@ -275,8 +275,6 @@ https://luch.iptv2022.com/tracks-v1a1/mono.m3u8
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://195.245.99.242/Oruzhie/playlist.m3u8
-#EXTINF:-1 ,Оружие
-http://5.3.176.223:81/udp/235.10.10.75:1234
 #EXTINF:-1 ,Арсенал
 http://178.217.72.66:8080/arsenalhd/mono.m3u8
 #EXTINF:-1 ,Арсенал
@@ -333,8 +331,6 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 http://178.217.72.66:8080/Avto_24/index.m3u8
 #EXTINF:-1 ,Авто Плюс
 http://217.113.25.29:8001/play/a012/index.m3u8
-#EXTINF:-1 ,Авто Плюс
-http://5.3.176.223:81/udp/235.10.10.23:1234
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Драйв
@@ -530,8 +526,6 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
-#EXTINF:-1 ,Жара
-http://5.3.176.223:81/udp/235.10.10.114:1234
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="муз-тв" tvg-logo="https://i.imgur.com/BtqrHmz.png" ,Муз-ТВ
 http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1 ,Viva Russia
@@ -582,8 +576,6 @@ http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 http://195.49.206.244:90/Teatr/mono.m3u8?token=video
 #EXTINF:-1 ,Сапфир
 http://31.173.165.29:8000/play/a04g/index.m3u8
-#EXTINF:-1 ,Сапфир
-http://5.3.176.223:81/udp/235.10.10.104:1234
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=video
 #EXTINF:-1 ,2x2
@@ -678,8 +670,6 @@ http://178.217.72.66:8080/Rodnoe_Kino/index.m3u8
 http://45.143.108.110:2200/lubimoekino
 #EXTINF:-1 ,Русский бестселлер
 http://195.245.99.242/Bestseler/playlist.m3u8
-#EXTINF:-1 ,Русский бестселлер
-http://5.3.176.223:81/udp/235.10.10.45:1234
 #EXTINF:-1 ,Русский Детектив
 http://195.245.99.242/Detectiv/playlist.m3u8
 #EXTINF:-1 ,Русский Детектив
@@ -742,12 +732,16 @@ http://185.46.48.18/match/tracks-v1a1/mono.m3u8
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
 http://195.49.206.244:90/Arena/mono.m3u8?token=video
+#EXTINF:-1 ,МАТЧ! Арена
+http://195.245.99.242/Match_arena/playlist.m3u8
 #EXTINF:-1 ,МАТЧ! Боец
 http://195.49.206.244:90/Boets/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! Игра
 http://195.49.206.244:90/Igra/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! Игра
 http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
+#EXTINF:-1 ,МАТЧ! Игра
+http://195.245.99.242/Match_igra/playlist.m3u8
 #EXTINF:-1 ,МАТЧ! Страна
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 1
