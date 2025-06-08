@@ -79,8 +79,6 @@ http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
 http://178.217.72.66:8080/REN_TV/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
-#EXTINF:-1 ,Рен ТВ (+4)
-#http://s1.merlive.am/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://213.91.178.133:8000/play/a0ax
 #EXTINF:-1 ,ТВЦ HD
@@ -106,7 +104,7 @@ http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
@@ -210,7 +208,7 @@ http://212.233.98.62/0mir/index.m3u8
 #EXTINF:-1 tvg-name="о!кино" ,О!Кино
 http://212.233.98.62/okino-tv/index.m3u8
 #EXTINF:-1 ,Ностальгия
-#http://109.200.130.123:7534/play/a00p
+http://178.217.72.66:8080/Nostalgiya/index.m3u8
 #EXTINF:-1 ,Ретро ТВ
 http://195.49.206.244:90/Retro/mono.m3u8?token=video
 #http://178.212.71.253:8000/play/90/index.m3u8
@@ -318,9 +316,9 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
 http://178.217.72.66:8080/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
-#http://109.200.130.123:7055/play/a01b
+http://31.184.219.37/che/video.m3u8
 #EXTINF:-1 ,Че!
-http://31.184.219.37/che/index.m3u8
+http://217.113.25.29:8001/play/a01c/index.m3u8
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Ю
@@ -381,9 +379,7 @@ http://178.217.72.66:8080/Doktor/index.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 #EXTINF:-1 ,Доктор
-#http://109.200.130.123:7055/play/a01k
-#EXTINF:-1 ,Доктор
-#http://45.143.108.110:2200/doctor
+http://45.143.108.110:2200/doctor
 #EXTINF:-1 ,Здоровое ТВ
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 ,Живи
@@ -535,7 +531,7 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Жара
-#http://109.200.130.123:7537/play/a03u
+http://5.3.176.223:81/udp/235.10.10.114:1234
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="муз-тв" tvg-logo="https://i.imgur.com/BtqrHmz.png" ,Муз-ТВ
 http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1 ,Viva Russia
@@ -585,7 +581,9 @@ http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
 http://195.49.206.244:90/Teatr/mono.m3u8?token=video
 #EXTINF:-1 ,Сапфир
-#http://109.200.130.123:7055/play/a00z
+http://31.173.165.29:8000/play/a04g/index.m3u8
+#EXTINF:-1 ,Сапфир
+http://5.3.176.223:81/udp/235.10.10.104:1234
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=video
 #EXTINF:-1 ,2x2
@@ -597,7 +595,7 @@ https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,КИНЕКО
 #http://s7.merlive.am/kineko/index.m3u8
 #EXTINF:-1 ,Еврокино
-#http://109.200.130.123:7537/play/a030
+http://45.143.108.110:2200/evrokino
 #EXTINF:-1 ,Viasat Kino World
 http://ukr.ukrainske.tv/9987/tvainua/video.m3u8
 #EXTINF:-1 ,Видеокассета
@@ -745,7 +743,7 @@ http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
 http://195.49.206.244:90/Arena/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! Игра
-#http://109.200.130.123:7534/play/a00i
+http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 #EXTINF:-1 ,МАТЧ! Страна
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! Премьер
@@ -799,7 +797,7 @@ http://92.43.140.249/s59/04.m3u8
 #EXTINF:-1 ,Детский Мир
 http://45.143.108.110:2200/detskimir
 #EXTINF:-1 ,В гостях у сказки
-#http://109.200.130.123:7537/play/a03m
+http://178.217.72.66:8080/Black/index.m3u8
 #EXTINF:-1 ,КиноКазка
 http://95.67.12.82:9084
 #EXTINF:-1 ,Карусель
