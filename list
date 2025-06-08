@@ -519,6 +519,8 @@ http://195.245.99.242/Dikaya_ribalka/playlist.m3u8
 http://195.245.99.242/Dikaya_ohota/playlist.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
+#EXTINF:-1 ,Prosto Fishing
+http://31.43.48.248:7000/ch344/video.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 ,Шансон ТВ
@@ -747,6 +749,8 @@ http://195.245.99.242/Match_igra/playlist.m3u8
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
+#EXTINF:-1 ,Матч! Футбол 1
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 #EXTINF:-1 ,Матч! Футбол 2
 http://195.49.206.244:90/Football_2HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 2
@@ -754,7 +758,8 @@ http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
 http://195.49.206.244:90/football_3/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 3
-http://185.57.68.33/110/mpegts
+http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+#http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="астрахань спорт" tvg-logo="https://i.imgur.com/BKaEtqL.png" ,Астрахань Спорт
 http://213.108.175.226/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
