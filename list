@@ -183,7 +183,7 @@ http://salam-kzn-32.rutube.ru/dive/river-3-327.rutube.ru/f-rHXVioLFJPysGxmi3WIw/
 #EXTINF:-1 ,Твой 2007
 http://salam-kzn-32.rutube.ru/dive/river-5-527.rtbcdn.ru/jg6VH_ItuZHwRpGZVDnvMg/stream/genetta-503.ost.rutube.ru/svG6xE7LweFkdiYOI9a8jw/1749915928/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
 #EXTINF:-1 ,Кино и жизнь
-http://salam-kzn-32.rutube.ru/dive/river-3-318.rutube.ru/RxEK7lf9p-otjWyKH3kmdw/stream/genetta-513.ost.rutube.ru/YmFoxLgAuUMG6LQsiX2QZg/1749915982/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+http://salam-che-39.rutube.ru/dive/river-3-318.rutube.ru/XUshb2bxCzBaCG6XkCAjww/stream/genetta-302.m9.rutube.ru/RVjsffCBGttYxGD3A3pNzQ/1749975808/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-kzn-32.rutube.ru/dive/river-5-520.rtbcdn.ru/pF-dM7BceZ3Icoqu0HClIA/stream/genetta-313.m9.rutube.ru/8UYqDCWCHpOrPOGvuHosWg/1749916015/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
@@ -191,7 +191,7 @@ http://salam-che-39.rutube.ru/dive/river-5-520.rtbcdn.ru/MWmOQ_eGl4ayOwQtMmntcA/
 #EXTINF:-1 ,Comedy Hub
 http://salam-kzn-32.rutube.ru/dive/river-5-521.rtbcdn.ru/u2i_lljT6YnNDUcA87lvyg/stream/genetta-519.ost.rutube.ru/V54DktzXLGtmpp-sp0m2LA/1749916049/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
-http://river-mskm9rtk-333.rutube.ru/stream/genetta-516.ost.rutube.ru/O67SVG87I2WOBDoiYuxBbA/1749916083/e2d1a304d55b9a807ec5df1837859304/1080p_stream.m3u8
+http://river-3-321.rutube.ru/stream/genetta-517.ost.rutube.ru/ksyOHaxJORvFebPFxrqUJg/1749975886/e2d1a304d55b9a807ec5df1837859304/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Красная линия
@@ -742,28 +742,20 @@ http://185.46.48.18/match/tracks-v1a1/mono.m3u8
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
 http://195.49.206.244:90/Arena/mono.m3u8?token=video
+#EXTINF:-1 ,МАТЧ! Боец
+http://195.49.206.244:90/Boets/mono.m3u8?token=video
+#EXTINF:-1 ,МАТЧ! Игра
+http://195.49.206.244:90/Igra/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! Игра
 http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 #EXTINF:-1 ,МАТЧ! Страна
 http://195.49.206.244:90/Strana/mono.m3u8?token=video
-#EXTINF:-1 ,МАТЧ! Премьер
-http://109.200.130.124:7005/play/a00d
-#EXTINF:-1 ,Матч! Боец
-http://109.200.130.124:7005/play/a00j
-#EXTINF:-1 ,Матч! Боец
-#http://109.200.130.123:7534/play/a008
 #EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
-#EXTINF:-1 ,Матч! Футбол 1
-http://109.200.130.124:7005/play/a00h
 #EXTINF:-1 ,Матч! Футбол 2
 http://195.49.206.244:90/Football_2HD/mono.m3u8?token=video
-#EXTINF:-1 ,Матч! Футбол 2
-http://109.200.130.124:7005/play/a00b
 #EXTINF:-1 ,Матч! Футбол 3
 http://195.49.206.244:90/football_3/mono.m3u8?token=video
-#EXTINF:-1 ,Матч! Футбол 3
-http://109.200.130.124:7005/play/a00c
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="астрахань спорт" tvg-logo="https://i.imgur.com/BKaEtqL.png" ,Астрахань Спорт
 http://213.108.175.226/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
