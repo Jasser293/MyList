@@ -737,6 +737,7 @@ http://94.230.250.141:8080/machtv/index.m3u8
 http://195.49.206.244:90/Arena/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! Арена
 http://195.245.99.242/Match_arena/playlist.m3u8
+#http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! Боец
 http://195.49.206.244:90/Boets/mono.m3u8?token=video
 #EXTINF:-1 ,МАТЧ! Игра
@@ -760,6 +761,8 @@ http://195.49.206.244:90/football_3/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 3
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 #http://185.57.68.33/110/mpegts
+#EXTINF:-1 ,KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="астрахань спорт" tvg-logo="https://i.imgur.com/BKaEtqL.png" ,Астрахань Спорт
 http://213.108.175.226/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
