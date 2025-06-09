@@ -192,8 +192,6 @@ http://salam-kzn-32.rutube.ru/dive/river-5-520.rtbcdn.ru/pF-dM7BceZ3Icoqu0HClIA/
 http://salam-che-39.rutube.ru/dive/river-5-520.rtbcdn.ru/MWmOQ_eGl4ayOwQtMmntcA/stream/genetta-313.m9.rutube.ru/HRMpS56pLbw6DxFxyDND6w/1749916425/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Comedy Hub
 http://salam-kzn-32.rutube.ru/dive/river-5-521.rtbcdn.ru/u2i_lljT6YnNDUcA87lvyg/stream/genetta-519.ost.rutube.ru/V54DktzXLGtmpp-sp0m2LA/1749916049/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
-#EXTINF:-1 ,Резонанс ТВ
-http://river-3-321.rutube.ru/stream/genetta-517.ost.rutube.ru/ksyOHaxJORvFebPFxrqUJg/1749975886/e2d1a304d55b9a807ec5df1837859304/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Красная линия
@@ -840,12 +838,3 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 ,Первый канал СНГ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s14/index.m3u8
-#EXTINF:-1 ,Первый канал СНГ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s14/03.m3u8
-#EXTINF:-1 ,Первый канал СНГ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s14/04.m3u8
