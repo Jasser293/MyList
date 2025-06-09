@@ -94,8 +94,6 @@ http://45.143.108.110:2200/tvci
 http://31.184.219.37/piatyikanal_MSK/video.m3u8
 #EXTINF:-1 ,Пятый канал
 http://178.217.72.66:8080/5_Kanal/index.m3u8
-#EXTINF:-1 ,Пятый канал
-http://217.113.25.29:8001/play/a015/index.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -155,8 +153,6 @@ http://178.217.72.66:8080/TV3/index.m3u8
 http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 ,Домашний
 http://178.217.72.66:8080/Domashniy/index.m3u8
-#EXTINF:-1 ,Домашний
-http://217.113.25.29:8001/play/a02v/index.m3u8
 #EXTINF:-1 ,Домашний
 http://195.49.206.244:90/Domashni/mono.m3u8?token=video
 #EXTINF:-1 ,Домашний (+4)
@@ -316,8 +312,6 @@ http://178.217.72.66:8080/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
 http://31.184.219.37/che/video.m3u8
 #EXTINF:-1 ,Че!
-http://217.113.25.29:8001/play/a01c/index.m3u8
-#EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
@@ -330,7 +324,7 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,Авто 24
 http://178.217.72.66:8080/Avto_24/index.m3u8
 #EXTINF:-1 ,Авто Плюс
-http://217.113.25.29:8001/play/a012/index.m3u8
+http://195.245.99.242/Avto_plus/playlist.m3u8
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Драйв
@@ -385,8 +379,6 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 ,Кухня
 http://195.245.99.242/Kuhnya/playlist.m3u8
-#EXTINF:-1 ,Кухня
-http://217.113.25.29:8001/play/a013/index.m3u8
 #EXTINF:-1 ,Кухня
 http://178.217.72.66:8080/Kukhnya_TV/index.m3u8
 #EXTINF:-1 ,Food Network
@@ -448,22 +440,16 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #http://109.200.130.123:7055/play/a01f
 #EXTINF:-1 ,TERRA
 http://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-#EXTINF:-1 ,Animal Planet
-http://217.113.25.29:8001/play/a047/index.m3u8
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://195.245.99.242/Discovery/playlist.m3u8
-#EXTINF:-1 ,Discovery Channel
-http://217.113.25.29:8001/play/a045/index.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://195.245.99.242/ID/playlist.m3u8
 #EXTINF:-1 ,TLC
 http://195.245.99.242/TLC/playlist.m3u8
-#EXTINF:-1 ,TLC
-http://217.113.25.29:8001/play/a046/index.m3u8
 #EXTINF:-1 ,National Geographic
-http://217.113.25.29:8001/play/a00y/index.m3u8
+http://195.245.99.242/National_Geographic/playlist.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 ,History
@@ -640,8 +626,6 @@ http://31.173.165.29:8000/play/a04z/index.m3u8
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,Кинохит
 http://178.217.72.66:8080/Kinokhit/index.m3u8
-#EXTINF:-1 ,Кинохит
-http://217.113.25.29:8001/play/a01t/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://178.217.72.66:8080/Kinomiks/index.m3u8
 #EXTINF:-1 ,Кинозал
@@ -804,8 +788,6 @@ http://178.217.72.66:8080/Karusel/index.m3u8
 http://178.217.72.66:8080/Mult/index.m3u8
 #EXTINF:-1 ,Gulli Girl
 http://178.217.72.66:8080/Gulli/index.m3u8
-#EXTINF:-1 ,Cartoon Network
-http://217.113.25.29:8001/play/a02i/index.m3u8
 #EXTINF:-1 ,Пингвин ТВ
 http://85.192.10.173/PingvinRu/mono.m3u8
 #EXTINF:-1 ,Мамонтенок ТВ
