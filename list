@@ -8,9 +8,10 @@ http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый Канал (+4)
 #http://109.200.130.123:7055/play/a01c
-#EXTINF:-1 ,Первый канал СНГ
+#EXTINF:-1 ,Первый канал Европа
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s14/04.m3u8
+https://streaming.thestream.cyou/live/210.m3u8
+#http://92.43.140.249/s14/04.m3u8
 #EXTINF:-1 ,Первый канал Евразия
 http://89.106.234.5/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 ,НТВ
@@ -474,10 +475,10 @@ http://95.67.12.81:10620
 #EXTINF:-1 ,История
 http://178.217.72.66:8080/Istoriya/index.m3u8
 #EXTINF:-1 ,Приключения
+http://91.194.191.241:8081/chid142/mono.m3u8
+#EXTINF:-1 ,Приключения
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s99/04.m3u8
-#EXTINF:-1 ,Приключения
-http://91.194.191.241:8081/chid142/mono.m3u8
 #EXTINF:-1 ,Nat Geo Wild
 http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 ,Живая природа HD
@@ -725,8 +726,6 @@ http://195.245.99.242/Eurosport2/playlist.m3u8
 http://95.67.12.82:9067
 #EXTINF:-1 ,Конный мир
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
-#EXTINF:-1 ,KHL Prime
-http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
 #EXTINF:-1 ,Матч!
