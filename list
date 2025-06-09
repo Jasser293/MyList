@@ -11,7 +11,7 @@ http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал Европа
 #EXTVLCOPT:http-user-agent=Donate BTC
 https://streaming.thestream.cyou/live/210.m3u8
-#http://92.43.140.249/s14/04.m3u8
+#http://92.43.140.249/s14/index.m3u8
 #EXTINF:-1 ,Первый канал Евразия
 http://89.106.234.5/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 ,НТВ
@@ -281,7 +281,7 @@ http://195.245.99.242/Oruzhie/playlist.m3u8
 http://178.217.72.66:8080/arsenalhd/mono.m3u8
 #EXTINF:-1 ,Арсенал
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s68/04.m3u8
+#http://92.43.140.249/s68/04.m3u8
 #EXTINF:-1 ,Ратник
 http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 #EXTINF:-1 ,Победа
@@ -290,7 +290,7 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 ,ЦТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s20/03.m3u8
+#http://92.43.140.249/s20/03.m3u8
 #EXTINF:-1 ,Перец
 http://45.143.108.110:2200/perec
 #EXTINF:-1 ,Перец
@@ -343,7 +343,7 @@ http://45.143.108.110:2200/mujskoi
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 ,RT Doc
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s93/04.m3u8
+#http://92.43.140.249/s93/04.m3u8
 #EXTINF:-1 ,RT Doc
 http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
 #EXTINF:-1 ,Соловьев.Live
@@ -393,7 +393,7 @@ http://217.113.25.29:8001/play/a013/index.m3u8
 http://178.217.72.66:8080/Kukhnya_TV/index.m3u8
 #EXTINF:-1 ,Food Network
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s18/04.m3u8
+#http://92.43.140.249/s18/04.m3u8
 #EXTINF:-1 tvg-name="вкус" ,Вкус
 http://91.194.191.241:8081/chid515/mono.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -478,7 +478,7 @@ http://178.217.72.66:8080/Istoriya/index.m3u8
 http://91.194.191.241:8081/chid142/mono.m3u8
 #EXTINF:-1 ,Приключения
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s99/04.m3u8
+#http://92.43.140.249/s99/04.m3u8
 #EXTINF:-1 ,Nat Geo Wild
 http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 ,Живая природа HD
@@ -793,7 +793,7 @@ http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 #EXTINF:-1 ,TiJi
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s59/04.m3u8
+#http://92.43.140.249/s59/04.m3u8
 #EXTINF:-1 ,Детский Мир
 http://45.143.108.110:2200/detskimir
 #EXTINF:-1 ,В гостях у сказки
@@ -843,3 +843,9 @@ http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 #EXTINF:-1 ,Первый канал СНГ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://92.43.140.249/s14/index.m3u8
+#EXTINF:-1 ,Первый канал СНГ
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://92.43.140.249/s14/03.m3u8
+#EXTINF:-1 ,Первый канал СНГ
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://92.43.140.249/s14/04.m3u8
