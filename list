@@ -293,8 +293,6 @@ http://213.169.39.30:5261
 #http://109.200.130.123:7055/play/a012
 #EXTINF:-1 ,КВН ТВ
 http://178.217.72.66:8080/KVN_TV/index.m3u8
-#EXTINF:-1 ,Gags Network
-http://95.67.12.82:9069
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
 http://78.24.180.184:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
@@ -336,7 +334,7 @@ http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 ,RT Doc
 http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
 #EXTINF:-1 ,RT Doc
-http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/gmSfdbIeykPfEWMSapzEUg/1749568439/bb71a99e0ddc621322dafad338b96a3e/1080p_stream.m3u8
+http://45.143.108.110:2200/RTDOC
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
@@ -434,7 +432,8 @@ http://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 tvg-id="KabbalaTV.ru" tvg-name="каббала тв" tvg-logo="https://i.imgur.com/uaffIpV.png" ,Каббала ТВ
 http://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
 #EXTINF:-1 ,Жар Птица
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+http://river-3-316.rtbcdn.ru/stream/genetta-511.ost.rutube.ru/D9y4XHqQUB2e_wWKAHko3A/1750235449/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
+#http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,TERRA
 #http://109.200.130.123:7055/play/a01f
 #EXTINF:-1 ,TERRA
