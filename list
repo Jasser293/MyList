@@ -448,6 +448,10 @@ http://195.245.99.242/ID/playlist.m3u8
 http://195.245.99.242/TLC/playlist.m3u8
 #EXTINF:-1 ,National Geographic
 http://195.245.99.242/National_Geographic/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
+http://188.237.47.212:6005
+#EXTINF:-1 ,Nat Geo Wild
+http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 ,History
@@ -461,8 +465,6 @@ http://91.194.191.241:8081/chid142/mono.m3u8
 #EXTINF:-1 ,Приключения
 #EXTVLCOPT:http-user-agent=Donate BTC
 #http://92.43.140.249/s99/04.m3u8
-#EXTINF:-1 ,Nat Geo Wild
-http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 ,Живая природа HD
 http://195.49.206.244:90/Zhivaya_Priroda_HD/mono.m3u8?token=video
 #EXTINF:-1 ,Домашние животные
