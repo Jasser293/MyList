@@ -104,6 +104,7 @@ http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
+http://109.74.170.223:1234/udp/239.255.0.180:1234
 #http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
@@ -114,8 +115,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,ТНТ
-#http://salam-kzn-32.rutube.ru/dive/river-3-321.rutube.ru/n_TVxfYnsMG3LPiDsF6bTQ/stream/genetta-323.m9.rutube.ru/l5mTd7heYCejPpcGVvXv6g/1749915665/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
-#EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
 http://178.217.72.66:8080/TNT_HD/index.m3u8
@@ -125,8 +124,6 @@ http://94.230.128.107:8080/THT/index.m3u8
 #http://109.200.130.123:7534/play/a00j
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
-#EXTINF:-1 ,ТНТ4
-#http://salam-kzn-32.rutube.ru/dive/river-5-549.rtbcdn.ru/43ZSpD_iqnCMatwGvIxVRA/stream/genetta-319.m9.rutube.ru/kM_6f9qPcjA7i4BHcTQ6IQ/1749915464/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ4
@@ -144,8 +141,6 @@ http://195.49.206.244:90/STS_Love/mono.m3u8?token=video
 #EXTINF:-1 ,СТС Love
 http://178.217.72.66:8080/STS_Love/index.m3u8
 #EXTINF:-1 ,ТВ3
-#http://salam-kzn-32.rutube.ru/dive/river-5-513.rtbcdn.ru/U25RSzA6V71rMo21-jXouA/stream/genetta-319.m9.rutube.ru/bC_ggNKcL7eS-mGB07C0TA/1749915742/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
-#EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=video
 #EXTINF:-1 ,ТВ3
 http://178.217.72.66:8080/TV3/index.m3u8
@@ -157,8 +152,6 @@ http://178.217.72.66:8080/Domashniy/index.m3u8
 http://195.49.206.244:90/Domashni/mono.m3u8?token=video
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
-#EXTINF:-1 ,ПЯТНИЦА
-#http://salam-kzn-32.rutube.ru/dive/river-3-336.rutube.ru/CA78KI6JFZ20Qoj2mJOURQ/stream/genetta-318.m9.rutube.ru/hvoKhbbEksmZ6eRlxlkmcA/1749915805/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://195.49.206.244:90/Pyatnica/mono.m3u8?token=video
 #EXTINF:-1 ,ПЯТНИЦА
@@ -424,6 +417,7 @@ http://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 tvg-id="KabbalaTV.ru" tvg-name="каббала тв" tvg-logo="https://i.imgur.com/uaffIpV.png" ,Каббала ТВ
 http://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
 #EXTINF:-1 ,Жар Птица
+http://river-3-316.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/AHyCNbrLB48pZ3rOuBWLtw/1750846788/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
 #http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,TERRA
 #http://109.200.130.123:7055/play/a01f
