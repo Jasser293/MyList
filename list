@@ -440,7 +440,7 @@ http://188.237.47.212:6005
 #EXTINF:-1 ,Nat Geo Wild
 http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
-#http://45.11.139.43:8555/ocean/index.m3u8
+http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 ,History
 http://95.67.12.81:10619
 #EXTINF:-1 ,H2
@@ -533,6 +533,8 @@ http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 ,Trace Urban
 http://95.67.12.82:9068
+#EXTINF:-1 ,ELECTRO
+http://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 #EXTINF:-1 tvg-id="XITE.nl" tvg-name="xite hits" tvg-logo="https://i.imgur.com/jxuwGRi.png" ,XITE Hits
 https://xite-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,OneBY HD
