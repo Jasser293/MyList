@@ -2,7 +2,7 @@
 #EXTINF:-1 ,Первый канал
 http://salam-che-39.rutube.ru/dive/river-5-543.rtbcdn.ru/9qwDQ7rj1TlrRHsZybmCzA/stream/genetta-303.m9.rutube.ru/Nn99W38u3v1bkeBZ4bPYbA/1750580788/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-http://salam-smf-25.rutube.ru/dive/river-5-543.rtbcdn.ru/0Tp9VZ5gfJN_wkLYl9QECQ/stream/genetta-303.m9.rutube.ru/BrP8VOz1fQz3gOByVaUKQA/1750788037/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://salam-mskth-10.rutube.ru/dive/river-5-543.rtbcdn.ru/8prlf2_dy_B-Z81MUswNRg/stream/genetta-303.m9.rutube.ru/DbsHxqPKJF27WSx9UbtXpg/1750840717/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -424,7 +424,6 @@ http://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 tvg-id="KabbalaTV.ru" tvg-name="каббала тв" tvg-logo="https://i.imgur.com/uaffIpV.png" ,Каббала ТВ
 http://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
 #EXTINF:-1 ,Жар Птица
-http://river-3-316.rtbcdn.ru/stream/genetta-511.ost.rutube.ru/D9y4XHqQUB2e_wWKAHko3A/1750235449/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
 #http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,TERRA
 #http://109.200.130.123:7055/play/a01f
@@ -447,7 +446,7 @@ http://188.237.47.212:6005
 #EXTINF:-1 ,Nat Geo Wild
 http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
-http://45.11.139.43:8555/ocean/index.m3u8
+#http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 ,History
 http://95.67.12.81:10619
 #EXTINF:-1 ,H2
