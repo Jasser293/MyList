@@ -2,7 +2,7 @@
 #EXTINF:-1 ,Первый канал
 http://salam-che-39.rutube.ru/dive/river-5-543.rtbcdn.ru/9qwDQ7rj1TlrRHsZybmCzA/stream/genetta-303.m9.rutube.ru/Nn99W38u3v1bkeBZ4bPYbA/1750580788/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-http://salam-mskth-10.rutube.ru/dive/river-5-543.rtbcdn.ru/8prlf2_dy_B-Z81MUswNRg/stream/genetta-303.m9.rutube.ru/DbsHxqPKJF27WSx9UbtXpg/1750840717/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://salam-smr-53.rutube.ru/dive/river-5-543.rtbcdn.ru/GmO7Tv4FixttV9CwmRJIeg/stream/genetta-303.m9.rutube.ru/njdxUPzTKVnndiCUq-SvDg/1750928554/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -104,7 +104,6 @@ http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
-http://109.74.170.223:1234/udp/239.255.0.180:1234
 #http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
@@ -176,7 +175,7 @@ http://salam-che-39.rutube.ru/dive/river-3-318.rtbcdn.ru/v_hlw_V2QulDHt0wJjaFuA/
 #EXTINF:-1 ,Кинолента 24
 http://salam-che-39.rutube.ru/dive/river-5-520.rtbcdn.ru/Zp2cfTk1B7_bttlS6FCqOw/stream/genetta-511.ost.rutube.ru/9qrTZKKuuBYrTqNTkor08A/1750580976/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-mskm9-48.rutube.ru/dive/river-5-520.rtbcdn.ru/Aj6yRNgwZzVk7zC11LmSTQ/stream/genetta-511.ost.rutube.ru/5JEaIlfdXnGT_9WA2jrRzA/1750754099/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+http://salam-smr-53.rutube.ru/dive/river-5-520.rtbcdn.ru/ql394JGt9K5QCUF27MS43w/stream/genetta-511.ost.rutube.ru/9b7pWox3ICTYSUQ7Y_7Pyw/1750928703/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Comedy Hub
 http://salam-che-84.rutube.ru/dive/river-5-521.rtbcdn.ru/Z1VW0gIN-MT4-PpwiyIIJg/stream/genetta-519.ost.rutube.ru/DKFKDNesIoqYzlB503OROA/1750581009/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
@@ -479,7 +478,7 @@ http://178.217.72.66:8080/Viasat_Explorer/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://195.49.206.244:90/Ohota_i_rybalka/mono.m3u8?token=video
 #EXTINF:-1 ,Охотник и рыболов Int
-http://salam-smf-56.rutube.ru/dive/river-3-346.rtbcdn.ru/iwm3n0mCKbfcIe9Qko34lA/stream/genetta-512.ost.rutube.ru/YHEipjaNsIBT_F80eyLjHA/1750788113/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://salam-smr-53.rutube.ru/dive/river-3-346.rtbcdn.ru/zJJ-37joOjb9ubAaRF5YvQ/stream/genetta-512.ost.rutube.ru/wFqBQps9PFZyxLJfFtZ75g/1750928633/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 http://salam-che-84.rutube.ru/dive/river-3-346.rtbcdn.ru/tS1sKisYXfm61Y9FD2hNLA/stream/genetta-512.ost.rutube.ru/LH7iV1JaPb9hgquA2p1v7w/1750581151/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
