@@ -146,9 +146,9 @@ http://178.217.72.66:8080/TV3/index.m3u8
 #EXTINF:-1 ,ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 ,Домашний
-http://178.217.72.66:8080/Domashniy/index.m3u8
-#EXTINF:-1 ,Домашний
 http://195.49.206.244:90/Domashni/mono.m3u8?token=video
+#EXTINF:-1 ,Домашний
+http://178.217.72.66:8080/Domashniy/index.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
@@ -263,6 +263,8 @@ https://luch.iptv2022.com/tracks-v1a1/mono.m3u8
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://195.245.99.242/Oruzhie/playlist.m3u8
+#EXTINF:-1 ,Оружие
+http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 ,Арсенал
 http://178.217.72.66:8080/arsenalhd/mono.m3u8
 #EXTINF:-1 ,Арсенал
@@ -357,6 +359,8 @@ http://178.217.72.66:8080/Doktor/index.m3u8
 http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 #EXTINF:-1 ,Здоровое ТВ
 http://178.212.71.253:8000/play/94/index.m3u8
+#EXTINF:-1 ,Здоровое ТВ
+http://178.217.72.66:8080/Zdorovoe_TV/index.m3u8
 #EXTINF:-1 ,Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
@@ -440,6 +444,8 @@ http://195.245.99.242/TLC/playlist.m3u8
 http://5.134.87.11:4600/DocuBox/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://5.134.87.11:4600/AnimalPlanet/index.m3u8
+#EXTINF:-1 ,Animal Planet
+http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 ,National Geographic
 http://195.245.99.242/National_Geographic/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
@@ -494,8 +500,12 @@ http://178.217.72.66:8080/Dikiy/index.m3u8
 #http://45.143.108.110:2200/dikiy
 #EXTINF:-1 ,Дикая рыбалка
 http://195.245.99.242/Dikaya_ribalka/playlist.m3u8
+#EXTINF:-1 ,Дикая рыбалка
+http://5.129.27.8:1234/udp/239.1.1.42:1234
 #EXTINF:-1 ,Дикая охота
 http://195.245.99.242/Dikaya_ohota/playlist.m3u8
+#EXTINF:-1 ,Дикая охота
+http://5.129.27.8:1234/udp/239.1.1.41:1234
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -714,8 +724,12 @@ http://95.67.12.82:9046
 http://195.245.99.242/Eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://178.217.72.66:8080/Eurosport_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://195.245.99.242/Eurosport2/playlist.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 #EXTINF:-1 ,Конный мир
@@ -724,6 +738,10 @@ http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-name="fightbox" tvg-logo="https://i.imgur.com/mRsnztA.png" ,FightBox
 http://5.134.87.11:4600/FightBox/index.m3u8
+#EXTINF:-1 ,Бокс ТВ
+http://178.217.72.66:8080/Boks_TV/index.m3u8
+#EXTINF:-1 ,Extreme Sports
+http://178.217.72.66:8080/Extreme_Sports/index.m3u8
 #EXTINF:-1 ,Матч!
 http://185.46.48.18/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Матч!
