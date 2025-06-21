@@ -429,9 +429,9 @@ http://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://195.245.99.242/Discovery/playlist.m3u8
-#EXTINF:-1 ,Discovery Channel
 http://5.134.87.11:4600/DiscoveryChannel/index.m3u8
+#EXTINF:-1 ,Discovery Channel
+http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://195.245.99.242/ID/playlist.m3u8
 #EXTINF:-1 ,TLC
@@ -579,7 +579,7 @@ https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,КИНЕКО
 #http://s7.merlive.am/kineko/index.m3u8
 #EXTINF:-1 ,Еврокино
-#
+http://5.134.87.11:4600/evrokino/index.m3u8
 #EXTINF:-1 ,Видеокассета
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 ,Horror TV
@@ -636,14 +636,22 @@ http://178.217.72.66:8080/Kinomiks/index.m3u8
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 ,FilmBox
+http://5.134.87.11:4600/filmbox/index.m3u8
+#EXTINF:-1 tvg-id="FilmBoxArthouse.nl" tvg-name="filmbox arthouse" tvg-logo="https://i.imgur.com/hDg35ne.png" ,FilmBox Arthouse
+http://5.134.87.11:4600/FilmBoxArthouse/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="Фильмы",Cinema
 http://185.46.48.18/cinema/index.m3u8
+#EXTINF:-1 ,HollywooD
+http://5.134.87.11:4600/Hollywood/index.m3u8
 #EXTINF:-1 ,Kinowood
 http://193.27.209.122/kinowood/index.m3u8
 #EXTINF:-1 ,BollywooD
 http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 ,Индийское кино
 http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
+http://5.134.87.11:4600/india/index.m3u8
 #EXTINF:-1 tvg-id="TimelessDiziChannel.ru" tvg-name="timeless dizi channel" tvg-logo="https://i.imgur.com/s3Sqd4L.png" ,Dizi
 http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 ,Комедия
@@ -690,6 +698,8 @@ http://178.217.72.66:8080/TV_1000_Action/index.m3u8
 http://5.9.44.106/content/38617/index.m3u8
 #EXTINF:-1 ,Pro100TV
 http://85.192.10.173/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-name="тв 21" tvg-logo="https://images.iptv.rt.ru/images/cjkbe9rir4ssk120mj1g.png" ,ТВ 21
+http://5.134.87.11:4600/TVXXI/index.m3u8
 #EXTINF:-1 ,Kino 24
 http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Киномистика
@@ -712,6 +722,8 @@ http://95.67.12.82:9067
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="fightbox" tvg-logo="https://i.imgur.com/mRsnztA.png" ,FightBox
+http://5.134.87.11:4600/FightBox/index.m3u8
 #EXTINF:-1 ,Матч!
 http://185.46.48.18/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Матч!
