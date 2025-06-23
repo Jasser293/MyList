@@ -718,7 +718,7 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
-http://195.245.99.242/Eurosport1/playlist.m3u8
+#http://195.245.99.242/Eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 1
