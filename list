@@ -436,7 +436,7 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://5.134.87.11:4600/DiscoveryChannel/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://195.245.99.242/Discovery/playlist.m3u8
+#http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://195.245.99.242/ID/playlist.m3u8
 #EXTINF:-1 ,TLC
@@ -500,9 +500,9 @@ http://salam-cht-64.rutube.ru/dive/river-3-346.rtbcdn.ru/wHsjMai81jUU8YJwPB11hw/
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #http://45.143.108.110:2200/dikiy
 #EXTINF:-1 ,Дикая рыбалка
-http://195.245.99.242/Dikaya_ribalka/playlist.m3u8
+#http://195.245.99.242/Dikaya_ribalka/playlist.m3u8
 #EXTINF:-1 ,Дикая охота
-http://195.245.99.242/Dikaya_ohota/playlist.m3u8
+#http://195.245.99.242/Dikaya_ohota/playlist.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
