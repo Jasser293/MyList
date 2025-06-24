@@ -84,6 +84,8 @@ http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+4)
 #http://s1.merlive.am/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
+http://178.134.1.158:8081/RENTV/index.m3u8
+#EXTINF:-1 ,Рен ТВ International
 http://213.91.178.133:8000/play/a0ax
 #EXTINF:-1 ,ТВЦ HD
 #http://31.184.219.37/tvchd_MSK/video.m3u8
@@ -99,6 +101,8 @@ http://195.49.206.244:90/TVC/mono.m3u8?token=video
 http://178.217.72.66:8080/5_Kanal/index.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
+#EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
+http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
 http://213.91.178.133:8000/play/a0b4
 #EXTINF:-1 ,Звезда
@@ -124,6 +128,8 @@ http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ (+4)
 #http://109.200.130.123:7534/play/a00j
 #EXTINF:-1 ,ТНТ International
+http://178.134.1.158:8081/tnt/index.m3u8
+#EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=video
@@ -135,6 +141,8 @@ http://195.49.206.244:90/STS/mono.m3u8?token=video
 http://178.217.72.66:8080/STS/index.m3u8
 #EXTINF:-1 ,СТС (+2)
 http://94.230.128.107:8080/CTC/index.m3u8
+#EXTINF:-1 ,СТС International
+http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 ,СТС International
 http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
@@ -361,6 +369,8 @@ http://91.194.191.241:8081/chid514/mono.m3u8
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 ,Доктор
 http://178.217.72.66:8080/Doktor/index.m3u8
+#EXTINF:-1 ,Доктор
+http://178.134.1.158:8081/doktor/index.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 #EXTINF:-1 ,Здоровое ТВ
