@@ -58,6 +58,11 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 #EXTINF:-1 ,Россия 1 (+8)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-name="ртр-беларусь" ,РТР Беларусь
+http://194.158.222.36:6106
+#EXTINF:-1 ,РТР Планета
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://92.43.140.249/s15/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
 #EXTINF:-1 ,Москва 24
@@ -66,9 +71,6 @@ http://213.91.178.133:8000/play/a0b1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 tvg-id="LenTV24.ru" tvg-name="лентв24" tvg-logo="https://i.imgur.com/d02uxkB.png" ,ЛЕНТВ24
 http://salam-khb-21.rutube.ru/dive/river-3-338.rtbcdn.ru/52qt_j-4i3Krw1jlJ1Q4KQ/stream/genetta-502.ost.rutube.ru/13xb9Yzp0mnEJ8KLPPgLJA/1751128696/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
-#EXTINF:-1 ,РТР Планета
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s15/index.m3u8
 #EXTINF:-1 ,Россия К
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К (+2)
@@ -253,6 +255,8 @@ http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Almaznyykray.ru" tvg-name="алмазный край" tvg-logo="https://i.imgur.com/zErXTdF.png" ,Алмазный край
 https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:-1 tvg-name="нтс иркутск" ,НТС Иркутск
+http://air.nts-tv.ru/fhd.m3u8
 #EXTINF:-1 tvg-id="NovyVek.ru" tvg-name="новый век" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novy-vek-ru.png" ,Новый Век
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6025.png" ,Ника ТВ
