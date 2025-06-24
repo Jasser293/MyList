@@ -257,6 +257,8 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 https://stream.almaz-media.tv:8080/hls/720.m3u8
 #EXTINF:-1 tvg-name="нтс иркутск" ,НТС Иркутск
 http://air.nts-tv.ru/fhd.m3u8
+#EXTINF:-1 tvg-name="ртк забайкалье" ,РТК Забайкалье
+http://stream.zrtk.ru/zrtk.m3u8
 #EXTINF:-1 tvg-id="NovyVek.ru" tvg-name="новый век" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novy-vek-ru.png" ,Новый Век
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6025.png" ,Ника ТВ
