@@ -84,7 +84,7 @@ http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://213.91.178.133:8000/play/a0ax
 #EXTINF:-1 ,ТВЦ HD
-http://31.184.219.37/tvchd_MSK/video.m3u8
+#http://31.184.219.37/tvchd_MSK/video.m3u8
 #EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -92,7 +92,7 @@ http://195.49.206.244:90/TVC/mono.m3u8?token=video
 #EXTINF:-1 tvg-id="TVCentrInternational.ru" tvg-name="тв центр international" ,ТВЦ International
 #http://45.143.108.110:2200/tvci
 #EXTINF:-1 ,Пятый канал HD
-http://31.184.219.37/piatyikanal_MSK/video.m3u8
+#http://31.184.219.37/piatyikanal_MSK/video.m3u8
 #EXTINF:-1 ,Пятый канал
 http://178.217.72.66:8080/5_Kanal/index.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
@@ -302,7 +302,7 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
 http://178.217.72.66:8080/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
-http://31.184.219.37/che/video.m3u8
+#http://31.184.219.37/che/video.m3u8
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Ю
