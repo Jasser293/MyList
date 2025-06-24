@@ -186,10 +186,10 @@ http://salam-nsk-42.rutube.ru/dive/river-3-318.rtbcdn.ru/aABCEXYe6Vkw1ljHt-T19g/
 http://salam-nsk-23.rutube.ru/dive/river-5-520.rtbcdn.ru/YZZcubBK6kNPfYkdsN9TEg/stream/genetta-511.ost.rutube.ru/p0cVGkCfGKZq8E92wb6mRg/1751193612/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-cht-64.rutube.ru/dive/river-5-520.rtbcdn.ru/uphSuleLvck0NpSHxsWnEA/stream/genetta-511.ost.rutube.ru/3x4XHSErrHAtnNs5sNA-Lw/1751129335/23c568b69e0eada33560850484223739/1080p_stream.m3u8
-#EXTINF:-1 ,Кинолаффка
-http://salam-nsk-23.rutube.ru/dive/river-5-545.rtbcdn.ru/lrJL0Rc7tbpDWHiTcYRlYQ/stream/genetta-321.m9.rutube.ru/OjE1mSbP-FwSHOKUyNRINA/1751193742/3b7d1499da9396462bfd17282d758d30/1080p_stream.m3u8
 #EXTINF:-1 ,Comedy Hub
 http://salam-mskth-22.rutube.ru/dive/river-5-521.rtbcdn.ru/L_ojTfiDBKSpKV01ZkLu0g/stream/genetta-325.m9.rutube.ru/MUJgDXXfKi9z6unVjk-I0g/1751193783/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
+#EXTINF:-1 ,Кинолаффка
+http://salam-mskth-49.rutube.ru/dive/river-5-545.rtbcdn.ru/mk-VmHrnW3rHrn4_n_6bRg/stream/genetta-519.ost.rutube.ru/tvM2z_cRh16WCxs__-9PCw/1751357950/3b7d1499da9396462bfd17282d758d30/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Красная линия
@@ -364,9 +364,9 @@ http://salam-khb-1021.rutube.ru/dive/river-3-334.rtbcdn.ru/PDc-lhhQpsCl8C5krbSrt
 #EXTINF:-1 ,Загородный Int
 http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 ,Лапки Live
-http://91.194.191.241:8081/chid514/mono.m3u8
-#EXTINF:-1 ,Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
+#EXTINF:-1 ,Лапки Live
+#http://91.194.191.241:8081/chid514/mono.m3u8
 #EXTINF:-1 ,Доктор
 http://178.217.72.66:8080/Doktor/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -439,8 +439,6 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 http://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 tvg-id="KabbalaTV.ru" tvg-name="каббала тв" tvg-logo="https://i.imgur.com/uaffIpV.png" ,Каббала ТВ
 http://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
-#EXTINF:-1 ,Жар Птица
-http://river-ost-rtk-530.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/JK24V1mY8Q0eVS9XPFN5Lw/1751193818/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
 #EXTINF:-1 ,Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,TERRA
