@@ -15,6 +15,8 @@ http://89.106.234.5/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ
+http://salam-mskth-46.rutube.ru/dive/river-3-312.rtbcdn.ru/oW_l8Zng00JAHhJao6aZSA/stream/genetta-316.m9.rutube.ru/sO7xP0oYvOuqJFo_jScF5Q/1751484820/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
 #EXTINF:-1 ,НТВ (+1)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/ntv1/mono.m3u8
@@ -751,15 +753,15 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
+http://178.217.72.66:8080/Eurosport_HD/index.m3u8
+#EXTINF:-1 ,Eurosport 1
 #http://195.245.99.242/Eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 ,Eurosport 1
-http://178.217.72.66:8080/Eurosport_HD/index.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://195.245.99.242/Eurosport2/playlist.m3u8
+#http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://195.245.99.242/Eurosport2/playlist.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 #EXTINF:-1 ,Конный мир
