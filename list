@@ -35,6 +35,7 @@ http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Зал суда
+#EXTVLCOPT:network-caching=2000
 http://77.235.1.19:8000/play/a07m/index.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
