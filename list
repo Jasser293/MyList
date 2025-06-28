@@ -12,7 +12,7 @@ http://89.106.234.5/1KanalEvraziya_34_35.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
-http://salam-mskth-46.rutube.ru/dive/river-3-312.rtbcdn.ru/aUWoujFzo7bZNu9orMJ5NA/stream/genetta-316.m9.rutube.ru/2UzKk0KbLeAN3_wzx6qy2w/1751618456/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+http://158.160.149.81:8080/13/index.m3u8
 #EXTINF:-1 ,НТВ (+1)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/ntv1/mono.m3u8
@@ -34,8 +34,8 @@ http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Зал суда
-#EXTVLCOPT:network-caching=2000
+#EXTINF:0 ,Зал суда
+#EXTVLCOPT:network-caching=3000
 http://77.235.1.19:8000/play/a07m/index.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -475,7 +475,8 @@ http://5.134.87.11:4600/DiscoveryChannel/index.m3u8
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://80.245.95.243:8888/play/a016/index.m3u8
-#EXTINF:-1 ,TLC
+#EXTINF:0 ,TLC
+#EXTVLCOPT:network-caching=3000
 http://80.245.95.243:8888/play/a017/index.m3u8
 #EXTINF:-1 ,DocuBox
 http://158.160.149.81:8080/1961/index.m3u8
