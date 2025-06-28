@@ -617,6 +617,8 @@ http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
 http://195.49.206.244:90/Teatr/mono.m3u8?token=video
+#EXTINF:-1 tvg-id="Kvarc.ru" tvg-name="кварц" tvg-logo="https://i.imgur.com/90vSdul.png" ,Кварц ТВ
+http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 ,Сапфир
 http://31.173.165.29:8000/play/a04g/index.m3u8
 #EXTINF:-1 ,2x2
@@ -847,6 +849,8 @@ http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 http://195.49.206.244:90/DaVinci/mono.m3u8?token=video
 #EXTINF:-1 ,Мультимания
 http://83.99.226.23/Multimania_Mpeg4/video.m3u8
+#EXTINF:-1 ,Супер Герои
+http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 ,Ani
 http://178.217.72.66:8080/Ani/index.m3u8
 #http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
