@@ -330,9 +330,9 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
 http://178.217.72.66:8080/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
-http://31.184.219.37/che/video.m3u8
-#EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
+#EXTINF:-1 ,Че!
+http://31.184.219.37/che/video.m3u
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Ю
@@ -345,8 +345,6 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 http://178.217.72.66:8080/Avto_24/index.m3u8
 #EXTINF:-1 ,Авто 24
 http://5.134.87.11:4600/avto24/index.m3u8
-#EXTINF:-1 ,Авто плюс
-http://80.245.95.243:8888/play/a003/index.m3u8
 #EXTINF:-1 ,Авто Плюс
 http://195.245.99.242/Avto_plus/playlist.m3u8
 #EXTINF:-1 ,Авто плюс 
@@ -377,7 +375,7 @@ http://178.217.72.66:8080/Bober/index.m3u8
 #EXTINF:-1 ,Бобёр
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
-http://80.245.95.243:8888/play/a004/index.m3u8
+http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 ,Загородный Int
@@ -470,14 +468,12 @@ http://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://5.134.87.11:4600/DiscoveryChannel/index.m3u8
-#EXTINF:-1 ,Discovery Channel
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://80.245.95.243:8888/play/a016/index.m3u8
+http://5.134.87.11:4600/DiscoveryChannel/index.m3u8
 #EXTINF:0 ,TLC
 #EXTVLCOPT:network-caching=1000
-http://80.245.95.243:8888/play/a017/index.m3u8
+#http://80.245.95.243:8888/play/a017/index.m3u8
 #EXTINF:-1 ,DocuBox
 http://158.160.149.81:8080/1961/index.m3u8
 #EXTINF:-1 ,DocuBox
@@ -555,8 +551,6 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
-#EXTINF:-1 ,ТНТ Music
-http://80.245.95.243:8888/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="муз-тв" tvg-logo="https://i.imgur.com/BtqrHmz.png" ,Муз-ТВ
 http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1 ,Страна ФМ
@@ -569,12 +563,6 @@ http://5.134.87.11:4600/jara/index.m3u8
 http://91.194.191.241:8081/chid519/mono.m3u8
 #EXTINF:-1 ,Bridge TV Этно
 http://91.194.191.241:8081/chid520/mono.m3u8
-#EXTINF:-1 ,Ля-Минор
-http://80.245.95.243:8888/play/a03s/index.m3u8
-#EXTINF:-1 ,Disco Mix HD
-http://80.245.95.243:8888/play/a03p/index.m3u8
-#EXTINF:-1 ,Европа плюс ТВ
-http://80.245.95.243:8888/play/a03w/index.m3u8
 #EXTINF:-1 ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 ,MTV
@@ -648,7 +636,7 @@ http://195.49.206.244:90/Illuzion+/mono.m3u8?token=video
 #EXTINF:-1 ,Кинопоказ
 http://195.49.206.244:90/kinopokaz/mono.m3u8?token=video
 #EXTINF:-1 ,Кинопремьера
-http://80.245.95.243:8888/play/a00s/index.m3u8
+http://91.194.191.241:8081/chid518/mono.m3u8
 #EXTINF:-1 ,Киносвидание
 http://195.49.206.244:90/Kinosvidanie/mono.m3u8?token=video
 #EXTINF:-1 ,Киносвидание
@@ -750,8 +738,7 @@ http://195.49.206.244:90/TV1000/mono.m3u8?token=video
 #EXTINF:-1 ,Viju TV1000
 http://178.217.72.66:8080/TV_1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
-http://80.245.95.243:8888/play/a02k/index.m3u8
-#http://195.245.99.242/1000_rus/playlist.m3u8
+http://195.245.99.242/1000_rus/playlist.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://213.91.178.133:8000/play/a0bx
 #EXTINF:-1 ,Viju TV1000 Action
