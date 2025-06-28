@@ -35,7 +35,7 @@ http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,Зал суда
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://77.235.1.19:8000/play/a07m/index.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -476,7 +476,7 @@ http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://80.245.95.243:8888/play/a016/index.m3u8
 #EXTINF:0 ,TLC
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
 http://80.245.95.243:8888/play/a017/index.m3u8
 #EXTINF:-1 ,DocuBox
 http://158.160.149.81:8080/1961/index.m3u8
