@@ -685,11 +685,11 @@ http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 ,FilmBox
+http://77.235.1.19:8000/play/a081/index.m3u8
+#EXTINF:-1 ,FilmBox
 http://5.134.87.11:4600/filmbox/index.m3u8
 #EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-name="феникс+ кино" tvg-logo="https://i.imgur.com/JH3byQL.png" ,Феникс+Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF:-1 tvg-id="FilmBoxArthouse.nl" tvg-name="filmbox arthouse" tvg-logo="https://i.imgur.com/hDg35ne.png" ,FilmBox Arthouse
-http://5.134.87.11:4600/FilmBoxArthouse/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="Фильмы",Cinema
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 ,HollywooD
@@ -700,6 +700,8 @@ http://193.27.209.122/kinowood/index.m3u8
 http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 ,Индийское кино
 http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
+http://195.245.99.242/ZeeTV/playlist.m3u8
 #EXTINF:-1 tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
 http://5.134.87.11:4600/india/index.m3u8
 #EXTINF:-1 tvg-id="TimelessDiziChannel.ru" tvg-name="timeless dizi channel" tvg-logo="https://i.imgur.com/s3Sqd4L.png" ,Dizi
