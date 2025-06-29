@@ -4,8 +4,8 @@ http://salam-mskth-46.rutube.ru/dive/river-5-543.rtbcdn.ru/NKDImBe8ss-7uBIc0LVrJ
 #EXTINF:-1 ,Первый канал
 http://salam-kry-34.rutube.ru/dive/river-5-543.rtbcdn.ru/3BwHHMId6E_jQnYuWcK1Cg/stream/genetta-303.m9.rutube.ru/ZO7F-zCMmnn6UGR21dpbyw/1751745593/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-#http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
-http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал Евразия
 http://89.106.234.5/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 ,НТВ
@@ -34,7 +34,7 @@ http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Зал суда
+#EXTINF:0,Зал суда
 #EXTVLCOPT:network-caching=1000
 http://77.235.1.19:8000/play/a07m/index.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
@@ -606,7 +606,11 @@ http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 http://195.49.206.244:90/Teatr/mono.m3u8?token=video
 #EXTINF:-1 tvg-id="Kvarc.ru" tvg-name="кварц" tvg-logo="https://i.imgur.com/90vSdul.png" ,Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
-#EXTINF:-1 ,Сапфир
+#EXTINF:0,Сапфир
+#EXTVLCOPT:network-caching=1000
+http://77.235.1.19:8000/play/a06q/index.m3u8
+#EXTINF:0,Сапфир
+#EXTVLCOPT:network-caching=1000
 http://31.173.165.29:8000/play/a04g/index.m3u8
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=video
