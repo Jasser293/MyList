@@ -330,8 +330,9 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 http://178.217.72.66:8080/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
-#EXTINF:-1 ,Че!
-http://31.184.219.37/che/video.m3u
+#EXTINF:-0,Че!
+#EXTVLCOPT:network-caching=1000
+http://77.235.1.19:8000/play/a072/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Ю
@@ -625,9 +626,9 @@ https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,Еврокино
 http://5.134.87.11:4600/evrokino/index.m3u8
 #EXTINF:-1 ,Видеокассета
-https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 ,Horror TV
-https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+#https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=video
 #EXTINF:-1 ,Тайна
@@ -829,8 +830,6 @@ http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 ,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 ,IMPACT! Wrestling
-http://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ,CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 ,СТС Kids
