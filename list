@@ -539,6 +539,10 @@ http://salam-mskm9-19.rutube.ru/dive/river-3-346.rtbcdn.ru/n3lrwF2vn4rK_C18RoO-c
 #EXTINF:-1 ,Дикий
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #http://45.143.108.110:2200/dikiy
+#EXTINF:-1 ,Дикая Охота
+http://95.85.109.218:7000/play/a026
+#EXTINF:-1 ,Дикая рыбалка
+http://95.85.109.218:7000/play/a025
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -718,17 +722,25 @@ http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://195.245.99.242/Bestseler/playlist.m3u8
 #EXTINF:-1 ,Русский бестселлер
+http://95.85.109.218:7000/play/a03g
+#EXTINF:-1 ,Русский бестселлер
 http://77.235.1.19:8000/play/a08g/index.m3u8
 #EXTINF:-1 ,Русский Детектив
 http://195.245.99.242/Detectiv/playlist.m3u8
+#EXTINF:-1 ,Русский Детектив
+http://95.85.109.218:7000/play/a03d
 #EXTINF:-1 ,Русский Детектив
 http://77.235.1.19:8000/play/a08f/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
+http://95.85.109.218:7000/play/a02f
+#EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://195.245.99.242/Roman/playlist.m3u8
+#EXTINF:-1 ,Русский роман
+http://95.85.109.218:7000/play/a03c
 #EXTINF:-1 ,Русский роман
 http://77.235.1.19:8000/play/a08e/index.m3u8
 #EXTINF:-1 ,НСТ
@@ -777,6 +789,10 @@ http://178.217.72.66:8080/Eurosport_HD/index.m3u8
 http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://195.245.99.242/Eurosport2/playlist.m3u8
+#EXTINF:-1 ,Setanta Sports 1
+http://95.85.109.218:7000/play/a067
+#EXTINF:-1 ,Setanta Sports 2
+http://95.85.109.218:7000/play/a068
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 #EXTINF:-1 ,Конный мир
