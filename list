@@ -473,7 +473,7 @@ http://178.217.72.66:8080/Discovery_HD/video.m3u8
 http://5.134.87.11:4600/DiscoveryChannel/index.m3u8
 #EXTINF:0 ,TLC
 #EXTVLCOPT:network-caching=1000
-#http://80.245.95.243:8888/play/a017/index.m3u8
+http://80.245.95.243:8888/play/a017/index.m3u8
 #EXTINF:-1 ,DocuBox
 http://158.160.149.81:8080/1961/index.m3u8
 #EXTINF:-1 ,DocuBox
@@ -768,7 +768,7 @@ http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://178.217.72.66:8080/Eurosport_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 1
-#http://195.245.99.242/Eurosport1/playlist.m3u8
+http://195.245.99.242/Eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
 #http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 2
