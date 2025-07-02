@@ -118,7 +118,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://77.235.1.19:8000/play/a02v/index.m3u8
-#http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
@@ -200,7 +199,7 @@ http://salam-khb-1021.rutube.ru/dive/river-5-520.rtbcdn.ru/BgQ1TA5sDnChVJThWKwF6
 #EXTINF:-1 ,Comedy Hub
 http://salam-smf-56.rutube.ru/dive/river-5-521.rtbcdn.ru/6FLrlJKoVZxJ0F-dNCQEcA/stream/genetta-325.m9.rutube.ru/tPFXQKO0QXRdljC0MIaDqQ/1751963762/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолаффка
-http://river-5-545.rtbcdn.ru/stream/genetta-305.m9.rutube.ru/v4yG2Y-GQ2vU-mvQISUAfw/1751963798/3b7d1499da9396462bfd17282d758d30/1080p_stream.m3u8
+http://river-5-545.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/w6k4q8gbcxWuNT-LVT61mg/1752048908/3b7d1499da9396462bfd17282d758d30/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Красная линия
