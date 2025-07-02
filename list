@@ -90,14 +90,14 @@ http://77.235.1.19:8000/play/a00q/index.m3u8
 http://178.134.1.158:8081/RENTV/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://213.91.178.133:8000/play/a0ax
+#EXTINF:-1 ,ТВЦ
+http://158.160.149.81:8080/112/index.m3u8
 #EXTINF:-1 ,ТВЦ HD
 http://31.184.219.37/tvchd_MSK/video.m3u8
 #EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 http://195.49.206.244:90/TVC/mono.m3u8?token=video
-#EXTINF:-1 ,ТВЦ
-http://158.160.149.81:8080/112/index.m3u8
 #EXTINF:-1 ,Пятый канал HD
 #http://31.184.219.37/piatyikanal_MSK/video.m3u8
 #EXTINF:-1 ,Пятый канал
