@@ -158,6 +158,8 @@ http://94.230.128.107:8080/TB3/index.m3u8
 http://195.49.206.244:90/Domashni/mono.m3u8?token=video
 #EXTINF:-1 ,Домашний
 http://178.217.72.66:8080/Domashniy/index.m3u8
+#EXTINF:-1 ,Домашний
+http://176.96.241.40/Domashniy/index.m3u8
 #EXTINF:-1 ,Домашний HD
 http://77.235.1.19:8000/play/a054/index.m3u8
 #http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/video.m3u8
@@ -490,6 +492,8 @@ http://95.67.12.81:10619
 http://95.67.12.81:10620
 #EXTINF:-1 ,История
 http://178.217.72.66:8080/Istoriya/index.m3u8
+#EXTINF:-1 ,Точка РФ
+http://176.96.241.40/HDL/index.m3u8
 #EXTINF:-1 ,Приключения
 http://91.194.191.241:8081/chid142/mono.m3u8
 #EXTINF:-1 ,Приключения
@@ -532,6 +536,10 @@ http://river-m9-rtk-334.rtbcdn.ru/stream/genetta-512.ost.rutube.ru/tzhrpvX3WSmLU
 #EXTINF:-1 ,Дикий
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #http://45.143.108.110:2200/dikiy
+#EXTINF:-1 ,Дикий
+http://176.96.241.40/Dikiy/index.m3u8
+#EXTINF:-1 ,Дикая рыбалка
+http://176.96.241.40/DikayaRibalka/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
