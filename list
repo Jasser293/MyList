@@ -125,6 +125,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=video
 #EXTINF:-1 ,ТНТ
+http://158.160.149.81:8080/83/index.m3u8
+#EXTINF:-1 ,ТНТ
 http://178.217.72.66:8080/TNT_HD/index.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
@@ -139,7 +141,7 @@ http://178.217.72.66:8080/TNT4/index.m3u8
 #EXTINF:-1 ,СТС
 http://195.49.206.244:90/STS/mono.m3u8?token=video
 #EXTINF:-1 ,СТС
-http://178.217.72.66:8080/STS/index.m3u8
+http://158.160.149.81:8080/94/index.m3u8
 #EXTINF:-1 ,СТС (+2)
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС International
@@ -148,8 +150,12 @@ http://81.161.126.82/1230/index.m3u8
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=video
 #EXTINF:-1 ,СТС Love
 http://178.217.72.66:8080/STS_Love/index.m3u8
+#EXTINF:-1 ,СТС Love
+http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=video
+#EXTINF:-1 ,ТВ3
+http://158.160.149.81:8080/1719/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://178.217.72.66:8080/TV3/index.m3u8
 #EXTINF:-1 ,ТВ3 (+2)
@@ -157,16 +163,18 @@ http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 ,Домашний
 http://195.49.206.244:90/Domashni/mono.m3u8?token=video
 #EXTINF:-1 ,Домашний
-http://178.217.72.66:8080/Domashniy/index.m3u8
-#EXTINF:-1 ,Домашний
 http://176.96.241.40/Domashniy/index.m3u8
 #EXTINF:-1 ,Домашний HD
 http://77.235.1.19:8000/play/a054/index.m3u8
+#EXTINF:-1 ,Домашний
+http://178.217.72.66:8080/Domashniy/index.m3u8
 #http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/video.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
 http://195.49.206.244:90/Pyatnica/mono.m3u8?token=video
+#EXTINF:-1 ,ПЯТНИЦА
+http://95.85.109.218:7000/play/a02l
 #EXTINF:-1 ,ПЯТНИЦА
 http://178.217.72.66:8080/Pyatnitsa/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА (+2)
@@ -211,6 +219,8 @@ http://212.233.98.62/0mir/index.m3u8
 http://212.233.98.62/okino-tv/index.m3u8
 #EXTINF:-1 ,Ностальгия
 http://178.217.72.66:8080/Nostalgiya/index.m3u8
+#EXTINF:-1 ,Ностальгия
+http://77.235.1.19:8000/play/a00p/index.m3u8
 #EXTINF:-1 ,Ретро ТВ
 http://195.49.206.244:90/Retro/mono.m3u8?token=video
 #EXTINF:-1 ,Аист ТВ
@@ -281,11 +291,11 @@ https://luch.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EchoTV.ru" tvg-name="эхо-тв" tvg-logo="https://i.imgur.com/YWKJA1O.png" ,Эхо ТВ
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 ,Оружие
+http://195.245.99.242/Oruzhie/playlist.m3u8
+#EXTINF:-1 ,Оружие
 http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 ,Оружие
 http://77.235.1.19:8000/play/a05a/index.m3u8
-#EXTINF:-1 ,Оружие
-http://195.245.99.242/Oruzhie/playlist.m3u8
 #EXTINF:-1 ,Арсенал
 http://178.217.72.66:8080/arsenalhd/mono.m3u8
 #EXTINF:-1 ,Арсенал
@@ -318,7 +328,7 @@ http://178.217.72.66:8080/Telekafe/index.m3u8
 #EXTINF:-1 ,Телекафе
 http://195.49.206.244:90/Telekafe/mono.m3u8?token=video
 #EXTINF:-1 ,Телекафе
-#http://112.72.4.109/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
+http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1 ,Сарафан
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 #EXTINF:-1 ,Сарафан
@@ -337,7 +347,7 @@ http://194.143.148.28:8080/U/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=video
 #EXTINF:-1 ,Авто 24
-http://178.217.72.66:8080/Avto_24/index.m3u8
+http://158.160.149.81:8080/926/index.m3u8
 #EXTINF:-1 ,Авто 24
 http://5.134.87.11:4600/avto24/index.m3u8
 #EXTINF:-1 ,Авто Плюс
@@ -382,11 +392,11 @@ http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 ,Лапки Live
 #http://91.194.191.241:8081/chid514/mono.m3u8
 #EXTINF:-1 ,Доктор
-http://178.217.72.66:8080/Doktor/index.m3u8
-#EXTINF:-1 ,Доктор
 http://77.235.1.19:8000/play/a07a/index.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=video
+#EXTINF:-1 ,Доктор
+http://178.217.72.66:8080/Doktor/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
@@ -396,7 +406,7 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 ,Кухня
-http://178.217.72.66:8080/Kukhnya_TV/index.m3u8
+http://77.235.1.19:8000/play/a05u/index.m3u8
 #EXTINF:-1 ,Кухня
 http://195.245.99.242/Kuhnya/playlist.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -465,7 +475,7 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://5.134.87.11:4600/DiscoveryChannel/index.m3u8
+http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:0 ,TLC
 #EXTVLCOPT:network-caching=1000
 #http://80.245.95.243:8888/play/a017/index.m3u8
