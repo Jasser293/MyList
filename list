@@ -372,6 +372,8 @@ http://salam-smf-25.rutube.ru/dive/river-3-328.rtbcdn.ru/Jec8YGXnNV5_6JA7y6TCNg/
 #EXTINF:-1 ,Усадьба
 http://195.49.206.244:90/Usadba/mono.m3u8?token=video
 #EXTINF:-1 ,Усадьба
+http://158.160.149.81:8080/145/index.m3u8
+#EXTINF:-1 ,Усадьба
 http://178.212.71.253:8000/play/91/index.m3u8
 #EXTINF:-1 ,Бобёр
 http://195.49.206.244:90/Bober/mono.m3u8?token=video
@@ -390,7 +392,7 @@ http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 ,Лапки Live
-#http://91.194.191.241:8081/chid514/mono.m3u8
+http://91.194.191.241:8081/chid514/mono.m3u8
 #EXTINF:-1 ,Доктор
 http://77.235.1.19:8000/play/a07a/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -511,6 +513,12 @@ http://91.194.191.241:8081/chid142/mono.m3u8
 #http://92.43.140.249/s99/04.m3u8
 #EXTINF:-1 ,Живая природа HD
 http://195.49.206.244:90/Zhivaya_Priroda_HD/mono.m3u8?token=video
+#EXTINF:-1 ,Живая природа
+http://158.160.149.81:8080/1302/index.m3u8
+#EXTINF:-1 ,Живая планета
+http://158.160.149.81:8080/1491/index.m3u8
+#EXTINF:-1 ,Домашние животные
+http://158.160.149.81:8080/255/index.m3u8
 #EXTINF:-1 ,Домашние животные
 http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8
 #EXTINF:-1 ,Zooпарк
@@ -540,7 +548,7 @@ http://158.160.149.81:8080/351/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов
 http://158.160.149.81:8080/689/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-346.rtbcdn.ru/stream/genetta-515.ost.rutube.ru/7vOfXmxl7ezmNyvFZ4IlLA/1752207113/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+#
 #EXTINF:-1 ,Охотник и рыболов Int
 #
 #EXTINF:-1 ,Дикий
@@ -549,7 +557,7 @@ http://178.217.72.66:8080/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикий
 http://176.96.241.40/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикая рыбалка
-http://176.96.241.40/DikayaRibalka/index.m3u8
+#
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -621,8 +629,6 @@ http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:0,Сапфир
 #EXTVLCOPT:network-caching=1000
 http://77.235.1.19:8000/play/a06q/index.m3u8
-#EXTINF:0,Сапфир
-http://77.235.1.19:8000/play/a06q/index.m3u8
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=video
 #EXTINF:-1 ,2x2
@@ -633,6 +639,8 @@ http://178.217.72.66:8080/Dom_Kino/index.m3u8
 https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,КИНЕКО
 #http://s7.merlive.am/kineko/index.m3u8
+#EXTINF:-1 ,Еврокино
+http://158.160.149.81:8080/260/index.m3u8
 #EXTINF:-1 ,Еврокино
 http://5.134.87.11:4600/evrokino/index.m3u8
 #EXTINF:-1 ,Видеокассета
@@ -666,11 +674,11 @@ http://178.217.72.66:8080/Kinosemya/index.m3u8
 #EXTINF:-1 ,Amedia 1
 http://195.49.206.244:90/A-1/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 1
-http://178.217.72.66:8080/A1/index.m3u8
+http://158.160.149.81:8080/1599/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://195.49.206.244:90/A-2/mono.m3u8?token=video
 #EXTINF:-1 ,Amedia 2
-http://178.217.72.66:8080/A2/index.m3u8
+http://158.160.149.81:8080/462/index.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://178.217.72.66:8080/Amedia_Hit/index.m3u8
 #EXTINF:-1 ,Amedia Hit
