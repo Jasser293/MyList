@@ -374,7 +374,7 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 ,Загородный Int
-http://river-3-334.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/wDFPv_YTAKXIukhQJz9tGw/1752174981/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+#
 #EXTINF:-1 ,Загородный Int
 http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 ,Лапки Live
@@ -530,9 +530,9 @@ http://158.160.149.81:8080/351/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов
 http://158.160.149.81:8080/689/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-346.rtbcdn.ru/stream/genetta-326.m9.rutube.ru/z-AYeFCoN9aAWFf7v7QYuw/1752174916/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://river-3-346.rtbcdn.ru/stream/genetta-515.ost.rutube.ru/7vOfXmxl7ezmNyvFZ4IlLA/1752207113/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://salam-che-isv-39.rutube.ru/dive/river-3-346.rtbcdn.ru/mkH_-MUYfLGc2kDqPmPRmw/stream/genetta-326.m9.rutube.ru/2btigYz9EMQIWeH4fzoqRg/1752175086/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+#
 #EXTINF:-1 ,Дикий
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #http://45.143.108.110:2200/dikiy
