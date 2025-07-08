@@ -7,7 +7,8 @@ http://salam-che-isv-39.rutube.ru/dive/river-5-543.rtbcdn.ru/YepU5UC5rphqDl-t71r
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал Евразия
-http://89.106.234.5/1KanalEvraziya_34_35.m3u8
+http://158.160.149.81:8080/749/index.m3u8
+#http://89.106.234.5/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
@@ -129,6 +130,8 @@ http://158.160.149.81:8080/83/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://178.217.72.66:8080/TNT_HD/index.m3u8
 #EXTINF:-1 ,ТНТ (+2)
+http://158.160.149.81:8080/1568/index.m3u8
+#EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ (+4)
 #http://109.200.130.123:7534/play/a00j
@@ -249,7 +252,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 #EXTINF:-1 ,360 HD
 http://195.49.206.244:90/360_HD/mono.m3u8?token=video
 #EXTINF:-1 ,СТВ
-https://edge50.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+http://158.160.149.81:8080/763/index.m3u8
+#https://edge50.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 ,ОНТ
 https://edge50.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 ,Беларусь 24
@@ -296,6 +300,8 @@ http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 ,Оружие
 http://195.158.223.132:8002/Oruzhie
 #http://77.235.1.19:8000/play/a05a/index.m3u8
+#EXTINF:-1 ,Арсенал HD
+http://158.160.149.81:8080/5567/index.m3u8
 #EXTINF:-1 ,Арсенал
 http://178.217.72.66:8080/arsenalhd/mono.m3u8
 #EXTINF:-1 ,Арсенал
@@ -311,12 +317,14 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 #http://92.43.140.249/s20/03.m3u8
 #EXTINF:-1 ,Перец
-http://213.169.39.30:5261
+http://158.160.149.81:8080/2754/index.m3u8
+#http://213.169.39.30:5261
 #EXTINF:-1 ,Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
 #http://195.245.99.242/Perec/playlist.m3u8
 #EXTINF:-1 ,КВН ТВ
-http://77.235.1.19:8000/play/a06t/index.m3u8
+http://158.160.149.81:8080/2545/index.m3u8
+#http://77.235.1.19:8000/play/a06t/index.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://178.217.72.66:8080/KVN_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
@@ -475,6 +483,9 @@ http://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
+http://158.160.149.81:8080/3465/index.m3u8
+#http://158.160.149.81:8080/2152/index.m3u8
+#EXTINF:-1 ,Discovery Channel
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://195.245.99.242/Discovery/playlist.m3u8
@@ -555,6 +566,8 @@ http://158.160.149.81:8080/689/index.m3u8
 #
 #EXTINF:-1 ,Дикий
 http://178.217.72.66:8080/Dikiy/index.m3u8
+#EXTINF:-1 ,Дикая Охота HD
+http://158.160.149.81:8080/4647/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -623,9 +636,9 @@ http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 http://195.49.206.244:90/Teatr/mono.m3u8?token=video
 #EXTINF:-1 tvg-id="Kvarc.ru" tvg-name="кварц" tvg-logo="https://i.imgur.com/90vSdul.png" ,Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
-#EXTINF:0,Сапфир
-#EXTVLCOPT:network-caching=1000
-http://77.235.1.19:8000/play/a06q/index.m3u8
+#EXTINF:-1, Сапфир
+http://158.160.149.81:8080/8191/index.m3u8
+#http://77.235.1.19:8000/play/a06q/index.m3u8
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=video
 #EXTINF:-1 ,2x2
@@ -686,6 +699,8 @@ http://195.18.23.20:8000/play/3/index.m3u8
 http://195.49.206.244:90/TV21/mono.m3u8?token=video
 #EXTINF:-1 ,.Red
 http://158.101.222.193:88/georgia_play.php?id=red
+#EXTINF:-1 ,Кинохит
+http://158.160.149.81:8080/8849/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,Кинохит
@@ -779,13 +794,21 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
+http://158.160.149.81:8080/2586/index.m3u8
+#EXTINF:-1 ,Eurosport 1
 http://178.217.72.66:8080/Eurosport_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://195.245.99.242/Eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 2
+http://158.160.149.81:8080/2587/index.m3u8
+#EXTINF:-1 ,Eurosport 2
 http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://195.245.99.242/Eurosport2/playlist.m3u8
+#EXTINF:-1 ,Setanta Sports 1
+http://158.160.149.81:8080/4536/index.m3u8
+#EXTINF:-1 ,Setanta Sports Plus
+http://158.160.149.81:8080/8829/index.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 #EXTINF:-1 ,Конный мир
