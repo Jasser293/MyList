@@ -655,6 +655,8 @@ http://158.160.149.81:8080/260/index.m3u8
 http://5.134.87.11:4600/evrokino/index.m3u8
 #EXTINF:-1 ,Видеокассета
 #https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1 ,VHS-КА HD
+http://158.160.149.81:8080/8270/index.m3u8
 #EXTINF:-1 ,Horror TV
 #https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 ,Техно 24
@@ -788,9 +790,17 @@ http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Киномистика
 https://v2.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-logo="https://i.imgur.com/4bACa7x.png" ,START Air
-http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+http://158.160.149.81:8080/7876/index.m3u8
+#http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-id="STARTWorld.ru" tvg-logo="https://i.imgur.com/TXtY5eM.png" ,START World
-http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+http://158.160.149.81:8080/7879/index.m3u8
+#http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 ,Мировое кино HD
+http://158.160.149.81:8080/8532/index.m3u8
+#EXTINF:-1 ,Семейное кино HD
+http://158.160.149.81:8080/8533/index.m3u8
+#EXTINF:-1 ,Премиум кино HD
+http://158.160.149.81:8080/8535/index.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
