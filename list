@@ -35,9 +35,6 @@ http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:0,Зал суда
-#EXTVLCOPT:network-caching=1000
-http://77.235.1.19:8000/play/a07m/index.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -85,8 +82,6 @@ http://158.160.149.81:8080/10/index.m3u8
 http://178.217.72.66:8080/REN_TV/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
-#EXTINF:-1 ,Рен ТВ (+4)
-http://77.235.1.19:8000/play/a00q/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://213.91.178.133:8000/play/a0ax
 #EXTINF:-1 ,ТВЦ
@@ -114,7 +109,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 ,Звезда плюс
-http://77.235.1.19:8000/play/a02v/index.m3u8
+#http://77.235.1.19:8000/play/a02v/index.m3u8
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
@@ -170,7 +165,7 @@ http://195.49.206.244:90/Domashni/mono.m3u8?token=video
 #EXTINF:-1 ,Домашний
 http://195.158.223.132:8000/Domashniy
 #EXTINF:-1 ,Домашний HD
-http://77.235.1.19:8000/play/a054/index.m3u8
+#http://77.235.1.19:8000/play/a054/index.m3u8
 #EXTINF:-1 ,Домашний
 http://178.217.72.66:8080/Domashniy/index.m3u8
 #http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/video.m3u8
@@ -224,7 +219,7 @@ http://212.233.98.62/okino-tv/index.m3u8
 #EXTINF:-1 ,Ностальгия
 http://178.217.72.66:8080/Nostalgiya/index.m3u8
 #EXTINF:-1 ,Ностальгия
-http://77.235.1.19:8000/play/a00p/index.m3u8
+#http://77.235.1.19:8000/play/a00p/index.m3u8
 #EXTINF:-1 ,Ретро ТВ
 http://195.49.206.244:90/Retro/mono.m3u8?token=video
 #EXTINF:-1 ,Аист ТВ
@@ -301,7 +296,6 @@ http://195.245.99.242/Oruzhie/playlist.m3u8
 http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 ,Оружие
 http://195.158.223.132:8002/Oruzhie
-#http://77.235.1.19:8000/play/a05a/index.m3u8
 #EXTINF:-1 ,Арсенал HD
 http://158.160.149.81:8080/5567/index.m3u8
 #EXTINF:-1 ,Арсенал
@@ -346,8 +340,7 @@ http://178.217.72.66:8080/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-0,Че!
-#EXTVLCOPT:network-caching=1000
-http://77.235.1.19:8000/play/a072/index.m3u8
+#http://77.235.1.19:8000/play/a072/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Ю
@@ -404,11 +397,9 @@ http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.194.191.241:8081/chid514/mono.m3u8
 #EXTINF:-1 ,Доктор
-http://77.235.1.19:8000/play/a07a/index.m3u8
+http://178.217.72.66:8080/Doktor/index.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=video
-#EXTINF:-1 ,Доктор
-http://178.217.72.66:8080/Doktor/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
@@ -418,9 +409,9 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 ,Кухня
-http://77.235.1.19:8000/play/a05u/index.m3u8
-#EXTINF:-1 ,Кухня
 http://195.245.99.242/Kuhnya/playlist.m3u8
+#EXTINF:-1 ,Кухня
+#http://77.235.1.19:8000/play/a05u/index.m3u8
 #EXTINF:-1 ,Аппетитный
 http://77.235.1.19:8000/play/a031/index.m3u8
 #EXTINF:-1 ,Первый вегетарианский
@@ -497,7 +488,7 @@ http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:-1 ,DocuBox
 http://158.160.149.81:8080/1961/index.m3u8
 #EXTINF:-1 ,DocuBox
-http://77.235.1.19:8000/play/a07w/index.m3u8
+#http://77.235.1.19:8000/play/a07w/index.m3u8
 #EXTINF:-1 ,Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -720,7 +711,7 @@ http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 ,FilmBox
-http://77.235.1.19:8000/play/a081/index.m3u8
+#http://77.235.1.19:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-name="феникс+ кино" tvg-logo="https://i.imgur.com/JH3byQL.png" ,Феникс+Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="Фильмы",Cinema
