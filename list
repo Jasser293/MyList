@@ -289,7 +289,9 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLuch.ru" tvg-name="тв луч" tvg-logo="https://i.imgur.com/ajGMLnd.png" ,ТВ Луч
 https://luch.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OTS.ru" tvg-name="отс" tvg-logo="https://i.imgur.com/T7YPwMe.png" ,ОТС
-rtmp://212.164.51.118/live/live
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-id="OTS.ru" tvg-name="отс" tvg-logo="https://i.imgur.com/T7YPwMe.png" ,ОТС
+http://river-3-349.rtbcdn.ru/stream/genetta-517.ost.rutube.ru/JAaASx_ecSgEjnvevsHaKA/1752855035/39c5bfe012402990e6402eded8bdc761/1080p_stream.m3u8
 #EXTINF:-1 ,Оружие
 http://195.245.99.242/Oruzhie/playlist.m3u8
 #EXTINF:-1 ,Оружие
