@@ -288,8 +288,8 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLuch.ru" tvg-name="тв луч" tvg-logo="https://i.imgur.com/ajGMLnd.png" ,ТВ Луч
 https://luch.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="EchoTV.ru" tvg-name="эхо-тв" tvg-logo="https://i.imgur.com/YWKJA1O.png" ,Эхо ТВ
-#http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OTS.ru" tvg-name="отс" tvg-logo="https://i.imgur.com/T7YPwMe.png" ,ОТС
+rtmp://212.164.51.118/live/live
 #EXTINF:-1 ,Оружие
 http://195.245.99.242/Oruzhie/playlist.m3u8
 #EXTINF:-1 ,Оружие
@@ -392,8 +392,6 @@ http://195.26.83.96:7007/play/10/index.m3u8
 http://salam-tmn-1092.rutube.ru/dive/river-3-334.rtbcdn.ru/0iuZARFzpaRm98LHLIpVeA/stream/genetta-323.m9.rutube.ru/1FBwuH0tKFx9Ed9cgPjarg/1752768708/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Загородный Int
 http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-#EXTINF:-1 ,Лапки Live
-#http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.194.191.241:8081/chid514/mono.m3u8
 #EXTINF:-1 ,Доктор
