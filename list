@@ -289,13 +289,13 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLuch.ru" tvg-name="тв луч" tvg-logo="https://i.imgur.com/ajGMLnd.png" ,ТВ Луч
 https://luch.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EchoTV.ru" tvg-name="эхо-тв" tvg-logo="https://i.imgur.com/YWKJA1O.png" ,Эхо ТВ
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://195.245.99.242/Oruzhie/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 ,Оружие
-http://195.158.223.132:8002/Oruzhie
+#http://195.158.223.132:8002/Oruzhie
 #EXTINF:-1 ,Арсенал HD
 http://158.160.149.81:8080/5567/index.m3u8
 #EXTINF:-1 ,Арсенал
