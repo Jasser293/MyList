@@ -108,8 +108,6 @@ http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
-#EXTINF:-1 ,Звезда плюс
-#http://77.235.1.19:8000/play/a02v/index.m3u8
 #EXTINF:-1 ,ОТР
 http://195.49.206.244:90/OTR/mono.m3u8?token=video
 #EXTINF:-1 ,ОТР
@@ -148,8 +146,6 @@ http://81.161.126.82/1230/index.m3u8
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=video
 #EXTINF:-1 ,СТС Love
 http://178.217.72.66:8080/STS_Love/index.m3u8
-#EXTINF:-1 ,СТС Love
-http://195.158.223.132:8000/STS_Love
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=video
 #EXTINF:-1 ,ТВ3
@@ -164,8 +160,6 @@ http://158.160.149.81:8080/4750/index.m3u8
 http://195.49.206.244:90/Domashni/mono.m3u8?token=video
 #EXTINF:-1 ,Домашний
 http://195.158.223.132:8000/Domashniy
-#EXTINF:-1 ,Домашний HD
-#http://77.235.1.19:8000/play/a054/index.m3u8
 #EXTINF:-1 ,Домашний
 http://178.217.72.66:8080/Domashniy/index.m3u8
 #http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/video.m3u8
@@ -173,8 +167,6 @@ http://178.217.72.66:8080/Domashniy/index.m3u8
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
 http://195.49.206.244:90/Pyatnica/mono.m3u8?token=video
-#EXTINF:-1 ,ПЯТНИЦА
-http://95.85.109.218:7000/play/a02l
 #EXTINF:-1 ,ПЯТНИЦА
 http://178.217.72.66:8080/Pyatnitsa/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА (+2)
@@ -200,7 +192,7 @@ http://salam-khb-1021.rutube.ru/dive/river-5-520.rtbcdn.ru/qRPII9rxyTom9nYhvrgtp
 #EXTINF:-1 ,Comedy Hub
 http://salam-tmn-bln-114.rutube.ru/dive/river-5-521.rtbcdn.ru/pdydjBiUb11RUk_fU7lZvw/stream/genetta-325.m9.rutube.ru/dL96mj162QmQ3MrSAvWCwg/1752768597/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолаффка
-http://salam-tmn-bln-114.rutube.ru/dive/river-5-545.rtbcdn.ru/vRt5DHkqDofazbukOYblrA/stream/genetta-312.m9.rutube.ru/KeGM1ksWvfjHInwXmNd8tQ/1752768620/3b7d1499da9396462bfd17282d758d30/1080p_stream.m3u8
+http://salam-mskth-49.rutube.ru/dive/river-5-545.rtbcdn.ru/zk0F0dAmeZFGqttv2fN--A/stream/genetta-311.m9.rutube.ru/lK9QWSPrNr7CfXG9v-oHrQ/1752913912/3b7d1499da9396462bfd17282d758d30/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Красная линия
@@ -219,7 +211,7 @@ http://212.233.98.62/okino-tv/index.m3u8
 #EXTINF:-1 ,Ностальгия
 http://178.217.72.66:8080/Nostalgiya/index.m3u8
 #EXTINF:-1 ,Ностальгия
-#http://77.235.1.19:8000/play/a00p/index.m3u8
+#
 #EXTINF:-1 ,Ретро ТВ
 http://195.49.206.244:90/Retro/mono.m3u8?token=video
 #EXTINF:-1 ,Аист ТВ
@@ -322,7 +314,6 @@ http://158.101.222.193:88/georgia_play.php?id=perec
 #http://195.245.99.242/Perec/playlist.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://158.160.149.81:8080/2545/index.m3u8
-#http://77.235.1.19:8000/play/a06t/index.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://178.217.72.66:8080/KVN_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
@@ -342,7 +333,7 @@ http://178.217.72.66:8080/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-0,Че!
-#http://77.235.1.19:8000/play/a072/index.m3u8
+#
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Ю
@@ -411,7 +402,7 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 ,Кухня
 http://195.245.99.242/Kuhnya/playlist.m3u8
 #EXTINF:-1 ,Кухня
-#http://77.235.1.19:8000/play/a05u/index.m3u8
+#
 #EXTINF:-1 ,Аппетитный
 http://77.235.1.19:8000/play/a031/index.m3u8
 #EXTINF:-1 ,Первый вегетарианский
@@ -488,7 +479,7 @@ http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:-1 ,DocuBox
 http://158.160.149.81:8080/1961/index.m3u8
 #EXTINF:-1 ,DocuBox
-#http://77.235.1.19:8000/play/a07w/index.m3u8
+#
 #EXTINF:-1 ,Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -631,7 +622,7 @@ http://195.49.206.244:90/Teatr/mono.m3u8?token=video
 http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1, Сапфир
 http://158.160.149.81:8080/8191/index.m3u8
-#http://77.235.1.19:8000/play/a06q/index.m3u8
+#
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=video
 #EXTINF:-1 ,2x2
@@ -711,7 +702,7 @@ http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 ,FilmBox
-#http://77.235.1.19:8000/play/a081/index.m3u8
+#
 #EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-name="феникс+ кино" tvg-logo="https://i.imgur.com/JH3byQL.png" ,Феникс+Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="Фильмы",Cinema
@@ -819,7 +810,7 @@ http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-name="fightbox" tvg-logo="https://i.imgur.com/mRsnztA.png" ,FightBox
-http://95.85.109.218:7000/play/a02q
+http://77.235.1.19:8000/play/a080/index.m3u8
 #EXTINF:-1 ,Бокс ТВ
 http://178.217.72.66:8080/Boks_TV/index.m3u8
 #EXTINF:-1 ,Extreme Sports
