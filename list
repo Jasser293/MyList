@@ -364,7 +364,7 @@ http://195.49.206.244:90/Usadba/mono.m3u8?token=video
 #EXTINF:-1 ,Усадьба
 http://158.160.149.81:8080/145/index.m3u8
 #EXTINF:-1 ,Усадьба
-http://178.212.71.253:8000/play/91/index.m3u8
+http://109.196.100.56/Usadba_HD/index.m3u8
 #EXTINF:-1 ,Бобёр
 http://195.49.206.244:90/Bober/mono.m3u8?token=video
 #EXTINF:-1 ,Бобёр
@@ -465,6 +465,8 @@ http://158.160.149.81:8080/3465/index.m3u8
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://195.245.99.242/Discovery/playlist.m3u8
+#EXTINF:-1 ,Travel+Adventure
+http://109.196.100.56/TravelAdventureHD/index.m3u8
 #EXTINF:0 ,TLC
 #EXTVLCOPT:network-caching=1000
 #http://80.245.95.243:8888/play/a017/index.m3u8
@@ -678,7 +680,8 @@ http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 #EXTINF:-1 ,Кинохит
 http://178.217.72.66:8080/Kinokhit/index.m3u8
 #EXTINF:-1 ,Кинохит
-http://158.101.222.193:88/georgia_play.php?id=kinohit
+http://109.196.100.56/KinohitHD/index.m3u8
+#http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 ,Киномикс
 http://178.217.72.66:8080/Kinomiks/index.m3u8
 #EXTINF:-1 ,Кино ТВ
