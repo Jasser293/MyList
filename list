@@ -374,6 +374,8 @@ http://195.18.23.20:8000/play/1/index.m3u8
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
+#EXTINF:-1 ,Загородный
+http://45.159.74.22/DTX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Загородный Int
 http://river-3-334.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/-csu4A4ujehKoXLmqF74iQ/1752925618/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Загородный Int
@@ -388,6 +390,8 @@ http://195.49.206.244:90/Doktor/mono.m3u8?token=video
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://178.217.72.66:8080/Zdorovoe_TV/index.m3u8
+#EXTINF:-1 ,Тонус ТВ
+http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Живи
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
@@ -464,11 +468,12 @@ http://158.160.149.81:8080/3465/index.m3u8
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://195.245.99.242/Discovery/playlist.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" ,Investigation Discovery
+http://45.159.74.22/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
+http://45.159.74.22/TLC/mono.m3u8
 #EXTINF:-1 ,Travel+Adventure
 http://109.196.100.56/TravelAdventureHD/index.m3u8
-#EXTINF:0 ,TLC
-#EXTVLCOPT:network-caching=1000
-#http://80.245.95.243:8888/play/a017/index.m3u8
 #EXTINF:-1 ,DocuBox
 http://158.160.149.81:8080/1961/index.m3u8
 #EXTINF:-1 ,DocuBox
@@ -487,7 +492,7 @@ http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 ,History
-#http://95.67.12.81:10619
+http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,H2
 http://95.67.12.81:10620
 #EXTINF:-1 ,История
@@ -543,6 +548,8 @@ http://salam-khb-67.rutube.ru/dive/river-3-346.rtbcdn.ru/9re4qCsKk2Kmt93c4ZTwVw/
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
 http://158.160.149.81:8080/4647/index.m3u8
+#EXTINF:-1 ,Дикая рыбалка
+http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
