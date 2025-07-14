@@ -186,7 +186,7 @@ http://salam-khb-1021.rutube.ru/dive/river-5-520.rtbcdn.ru/dMro-XcVxVdIoM-0yQ3Uq
 #EXTINF:-1 ,Comedy Hub
 http://salam-mskth-22.rutube.ru/dive/river-5-521.rtbcdn.ru/z0_ECOV2k_y53qyrsjapow/stream/genetta-325.m9.rutube.ru/XAIh2cJL-4mHaVGa7NhpRA/1752925465/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолаффка
-http://salam-mskth-49.rutube.ru/dive/river-5-545.rtbcdn.ru/Bv8XujydeuZXNPCnSCiDqA/stream/genetta-311.m9.rutube.ru/CeXYRtr_5TZ9l03VitH7Zw/1752925498/3b7d1499da9396462bfd17282d758d30/1080p_stream.m3u8
+http://salam-mskth-49.rutube.ru/dive/river-5-545.rtbcdn.ru/XeQZ0FZi3N43D4ve-C2KzQ/stream/genetta-515.ost.rutube.ru/kdbBG9YiuUB2ihAh-te9SA/1753086739/3b7d1499da9396462bfd17282d758d30/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Красная линия
@@ -304,8 +304,7 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 http://158.160.149.81:8080/2754/index.m3u8
 #http://213.169.39.30:5261
 #EXTINF:-1 ,Перец
-http://158.101.222.193:88/georgia_play.php?id=perec
-#http://195.245.99.242/Perec/playlist.m3u8
+http://195.245.99.242/Perec/playlist.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://158.160.149.81:8080/2545/index.m3u8
 #EXTINF:-1 ,КВН ТВ
@@ -343,7 +342,7 @@ http://158.160.149.81:8080/926/index.m3u8
 #EXTINF:-1 ,Авто Плюс
 http://195.245.99.242/Avto_plus/playlist.m3u8
 #EXTINF:-1 ,Авто плюс 
-http://158.101.222.193:88/georgia_play.php?id=autoplus
+#
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
@@ -674,7 +673,7 @@ http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 ,TV21
 http://195.49.206.244:90/TV21/mono.m3u8?token=video
 #EXTINF:-1 ,.Red
-http://158.101.222.193:88/georgia_play.php?id=red
+#
 #EXTINF:-1 ,Кинохит
 http://158.160.149.81:8080/8849/index.m3u8
 #EXTINF:-1 ,Кинохит
@@ -683,7 +682,6 @@ http://195.49.206.244:90/kinohit/mono.m3u8?token=video
 http://178.217.72.66:8080/Kinokhit/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://109.196.100.56/KinohitHD/index.m3u8
-#http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 ,Киномикс
 http://178.217.72.66:8080/Kinomiks/index.m3u8
 #EXTINF:-1 ,Кино ТВ
@@ -692,8 +690,6 @@ http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 ,FilmBox
 http://158.160.149.81:8080/2990/index.m3u8
-#EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-name="феникс+ кино" tvg-logo="https://i.imgur.com/JH3byQL.png" ,Феникс+Кино
-http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="Фильмы",Cinema
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 ,HollywooD
