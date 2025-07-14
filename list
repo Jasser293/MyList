@@ -590,6 +590,8 @@ http://213.169.39.30:5203
 http://213.169.39.30:5257
 #EXTINF:-1 tvg-id="MTV90s.uk" tvg-name="mtv 90s [uk]" tvg-logo="https://i.imgur.com/au5zhwP.png" ,MTV 90s
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-name="california music channel [us]" tvg-logo="https://i.imgur.com/L38mC6H.png" ,California Music Channel
+http://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 ,Trace Urban
