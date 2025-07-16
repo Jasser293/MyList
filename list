@@ -283,6 +283,7 @@ http://195.245.99.242/Oruzhie/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 ,Оружие
+http://95.85.109.218:7000/play/a01w
 #http://195.158.223.132:8002/Oruzhie
 #EXTINF:-1 ,Арсенал HD
 http://158.160.149.81:8080/5567/index.m3u8
@@ -401,7 +402,7 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 ,Кухня
 http://195.245.99.242/Kuhnya/playlist.m3u8
 #EXTINF:-1 ,Кухня
-#
+http://95.85.109.218:7000/play/a02y
 #EXTINF:-1 ,Аппетитный
 http://77.235.1.19:8000/play/a031/index.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
@@ -550,8 +551,12 @@ http://salam-khb-67.rutube.ru/dive/river-3-346.rtbcdn.ru/9re4qCsKk2Kmt93c4ZTwVw/
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
 http://158.160.149.81:8080/4647/index.m3u8
-#EXTINF:-1 ,Дикая рыбалка
+#EXTINF:-1 ,Дикая Охота HD
+http://95.85.109.218:7000/play/a026
+#EXTINF:-1 ,Дикая рыбалка HD
 http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Дикая рыбалка HD
+http://95.85.109.218:7000/play/a025
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -622,7 +627,6 @@ http://195.49.206.244:90/Teatr/mono.m3u8?token=video
 http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1, Сапфир
 http://158.160.149.81:8080/8191/index.m3u8
-#
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=video
 #EXTINF:-1 ,2x2
@@ -680,7 +684,9 @@ http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 ,TV21
 http://195.49.206.244:90/TV21/mono.m3u8?token=video
 #EXTINF:-1 ,.Red
-#
+http://95.85.109.218:7000/play/a04g
+#EXTINF:-1 ,.black
+http://158.160.149.81:8080/596/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://158.160.149.81:8080/8849/index.m3u8
 #EXTINF:-1 ,Кинохит
@@ -698,7 +704,7 @@ http://158.160.149.81:8080/2990/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="Фильмы",Cinema
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 ,HollywooD
-#
+http://95.85.109.218:7000/play/a059
 #EXTINF:-1 ,Kinowood
 http://193.27.209.122/kinowood/index.m3u8
 #EXTINF:-1 ,BollywooD
