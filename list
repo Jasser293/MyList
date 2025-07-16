@@ -6,6 +6,9 @@ http://salam-khb-67.rutube.ru/dive/river-5-543.rtbcdn.ru/xdPDEohtYj3uOQCBdALopw/
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 ,Первый канал (+4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://81.211.33.68/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,Первый канал Евразия
 http://158.160.149.81:8080/749/index.m3u8
 #http://89.106.234.5/1KanalEvraziya_34_35.m3u8
@@ -154,7 +157,6 @@ http://195.49.206.244:90/Domashni/mono.m3u8?token=video
 http://195.158.223.132:8000/Domashniy
 #EXTINF:-1 ,Домашний
 http://178.217.72.66:8080/Domashniy/index.m3u8
-#http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/video.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
@@ -428,7 +430,8 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Кто есть кто
 http://178.217.72.66:8080/Kto_Est_Kto/index.m3u8
 #EXTINF:-1 ,Совершенно секретно
-http://178.217.72.66:8080/Sovershenno_Sekretno/index.m3u8
+http://s7.merlive.am/sovershennosekretno/index.m3u8
+#http://178.217.72.66:8080/Sovershenno_Sekretno/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=video
 #EXTINF:-1 ,Спас
@@ -463,9 +466,8 @@ http://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://158.160.149.81:8080/3465/index.m3u8
-#http://158.160.149.81:8080/2152/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://178.217.72.66:8080/Discovery_HD/video.m3u8
+#http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" ,Investigation Discovery
@@ -477,16 +479,18 @@ http://158.160.149.81:8080/1961/index.m3u8
 #EXTINF:-1 ,DocuBox
 #
 #EXTINF:-1 ,Travel Channel
-http://178.217.72.66:8080/Travel_Channel/video.m3u8
+#http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 ,Animal Planet
-http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
+http://45.159.74.22/AnimalPlanet/mono.m3u8
+#http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 ,National Geographic
-http://178.217.72.66:8080/National_Geographic/index.m3u8
-#http://195.245.99.242/National_Geographic/playlist.m3u8
+http://195.245.99.242/National_Geographic/playlist.m3u8
+#http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://188.237.47.212:6005
 #EXTINF:-1 ,Nat Geo Wild
-http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
+http://5.134.87.11:4600/NatGeoWild/index.m3u8
+#http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 ,History
@@ -671,8 +675,6 @@ http://195.49.206.244:90/A-2/mono.m3u8?token=video
 http://158.160.149.81:8080/462/index.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://178.217.72.66:8080/Amedia_Hit/index.m3u8
-#EXTINF:-1 ,Amedia Hit
-http://178.217.72.66:8080/Amedia_Hit/index.m3u8
 #EXTINF:-1 ,Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 ,TV21
@@ -778,13 +780,13 @@ http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://158.160.149.81:8080/2586/index.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://178.217.72.66:8080/Eurosport_HD/index.m3u8
+#http://178.217.72.66:8080/Eurosport_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://195.245.99.242/Eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://158.160.149.81:8080/2587/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
+#http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://195.245.99.242/Eurosport2/playlist.m3u8
 #EXTINF:-1 ,Setanta Sports 1
