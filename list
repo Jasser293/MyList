@@ -2,7 +2,7 @@
 #EXTINF:-1 ,Первый канал
 http://salam-mskth-46.rutube.ru/dive/river-5-543.rtbcdn.ru/Vr2KNlIBaa6ZNYBmQ9PyRQ/stream/genetta-303.m9.rutube.ru/C8SnxiBzVJeiSlUJDKE-pw/1753443244/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-http://salam-khb-67.rutube.ru/dive/river-5-543.rtbcdn.ru/xdPDEohtYj3uOQCBdALopw/stream/genetta-303.m9.rutube.ru/3VgR858ocAch9yiw_s_w3Q/1752925245/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://salam-spbsed-83.rutube.ru/dive/river-5-543.rtbcdn.ru/KcO6s64vuqE_eYhtAIW0YQ/stream/genetta-303.m9.rutube.ru/rWOD9HqQ3XFTd4xzsLv_bw/1753468817/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -180,7 +180,7 @@ http://salam-mskth-16.rutube.ru/dive/river-3-318.rtbcdn.ru/Znpz2gLrAtNarR_hAj8UZ
 #EXTINF:-1 ,Кинолента 24
 http://salam-mskm9-48.rutube.ru/dive/river-5-520.rtbcdn.ru/qvjYXaZPITCjvlro-uJ9Kg/stream/genetta-511.ost.rutube.ru/tTRD-XrSZqvbNYZlwclgtA/1753443422/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-kry-34.rutube.ru/dive/river-5-520.rtbcdn.ru/RBhP-ItNkk5LQQg7tBSwkw/stream/genetta-511.ost.rutube.ru/8nAHOaS0AqkvEndzCJj6Hg/1753243627/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+http://salam-spbsed-rtk-109.rutube.ru/dive/river-5-520.rtbcdn.ru/L444nUJ0mtcZ_fZ6tluKZw/stream/genetta-511.ost.rutube.ru/0MrpGMAP-MK5cwInhlGBrg/1753468868/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Comedy Hub
 http://salam-mskth-22.rutube.ru/dive/river-5-521.rtbcdn.ru/KaivXmcvEy3MTzoiUZNR1A/stream/genetta-325.m9.rutube.ru/FiKXIwQ1xAv8n-5xLZQ6ig/1753443456/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолаффка
@@ -544,7 +544,7 @@ http://158.160.149.81:8080/689/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 http://salam-mskm9-19.rutube.ru/dive/river-3-346.rtbcdn.ru/dpigd69d9sa3gmucMgxCIQ/stream/genetta-301.m9.rutube.ru/qatAvXCCJh9XpTVAc4W4TQ/1753443684/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://salam-khb-67.rutube.ru/dive/river-3-346.rtbcdn.ru/-h1pD3ITo-bEPX9O4Izwkw/stream/genetta-301.m9.rutube.ru/tU6B_2CaC4z4-JsiSp13OA/1753345746/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+http://salam-spbsed-15.rutube.ru/dive/river-3-346.rtbcdn.ru/UOlAjxDMi3sbq97XHdbM6A/stream/genetta-301.m9.rutube.ru/3nWY7QdXy78kVaan4EhtkA/1753468918/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
@@ -906,15 +906,3 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 ,Бобер
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.127 Large Screen Safari/533.4 GoogleTV/162671
-https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
-#EXTINF:-1 ,Top Secret
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.127 Large Screen Safari/533.4 GoogleTV/162671
-https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
-#EXTINF:-1 ,Бобер
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.127 Large Screen Safari/533.4 GoogleTV/162671
-http://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
-#EXTINF:-1 ,Top Secret
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.127 Large Screen Safari/533.4 GoogleTV/162671
-http://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
