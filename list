@@ -152,9 +152,9 @@ http://158.160.149.81:8080/4750/index.m3u8
 #EXTINF:-1 ,Домашний
 http://195.49.206.244:90/Domashni/mono.m3u8?token=video
 #EXTINF:-1 ,Домашний
-http://195.158.223.132:8000/Domashniy
-#EXTINF:-1 ,Домашний
 http://178.217.72.66:8080/Domashniy/index.m3u8
+#EXTINF:-1 ,Домашний
+#http://195.158.223.132:8000/Domashniy
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
@@ -281,8 +281,7 @@ http://195.245.99.242/Oruzhie/playlist.m3u8
 #EXTINF:-1 ,Оружие
 http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 ,Оружие
-http://95.85.109.218:7000/play/a01w
-#http://195.158.223.132:8002/Oruzhie
+http://195.158.223.132:8002/Oruzhie
 #EXTINF:-1 ,Арсенал HD
 http://158.160.149.81:8080/5567/index.m3u8
 #EXTINF:-1 ,Арсенал
@@ -324,14 +323,14 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=video
 http://178.217.72.66:8080/Sarafan/index.m3u8
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
-#EXTINF:-0,Че!
-http://95.85.109.218:7000/play/a03v
+#EXTINF:-1 ,Че!
+http://s7.merlive.am/Che/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=video
 #EXTINF:-1 ,Ю
 http://178.217.72.66:8080/Yu_TV/index.m3u8
 #EXTINF:-1 ,Ю
-http://195.158.223.132:8000/U
+#http://195.158.223.132:8000/U
 #EXTINF:-1 ,Авто 24
 http://158.160.149.81:8080/926/index.m3u8
 #EXTINF:-1 ,АВТО 24
@@ -400,7 +399,7 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 ,Кухня
 http://195.245.99.242/Kuhnya/playlist.m3u8
 #EXTINF:-1 ,Кухня
-http://95.85.109.218:7000/play/a02y
+#
 #EXTINF:-1 ,Аппетитный
 http://77.235.1.19:8000/play/a031/index.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
@@ -466,7 +465,7 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://158.160.149.81:8080/3465/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-#http://178.217.72.66:8080/Discovery_HD/video.m3u8
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" ,Investigation Discovery
@@ -478,18 +477,21 @@ http://158.160.149.81:8080/1961/index.m3u8
 #EXTINF:-1 ,DocuBox
 #
 #EXTINF:-1 ,Travel Channel
-#http://178.217.72.66:8080/Travel_Channel/video.m3u8
+http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 ,Animal Planet
 http://45.159.74.22/AnimalPlanet/mono.m3u8
-#http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 ,Animal Planet
+http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 ,National Geographic
 http://195.245.99.242/National_Geographic/playlist.m3u8
-#http://178.217.72.66:8080/National_Geographic/index.m3u8
+#EXTINF:-1 ,National Geographic
+http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://188.237.47.212:6005
 #EXTINF:-1 ,Nat Geo Wild
 http://5.134.87.11:4600/NatGeoWild/index.m3u8
-#http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 ,Nat Geo Wild
+http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 ,History
@@ -549,12 +551,8 @@ http://salam-khb-67.rutube.ru/dive/river-3-346.rtbcdn.ru/-h1pD3ITo-bEPX9O4Izwkw/
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
 http://158.160.149.81:8080/4647/index.m3u8
-#EXTINF:-1 ,Дикая Охота HD
-http://95.85.109.218:7000/play/a026
 #EXTINF:-1 ,Дикая рыбалка HD
 http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Дикая рыбалка HD
-http://95.85.109.218:7000/play/a025
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -676,7 +674,7 @@ http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 ,TV21
 http://195.49.206.244:90/TV21/mono.m3u8?token=video
 #EXTINF:-1 ,.Red
-http://95.85.109.218:7000/play/a04g
+http://158.101.222.193:88/georgia_play.php?id=red
 #EXTINF:-1 ,.black
 http://158.160.149.81:8080/596/index.m3u8
 #EXTINF:-1 ,Кинохит
@@ -696,7 +694,7 @@ http://158.160.149.81:8080/2990/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="Фильмы",Cinema
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 ,HollywooD
-http://95.85.109.218:7000/play/a059
+http://5.134.87.11:4600/Hollywood/index.m3u8
 #EXTINF:-1 ,Kinowood
 http://193.27.209.122/kinowood/index.m3u8
 #EXTINF:-1 ,BollywooD
@@ -778,13 +776,13 @@ http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://158.160.149.81:8080/2586/index.m3u8
 #EXTINF:-1 ,Eurosport 1
-#http://178.217.72.66:8080/Eurosport_HD/index.m3u8
+http://178.217.72.66:8080/Eurosport_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://195.245.99.242/Eurosport1/playlist.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://158.160.149.81:8080/2587/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-#http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
+http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://195.245.99.242/Eurosport2/playlist.m3u8
 #EXTINF:-1 ,Setanta Sports 1
@@ -797,9 +795,6 @@ http://95.67.12.82:9067
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=video
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="fightbox" tvg-logo="https://i.imgur.com/mRsnztA.png" ,FightBox
-http://95.85.109.218:7000/play/a02q
-#http://77.235.1.19:8000/play/a080/index.m3u8
 #EXTINF:-1 ,Бокс ТВ
 http://178.217.72.66:8080/Boks_TV/index.m3u8
 #EXTINF:-1 ,Extreme Sports
