@@ -9,6 +9,9 @@ http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://81.211.33.68/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
+#EXTINF:-1 ,Первый канал Европа
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:-1 ,Первый канал Евразия
 http://158.160.149.81:8080/749/index.m3u8
 #http://89.106.234.5/1KanalEvraziya_34_35.m3u8
