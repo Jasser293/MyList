@@ -513,7 +513,7 @@ http://178.217.72.66:8080/Istoriya/index.m3u8
 #EXTINF:-1 ,Точка РФ
 http://s7.merlive.am/HDLife/index.m3u8
 #EXTINF:-1 ,Точка РФ
-http://176.62.72.48:8001/play/a054/index.m3u8
+http://176.62.72.48:8001/play/a054
 #EXTINF:-1 ,Моя стихия
 http://176.62.72.48:8001/play/a02w/index.m3u8
 #EXTINF:-1 ,Приключения
