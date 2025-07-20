@@ -488,6 +488,8 @@ http://45.159.74.22/TLC/mono.m3u8
 http://158.160.149.81:8080/1961/index.m3u8
 #EXTINF:-1 ,Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
+#EXTINF:-1 ,Travel+Adventure
+http://176.62.72.48:8001/play/a00o
 #EXTINF:-1 ,Animal Planet
 http://45.159.74.22/AnimalPlanet/mono.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -513,7 +515,7 @@ http://178.217.72.66:8080/Istoriya/index.m3u8
 #EXTINF:-1 ,Точка РФ
 http://s7.merlive.am/HDLife/index.m3u8
 #EXTINF:-1 ,Точка РФ
-http://176.62.72.48:8001/play/a054
+http://176.62.72.48:8001/play/a054/index.m3u8
 #EXTINF:-1 ,Моя стихия
 http://176.62.72.48:8001/play/a02w/index.m3u8
 #EXTINF:-1 ,Приключения
@@ -637,6 +639,8 @@ http://158.160.149.81:8080/8191/index.m3u8
 http://195.49.206.244:90/2x2/mono.m3u8?token=video
 #EXTINF:-1 ,2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 ,Дом кино премиум HD
+http://176.62.72.48:8001/play/a04z
 #EXTINF:-1 ,Дом кино
 http://178.217.72.66:8080/Dom_Kino/index.m3u8
 #EXTINF:-1 ,Дом Кино
@@ -731,6 +735,8 @@ http://178.217.72.66:8080/Kinokomediya/index.m3u8
 http://178.217.72.66:8080/Rodnoe_Kino/index.m3u8
 #EXTINF:-1 ,Любимое кино
 http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
+#EXTINF:-1 ,Любимое кино
+http://176.62.72.48:8001/play/a03u
 #EXTINF:-1 ,Русский бестселлер
 http://195.245.99.242/Bestseler/playlist.m3u8
 #EXTINF:-1 ,Русский бестселлер
