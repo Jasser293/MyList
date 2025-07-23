@@ -113,6 +113,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,ТНТ
+http://salam-smf-56.rutube.ru/dive/river-5-553.rtbcdn.ru/31o4A584Ae8EWbgK4eRTbw/stream/genetta-319.m9.rutube.ru/y4iNUjvk1cQtVH7RBuplfw/1753893100/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+#EXTINF:-1 ,ТНТ
 http://158.160.149.81:8080/83/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://178.217.72.66:8080/TNT_HD/index.m3u8
@@ -128,6 +130,8 @@ http://94.230.128.107:8080/THT/index.m3u8
 #http://109.200.130.123:7534/play/a00j
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
+#EXTINF:-1 ,ТНТ4
+http://salam-mskth-9.rutube.ru/dive/river-5-549.rtbcdn.ru/oqieADwNdzINvlzk17D_TQ/stream/genetta-522.ost.rutube.ru/zoA4_FRc5gWGgIyLKxsYzg/1753893185/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 #EXTINF:-1 ,ТНТ4
 http://178.217.72.66:8080/TNT4/index.m3u8
 #EXTINF:-1 ,ТНТ4
@@ -148,6 +152,8 @@ http://178.217.72.66:8080/STS_Love/index.m3u8
 http://31.133.36.244:8000/105
 #http://195.49.206.244:90/STS_Love/mono.m3u8?token=video
 #EXTINF:-1 ,ТВ3
+http://salam-smf-56.rutube.ru/dive/river-5-513.rtbcdn.ru/W49pktYWR7-h5nIt2hqUxg/stream/genetta-323.m9.rutube.ru/-Rn0PBy7UJMjtBkg8SdSrw/1753893349/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+#EXTINF:-1 ,ТВ3
 http://158.160.149.81:8080/1719/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://178.217.72.66:8080/TV3/index.m3u8
@@ -166,6 +172,8 @@ http://31.133.36.244:8000/14
 http://195.158.223.132:8000/Domashniy
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
+#EXTINF:-1 ,ПЯТНИЦА
+http://salam-smf-56.rutube.ru/dive/river-3-336.rtbcdn.ru/Pu2oupy1tDURQPHezOQjJQ/stream/genetta-524.ost.rutube.ru/UT5_lOzMmkH18kpsW5lxxQ/1753893391/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://178.217.72.66:8080/Pyatnitsa/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
