@@ -859,15 +859,18 @@ http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 http://s1.merlive.am/match-strana/index.m3u8
 #http://195.49.206.244:90/Strana/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 1
+http://176.62.72.48:8001/play/a050
 #http://195.49.206.244:90/Football_1HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 1
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 #EXTINF:-1 ,Матч! Футбол 2
+http://176.62.72.48:8001/play/a04x
 #http://195.49.206.244:90/Football_2HD/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 2
 http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
-h#ttp://195.49.206.244:90/football_3/mono.m3u8?token=video
+http://176.62.72.48:8001/play/a053
+#http://195.49.206.244:90/football_3/mono.m3u8?token=video
 #EXTINF:-1 ,Матч! Футбол 3
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 #http://185.57.68.33/110/mpegts
