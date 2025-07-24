@@ -539,8 +539,12 @@ http://salam-spbsed-15.rutube.ru/dive/river-3-346.rtbcdn.ru/dl7QGDGOeWeScwMattK7
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
 http://158.160.149.81:8080/4647/index.m3u8
+#EXTINF:-1 ,Дикая Охота HD
+http://31.133.36.244:8000/122
 #EXTINF:-1 ,Дикая рыбалка HD
 http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Дикая рыбалка HD
+http://31.133.36.244:8000/120
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -565,6 +569,30 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 http://91.194.191.241:8081/chid519/mono.m3u8
 #EXTINF:-1 ,Bridge TV Этно
 http://91.194.191.241:8081/chid520/mono.m3u8
+#EXTINF:-1 ,Bridge TV
+http://31.133.36.244:8000/141
+#EXTINF:-1 ,Bridge TV Classic
+http://31.133.36.244:8000/147
+#EXTINF:-1 ,Bridge TV Deluxe
+http://31.133.36.244:8000/142
+#EXTINF:-1 ,Bridge TV Hits
+http://31.133.36.244:8000/144
+#EXTINF:-1 ,Bridge TV Rock
+http://31.133.36.244:8000/143
+#EXTINF:-1 ,Bridge TV Русский Хит
+http://31.133.36.244:8000/145
+#EXTINF:-1 ,MCM Top
+http://31.133.36.244:8000/152
+#EXTINF:-1 ,RU.TV
+http://31.133.36.244:8000/148
+#EXTINF:-1 ,Жара
+http://31.133.36.244:8000/155
+#EXTINF:-1 ,Муз-ТВ
+http://31.133.36.244:8000/20
+#EXTINF:-1 ,Музыка Первого
+http://31.133.36.244:8000/149
+#EXTINF:-1 ,О!2
+http://31.133.36.244:8000/151
 #EXTINF:-1 ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 ,MTV
