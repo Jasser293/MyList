@@ -78,6 +78,8 @@ http://158.160.149.81:8080/10/index.m3u8
 http://31.133.36.244:8000/11
 #EXTINF:-1 ,Рен ТВ
 http://178.217.72.66:8080/REN_TV/index.m3u8
+#EXTINF:-1 ,Рен ТВ
+http://195.49.206.244:90/REN_TV/mono.m3u8?token=video
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
@@ -335,7 +337,7 @@ http://213.230.65.252:8000/play/a00d
 #EXTINF:-1 ,Авто плюс 
 http://s1.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 ,Драйв
-#
+http://195.49.206.244:90/Drive/mono.m3u8?token=video
 #EXTINF:-1 ,Мужской
 http://158.160.149.81:8080/8850/index.m3u8
 #EXTINF:-1 ,Мужской
