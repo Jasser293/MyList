@@ -159,7 +159,7 @@ http://31.133.36.244:8000/14
 #EXTINF:-1 ,Домашний
 http://195.49.206.244:90/Domashni/mono.m3u8?token=xxyxx
 #EXTINF:-1 ,Домашний
-http://178.217.72.66:8080/Domashniy/index.m3u8
+#http://178.217.72.66:8080/Domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
 http://195.158.223.132:8000/Domashniy
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
@@ -167,7 +167,7 @@ http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
 http://salam-smr-53.rutube.ru/dive/river-3-336.rtbcdn.ru/60Lvt2LHN81xuM811Yznyw/stream/genetta-524.ost.rutube.ru/-9Cfdf-UWLtR-vFt3Utk4A/1753939081/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
-http://178.217.72.66:8080/Pyatnitsa/index.m3u8
+#http://178.217.72.66:8080/Pyatnitsa/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 http://31.133.36.244:8000/16
 #EXTINF:-1 ,ПЯТНИЦА (+2)
@@ -325,9 +325,9 @@ http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Че!
 http://s7.merlive.am/Che/index.m3u8
 #EXTINF:-1 ,Ю
-http://178.217.72.66:8080/Yu_TV/index.m3u8
-#EXTINF:-1 ,Ю
 http://31.133.36.244:8000/31
+#EXTINF:-1 ,Ю
+http://178.217.72.66:8080/Yu_TV/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.158.223.132:8000/U
 #EXTINF:-1 ,Авто 24
