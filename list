@@ -155,9 +155,11 @@ http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 ,ТВ3 International
 http://158.160.149.81:8080/4750/index.m3u8
 #EXTINF:-1 ,Домашний
-http://178.217.72.66:8080/Domashniy/index.m3u8
-#EXTINF:-1 ,Домашний
 http://31.133.36.244:8000/14
+#EXTINF:-1 ,Домашний
+http://195.49.206.244:90/Domashni/mono.m3u8?token=xxyxx
+#EXTINF:-1 ,Домашний
+http://178.217.72.66:8080/Domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
 http://195.158.223.132:8000/Domashniy
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
