@@ -239,7 +239,7 @@ http://158.160.149.81:8080/763/index.m3u8
 #EXTINF:-1 ,ОНТ
 https://edge50.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 ,Беларусь 24
-http://86.57.209.210/Belarus24/index.m3u8
+http://195.49.206.244:90/Belarus24/mono.m3u8?token=xxyxx
 #EXTINF:-1 ,БелРос
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://83.222.205.26/sr1/tro/playlist_1.5M.m3u8
