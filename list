@@ -4,8 +4,7 @@ http://salam-spbsed-83.rutube.ru/dive/river-5-543.rtbcdn.ru/M1bYhLsBla1bPvz5pvEY
 #EXTINF:-1 ,Первый канал
 http://salam-smr-41.rutube.ru/dive/river-5-543.rtbcdn.ru/882MLUX_65bUxG2JYVWctg/stream/genetta-303.m9.rutube.ru/z6qe1W3J54EPtzbrarafJA/1753939140/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-http://31.133.36.244:8000/1
-#http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://176.62.72.48:8001/play/perviy1/index.m3u8
@@ -78,11 +77,11 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://158.160.149.81:8080/10/index.m3u8
 #EXTINF:-1 ,Рен ТВ
+http://195.49.206.244:90/REN_TV/mono.m3u8?token=xxrxx
+#EXTINF:-1 ,Рен ТВ
 http://31.133.36.244:8000/11
 #EXTINF:-1 ,Рен ТВ
 http://178.217.72.66:8080/REN_TV/index.m3u8
-#EXTINF:-1 ,Рен ТВ
-http://195.49.206.244:90/REN_TV/mono.m3u8?token=xxxxx
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
@@ -119,8 +118,6 @@ http://salam-smr-96.rutube.ru/dive/river-5-553.rtbcdn.ru/OiP9_DuCuiBvDWdjFVKFyg/
 http://158.160.149.81:8080/83/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://178.217.72.66:8080/TNT_HD/index.m3u8
-#EXTINF:-1 ,ТНТ
-http://31.133.36.244:8000/19
 #EXTINF:-1 ,ТНТ (+2)
 http://158.160.149.81:8080/1568/index.m3u8
 #EXTINF:-1 ,ТНТ (+2)
@@ -133,18 +130,16 @@ http://85.187.13.40:18000/tntint
 http://salam-smr-41.rutube.ru/dive/river-5-549.rtbcdn.ru/Y24ZGBrkKjt7-ipzfgMihQ/stream/genetta-522.ost.rutube.ru/42zmtFtXZ58omM0lcfFzPg/1753939005/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 #EXTINF:-1 ,ТНТ4
 http://178.217.72.66:8080/TNT4/index.m3u8
-#EXTINF:-1 ,ТНТ4
-http://31.133.36.244:8000/28
 #EXTINF:-1 ,СТС
 http://158.160.149.81:8080/94/index.m3u8
 #EXTINF:-1 ,СТС
-http://31.133.36.244:8000/13
+http://195.49.206.244:90/STS/mono.m3u8?token=xxzxx
 #EXTINF:-1 ,СТС (+2)
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС International
 http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://31.133.36.244:8000/105
+http://195.49.206.244:90/STS_Love/mono.m3u8?token=xx1xx
 #EXTINF:-1 ,СТС Love
 http://178.217.72.66:8080/STS_Love/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -158,29 +153,27 @@ http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 ,ТВ3 International
 http://158.160.149.81:8080/4750/index.m3u8
 #EXTINF:-1 ,Домашний
-http://31.133.36.244:8000/14
-#EXTINF:-1 ,Домашний
-http://195.49.206.244:90/Domashni/mono.m3u8?token=xxyxx
-#EXTINF:-1 ,Домашний
-#http://178.217.72.66:8080/Domashniy/index.m3u8
+http://195.49.206.244:90/Domashni/mono.m3u8?token=xx6xx
 #EXTINF:-1 ,Домашний
 http://195.158.223.132:8000/Domashniy
+#EXTINF:-1 ,Домашний
+http://178.217.72.66:8080/Domashniy/index.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
 http://salam-smr-53.rutube.ru/dive/river-3-336.rtbcdn.ru/60Lvt2LHN81xuM811Yznyw/stream/genetta-524.ost.rutube.ru/-9Cfdf-UWLtR-vFt3Utk4A/1753939081/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 #http://178.217.72.66:8080/Pyatnitsa/index.m3u8
-#EXTINF:-1 ,ПЯТНИЦА
-http://31.133.36.244:8000/16
+#EXTINF:-1 ,Пятница
+http://195.49.206.244:90/Pyatnica/mono.m3u8?token=xx5xx
 #EXTINF:-1 ,ПЯТНИЦА (+2)
 http://94.230.128.107:8080/Friday/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА (+4)
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Суббота!
 http://138.201.67.145/2_super/index.m3u8
-#EXTINF:-1 ,Суббота!
-http://31.133.36.244:8000/157
+#EXTINF:-1 ,Суббота
+http://195.49.206.244:90/Super/mono.m3u8?token=xxpxx
 #EXTINF:-1 ,Rutube
 http://salam-smr-1041.rutube.ru/dive/river-5-551.rtbcdn.ru/bqCOH7DoIZlwShF5kKwUpw/stream/genetta-311.m9.rutube.ru/c7_1-Fk3K3XCutT889Nwkg/1753939226/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 ,Твой 2007
@@ -893,5 +886,5 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 ,Рен ТВ
-http://195.49.206.244:90/REN_TV/mono.m3u8?token=xxxxx
+#EXTINF:-1 ,ТВЦ
+http://31.133.36.244:8000/10
