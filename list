@@ -157,7 +157,7 @@ http://195.49.206.244:90/Domashni/mono.m3u8?token=xx6xx
 #EXTINF:-1 ,Домашний
 http://195.158.223.132:8000/Domashniy
 #EXTINF:-1 ,Домашний
-http://178.217.72.66:8080/Domashniy/index.m3u8
+http://31.133.36.244:8000/14
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
@@ -335,7 +335,9 @@ http://213.230.65.252:8000/play/a00d
 #EXTINF:-1 ,Авто плюс 
 http://s1.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 ,Драйв
-http://195.49.206.244:90/Drive/mono.m3u8?token=xxxxx
+http://195.49.206.244:90/Drive/mono.m3u8?token=xxdxx
+#EXTINF:-1 tvg-id="FastFunBoxHD.ru" tvg-logo="https://i.imgur.com/XLBfoed.png" ,Fast&FunBox
+http://31.133.36.244:8000/116
 #EXTINF:-1 ,Мужской
 http://158.160.149.81:8080/8850/index.m3u8
 #EXTINF:-1 ,Мужской
@@ -434,7 +436,7 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 #EXTINF:-1 ,Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 ,Три Ангела
-http://hls.tv.3angels.ru/stream/HD/HD.m3u8
+http://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 ,Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 ,Надежда
@@ -805,6 +807,8 @@ http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 http://176.62.72.48:8001/play/a02s
 #EXTINF:-1 ,Бокс ТВ
 http://178.217.72.66:8080/Boks_TV/index.m3u8
+#EXTINF:-1 ,Extreme Sports
+http://31.133.36.244:8000/115
 #EXTINF:-1 ,Extreme Sports
 http://178.217.72.66:8080/Extreme_Sports/index.m3u8
 #EXTINF:-1 ,Матч!
