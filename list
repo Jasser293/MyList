@@ -455,7 +455,7 @@ http://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
 #EXTINF:-1 ,Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,TERRA
-#http://109.200.130.123:7055/play/a01f
+http://31.133.36.244:8000/166
 #EXTINF:-1 ,TERRA
 http://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 ,Galaxy
@@ -463,7 +463,8 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://158.160.149.81:8080/3465/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://178.217.72.66:8080/Discovery_HD/video.m3u8
+http://45.159.74.22/DiscoveryChannel/mono.m3u8
+#http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" ,Investigation Discovery
 http://45.159.74.22/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
