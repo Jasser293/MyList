@@ -11,7 +11,7 @@ http://31.133.36.244:8000/1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://81.211.33.68/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,Первый канал (+4)
-http://176.62.72.48:8001/play/perviy1/index.m3u8
+#http://176.62.72.48:8001/play/perviy1/index.m3u8
 #EXTINF:-1 ,Первый канал Европа
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
@@ -338,7 +338,9 @@ http://s7.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://s1.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 ,Драйв
-http://195.49.206.244:90/Drive/mono.m3u8?token=xxdxx
+http://195.49.206.244:90/Drive/mono.m3u8?token=drive
+#EXTINF:-1 ,Драйв
+http://86.57.209.210/Drive/index.m3u8
 #EXTINF:-1 tvg-id="FastFunBoxHD.ru" tvg-logo="https://i.imgur.com/XLBfoed.png" ,Fast&FunBox
 http://31.133.36.244:8000/116
 #EXTINF:-1 ,Мужской
@@ -608,6 +610,8 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-name="california music channel [us]" tvg-logo="https://i.imgur.com/L38mC6H.png" ,California Music Channel
 http://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 ,Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 ,Trace Urban
