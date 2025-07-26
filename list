@@ -333,9 +333,9 @@ http://195.158.223.132:8000/U
 http://158.160.149.81:8080/926/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://176.62.72.48:8001/play/a00a
-#EXTINF:-1 ,Авто Плюс
-http://213.230.65.252:8000/play/a00d
-#EXTINF:-1 ,Авто плюс 
+#EXTINF:-1 ,Авто плюс
+http://s7.merlive.am/Avtoplus/index.m3u8 
+#EXTINF:-1 ,Авто плюс
 http://s1.merlive.am/Avtoplus/index.m3u8
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=xxdxx
@@ -825,6 +825,8 @@ http://194.143.148.28:8080/MatchArena/mpegts
 http://s7.merlive.am/matchboec/index.m3u8
 #EXTINF:-1 ,МАТЧ! Игра
 http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
+#EXTINF:-1 ,МАТЧ! Страна
+http://s7.merlive.am/matchstrana/index.m3u8
 #EXTINF:-1 ,МАТЧ! Страна
 http://s1.merlive.am/match-strana/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
