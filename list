@@ -100,6 +100,8 @@ http://31.133.36.244:8000/10
 #EXTINF:-1 ,Пятый канал
 http://158.160.149.81:8080/98/index.m3u8
 #EXTINF:-1 ,Пятый канал
+http://185.26.157.3:8080/live/5kanal/mono.m3u8
+#EXTINF:-1 ,Пятый канал
 http://178.217.72.66:8080/5_Kanal/index.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
@@ -118,7 +120,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,ТНТ
-http://salam-smr-96.rutube.ru/dive/river-3-321.rtbcdn.ru/h4mUKoVNfu_ll7A7rz371w/stream/genetta-319.m9.rutube.ru/mIHUB2SLwigLrX4IkOCtVw/1754062733/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+http://185.26.157.3:8080/live/tnthd/mono.m3u8
 #EXTINF:-1 ,ТНТ
 http://158.160.149.81:8080/83/index.m3u8
 #EXTINF:-1 ,ТНТ
@@ -132,9 +134,11 @@ http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ International
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
-http://salam-smr-1041.rutube.ru/dive/river-5-549.rtbcdn.ru/07ajLI9oU1BS-yKQ_y3utw/stream/genetta-522.ost.rutube.ru/QzDWIztMCm0SUnS-pO0lcw/1754062772/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+http://185.26.157.3:8080/live/tnt4/mono.m3u8
 #EXTINF:-1 ,ТНТ4
 http://178.217.72.66:8080/TNT4/index.m3u8
+#EXTINF:-1 ,СТС
+http://185.26.157.3:8080/live/sts_hd/mono.m3u8
 #EXTINF:-1 ,СТС
 http://158.160.149.81:8080/94/index.m3u8
 #EXTINF:-1 ,СТС
@@ -144,11 +148,13 @@ http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС International
 http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
+http://185.26.157.3:8080/live/sts_love/mono.m3u8
+#EXTINF:-1 ,СТС Love
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=xx1xx
 #EXTINF:-1 ,СТС Love
 http://178.217.72.66:8080/STS_Love/index.m3u8
 #EXTINF:-1 ,ТВ3
-http://salam-smr-41.rutube.ru/dive/river-5-513.rtbcdn.ru/_ILlAIApmuqhU4P1qCHX_A/stream/genetta-323.m9.rutube.ru/UtewSuVf2woQoCbp_ck7Cw/1754062821/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+http://185.26.157.3:8080/live/tv3/mono.m3u8
 #EXTINF:-1 ,ТВ3
 http://158.160.149.81:8080/1719/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -158,6 +164,8 @@ http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 ,ТВ3 International
 http://158.160.149.81:8080/4750/index.m3u8
 #EXTINF:-1 ,Домашний
+http://185.26.157.3:8080/live/domashniy_hd/mono.m3u8
+#EXTINF:-1 ,Домашний
 http://195.49.206.244:90/Domashni/mono.m3u8?token=xx6xx
 #EXTINF:-1 ,Домашний
 http://195.158.223.132:8000/Domashniy
@@ -166,7 +174,7 @@ http://31.133.36.244:8000/14
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
-http://salam-smr-53.rutube.ru/dive/river-3-336.rtbcdn.ru/_36J1ez8z69jJKFD63AXjA/stream/genetta-524.ost.rutube.ru/fDXjzX6e1F50dlic-Yx0zw/1754062858/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+http://185.26.157.3:8080/live/pyatnica/mono.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
 #http://178.217.72.66:8080/Pyatnitsa/index.m3u8
 #EXTINF:-1 ,Пятница
@@ -322,9 +330,13 @@ http://178.217.72.66:8080/Sarafan/index.m3u8
 #EXTINF:-1 ,Сарафан
 http://176.62.72.48:8001/play/a03i
 #EXTINF:-1 ,Че!
+http://185.26.157.3:8080/live/che/mono.m3u8
+#EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Че!
 http://s7.merlive.am/Che/index.m3u8
+#EXTINF:-1 ,Ю
+http://185.26.157.3:8080/live/yu_tv/mono.m3u8
 #EXTINF:-1 ,Ю
 http://31.133.36.244:8000/31
 #EXTINF:-1 ,Ю
@@ -469,10 +481,13 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://158.160.149.81:8080/3465/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://45.159.74.22/DiscoveryChannel/mono.m3u8
+http://185.26.157.3:8080/live/discovery/mono.m3u8
+#http://45.159.74.22/DiscoveryChannel/mono.m3u8
 #http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" ,Investigation Discovery
 http://45.159.74.22/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
+http://185.26.157.3:8080/live/tlc/mono.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
 http://45.159.74.22/TLC/mono.m3u8
 #EXTINF:-1 ,DocuBox
@@ -484,17 +499,22 @@ http://176.62.72.48:8001/play/a00o
 #EXTINF:-1 ,Animal Planet
 http://45.159.74.22/AnimalPlanet/mono.m3u8
 #EXTINF:-1 ,Animal Planet
-http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
+http://185.26.157.3:8080/live/animalplanet/mono.m3u8
+#http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 ,National Geographic
-http://178.217.72.66:8080/National_Geographic/index.m3u8
+http://185.26.157.3:8080/live/nationalgeographic/mono.m3u8
+#http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://188.237.47.212:6005
 #EXTINF:-1 ,Nat Geo Wild
-http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
+http://185.26.157.3:8080/live/natgeowild/mono.m3u8
+#http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild
 http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://45.11.139.43:8555/ocean/index.m3u8
+#EXTINF:-1 ,History
+http://185.26.157.3:8080/live/historyhd/mono.m3u8
 #EXTINF:-1 ,History
 http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,H2
@@ -544,6 +564,8 @@ http://158.160.149.81:8080/689/index.m3u8
 http://salam-smr-41.rutube.ru/dive/river-3-346.rtbcdn.ru/Vh6qJdOsNMpYRGPJ5s8lKw/stream/genetta-301.m9.rutube.ru/JlJkaeicy10302aHAA1TSQ/1754063269/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 http://salam-mskm9-19.rutube.ru/dive/river-3-346.rtbcdn.ru/G8ICrAyTwf54n8ISTxEu3w/stream/genetta-301.m9.rutube.ru/pe4BH5yhht13wx-do4LRFw/1754063304/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+#EXTINF:-1 ,Дикий
+http://185.26.157.3:8080/live/dikiy/mono.m3u8
 #EXTINF:-1 ,Дикий
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
@@ -759,6 +781,12 @@ http://85.208.223.249:8888/play/a007
 http://31.133.36.244:8000/63
 #EXTINF:-1 ,НСТ
 http://176.62.72.48:8001/play/a03p
+#EXTINF:-1 ,Киноужас HD
+http://185.26.157.3:8080/live/kinouzhas/mono.m3u8
+#EXTINF:-1 ,Остросюжетное HD
+http://185.26.157.3:8080/live/ostrosyzhetnoe/mono.m3u8
+#EXTINF:-1 ,Страшное HD
+http://185.26.157.3:8080/live/strashnoe_hd/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://176.62.72.48:8001/play/a03y
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -804,13 +832,15 @@ http://158.160.149.81:8080/2586/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://81.198.190.9:7878/esp1/video.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://178.217.72.66:8080/Eurosport_HD/index.m3u8
+http://185.26.157.3:8080/live/eurosport/mono.m3u8
+#http://178.217.72.66:8080/Eurosport_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://158.160.149.81:8080/2587/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://81.198.190.9:7878/esp2/video.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
+http://185.26.157.3:8080/live/eurosport2hd/mono.m3u8
+#http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://158.160.149.81:8080/4536/index.m3u8
 #EXTINF:-1 ,Setanta Sports
@@ -831,12 +861,16 @@ http://178.217.72.66:8080/Extreme_Sports/index.m3u8
 http://185.46.48.18/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
+#EXTINF:-1 ,Матч Премьер
+http://185.26.157.3:8080/live/matchpremier/mono.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! Боец
-http://s7.merlive.am/matchboec/index.m3u8
+http://185.26.157.3:8080/live/matchboec/mono.m3u8
+#http://s7.merlive.am/matchboec/index.m3u8
 #EXTINF:-1 ,МАТЧ! Игра
-http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
+http://185.26.157.3:8080/live/matchigra/mono.m3u8
+#http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 #EXTINF:-1 ,МАТЧ! Страна
 http://s7.merlive.am/matchstrana/index.m3u8
 #EXTINF:-1 ,МАТЧ! Страна
@@ -844,15 +878,18 @@ http://s1.merlive.am/match-strana/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://176.62.72.48:8001/play/a050
 #EXTINF:-1 ,Матч! Футбол 1
-http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+http://185.26.157.3:8080/live/matchfutbol1hd/mono.m3u8
+#http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 #EXTINF:-1 ,Матч! Футбол 2
 http://176.62.72.48:8001/play/a04x
 #EXTINF:-1 ,Матч! Футбол 2
-http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+http://185.26.157.3:8080/live/matchfutbol2hd/mono.m3u8
+#http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
 http://176.62.72.48:8001/play/a053
 #EXTINF:-1 ,Матч! Футбол 3
-http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+http://185.26.157.3:8080/live/matchfutbol3hd/mono.m3u8
+#http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 #http://185.57.68.33/110/mpegts
 #EXTINF:-1 ,KHL Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
@@ -906,21 +943,25 @@ http://85.192.10.173/MamontRu/mono.m3u8
 http://81.198.190.9:7878/TV3/video.m3u8
 #EXTINF:-1 ,TV6 LT
 http://81.198.190.9:7878/tv6/video.m3u8
-#EXTINF:-1 ,TV3 Film HD LT
+#EXTINF:-1 ,TV3 Film
 http://81.198.190.9:7878/kanals2/video.m3u8
-#EXTINF:-1 ,LTV1 LV
+#EXTINF:-1 ,LTV1
 http://81.198.190.9:7878/LTV1/video.m3u8
-#EXTINF:-1 ,LTV7 LV
+#EXTINF:-1 ,LTV7
 http://81.198.190.9:7878/LTV7/video.m3u8
-#EXTINF:-1 ,STV LV
+#EXTINF:-1 ,TV3
+http://81.198.190.9:7878/tv3/video.m3u8
+#EXTINF:-1 ,TV4
+http://81.198.190.9:7878/tv4/video.m3u8
+#EXTINF:-1 ,STV
 http://81.198.190.9:7878/STV/video.m3u8
 #EXTINF:-1 ,Riga 24
 http://81.198.190.9:7878/Riga24/video.m3u8
-#EXTINF:-1 ,TV3 Plus LV
+#EXTINF:-1 ,TV3 Plus
 http://81.198.190.9:7878/3plus/video.m3u8
-#EXTINF:-1 ,8 TV LV
+#EXTINF:-1 ,8 TV
 http://81.198.190.9:7878/8tv/video.m3u8
-#EXTINF:-1 ,360 TV LV
+#EXTINF:-1 ,360 TV
 http://81.198.190.9:7878/360TV/video.m3u8
 #EXTINF:-1 ,Re TV
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
