@@ -345,8 +345,12 @@ http://178.217.72.66:8080/Yu_TV/index.m3u8
 http://195.158.223.132:8000/U
 #EXTINF:-1 ,Авто 24
 http://158.160.149.81:8080/926/index.m3u8
+#EXTINF:-1 ,Авто 24
+http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1 ,АВТО 24
 http://176.62.72.48:8001/play/a00a
+#EXTINF:-1 ,Авто плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 ,Авто плюс
 http://s7.merlive.am/Avtoplus/index.m3u8 
 #EXTINF:-1 ,Авто плюс
