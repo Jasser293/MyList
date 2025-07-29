@@ -407,7 +407,7 @@ http://91.194.191.241:8081/chid514/mono.m3u8
 #EXTINF:-1 ,Доктор
 http://176.62.72.48:8001/play/a03d/index.m3u8
 #EXTINF:-1 ,Доктор
-http://178.134.1.158:8081/doktor/index.m3u8
+http://31.133.36.244:8000/38
 #EXTINF:-1 ,Доктор
 http://178.217.72.66:8080/Doktor/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
@@ -526,7 +526,7 @@ http://188.237.47.212:6005
 http://185.26.157.3:8080/live/natgeowild/mono.m3u8
 #http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 ,Nat Geo Wild
-http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
+http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 ,History
@@ -713,7 +713,7 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
 http://158.160.149.81:8080/88/index.m3u8
 #EXTINF:-1 ,Кинопремьера
-http://91.194.191.241:8081/chid518/mono.m3u8
+http://158.160.149.81:8080/8846/index.m3u8
 #EXTINF:-1 ,Киносвидание
 http://178.217.72.66:8080/Kinosvidanie/index.m3u8
 #EXTINF:-1 ,Mужское Кино
