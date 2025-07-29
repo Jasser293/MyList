@@ -70,7 +70,7 @@ https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2b
 #EXTINF:-1 ,РОССИЯ 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
 #EXTINF:-1 ,Москва 24
-http://213.91.178.133:8000/play/a0b1
+#
 #EXTINF:-1 ,Запад 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 tvg-id="LenTV24.ru" tvg-name="лентв24" tvg-logo="https://i.imgur.com/d02uxkB.png" ,ЛЕНТВ24
@@ -92,7 +92,7 @@ http://31.133.36.244:8000/11
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
-http://213.91.178.133:8000/play/a0ax
+#http://213.91.178.133:8000/play/a0ax
 #EXTINF:-1 ,ТВЦ
 http://158.160.149.81:8080/112/index.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -110,7 +110,7 @@ http://178.217.72.66:8080/5_Kanal/index.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
-http://213.91.178.133:8000/play/a0b4
+#http://213.91.178.133:8000/play/a0b4
 #EXTINF:-1 ,Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
@@ -176,7 +176,7 @@ http://195.158.223.132:8000/Domashniy
 #EXTINF:-1 ,Домашний
 http://31.133.36.244:8000/14
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
-http://213.91.178.133:8000/play/a0b5
+#http://213.91.178.133:8000/play/a0b5
 #EXTINF:-1 ,ПЯТНИЦА
 http://185.26.157.3:8080/live/pyatnica/mono.m3u8
 #EXTINF:-1 ,ПЯТНИЦА
@@ -314,9 +314,8 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 #http://92.43.140.249/s20/03.m3u8
 #EXTINF:-1 ,Перец
 http://158.160.149.81:8080/2754/index.m3u8
-#http://213.169.39.30:5261
 #EXTINF:-1 ,Перец
-http://213.91.178.133:8000/play/a0ay
+http://213.169.39.30:5261
 #EXTINF:-1 ,КВН ТВ
 http://158.160.149.81:8080/2545/index.m3u8
 #EXTINF:-1 ,КВН ТВ
@@ -808,7 +807,7 @@ http://31.133.36.244:8000/56
 #EXTINF:-1 ,Viju TV1000 Русское
 http://213.169.39.30:5006
 #EXTINF:-1 ,Viju TV1000 Русское
-http://213.91.178.133:8000/play/a0bx
+#
 #EXTINF:-1 ,Viju TV1000 Action
 http://178.217.72.66:8080/TV_1000_Action/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
