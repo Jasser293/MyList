@@ -92,7 +92,7 @@ http://31.133.36.244:8000/11
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
-#http://213.91.178.133:8000/play/a0ax
+http://112.72.4.109/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
 http://158.160.149.81:8080/112/index.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -141,6 +141,8 @@ http://85.187.13.40:18000/tntint
 http://185.26.157.3:8080/live/tnt4/mono.m3u8
 #EXTINF:-1 ,ТНТ4
 http://178.217.72.66:8080/TNT4/index.m3u8
+#EXTINF:-1 ,ТНТ4 International
+http://112.72.4.71/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 ,СТС
 http://185.26.157.3:8080/live/sts_hd/mono.m3u8
 #EXTINF:-1 ,СТС
@@ -151,6 +153,8 @@ http://195.49.206.244:90/STS/mono.m3u8?token=xxzxx
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС International
 http://81.161.126.82/1230/index.m3u8
+#EXTINF:-1 ,СТС International
+http://112.72.4.71/live/disk1/STS/HLSv3-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://185.26.157.3:8080/live/sts_love/mono.m3u8
 #EXTINF:-1 ,СТС Love
@@ -187,6 +191,8 @@ http://195.49.206.244:90/Pyatnica/mono.m3u8?token=xx5xx
 http://94.230.128.107:8080/Friday/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА (+4)
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Пятница! International
+http://112.72.4.71/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
 http://138.201.67.145/2_super/index.m3u8
 #EXTINF:-1 ,Суббота
@@ -315,7 +321,8 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 ,Перец
 http://158.160.149.81:8080/2754/index.m3u8
 #EXTINF:-1 ,Перец
-http://213.169.39.30:5261
+http://158.101.222.193:88/georgia_play.php?id=perec
+#http://213.169.39.30:5261
 #EXTINF:-1 ,КВН ТВ
 http://158.160.149.81:8080/2545/index.m3u8
 #EXTINF:-1 ,КВН ТВ
@@ -805,9 +812,9 @@ http://178.217.72.66:8080/TV_1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://31.133.36.244:8000/56
 #EXTINF:-1 ,Viju TV1000 Русское
-http://213.169.39.30:5006
+http://158.160.149.81:8080/3794/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
-#
+http://213.169.39.30:5006
 #EXTINF:-1 ,Viju TV1000 Action
 http://178.217.72.66:8080/TV_1000_Action/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
