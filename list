@@ -160,7 +160,8 @@ http://185.26.157.3:8080/live/sts_love/mono.m3u8
 #EXTINF:-1 ,СТС Love
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=xx1xx
 #EXTINF:-1 ,СТС Love
-http://178.217.72.66:8080/STS_Love/index.m3u8
+http://195.158.223.132:8000/STS_Love
+#http://178.217.72.66:8080/STS_Love/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://185.26.157.3:8080/live/tv3/mono.m3u8
 #EXTINF:-1 ,ТВ3
@@ -204,9 +205,9 @@ http://salam-ekb-mts-101.rtbcdn.ru/dive/river-5-527.rtbcdn.ru/ly_J3g-4MyKOZRyYtD
 #EXTINF:-1 ,Кино и жизнь
 http://salam-ekb-ttk-d112.rtbcdn.ru/dive/river-3-318.rtbcdn.ru/0Q9Vigu6Mw81vXtN9N_izg/stream/genetta-326.m9.rutube.ru/JLkFCT7n2FBmB0Ay8YfL4Q/1754469430/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-khb-1021.rutube.ru/dive/river-5-520.rtbcdn.ru/dV_fH0hTsoh3K-NXIpJ8WA/stream/genetta-511.ost.rutube.ru/LBhWqp1HIHO4wfrCcLMN5w/1754469163/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+http://salam-khb-1021.rutube.ru/dive/river-5-520.rtbcdn.ru/x8gyzTI01zULw-CSLpqIpA/stream/genetta-311.m9.rutube.ru/wJmTkETumGsHQjIzJGC5dw/1754554706/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-smr-96.rutube.ru/dive/river-5-520.rtbcdn.ru/659Kf9ChJxYOxyLKIRychA/stream/genetta-511.ost.rutube.ru/h--qT8Q4rmzZO7ieiDuExA/1754244327/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+http://salam-ekb-mfon-d129.rtbcdn.ru/dive/river-5-520.rtbcdn.ru/dwaaNVwklPuRtMz9NAN3ng/stream/genetta-311.m9.rutube.ru/jea2kGl9qDaR53Rdjs3Nrw/1754554786/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Comedy Hub
 http://salam-ekb-mfon-d129.rtbcdn.ru/dive/river-5-521.rtbcdn.ru/cQ-FTBBGftqWTvWbmHRFFg/stream/genetta-325.m9.rutube.ru/B1eAzeolaHg6N0gUv9w3xw/1754469463/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолаффка
@@ -344,15 +345,14 @@ http://185.26.157.3:8080/live/che/mono.m3u8
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Че!
-#http://s7.merlive.am/Che/index.m3u8
+http://31.133.36.244:8000/30
 #EXTINF:-1 ,Ю
 http://185.26.157.3:8080/live/yu_tv/mono.m3u8
 #EXTINF:-1 ,Ю
 http://31.133.36.244:8000/31
 #EXTINF:-1 ,Ю
-http://178.217.72.66:8080/Yu_TV/index.m3u8
-#EXTINF:-1 ,Ю
-http://195.158.223.132:8000/U
+http://tv.streams.baikal-telecom.net/U/index.m3u8
+#http://178.217.72.66:8080/Yu_TV/index.m3u8
 #EXTINF:-1 ,Авто 24
 http://158.160.149.81:8080/926/index.m3u8
 #EXTINF:-1 ,Авто 24
@@ -389,7 +389,7 @@ http://158.160.149.81:8080/145/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://176.62.72.48:8001/play/a00t
 #EXTINF:-1 ,Бобёр
-http://178.217.72.66:8080/Bober/index.m3u8
+http://185.26.157.3:8080/live/bober/mono.m3u8
 #EXTINF:-1 ,Бобёр
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 ,Загородная жизнь
@@ -534,7 +534,7 @@ http://185.26.157.3:8080/live/historyhd/mono.m3u8
 #EXTINF:-1 ,History
 http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,H2
-http://95.67.12.81:10620
+#http://95.67.12.81:10620
 #EXTINF:-1 ,История
 http://178.217.72.66:8080/Istoriya/index.m3u8
 #EXTINF:-1 ,Точка РФ
