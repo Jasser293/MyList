@@ -818,6 +818,8 @@ http://195.49.206.244:90/Igra/mono.m3u8?token=xigrx
 http://195.49.206.244:90/Strana/mono.m3u8?token=xstrx
 #EXTINF:-1 ,МАТЧ! Страна
 http://178.217.72.66:8080/Match_Nash_Sport/index.m3u8
+#EXTINF:-1 ,Футбол
+http://195.49.206.244:90/Futbol/mono.m3u8?token=xfutx
 #EXTINF:-1 ,Матч! Футбол 1
 http://176.62.72.48:8001/play/a050
 #EXTINF:-1 ,Матч! Футбол 1
@@ -909,6 +911,3 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 ,Че
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://mfe01.cliptv.az/dash/Ce_SDdfhj4678h.ism/playlist.mpd
