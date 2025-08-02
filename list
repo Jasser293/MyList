@@ -917,7 +917,7 @@ http://81.198.190.9:7878/STV/video.m3u8
 http://81.198.190.9:7878/Riga24/video.m3u8
 #EXTINF:-1 ,TV3 Plus
 http://81.198.190.9:7878/3plus/video.m3u8
-#EXTINF:-1 ,8 TV
+#EXTINF:-1 ,8 TV LV
 http://81.198.190.9:7878/8tv/video.m3u8
 #EXTINF:-1 ,360 TV
 http://81.198.190.9:7878/360TV/video.m3u8
