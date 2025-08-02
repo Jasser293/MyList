@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://salam-ekb-retn-d113.rtbcdn.ru/dive/river-3-370.rtbcdn.ru/a8QqUEoYJebvtiEYAGQ1pA/stream/genetta-303.m9.rutube.ru/wbH1dglWcGQImj6ub0YX0g/1754469271/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://river-ost-rtk-521.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/AV87SgzqDmQynLUgDFtsxg/1754728940/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://185.26.157.3:8080/live/perviyhd/mono.m3u8
 #EXTINF:-1 ,Первый канал
@@ -74,7 +74,7 @@ http://185.26.157.3:8080/live/moskva_24/mono.m3u8
 #EXTINF:-1 ,Запад 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 tvg-id="LenTV24.ru" tvg-name="лентв24" tvg-logo="https://i.imgur.com/d02uxkB.png" ,ЛЕНТВ24
-http://river-3-338.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/LN34TUn2s32eWF-3aZSTdw/1754468940/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
+http://salam-kry-34.rutube.ru/dive/river-3-338.rtbcdn.ru/auuTQ0vKo0n2exssmUOfJg/stream/genetta-319.m9.rutube.ru/JFP3Wqozw3mTWy6IAFPYkQ/1754728992/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
 #EXTINF:-1 ,Россия К
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К (+2)
@@ -202,7 +202,7 @@ http://salam-mskth-72.rutube.ru/dive/river-5-527.rtbcdn.ru/6iKxa6ZDa5oklbt32IxT5
 #EXTINF:-1 ,Кино и жизнь
 http://salam-mskth-16.rutube.ru/dive/river-3-318.rtbcdn.ru/M6ngk3RLEp5HeQGdYwbsUA/stream/genetta-317.m9.rutube.ru/7PykXvuPG6yofuTUlqtb0g/1754661666/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-khb-1021.rutube.ru/dive/river-5-520.rtbcdn.ru/x8gyzTI01zULw-CSLpqIpA/stream/genetta-311.m9.rutube.ru/wJmTkETumGsHQjIzJGC5dw/1754554706/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+http://river-m9-rtk-334.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/Rvj6bYiibbouW5Eyq-6Z-g/1754729039/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-ekb-mfon-d129.rtbcdn.ru/dive/river-5-520.rtbcdn.ru/dwaaNVwklPuRtMz9NAN3ng/stream/genetta-311.m9.rutube.ru/jea2kGl9qDaR53Rdjs3Nrw/1754554786/23c568b69e0eada33560850484223739/720p_stream.m3u8
 #EXTINF:-1 ,Comedy Hub
@@ -299,9 +299,6 @@ http://178.217.72.66:8080/orujie/index.m3u8
 http://195.158.223.132:8002/Oruzhie
 #EXTINF:-1 ,Арсенал
 http://178.217.72.66:8080/arsenalhd/mono.m3u8
-#EXTINF:-1 ,Арсенал
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s68/04.m3u8
 #EXTINF:-1 ,Победа
 https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Патриот
@@ -350,9 +347,7 @@ http://176.62.72.48:8001/play/a00a
 #EXTINF:-1 ,Авто плюс
 http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 ,Авто плюс
-http://s1.merlive.am/Avtoplus/index.m3u8
-#EXTINF:-1 ,Авто плюс
-http://s7.merlive.am/Avtoplus/index.m3u8 
+#
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=drive
 #EXTINF:-1 ,Драйв
@@ -563,9 +558,9 @@ http://178.217.72.66:8080/Okhota_I_Rybalka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Охотник и рыболов
 http://158.160.149.81:8080/689/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://salam-mskm9-19.rutube.ru/dive/river-3-346.rtbcdn.ru/SFHL7V3Cozqng05axfcQaw/stream/genetta-301.m9.rutube.ru/zlo7RH_gmgVJVM3YwQ5-kQ/1754469698/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://salam-kry-34.rutube.ru/dive/river-3-354.rtbcdn.ru/2RImkogo-tTHJOXG40r0HA/stream/genetta-301.m9.rutube.ru/g4C79Zd6_38mxZIhfyUFOw/1754729115/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-https://salam-ekb-mfon-d129.rtbcdn.ru/dive/river-3-346.rtbcdn.ru/10XFCNkp6qzae1pzeVFugQ/stream/genetta-301.m9.rutube.ru/Nver631qbZ265DbsQTaVYw/1754469659/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://salam-ekb-mfon-d129.rtbcdn.ru/dive/river-3-346.rtbcdn.ru/10XFCNkp6qzae1pzeVFugQ/stream/genetta-301.m9.rutube.ru/Nver631qbZ265DbsQTaVYw/1754469659/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://185.26.157.3:8080/live/dikiy/mono.m3u8
 #EXTINF:-1 ,Дикий
@@ -835,9 +830,9 @@ http://185.26.157.3:8080/live/matchboec/mono.m3u8
 http://185.26.157.3:8080/live/matchigra/mono.m3u8
 #http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 #EXTINF:-1 ,МАТЧ! Страна
-http://s1.merlive.am/match-strana/index.m3u8
+http://195.49.206.244:90/Strana/mono.m3u8?token=xstrx
 #EXTINF:-1 ,МАТЧ! Страна
-http://s7.merlive.am/matchstrana/index.m3u8
+http://178.217.72.66:8080/Match_Nash_Sport/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://176.62.72.48:8001/play/a050
 #EXTINF:-1 ,Матч! Футбол 1
