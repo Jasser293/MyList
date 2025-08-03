@@ -259,8 +259,8 @@ http://195.49.206.244:90/Belarus24/mono.m3u8?token=xxyxx
 http://83.222.205.26/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-name="гродно плюс" ,Гродно плюс
 http://82.209.219.165:1234/gp
-#EXTINF:-1 tvg-name="пинск тв" ,Пинск ТВ
-http://87.252.229.200:8083/pinsk
+#EXTINF:-1 tvg-name="пинск тв" ,Пинск.БелРос
+http://178.124.207.1:1780/tvphd
 #EXTINF:-1 tvg-id="555.ru" tvg-name="телерадиокомания 555" tvg-logo="https://i.imgur.com/JQZkxeA.png" ,555
 http://91.207.106.1:8888/live
 #EXTINF:-1 ,Скиф
@@ -436,7 +436,7 @@ http://176.62.72.48:8001/play/a00l/index.m3u8
 #EXTINF:-1 ,Совершенно секретно
 http://178.217.72.66:8080/Sovershenno_Sekretno/index.m3u8
 #EXTINF:-1 ,Совершенно секретно
-http://s7.merlive.am/sovershennosekretno/index.m3u8
+#http://s7.merlive.am/sovershennosekretno/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=xxxxx
 #EXTINF:-1 ,Спас
@@ -695,7 +695,7 @@ http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 ,FilmBox
-http://s1.merlive.am/Filmbox/index.m3u8
+http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="Фильмы",Cinema
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 ,HollywooD
