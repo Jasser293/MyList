@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
+https://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/1IIKy3IljuEcGAMc6bvWSw/1754900370/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+#EXTINF:-1 ,Первый канал
 http://salam-smr-96.rutube.ru/dive/river-3-370.rtbcdn.ru/GSHrTpxpKT-8YonvhQYSyg/stream/genetta-303.m9.rutube.ru/Y20_lnCkO0Eeffq-dzU7KQ/1754758205/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -883,7 +885,7 @@ http://158.160.149.81:8080/8845/index.m3u8
 http://95.67.12.82:9084
 #EXTINF:-1 ,Карусель
 http://195.49.206.244:90/Karusel/mono.m3u8?token=xkarx
-http://178.217.72.66:8080/Karusel/index.m3u8
+#http://178.217.72.66:8080/Karusel/index.m3u8
 #EXTINF:-1 ,Мультиландия
 http://176.62.72.48:8001/play/a00n
 #http://178.217.72.66:8080/Mult/index.m3u8
