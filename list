@@ -249,6 +249,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 https://edge50.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 ,ОНТ
 https://edge50.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:-1 ,Беларусь 1
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b1010000_sleng.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://195.49.206.244:90/Belarus24/mono.m3u8?token=xxyxx
 #EXTINF:-1 ,БелРос
