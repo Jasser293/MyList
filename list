@@ -639,6 +639,16 @@ http://194.143.148.28:8080/KINEKO/index.m3u8
 http://158.160.149.81:8080/260/index.m3u8
 #EXTINF:-1 ,Видеокассета
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1 ,VHS-ка
+http://158.160.149.81:8080/8270/index.m3u8
+#EXTINF:-1 ,Sumiko
+http://158.160.149.81:8080/8709/index.m3u8
+#EXTINF:-1 ,Scream
+http://158.160.149.81:8080/8229/index.m3u8
+#EXTINF:-1 ,FamilyJam
+http://158.160.149.81:8080/8425/index.m3u8
+#EXTINF:-1 ,DetectiveJam
+http://158.160.149.81:8080/8426/index.m3u8
 #EXTINF:-1 ,Horror TV
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 ,Всё ТВ HD
