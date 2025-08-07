@@ -152,8 +152,6 @@ http://112.72.4.71/live/disk1/STS/HLSv3-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=xlovx
 #EXTINF:-1 ,СТС Love
-http://194.143.148.28:8080/CTC_LOVE/index.m3u8
-#EXTINF:-1 ,СТС Love
 http://195.158.223.132:8000/STS_Love
 #EXTINF:-1 ,ТВ3
 http://158.160.149.81:8080/1719/index.m3u8
@@ -200,7 +198,7 @@ http://river-m9-rtk-334.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/Rvj6bYiibbouW5
 #EXTINF:-1 ,Кинолента 24
 http://salam-smr-1041.rutube.ru/dive/river-5-520.rtbcdn.ru/YpD5WR-G4eH3o9J6rLoPsw/stream/genetta-311.m9.rutube.ru/cDx_TgPmo73LwqVi13HRCQ/1755073937/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Comedy Hub
-http://salam-smr-96.rutube.ru/dive/river-5-521.rtbcdn.ru/LgD-oZeIyvWrnSAXz0rpMw/stream/genetta-325.m9.rutube.ru/L0_I8HYX1N2VCkFP3_C9Qg/1755073964/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
+http://salam-mskth-22.rutube.ru/dive/river-5-521.rtbcdn.ru/ER8RoIk1DCi-5LzSE2dD-Q/stream/genetta-321.m9.rutube.ru/GD8L4QNPCjvjmmcMSG7U4A/1755166212/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Красная линия
@@ -634,7 +632,7 @@ http://195.49.206.244:90/Dom_kino/mono.m3u8?token=xdkdx
 #EXTINF:-1 ,Дом Кино
 https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,КИНЕКО
-http://194.143.148.28:8080/KINEKO/index.m3u8
+#
 #EXTINF:-1 ,Еврокино
 http://158.160.149.81:8080/260/index.m3u8
 #EXTINF:-1 ,Видеокассета
