@@ -154,7 +154,7 @@ http://195.49.206.244:90/STS_Love/mono.m3u8?token=xlovx
 #EXTINF:-1 ,СТС Love
 http://195.158.223.132:8000/STS_Love
 #EXTINF:-1 ,ТВ3
-http://158.160.149.81:8080/1719/index.m3u8
+http://45.159.74.22/Channel_121/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=xtv3x
 #EXTINF:-1 ,ТВ3
@@ -301,8 +301,7 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 ,ЦТВ
-#EXTVLCOPT:http-user-agent=Donate BTC
-#http://92.43.140.249/s20/03.m3u8
+http://45.159.74.22/Channel_129/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Перец
 http://158.160.149.81:8080/2754/index.m3u8
 #EXTINF:-1 ,Перец
@@ -540,6 +539,8 @@ http://178.217.72.66:8080/Okhota_I_Rybalka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рыболов
 http://158.160.149.81:8080/351/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов
+http://45.159.74.22/Channel_124/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Охотник и рыболов
 http://158.160.149.81:8080/689/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 http://salam-smr-96.rutube.ru/dive/river-3-346.rtbcdn.ru/sqlMtgXkXlO1bvOITIrgow/stream/genetta-301.m9.rutube.ru/WBqulwPRxiu4rviHPgp82A/1755246292/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
@@ -577,10 +578,14 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 http://91.194.191.241:8081/chid519/mono.m3u8
 #EXTINF:-1 ,Bridge TV Этно
 http://91.194.191.241:8081/chid520/mono.m3u8
+#EXTINF:-1 ,Bridge TV Русский Хит
+http://45.159.74.22/Channel_115/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 ,MTV
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 ,MTV Live
+http://45.159.74.22/Channel_117/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,MTV
 http://190.102.246.93:9005/play/a01p
 #EXTINF:-1 ,Dancehits 80
@@ -668,6 +673,8 @@ http://178.217.72.66:8080/Muzhskoe_Kino/index.m3u8
 #EXTINF:-1 ,Kиносемья
 http://178.217.72.66:8080/Kinosemya/index.m3u8
 #EXTINF:-1 ,Amedia 1
+http://45.159.74.22/Channel_128/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Amedia 1
 http://158.160.149.81:8080/1599/index.m3u8
 #EXTINF:-1 ,Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
@@ -736,6 +743,8 @@ http://195.26.83.96:7006/play/a00y/index.m3u8
 http://85.208.223.249:8888/play/a007
 #EXTINF:-1 ,НСТ
 http://195.49.206.244:90/NST/mono.m3u8?token=xnstx
+#EXTINF:-1 ,НСТ
+http://45.159.74.22/Channel_125/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -850,7 +859,8 @@ http://195.26.83.96:7006/play/a00z/index.m3u8
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 ,Da Vinci
 http://158.101.222.193:88/georgia_play.php?id=davinci
-#http://178.217.72.66:8080/Da_Vinchi/index.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://45.159.74.22/Channel_114/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Мультимания
 http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Супер Герои
