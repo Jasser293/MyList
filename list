@@ -308,9 +308,11 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c
 #EXTINF:-1 tvg-id="OTS.ru" tvg-name="отс" tvg-logo="https://i.imgur.com/T7YPwMe.png" ,ОТС
 http://river-5-557.rtbcdn.ru/stream/genetta-514.ost.rutube.ru/Ea-HOgVS0Yj8KGfe3qwSrg/1755074024/39c5bfe012402990e6402eded8bdc761/1080p_stream.m3u8
 #EXTINF:-1 ,Оружие
-http://178.217.72.66:8080/orujie/index.m3u8
+http://45.143.108.110:4200/orujie
 #EXTINF:-1 ,Оружие
 http://195.158.223.132:8002/Oruzhie
+#EXTINF:-1 ,Оружие
+http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 ,Арсенал
 http://158.160.149.81:8080/5567/index.m3u8
 #EXTINF:-1 ,Арсенал
