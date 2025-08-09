@@ -675,7 +675,9 @@ http://195.49.206.244:90/Dom_kino/mono.m3u8?token=xdkdx
 #EXTINF:-1 ,Дом Кино
 https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,КИНЕКО
-#
+http://31.133.36.244:8000/84
+#EXTINF:-1 ,КИНЕКО
+http://31.133.36.244:8000/83
 #EXTINF:-1 ,Еврокино
 http://158.160.149.81:8080/260/index.m3u8
 #EXTINF:-1 ,Видеокассета
@@ -750,7 +752,8 @@ http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="Фильмы",Cinema
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 ,HollywooD
-http://178.217.72.66:8080/hollywood/index.m3u8
+http://31.133.36.244:8000/52
+#http://178.217.72.66:8080/hollywood/index.m3u8
 #EXTINF:-1 ,Kinowood
 http://193.27.209.122/kinowood/index.m3u8
 #EXTINF:-1 ,BollywooD
@@ -768,17 +771,25 @@ http://178.217.72.66:8080/Kinokomediya/index.m3u8
 #EXTINF:-1 ,Родное кино
 #
 #EXTINF:-1 ,Любимое кино
-#
+http://31.133.36.244:8000/76
 #EXTINF:-1 ,Русский бестселлер
 http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
+#EXTINF:-1 ,Русский бестселлер
+http://31.133.36.244:8000/59
+#EXTINF:-1 ,Русский Детектив
+http://31.133.36.244:8000/62
 #EXTINF:-1 ,Русский Детектив
 http://77.235.1.19:8000/play/a08f/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://158.160.149.81:8080/4248/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
+#EXTINF:-1 ,Русский иллюзион
+http://31.133.36.244:8000/60
 #EXTINF:-1 ,Русский роман
 http://85.208.223.249:8888/play/a007
+#EXTINF:-1 ,Русский роман
+http://31.133.36.244:8000/63
 #EXTINF:-1 ,НСТ
 http://195.49.206.244:90/NST/mono.m3u8?token=xnstx
 #EXTINF:-1 ,НСТ
