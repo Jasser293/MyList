@@ -407,9 +407,10 @@ http://158.160.149.81:8080/2462/index.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
 #EXTINF:-1 ,Доктор
-http://178.134.1.158:8081/doktor/index.m3u8
+http://31.133.36.244:8000/38
 #EXTINF:-1 ,Доктор
-http://178.217.72.66:8080/Doktor/index.m3u8
+http://45.11.139.43:8555/doctor/index.m3u8
+#http://178.217.72.66:8080/Doktor/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
