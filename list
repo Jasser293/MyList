@@ -421,6 +421,10 @@ http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
+http://94.242.222.36:8080/edapremiumhd/mpegts
+#EXTINF:-1 ,Кухня
+http://94.242.222.36:8080/kuhnyatvhd/mpegts
 #EXTINF:-1 ,Кухня
 http://77.235.1.19:8000/play/a05u/index.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -517,7 +521,7 @@ http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 ,History
 http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,H2
-#http://95.67.12.81:10620
+http://94.242.222.36:8080/h2hd/mpegts
 #EXTINF:-1 ,История
 http://176.96.241.40/History/index.m3u8
 #http://178.217.72.66:8080/Istoriya/index.m3u8
@@ -741,7 +745,8 @@ http://195.26.83.96:7005/play/a00m/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=xknhx
 #EXTINF:-1 ,Кинохит
-http://178.217.72.66:8080/Kinokhit/index.m3u8
+http://94.242.222.36:8080/kinohithd/mpegts
+#http://178.217.72.66:8080/Kinokhit/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://158.160.149.81:8080/4468/index.m3u8
 #EXTINF:-1 ,Кино ТВ
@@ -797,6 +802,8 @@ http://195.49.206.244:90/NST/mono.m3u8?token=xnstx
 http://45.159.74.22/Channel_125/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 ,Шокирующее
+http://94.242.222.36/shokiruysheehd/mpegts
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://158.160.149.81:8080/6839/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
