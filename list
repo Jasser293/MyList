@@ -805,7 +805,7 @@ http://45.159.74.22/Channel_125/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 ,Шокирующее
-http://94.242.222.36/shokiruysheehd/mpegts
+http://94.242.222.36:8080/shokiruysheehd/mpegts
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://158.160.149.81:8080/6839/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
