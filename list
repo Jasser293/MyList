@@ -7,6 +7,8 @@ http://salam-smr-96.rutube.ru/dive/river-3-370.rtbcdn.ru/bVztezYbT8txJjPwt7VyUQ/
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
+#EXTINF:-1 ,Первый канал
+http://192.162.64.99:4000/play/a00e/index.m3u8
 #EXTINF:-1 ,Первый канал (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://81.211.33.68/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
@@ -54,6 +56,8 @@ http://cdn2.ntv.ru/th_hit/mono.m3u8
 http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 ,Россия 1 HD
+http://192.162.64.99:4000/play/a06n/index.m3u8
 #EXTINF:-1 ,Россия 1 (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 #EXTINF:-1 ,Россия 1 (+3)
@@ -83,28 +87,37 @@ http://195.49.206.244:90/REN_TV/mono.m3u8?token=xrenx
 https://streaming.televizor-24-tochka.ru/live/14-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://158.160.149.81:8080/10/index.m3u8
+#EXTINF:-1 ,Рен ТВ
+http://192.162.64.99:4000/play/a00q/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
 http://112.72.4.109/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1 ,Рен ТВ International
+http://192.162.64.99:4000/play/a05f/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://195.49.206.244:90/TVC/mono.m3u8?token=xtvcx
 #EXTINF:-1 ,ТВЦ
 https://streaming.televizor-24-tochka.ru/live/13-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 ,ТВЦ
+http://192.162.64.99:4000/play/a00i/index.m3u8
 #EXTINF:-1 ,ТВЦ (+4)
 http://158.160.149.81:8080/112/index.m3u8
+#EXTINF:-1 ,ТВЦ International
+http://192.162.64.99:4000/play/a00z/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://158.160.149.81:8080/98/index.m3u8
 #EXTINF:-1 ,Пятый канал
 https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Пятый канал
-http://178.217.72.66:8080/5_Kanal/index.m3u8
+http://192.162.64.99:4000/play/a00j/index.m3u8
+#http://178.217.72.66:8080/5_Kanal/index.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
-#http://213.91.178.133:8000/play/a0b4
+http://192.162.64.99:4000/play/a05e/index.m3u8
 #EXTINF:-1 ,Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
@@ -123,6 +136,8 @@ http://195.49.206.244:90/TNT/mono.m3u8?token=xtntx
 http://158.160.149.81:8080/83/index.m3u8
 #EXTINF:-1 ,ТНТ
 https://streaming.goodstream.cyou/live/38.m3u8
+#EXTINF:-1 ,ТНТ
+http://192.162.64.99:4000/play/a01n/index.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ (+4)
@@ -132,9 +147,8 @@ http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=xtn4x
 #EXTINF:-1 ,ТНТ4
-http://river-1.rutube.ru/stream/genetta-522.ost.rutube.ru/7I2n8oHEoAA15CvIV_UgRQ/1755246149/c801a7087e29a097192d74c270fbc6c1/720p_stream.m3u8
-#EXTINF:-1 ,ТНТ4
-http://178.217.72.66:8080/TNT4/index.m3u8
+http://192.162.64.99:4000/play/a00y/index.m3u8
+#http://178.217.72.66:8080/TNT4/index.m3u8
 #EXTINF:-1 ,ТНТ4 International
 http://112.72.4.71/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 ,СТС
@@ -149,6 +163,8 @@ http://94.230.128.107:8080/CTC/index.m3u8
 http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС International
 http://112.72.4.71/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 ,СТС International
+http://192.162.64.99:4000/play/a05h/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=xlovx
 #EXTINF:-1 ,СТС Love
@@ -158,7 +174,8 @@ http://45.159.74.22/Channel_121/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=xtv3x
 #EXTINF:-1 ,ТВ3
-http://178.217.72.66:8080/TV3/index.m3u8
+http://192.162.64.99:4000/play/a051/index.m3u8
+#http://178.217.72.66:8080/TV3/index.m3u8
 #EXTINF:-1 ,ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 ,ТВ3 International
@@ -171,8 +188,10 @@ https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_
 http://195.158.223.132:8000/Domashniy
 #EXTINF:-1 ,Домашний
 http://176.96.241.40/Domashniy/index.m3u8
+#EXTINF:-1 ,Домашний
+http://192.162.64.99:4000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
-#http://213.91.178.133:8000/play/a0b5
+http://192.162.64.99:4000/play/a05i/index.m3u8
 #EXTINF:-1 ,Пятница
 http://195.49.206.244:90/Pyatnica/mono.m3u8?token=xx5xx
 #EXTINF:-1 ,ПЯТНИЦА
@@ -306,6 +325,8 @@ http://45.159.74.22/Channel_129/tracks-v1a1/mono.m3u8
 http://158.160.149.81:8080/2754/index.m3u8
 #EXTINF:-1 ,Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 ,Перец
+http://192.162.64.99:4000/play/a05g/index.m3u8
 #http://213.169.39.30:5261
 #EXTINF:-1 ,КВН ТВ
 http://158.160.149.81:8080/2545/index.m3u8
@@ -327,10 +348,12 @@ http://158.160.149.81:8080/236/index.m3u8
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=xsarx
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
-#EXTINF:-1 ,Ю
-http://salam-smr-96.rutube.ru/dive/river-5-551.rtbcdn.ru/GaSS7uLVMek0aDzfyJ6AYw/stream/genetta-302.m9.rutube.ru/oygkd_Z_0J1POamXk35T1Q/1755246082/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
+#EXTINF:-1 ,Че!
+http://192.162.64.99:4000/play/a00r/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
+#EXTINF:-1 ,Ю
+http://192.162.64.99:4000/play/a00u/index.m3u8
 #EXTINF:-1 ,Ю
 http://tv.streams.baikal-telecom.net/U/index.m3u8
 #EXTINF:-1 ,Авто 24
@@ -580,6 +603,18 @@ http://91.194.191.241:8081/chid519/mono.m3u8
 http://91.194.191.241:8081/chid520/mono.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
 http://45.159.74.22/Channel_115/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Bridge шлягер
+http://192.162.64.99:4000/play/a05r/index.m3u8
+#EXTINF:-1 ,Bridge Rock
+http://192.162.64.99:4000/play/a05t/index.m3u8
+#EXTINF:-1 ,Bridge Hits
+http://192.162.64.99:4000/play/a05o/index.m3u8
+#EXTINF:-1 ,Bridge Русский хит
+http://192.162.64.99:4000/play/a05p/index.m3u8
+#EXTINF:-1 ,Bridge Classic
+http://192.162.64.99:4000/play/a05s/index.m3u8
+#EXTINF:-1 ,Bridge фрэш
+http://192.162.64.99:4000/play/a06r/index.m3u8
 #EXTINF:-1 ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 ,MTV
