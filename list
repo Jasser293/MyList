@@ -402,7 +402,7 @@ http://salam-oms-91.rutube.ru/dive/river-4-421.rtbcdn.ru/1UTbR5XalmsLcI5IeVmtBQ/
 http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.194.191.241:8081/chid514/mono.m3u8
-#EXTINF:-1 ,Смайл
+#EXTINF:-1 ,Смайл ТВ
 http://158.160.149.81:8080/2462/index.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
@@ -430,9 +430,11 @@ http://77.235.1.19:8000/play/a05u/index.m3u8
 #EXTINF:-1 ,Аппетитный
 http://178.217.72.66:8080/Morskoy/index.m3u8
 #EXTINF:-1 ,Аппетитный
-http://77.235.1.19:8000/play/a031/index.m3u8
+#http://77.235.1.19:8000/play/a031/index.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:-1 ,СВЕТЛОЕ ТВ
+http://82.209.254.71:7881/
 #EXTINF:-1 tvg-name="вкус" ,Вкус
 http://91.194.191.241:8081/chid515/mono.m3u8
 #EXTINF:-1 ,UNIVER TV
@@ -608,17 +610,17 @@ http://91.194.191.241:8081/chid519/mono.m3u8
 http://91.194.191.241:8081/chid520/mono.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
 http://45.159.74.22/Channel_115/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Bridge шлягер
+#EXTINF:-1 ,Bridge TV шлягер
 http://192.162.64.99:4000/play/a05r/index.m3u8
-#EXTINF:-1 ,Bridge Rock
+#EXTINF:-1 ,Bridge TV Rock
 http://192.162.64.99:4000/play/a05t/index.m3u8
-#EXTINF:-1 ,Bridge Hits
+#EXTINF:-1 ,Bridge TV Hits
 http://192.162.64.99:4000/play/a05o/index.m3u8
-#EXTINF:-1 ,Bridge Русский хит
+#EXTINF:-1 ,Bridge TV Русский хит
 http://192.162.64.99:4000/play/a05p/index.m3u8
-#EXTINF:-1 ,Bridge Classic
+#EXTINF:-1 ,Bridge TV Classic
 http://192.162.64.99:4000/play/a05s/index.m3u8
-#EXTINF:-1 ,Bridge фрэш
+#EXTINF:-1 ,Bridge TV фрэш
 http://192.162.64.99:4000/play/a06r/index.m3u8
 #EXTINF:-1 ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
