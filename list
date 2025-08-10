@@ -420,9 +420,9 @@ http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
-http://94.242.222.36:8080/edapremiumhd/mpegts
+http://94.242.222.36:8080/edapremiumhd/index.m3u8
 #EXTINF:-1 ,Кухня
-http://94.242.222.36:8080/kuhnyatvhd/mpegts
+http://94.242.222.36:8080/kuhnyatvhd/index.m3u8
 #EXTINF:-1 ,Кухня
 http://77.235.1.19:8000/play/a05u/index.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -521,10 +521,12 @@ http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 ,History
 http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,H2
-http://94.242.222.36:8080/h2hd/mpegts
+http://94.242.222.36:8080/h2hd/index.m3u8
 #EXTINF:-1 ,История
 http://176.96.241.40/History/index.m3u8
 #http://178.217.72.66:8080/Istoriya/index.m3u8
+#EXTINF:-1 ,Точка РФ
+http://94.242.222.36:8080/HDLHD/index.m3u8
 #EXTINF:-1 ,Точка РФ
 http://158.101.222.193:88/georgia_play.php?id=hdlife
 #EXTINF:-1 ,Моя стихия
@@ -745,7 +747,7 @@ http://195.26.83.96:7005/play/a00m/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=xknhx
 #EXTINF:-1 ,Кинохит
-http://94.242.222.36:8080/kinohithd/mpegts
+http://94.242.222.36:8080/kinohithd/index.m3u8
 #http://178.217.72.66:8080/Kinokhit/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://158.160.149.81:8080/4468/index.m3u8
@@ -754,9 +756,9 @@ http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 tvg-id="KinoJam1.ru" tvg-name="kinojam 1" tvg-logo="https://i.imgur.com/6HQFM4m.png" ,KinoJam 1
-http://94.242.222.36:8080/kinodzhem_1/mpegts
+http://94.242.222.36:8080/kinodzhem_1/index.m3u8
 #EXTINF:-1 tvg-id="KinoJam2.ru" tvg-name="kinojam 2" tvg-logo="https://i.imgur.com/4oWsuJn.png" ,KinoJam 2
-http://94.242.222.36:8080/kinodzhem_2/mpegts
+http://94.242.222.36:8080/kinodzhem_2/index.m3u8
 #EXTINF:-1 ,FilmBox
 http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="Фильмы",Cinema
@@ -807,7 +809,7 @@ http://45.159.74.22/Channel_125/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 ,Шокирующее
-http://94.242.222.36:8080/shokiruysheehd/mpegts
+http://94.242.222.36:8080/shokiruysheehd/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://158.160.149.81:8080/6839/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -916,6 +918,12 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 ,СТС Kids
 http://195.26.83.96:7006/play/a00z/index.m3u8
+#EXTINF:-1 ,СТС Kids
+http://94.242.222.36:8080/stskidsHD/index.m3u8
+#EXTINF:-1 ,Cartoon Network
+http://94.242.222.36:8080/CartoonNetworkHD/index.m3u8
+#EXTINF:-1 ,Cartoonito
+http://94.242.222.36:8080/boomerang/index.m3u8
 #EXTINF:-1 ,Солнце
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 ,Da Vinci
