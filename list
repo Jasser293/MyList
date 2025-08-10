@@ -20,7 +20,8 @@ http://158.160.149.81:8080/749/index.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
-http://158.160.149.81:8080/13/index.m3u8
+http://94.242.222.36:8080/ntvhd/index.m3u8
+#http://158.160.149.81:8080/13/index.m3u8
 #EXTINF:-1 ,НТВ (+1)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/ntv1/mono.m3u8
@@ -81,6 +82,8 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=xrenx
+#EXTINF:-1 ,Рен ТВ HD
+http://94.242.222.36:8080/rentvhd/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 https://streaming.televizor-24-tochka.ru/live/14-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Рен ТВ
@@ -132,8 +135,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://195.49.206.244:90/TNT/mono.m3u8?token=xtntx
 #EXTINF:-1 ,ТНТ
 http://158.160.149.81:8080/83/index.m3u8
-#EXTINF:-1 ,ТНТ
-https://streaming.goodstream.cyou/live/38.m3u8
+#EXTINF:-1 ,ТНТ HD
+http://94.242.222.36:8080/tnthd/index.m3u8
+#https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 ,ТНТ
 http://192.162.64.99:4000/play/a01n/index.m3u8
 #EXTINF:-1 ,ТНТ (+2)
@@ -149,6 +153,8 @@ http://192.162.64.99:4000/play/a00y/index.m3u8
 #http://178.217.72.66:8080/TNT4/index.m3u8
 #EXTINF:-1 ,ТНТ4 International
 http://112.72.4.71/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 ,СТС HD
+http://94.242.222.36:8080/stshd/index.m3u8
 #EXTINF:-1 ,СТС
 http://158.160.149.81:8080/94/index.m3u8
 #EXTINF:-1 ,СТС
@@ -168,7 +174,8 @@ http://195.49.206.244:90/STS_Love/mono.m3u8?token=xlovx
 #EXTINF:-1 ,СТС Love
 http://195.158.223.132:8000/STS_Love
 #EXTINF:-1 ,ТВ3
-http://45.159.74.22/Channel_121/tracks-v1a1/mono.m3u8
+http://94.242.222.36:8080/tv3hd/index.m3u8
+#http://45.159.74.22/Channel_121/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=xtv3x
 #EXTINF:-1 ,ТВ3
@@ -190,6 +197,8 @@ http://176.96.241.40/Domashniy/index.m3u8
 http://192.162.64.99:4000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://192.162.64.99:4000/play/a05i/index.m3u8
+#EXTINF:-1 ,Пятница
+http://94.242.222.36:8080/pyatnicahd/index.m3u8
 #EXTINF:-1 ,Пятница
 http://195.49.206.244:90/Pyatnica/mono.m3u8?token=xx5xx
 #EXTINF:-1 ,ПЯТНИЦА
@@ -265,7 +274,8 @@ https://edge50.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 ,ОНТ
 https://edge50.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 ,Беларусь 1
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b1010000_sleng.m3u8
+http://94.242.222.36:8080/belarys1hd/index.m3u8
+#https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b1010000_sleng.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://195.49.206.244:90/Belarus24/mono.m3u8?token=xxyxx
 #EXTINF:-1 ,БелРос
@@ -348,6 +358,8 @@ http://158.160.149.81:8080/236/index.m3u8
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=xsarx
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
+#EXTINF:-1 ,Че!
+http://94.242.222.36:8080/Ce/index.m3u8
 #EXTINF:-1 ,Че!
 http://192.162.64.99:4000/play/a00r/index.m3u8
 #EXTINF:-1 ,Ю
