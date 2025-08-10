@@ -753,6 +753,10 @@ http://158.160.149.81:8080/4468/index.m3u8
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 tvg-id="KinoJam1.ru" tvg-name="kinojam 1" tvg-logo="https://i.imgur.com/6HQFM4m.png" ,KinoJam 1
+http://94.242.222.36:8080/kinodzhem_1/mpegts
+#EXTINF:-1 tvg-id="KinoJam2.ru" tvg-name="kinojam 2" tvg-logo="https://i.imgur.com/4oWsuJn.png" ,KinoJam 2
+http://94.242.222.36:8080/kinodzhem_2/mpegts
 #EXTINF:-1 ,FilmBox
 http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="Фильмы",Cinema
