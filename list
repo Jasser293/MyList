@@ -412,8 +412,6 @@ http://31.133.36.244:8000/38
 http://45.11.139.43:8555/doctor/index.m3u8
 #http://178.217.72.66:8080/Doktor/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
-http://178.212.71.253:8000/play/94/index.m3u8
-#EXTINF:-1 ,Здоровое ТВ
 http://178.217.72.66:8080/Zdorovoe_TV/index.m3u8
 #EXTINF:-1 ,Тонус ТВ
 http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
