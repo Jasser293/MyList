@@ -149,6 +149,8 @@ http://85.187.13.40:18000/tntint
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=xtn4x
 #EXTINF:-1 ,ТНТ4
+http://94.242.222.36:8080/tnt4hd/index.m3u8
+#EXTINF:-1 ,ТНТ4
 http://192.162.64.99:4000/play/a00y/index.m3u8
 #http://178.217.72.66:8080/TNT4/index.m3u8
 #EXTINF:-1 ,ТНТ4 International
@@ -188,7 +190,8 @@ http://158.160.149.81:8080/4750/index.m3u8
 #EXTINF:-1 ,Домашний
 http://195.49.206.244:90/Domashni/mono.m3u8?token=xdomx
 #EXTINF:-1 ,Домашний
-https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://94.242.222.36:8080/domashniy/mono.m3u8
+#https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Домашний
 http://195.158.223.132:8000/Domashniy
 #EXTINF:-1 ,Домашний
