@@ -876,17 +876,23 @@ http://158.160.149.81:8080/8535/index.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
+http://94.242.222.36:8080/eurosport1hd/mono.m3u8
+#EXTINF:-1 ,Eurosport 1
 http://158.160.149.81:8080/2586/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.22/Eurosport/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://178.217.72.66:8080/Eurosport_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 2
+http://94.242.222.36:8080/eurosport2hd/mono.m3u8
+#EXTINF:-1 ,Eurosport 2
 http://158.160.149.81:8080/2587/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://158.160.149.81:8080/4536/index.m3u8
+#EXTINF:-1 ,Setanta Sports 2
+http://94.242.222.36:8080/setantasport2hd/mono.m3u8
 #EXTINF:-1 ,Setanta Sports
 http://158.160.149.81:8080/8829/index.m3u8
 #EXTINF:-1 ,Trace Sport Stars
@@ -898,6 +904,12 @@ http://158.101.222.193:88/georgia_play.php?id=viasatsport
 #EXTINF:-1 ,Бокс ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #http://178.217.72.66:8080/Boks_TV/index.m3u8
+#EXTINF:-1 ,FightBox
+http://94.242.222.36:8080/FightBoxHD/mono.m3u8
+#EXTINF:-1 ,UDAR
+http://94.242.222.36:8080/UFCTVHD/mono.m3u8
+#EXTINF:-1 ,MMA-TV
+http://94.242.222.36:8080/M-1Global/mono.m3u8
 #EXTINF:-1 ,Extreme Sports
 http://178.217.72.66:8080/Extreme_Sports/index.m3u8
 #EXTINF:-1 ,Матч!
