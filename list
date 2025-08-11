@@ -396,7 +396,7 @@ http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
-http://salam-oms-91.rutube.ru/dive/river-3-328.rtbcdn.ru/Uqpfhjgg7yRyBnKtypgNKA/stream/genetta-320.m9.rutube.ru/zqgUZk5f9mX3tT0gizZwDQ/1755367294/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+http://192.162.64.99:4000/play/a06d/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://158.160.149.81:8080/145/index.m3u8
 #EXTINF:-1 ,Усадьба
@@ -706,10 +706,18 @@ http://158.160.149.81:8080/260/index.m3u8
 #https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 ,VHS-ка
 http://158.160.149.81:8080/8270/index.m3u8
+#EXTINF:-1 tvg-name="fresh vhs" ,Fresh VHS
+http://94.242.222.36:8080/Fresh_VHS/index.m3u8
+#EXTINF:-1 tvg-name="kbc-видак" ,KBC-Видак
+http://94.242.222.36:8080/KBC_vidac/index.m3u8
+#EXTINF:-1 tvg-name="magic vhs" ,Magic VHS
+http://94.242.222.36:8080/Magic_VHS/index.m3u8
 #EXTINF:-1 ,Sumiko
 http://158.160.149.81:8080/8709/index.m3u8
 #EXTINF:-1 ,Scream
 http://158.160.149.81:8080/8229/index.m3u8
+#EXTINF:-1 tvg-name="magic thriller" ,Magic Thriller
+http://94.242.222.36:8080/Magic_Thriller/index.m3u8
 #EXTINF:-1 ,FamilyJam
 http://158.160.149.81:8080/8425/index.m3u8
 #EXTINF:-1 ,DetectiveJam
@@ -717,7 +725,7 @@ http://158.160.149.81:8080/8426/index.m3u8
 #EXTINF:-1 ,Horror TV
 #https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 ,Всё ТВ HD
-https://132544.edgevideo.ru/streams/132544_902681/132544720/index.m3u8
+#https://132544.edgevideo.ru/streams/132544_902681/132544720/index.m3u8
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
@@ -849,6 +857,10 @@ http://85.192.10.173/Pro100tvRu/video.m3u8
 http://195.49.206.244:90/TV21/mono.m3u8?token=xx21x
 #EXTINF:-1 ,Kino 24
 http://85.192.10.173/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-name="fresh thriller" ,Fresh Thriller
+http://94.242.222.36:8080/Fresh_Thriller/index.m3u8
+#EXTINF:-1 tvg-name="kbc-кошмарное" ,KBC-Кошмарное
+http://94.242.222.36:8080/KBC_koshmarnoe/index.m3u8
 #EXTINF:-1 ,Киномистика
 https://v2.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-logo="https://i.imgur.com/4bACa7x.png" ,START Air
