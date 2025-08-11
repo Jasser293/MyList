@@ -990,6 +990,20 @@ http://77.235.1.19:8000/play/a084/index.m3u8
 http://85.192.10.173/PingvinRu/mono.m3u8
 #EXTINF:-1 ,Мамонтенок ТВ
 http://85.192.10.173/MamontRu/mono.m3u8
+#EXTINF:-1 ,balticum
+http://94.242.222.36:8080/1071/mono.m3u8
+#EXTINF:-1 ,balticum Platinum
+http://94.242.222.36:8080/1302/mono.m3u8
+#EXTINF:-1 ,Go3sport1
+http://94.242.222.36:8080/1246/mono.m3u8
+#EXTINF:-1 ,LRT TV
+http://94.242.222.36:8080/1026/mono.m3u8
+#EXTINF:-1 ,Rutas Tv
+http://94.242.222.36:8080/1032/mono.m3u8
+#EXTINF:-1 ,init tv
+http://94.242.222.36:8080/1389/mono.m3u8
+#EXTINF:-1 ,info tv
+http://94.242.222.36:8080/1389/mono.m3u8
 #EXTINF:-1 ,Re TV
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 ,TV Jūrmala
@@ -998,4 +1012,4 @@ https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 #EXTINF:-1 ,Приключения
 #EXTVLCOPT:http-user-agent=Donate BTC
-#http://92.43.140.249/s99/04.m3u8
+http://92.43.140.249/s99/04.m3u8
