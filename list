@@ -195,7 +195,7 @@ http://94.242.222.36:8080/domashniy/mono.m3u8
 #EXTINF:-1 ,Домашний
 http://195.158.223.132:8000/Domashniy
 #EXTINF:-1 ,Домашний
-http://176.96.241.40/Domashniy/index.m3u8
+#http://176.96.241.40/Domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
 http://192.162.64.99:4000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
@@ -538,7 +538,7 @@ http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,H2
 http://94.242.222.36:8080/h2hd/index.m3u8
 #EXTINF:-1 ,История
-http://176.96.241.40/History/index.m3u8
+http://31.133.36.244:8000/160
 #http://178.217.72.66:8080/Istoriya/index.m3u8
 #EXTINF:-1 ,Точка РФ
 http://94.242.222.36:8080/HDLHD/index.m3u8
@@ -861,8 +861,6 @@ http://85.192.10.173/Kino24Ru/video.m3u8
 http://94.242.222.36:8080/Fresh_Thriller/index.m3u8
 #EXTINF:-1 tvg-name="kbc-кошмарное" ,KBC-Кошмарное
 http://94.242.222.36:8080/KBC_koshmarnoe/index.m3u8
-#EXTINF:-1 ,Киномистика
-https://v2.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-logo="https://i.imgur.com/4bACa7x.png" ,START Air
 http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-id="STARTWorld.ru" tvg-logo="https://i.imgur.com/TXtY5eM.png" ,START World
@@ -984,7 +982,7 @@ http://195.49.206.244:90/Tlum_HD/mono.m3u8?token=xmulx
 #EXTINF:-1 ,TiJi
 http://193.27.209.122/tiji/index.m3u8
 #EXTINF:-1 ,Детский Мир
-http://176.96.241.40/DetskiyMir/index.m3u8
+http://31.133.36.244:8000/133
 #EXTINF:-1 ,В гостях у сказки
 http://158.160.149.81:8080/8845/index.m3u8
 #http://178.217.72.66:8080/Black/index.m3u8
@@ -1022,6 +1020,3 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 ,Приключения
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://92.43.140.249/s99/04.m3u8
