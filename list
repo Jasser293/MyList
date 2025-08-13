@@ -421,12 +421,13 @@ http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
-#EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
-http://31.148.48.15/Eda_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="food network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" ,Food Network
+http://178.217.72.66:8080/food_network/index.m3u8
 #EXTINF:-1 ,Кухня
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTINF:-1 ,Кухня
-http://77.235.1.19:8000/play/a05u/index.m3u8
+http://178.163.14.5:81/udp/234.0.0.241:2000
+#http://77.235.1.19:8000/play/a05u/index.m3u8
 #EXTINF:-1 ,Аппетитный
 http://178.217.72.66:8080/Morskoy/index.m3u8
 #EXTINF:-1 ,Аппетитный
