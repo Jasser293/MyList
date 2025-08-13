@@ -42,7 +42,8 @@ http://85.117.61.97:8000/play/a01u/index.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Зал суда
-http://31.133.36.244:8000/44
+http://192.162.64.99:5000/play/a02n/index.m3u8
+#http://31.133.36.244:8000/44
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -426,10 +427,7 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="food network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" ,Food Network
 http://178.217.72.66:8080/food_network/index.m3u8
 #EXTINF:-1 ,Кухня
-http://31.148.48.15/Kuhnya_TV/index.m3u8
-#EXTINF:-1 ,Кухня
-http://178.163.14.5:81/udp/234.0.0.241:2000
-#http://77.235.1.19:8000/play/a05u/index.m3u8
+http://178.219.160.169:8880/56/index.m3u8
 #EXTINF:-1 ,Аппетитный
 http://178.217.72.66:8080/Morskoy/index.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -438,6 +436,8 @@ http://178.217.72.66:8080/Morskoy/index.m3u8
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://82.209.254.71:7881/
+#EXTINF:-1 ,Первый Вегетарианский
+http://192.162.64.99:5000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-name="вкус" ,Вкус
 http://91.194.191.241:8081/chid515/mono.m3u8
 #EXTINF:-1 ,UNIVER TV
@@ -783,13 +783,14 @@ http://178.217.72.66:8080/Kinokomediya/index.m3u8
 #EXTINF:-1 ,Любимое кино
 http://31.133.36.244:8000/76
 #EXTINF:-1 ,Русский бестселлер
-http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
+http://178.219.160.169:8880/88/index.m3u8
+#http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://31.133.36.244:8000/59
 #EXTINF:-1 ,Русский Детектив
 http://31.133.36.244:8000/62
 #EXTINF:-1 ,Русский Детектив
-http://77.235.1.19:8000/play/a08f/index.m3u8
+http://178.219.160.169:8880/89/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://158.160.149.81:8080/4248/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
@@ -847,7 +848,8 @@ http://158.160.149.81:8080/2586/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.22/Eurosport/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://178.217.72.66:8080/Eurosport_HD/index.m3u8
+http://178.219.160.169:8880/190/index.m3u8
+#http://178.217.72.66:8080/Eurosport_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://158.160.149.81:8080/2587/index.m3u8
 #EXTINF:-1 ,Eurosport 2
