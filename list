@@ -206,11 +206,11 @@ http://138.201.67.145/2_super/index.m3u8
 #EXTINF:-1 ,Суббота
 http://195.49.206.244:90/Super/mono.m3u8?token=xsubx
 #EXTINF:-1 ,Rutube
-http://river-3-327.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/t75AB41hvmo_XuG8xoJfjQ/1755523438/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+http://salam-mskugr-12.rtbcdn.ru/dive/river-3-327.rtbcdn.ru/TCxq4AluHoIuWJbOamBKLA/stream/genetta-502.ost.rutube.ru/hBmIm94X1yYJ4h_k4re-hw/1755766317/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 ,Твой 2007
-http://salam-mskth-72.rutube.ru/dive/river-5-527.rtbcdn.ru/FoVq5mnbM5i8WAcJhsCUGw/stream/genetta-303.m9.rutube.ru/WBUzTQYc-jJnekacWxe3Fg/1755523467/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
+http://salam-mskth-72.rtbcdn.ru/dive/river-5-527.rtbcdn.ru/KX9784UOxniR5n6IvXeqFw/stream/genetta-524.ost.rutube.ru/QnZOHMAWoslj74KlDW4uNQ/1755766251/348ebaac61a382f2028e9a1b06f4f2b6/1080p_stream.m3u8
 #EXTINF:-1 ,Кино и жизнь
-http://salam-mskth-16.rutube.ru/dive/river-3-318.rtbcdn.ru/ney2ou0zda1G_qmBpuSFjg/stream/genetta-317.m9.rutube.ru/oXeL0XIsP2uep1Wf55gXZw/1755523501/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+http://salam-mskth-16.rtbcdn.ru/dive/river-3-318.rtbcdn.ru/vUNat5lpUHbT5XQTGwWimA/stream/genetta-325.m9.rutube.ru/2wucHuMu9dTg-2Dn6_A3zQ/1755766292/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://salam-mskm9-48.rutube.ru/dive/river-5-520.rtbcdn.ru/No7WDuRYLQYihEjuoMwNKA/stream/genetta-311.m9.rutube.ru/xnylw5NJ-RjH1TAYS-3rdQ/1755523580/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
@@ -519,8 +519,6 @@ http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
 http://45.159.74.22/NationalGeographic/mono.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
-http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 ,History
