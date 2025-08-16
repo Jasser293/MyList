@@ -929,7 +929,6 @@ http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 ,Ani
 http://195.49.206.244:90/Ani/mono.m3u8?token=xanix
-#http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:-1 ,Мама
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
@@ -948,9 +947,9 @@ http://95.67.12.82:9084
 http://195.49.206.244:90/Karusel/mono.m3u8?token=xkarx
 #http://178.217.72.66:8080/Karusel/index.m3u8
 #EXTINF:-1 ,Мультиландия
-#
+http://31.133.36.244:8000/127
 #EXTINF:-1 ,Gulli Girl
-http://77.235.1.19:8000/play/a084/index.m3u8
+http://31.133.36.244:8000/126
 #http://178.217.72.66:8080/Gulli/index.m3u8
 #EXTINF:-1 ,Пингвин ТВ
 http://85.192.10.173/PingvinRu/mono.m3u8
