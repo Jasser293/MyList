@@ -1,14 +1,12 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-https://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/MDExUUjrrQD4aDosKkL12g/1755773278/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
-#EXTINF:-1 ,Первый канал
 http://178.219.160.169:8880/164/index.m3u8
+#EXTINF:-1 ,Первый канал
+http://192.162.64.99:4000/play/a00e/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
-#EXTINF:-1 ,Первый канал
-http://192.162.64.99:4000/play/a00e/index.m3u8
 #EXTINF:-1 ,Первый канал (+4)
 http://81.211.33.68/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,Первый канал Европа
