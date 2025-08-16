@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://178.219.160.169:8880/164/index.m3u8
+http://salam-mskth-75.rtbcdn.ru/dive/river-3-370.rtbcdn.ru/MW7ooYugbHLknVHyPBZ7HQ/stream/genetta-303.m9.rutube.ru/H0Ue4baUHBTNOzAxFqQVxQ/1755962094/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-http://192.162.64.99:4000/play/a00e/index.m3u8
+http://178.219.160.169:8880/164/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
@@ -212,7 +212,7 @@ http://salam-mskth-72.rtbcdn.ru/dive/river-5-527.rtbcdn.ru/HMuqXnprH5BehA7SocwFi
 #EXTINF:-1 ,Кино и жизнь
 http://salam-mskth-16.rtbcdn.ru/dive/river-3-318.rtbcdn.ru/CspQPOqdw1Bfj_HSo3vmqQ/stream/genetta-325.m9.rutube.ru/OeE9Xa03jzn8KJUzP619Vg/1755934475/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
-http://salam-mskm9-48.rutube.ru/dive/river-5-520.rtbcdn.ru/No7WDuRYLQYihEjuoMwNKA/stream/genetta-311.m9.rutube.ru/xnylw5NJ-RjH1TAYS-3rdQ/1755523580/23c568b69e0eada33560850484223739/1080p_stream.m3u8
+http://river-m9-rtk-334.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/Lginhx8aSm4tNmb1_JozaA/1755962171/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/pMRwj9wlxwZ9UWnuKh-tQA/1755773327/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Comedy Hub
@@ -575,7 +575,7 @@ http://45.159.74.22/Channel_124/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Охотник и рыболов
 http://158.160.149.81:8080/689/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-345.rtbcdn.ru/stream/genetta-301.m9.rutube.ru/yqHkoH5PZHNYHho7VtFdJg/1755523767/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://river-m9-rtk-334.rtbcdn.ru/stream/genetta-301.m9.rutube.ru/xxoizmKVg-0RLfOrYn1bSg/1755962252/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 http://salam-mskm9-19.rutube.ru/dive/river-3-346.rtbcdn.ru/_ZloNEqbDknFFv1g_5rK7Q/stream/genetta-301.m9.rutube.ru/Ajl2T4xaIVTgl_4hIGIsQw/1755934625/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
