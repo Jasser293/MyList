@@ -76,6 +76,8 @@ http://195.26.83.96:7007/play/a008/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 tvg-id="LenTV24.ru" tvg-name="лентв24" tvg-logo="https://i.imgur.com/d02uxkB.png" ,ЛЕНТВ24
 http://salam-mskugr-11.rtbcdn.ru/dive/river-3-364.rtbcdn.ru/RVkZw4YVMm2X_lLH-I9uxg/stream/genetta-321.m9.rutube.ru/gmdWtXpxkFcSVy1SHAo-Fg/1755934358/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg",Tv Brics
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия К
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К (+2)
