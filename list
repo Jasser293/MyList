@@ -370,7 +370,7 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=xautx
 #EXTINF:-1 ,Авто плюс
 http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 ,Авто плюс
-#
+http://87.246.54.249:8085/AvtoPlus/index.m3u8
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=drive
 #EXTINF:-1 ,Драйв
@@ -514,7 +514,8 @@ http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 ,Animal Planet
 http://45.159.74.22/AnimalPlanet/mono.m3u8
 #EXTINF:-1 ,Animal Planet
-http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
+http://87.246.54.249:8085/AnimalPlanet/index.m3u8
+#http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 ,National Geographic
 http://45.159.74.22/NationalGeographic/mono.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
@@ -865,6 +866,10 @@ http://158.101.222.193:88/georgia_play.php?id=viasatsport
 #EXTINF:-1 ,Бокс ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #http://178.217.72.66:8080/Boks_TV/index.m3u8
+#EXTINF:-1 ,MMA-TV
+http://87.246.54.249:8085/MMATV/index.m3u8
+#EXTINF:-1 ,UDAR
+http://87.246.54.249:8085/UDAR/index.m3u8
 #EXTINF:-1 ,Extreme Sports
 http://178.217.72.66:8080/Extreme_Sports/index.m3u8
 #EXTINF:-1 ,Матч!
