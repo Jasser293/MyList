@@ -854,6 +854,8 @@ http://138.201.250.184/eurosport1/index.m3u8
 http://158.160.149.81:8080/2587/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://138.201.250.184/eurosport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://158.160.149.81:8080/4536/index.m3u8
 #EXTINF:-1 ,Setanta Sports
