@@ -2,7 +2,7 @@
 #EXTINF:-1 ,Первый канал
 http://salam-mskth-75.rtbcdn.ru/dive/river-3-370.rtbcdn.ru/MW7ooYugbHLknVHyPBZ7HQ/stream/genetta-303.m9.rutube.ru/H0Ue4baUHBTNOzAxFqQVxQ/1755962094/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
-http://178.219.160.169:8880/164/index.m3u8
+http://31.133.36.244:8000/1
 #EXTINF:-1 ,Первый канал
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
@@ -361,7 +361,7 @@ http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
 #EXTINF:-1 ,Ю
 http://192.162.64.99:4000/play/a00u/index.m3u8
 #EXTINF:-1 ,Ю
-http://tv.streams.baikal-telecom.net/U/index.m3u8
+http://195.158.223.132:8000/U
 #EXTINF:-1 ,Авто 24
 http://158.160.149.81:8080/926/index.m3u8
 #EXTINF:-1 ,Авто 24
@@ -428,7 +428,7 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="food network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" ,Food Network
 http://178.217.72.66:8080/food_network/index.m3u8
 #EXTINF:-1 ,Кухня
-http://178.219.160.169:8880/56/index.m3u8
+http://77.235.1.19:8000/play/a05u/index.m3u8
 #EXTINF:-1 ,Аппетитный
 http://178.217.72.66:8080/Morskoy/index.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -783,15 +783,14 @@ http://178.217.72.66:8080/Kinokomediya/index.m3u8
 #
 #EXTINF:-1 ,Любимое кино
 http://31.133.36.244:8000/76
-#EXTINF:-1 ,Русский бестселлер
-http://178.219.160.169:8880/88/index.m3u8
-#http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
-#EXTINF:-1 ,Русский бестселлер
+EXTINF:-1 ,Русский бестселлер
 http://31.133.36.244:8000/59
+#EXTINF:-1 ,Русский бестселлер
+#http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
 #EXTINF:-1 ,Русский Детектив
 http://31.133.36.244:8000/62
 #EXTINF:-1 ,Русский Детектив
-http://178.219.160.169:8880/89/index.m3u8
+http://37.186.120.3:8000/play/a0a4/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://158.160.149.81:8080/4248/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
@@ -849,7 +848,7 @@ http://158.160.149.81:8080/2586/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.22/Eurosport/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://178.219.160.169:8880/190/index.m3u8
+http://138.201.250.184/eurosport1/index.m3u8
 #http://178.217.72.66:8080/Eurosport_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://158.160.149.81:8080/2587/index.m3u8
@@ -879,8 +878,7 @@ http://185.46.48.18/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,Матч Премьер
-http://178.219.160.169:8880/139/index.m3u8
-#http://158.160.149.81:8080/777/index.m3u8
+http://158.160.149.81:8080/777/index.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! Боец
