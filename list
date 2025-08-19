@@ -352,8 +352,6 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=xsarx
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Че!
-http://37.186.120.3:8000/play/a0ds/index.m3u8
-#EXTINF:-1 ,Че!
 http://192.162.64.99:4000/play/a00r/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
@@ -666,9 +664,9 @@ http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 tvg-id="Kvarc.ru" tvg-name="кварц" tvg-logo="https://i.imgur.com/90vSdul.png" ,Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
-#EXTINF:-1, Сапфир
+#EXTINF:-1 ,Сапфир
 http://158.160.149.81:8080/8191/index.m3u8
-#EXTINF:-1, Сапфир
+#EXTINF:-1 ,Сапфир
 http://77.235.1.19:8000/play/a06q/index.m3u8
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=x2x2x
@@ -781,7 +779,7 @@ http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://77.235.1.19:8000/play/a08g/index.m3u8
 #EXTINF:-1 ,Русский Детектив
-http://37.186.120.3:8000/play/a0a4/index.m3u8
+#
 #EXTINF:-1 ,Русский иллюзион
 http://158.160.149.81:8080/4248/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
