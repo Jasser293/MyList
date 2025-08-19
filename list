@@ -932,9 +932,14 @@ http://158.160.149.81:8080/8845/index.m3u8
 #http://178.217.72.66:8080/Black/index.m3u8
 #EXTINF:-1 ,КиноКазка
 http://95.67.12.82:9084
+#EXTINF:-1 ,Мульт
+http://195.49.206.244:90/Mult/mono.m3u8?token=xmulx
+#EXTINF:-1 ,Мама
+http://195.49.206.244:90/Mama/mono.m3u8?token=xamax
 #EXTINF:-1 ,Карусель
 http://195.49.206.244:90/Karusel/mono.m3u8?token=xkarx
-#http://178.217.72.66:8080/Karusel/index.m3u8
+#EXTINF:-1 ,Da Vinci
+http://195.49.206.244:90/DaVinci/mono.m3u8?token=xvinx
 #EXTINF:-1 ,Мультиландия
 http://77.235.1.19:8000/play/a04b/index.m3u8
 #EXTINF:-1 ,Gulli Girl
