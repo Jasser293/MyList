@@ -236,7 +236,7 @@ http://212.233.98.62/okino-tv/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=nostalgy
 #http://178.217.72.66:8080/Nostalgiya/index.m3u8
 #EXTINF:-1 ,Ретро ТВ
-http://86.57.209.210/Retro/index.m3u8
+http://89.221.57.5:8000/play/a006/index.m3u8
 #EXTINF:-1 ,Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 ,Неизвестная Россия
@@ -519,7 +519,7 @@ http://45.159.74.22/NationalGeographic/mono.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
-http://86.57.209.210/Ocean/index.m3u8
+#
 #EXTINF:-1 ,History
 http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,H2
@@ -599,7 +599,7 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="муз-тв" tvg-logo="https://i.imgur.com/BtqrHmz.png" ,Муз-ТВ
-http://radio.tvs.by:8088/MuzTV/index.m3u8
+https://45.159.74.22/MuzTv/mono.m3u8
 #EXTINF:-1 ,Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 ,Первый Музыкальный
