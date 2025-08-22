@@ -86,7 +86,7 @@ http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
-http://112.72.4.109/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#
 #EXTINF:-1 ,ТВЦ
 http://195.49.206.244:90/TVC/mono.m3u8?token=xtvcx
 #EXTINF:-1 ,ТВЦ
@@ -147,7 +147,7 @@ http://112.72.4.71/live/disk1/STS/HLSv3-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=xlovx
 #EXTINF:-1 ,СТС Love
-http://195.158.223.132:8000/STS_Love
+http://194.143.148.28:8080/CTC_LOVE/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://45.159.74.22/Channel_121/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТВ3
@@ -164,7 +164,7 @@ http://195.49.206.244:90/Domashni/mono.m3u8?token=xdomx
 #EXTINF:-1 ,Домашний
 https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Домашний
-http://195.158.223.132:8000/Domashniy
+http://188.190.222.53/Domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
 #http://176.96.241.40/Domashniy/index.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
@@ -328,7 +328,7 @@ http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
 #EXTINF:-1 ,Ю
-http://195.158.223.132:8000/U
+http://194.143.148.28/U/index.m3u8
 #EXTINF:-1 ,Авто 24
 http://89.221.57.5:8000/play/a00i/index.m3u8
 #EXTINF:-1 ,Авто 24
@@ -490,7 +490,7 @@ http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,H2
 #
 #EXTINF:-1 ,История
-https://45.159.74.22/Istoria/mono.m3u8
+http://45.159.74.22/Istoria/mono.m3u8
 #http://178.217.72.66:8080/Istoriya/index.m3u8
 #EXTINF:-1 ,Точка РФ
 http://158.101.222.193:88/georgia_play.php?id=hdlife
@@ -560,7 +560,7 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="муз-тв" tvg-logo="https://i.imgur.com/BtqrHmz.png" ,Муз-ТВ
-https://45.159.74.22/MuzTv/mono.m3u8
+http://45.159.74.22/MuzTv/mono.m3u8
 #EXTINF:-1 ,Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 ,Первый Музыкальный
