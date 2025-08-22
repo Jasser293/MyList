@@ -332,7 +332,7 @@ http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
 #EXTINF:-1 ,Ю
 http://194.143.148.28/U/index.m3u8
 #EXTINF:-1 ,Авто 24
-http://89.221.57.5:8000/play/a00i/index.m3u8
+http://89.221.57.5:8000/play/a00i
 #EXTINF:-1 ,Авто 24
 http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1 ,АВТО 24
@@ -359,6 +359,8 @@ http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
 http://195.18.23.20:8000/play/333/index.m3u8
+#EXTINF:-1 ,Усадьба
+http://89.221.57.5:8000/play/a00z/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://89.221.57.5:8000/play/a00e/index.m3u8
 #EXTINF:-1 ,Усадьба
@@ -388,7 +390,8 @@ http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 ,Доктор
 http://178.217.72.66:8080/Doktor/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
-http://178.217.72.66:8080/Zdorovoe_TV/index.m3u8
+http://89.221.57.5:8000/play/a00g
+#http://178.217.72.66:8080/Zdorovoe_TV/index.m3u8
 #EXTINF:-1 ,Тонус ТВ
 http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Живи
