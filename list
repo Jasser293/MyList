@@ -680,6 +680,8 @@ http://178.217.72.66:8080/TV_XXI/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=red
 #EXTINF:-1 ,.black
 http://195.49.206.244:90/A-1/mono.m3u8?token=xblcx
+#EXTINF:-1 ,HD Rex 
+http://89.221.57.5:8000/play/a01b
 #EXTINF:-1 ,Кинохит
 http://45.159.74.22/Kinokhit/mono.m3u8
 #EXTINF:-1 ,Кинохит
