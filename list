@@ -537,20 +537,20 @@ http://213.169.39.30:5262
 #EXTINF:-1 ,Охота и рыбалка
 http://89.221.57.5:8000/play/a00q/index.m3u8
 #http://178.217.72.66:8080/Okhota_I_Rybalka/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Рыболов
-#
+#EXTINF:-1 ,Рыбалка и охота
+http://89.221.57.5:8000/play/a00d
 #EXTINF:-1 ,Охотник и рыболов
 http://45.159.74.22/Channel_124/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Охотник и рыболов
 http://45.159.74.22/Channel_124/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://salam-mskth-72.rtbcdn.ru/dive/river-3-346.rtbcdn.ru/cs-lohWkefdosF08mgJwAQ/stream/genetta-301.m9.rutube.ru/ZL2IArajuqjOIZo2izQ_Xg/1756308111/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://river-3-346.rtbcdn.ru/stream/genetta-301.m9.rutube.ru/4U2scZxuSpc51I9odN33xw/1756538716/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 http://river-3-346.rtbcdn.ru/stream/genetta-301.m9.rutube.ru/OVwfomI_egymzI7QMooKOQ/1756481627/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
-http://85.117.61.97:8000/play/a01f/index.m3u8
-#EXTINF:-1 ,Дикий
 http://178.217.72.66:8080/Dikiy/index.m3u8
+#EXTINF:-1 ,Дикий
+http://85.117.61.97:8000/play/a01f/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
 http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
