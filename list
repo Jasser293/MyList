@@ -128,7 +128,7 @@ http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ (+4)
 #http://109.200.130.123:7534/play/a00j
 #EXTINF:-1 ,ТНТ International
-http://85.187.13.40:18000/tntint
+#
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=xtn4x
 #EXTINF:-1 ,ТНТ4
@@ -314,7 +314,8 @@ http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 ,Перец
 http://213.169.39.30:5261
 #EXTINF:-1 ,Перец
-https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+http://stream1.prizma.link/Perec/index.m3u8
+#https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://45.159.74.22/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
@@ -688,6 +689,8 @@ http://158.101.222.193:88/georgia_play.php?id=red
 http://195.49.206.244:90/A-1/mono.m3u8?token=xblcx
 #EXTINF:-1 ,HD Rex 
 http://89.221.57.5:8000/play/a01b
+#EXTINF:-1 ,VHS-ка
+http://stream1.prizma.link/VHS/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://45.159.74.22/Kinokhit/mono.m3u8
 #EXTINF:-1 ,Кинохит
@@ -695,7 +698,7 @@ http://195.26.83.96:7005/play/a00m/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=xknhx
 #EXTINF:-1 ,Кинохит
-#http://178.217.72.66:8080/Kinokhit/index.m3u8
+http://stream1.prizma.link/Kinohit/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://87.246.54.249:8085/Kinomiks/mpegts
 #EXTINF:-1 ,Кино ТВ
@@ -730,6 +733,12 @@ http://193.27.209.122/dizi/index.m3u8
 http://195.49.206.244:90/Komediya/mono.m3u8?token=xkomx
 #EXTINF:-1 ,Кинокомедия
 http://178.217.72.66:8080/Kinokomediya/index.m3u8
+#EXTINF:-1 ,Кинопремьера
+http://stream1.prizma.link/Kinopremiera/index.m3u8
+#EXTINF:-1 ,Киносвидание
+http://stream1.prizma.link/Kinosvidanie/index.m3u8
+#EXTINF:-1 ,Kиносемья
+http://stream1.prizma.link/Kinosemia/index.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://87.246.54.249:8085/NasheKino/index.m3u8
 #EXTINF:-1 ,Родное кино
@@ -773,7 +782,7 @@ http://213.169.39.30:5006
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=xactx
 #EXTINF:-1 ,Viju TV1000 Action
-http://85.187.13.40:18000/tv1
+http://stream1.prizma.link/TV1000Action/index.m3u8
 #EXTINF:-1 ,Кино 1 International
 http://5.9.44.106/content/38617/index.m3u8
 #EXTINF:-1 ,Pro100TV
