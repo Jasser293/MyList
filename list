@@ -122,6 +122,8 @@ http://195.49.206.244:90/TNT/mono.m3u8?token=xtntx
 #EXTINF:-1 ,ТНТ
 http://87.246.54.249:8085/THT/index.m3u8
 #EXTINF:-1 ,ТНТ
+http://185.46.16.239:8000/TNT
+#EXTINF:-1 ,ТНТ
 https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
@@ -142,6 +144,8 @@ http://87.246.54.249:8085/CTC/index.m3u8
 http://195.49.206.244:90/STS/mono.m3u8?token=xstsx
 #EXTINF:-1 ,СТС
 http://158.101.222.193:88/georgia_play.php?id=ctctv
+#EXTINF:-1 ,СТС
+http://185.46.16.239:8000/STS
 #EXTINF:-1 ,СТС (+2)
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС (+4)
@@ -158,7 +162,8 @@ http://45.159.74.22/Channel_121/tracks-v1a1/mono.m3u8
 http://195.49.206.244:90/TV_3/mono.m3u8?token=xtv3x
 #EXTINF:-1 ,ТВ3
 https://streaming.televizor-24-tochka.ru/live/18-req_offset_28000000-req_window_0-1k_v5.m3u8
-#http://178.217.72.66:8080/TV3/index.m3u8
+#EXTINF:-1 ,ТВ3
+http://185.46.16.239:8000/TV3
 #EXTINF:-1 ,ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 ,ТВ3 International
@@ -170,7 +175,7 @@ https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_
 #EXTINF:-1 ,Домашний
 http://188.190.222.53/Domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
-#http://176.96.241.40/Domashniy/index.m3u8
+http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://85.117.61.97:8000/play/a01i/index.m3u8
 #EXTINF:-1 ,Пятница
@@ -821,6 +826,8 @@ http://158.101.222.193:88/georgia_play.php?id=boxtv
 http://87.246.54.249:8085/MMATV/index.m3u8
 #EXTINF:-1 ,UDAR
 http://87.246.54.249:8085/UDAR/index.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="fightbox" tvg-logo="https://i.imgur.com/mRsnztA.png" ,FightBox
+http://45.159.74.22/Fightbox/mono.m3u8
 #EXTINF:-1 ,Extreme Sports
 http://178.217.72.66:8080/Extreme_Sports/index.m3u8
 #EXTINF:-1 ,Матч!
