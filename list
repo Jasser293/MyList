@@ -851,11 +851,11 @@ http://195.49.206.244:90/Futbol/mono.m3u8?token=xfutx
 #EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=xfu1x
 #EXTINF:-1 ,Матч! Футбол 1
-http://45.11.139.43:8555/fut1/index.m3u8
+http://195.49.206.244:90/Football_1/mono.m3u8?token=xff1x
 #EXTINF:-1 ,Матч! Футбол 2
 http://195.49.206.244:90/Football_2HD/mono.m3u8?token=xfu2x
 #EXTINF:-1 ,Матч! Футбол 2
-#http://45.11.139.43:8555/fut2/index.m3u8
+http://45.11.139.43:8555/fut2/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
 http://195.49.206.244:90/Football_3HD/mono.m3u8?token=xfu3x
 #EXTINF:-1 ,Матч! Футбол 3
