@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://river-3-370.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/jxwCffbNsWcHwlYTiFyG1w/1756481154/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://river-3-370.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/0HKDATSfeAASoLf2kpsLbw/1756787133/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
@@ -200,7 +200,7 @@ http://river-3-327.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/ZyTAhL1GBqI1FqSEXQ
 #EXTINF:-1 ,Твой 2007
 https://river-5-527.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/HKT5lmEivh3jN0WbN88mww/1756710468/348ebaac61a382f2028e9a1b06f4f2b6/720p_stream.m3u8
 #EXTINF:-1 ,Кино и жизнь
-http://river-3-318.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/FhMw3sGw0XrVUA1tXjFTzw/1756710580/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
+https://river-3-318.rtbcdn.ru/stream/genetta-320.m9.rutube.ru/REW1SRDavauH9sLBfJnLlQ/1756787072/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://river-5-520.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/YIBR5VspPMWkhB9wZOkmQQ/1756481378/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
