@@ -200,7 +200,7 @@ http://river-3-327.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/ZyTAhL1GBqI1FqSEXQ
 #EXTINF:-1 ,Твой 2007
 https://river-5-527.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/HKT5lmEivh3jN0WbN88mww/1756710468/348ebaac61a382f2028e9a1b06f4f2b6/720p_stream.m3u8
 #EXTINF:-1 ,Кино и жизнь
-https://river-3-318.rtbcdn.ru/stream/genetta-320.m9.rutube.ru/REW1SRDavauH9sLBfJnLlQ/1756787072/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-320.m9.rutube.ru/S-Yfzn12Ufj11_-ER_0HiQ/1756794682/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
 http://river-5-520.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/YIBR5VspPMWkhB9wZOkmQQ/1756481378/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:-1 ,Кинолента 24
@@ -286,8 +286,6 @@ http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Almaznyykray.ru" tvg-name="алмазный край" tvg-logo="https://i.imgur.com/zErXTdF.png" ,Алмазный край
 https://stream.almaz-media.tv:8080/hls/720.m3u8
-#EXTINF:-1 tvg-name="нтс иркутск" ,НТС Иркутск
-http://air.nts-tv.ru/fhd.m3u8
 #EXTINF:-1 tvg-name="ртк забайкалье" ,РТК Забайкалье
 http://stream.zrtk.ru/zrtk.m3u8
 #EXTINF:-1 tvg-id="NovyVek.ru" tvg-name="новый век" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novy-vek-ru.png" ,Новый Век
@@ -414,6 +412,8 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 http://178.217.72.66:8080/food_network/index.m3u8
 #EXTINF:-1 ,Кухня
 http://77.235.1.19:8000/play/a05u/index.m3u8
+#EXTINF:-1 ,Кухня
+http://178.163.2.70:4022/udp/234.0.0.241:2000
 #EXTINF:-1 ,Аппетитный
 http://178.217.72.66:8080/Morskoy/index.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -480,11 +480,14 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,TERRA
 http://195.26.83.96:7009/play/a00j/index.m3u8
 #EXTINF:-1 ,TERRA
-http://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+http://45.11.139.43:8555/terra/index.m3u8
+#http://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://45.159.74.22/DiscoveryChannel/mono.m3u8
+#EXTINF:-1 ,Discovery Channel
+http://158.160.149.81:8080/3465/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" ,Investigation Discovery
 http://45.159.74.22/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
@@ -503,7 +506,7 @@ http://45.159.74.22/NationalGeographic/mono.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
-#
+http://86.57.209.210/Ocean/index.m3u8
 #EXTINF:-1 ,History
 http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,H2
@@ -513,8 +516,6 @@ http://45.159.74.22/Istoria/mono.m3u8
 #http://178.217.72.66:8080/Istoriya/index.m3u8
 #EXTINF:-1 ,Точка РФ
 http://158.101.222.193:88/georgia_play.php?id=hdlife
-#EXTINF:-1 ,Моя стихия
-#
 #EXTINF:-1 ,Приключения
 http://91.194.191.241:8081/chid142/mono.m3u8
 #EXTINF:-1 ,Живая природа
@@ -572,7 +573,7 @@ http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
 http://31.43.48.248:7000/ch344/video.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
-#http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,1HD
@@ -589,20 +590,12 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 http://217.114.185.58:8000/play/a018/index.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
 http://45.159.74.22/Channel_115/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Bridge TV шлягер
-#
-#EXTINF:-1 ,Bridge TV Rock
-#
-#EXTINF:-1 ,Bridge TV Hits
-#
-#EXTINF:-1 ,Bridge TV Classic
-#
-#EXTINF:-1 ,Bridge TV фрэш
-#
+#EXTINF:-1 ,Bridge TV
+http://188.190.222.53/BridgeTV/index.m3u8
+#EXTINF:-1 ,Bridge TV Deluxe
+http://tvip.btk.teleos.ru:8081/chid519/index.m3u8
 #EXTINF:-1 ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
-#EXTINF:-1 ,MTV
-https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 ,MTV Live
 http://45.159.74.22/Channel_117/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,MTV
@@ -613,6 +606,8 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-name="california music channel [us]" tvg-logo="https://i.imgur.com/L38mC6H.png" ,California Music Channel
 http://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SpiritTV.us" tvg-name="spirit tv" tvg-logo="https://i.imgur.com/yCp6vXz.png" ,Spirit TV
+http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v2a1/mono.m3u8
 #EXTINF:-1 ,Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 ,Trace Urban HD
@@ -627,8 +622,6 @@ https://xite-rakuten.amagi.tv/playlist.m3u8
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="SONGTVRussia.ru" ,SONGTV Russia
 http://songtv.hls.iptvdc.com/web-russia/index.m3u8
-#EXTINF:-1 ,Kronehit
-http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 ,MCM Top
 http://193.27.209.122/mcm_top/index.m3u8
 #EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-name="impact tv dance [ro]" tvg-logo="https://i.imgur.com/G5mNdpE.png" ,Impact TV Dance
