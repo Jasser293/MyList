@@ -2,6 +2,8 @@
 #EXTINF:-1 ,Первый канал
 http://river-3-370.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/0HKDATSfeAASoLf2kpsLbw/1756787133/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
+http://telepark.mark-clark.workers.dev/?ID=141
+#EXTINF:-1 ,Первый канал
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
@@ -305,7 +307,7 @@ http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 ,Оружие
 http://158.101.222.193:88/georgia_play.php?id=oruzhie
 #EXTINF:-1 ,Арсенал
-http://178.217.72.66:8080/arsenalhd/mono.m3u8
+#
 #EXTINF:-1 ,Победа
 https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Патриот
@@ -410,10 +412,12 @@ http://195.18.23.20:8000/play/10/index.m3u8
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="food network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" ,Food Network
 http://178.217.72.66:8080/food_network/index.m3u8
+#EXTINF:-1 tvg-logo="https://mdware.telepark.tv/upload/channel_logo/v2/d8012eda.png",Еда ТВ
+https://telepark.mark-clark.workers.dev/?ID=312
+#EXTINF:-1 ,Кухня
+http://telepark.mark-clark.workers.dev/?ID=241
 #EXTINF:-1 ,Кухня
 http://77.235.1.19:8000/play/a05u/index.m3u8
-#EXTINF:-1 ,Кухня
-http://178.163.2.70:4022/udp/234.0.0.241:2000
 #EXTINF:-1 ,Аппетитный
 http://178.217.72.66:8080/Morskoy/index.m3u8
 #EXTINF:-1 ,Аппетитный
