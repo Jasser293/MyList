@@ -346,6 +346,8 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=xsarx
 #EXTINF:-1 ,Сарафан
 https://streamer3.connectto.com/490/mono.m3u8
 #EXTINF:-1 ,Че!
+http://telepark.mark-clark.workers.dev/?ID=53
+#EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
@@ -831,7 +833,7 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
-http://telepark.mark-clark.workers.dev/?ID=53
+http://telepark.mark-clark.workers.dev/?ID=57
 #EXTINF:-1 ,Eurosport 1
 http://45.159.74.22/Eurosport/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
