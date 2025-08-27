@@ -443,7 +443,7 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://82.209.254.71:7881/
 #EXTINF:-1 ,Первый Вегетарианский
-http://tinyurl.com/aleks-u-romki-55/833/index.m3u8
+#
 #EXTINF:-1 tvg-name="вкус" ,Вкус
 http://91.194.191.241:8081/chid515/mono.m3u8
 #EXTINF:-1 ,UNIVER TV
