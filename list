@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://river-1.rutube.ru/stream/genetta-303.m9.rutube.ru/BGQrvlzM5DUYr6c5-gI9-w/1756912426/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
-#EXTINF:-1 ,Первый канал
 http://telepark.mark-clark.workers.dev/?ID=141
+#EXTINF:-1 ,Первый канал
+http://river-3-370.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/W0XLLIXf1pwRkiLtZJkz3Q/1756919259/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
