@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://45.136.153.206/ndvr/a/141/index.m3u8?exp=1756358981&sl=kgANAlTrI_ww9K5sd8w8JQ
+http://telepark.mark-clark.workers.dev/?ID=141
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
@@ -78,7 +78,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 ,Рен ТВ HD
-http://45.136.153.206/ndvr/a/562/index.m3u8?exp=1756397733&sl=1DESL0leC5tU32O7Mnnu7Q
+http://telepark.mark-clark.workers.dev/?ID=562
 #EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=xrenx
 #EXTINF:-1 ,Рен ТВ
