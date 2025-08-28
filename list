@@ -1,12 +1,10 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://river-3-370.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/W0XLLIXf1pwRkiLtZJkz3Q/1756919259/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
-#EXTINF:-1 ,Первый канал
 http://45.136.153.206/ndvr/a/141/index.m3u8?exp=1756358981&sl=kgANAlTrI_ww9K5sd8w8JQ
 #EXTINF:-1 ,Первый канал
-http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
+#EXTINF:-1 ,Первый канал
+http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал (+4)
 http://81.211.33.68/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,Первый канал Европа
@@ -80,7 +78,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 ,Рен ТВ HD
-http://telepark.mark-clark.workers.dev/?ID=562
+http://45.136.153.206/ndvr/a/562/index.m3u8?exp=1756397733&sl=1DESL0leC5tU32O7Mnnu7Q
 #EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=xrenx
 #EXTINF:-1 ,Рен ТВ
@@ -90,7 +88,7 @@ http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
-#
+http://85.117.61.97:8000/play/a01t/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://195.49.206.244:90/TVC/mono.m3u8?token=xtvcx
 #EXTINF:-1 ,ТВЦ
