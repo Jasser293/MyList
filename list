@@ -23,7 +23,6 @@ http://cdn.ntv.ru/ntv1/mono.m3u8
 #EXTINF:-1 ,НТВ (+2)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv2/tracks-v1a1/mono.m3u8
-#http://94.230.128.107:8080/HTB/index.m3u8
 #EXTINF:-1 ,НТВ (+4)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
@@ -37,8 +36,6 @@ http://85.117.61.97:8000/play/a01u/index.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Зал суда
-http://77.235.1.19:8000/play/a07m/index.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -58,7 +55,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
 #EXTINF:-1 ,Россия 1 (+4)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 #EXTINF:-1 ,Россия 1 (+8)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1 ,Россия РТР
@@ -95,8 +91,6 @@ http://195.49.206.244:90/TVC/mono.m3u8?token=xtvcx
 https://streaming.televizor-24-tochka.ru/live/13-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 ,ТВЦ (+4)
-#
 #EXTINF:-1 ,Пятый канал
 https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -131,15 +125,10 @@ https://streaming.goodstream.cyou/live/38.m3u8
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ (+4)
 #http://109.200.130.123:7534/play/a00j
-#EXTINF:-1 ,ТНТ International
-#
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=xtn4x
 #EXTINF:-1 ,ТНТ4
 http://87.246.54.249:8085/THT4/index.m3u8
-#http://178.217.72.66:8080/TNT4/index.m3u8
-#EXTINF:-1 ,ТНТ4 International
-http://112.72.4.71/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 ,СТС HD
 http://telepark.mark-clark.workers.dev/?ID=564
 #EXTINF:-1 ,СТС
@@ -154,8 +143,6 @@ http://185.46.16.239:8000/STS
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС (+4)
 http://81.161.126.82/1230/index.m3u8
-#EXTINF:-1 ,СТС International
-http://112.72.4.71/live/disk1/STS/HLSv3-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=xlovx
 #EXTINF:-1 ,СТС Love
@@ -172,8 +159,6 @@ https://streaming.televizor-24-tochka.ru/live/18-req_offset_28000000-req_window_
 http://185.46.16.239:8000/TV3
 #EXTINF:-1 ,ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
-#EXTINF:-1 ,ТВ3 International
-#
 #EXTINF:-1 ,Домашний HD
 http://telepark.mark-clark.workers.dev/?ID=547
 #EXTINF:-1 ,Домашний
@@ -198,7 +183,6 @@ http://94.230.128.107:8080/Friday/index.m3u8
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница! International
 http://158.101.222.193:88/georgia_play.php?id=friday
-#http://112.72.4.71/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
 http://138.201.67.145/2_super/index.m3u8
 #EXTINF:-1 ,Суббота
@@ -232,7 +216,6 @@ http://212.233.98.62/0mir/index.m3u8
 http://212.233.98.62/okino-tv/index.m3u8
 #EXTINF:-1 ,Ностальгия
 http://158.101.222.193:88/georgia_play.php?id=nostalgy
-#http://178.217.72.66:8080/Nostalgiya/index.m3u8
 #EXTINF:-1 ,Ретро ТВ
 http://89.221.57.5:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-name="машина времени" ,Машина Времени
@@ -312,8 +295,6 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 ,Оружие
 http://45.143.108.110:4200/orujie
-#EXTINF:-1 ,Арсенал
-#
 #EXTINF:-1 ,Победа
 https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Патриот
@@ -324,9 +305,6 @@ http://45.159.74.22/Channel_129/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 ,Перец
 http://213.169.39.30:5261
-#EXTINF:-1 ,Перец
-http://stream1.prizma.link/Perec/index.m3u8
-#https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 #EXTINF:-1 ,КВН ТВ
 http://45.159.74.22/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
@@ -413,7 +391,6 @@ http://45.11.139.43:8555/doctor/index.m3u8
 http://178.217.72.66:8080/Doktor/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://89.221.57.5:8000/play/a00g
-#http://178.217.72.66:8080/Zdorovoe_TV/index.m3u8
 #EXTINF:-1 ,Тонус ТВ
 http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Живи
@@ -434,8 +411,6 @@ http://178.217.72.66:8080/Morskoy/index.m3u8
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://82.209.254.71:7881/
-#EXTINF:-1 ,Первый Вегетарианский
-#
 #EXTINF:-1 tvg-name="вкус" ,Вкус
 http://91.194.191.241:8081/chid515/mono.m3u8
 #EXTINF:-1 ,UNIVER TV
@@ -466,7 +441,6 @@ http://89.221.57.5:8000/play/a00f/index.m3u8
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=xvopx
 #EXTINF:-1 ,Спас
 https://streaming.televizor-24-tochka.ru/live/15-req_offset_28000000-req_window_0-1k_v5.m3u8
-#http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 ,МузСоюз
@@ -532,8 +506,6 @@ http://telepark.mark-clark.workers.dev/?ID=370
 http://86.57.209.210/Ocean/index.m3u8
 #EXTINF:-1 ,History
 http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,H2
-#
 #EXTINF:-1 ,История
 http://45.159.74.22/Istoria/mono.m3u8
 #http://178.217.72.66:8080/Istoriya/index.m3u8
@@ -572,7 +544,6 @@ http://178.217.72.66:8080/Viasat_Explorer/index.m3u8
 http://213.169.39.30:5262
 #EXTINF:-1 ,Охота и рыбалка
 http://89.221.57.5:8000/play/a00q/index.m3u8
-#http://178.217.72.66:8080/Okhota_I_Rybalka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рыбалка и охота
 http://89.221.57.5:8000/play/a00d
 #EXTINF:-1 ,Охотник и рыболов
@@ -709,7 +680,6 @@ http://195.49.206.244:90/A-2/mono.m3u8?token=xam2x
 http://45.159.74.22/Zagorodniy/mono.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://45.159.74.22/Nauka/tracks-v1a1/mono.m3u8
-#http://178.217.72.66:8080/Amedia_Hit/index.m3u8
 #EXTINF:-1 ,Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 ,TV21
@@ -720,8 +690,8 @@ http://158.101.222.193:88/georgia_play.php?id=red
 http://195.49.206.244:90/A-1/mono.m3u8?token=xblcx
 #EXTINF:-1 ,HD Rex 
 http://89.221.57.5:8000/play/a01b
-#EXTINF:-1 ,VHS-ка
-http://stream1.prizma.link/VHS/index.m3u8
+#EXTINF:-1 ,VHS TV
+https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://telepark.mark-clark.workers.dev/?ID=171
 #EXTINF:-1 ,Кинохит
@@ -730,8 +700,6 @@ http://45.159.74.22/Kinokhit/mono.m3u8
 http://195.26.83.96:7005/play/a00m/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=xknhx
-#EXTINF:-1 ,Кинохит
-http://stream1.prizma.link/Kinohit/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://87.246.54.249:8085/Kinomiks/mpegts
 #EXTINF:-1 ,Кино ТВ
@@ -767,25 +735,17 @@ http://195.49.206.244:90/Komediya/mono.m3u8?token=xkomx
 #EXTINF:-1 ,Кинокомедия
 http://178.217.72.66:8080/Kinokomediya/index.m3u8
 #EXTINF:-1 ,Кинопремьера
-http://stream1.prizma.link/Kinopremiera/index.m3u8
+http://telepark.mark-clark.workers.dev/?ID=140
 #EXTINF:-1 ,Киносвидание
-http://stream1.prizma.link/Kinosvidanie/index.m3u8
-#EXTINF:-1 ,Kиносемья
-http://stream1.prizma.link/Kinosemia/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 ,Наше новое кино
 http://87.246.54.249:8085/NasheKino/index.m3u8
-#EXTINF:-1 ,Родное кино
-#
-#EXTINF:-1 ,Любимое кино
-#
 #EXTINF:-1 ,Романтичное
 http://158.160.149.81:8080/8823/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://178.217.72.66:8080/russkiy_bestseller/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://77.235.1.19:8000/play/a08g/index.m3u8
-#EXTINF:-1 ,Русский Детектив
-#
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
@@ -815,7 +775,7 @@ http://213.169.39.30:5006
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=xactx
 #EXTINF:-1 ,Viju TV1000 Action
-http://stream1.prizma.link/TV1000Action/index.m3u8
+http://telepark.mark-clark.workers.dev/?ID=314
 #EXTINF:-1 ,Кино 1 International
 http://5.9.44.106/content/38617/index.m3u8
 #EXTINF:-1 ,Pro100TV
@@ -854,7 +814,6 @@ http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=viasatsport
 #EXTINF:-1 ,Бокс ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
-#http://178.217.72.66:8080/Boks_TV/index.m3u8
 #EXTINF:-1 ,MMA-TV
 http://87.246.54.249:8085/MMATV/index.m3u8
 #EXTINF:-1 ,UDAR
@@ -868,7 +827,7 @@ http://185.46.48.18/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,Матч Премьер
-#
+http://telepark.mark-clark.workers.dev/?ID=113
 #EXTINF:-1 ,МАТЧ! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! Боец
