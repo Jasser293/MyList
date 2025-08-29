@@ -136,8 +136,6 @@ http://87.246.54.249:8085/CTC/index.m3u8
 #EXTINF:-1 ,СТС
 http://195.49.206.244:90/STS/mono.m3u8?token=xstsx
 #EXTINF:-1 ,СТС
-http://158.101.222.193:88/georgia_play.php?id=ctctv
-#EXTINF:-1 ,СТС
 http://185.46.16.239:8000/STS
 #EXTINF:-1 ,СТС (+2)
 http://94.230.128.107:8080/CTC/index.m3u8
@@ -182,7 +180,7 @@ http://94.230.128.107:8080/Friday/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА (+4)
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница! International
-http://158.101.222.193:88/georgia_play.php?id=friday
+http://45.159.74.22/Pyatnica/mono.m3u8
 #EXTINF:-1 ,Суббота!
 http://138.201.67.145/2_super/index.m3u8
 #EXTINF:-1 ,Суббота
@@ -215,7 +213,7 @@ http://212.233.98.62/0mir/index.m3u8
 #EXTINF:-1 tvg-name="о!кино" ,О!Кино
 http://212.233.98.62/okino-tv/index.m3u8
 #EXTINF:-1 ,Ностальгия
-http://158.101.222.193:88/georgia_play.php?id=nostalgy
+http://188.190.222.53/Nostalgia/index.m3u8
 #EXTINF:-1 ,Ретро ТВ
 http://89.221.57.5:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-name="машина времени" ,Машина Времени
@@ -302,7 +300,7 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 ,ЦТВ
 http://45.159.74.22/Channel_129/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Перец
-http://158.101.222.193:88/georgia_play.php?id=perec
+http://45.159.74.22/Perec/mono.m3u8
 #EXTINF:-1 ,Перец
 http://213.169.39.30:5261
 #EXTINF:-1 ,КВН ТВ
@@ -320,7 +318,7 @@ http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1 ,Сарафан
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=xsarx
 #EXTINF:-1 ,Сарафан
-https://streamer3.connectto.com/490/mono.m3u8
+http://telepark.mark-clark.workers.dev/?ID=302
 #EXTINF:-1 ,Че!
 http://telepark.mark-clark.workers.dev/?ID=53
 #EXTINF:-1 ,Че!
@@ -331,12 +329,8 @@ http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
 http://194.143.148.28/U/index.m3u8
 #EXTINF:-1 ,Авто 24
 http://89.221.57.5:8000/play/a00i
-#EXTINF:-1 ,Авто 24
-http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=xautx
-#EXTINF:-1 ,Авто плюс
-http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 ,Авто плюс
 http://87.246.54.249:8085/AvtoPlus/index.m3u8
 #EXTINF:-1 ,Драйв
@@ -345,8 +339,6 @@ http://195.49.206.244:90/Drive/mono.m3u8?token=drive
 http://86.57.209.210/Drive/index.m3u8
 #EXTINF:-1 ,Драйв
 http://89.221.57.5:8000/play/a00n/index.m3u8
-#EXTINF:-1 ,Мужской
-http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 ,Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 ,RT Doc
@@ -430,8 +422,6 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Кто есть кто
-http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-#EXTINF:-1 ,Кто есть кто
 http://178.217.72.66:8080/Kto_Est_Kto/index.m3u8
 #EXTINF:-1 ,Совершенно секретно
 http://178.217.72.66:8080/Sovershenno_Sekretno/index.m3u8
@@ -510,7 +500,7 @@ http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Istoria/mono.m3u8
 #http://178.217.72.66:8080/Istoriya/index.m3u8
 #EXTINF:-1 ,Точка РФ
-http://158.101.222.193:88/georgia_play.php?id=hdlife
+http://87.246.54.249:8085/HDL/index.m3u8
 #EXTINF:-1 ,Приключения
 http://91.194.191.241:8081/chid142/mono.m3u8
 #EXTINF:-1 ,Живая природа
@@ -529,7 +519,7 @@ http://95.67.12.82:9083
 #EXTINF:-1 ,Наука
 http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 ,Viasat History
-http://158.101.222.193:88/georgia_play.php?id=viasathist
+http://85.117.61.97:8000/play/a010/index.m3u8
 #EXTINF:-1 ,Viasat History
 http://178.217.72.66:8080/Viasat_History/index.m3u8
 #EXTINF:-1 ,Viasat Nature
@@ -673,7 +663,7 @@ http://178.217.72.66:8080/Kinosemya/index.m3u8
 #EXTINF:-1 ,Amedia 1
 http://45.159.74.22/Channel_128/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Amedia 1
-http://158.101.222.193:88/georgia_play.php?id=amedia
+http://158.160.149.81:8080/1599/index.m3u8
 #EXTINF:-1 ,Amedia 2
 http://195.49.206.244:90/A-2/mono.m3u8?token=xam2x
 #EXTINF:-1 ,Amedia 2
@@ -684,8 +674,6 @@ http://45.159.74.22/Nauka/tracks-v1a1/mono.m3u8
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 ,TV21
 http://178.217.72.66:8080/TV_XXI/index.m3u8
-#EXTINF:-1 ,.Red
-http://158.101.222.193:88/georgia_play.php?id=red
 #EXTINF:-1 ,.black
 http://195.49.206.244:90/A-1/mono.m3u8?token=xblcx
 #EXTINF:-1 ,HD Rex 
@@ -737,7 +725,7 @@ http://178.217.72.66:8080/Kinokomediya/index.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://telepark.mark-clark.workers.dev/?ID=140
 #EXTINF:-1 ,Киносвидание
-http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://87.246.54.249:8085/NasheKino/index.m3u8
 #EXTINF:-1 ,Романтичное
@@ -759,7 +747,7 @@ http://195.49.206.244:90/NST/mono.m3u8?token=xnstx
 #EXTINF:-1 ,НСТ
 http://45.159.74.22/Channel_125/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Киноужас
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
+http://109.200.130.123:7537/play/a031
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=xmosx
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -811,9 +799,9 @@ http://95.67.12.82:9067
 #EXTINF:-1 ,Конный мир
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 ,Viasat Sport
-http://158.101.222.193:88/georgia_play.php?id=viasatsport
+http://45.159.74.22/AutoPlus/mono.m3u8
 #EXTINF:-1 ,Бокс ТВ
-http://158.101.222.193:88/georgia_play.php?id=boxtv
+http://45.159.74.22/BoksTv/mono.m3u8
 #EXTINF:-1 ,MMA-TV
 http://87.246.54.249:8085/MMATV/index.m3u8
 #EXTINF:-1 ,UDAR
@@ -868,8 +856,6 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 ,Солнце
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
-#EXTINF:-1 ,Da Vinci
-http://158.101.222.193:88/georgia_play.php?id=davinci
 #EXTINF:-1 ,Da Vinci
 http://195.49.206.244:90/DaVinci/mono.m3u8?token=xvinx
 #EXTINF:-1 ,Nickelodeon
