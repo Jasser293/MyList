@@ -560,8 +560,12 @@ http://85.117.61.97:8000/play/a01f/index.m3u8
 http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикая Охота HD
 http://31.133.36.244:8000/122
+#EXTINF:-1 ,Дикая Охота HD
+http://217.21.34.160:38007/dikayaohotahd/index.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
 http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Дикая рыбалка HD
+http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
 http://31.133.36.244:8000/120
 #EXTINF:-1 ,Диалоги о рыбалке
@@ -809,7 +813,7 @@ http://138.201.250.184/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://138.201.250.184/eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
+#http://178.217.72.66:8080/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://telepark.mark-clark.workers.dev/?ID=626
 #EXTINF:-1 ,Setanta Sports 2
