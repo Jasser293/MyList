@@ -33,6 +33,8 @@ http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
 https://streaming.goodstream.cyou/live/213.m3u8
 #EXTINF:-1 ,НТВ Мир
 http://85.117.61.97:8000/play/a01u/index.m3u8
+#EXTINF:-1 ,Зал суда
+http://31.133.36.244:8000/44
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -290,9 +292,9 @@ http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OSN.ru" tvg-name="осн тв" ,ОСН ТВ
 http://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 #EXTINF:-1 ,Оружие
-http://178.217.72.66:8080/orujie/index.m3u8
-#EXTINF:-1 ,Оружие
 http://45.143.108.110:4200/orujie
+#EXTINF:-1 ,Оружие
+http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 ,Победа
 https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Патриот
@@ -333,12 +335,16 @@ http://89.221.57.5:8000/play/a00i
 http://195.49.206.244:90/Avto24/mono.m3u8?token=xautx
 #EXTINF:-1 ,Авто плюс
 http://87.246.54.249:8085/AvtoPlus/index.m3u8
+#EXTINF:-1 ,Авто плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=drive
 #EXTINF:-1 ,Драйв
 http://86.57.209.210/Drive/index.m3u8
 #EXTINF:-1 ,Драйв
 http://89.221.57.5:8000/play/a00n/index.m3u8
+#EXTINF:-1 ,Мужской
+http://31.133.36.244:8000/36
 #EXTINF:-1 ,Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 ,RT Doc
@@ -547,13 +553,17 @@ http://salam-khb-bln-29.rtbcdn.ru/dive/river-3-346.rtbcdn.ru/7J_ZQtJOXNpu4P2oqb1
 #EXTINF:-1 ,Охотник и рыболов Int
 http://salam-tmn-bln-114.rutube.ru/dive/river-3-346.rtbcdn.ru/IdHM85lBjZix7tg-AnF91A/stream/genetta-301.m9.rutube.ru/2a6LSlwh2YnIH7zeO_znKA/1756912957/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
-http://178.217.72.66:8080/Dikiy/index.m3u8
+http://31.133.36.244:8000/123
 #EXTINF:-1 ,Дикий
 http://85.117.61.97:8000/play/a01f/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
 http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Дикая Охота HD
+http://31.133.36.244:8000/122
 #EXTINF:-1 ,Дикая рыбалка HD
 http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Дикая рыбалка HD
+http://31.133.36.244:8000/120
 #EXTINF:-1 ,Диалоги о рыбалке
 http://178.217.72.66:8080/Dialogi_O_Rybalke/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -633,7 +643,9 @@ http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 tvg-id="Kvarc.ru" tvg-name="кварц" tvg-logo="https://i.imgur.com/90vSdul.png" ,Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 ,Сапфир
-http://77.235.1.19:8000/play/a06q/index.m3u8
+http://31.133.36.244:8000/86
+#EXTINF:-1 ,Сапфир
+http://31.133.36.244:8000/85
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=x2x2x
 #EXTINF:-1 ,Дом кино премиум
@@ -740,6 +752,8 @@ http://77.235.1.19:8000/play/a08g/index.m3u8
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://89.221.57.5:8000/play/a00t/index.m3u8
+#EXTINF:-1 ,Русский детектив
+http://31.133.36.244:8000/62
 #EXTINF:-1 ,Русский роман
 http://188.190.222.53/Russkiy_roman/index.m3u8
 #EXTINF:-1 ,Русский роман
