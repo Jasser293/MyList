@@ -63,16 +63,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
-#EXTINF:-1 ,Москва 24
-http://195.26.83.96:7007/play/a008/index.m3u8
-#EXTINF:-1 ,Запад 24
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-#EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="крым 24" tvg-logo="https://i.imgur.com/k4C0uvp.png" ,Крым 24
-http://live24.1tvcrimea.ru/switcher.m3u8
-#EXTINF:-1 tvg-id="LenTV24.ru" tvg-name="лентв24" tvg-logo="https://i.imgur.com/d02uxkB.png" ,ЛЕНТВ24
-http://river-3-338.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/Wtu8kL3hh_P-svVDj-rB3A/1757081481/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg",Tv Brics
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия К
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К (+2)
@@ -133,6 +123,18 @@ http://109.200.130.123:7534/play/a00j
 http://195.49.206.244:90/TNT4/mono.m3u8?token=xtn4x
 #EXTINF:-1 ,ТНТ4
 http://87.246.54.249:8085/THT4/index.m3u8
+#EXTINF:-1 ,Перец
+http://45.159.74.22/Perec/mono.m3u8
+#EXTINF:-1 ,Перец
+http://213.169.39.30:5261
+#EXTINF:-1 ,КВН ТВ
+http://45.159.74.22/Bober/mono.m3u8
+#EXTINF:-1 ,Gags Network
+http://95.67.12.82:9069
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
+http://78.24.180.184:8987/CH_TVOETV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
+http://78.24.180.184:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,СТС HD
 http://telepark.mark-clark.workers.dev/?ID=564
 #EXTINF:-1 ,СТС
@@ -189,6 +191,14 @@ http://45.159.74.22/Pyatnica/mono.m3u8
 http://138.201.67.145/2_super/index.m3u8
 #EXTINF:-1 ,Суббота
 http://195.49.206.244:90/Super/mono.m3u8?token=xsubx
+#EXTINF:-1 ,Че!
+http://telepark.mark-clark.workers.dev/?ID=53
+#EXTINF:-1 ,Че!
+http://195.26.83.96:7009/play/89/index.m3u8
+#EXTINF:-1 ,Ю
+http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
+#EXTINF:-1 ,Ю
+http://194.143.148.28/U/index.m3u8
 #EXTINF:-1 ,Rutube
 http://salam-khb-ttk-21.rtbcdn.ru/dive/river-3-327.rtbcdn.ru/qeSxr82mRhNttSXScHhpdA/stream/genetta-519.ost.rutube.ru/f2xaXgKqcPGgAeiDvbZvnQ/1757146357/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 ,Твой 2007
@@ -203,6 +213,31 @@ http://salam-tmn-bln-114.rutube.ru/dive/river-5-520.rtbcdn.ru/3sr5Rgq4wuJjf3AlEn
 http://salam-khb-mts-29.rtbcdn.ru/dive/river-5-521.rtbcdn.ru/FSaeIBlN7pykVVzfLnhrCA/stream/genetta-305.m9.rutube.ru/3Zj1V14YRkk0e35uBVyIEA/1757146580/dcc02ed1ff97923541c6d4c030c54c65/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,Москва 24
+http://195.26.83.96:7007/play/a008/index.m3u8
+#EXTINF:-1 ,Запад 24
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+#EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="крым 24" tvg-logo="https://i.imgur.com/k4C0uvp.png" ,Крым 24
+http://live24.1tvcrimea.ru/switcher.m3u8
+#EXTINF:-1 tvg-id="LenTV24.ru" tvg-name="лентв24" tvg-logo="https://i.imgur.com/d02uxkB.png" ,ЛЕНТВ24
+http://river-3-338.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/Wtu8kL3hh_P-svVDj-rB3A/1757081481/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg",Tv Brics
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,СТВ
+https://edge50.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 ,ОНТ
+https://edge50.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:-1 ,Беларусь 1
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b1010000_sleng.m3u8
+#EXTINF:-1 ,Беларусь 24
+http://195.49.206.244:90/Belarus24/mono.m3u8?token=xxyxx
+#EXTINF:-1 ,БелРос
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://83.222.205.26/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 tvg-name="гродно плюс" ,Гродно плюс
+http://82.209.219.165:1234/gp
+#EXTINF:-1 tvg-name="пинск тв" ,Пинск ТВ
+http://87.252.229.200:8083/pinsk
 #EXTINF:-1 ,Красная линия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -248,21 +283,6 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 http://194.28.88.14/millet/index.m3u8
 #EXTINF:-1 ,360 HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 ,СТВ
-https://edge50.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 ,ОНТ
-https://edge50.dc.beltelecom.by/ont/ont/playlist.m3u8
-#EXTINF:-1 ,Беларусь 1
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b1010000_sleng.m3u8
-#EXTINF:-1 ,Беларусь 24
-http://195.49.206.244:90/Belarus24/mono.m3u8?token=xxyxx
-#EXTINF:-1 ,БелРос
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://83.222.205.26/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 tvg-name="гродно плюс" ,Гродно плюс
-http://82.209.219.165:1234/gp
-#EXTINF:-1 tvg-name="пинск тв" ,Пинск ТВ
-http://87.252.229.200:8083/pinsk
 #EXTINF:-1 tvg-id="555.ru" tvg-name="телерадиокомания 555" tvg-logo="https://i.imgur.com/JQZkxeA.png" ,555
 http://91.207.106.1:8888/live
 #EXTINF:-1 ,Скиф
@@ -303,18 +323,6 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 ,ЦТВ
 http://45.159.74.22/Channel_129/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Перец
-http://45.159.74.22/Perec/mono.m3u8
-#EXTINF:-1 ,Перец
-http://213.169.39.30:5261
-#EXTINF:-1 ,КВН ТВ
-http://45.159.74.22/Bober/mono.m3u8
-#EXTINF:-1 ,Gags Network
-http://95.67.12.82:9069
-#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
-http://78.24.180.184:8987/CH_TVOETV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
-http://78.24.180.184:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,Телекафе
 http://45.159.74.22/Telekafe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Телекафе
@@ -323,14 +331,6 @@ http://45.11.139.43:8555/telekafe/index.m3u8
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=xsarx
 #EXTINF:-1 ,Сарафан
 http://telepark.mark-clark.workers.dev/?ID=302
-#EXTINF:-1 ,Че!
-http://telepark.mark-clark.workers.dev/?ID=53
-#EXTINF:-1 ,Че!
-http://195.26.83.96:7009/play/89/index.m3u8
-#EXTINF:-1 ,Ю
-http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
-#EXTINF:-1 ,Ю
-http://194.143.148.28/U/index.m3u8
 #EXTINF:-1 ,Авто 24
 http://89.221.57.5:8000/play/a00i
 #EXTINF:-1 ,АВТО 24
