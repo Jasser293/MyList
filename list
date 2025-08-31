@@ -67,6 +67,8 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
 http://195.26.83.96:7007/play/a008/index.m3u8
 #EXTINF:-1 ,Запад 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+#EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="крым 24" tvg-logo="https://i.imgur.com/k4C0uvp.png" ,Крым 24
+http://live24.1tvcrimea.ru/switcher.m3u8
 #EXTINF:-1 tvg-id="LenTV24.ru" tvg-name="лентв24" tvg-logo="https://i.imgur.com/d02uxkB.png" ,ЛЕНТВ24
 http://river-3-338.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/Wtu8kL3hh_P-svVDj-rB3A/1757081481/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg",Tv Brics
@@ -397,6 +399,8 @@ http://195.18.23.20:8000/play/10/index.m3u8
 http://89.221.57.5:8000/play/a00b/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#EXTINF:-1 tvg-name="women`s magazine" ,Women`s Magazine
+http://109.200.130.123:7537/play/a03q
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="food network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" ,Food Network
 http://178.217.72.66:8080/food_network/index.m3u8
 #EXTINF:-1 tvg-logo="https://mdware.telepark.tv/upload/channel_logo/v2/d8012eda.png",Еда ТВ
@@ -722,7 +726,7 @@ http://87.246.54.249:8085/Viju_Comedy/mpegts
 http://87.246.54.249:8085/Viju_Megahit/mpegts
 #EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-name="vip premiere" tvg-logo="https://i.imgur.com/klRvhR5.png" ,viju+ Premiere
 http://87.246.54.249:8085/Viju_Premiere/mpegts
-#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="Фильмы",Cinema
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" ,Cinema
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 ,Viasat Kino
 http://87.246.54.249:8085/TV1000/mono.m3u8
