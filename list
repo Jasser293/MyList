@@ -259,8 +259,8 @@ http://195.49.206.244:90/Belarus24/mono.m3u8?token=xxyxx
 http://83.222.205.26/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 tvg-name="гродно плюс" ,Гродно плюс
 http://82.209.219.165:1234/gp
-#EXTINF:-1 tvg-name="пинск тв" ,Пинск.БелРос
-http://178.124.207.1:1780/tvphd
+#EXTINF:-1 tvg-name="пинск тв" ,Пинск ТВ
+http://87.252.229.200:8083/pinsk
 #EXTINF:-1 tvg-id="555.ru" tvg-name="телерадиокомания 555" tvg-logo="https://i.imgur.com/JQZkxeA.png" ,555
 http://91.207.106.1:8888/live
 #EXTINF:-1 ,Скиф
