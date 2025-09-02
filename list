@@ -358,7 +358,7 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 ,Усадьба
 http://89.221.57.5:8000/play/a00z/index.m3u8
 #EXTINF:-1 ,Усадьба
-http://158.160.149.81:8080/145/index.m3u8
+http://31.133.36.244:8000/181
 #EXTINF:-1 ,Усадьба
 http://195.49.206.244:90/Usadba/mono.m3u8?token=xusax
 #EXTINF:-1 ,Бобёр
@@ -468,8 +468,6 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 http://45.159.74.22/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://telepark.mark-clark.workers.dev/?ID=393
-#EXTINF:-1 ,Discovery Channel
-http://158.160.149.81:8080/3465/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" ,Investigation Discovery
 http://45.159.74.22/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" ,Investigation Discovery
@@ -673,7 +671,7 @@ http://178.217.72.66:8080/Kinosemya/index.m3u8
 #EXTINF:-1 ,Amedia 1
 http://45.159.74.22/Channel_128/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Amedia 1
-http://158.160.149.81:8080/1599/index.m3u8
+http://31.133.36.244:8000/77
 #EXTINF:-1 ,Amedia 2
 http://195.49.206.244:90/A-2/mono.m3u8?token=xam2x
 #EXTINF:-1 ,Amedia 2
@@ -738,8 +736,8 @@ http://telepark.mark-clark.workers.dev/?ID=140
 http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
-#EXTINF:-1 ,Романтичное
-http://158.160.149.81:8080/8823/index.m3u8
+#EXTINF:-1 ,Наше любимое кино
+http://31.133.36.244:8000/76
 #EXTINF:-1 ,Русский бестселлер
 http://telepark.mark-clark.workers.dev/?ID=306
 #EXTINF:-1 ,Русский бестселлер
@@ -760,8 +758,6 @@ http://195.49.206.244:90/NST/mono.m3u8?token=xnstx
 http://45.159.74.22/Channel_125/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
-#EXTINF:-1 ,Scream
-http://158.160.149.81:8080/8229/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=xmosx
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -804,6 +800,8 @@ http://138.201.250.184/eurosport1/index.m3u8
 http://138.201.250.184/eurosport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://telepark.mark-clark.workers.dev/?ID=626
+#EXTINF:-1 ,Setanta Sports 1
+http://vod.splay.uz/live_splay/original/Setanta1HD/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2
 http://telepark.mark-clark.workers.dev/?ID=405
 #EXTINF:-1 ,Беларусь 5
@@ -817,7 +815,7 @@ http://45.159.74.22/AutoPlus/mono.m3u8
 #EXTINF:-1 ,Бокс ТВ
 http://45.159.74.22/BoksTv/mono.m3u8
 #EXTINF:-1 ,MMA-TV
-http://158.160.149.81:8080/3735/index.m3u8
+#
 #EXTINF:-1 ,UDAR
 #
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-name="fightbox" tvg-logo="https://i.imgur.com/mRsnztA.png" ,FightBox
