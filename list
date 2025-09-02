@@ -130,9 +130,11 @@ http://45.159.74.22/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
 http://95.67.12.82:9069
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
-http://78.24.180.184:8987/CH_TVOETV/index.m3u8
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#http://78.24.180.184:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
-http://78.24.180.184:8987/CH_TVOETV_HUMOR/index.m3u8
+http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#http://78.24.180.184:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,СТС HD
 http://telepark.mark-clark.workers.dev/?ID=564
 #EXTINF:-1 ,СТС
@@ -314,6 +316,8 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 #EXTINF:-1 ,Оружие
 http://45.143.108.110:4200/orujie
 #EXTINF:-1 ,Оружие
+http://195.158.223.132:8002/Oruzhie
+#EXTINF:-1 ,Оружие
 http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 ,Победа
 https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -385,6 +389,8 @@ http://31.133.36.244:8000/38
 http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
 #EXTINF:-1 ,Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
+#EXTINF:-1 ,Доктор
+http://185.46.16.239:8000/Doktor
 #EXTINF:-1 ,Здоровое ТВ
 http://89.221.57.5:8000/play/a00g
 #EXTINF:-1 ,Тонус ТВ
