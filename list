@@ -350,13 +350,13 @@ http://31.133.36.244:8000/36
 #EXTINF:-1 ,Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 ,RT Doc
-http://river-5-544.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/AgDCqP3G9nRzaxmW8D5LIg/1757508614/bb71a99e0ddc621322dafad338b96a3e/720p_stream.m3u8
+http://194.143.148.28:8080/RTD_HD/mono.m3u8
 #EXTINF:-1 ,RT Doc
 https://streaming.goodstream.cyou/live/554-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
-http://195.26.83.96:7029/play/a003
+http://31.133.36.244:8000/25
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 ,Усадьба
