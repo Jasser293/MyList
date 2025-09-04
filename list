@@ -380,7 +380,7 @@ http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.194.191.241:8081/chid514/mono.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл ТВ
-http://river-5-523.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/25EMzF2p6VuIGQ7-pPZmQw/1756913193/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-523.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/6oKfZtOC8hl2hzHdpF-6zA/1757578965/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://31.133.36.244:8000/38
 #EXTINF:-1 ,Доктор
@@ -545,7 +545,7 @@ http://45.159.74.22/Channel_124/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 http://river-m9-rtk-334.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/HTw4f0U52RsSp0zwID-5jw/1757435352/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://salam-tmn-bln-114.rutube.ru/dive/river-3-346.rtbcdn.ru/IdHM85lBjZix7tg-AnF91A/stream/genetta-301.m9.rutube.ru/2a6LSlwh2YnIH7zeO_znKA/1756912957/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+http://river-3-346.rtbcdn.ru/stream/genetta-505.ost.rutube.ru/Ef2DksGD9JU8KeA2w4sZig/1757578865/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://31.133.36.244:8000/123
 #EXTINF:-1 ,Дикий
