@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
+http://telepark.mark-clark.workers.dev/?ID=141
+#EXTINF:-1 ,Первый канал
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
@@ -63,6 +65,8 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
+#EXTINF:-1 ,Рен ТВ HD
+http://telepark.mark-clark.workers.dev/?ID=562
 #EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=xrenx
 #EXTINF:-1 ,Рен ТВ
@@ -83,6 +87,8 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Пятый канал
 http://188.190.222.53/5_kanal/index.m3u8
+#EXTINF:-1 ,Пятый канал
+http://telepark.mark-clark.workers.dev/?ID=52
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -101,6 +107,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=xtntx
+#EXTINF:-1 ,ТНТ
+http://telepark.mark-clark.workers.dev/?ID=40
 #EXTINF:-1 ,ТНТ
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 ,ТНТ
@@ -123,6 +131,8 @@ http://95.67.12.82:9069
 http://87.228.57.152:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
 http://87.228.57.152:8987/CH_TVOETV_HUMOR/index.m3u8
+#EXTINF:-1 ,СТС HD
+http://telepark.mark-clark.workers.dev/?ID=564
 #EXTINF:-1 ,СТС
 http://195.49.206.244:90/STS/mono.m3u8?token=xstsx
 #EXTINF:-1 ,СТС
@@ -135,16 +145,20 @@ http://81.161.126.82/1230/index.m3u8
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=xlovx
 #EXTINF:-1 ,СТС Love
 http://194.143.148.28:8080/CTC_LOVE/index.m3u8
+#EXTINF:-1 ,ТВ3 HD
+http://telepark.mark-clark.workers.dev/?ID=698
+#EXTINF:-1 ,ТВ3
+http://45.159.74.22/Channel_121/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=xtv3x
-#EXTINF:-1 ,ТВ3
-http://45.159.74.23/Channel_121/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТВ3
 https://streaming.televizor-24-tochka.ru/live/18-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,ТВ3
 http://185.46.16.239:8000/TV3
 #EXTINF:-1 ,ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
+#EXTINF:-1 ,Домашний HD
+http://telepark.mark-clark.workers.dev/?ID=547
 #EXTINF:-1 ,Домашний
 http://195.49.206.244:90/Domashni/mono.m3u8?token=xdomx
 #EXTINF:-1 ,Домашний
@@ -159,6 +173,8 @@ http://195.158.223.132:8009/Domashniy
 http://195.158.223.132:8005/Domashniy
 #EXTINF:-1 ,Пятница
 http://195.49.206.244:90/Pyatnica/mono.m3u8?token=xx5xx
+#EXTINF:-1 ,Пятница
+http://telepark.mark-clark.workers.dev/?ID=75
 #EXTINF:-1 ,ПЯТНИЦА
 https://streaming.televizor-24-tochka.ru/live/19-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,ПЯТНИЦА (+2)
@@ -172,21 +188,23 @@ http://138.201.67.145/2_super/index.m3u8
 #EXTINF:-1 ,Суббота
 http://195.49.206.244:90/Super/mono.m3u8?token=xsubx
 #EXTINF:-1 ,Че!
+http://telepark.mark-clark.workers.dev/?ID=53
+#EXTINF:-1 ,Че!
 http://93.125.121.61:8383/play/a033
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
 #EXTINF:-1 ,Ю
 http://194.143.148.28/U/index.m3u8
 #EXTINF:-1 ,Rutube
-http://salam-nsk-ttk-d116.rtbcdn.ru/dive/river-4-419.rtbcdn.ru/R6nd2fRtqXtuaz8zw2Gy3g/stream/genetta-519.ost.rutube.ru/0vgn-1HEs9kW2r2hz0FHpw/1757677755/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+https://river-3-346.rtbcdn.ru/stream/genetta-519.ost.rutube.ru/QdSkYWUi14Cfj5CISNV4Fw/1757699782/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Твой 2007
-http://salam-nsk-mfon-d137.rtbcdn.ru/dive/river-5-527.rtbcdn.ru/89x0dD163TDFLip0MpoTfg/stream/genetta-321.m9.rutube.ru/O6jsbh7t2ksnbJxGr2qDpQ/1757677832/348ebaac61a382f2028e9a1b06f4f2b6/720p_stream.m3u8
+https://river-5-527.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/7rVeGHO7pxhysATp9y91Zg/1757699836/348ebaac61a382f2028e9a1b06f4f2b6/720p_stream.m3u8
 #EXTINF:-1 ,Кино и жизнь
-http://river-1.rutube.ru/stream/genetta-524.ost.rutube.ru/XtRjhZqajlQWG8J7osizPg/1757677983/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
+https://river-1.rutube.ru/stream/genetta-524.ost.rutube.ru/DWysi-T09kXLs3NFW9Zw2g/1757699875/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
 #EXTINF:-1 ,Киножелезо
-http://salam-nsk-bln-d135.rtbcdn.ru/dive/river-3-345.rtbcdn.ru/JYB2LFL1jRtCaK7XPK-dbA/stream/genetta-315.m9.rutube.ru/Si98QeULMtSW8rMIHUlV7g/1757678246/4965b7b928c4a143d708ab424be01d37/720p_stream.m3u8
+https://salam-nsk-bln-d135.rtbcdn.ru/dive/river-3-345.rtbcdn.ru/JYB2LFL1jRtCaK7XPK-dbA/stream/genetta-315.m9.rutube.ru/Si98QeULMtSW8rMIHUlV7g/1757678246/4965b7b928c4a143d708ab424be01d37/720p_stream.m3u8
 #EXTINF:-1 ,Comedy Hub
-http://salam-nsk-mfon-d137.rtbcdn.ru/dive/river-5-521.rtbcdn.ru/mDoVJOovGY63kZ9zyuLhuw/stream/genetta-305.m9.rutube.ru/tlynAZ3rF25DqT8Oj42cDg/1757677948/dcc02ed1ff97923541c6d4c030c54c65/720p_stream.m3u8
+https://river-1.rutube.ru/stream/genetta-305.m9.rutube.ru/cQVdBn_fP41VgGOweqQ3OQ/1757699945/dcc02ed1ff97923541c6d4c030c54c65/720p_stream.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Москва 24
@@ -196,7 +214,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="крым 24" tvg-logo="https://i.imgur.com/k4C0uvp.png" ,Крым 24
 http://live24.1tvcrimea.ru/switcher.m3u8
 #EXTINF:-1 tvg-id="LenTV24.ru" tvg-name="лентв24" tvg-logo="https://i.imgur.com/d02uxkB.png" ,ЛЕНТВ24
-http://river-3-338.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/Wtu8kL3hh_P-svVDj-rB3A/1757081481/dd022de9cc6c8af89409513fa0a6117a/1080p_stream.m3u8
+http://river-4-419.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/p3XwsiknuVOMJVKyFE1PGg/1757699738/dd022de9cc6c8af89409513fa0a6117a/720p_stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg",Tv Brics
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,СТВ
@@ -307,6 +325,8 @@ http://45.159.74.23/Telekafe/mono.m3u8
 http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1 ,Сарафан
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=xsarx
+#EXTINF:-1 ,Сарафан
+http://telepark.mark-clark.workers.dev/?ID=302
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=xautx
 #EXTINF:-1 ,Авто 24
@@ -367,8 +387,10 @@ http://195.18.23.20:8000/play/10/index.m3u8
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="food network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" ,Food Network
 http://178.217.72.66:8080/food_network/index.m3u8
+#EXTINF:-1 tvg-logo="https://mdware.telepark.tv/upload/channel_logo/v2/d8012eda.png",Еда ТВ
+https://telepark.mark-clark.workers.dev/?ID=312
 #EXTINF:-1 ,Кухня
-http://45.159.74.22/KukhnyaTv/mono.m3u8
+http://telepark.mark-clark.workers.dev/?ID=241
 #EXTINF:-1 ,Кухня
 http://45.159.74.23/KukhnyaTv/mono.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -433,11 +455,17 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://45.159.74.22/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
+http://telepark.mark-clark.workers.dev/?ID=393
+#EXTINF:-1 ,Discovery Channel
 http://45.159.74.23/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" ,Investigation Discovery
 http://45.159.74.22/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" ,Investigation Discovery
+http://telepark.mark-clark.workers.dev/?ID=178
 #EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
 http://45.159.74.22/TLC/mono.m3u8
+#EXTINF:-1 tvg-id="TLC.ru" tvg-name="tlc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" ,TLC
+http://telepark.mark-clark.workers.dev/?ID=180
 #EXTINF:-1 ,DocuBox
 http://188.190.222.53/DocuBOX/index.m3u8
 #EXTINF:-1 ,Travel Channel
@@ -445,15 +473,15 @@ http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 ,Animal Planet
 http://45.159.74.22/AnimalPlanet/mono.m3u8
 #EXTINF:-1 ,Animal Planet
-http://45.159.74.23/AnimalPlanet/mono.m3u8
+http://telepark.mark-clark.workers.dev/?ID=92
 #EXTINF:-1 ,National Geographic
 http://45.159.74.22/NationalGeographic/mono.m3u8
 #EXTINF:-1 ,National Geogpaphic
-http://45.159.74.23/NationalGeographic/mono.m3u8
+http://telepark.mark-clark.workers.dev/?ID=363
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
-http://45.159.74.23/NatGeoWild/tracks-v1a1/mono.m3u8
+http://telepark.mark-clark.workers.dev/?ID=370
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://86.57.209.210/Ocean/index.m3u8
 #EXTINF:-1 ,History
@@ -481,9 +509,9 @@ http://95.67.12.82:9083
 #EXTINF:-1 ,Наука
 http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 ,Viasat History
-http://195.158.223.132:8001/Viju_History
-#EXTINF:-1 ,Viasat History
 http://85.117.61.97:8000/play/a010/index.m3u8
+#EXTINF:-1 ,Viasat History
+http://195.158.223.132:8001/Viju_History
 #EXTINF:-1 ,Viasat Nature
 http://195.49.206.244:90/Nature/mono.m3u8?token=xnatx
 #EXTINF:-1 ,Viasat Nature
@@ -535,13 +563,21 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 ,Bridge TV Этно
 http://217.114.185.58:8000/play/a018/index.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
-http://45.159.74.23/Channel_115/tracks-v1a1/mono.m3u8
+http://telepark.mark-clark.workers.dev/?ID=431
 #EXTINF:-1 ,Bridge TV Русский Хит
 http://45.159.74.22/Channel_115/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Bridge TV
+http://telepark.mark-clark.workers.dev/?ID=471
+#EXTINF:-1 ,Bridge TV
 http://188.190.222.53/BridgeTV/index.m3u8
 #EXTINF:-1 ,Bridge TV Deluxe
+http://telepark.mark-clark.workers.dev/?ID=575
+#EXTINF:-1 ,Bridge TV Deluxe
 http://tvip.btk.teleos.ru:8081/chid519/index.m3u8
+#EXTINF:-1 ,Bridge Hits
+http://telepark.mark-clark.workers.dev/?ID=649
+#EXTINF:-1 ,Bridge TV Classic
+http://telepark.mark-clark.workers.dev/?ID=515
 #EXTINF:-1 ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 ,MTV Live
@@ -633,11 +669,15 @@ http://195.49.206.244:90/A-1/mono.m3u8?token=xblcx
 #EXTINF:-1 ,VHS TV
 https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:-1 ,Кинохит
+http://telepark.mark-clark.workers.dev/?ID=171
+#EXTINF:-1 ,Кинохит
 http://45.159.74.22/Kinokhit/mono.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.26.83.96:7005/play/a00m/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=xknhx
+#EXTINF:-1 ,Киномикс
+http://telepark.mark-clark.workers.dev/?ID=80
 #EXTINF:-1 ,Кино ТВ
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
@@ -646,10 +686,12 @@ http://vod.tuva.ru/kinotv/index.m3u8
 http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="ATVKinoman.am" tvg-name="kinoman" tvg-logo="https://i.imgur.com/lidNHkH.png" ,Kinoman
 http://45.159.74.22/Kinoman/mono.m3u8
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="vip comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" ,viju+ Comedy
+http://telepark.mark-clark.workers.dev/?ID=369
 #EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
-http://93.125.121.61:8383/play/a038
+http://telepark.mark-clark.workers.dev/?ID=186
 #EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-name="vip premiere" tvg-logo="https://i.imgur.com/klRvhR5.png" ,viju+ Premiere
-http://93.125.121.61:8383/play/a037
+http://telepark.mark-clark.workers.dev/?ID=390
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" ,Cinema
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 ,HollywooD
@@ -671,7 +713,7 @@ http://195.49.206.244:90/Komediya/mono.m3u8?token=xkomx
 #EXTINF:-1 ,Кинокомедия
 http://45.159.74.22/Kinokomedia/mono.m3u8
 #EXTINF:-1 ,Кинопремьера
-http://45.159.74.22/Kinopremera/mono.m3u8
+http://telepark.mark-clark.workers.dev/?ID=140
 #EXTINF:-1 ,Киносвидание
 http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Наше новое кино
@@ -680,6 +722,8 @@ http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 http://217.21.34.160:38007/lubimoekino/index.m3u8
 #EXTINF:-1 ,Наше любимое кино
 http://93.125.121.61:8383/play/Intelsat85k306
+#EXTINF:-1 ,Русский бестселлер
+http://telepark.mark-clark.workers.dev/?ID=306
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский детектив
@@ -700,12 +744,16 @@ http://195.49.206.244:90/Mosfilm/mono.m3u8?token=xmosx
 http://95.85.109.219:7000/play/a08u
 #EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=x100x
+#EXTINF:-1 ,Viju TV1000
+http://telepark.mark-clark.workers.dev/?ID=313
 #EXTINF:-1 ,Viju TV1000 Русское
 http://95.85.109.219:7000/play/a08x
 #EXTINF:-1 ,Viju TV1000 Русское
 http://213.169.39.30:5006
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=xactx
+#EXTINF:-1 ,Viju TV1000 Action
+http://telepark.mark-clark.workers.dev/?ID=314
 #EXTINF:-1 ,Кино 1 International
 http://5.9.44.106/content/38617/index.m3u8
 #EXTINF:-1 ,Pro100TV
@@ -721,13 +769,19 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
+http://telepark.mark-clark.workers.dev/?ID=57
+#EXTINF:-1 ,Eurosport 1
 http://45.159.74.22/Eurosport/playlist.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://138.201.250.184/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://138.201.250.184/eurosport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
+http://telepark.mark-clark.workers.dev/?ID=626
+#EXTINF:-1 ,Setanta Sports 1
 http://vod.splay.uz/live_splay/original/Setanta1HD/mono.m3u8
+#EXTINF:-1 ,Setanta Sports 2
+http://telepark.mark-clark.workers.dev/?ID=405
 #EXTINF:-1 ,Беларусь 5
 http://138.201.250.184/B5/index.m3u8
 #EXTINF:-1 ,Trace Sport Stars
@@ -750,8 +804,8 @@ http://45.11.139.43:8555/extsport/index.m3u8
 http://185.46.48.18/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
-#EXTINF:-1 ,Матч! Премьер
-#
+#EXTINF:-1 ,Матч Премьер
+http://telepark.mark-clark.workers.dev/?ID=113
 #EXTINF:-1 ,МАТЧ! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! Боец
