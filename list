@@ -130,9 +130,9 @@ http://45.159.74.22/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
 http://95.67.12.82:9069
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
-#http://78.24.180.184:8987/CH_TVOETV/index.m3u8
+http://87.228.57.152:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
-#http://78.24.180.184:8987/CH_TVOETV_HUMOR/index.m3u8
+http://87.228.57.152:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,СТС HD
 http://telepark.mark-clark.workers.dev/?ID=564
 #EXTINF:-1 ,СТС
@@ -252,9 +252,7 @@ http://212.233.98.62/okino-tv/index.m3u8
 #EXTINF:-1 ,Ностальгия
 http://188.190.222.53/Nostalgia/index.m3u8
 #EXTINF:-1 ,Ретро ТВ
-http://89.221.57.5:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-name="машина времени" ,Машина Времени
-http://89.221.57.5:8000/play/a015/index.m3u8
+http://86.57.209.210/Retro/index.m3u8
 #EXTINF:-1 ,Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 ,Неизвестная Россия
@@ -334,7 +332,7 @@ http://195.49.206.244:90/Sarafan/mono.m3u8?token=xsarx
 #EXTINF:-1 ,Сарафан
 http://telepark.mark-clark.workers.dev/?ID=302
 #EXTINF:-1 ,Авто 24
-http://89.221.57.5:8000/play/a00i
+http://31.133.36.244:8000/163
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=xautx
 #EXTINF:-1 ,Авто плюс
@@ -343,8 +341,6 @@ http://158.101.222.193:88/georgia_play.php?id=autoplus
 http://195.49.206.244:90/Drive/mono.m3u8?token=drive
 #EXTINF:-1 ,Драйв
 http://86.57.209.210/Drive/index.m3u8
-#EXTINF:-1 ,Драйв
-http://89.221.57.5:8000/play/a00n/index.m3u8
 #EXTINF:-1 ,Мужской
 http://31.133.36.244:8000/36
 #EXTINF:-1 ,Мужской
@@ -361,8 +357,6 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 http://31.133.36.244:8000/25
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 ,Усадьба
-http://89.221.57.5:8000/play/a00z/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://31.133.36.244:8000/181
 #EXTINF:-1 ,Усадьба
@@ -393,14 +387,10 @@ http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 ,Доктор
 http://185.46.16.239:8000/Doktor
-#EXTINF:-1 ,Здоровое ТВ
-http://89.221.57.5:8000/play/a00g
 #EXTINF:-1 ,Тонус ТВ
 http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Живи
 http://195.18.23.20:8000/play/10/index.m3u8
-#EXTINF:-1 tvg-id="Psikhologiya.ru" tvg-name="психология" tvg-logo="https://i.imgur.com/GsfedKS.png" ,Психология
-http://89.221.57.5:8000/play/a00b/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="food network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" ,Food Network
@@ -437,8 +427,6 @@ http://brodilo.tv/channel.php
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:-1 ,Совершенно секретно
 http://31.133.36.244:8000/162
-#EXTINF:-1 ,Вопросы и ответы
-http://89.221.57.5:8000/play/a00f/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=xvopx
 #EXTINF:-1 ,Спас
@@ -521,7 +509,7 @@ http://195.49.206.244:90/Zhivaya_Priroda_HD/mono.m3u8?token=xzivx
 #EXTINF:-1 ,Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 ,Домашние животные
-http://89.221.57.5:8000/play/a00a/index.m3u8
+http://31.133.36.244:8000/179
 #EXTINF:-1 ,Zooпарк
 http://31.133.36.244:8000/168
 #EXTINF:-1 ,One planet
@@ -544,14 +532,10 @@ http://195.49.206.244:90/Explorer/mono.m3u8?token=xexpx
 http://31.133.36.244:8000/164
 #EXTINF:-1 ,Охота и рыбалка
 http://213.169.39.30:5262
-#EXTINF:-1 ,Охота и рыбалка
-http://89.221.57.5:8000/play/a00q/index.m3u8
-#EXTINF:-1 ,Рыбалка и охота
-http://89.221.57.5:8000/play/a00d
 #EXTINF:-1 ,Охотник и рыболов
 http://45.159.74.22/Channel_124/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Охотник и рыболов
-http://45.159.74.22/Channel_124/index.m3u8
+http://45.159.74.23/Channel_124/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 http://river-m9-rtk-334.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/HTw4f0U52RsSp0zwID-5jw/1757435352/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
@@ -665,7 +649,7 @@ https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,КИНЕКО
 http://31.133.36.244:8000/83
 #EXTINF:-1 ,Еврокино
-http://89.221.57.5:8000/play/a00o/index.m3u8
+http://87.120.142.11:18000/STSLove
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
@@ -673,7 +657,7 @@ http://178.217.72.66:8080/Tayna/index.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
-http://89.221.57.5:8000/play/a004/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:-1 ,Кинопремьера
 http://45.159.74.22/Kinopremera/mono.m3u8
 #EXTINF:-1 ,Киносвидание
@@ -698,8 +682,6 @@ http://195.18.23.20:8000/play/3/index.m3u8
 http://178.217.72.66:8080/TV_XXI/index.m3u8
 #EXTINF:-1 ,.black
 http://195.49.206.244:90/A-1/mono.m3u8?token=xblcx
-#EXTINF:-1 ,HD Rex 
-http://89.221.57.5:8000/play/a01b
 #EXTINF:-1 ,VHS TV
 https://autopilot.catcast.tv/content/47609/index.m3u8
 #EXTINF:-1 ,Кинохит
@@ -758,8 +740,6 @@ http://telepark.mark-clark.workers.dev/?ID=306
 http://31.133.36.244:8000/59
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
-#EXTINF:-1 ,Русский иллюзион
-http://89.221.57.5:8000/play/a00t/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://31.133.36.244:8000/62
 #EXTINF:-1 ,Русский роман
