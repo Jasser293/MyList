@@ -572,8 +572,6 @@ http://telepark.mark-clark.workers.dev/?ID=471
 http://188.190.222.53/BridgeTV/index.m3u8
 #EXTINF:-1 ,Bridge TV Deluxe
 http://telepark.mark-clark.workers.dev/?ID=575
-#EXTINF:-1 ,Bridge TV Deluxe
-http://tvip.btk.teleos.ru:8081/chid519/index.m3u8
 #EXTINF:-1 ,Bridge Hits
 http://telepark.mark-clark.workers.dev/?ID=649
 #EXTINF:-1 ,Bridge TV Classic
