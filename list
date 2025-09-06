@@ -2,6 +2,8 @@
 #EXTINF:-1 ,Первый канал
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
+https://streaming.televizor-24-tochka.ru/live/4.m3u8
+#EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал (+4)
 http://81.211.33.68/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
