@@ -194,7 +194,7 @@ http://195.26.83.96:7007/play/a008/index.m3u8
 #EXTINF:-1 ,Запад 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="крым 24" tvg-logo="https://i.imgur.com/k4C0uvp.png" ,Крым 24
-http://live24.1tvcrimea.ru/switcher.m3u8
+http://iptv.crimea.net:8787
 #EXTINF:-1 tvg-id="LenTV24.ru" tvg-name="лентв24" tvg-logo="https://i.imgur.com/d02uxkB.png" ,ЛЕНТВ24
 http://river-4-419.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/p3XwsiknuVOMJVKyFE1PGg/1757699738/dd022de9cc6c8af89409513fa0a6117a/720p_stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg",Tv Brics
