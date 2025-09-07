@@ -112,7 +112,7 @@ http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=xtn4x
 #EXTINF:-1 ,ТНТ4
-#
+http://93.125.121.61:8383/play/a020
 #EXTINF:-1 ,Перец
 http://45.159.74.22/Perec/mono.m3u8
 #EXTINF:-1 ,Перец
@@ -175,6 +175,8 @@ http://138.201.67.145/2_super/index.m3u8
 http://195.49.206.244:90/Super/mono.m3u8?token=xsubx
 #EXTINF:-1 ,Че!
 http://93.125.121.61:8383/play/a033
+#EXTINF:-1 ,Че!
+http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
 #EXTINF:-1 ,Ю
