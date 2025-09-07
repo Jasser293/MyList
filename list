@@ -169,6 +169,8 @@ http://94.230.128.107:8080/Friday/index.m3u8
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница! International
 http://45.159.74.22/Pyatnica/mono.m3u8
+#EXTINF:-1 ,Пятница! International
+http://45.11.139.43:8555/pyatnica/index.m3u8
 #EXTINF:-1 ,Суббота!
 http://138.201.67.145/2_super/index.m3u8
 #EXTINF:-1 ,Суббота
@@ -363,6 +365,8 @@ http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 ,Доктор
 http://185.46.16.239:8000/Doktor
+#EXTINF:-1 ,Доктор
+http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 ,Тонус ТВ
 http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Живи
@@ -646,6 +650,8 @@ http://195.49.206.244:90/kinohit/mono.m3u8?token=xknhx
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 ,FilmBox
+http://188.190.222.53/FilmBOX/index.m3u8
 #EXTINF:-1 ,FilmBox
 http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="ATVKinoman.am" tvg-name="kinoman" tvg-logo="https://i.imgur.com/lidNHkH.png" ,Kinoman
