@@ -32,7 +32,7 @@ http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Мир
 https://streaming.goodstream.cyou/live/213.m3u8
 #EXTINF:-1 ,НТВ Мир
-http://85.117.61.97:8000/play/a01u/index.m3u8
+http://45.159.74.23/HTB/mono.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -73,8 +73,6 @@ https://streaming.televizor-24-tochka.ru/live/14-req_offset_28000000-req_window_
 http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
-#EXTINF:-1 ,Рен ТВ International
-http://85.117.61.97:8000/play/a01t/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://195.49.206.244:90/TVC/mono.m3u8?token=xtvcx
 #EXTINF:-1 ,ТВЦ
@@ -491,7 +489,7 @@ http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 ,Viasat History
 http://195.158.223.132:8001/Viju_History
 #EXTINF:-1 ,Viasat History
-http://85.117.61.97:8000/play/a010/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 ,Viasat Nature
 http://195.49.206.244:90/Nature/mono.m3u8?token=xnatx
 #EXTINF:-1 ,Viasat Nature
@@ -511,7 +509,7 @@ http://river-m9-rtk-334.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/HTw4f0U52RsSp0
 #EXTINF:-1 ,Охотник и рыболов Int
 https://river-3-346.rtbcdn.ru/stream/genetta-505.ost.rutube.ru/3f_NloAtAKZzpaDrumQ_rw/1757831014/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
-http://85.117.61.97:8000/play/a01f/index.m3u8
+http://178.217.72.66:8080/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
 http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикая Охота HD
