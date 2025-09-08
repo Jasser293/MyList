@@ -2,6 +2,8 @@
 #EXTINF:-1 ,Первый канал
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
+http://46.151.151.250:9093
+#EXTINF:-1 ,Первый канал
 https://streaming.televizor-24-tochka.ru/live/4.m3u8
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
@@ -115,6 +117,8 @@ http://93.125.121.61:8383/play/a020
 http://45.159.74.22/Perec/mono.m3u8
 #EXTINF:-1 ,Перец
 http://213.169.39.30:5261
+#EXTINF:-1 ,Перец
+http://178.124.153.123:44400/peretz
 #EXTINF:-1 ,КВН ТВ
 http://45.159.74.22/Bober/mono.m3u8
 #EXTINF:-1 ,Gags Network
@@ -737,7 +741,7 @@ http://45.159.74.22/AutoPlus/mono.m3u8
 #EXTINF:-1 ,Бокс ТВ
 http://45.159.74.22/BoksTv/mono.m3u8
 #EXTINF:-1 ,MMA-TV
-#
+http://46.151.151.250:9196
 #EXTINF:-1 ,UDAR
 #
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-name="fightbox" tvg-logo="https://i.imgur.com/mRsnztA.png" ,FightBox
