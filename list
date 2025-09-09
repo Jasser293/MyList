@@ -340,7 +340,7 @@ http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 ,Загородный
 http://45.159.74.22/DTX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Загородный Int
-http://river-4-422.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/6Hu6zoLXWHr7l_9gIQMmbA/1757868610/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+http://river-4-421.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/YrCRuPqIaRSG87qDci1YZg/1758008571/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.194.191.241:8081/chid514/mono.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл ТВ
@@ -369,8 +369,6 @@ http://45.159.74.23/KukhnyaTv/mono.m3u8
 http://178.217.72.66:8080/Morskoy/index.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
-#EXTINF:-1 ,СВЕТЛОЕ ТВ
-http://82.209.254.71:7881/
 #EXTINF:-1 ,UNIVER TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 ,Точка Отрыва
@@ -456,8 +454,6 @@ http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Istoria/mono.m3u8
 #EXTINF:-1 ,Точка РФ
 http://158.101.222.193:88/georgia_play.php?id=hdlife
-#EXTINF:-1 ,Приключения
-http://91.194.191.241:8081/chid142/mono.m3u8
 #EXTINF:-1 ,Глазами туриста
 http://93.125.121.61:8383/play/Intelsat85k1405
 #EXTINF:-1 ,Живая природа
@@ -493,7 +489,7 @@ http://45.159.74.22/Channel_124/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Охотник и рыболов
 http://45.159.74.23/Channel_124/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-1.rutube.ru/stream/genetta-505.ost.rutube.ru/9Mwn5GnHq9CmLDJjh9Yuwg/1757759230/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://river-3-346.rtbcdn.ru/stream/genetta-505.ost.rutube.ru/eCkjCxqQs6DgdtDGPoaqww/1758008750/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://178.217.72.66:8080/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
