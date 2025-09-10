@@ -655,7 +655,7 @@ http://93.125.121.61:8383/play/Intelsat85k306
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский детектив
-#
+http://146.120.212.5:8004/play/a01e/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://188.190.222.53/Russkiy_roman/index.m3u8
 #EXTINF:-1 ,Русский роман
@@ -817,3 +817,11 @@ https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 ,TBN BALTIA
 http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 ,46.8_SD
+http://46.8.46.14/amc/index.m3u8
+#EXTINF:-1 ,46.8_HD
+http://46.8.46.14/vipmegahit/index.m3u8
+#EXTINF:-1 ,146.12_SD
+http://146.120.212.5:8004/play/Dom_Kino/index.m3u8
+#EXTINF:-1 ,146.12_HD
+http://146.120.212.5:8004/play/National_Geographic1/index.m3u8
