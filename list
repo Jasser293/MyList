@@ -33,8 +33,6 @@ http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
 http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Мир
 https://streaming.goodstream.cyou/live/213.m3u8
-#EXTINF:-1 ,НТВ Мир
-http://85.117.61.97:8000/play/a01u/index.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -186,7 +184,8 @@ http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
 #EXTINF:-1 ,Ю
 http://194.143.148.28/U/index.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
-http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
+http://river-1.rutube.ru/stream/genetta-315.m9.rutube.ru/6mI11zwFfpIbu5A5OzyfyQ/1758168212/99d4597cea881a27cf7dd6e65a74dade/1080p_stream.m3u8
+#http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Москва 24
 http://195.26.83.96:7007/play/a008/index.m3u8
 #EXTINF:-1 ,Запад 24
@@ -435,7 +434,6 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 http://195.26.83.96:7009/play/a00j/index.m3u8
 #EXTINF:-1 ,TERRA
 http://45.11.139.43:8555/terra/index.m3u8
-#http://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery Channel
@@ -641,7 +639,7 @@ http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 ,FilmBox
-http://188.190.222.53/FilmBOX/index.m3u8
+http://146.120.212.5:8004/play/a021/index.m3u8
 #EXTINF:-1 ,FilmBox
 http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
@@ -748,8 +746,6 @@ http://185.46.16.239:8000/Eurosport_1
 http://146.120.212.5:8004/play/m1_global/index.m3u8
 #EXTINF:-1 ,UDAR
 http://146.120.212.5:8004/play/a05b/index.m3u8
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="fightbox" tvg-logo="https://i.imgur.com/mRsnztA.png" ,FightBox
-http://85.117.61.97:8000/play/a023/index.m3u8
 #EXTINF:-1 ,Extreme Sports
 http://vod.stb.tvime.ru/Extreme_Sports/video.m3u8
 #EXTINF:-1 ,Матч!
