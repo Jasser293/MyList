@@ -441,9 +441,9 @@ http://146.120.212.5:8004/play/a01d/index.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/index.m3u8
 #EXTINF:-1 ,TLC
-http://178.217.72.66:8080/TLC_Russia_HD/tracks-v1a1/mono.m3u8
+#
 #EXTINF:-1 ,DocuBox
-http://188.190.222.53/DocuBOX/index.m3u8
+http://195.158.223.132:8011/DocuBox_HD
 #EXTINF:-1 ,Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 ,Travel+Adventure
