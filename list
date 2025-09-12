@@ -85,6 +85,8 @@ https://streaming.televizor-24-tochka.ru/live/13-req_offset_28000000-req_window_
 https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Пятый канал
 http://188.190.222.53/5_kanal/index.m3u8
+#EXTINF:-1 ,Пятый канал
+http://95.47.156.60:8000/play/5/index.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -135,6 +137,8 @@ http://87.228.57.152:8987/CH_TVOETV_HUMOR/index.m3u8
 http://195.49.206.244:90/STS/mono.m3u8?token=xstsx
 #EXTINF:-1 ,СТС
 http://185.46.16.239:8000/STS
+#EXTINF:-1 ,СТС
+http://188.190.222.53/CTC/index.m3u8
 #EXTINF:-1 ,СТС (+2)
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС (+4)
