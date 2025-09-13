@@ -2,8 +2,6 @@
 #EXTINF:-1 ,Первый канал
 http://81.211.33.66/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
-http://146.120.212.5:8004/play/a03n/index.m3u8
-#EXTINF:-1 ,Первый канал
 https://streaming.televizor-24-tochka.ru/live/4.m3u8
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
@@ -733,11 +731,11 @@ http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://138.201.250.184/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://146.120.212.5:8004/play/Eurosport1_Rossiya/index.m3u8
+#http://146.120.212.5:8004/play/Eurosport1_Rossiya/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://138.201.250.184/eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://146.120.212.5:8004/play/a00v/index.m3u8
+#http://146.120.212.5:8004/play/a00v/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://vod.splay.uz/live_splay/original/Setanta1HD/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
