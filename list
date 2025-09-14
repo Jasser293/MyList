@@ -650,7 +650,7 @@ http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 ,Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
-http://178.212.71.253:8000/play/59/index.m3u8
+http://195.158.223.132:8011/Indiya
 #EXTINF:-1 tvg-id="TimelessDiziChannel.ru" tvg-name="timeless dizi channel" tvg-logo="https://i.imgur.com/s3Sqd4L.png" ,Dizi
 http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 ,Комедия
