@@ -316,9 +316,9 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=xautx
 #EXTINF:-1 ,Авто 24
 http://194.32.242.245/avto24/index.m3u8
 #EXTINF:-1 ,Авто плюс
-http://158.101.222.193:88/georgia_play.php?id=autoplus
-#EXTINF:-1 ,Авто плюс
 http://46.8.46.14/avtoplus/index.m3u8
+#EXTINF:-1 ,Авто плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=drive
 #EXTINF:-1 ,Драйв
@@ -472,7 +472,7 @@ http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 ,Домашние животные
 http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8
 #EXTINF:-1 ,Zooпарк
-http://158.101.222.193:88/georgia_play.php?id=zoo
+http://46.8.46.14/zoo/index.m3u8
 #EXTINF:-1 ,One planet
 http://95.67.12.82:9088
 #EXTINF:-1 ,Continent E
@@ -480,17 +480,17 @@ http://95.67.12.82:9083
 #EXTINF:-1 ,Наука
 http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 ,Viasat History
-http://158.101.222.193:88/georgia_play.php?id=viasathist
+http://195.158.223.132:8001/Viju_History
 #EXTINF:-1 ,Viasat History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 ,Viasat Nature
 http://195.49.206.244:90/Nature/mono.m3u8?token=xnatx
 #EXTINF:-1 ,Viasat Nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
+http://195.158.223.132:8001/Viju_Nature
 #EXTINF:-1 ,Viasat Explore
 http://195.49.206.244:90/Explorer/mono.m3u8?token=xexpx
 #EXTINF:-1 ,Viasat Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
+http://195.158.223.132:8001/Viju_Explore
 #EXTINF:-1 ,Наша Тема
 http://217.21.34.160:38003/nashatema/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -596,7 +596,7 @@ http://178.217.72.66:8080/Tayna/index.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
-http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+http://93.125.121.61:8383/play/a01p
 #EXTINF:-1 ,Кинопремьера
 http://195.49.206.244:90/Kinopremiera/mono.m3u8?token=xprex
 #EXTINF:-1 ,Киносвидание
@@ -662,7 +662,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 ,Киносвидание
 http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Наше новое кино
-http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 ,Наше любимое кино
 http://217.21.34.160:38007/lubimoekino/index.m3u8
 #EXTINF:-1 ,Наше любимое кино
