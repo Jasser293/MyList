@@ -437,6 +437,8 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 http://46.8.46.14/uspeh/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://ott.watch/stream/I7F8XIBRT9/177.m3u8
+#EXTINF:-1 ,Discovery Channel
+http://ott.watch/stream/RWJWGJMEQB/177.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/index.m3u8
 #EXTINF:-1 ,TLC
@@ -448,7 +450,7 @@ http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 ,Приключения
 http://91.194.191.241:8081/chid142/index.m3u8
 #EXTINF:-1 ,Animal Planet
-#
+http://ott.watch/stream/G7RVUGWTEM/114.m3u8
 ##EXTINF:-1 ,National Geographic
 #
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
