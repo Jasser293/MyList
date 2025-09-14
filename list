@@ -452,7 +452,7 @@ http://91.194.191.241:8081/chid142/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://ott.watch/stream/G7RVUGWTEM/114.m3u8
 ##EXTINF:-1 ,National Geographic
-#
+http://ott.watch/stream/4WDSJ2C3H1/116.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
