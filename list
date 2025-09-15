@@ -352,11 +352,13 @@ http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 ,Загородный
 http://93.125.121.61:8383/play/Intelsat85k118
 #EXTINF:-1 ,Загородный Int
-http://river-4-421.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/Ejcv3CAoLGm9YZiNheGvFg/1758383245/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+http://river-4-421.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/oxrSZQ2kOdAK9OhhbaqsYg/1758534839/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
 #http://91.194.191.241:8081/chid514/mono.m3u8
+#EXTINF:-1 ,Rutube
+http://river-4-419.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/Tki7mvPyfis2O_DZKalJEw/1758535019/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл ТВ
-http://river-5-523.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/jTPVZQ6p8tBaXSbg0-q_gg/1758383308/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-523.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/muFlh9XXq_wbF2e2goNy_Q/1758534916/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
 #EXTINF:-1 ,Доктор
@@ -498,7 +500,7 @@ http://213.169.39.30:5262
 #EXTINF:-1 ,Охотник и рыболов
 http://46.8.46.14/ohota/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-346.rtbcdn.ru/stream/genetta-505.ost.rutube.ru/NhsgRx9lzbj0B4jYmg775Q/1758383039/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+http://river-3-346.rtbcdn.ru/stream/genetta-505.ost.rutube.ru/sJxarsBPaGelPz9hylXpcQ/1758534741/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 ##EXTINF:-1 ,Дикий
 #
 #EXTINF:-1 ,Дикая Охота HD
