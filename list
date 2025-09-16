@@ -379,8 +379,6 @@ http://178.217.72.66:8080/tonus/index.m3u8
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="food network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" ,Food Network
-http://178.217.72.66:8080/food_network/index.m3u8
 #EXTINF:-1 ,Кухня
 http://46.8.46.14/kuhnya/index.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -486,7 +484,7 @@ http://195.49.206.244:90/Zhivaya_Priroda_HD/mono.m3u8?token=xzivx
 #EXTINF:-1 ,Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 ,Домашние животные
-http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8
+http://195.49.206.244:90/domashnie_zhivotnye/mono.m3u8?token=xdxzx
 #EXTINF:-1 ,Zooпарк
 http://46.8.46.14/zoo/index.m3u8
 #EXTINF:-1 ,One planet
@@ -618,9 +616,9 @@ http://195.49.206.244:90/Kinopremiera/mono.m3u8?token=xprex
 #EXTINF:-1 ,Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Mужское Кино
-http://178.217.72.66:8080/Muzhskoe_Kino/index.m3u8
+http://195.49.206.244:90/Muzhskoe_Kino/mono.m3u8?token=xmujx
 #EXTINF:-1 ,Kиносемья
-http://178.217.72.66:8080/Kinosemya/index.m3u8
+http://195.49.206.244:90/Kinosemia/mono.m3u8?token=xsemx
 #EXTINF:-1 ,Amedia 1
 http://93.125.121.61:8383/play/a02m
 #EXTINF:-1 ,Amedia 1
@@ -634,7 +632,7 @@ http://93.125.121.61:8383/play/Intelsat85k1410
 #EXTINF:-1 ,Amedia Premium
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 ,TV21
-http://178.217.72.66:8080/TV_XXI/index.m3u8
+http://195.49.206.244:90/TV21/mono.m3u8?token=x21xx
 #EXTINF:-1 ,.black
 http://195.49.206.244:90/A-1/mono.m3u8?token=xblcx
 #EXTINF:-1 ,VHS TV
@@ -839,7 +837,7 @@ http://195.49.206.244:90/Karusel/mono.m3u8?token=xkarx
 #EXTINF:-1 ,Мультиландия
 http://77.235.1.19:8000/play/a04b/index.m3u8
 #EXTINF:-1 ,Gulli Girl
-http://178.217.72.66:8080/Gulli/index.m3u8
+http://46.8.46.14/Gulli/index.m3u8
 #EXTINF:-1 ,Пингвин ТВ
 http://85.192.10.173/PingvinRu/mono.m3u8
 #EXTINF:-1 ,Мамонтенок ТВ
