@@ -647,6 +647,8 @@ http://195.49.206.244:90/TV21/mono.m3u8?token=x21xx
 http://195.49.206.244:90/A-1/mono.m3u8?token=xblcx
 #EXTINF:-1 ,VHS TV
 https://autopilot.catcast.tv/content/47609/index.m3u8
+#EXTINF:-1 ,VHS-ка
+http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.158.223.132:8008/Kinohit
 #EXTINF:-1 ,Кинохит
