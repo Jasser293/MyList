@@ -190,11 +190,15 @@ http://138.201.67.145/2_super/index.m3u8
 #EXTINF:-1 ,Суббота
 http://195.49.206.244:90/Super/mono.m3u8?token=xsubx
 #EXTINF:-1 ,Че!
+http://95.66.188.74/Che/index.m3u8
+#EXTINF:-1 ,Че!
 http://93.125.121.61:8383/play/a033
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Ю
 http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
+#EXTINF:-1 ,Ю
+http://95.66.188.74/U/index.m3u8
 #EXTINF:-1 ,Ю
 http://194.143.148.28/U/index.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
@@ -297,6 +301,10 @@ http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
 http://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 #EXTINF:-1 ,Эхо ТВ
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 ,Арсенал
+http://95.66.188.74/Arsenal_HD/index.m3u8
+#EXTINF:-1 ,Арсенал
+http://95.66.188.74/Oruzhie/index.m3u8
 #EXTINF:-1 ,Оружие
 http://45.143.108.110:4200/orujie
 #EXTINF:-1 ,Оружие
@@ -345,6 +353,8 @@ http://195.18.23.20:8000/play/333/index.m3u8
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 ,Усадьба
 http://195.49.206.244:90/Usadba/mono.m3u8?token=xusax
+#EXTINF:-1 ,Усадьба
+http://95.66.188.74/Usadba/index.m3u8
 #EXTINF:-1 ,Бобёр
 http://195.49.206.244:90/Bober/mono.m3u8?token=xbobx
 #EXTINF:-1 ,Бобёр
@@ -379,6 +389,8 @@ http://178.217.72.66:8080/tonus/index.m3u8
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#EXTINF:-1 ,Кухня
+http://95.66.188.74/Kuhnya/index.m3u8
 #EXTINF:-1 ,Кухня
 http://46.8.46.14/kuhnya/index.m3u8
 #EXTINF:-1 ,Аппетитный
