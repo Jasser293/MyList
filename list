@@ -5,6 +5,8 @@ http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 https://streaming.televizor-24-tochka.ru/live/4.m3u8
+#EXTINF:-1 ,Первый канал
+http://5.188.221.43:8080/play/ort
 #EXTINF:-1 ,Первый канал (+4)
 http://81.211.33.68/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,Первый канал Европа
@@ -196,8 +198,7 @@ http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
 #EXTINF:-1 ,Ю
 http://194.143.148.28/U/index.m3u8
 #EXTINF:-1 tvg-name="плюс минус 16" ,Плюс Минус 16
-https://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/wlJAVNDmzOoZwj42CpcK7A/1758434831/99d4597cea881a27cf7dd6e65a74dade/720p_stream.m3u8
-#http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
+http://river-5-538.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/jbstgoyxibiakA7oo5DsGA/1758715099/99d4597cea881a27cf7dd6e65a74dade/1080p_stream.m3u8
 #EXTINF:-1 ,Москва 24
 http://195.26.83.96:7007/play/a008/index.m3u8
 #EXTINF:-1 ,Запад 24
@@ -225,8 +226,7 @@ http://87.252.229.200:8083/pinsk
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Вместе РФ
-http://river-1.rutube.ru/stream/genetta-317.m9.rutube.ru/Byoyv9Zaftd-L5DPM98HFg/1758297580/f6a6d5c955180d0d0f80c66d0b6150d3/1080p_stream.m3u8
-#https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="смотрим" ,Смотрим
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v4a1/mono.m3u8
 #EXTINF:-1 ,Москва. Доверие
@@ -356,15 +356,15 @@ http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 ,Загородный
 http://93.125.121.61:8383/play/Intelsat85k118
 #EXTINF:-1 ,Загородный Int
-http://river-4-421.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/oxrSZQ2kOdAK9OhhbaqsYg/1758534839/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+https://river-4-421.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/7_TvWj4zbcXe82d_vu1jog/1758715199/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
 #http://91.194.191.241:8081/chid514/mono.m3u8
 #EXTINF:-1 ,Rutube
-http://river-4-419.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/Tki7mvPyfis2O_DZKalJEw/1758535019/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+http://river-3-340.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/vn02BmnzZIUxdmKgf22x1g/1758714602/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
 http://95.47.156.60:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл ТВ
-http://river-5-523.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/muFlh9XXq_wbF2e2goNy_Q/1758534916/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-523.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/GXhouLiDO1HLVmB6zyp83w/1758714911/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
 #EXTINF:-1 ,Доктор
@@ -512,7 +512,7 @@ http://213.169.39.30:5262
 #EXTINF:-1 ,Охотник и рыболов
 http://46.8.46.14/ohota/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-346.rtbcdn.ru/stream/genetta-505.ost.rutube.ru/sJxarsBPaGelPz9hylXpcQ/1758534741/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+http://river-3-346.rtbcdn.ru/stream/genetta-505.ost.rutube.ru/eF5RL7A_XalzAnW77Vmdmg/1758714980/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 ##EXTINF:-1 ,Дикий
 #
 #EXTINF:-1 ,Дикая Охота HD
@@ -798,7 +798,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.
 #EXTINF:-1 ,CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 ,СТС Kids
-http://195.26.83.96:7006/play/a00z/index.m3u8
+http://178.124.153.123:44400/stskids
 #EXTINF:-1 ,Солнце
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 ,Da Vinci
@@ -835,7 +835,7 @@ http://195.49.206.244:90/Mult/mono.m3u8?token=xmulx
 #EXTINF:-1 ,Карусель
 http://195.49.206.244:90/Karusel/mono.m3u8?token=xkarx
 #EXTINF:-1 ,Мультиландия
-http://77.235.1.19:8000/play/a04b/index.m3u8
+http://93.125.121.61:8383/play/a02j
 #EXTINF:-1 ,Gulli Girl
 http://46.8.46.14/Gulli/index.m3u8
 #EXTINF:-1 ,Пингвин ТВ
