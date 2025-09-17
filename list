@@ -456,7 +456,7 @@ http://195.158.223.132:8011/DocuBox_HD
 #EXTINF:-1 ,Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 ,Приключения
-#
+http://46.8.46.14/AdventureHD/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://ott.watch/stream/6SS8PMHT6E/114.m3u8
 #EXTINF:-1 ,Animal Planet
