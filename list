@@ -394,7 +394,7 @@ http://95.66.188.74/Kuhnya/index.m3u8
 #EXTINF:-1 ,Кухня
 http://46.8.46.14/kuhnya/index.m3u8
 #EXTINF:-1 ,Аппетитный
-http://178.217.72.66:8080/Morskoy/index.m3u8
+#
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,Вкус
@@ -692,9 +692,11 @@ http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 ,Наше любимое кино
 http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
+http://93.125.121.61:8383/play/a02t
+#EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
-##EXTINF:-1 ,Русский детектив
-#
+#EXTINF:-1 ,Русский детектив
+http://46.8.46.14/rudetektiv/mono.m3u8
 #EXTINF:-1 ,Русский роман
 http://188.190.222.53/Russkiy_roman/index.m3u8
 #EXTINF:-1 ,Русский роман
