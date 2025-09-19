@@ -602,7 +602,7 @@ http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:-1 tvg-id="Kvarc.ru" tvg-name="кварц" tvg-logo="https://i.imgur.com/90vSdul.png" ,Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 ,Сапфир
-http://77.235.1.19:8000/play/a06q/index.m3u8
+http://93.125.121.61:8383/play/a02z
 #EXTINF:-1 ,2x2
 http://195.49.206.244:90/2x2/mono.m3u8?token=x2x2x
 #EXTINF:-1 ,Дом кино
@@ -757,6 +757,8 @@ http://87.120.142.11:18000/Rossiya1
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=xvspx
+#EXTINF:-1 ,Бокс ТВ
+http://195.42.154.178/test1/index.m3u8
 #EXTINF:-1 ,Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
 #EXTINF:-1 ,Extreme Sports
