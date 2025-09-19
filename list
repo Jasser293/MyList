@@ -456,6 +456,8 @@ http://46.8.46.14/uspeh/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
+http://ott.watch/stream/JNTB66SV1G/177.m3u8
+#EXTINF:-1 ,Discovery Channel
 http://ott.watch/stream/A8L72Y1454/177.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/mono.m3u8
@@ -472,9 +474,9 @@ http://46.8.46.14/AdventureHD/mono.m3u8
 #EXTINF:-1 ,Глазами туриста
 http://93.125.121.61:8383/play/Intelsat85k1405
 #EXTINF:-1 ,Animal Planet
-http://ott.watch/stream/M1BKK3JXQN/114.m3u8
-#EXTINF:-1 ,Animal Planet
 http://ott.watch/stream/3SQ8YD2B9S/114.m3u8
+#EXTINF:-1 ,Animal Planet
+http://ott.watch/stream/M1BKK3JXQN/114.m3u8
 #EXTINF:-1 ,National Geographic
 http://5.188.159.128:8070/NationalGeographic/mono.m3u8
 #EXTINF:-1 ,National Geographic
@@ -728,9 +730,9 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
-http://ott.watch/stream/1MJFLM25LY/176.m3u8
-#EXTINF:-1 ,Eurosport 1
 http://ott.watch/stream/WP1IZHCEDX/176.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://ott.watch/stream/1MJFLM25LY/176.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://185.189.225.157/EuroSport1/tracks-v1a1/mono.m3u8
 #http://138.201.250.184/eurosport1/index.m3u8
@@ -744,7 +746,7 @@ http://185.189.225.157/EuroSport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://94.130.221.219/setanta1/mpegts
 #EXTINF:-1 ,Setanta Sports 1
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2
 http://94.130.221.219/setanta2/mpegts
 #EXTINF:-1 ,Setanta Sports 2
