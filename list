@@ -728,13 +728,17 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
-http://138.201.250.184/eurosport1/index.m3u8
+http://ott.watch/stream/FPR6FHI6KZ/176.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://ott.watch/stream/D3TWWY7K64/176.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://138.201.250.184/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://138.201.250.184/eurosport2/index.m3u8
+http://ott.watch/stream/5TUQYYJS8Z/192.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://ott.watch/stream/ZVHQQ6LVDU/192.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://138.201.250.184/eurosport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://94.130.221.219/setanta1/mpegts
 #EXTINF:-1 ,Setanta Sports 1
