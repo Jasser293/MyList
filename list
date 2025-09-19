@@ -388,7 +388,7 @@ http://46.8.46.14/zhivi/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 ,Food Time HD
-http://ott.watch/stream/D8J39GEM3W/216.m3u8
+http://ott.watch/stream/XK9DKTMDPQ/216.m3u8
 #EXTINF:-1 ,Кухня
 http://95.66.188.74/Kuhnya/index.m3u8
 #EXTINF:-1 ,Кухня
@@ -456,13 +456,13 @@ http://46.8.46.14/uspeh/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://ott.watch/stream/1I3JES2RNG/177.m3u8
+http://ott.watch/stream/A8L72Y1454/177.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 ,TLC
 http://5.188.159.128:8070/TLC/mono.m3u8
 #EXTINF:-1 ,TLC
-http://ott.watch/stream/TQE5JIFDDL/168.m3u8
+http://ott.watch/stream/ZXM8WYT7EA/168.m3u8
 #EXTINF:-1 ,DocuBox
 http://195.158.223.132:8011/DocuBox_HD
 #EXTINF:-1 ,Travel Channel
@@ -472,13 +472,13 @@ http://46.8.46.14/AdventureHD/mono.m3u8
 #EXTINF:-1 ,Глазами туриста
 http://93.125.121.61:8383/play/Intelsat85k1405
 #EXTINF:-1 ,Animal Planet
-http://ott.watch/stream/BPXVA67QFH/114.m3u8
+http://ott.watch/stream/M1BKK3JXQN/114.m3u8
 #EXTINF:-1 ,Animal Planet
-http://ott.watch/stream/6FPEHD5KIE/114.m3u8
+http://ott.watch/stream/3SQ8YD2B9S/114.m3u8
 #EXTINF:-1 ,National Geographic
 http://5.188.159.128:8070/NationalGeographic/mono.m3u8
 #EXTINF:-1 ,National Geographic
-http://ott.watch/stream/KLWQL9K4JT/116.m3u8
+http://ott.watch/stream/4CWH7JQCNQ/116.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
@@ -728,16 +728,16 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
-http://ott.watch/stream/FPR6FHI6KZ/176.m3u8
+http://ott.watch/stream/1MJFLM25LY/176.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://ott.watch/stream/D3TWWY7K64/176.m3u8
+http://ott.watch/stream/WP1IZHCEDX/176.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://185.189.225.157/EuroSport1/tracks-v1a1/mono.m3u8
 #http://138.201.250.184/eurosport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://ott.watch/stream/5TUQYYJS8Z/192.m3u8
+http://ott.watch/stream/ZK2KC1B4WB/192.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://ott.watch/stream/ZVHQQ6LVDU/192.m3u8
+http://ott.watch/stream/ZBCHG3ZLDV/192.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://185.189.225.157/EuroSport2/tracks-v1a1/mono.m3u8
 #http://138.201.250.184/eurosport2/index.m3u8
