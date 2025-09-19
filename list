@@ -708,11 +708,11 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=xmosx
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://95.85.109.219:7000/play/a08u
+http://188.190.222.53/Mosfilm/mono.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=x100x
 #EXTINF:-1 ,Viju TV1000 Русское
-http://95.85.109.219:7000/play/a08x
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 ,Viju TV1000 Русское
 http://213.169.39.30:5006
 #EXTINF:-1 ,Viju TV1000 Action
