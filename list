@@ -182,8 +182,6 @@ http://94.230.128.107:8080/Friday/index.m3u8
 #EXTINF:-1 ,ПЯТНИЦА (+4)
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница! International
-http://45.11.139.43:8555/pyatnica/index.m3u8
-#EXTINF:-1 ,Пятница! International
 http://112.72.4.71/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
 http://138.201.67.145/2_super/index.m3u8
@@ -390,8 +388,6 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 ,Food Time HD
 http://ott.watch/stream/N619JQEWQ4/216.m3u8
 #EXTINF:-1 ,Кухня
-http://95.66.188.74/Kuhnya/index.m3u8
-#EXTINF:-1 ,Кухня
 http://46.8.46.14/kuhnya/index.m3u8
 #EXTINF:-1 ,Аппетитный
 #
@@ -445,26 +441,20 @@ http://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,TERRA
 http://195.26.83.96:7009/play/a00j/index.m3u8
-#EXTINF:-1 ,TERRA
-http://45.11.139.43:8555/terra/index.m3u8
 #EXTINF:-1 ,Galaxy
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Успех
 http://46.8.46.14/uspeh/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://ott.watch/stream/917XTPF8PE/177.m3u8
-#EXTINF:-1 ,Discovery Channel
 http://ott.watch/stream/EJ6E5YZUVR/177.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://ott.watch/stream/UAWEKJAP2S/177.m3u8
-#http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
+http://ott.watch/stream/917XTPF8PE/177.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 ,TLC
-http://ott.watch/stream/CCKYIZLPVK/168.m3u8
-#EXTINF:-1 ,TLC
 http://ott.watch/stream/B6QKBT45L8/168.m3u8
-#http://5.188.159.128:8070/TLC/mono.m3u8
+#EXTINF:-1 ,TLC
+http://ott.watch/stream/CCKYIZLPVK/168.m3u8
 #EXTINF:-1 ,DocuBox
 http://195.158.223.132:8011/DocuBox_HD
 #EXTINF:-1 ,Приключения
@@ -474,15 +464,15 @@ http://93.125.121.61:8383/play/Intelsat85k1405
 #EXTINF:-1 ,Поехали!
 http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
-http://ott.watch/stream/L7QN4B7RDV/114.m3u8
-#EXTINF:-1 ,Animal Planet
 http://ott.watch/stream/WE64DD2K8G/114.m3u8
-#EXTINF:-1 ,National Geographic
-http://ott.watch/stream/IVJA753EJR/116.m3u8
+#EXTINF:-1 ,Animal Planet
+http://ott.watch/stream/L7QN4B7RDV/114.m3u8
 #EXTINF:-1 ,National Geographic
 http://ott.watch/stream/N2WZIC3944/116.m3u8
+#EXTINF:-1 ,National Geographic
+http://ott.watch/stream/IVJA753EJR/116.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
-http://188.237.47.212:6005
+#
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://86.57.209.210/Ocean/index.m3u8
 #EXTINF:-1 ,History
@@ -732,19 +722,17 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
-http://ott.watch/stream/5N24SBXB7M/176.m3u8
-#EXTINF:-1 ,Eurosport 1
 http://ott.watch/stream/6PZ4VRK4T5/176.m3u8
 #EXTINF:-1 ,Eurosport 1
+http://ott.watch/stream/5N24SBXB7M/176.m3u8
+#EXTINF:-1 ,Eurosport 1
 http://185.189.225.157/EuroSport1/tracks-v1a1/mono.m3u8
-#http://138.201.250.184/eurosport1/index.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://ott.watch/stream/3NZKWECMNC/192.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://ott.watch/stream/TH6M4XFSYB/192.m3u8
 #EXTINF:-1 ,Eurosport 2
+http://ott.watch/stream/3NZKWECMNC/192.m3u8
+#EXTINF:-1 ,Eurosport 2
 http://185.189.225.157/EuroSport2/tracks-v1a1/mono.m3u8
-#http://138.201.250.184/eurosport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://94.130.221.219/setanta1/mpegts
 #EXTINF:-1 ,Setanta Sports 1
@@ -793,8 +781,6 @@ http://195.49.206.244:90/Football_1/mono.m3u8?token=xff1x
 http://94.130.221.219/m1/mpegts
 #EXTINF:-1 ,Матч! Футбол 2
 http://195.49.206.244:90/Football_2HD/mono.m3u8?token=xfu2x
-#EXTINF:-1 ,Матч! Футбол 2
-http://45.11.139.43:8555/fut2/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
 http://195.49.206.244:90/Football_3HD/mono.m3u8?token=xfu3x
 #EXTINF:-1 ,Матч! Футбол 3
