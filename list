@@ -364,11 +364,11 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 ,Загородный
-#
+http://213.230.65.254:8000/play/a02a
 #EXTINF:-1 ,Загородный Int
 http://river-4-421.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/jzd2otYODssYLGvCIX7V3Q/1758962848/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
-#http://91.194.191.241:8081/chid514/mono.m3u8
+#
 #EXTINF:-1 ,Rutube
 http://river-3-327.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/isSOULiAjGMpw-42WlRG9Q/1758962902/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
