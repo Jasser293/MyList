@@ -421,6 +421,8 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 http://brodilo.tv/channel.php
 #EXTINF:-1 ,Кто есть кто
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
+#EXTINF:-1 ,Совершенно секретно
+http://178.217.72.67:8080/Sovershenno_Sekretno/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=xvopx
 #EXTINF:-1 ,Спас
@@ -628,7 +630,7 @@ http://87.120.142.11:18000/STSLove
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
-http://river-3-369.rtbcdn.ru/stream/genetta-517.ost.rutube.ru/yuVFi4lhVsc8UoK_D-ZuqA/1758962347/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://178.217.72.67:8080/Tayna/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
@@ -744,9 +746,9 @@ http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://178.217.72.67:8080/Eurosport_HD/video.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://ott.watch/stream/RUMVZ81VFZ/176.m3u8
-#EXTINF:-1 ,Eurosport 1
 http://ott.watch/stream/687WWRS9ET/176.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://ott.watch/stream/RUMVZ81VFZ/176.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://178.217.72.67:8080/Eurosport_2_HD/video.m3u8
 #EXTINF:-1 ,Eurosport 2
@@ -754,15 +756,15 @@ http://ott.watch/stream/8N32ICN9PT/192.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://ott.watch/stream/UXXG8GJXH5/192.m3u8
 #EXTINF:-1 ,Setanta Sports 1
-http://ott.watch/stream/9QCVLV2N9Z/234.m3u8
-#EXTINF:-1 ,Setanta Sports 1
 http://ott.watch/stream/3PQGNP2AZI/234.m3u8
+#EXTINF:-1 ,Setanta Sports 1
+http://ott.watch/stream/9QCVLV2N9Z/234.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 ,Setanta Sports 2
-http://ott.watch/stream/6LPZVAD8WS/235.m3u8
-#EXTINF:-1 ,Setanta Sports 2
 http://ott.watch/stream/XBXBTR6FT9/235.m3u8
+#EXTINF:-1 ,Setanta Sports 2
+http://ott.watch/stream/6LPZVAD8WS/235.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 #EXTINF:-1 ,Trace Sport Stars
