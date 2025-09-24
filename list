@@ -366,7 +366,7 @@ http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 ,Загородный
 http://213.230.65.254:8000/play/a02a
 #EXTINF:-1 ,Загородный Int
-http://river-4-421.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/jzd2otYODssYLGvCIX7V3Q/1758962848/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+#
 #EXTINF:-1 ,Лапки Live
 #
 #EXTINF:-1 ,Rutube
