@@ -390,13 +390,15 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="food network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" ,Food Network
 http://178.217.72.67:8080/food_network/index.m3u8
 #EXTINF:-1 ,Food Time HD
+http://ott.watch/stream/XKUKYSUAMF/216.m3u8
+#EXTINF:-1 ,Food Time HD
 http://ott.watch/stream/A3Z9ACS5JK/216.m3u8
 #EXTINF:-1 ,Кухня
 http://46.8.46.14/kuhnya/index.m3u8
 #EXTINF:-1 ,Кухня
 http://193.33.88.172/kuhnya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кухня
-http://ott.watch/stream/4PZ3DUGBTI/179.m3u8
+http://ott.watch/stream/JI9ZLMJUDP/179.m3u8
 #EXTINF:-1 ,Аппетитный
 http://178.217.72.67:8080/Morskoy/index.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
@@ -748,7 +750,11 @@ http://ott.watch/stream/687WWRS9ET/176.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://178.217.72.67:8080/Eurosport_2_HD/video.m3u8
 #EXTINF:-1 ,Eurosport 2
+http://ott.watch/stream/8N32ICN9PT/192.m3u8
+#EXTINF:-1 ,Eurosport 2
 http://ott.watch/stream/UXXG8GJXH5/192.m3u8
+#EXTINF:-1 ,Setanta Sports 1
+http://ott.watch/stream/9QCVLV2N9Z/234.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://ott.watch/stream/3PQGNP2AZI/234.m3u8
 #EXTINF:-1 ,Setanta Sports 1
