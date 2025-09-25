@@ -387,8 +387,10 @@ http://45.11.139.43:8555/doctor/index.m3u8
 http://46.8.46.14/zhivi/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="food network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" ,Food Network
-http://178.217.72.67:8080/food_network/index.m3u8
+#EXTINF:-1 ,Food Time HD
+http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Food Time HD
+http://ott.watch/stream/VU68FJ2KRD/216.m3u8
 #EXTINF:-1 ,Food Time HD
 http://ott.watch/stream/L1D3487JLJ/216.m3u8
 #EXTINF:-1 ,Кухня
@@ -396,11 +398,11 @@ http://46.8.46.14/kuhnya/index.m3u8
 #EXTINF:-1 ,Кухня
 http://193.33.88.172/kuhnya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Аппетитный
-http://178.217.72.67:8080/Morskoy/index.m3u8
+#
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,Первый вегетарианский
-http://178.217.72.67:8080/Pervyy_Vegetarianskiy/tracks-v1a1/mono.m3u8
+#
 #EXTINF:-1 ,UNIVER TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 ,Точка Отрыва
@@ -418,7 +420,7 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Кто есть кто
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:-1 ,Совершенно секретно
-http://178.217.72.67:8080/Sovershenno_Sekretno/index.m3u8
+#
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=xvopx
 #EXTINF:-1 ,Спас
@@ -454,17 +456,13 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Успех
 http://46.8.46.14/uspeh/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://178.217.72.67:8080/Discovery_HD/video.m3u8
-#EXTINF:-1 ,Discovery Channel
 http://ott.watch/stream/4GEWJ4CBYD/177.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://ott.watch/stream/FIYMF6PFTC/177.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/mono.m3u8
-#EXTINF:-1 ,Investigation Discovery
-http://178.217.72.67:8080/ID_Xtra/index.m3u8
 #EXTINF:-1 ,TLC
-http://178.217.72.67:8080/TLC_Russia_HD/tracks-v1a1/mono.m3u8
+http://ott.watch/stream/CL33G5VQ7J/168.m3u8
 #EXTINF:-1 ,TLC
 http://ott.watch/stream/AL2IGQ5BRL/168.m3u8
 #EXTINF:-1 ,DocuBox
@@ -476,15 +474,15 @@ http://193.33.88.172/glazami_turista_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Поехали!
 http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
-http://178.217.72.67:8080/Animal_Planet_HD/index.m3u8
+http://ott.watch/stream/1JXX91ST6X/114.m3u8
 #EXTINF:-1 ,Animal Planet
 http://ott.watch/stream/92E5M63PAB/114.m3u8
 #EXTINF:-1 ,National Geographic
-http://178.217.72.67:8080/National_Geographic/index.m3u8
+http://ott.watch/stream/P1K6JIVS7K/116.m3u8
 #EXTINF:-1 ,National Geographic
 http://ott.watch/stream/5RM7IQPJQ6/116.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
-http://178.217.72.67:8080/Nat_Geo_Wild/index.m3u8
+http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://86.57.209.210/Ocean/index.m3u8
 #EXTINF:-1 ,History
@@ -528,7 +526,7 @@ http://46.8.46.14/ohota/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 http://river-3-346.rtbcdn.ru/stream/genetta-514.ost.rutube.ru/f_4G8sc7fnE7__85KTnhUg/1759393453/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
-http://178.217.72.67:8080/Dikiy/video.m3u8
+#
 #EXTINF:-1 ,Дикая Охота HD
 http://194.32.242.245/DikayaokhotaHD/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
@@ -538,7 +536,7 @@ http://194.32.242.245/DikayarybalkaHD/index.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
 http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
-http://178.217.72.67:8080/Dialogi_O_Rybalke/tracks-v1a1/mono.m3u8
+http://93.125.121.61:8383/play/a02g
 #EXTINF:-1 ,Prosto Fishing
 http://31.43.48.248:7000/ch344/video.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
@@ -614,7 +612,7 @@ http://87.120.142.11:18000/STSLove
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
-http://178.217.72.67:8080/Tayna/tracks-v1a1/mono.m3u8
+http://193.33.88.172/taina/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
@@ -638,7 +636,7 @@ http://195.158.223.132:8009/A2
 #EXTINF:-1 ,Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 ,Amedia Premium
-http://178.217.72.67:8080/Amedia_Premium_HD/index.m3u8
+http://193.33.88.172/amedia_premium_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TV21
 http://195.49.206.244:90/TV21/mono.m3u8?token=x21xx
 #EXTINF:-1 ,.black
@@ -686,7 +684,7 @@ http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 ,Наше любимое кино
 http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
-http://178.217.72.67:8080/Sony_Sci_Fi/index.m3u8
+http://109.200.130.123:7537/play/a033
 #EXTINF:-1 ,Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
 #EXTINF:-1 ,Русский детектив
@@ -728,11 +726,11 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
-http://178.217.72.67:8080/Eurosport_HD/video.m3u8
+http://ott.watch/stream/NQQU8FE81Y/176.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://ott.watch/stream/Y38DAV59L6/176.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://178.217.72.67:8080/Eurosport_2_HD/video.m3u8
+http://ott.watch/stream/RN6Q5CLKHL/192.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://ott.watch/stream/4JBWHT4S2W/192.m3u8
 #EXTINF:-1 ,Setanta Sports 1
