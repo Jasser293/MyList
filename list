@@ -408,9 +408,9 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 ,Food Time HD
 http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Food Time HD
-http://ott.watch/stream/VU68FJ2KRD/216.m3u8
+http://ott.watch/stream/3YX2B5XDM8/216.m3u8
 #EXTINF:-1 ,Food Time HD
-http://ott.watch/stream/L1D3487JLJ/216.m3u8
+http://ott.watch/stream/1BGA2F81PQ/216.m3u8
 #EXTINF:-1 ,Кухня
 http://95.66.188.74/Kuhnya/mono.m3u8
 #EXTINF:-1 ,Кухня
@@ -496,7 +496,11 @@ http://193.33.88.172/glazami_turista_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Поехали!
 http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
+http://ott.watch/stream/M22RLVMURZ/114.m3u8
+#EXTINF:-1 ,Animal Planet
 http://ott.watch/stream/2RP9XHS3AH/114.m3u8
+#EXTINF:-1 ,National Geographic
+http://ott.watch/stream/9MK2LTA38S/116.m3u8
 #EXTINF:-1 ,National Geographic
 http://ott.watch/stream/XKHQ41QURF/116.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
