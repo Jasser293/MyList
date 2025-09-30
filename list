@@ -510,7 +510,7 @@ http://185.78.112.17/ohotnik/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 #
 #EXTINF:-1 ,Дикий
-#
+http://195.64.140.147:10139/139
 #EXTINF:-1 ,Дикая Охота HD
 http://194.32.242.245/DikayaokhotaHD/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
@@ -726,17 +726,21 @@ http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://195.64.140.147:10114/114
 #EXTINF:-1 ,Eurosport 1
+http://87.246.54.249:8085/Eurosport/index.m3u8
+#EXTINF:-1 ,Eurosport 1
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://195.64.140.147:10115/115
 #EXTINF:-1 ,Eurosport 2
+http://87.246.54.249:8085/Eurosport2/index.m3u8
+#EXTINF:-1 ,Eurosport 2
 http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
-#
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 ,Setanta Sports 2
-#
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 #EXTINF:-1 ,Trace Sport Stars
@@ -747,6 +751,10 @@ http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=xvspx
 #EXTINF:-1 ,Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
+#EXTINF:-1 ,UDAR
+http://87.246.54.249:8085/UDAR/index.m3u8
+#EXTINF:-1 ,MMA-TV
+http://87.246.54.249:8085/MMATV/index.m3u8
 #EXTINF:-1 ,МАТЧ! Боец
 http://195.49.206.244:90/Boets/mono.m3u8?token=xboyx
 #EXTINF:-1 ,Extreme Sports
