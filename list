@@ -310,7 +310,7 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 ,ЦТВ
-#
+http://178.212.71.253:8000/play/41/index.m3u8
 #EXTINF:-1 ,Телекафе
 http://195.49.206.244:90/Telekafe/mono.m3u8?token=xkafx
 #EXTINF:-1 ,Телекафе
@@ -358,7 +358,7 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
 #EXTINF:-1 ,Загородный
-#
+http://95.66.188.74/Zagorodniy/mono.m3u8
 #EXTINF:-1 ,Загородный Int
 #
 #EXTINF:-1 ,Лапки Live
@@ -383,8 +383,6 @@ http://45.11.139.43:8555/doctor/index.m3u8
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
 http://185.78.112.17/eda_hd/index.m3u8
-#EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
-http://ott.watch/stream/1BGA2F81PQ/216.m3u8
 #EXTINF:-1 ,Кухня
 http://95.66.188.74/Kuhnya/mono.m3u8
 #EXTINF:-1 ,Кухня
@@ -448,23 +446,23 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Успех
 http://188.190.222.53/Uspeh/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-#
+http://195.64.140.147:10151/151
 #EXTINF:-1 ,Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/index.m3u8
 #EXTINF:-1 ,TLC
-#
+http://195.64.140.147:10137/137
 #EXTINF:-1 ,DocuBox
 http://188.190.222.53/DocuBOX/index.m3u8
 #EXTINF:-1 ,Приключения
 http://46.8.46.14/AdventureHD/index.m3u8
 #EXTINF:-1 ,Глазами туриста
-#
+http://93.125.121.61:8383/play/Intelsat85k1405
 #EXTINF:-1 ,Поехали!
 http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
-#
+http://87.246.54.249:8085/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,National Geographic
-#
+http://195.64.140.147:10153/153
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
@@ -726,13 +724,11 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
-http://ott.watch/stream/VD9H52GNG3/176.m3u8
-#EXTINF:-1 ,Eurosport 1
-http://ott.watch/stream/EMPGJ5B1IW/176.m3u8
+http://195.64.140.147:10114/114
 #EXTINF:-1 ,Eurosport 1
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-#
+http://195.64.140.147:10115/115
 #EXTINF:-1 ,Eurosport 2
 http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
@@ -740,9 +736,7 @@ http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 ,Setanta Sports 2
-http://ott.watch/stream/N55ARI3FXS/235.m3u8
-#EXTINF:-1 ,Setanta Sports 2
-http://ott.watch/stream/C1JR5RBY42/235.m3u8
+#
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 #EXTINF:-1 ,Trace Sport Stars
