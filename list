@@ -841,7 +841,7 @@ http://195.49.206.244:90/Mult/mono.m3u8?token=xmulx
 #EXTINF:-1 ,Карусель
 http://195.49.206.244:90/Karusel/mono.m3u8?token=xkarx
 #EXTINF:-1 ,Мультиландия
-#
+http://93.125.121.61:8383/play/a02j
 #EXTINF:-1 ,Gulli Girl
 http://213.230.65.254:8000/play/a027
 #EXTINF:-1 ,Пингвин ТВ
