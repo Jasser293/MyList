@@ -724,17 +724,21 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
+https://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 1
 http://195.64.140.147:10114/114
 #EXTINF:-1 ,Eurosport 1
 http://87.246.54.249:8085/Eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://185.189.225.157/EuroSport1/index.m3u8
+#http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 ,Eurosport 2
+https://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://195.64.140.147:10115/115
 #EXTINF:-1 ,Eurosport 2
 http://87.246.54.249:8085/Eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://185.189.225.157/EuroSport2/index.m3u8
+#http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
@@ -764,7 +768,7 @@ http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 ,Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,Матч! Премьер
-#
+http://193.111.244.35:7474/matchpremier/index.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! Арена
@@ -780,9 +784,13 @@ http://195.49.206.244:90/Futbol/mono.m3u8?token=xfutx
 #EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1HD/mono.m3u8?token=xfu1x
 #EXTINF:-1 ,Матч! Футбол 1
+http://193.111.244.35:7474/matchfut1hd/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 1
 http://195.49.206.244:90/Football_1/mono.m3u8?token=xff1x
 #EXTINF:-1 ,Матч! Футбол 2
 http://195.49.206.244:90/Football_2HD/mono.m3u8?token=xfu2x
+#EXTINF:-1 ,Матч! Футбол 2
+http://193.111.244.35:7474/matchfutbol2/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
 http://195.49.206.244:90/Football_3HD/mono.m3u8?token=xfu3x
 #EXTINF:-1 ,Матч! Футбол 3
