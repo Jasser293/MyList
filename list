@@ -730,15 +730,13 @@ http://195.64.140.147:10114/114
 #EXTINF:-1 ,Eurosport 1
 http://87.246.54.249:8085/Eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 1
-#http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 ,Eurosport 2
-https://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://195.64.140.147:10115/115
 #EXTINF:-1 ,Eurosport 2
 http://87.246.54.249:8085/Eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-#http://185.189.225.157/EuroSport2/index.m3u8
+http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
