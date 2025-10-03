@@ -740,14 +740,6 @@ http://213.252.199.137:8000/play/ch337_Evrosport_hd/index.m3u8
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://146.120.14.239:3001/play/a07b
-#EXTINF:-1 ,Eurosport 1
-http://195.64.140.147:10114/114
-#EXTINF:-1 ,Eurosport 1
-#http://87.246.54.249:8085/Eurosport/index.m3u8
-#EXTINF:-1 ,Eurosport 1
-#http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://195.64.140.147:10115/115
 #EXTINF:-1 ,Eurosport 2
 http://146.120.14.239:3001/play/a07c
 #EXTINF:-1 ,Eurosport 2
