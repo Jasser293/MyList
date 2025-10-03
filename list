@@ -4,7 +4,8 @@ http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
-https://streaming.televizor-24-tochka.ru/live/4.m3u8
+http://213.252.199.137:8000/play/ch303_Pervyj_kanal_Rossiya/index.m3u8
+#https://streaming.televizor-24-tochka.ru/live/4.m3u8
 #EXTINF:-1 ,Первый канал
 http://5.188.221.43:8080/play/ort
 #EXTINF:-1 ,Первый канал (+4)
@@ -181,6 +182,8 @@ http://112.72.4.71/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 http://138.201.67.145/2_super/index.m3u8
 #EXTINF:-1 ,Суббота
 http://195.49.206.244:90/Super/mono.m3u8?token=xsubx
+#EXTINF:-1 ,Че!
+http://213.252.199.137:8000/play/ch309_Che/index.m3u8
 #EXTINF:-1 ,Че!
 http://95.66.188.74/Che/index.m3u8
 #EXTINF:-1 ,Че!
@@ -442,6 +445,8 @@ http://195.49.206.244:90/Galaxy/mono.m3u8?token=xgalx
 #EXTINF:-1 ,Успех
 http://188.190.222.53/Uspeh/index.m3u8
 #EXTINF:-1 ,Discovery Channel
+http://213.252.199.137:8000/play/ch336_Diskoveri_kanal_Rossiya_hd/index.m3u8
+#EXTINF:-1 ,Discovery Channel
 http://195.64.140.147:10151/151
 #EXTINF:-1 ,Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/index.m3u8
@@ -458,13 +463,15 @@ http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
+http://213.252.199.137:8000/play/ch338_National_Geografic_hd/index.m3u8
+#EXTINF:-1 ,National Geographic
 http://195.64.140.147:10153/153
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://86.57.209.210/Ocean/index.m3u8
 #EXTINF:-1 ,History
-#
+http://213.252.199.137:8000/play/ch316_History_RUS_hd/index.m3u8
 #EXTINF:-1 ,История
 http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 ,Точка РФ
@@ -720,13 +727,15 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
+http://213.252.199.137:8000/play/ch337_Evrosport_hd/index.m3u8
+#EXTINF:-1 ,Eurosport 1
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://195.64.140.147:10114/114
 #EXTINF:-1 ,Eurosport 1
 http://87.246.54.249:8085/Eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://185.189.225.157/EuroSport1/index.m3u8
+#http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://195.64.140.147:10115/115
 #EXTINF:-1 ,Eurosport 2
@@ -761,6 +770,8 @@ http://185.46.48.18/match/mono.m3u8
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,Матч! Премьер
 http://193.111.244.35:7474/matchpremier/index.m3u8
+#EXTINF:-1 ,Матч! Премьер
+http://213.252.199.137:8000/play/ch312_Nash_Futbol/index.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! Арена
