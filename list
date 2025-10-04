@@ -347,7 +347,9 @@ https://streaming.goodstream.cyou/live/554-req_offset_28000000-req_window_0-4k_v
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
-http://river-1.rutube.ru/stream/genetta-522.ost.rutube.ru/lpUJUYVycorLG7bTy0-lVA/1760035950/3fa2aa4856bd59821ce68aa3d20a595d/720p_stream.m3u8
+http://195.26.83.96:7029/play/a003
+#EXTINF:-1 ,Соловьев.Live
+http://river-5-554.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/D2V9bH0mj3R22lq6dSh3bQ/1760197264/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 ,Усадьба
@@ -371,13 +373,13 @@ http://95.66.188.74/Zagorodniy/mono.m3u8
 #EXTINF:-1 ,Загородный Int
 #
 #EXTINF:-1 ,Лапки Live
-#
+http://91.194.191.241:8081/chid514/index.m3u8
 #EXTINF:-1 ,Rutube
-http://river-3-327.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/ElVLnqjzalw3qKolHZ9ZgQ/1760038013/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+http://river-3-327.rtbcdn.ru/stream/genetta-303.m9.rutube.ru/45LzZbCpaY0iak8jU5Grmg/1760197449/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
 http://95.47.156.60:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл ТВ
-http://river-5-523.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/dx4ZnIVXn-61y7FejqQcJA/1760038129/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-523.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/CyAm9XPfv8xzy5WGJCWyVQ/1760197502/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
 #EXTINF:-1 ,Доктор
@@ -535,6 +537,8 @@ http://185.78.112.17/ohotnik/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 #
 #EXTINF:-1 ,Дикий
+http://188.190.222.53/Dikiy/index.m3u8
+#EXTINF:-1 ,Дикий
 http://195.64.140.147:10139/139
 #EXTINF:-1 ,Дикая Охота HD
 http://194.32.242.245/DikayaokhotaHD/index.m3u8
@@ -619,7 +623,7 @@ http://87.120.142.11:18000/STSLove
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
-http://river-1.rutube.ru/stream/genetta-517.ost.rutube.ru/9qbc4El_P2_5MwYT8kx7Ww/1759859660/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-3-369.rtbcdn.ru/stream/genetta-517.ost.rutube.ru/qAvysu8MOwS6PomteuRK-A/1760197583/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
@@ -706,6 +710,8 @@ http://93.125.121.61:8383/play/a02t
 http://195.64.140.147:10093/93
 #EXTINF:-1 ,Русский детектив
 http://46.8.46.14/rudetektiv/index.m3u8
+#EXTINF:-1 ,Русский детектив
+http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Русский детектив
 http://185.78.112.17/rus-detective/index.m3u8
 #EXTINF:-1 ,Русский роман
