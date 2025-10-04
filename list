@@ -750,14 +750,10 @@ http://95.67.12.82:9046
 http://213.252.199.137:8000/play/ch337_Evrosport_hd/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Eurosport 1
-http://146.120.14.239:3001/play/a07b
-#EXTINF:-1 ,Eurosport 2
-http://146.120.14.239:3001/play/a07c
 #EXTINF:-1 ,Eurosport 2
 http://87.246.54.249:8085/Eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-#http://185.189.225.157/EuroSport2/index.m3u8
+http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2
