@@ -311,6 +311,8 @@ https://streaming102.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 ,ЦТВ
+http://91.194.191.241:8081/chid123/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ЦТВ
 http://178.212.71.253:8000/play/41/index.m3u8
 #EXTINF:-1 ,Телекафе
 http://195.49.206.244:90/Telekafe/mono.m3u8?token=xkafx
@@ -418,10 +420,12 @@ http://188.190.222.53/RTG_TV/index.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
 http://brodilo.tv/channel.php
+#EXTINF:-1 ,Кто куда
+http://91.194.191.241:8081/chid446/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кто есть кто
 http://195.64.140.147:10165/165
 #EXTINF:-1 ,Совершенно секретно
-#
+http://91.194.191.241:8081/chid432/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=xvopx
 #EXTINF:-1 ,Спас
