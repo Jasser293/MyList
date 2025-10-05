@@ -619,7 +619,9 @@ https://streaming102.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k
 #EXTINF:-1 ,КИНЕКО
 http://93.125.121.61:8383/play/a035
 #EXTINF:-1 ,Еврокино
-http://87.120.142.11:18000/STSLove
+http://195.49.206.244:90/Evrokino/mono.m3u8?token=xeukx
+#EXTINF:-1 ,Еврокино
+http://46.8.46.14/eurokino/index.m3u8
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
@@ -766,8 +768,6 @@ http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
-#EXTINF:-1 ,Trace Sport Stars
-http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 ,Конный мир
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 #EXTINF:-1 ,Viasat Sport
@@ -795,11 +795,11 @@ http://213.252.199.137:8000/play/ch312_Nash_Futbol/index.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 ,МАТЧ! Арена
-http://87.120.142.11:18000/Match!Arena
+http://185.78.112.17/arena_hd/index.m3u8
 #EXTINF:-1 ,МАТЧ! Игра
 http://195.49.206.244:90/Igra/mono.m3u8?token=xigrx
 #EXTINF:-1 ,МАТЧ! Игра
-http://87.120.142.11:18000/Match!Igra
+http://185.78.112.17/match_igra_hd/index.m3u8
 #EXTINF:-1 ,МАТЧ! Страна
 http://195.49.206.244:90/Strana/mono.m3u8?token=xstrx
 #EXTINF:-1 ,Футбол
