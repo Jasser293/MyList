@@ -19,7 +19,7 @@ http://89.106.234.5/1KanalEvraziya.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
-http://91.239.143.57:8080/NTV/index.m3u8
+http://95.47.156.60:8000/play/4/index.m3u8
 #EXTINF:-1 ,НТВ (+1)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/ntv1/mono.m3u8
@@ -228,8 +228,6 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v4a1/mono.m3u8
 #EXTINF:-1 ,Москва. Доверие
 http://195.49.206.244:90/Doverie/mono.m3u8?token=xdovx
-#EXTINF:-1 ,Москва. Доверие
-http://91.194.191.241:8081/chid145/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-name="открытый мир. здоровье" tvg-logo="https://i.imgur.com/7orZOJA.png" ,Открытый мир
 http://212.233.98.62/0mir/index.m3u8
 #EXTINF:-1 tvg-name="о!кино" ,О!Кино
@@ -339,7 +337,7 @@ http://92.62.149.2/drive/index.m3u8
 #EXTINF:-1 ,Драйв
 http://95.66.188.74/Drive/mono.m3u8
 #EXTINF:-1 ,Мужской
-http://195.158.223.132:8009/Muzhskoy
+http://91.194.191.241:8081/chid120/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,RT Doc
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 ,RT Doc
@@ -481,7 +479,7 @@ http://195.64.140.147:10137/137
 #EXTINF:-1 ,DocuBox
 http://188.190.222.53/DocuBOX/index.m3u8
 #EXTINF:-1 ,Приключения
-http://46.8.46.14/AdventureHD/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid142/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -511,7 +509,7 @@ http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 ,Домашние животные
 http://195.49.206.244:90/domashnie_zhivotnye/mono.m3u8?token=xdxzx
 #EXTINF:-1 ,Zooпарк
-http://46.8.46.14/zoo/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=zoo
 #EXTINF:-1 ,One planet
 http://95.67.12.82:9088
 #EXTINF:-1 ,Continent E
@@ -519,23 +517,21 @@ http://95.67.12.82:9083
 #EXTINF:-1 ,Наука
 http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 ,Viasat History
-http://195.158.223.132:8001/Viju_History
+http://91.194.191.241:8081/chid105/mono.m3u8
 #EXTINF:-1 ,Viasat History
 http://vod.splay.uz/live_splay/original/Viasat_History/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://195.49.206.244:90/Nature/mono.m3u8?token=xnatx
 #EXTINF:-1 ,Viasat Nature
-http://195.158.223.132:8001/Viju_Nature
+http://192.162.64.99:5000/play/a02p/index.m3u8
 #EXTINF:-1 ,Viasat Explore
 http://195.49.206.244:90/Explorer/mono.m3u8?token=xexpx
 #EXTINF:-1 ,Viasat Explore
-http://195.158.223.132:8001/Viju_Explore
+http://192.162.64.99:5000/play/a02o/index.m3u8
 #EXTINF:-1 ,Наша Тема
 http://217.21.34.160:38003/nashatema/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://213.169.39.30:5262
-#EXTINF:-1 ,Охотник и рыболов
-http://46.8.46.14/ohota/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов
 http://46.8.46.14/ohota/index.m3u8
 #EXTINF:-1 ,Рыболов
@@ -627,7 +623,7 @@ http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
 #EXTINF:-1 ,Еврокино
 http://195.49.206.244:90/Evrokino/mono.m3u8?token=xeukx
 #EXTINF:-1 ,Еврокино
-http://46.8.46.14/eurokino/index.m3u8
+http://188.190.222.53/Evrokino/index.m3u8
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
@@ -693,7 +689,7 @@ http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 ,Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
-http://195.158.223.132:8011/Indiya
+http://91.194.191.241:8081/chid139/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TimelessDiziChannel.ru" tvg-name="timeless dizi channel" tvg-logo="https://i.imgur.com/s3Sqd4L.png" ,Dizi
 http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 ,Комедия
