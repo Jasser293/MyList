@@ -480,6 +480,8 @@ http://146.120.14.239:3001/play/a06x
 http://195.64.140.147:10137/137
 #EXTINF:-1 ,DocuBox
 http://188.190.222.53/DocuBOX/index.m3u8
+#EXTINF:-1 ,Big Planet
+http://213.252.199.137:8000/play/ch358_Nat_Geo_Wild_RU/index.m3u8
 #EXTINF:-1 ,Приключения
 http://tvip.btk.teleos.ru:8081/chid142/index.m3u8
 #EXTINF:-1 ,Поехали!
