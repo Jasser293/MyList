@@ -14,7 +14,7 @@ http://81.211.33.68/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:-1 ,Первый канал Евразия
-http://89.106.234.5/1KanalEvraziya.m3u8
+#http://89.106.234.5/1KanalEvraziya.m3u8
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
@@ -467,8 +467,6 @@ http://188.190.222.53/Uspeh/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://213.252.199.137:8000/play/ch336_Diskoveri_kanal_Rossiya_hd/index.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://176.96.241.40/DiscoveryChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Discovery Channel
 http://146.120.14.239:3001/play/a06y
 #EXTINF:-1 ,Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/index.m3u8
@@ -490,8 +488,6 @@ http://95.66.188.74/Poehali/index.m3u8
 http://87.246.54.249:8085/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Animal Planet
 http://146.120.14.239:3001/play/a06z
-#EXTINF:-1 ,Animal Planet
-http://176.96.241.40/AnimalPlanet/index.m3u8
 #EXTINF:-1 ,National Geographic
 http://213.252.199.137:8000/play/ch338_National_Geografic_hd/index.m3u8
 #EXTINF:-1 ,National Geographic
@@ -768,8 +764,6 @@ http://95.67.12.82:9046
 http://213.252.199.137:8000/play/ch337_Evrosport_hd/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://192.162.64.99:5000/play/a01j/index.m3u8
-#EXTINF:-1 ,Eurosport 1
-http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
