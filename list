@@ -4,7 +4,7 @@ http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
-http://95.66.188.74/PerviyKanal/mono.m3u8
+http://95.66.188.74/PerviyHD/mono.m3u8
 #https://streaming.televizor-24-tochka.ru/live/4.m3u8
 #EXTINF:-1 ,Первый канал
 http://5.188.221.43:8080/play/ort
