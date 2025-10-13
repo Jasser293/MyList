@@ -4,7 +4,8 @@ http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
-https://streaming.televizor-24-tochka.ru/live/4.m3u8
+http://95.66.188.74/PerviyKanal/mono.m3u8
+#https://streaming.televizor-24-tochka.ru/live/4.m3u8
 #EXTINF:-1 ,Первый канал
 http://5.188.221.43:8080/play/ort
 #EXTINF:-1 ,Первый канал (+4)
@@ -80,7 +81,8 @@ http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=xrenx
 #EXTINF:-1 ,Рен ТВ
-https://streaming.televizor-24-tochka.ru/live/14-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://95.66.188.74/RenTV/mono.m3u8
+#https://streaming.televizor-24-tochka.ru/live/14-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+4)
@@ -347,6 +349,8 @@ http://91.194.191.241:8081/chid120/tracks-v1a1/mono.m3u8
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 ,RT Doc
 https://streaming.goodstream.cyou/live/554-req_offset_28000000-req_window_0-4k_v5.m3u8
+#EXTINF:-1 ,RT Doc
+http://192.162.64.99:5200/play/a042/index.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
@@ -624,7 +628,7 @@ http://188.190.222.53/Evrokino/index.m3u8
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
-http://river-3-369.rtbcdn.ru/stream/genetta-517.ost.rutube.ru/fHbtRXsG6FYBYPcgXxEOlw/1760848945/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://192.162.64.99:5200/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
