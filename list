@@ -666,6 +666,8 @@ http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://46.8.46.14/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
+http://87.246.54.249:8085/KinoHit/mpegts
+#EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=xknhx
 #EXTINF:-1 ,Кино ТВ
 http://94.230.250.140/kinotv/tracks-v1a1/mono.m3u8
