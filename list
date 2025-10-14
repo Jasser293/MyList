@@ -844,7 +844,7 @@ http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 ,Da Vinci
 http://195.49.206.244:90/DaVinci/mono.m3u8?token=xvinx
 #EXTINF:-1 ,Nickelodeon
-http://46.8.46.14/Nickelodeon/index.m3u8
+http://91.194.191.241:8081/chid401/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Мультимания
 http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Супер Герои
