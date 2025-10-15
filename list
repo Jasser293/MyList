@@ -402,9 +402,11 @@ http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
 #EXTINF:-1 ,Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 ,Доктор
-http://185.46.16.239:8000/Doktor
+http://91.194.191.241:8081/chid117/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Доктор
-http://45.11.139.43:8555/doctor/index.m3u8
+http://185.46.16.239:8000/Doktor
+#EXTINF:-1 ,Психология
+http://91.194.191.241:8081/chid162/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Живи
 http://46.8.46.14/zhivi/index.m3u8
 #EXTINF:-1 ,World Fashion Channel
