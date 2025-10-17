@@ -212,7 +212,6 @@ http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
 http://95.66.188.74/U/index.m3u8
 #EXTINF:-1 ,Москва 24
 http://194.32.242.245/moskva24/index.m3u8
-http://91.194.191.241:8081/chid48/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Запад 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="крым 24" tvg-logo="https://i.imgur.com/k4C0uvp.png" ,Крым 24
@@ -256,9 +255,6 @@ http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 ,Неизвестная Россия
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/unknown_russia/mono.m3u8
-#EXTINF:-1 tvg-id="SvoyoTV.ru" tvg-name="своё тв" tvg-logo="https://i.imgur.com/3cP2fmX.png" ,Своё ТВ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 ,Время
@@ -840,7 +836,8 @@ http://213.108.175.226/astrakhanrusporthd/playlist.m3u8
 http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 ,Billiard TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+http://tinyurl.com/nmmp5b39
+#http://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:0 ,A21 Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://185.105.117.51/content/37909/index.m3u8
