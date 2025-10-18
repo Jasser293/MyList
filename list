@@ -299,8 +299,6 @@ https://luch.iptv2022.com/tracks-v1a1/mono.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-name="мегаполис тв (нижневартовск)" ,Мегаполис ТВ
 http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="OSN.ru" tvg-name="осн тв" ,ОСН ТВ
-http://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 #EXTINF:-1 ,Эхо ТВ
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 ,ТОЛК
@@ -312,7 +310,7 @@ http://95.66.188.74/Oruzhie/index.m3u8
 #EXTINF:-1 ,Оружие
 http://46.8.46.14/Oruzhie/index.m3u8
 #EXTINF:-1 ,Оружие
-http://45.143.108.110:4200/orujie
+http://91.192.80.90/oruzhie/mpegts?token=exximpiw
 #EXTINF:-1 ,Победа
 http://95.66.188.74/Pobeda/mono.m3u8
 #EXTINF:-1 ,Победа
@@ -498,7 +496,7 @@ http://tvip.btk.teleos.ru:8081/chid142/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
-http://87.246.54.249:8085/AnimalPlanet/tracks-v1a2/mono.m3u8
+http://91.192.80.90/animal-planet/mpegts?token=exximpiw
 #EXTINF:-1 ,Animal Planet
 http://146.120.14.239:3001/play/a06z
 #EXTINF:-1 ,National Geographic
@@ -677,7 +675,8 @@ http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://46.8.46.14/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
-http://87.246.54.249:8085/KinoHit/mpegts
+http://192.162.64.99:5100/play/a027/index.m3u8
+#http://87.246.54.249:8085/KinoHit/mpegts
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=xknhx
 #EXTINF:-1 ,Кино ТВ
@@ -778,7 +777,6 @@ http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 http://192.162.64.99:5000/play/a035/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://91.192.80.90/eurosport2/mpegts?token=exximpiw
-#http://87.246.54.249:8085/Eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
@@ -901,5 +899,3 @@ http://85.192.10.173/MamontRu/mono.m3u8
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 ,TV Jūrmala
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
-#EXTINF:-1 ,TBN BALTIA
-http://195.250.177.210:8088/dvr/tracks-v1a1/rewind-21600.m3u8
