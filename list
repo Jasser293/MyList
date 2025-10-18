@@ -358,7 +358,7 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 ,Соловьев.Live
 http://195.26.83.96:7029/play/a003
 #EXTINF:-1 ,Соловьев.Live
-http://river-5-554.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/1cw6ZzzOTD3AtkJWg3dzqw/1761135900/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
+http://river-5-554.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/dR0P_Gvi-dtAc2aH9R8X8w/1761380812/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 ,Усадьба
@@ -380,17 +380,17 @@ http://195.49.206.244:90/zagorodnaya_zhizn/mono.m3u8?token=xzazx
 #EXTINF:-1 ,Загородный
 http://95.66.188.74/Zagorodniy/mono.m3u8
 #EXTINF:-1 ,Загородный Int
-http://river-4-421.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/JSmO4hurq8tRwRj4jT3edA/1761135942/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+http://river-4-421.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/pnkz-RNCCO_46UCXZHjzjw/1761380889/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.194.191.241:8081/chid514/index.m3u8
 #EXTINF:-1 ,Лапки Live
 http://45.145.32.13:20440/unikum/index.m3u8?token=test
 #EXTINF:-1 ,Rutube
-http://river-3-327.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/5mv9SsPWdQCdF9v8AOW5pQ/1761135783/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+http://river-3-327.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/yFH06K2C-ARqTMX4cTcR_g/1761380944/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
 http://95.47.156.60:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл ТВ
-http://river-5-523.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/j7qgq9Tz0fT-aNL8ST1qcA/1761135853/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-523.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/pMG_GKUb7F8dzfF_9MbgCg/1761381000/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
 #EXTINF:-1 ,Доктор
@@ -546,7 +546,7 @@ http://213.169.39.30:5262
 #EXTINF:-1 ,Охотник и рыболов
 http://46.8.46.14/ohota/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-346.rtbcdn.ru/stream/genetta-518.ost.rutube.ru/vmq12tUE8aLQAcAYY-1O7g/1761135981/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+http://river-3-346.rtbcdn.ru/stream/genetta-518.ost.rutube.ru/9lI-1tyYwUZPCleC7c30Mw/1761381042/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://188.190.222.53/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикий
