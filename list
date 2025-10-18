@@ -8,6 +8,8 @@ http://95.66.188.74/PerviyHD/mono.m3u8
 #https://streaming.televizor-24-tochka.ru/live/4.m3u8
 #EXTINF:-1 ,Первый канал
 http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Первый канал (+2)
+http://195.158.223.132:8000/Perviy_kanal
 #EXTINF:-1 ,Первый канал (+4)
 http://81.211.33.68/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,Первый канал Европа
