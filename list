@@ -501,6 +501,10 @@ http://91.192.80.90/animal-planet/mpegts?token=exximpiw
 http://146.120.14.239:3001/play/a06z
 #EXTINF:-1 ,National Geographic
 http://195.64.140.147:10153/153
+#EXTINF:-1 ,National Geographic
+http://91.192.80.90/nat-geo/mpegts?token=exximpiw
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
+http://91.192.80.90/nat-geo-wild/mpegts?token=exximpiw
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://91.194.191.241:8081/chid112/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
