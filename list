@@ -96,7 +96,7 @@ http://195.49.206.244:90/TVC/mono.m3u8?token=xtvcx
 #EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
-https://streaming.televizor-24-tochka.ru/live/13-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://185.71.81.6:8080/10/index.m3u8
 #EXTINF:-1 ,ТВЦ (+4)
 http://91.194.191.241:8081/chid444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -184,14 +184,12 @@ http://195.49.206.244:90/Domashni/mono.m3u8?token=xdomx
 http://188.190.222.53/Domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
 http://185.46.16.239:8000/Domashniy
-#EXTINF:-1 ,Домашний
-https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Пятница
 http://195.49.206.244:90/Pyatnica/mono.m3u8?token=xx5xx
 #EXTINF:-1 ,Пятница
 http://95.66.188.74/Pyatnica/mono.m3u8
 #EXTINF:-1 ,Пятница
-https://streaming.televizor-24-tochka.ru/live/19-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://95.47.156.60:8000/play/16/index.m3u8
 #EXTINF:-1 ,Пятница (+2)
 http://94.230.128.107:8080/Friday/index.m3u8
 #EXTINF:-1 ,Пятница (+4)
