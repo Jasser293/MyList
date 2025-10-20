@@ -418,7 +418,7 @@ http://95.66.188.74/Kuhnya/mono.m3u8
 #EXTINF:-1 ,Кухня
 http://46.8.46.14/kuhnya/index.m3u8
 #EXTINF:-1 ,Аппетитный
-#
+http://185.223.125.136:7000/HDL
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,Первый вегетарианский
@@ -778,6 +778,8 @@ http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://192.162.64.99:5000/play/a01j/index.m3u8
 #EXTINF:-1 ,Eurosport 1
+http://185.223.125.136:7000/eurosport
+#EXTINF:-1 ,Eurosport 1
 http://91.192.80.90/eurosport/mpegts?token=exximpiw
 #EXTINF:-1 ,Eurosport 1
 http://87.76.32.36:8001/eurosport1hd
@@ -785,9 +787,11 @@ http://87.76.32.36:8001/eurosport1hd
 #EXTINF:-1 ,Eurosport 2
 http://192.162.64.99:5000/play/a035/index.m3u8
 #EXTINF:-1 ,Eurosport 2
+http://185.223.125.136:7000/eurosport2
+#EXTINF:-1 ,Eurosport 2
 http://91.192.80.90/eurosport2/mpegts?token=exximpiw
 #EXTINF:-1 ,Eurosport 2
-http://185.189.225.157/EuroSport2/index.m3u8
+#http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2
