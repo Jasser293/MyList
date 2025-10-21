@@ -211,7 +211,7 @@ http://195.49.206.244:90/U/mono.m3u8?token=xyuxx
 #EXTINF:-1 ,Ю
 http://95.66.188.74/U/index.m3u8
 #EXTINF:-1 ,Москва 24
-http://194.32.242.245/moskva24/index.m3u8
+http://195.158.223.132:8009/Moskva_24
 #EXTINF:-1 ,Запад 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="крым 24" tvg-logo="https://i.imgur.com/k4C0uvp.png" ,Крым 24
