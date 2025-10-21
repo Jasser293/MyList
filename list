@@ -482,17 +482,20 @@ http://195.49.206.244:90/Galaxy/mono.m3u8?token=xgalx
 #EXTINF:-1 ,Успех
 http://188.190.222.53/Uspeh/index.m3u8
 #EXTINF:-1 ,Discovery Channel
+http://94.232.127.28:8080/discovery-east/tracks-v1a2/mono.m3u8
+#EXTINF:-1 ,Discovery Channel
 http://91.192.80.90/discovery/mpegts?token=exximpiw
 #EXTINF:-1 ,Discovery Channel
 http://146.120.14.239:3001/play/a06y
 #EXTINF:-1 ,Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/index.m3u8
 #EXTINF:-1 ,Investigation Discovery
-http://146.120.14.239:3001/play/a06x
+http://94.232.127.28:8080/idxtra/tracks-v1a2/mono.m3u8
+#http://146.120.14.239:3001/play/a06x
+#EXTINF:-1 ,TLC
+http://94.232.127.28:8080/tlc/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,TLC
 http://91.192.80.90/tlc/mpegts?token=exximpiw
-#EXTINF:-1 ,TLC
-http://195.64.140.147:10137/137
 #EXTINF:-1 ,DocuBox
 http://188.190.222.53/DocuBOX/index.m3u8
 #EXTINF:-1 ,Приключения
@@ -500,9 +503,10 @@ http://tvip.btk.teleos.ru:8081/chid142/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
-http://91.192.80.90/animal-planet/mpegts?token=exximpiw
+http://94.232.127.28:8080/animalplanethd/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Animal Planet
-http://146.120.14.239:3001/play/a06z
+http://91.192.80.90/animal-planet/mpegts?token=exximpiw
+#http://146.120.14.239:3001/play/a06z
 #EXTINF:-1 ,National Geographic
 http://195.64.140.147:10153/153
 #EXTINF:-1 ,National Geographic
@@ -777,6 +781,8 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://192.162.64.99:5000/play/a01j/index.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://185.78.112.47:8077/Eurosport1HD/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://185.223.125.136:7000/eurosport
 #EXTINF:-1 ,Eurosport 1
