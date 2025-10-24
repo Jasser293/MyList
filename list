@@ -340,8 +340,6 @@ http://92.62.149.2/auto_24/index.m3u8
 http://92.62.149.2/auto_plus/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://46.8.46.14/avtoplus/index.m3u8
-#EXTINF:-1 ,Авто плюс
-http://87.246.54.249:8085/AvtoPlus/index.m3u8
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=drive
 #EXTINF:-1 ,Драйв
