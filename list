@@ -40,7 +40,7 @@ https://streaming.goodstream.cyou/live/213.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Зал суда
-http://192.162.64.99:5000/play/a02n/index.m3u8
+#
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -79,7 +79,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 ,Рен ТВ
-http://192.162.64.99:4000/play/a00q/index.m3u8
+http://139.28.255.188:8080/rentv/index.m3u8
 #http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=xrenx
@@ -353,7 +353,7 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 ,RT Doc
 https://streaming.goodstream.cyou/live/554-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 ,RT Doc
-http://192.162.64.99:5200/play/a042/index.m3u8
+http://217.25.80.16/rtd_hd/mono.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
@@ -423,7 +423,7 @@ http://185.223.125.136:7000/HDL
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,Первый вегетарианский
-http://192.162.64.99:5000/play/a03e/index.m3u8
+#
 #EXTINF:-1 ,UNIVER TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 ,Точка Отрыва
@@ -475,7 +475,7 @@ http://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
 #EXTINF:-1 ,Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
 #EXTINF:-1 ,TERRA
-http://192.162.64.99:5000/play/a037/index.m3u8
+http://178.217.72.72/TERRA_HD/index.m3u8
 #EXTINF:-1 ,TERRA
 http://92.62.149.2/national_geo_hd/index.m3u8
 #EXTINF:-1 ,Galaxy
@@ -547,11 +547,11 @@ http://vod.splay.uz/live_splay/original/Viasat_History/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://195.49.206.244:90/Nature/mono.m3u8?token=xnatx
 #EXTINF:-1 ,Viasat Nature
-http://192.162.64.99:5000/play/a02p/index.m3u8
+http://217.25.80.16/Viasat_Nature/mono.m3u8
 #EXTINF:-1 ,Viasat Explore
 http://195.49.206.244:90/Explorer/mono.m3u8?token=xexpx
 #EXTINF:-1 ,Viasat Explore
-http://192.162.64.99:5000/play/a02o/index.m3u8
+http://217.25.80.16/Viasat_Explorer/mono.m3u8
 #EXTINF:-1 ,Наша Тема
 http://217.21.34.160:38003/nashatema/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -565,15 +565,13 @@ http://188.190.222.53/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикий
 http://195.64.140.147:10139/139
 #EXTINF:-1 ,Дикая Охота HD
-http://192.162.64.99:5000/play/a03a/index.m3u8
+http://194.32.242.245/DikayaokhotaHD/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
 http://217.21.34.160:38007/dikayaohotahd/index.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
-http://192.162.64.99:5000/play/a039/index.m3u8
-#EXTINF:-1 ,Дикая рыбалка HD
-http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
+http://194.32.242.245/DikayarybalkaHD/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
-http://192.162.64.99:5000/play/a03b/index.m3u8
+http://217.25.80.16/Dialogi_o_ribalke/mono.m3u8
 #EXTINF:-1 ,Prosto Fishing
 http://31.43.48.248:7000/ch344/video.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
@@ -650,7 +648,7 @@ http://188.190.222.53/Evrokino/index.m3u8
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
-http://192.162.64.99:5200/play/a041/index.m3u8
+http://river-3-369.rtbcdn.ru/stream/genetta-517.ost.rutube.ru/6Qkc7KrhOQzBTfbymIlJrQ/1762059734/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
@@ -690,8 +688,9 @@ http://178.217.72.72/BCUVHSHD/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://46.8.46.14/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
-http://192.162.64.99:5100/play/a027/index.m3u8
-#http://87.246.54.249:8085/KinoHit/mpegts
+http://178.217.72.72/Kinokhit/index.m3u8
+#EXTINF:-1 ,Кинохит
+http://87.246.54.249:8085/KinoHit/mpegts
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=xknhx
 #EXTINF:-1 ,Кино ТВ
@@ -783,7 +782,7 @@ http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
-http://192.162.64.99:5000/play/a01j/index.m3u8
+http://178.217.72.72/Eurosport_HD/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://185.78.112.47:8077/Eurosport1HD/index.m3u8
 #EXTINF:-1 ,Eurosport 1
@@ -793,8 +792,6 @@ http://91.192.80.90/eurosport/mpegts?token=exximpiw
 #EXTINF:-1 ,Eurosport 1
 http://87.76.32.36:8001/eurosport1hd
 #http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://192.162.64.99:5000/play/a035/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://185.223.125.136:7000/eurosport2
 #EXTINF:-1 ,Eurosport 2
@@ -820,7 +817,7 @@ http://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! Боец
 http://195.49.206.244:90/Boets/mono.m3u8?token=xboyx
 #EXTINF:-1 ,Extreme Sports
-http://192.162.64.99:5000/play/a02f/index.m3u8
+http://217.25.80.16/Extreme_Sport/mono.m3u8
 #EXTINF:-1 ,Матч!
 http://92.62.149.2/match_hd/index.m3u8
 #EXTINF:-1 ,Матч!
