@@ -224,7 +224,9 @@ https://edge50.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 ,ОНТ
 https://edge50.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 ,Беларусь 1
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b1010000_sleng.m3u8
+http://194.158.222.36:6101
+#EXTINF:-1 ,Беларусь 2
+http://50.7.28.226/8302/index.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://195.49.206.244:90/Belarus24/mono.m3u8?token=xbelx
 #EXTINF:-1 ,БелРос
@@ -809,6 +811,8 @@ http://91.192.80.90/eurosport2/mpegts?token=exximpiw
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Беларусь 5
+http://194.158.222.36:6109
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 #EXTINF:-1 ,Конный мир
