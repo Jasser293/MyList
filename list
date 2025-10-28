@@ -389,7 +389,7 @@ http://91.194.191.241:8081/chid514/index.m3u8
 #EXTINF:-1 ,Лапки Live
 http://45.145.32.13:20440/unikum/index.m3u8?token=test
 #EXTINF:-1 ,Rutube
-http://river-3-327.rtbcdn.ru/stream/genetta-519.ost.rutube.ru/Z1PQqkWl_jv_Mxch6PCg3w/1762075227/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+http://river-3-327.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/-SxXGW0Lz9qA9-jEgKEIVA/1762248529/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
 http://95.47.156.60:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл ТВ
@@ -578,6 +578,8 @@ http://195.64.140.147:10139/139
 http://194.32.242.245/DikayaokhotaHD/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
 http://217.21.34.160:38007/dikayaohotahd/index.m3u8
+#EXTINF:-1 ,Дикая рыбалка HD
+http://146.120.14.239:3001/play/a0jk
 #EXTINF:-1 ,Дикая рыбалка HD
 http://194.32.242.245/DikayarybalkaHD/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
