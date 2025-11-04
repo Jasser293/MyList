@@ -13,7 +13,7 @@ http://flussonic.salomtv.uz/perviy_kanal/video.m3u8
 #EXTINF:-1 ,Первый канал (+4)
 http://81.211.33.68/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,Первый канал Европа
-http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8
+http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал Евразия
 #http://89.106.234.5/1KanalEvraziya.m3u8
 #EXTINF:-1 ,НТВ
