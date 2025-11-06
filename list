@@ -2,10 +2,11 @@
 #EXTINF:-1 ,Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
+http://50.7.28.226/8150/index.m3u8
+#EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://95.66.188.74/PerviyHD/mono.m3u8
-#https://streaming.televizor-24-tochka.ru/live/4.m3u8
 #EXTINF:-1 ,Первый канал
 http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал (+2)
@@ -14,8 +15,6 @@ http://flussonic.salomtv.uz/perviy_kanal/video.m3u8
 http://81.211.33.68/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 ,Первый канал Европа
 http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Первый канал Евразия
-#http://89.106.234.5/1KanalEvraziya.m3u8
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
@@ -38,8 +37,6 @@ https://streaming.goodstream.cyou/live/213.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Зал суда
-#
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -84,7 +81,6 @@ http://139.28.255.188:8080/rentv/index.m3u8
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=xrenx
 #EXTINF:-1 ,Рен ТВ
 http://95.66.188.74/RenTV/mono.m3u8
-#https://streaming.televizor-24-tochka.ru/live/14-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+4)
@@ -105,7 +101,6 @@ http://188.190.222.53/5_kanal/index.m3u8
 http://95.47.156.60:8000/play/5/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://95.66.188.74/5kanal/mono.m3u8
-#https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -128,7 +123,6 @@ http://195.49.206.244:90/TNT/mono.m3u8?token=xtntx
 http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 ,ТНТ
 http://185.46.16.239:8000/TNT
-#https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ (+4)
@@ -171,7 +165,6 @@ http://95.66.188.74/CTC_Love/mono.m3u8
 http://195.49.206.244:90/TV_3/mono.m3u8?token=xtv3x
 #EXTINF:-1 ,ТВ3
 http://95.66.188.74/TV3/mono.m3u8
-#https://streaming.televizor-24-tochka.ru/live/18-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,ТВ3
 http://185.46.16.239:8000/TV3
 #EXTINF:-1 ,ТВ3 (+2)
@@ -360,8 +353,8 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 ,Соловьев.Live
 http://195.26.83.96:7029/play/a003
 #EXTINF:-1 ,Соловьев.Live
-http://river-5-554.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/e58hUaluZN3B69vh9SNz5A/1762766877/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8#EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
-#http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+http://river-5-554.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/Ha_qwU1CqPy1BLOk52OA1w/1763051823/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
+#EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 #EXTINF:-1 ,Усадьба
 http://195.49.206.244:90/Usadba/mono.m3u8?token=xusax
 #EXTINF:-1 ,Усадьба
@@ -381,17 +374,17 @@ http://195.49.206.244:90/zagorodnaya_zhizn/mono.m3u8?token=xzazx
 #EXTINF:-1 ,Загородный
 http://95.66.188.74/Zagorodniy/mono.m3u8
 #EXTINF:-1 ,Загородный Int
-http://river-4-421.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/eh5tOwQUX6rnoxVCb3GdxQ/1762766949/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+http://river-4-421.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/9qw11eDCSaUmti8Q95HWxQ/1763051869/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.194.191.241:8081/chid514/index.m3u8
 #EXTINF:-1 ,Лапки Live
 http://45.145.32.13:20440/unikum/index.m3u8?token=test
 #EXTINF:-1 ,Rutube
-https://river-3-327.rtbcdn.ru/stream/genetta-326.m9.rutube.ru/izvCeI9qB_oON_LAliWcsQ/1763025838/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+http://river-3-327.rtbcdn.ru/stream/genetta-326.m9.rutube.ru/-SYr6EzuQ16Z-qHF5Yobyg/1763051910/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
 http://95.47.156.60:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл ТВ
-http://river-5-523.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/c3laFz98a7r86Mz8GomazA/1762767028/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-523.rtbcdn.ru/stream/genetta-524.ost.rutube.ru/V30lWJp2niyaff5nPZb9sQ/1763051958/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
 #EXTINF:-1 ,Доктор
@@ -423,7 +416,7 @@ http://185.223.125.136:7000/HDL
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,Первый вегетарианский
-#
+http://178.217.72.72/Pervyy_Vegetarianskiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,UNIVER TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 ,Точка Отрыва
@@ -555,7 +548,7 @@ http://213.169.39.30:5262
 #EXTINF:-1 ,Охотник и рыболов
 http://46.8.46.14/ohota/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-346.rtbcdn.ru/stream/genetta-518.ost.rutube.ru/_-vTep0SQQp9kriNyRcFzA/1762767062/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+http://river-3-346.rtbcdn.ru/stream/genetta-518.ost.rutube.ru/1ZuOwuBFekU350fZfYnpEw/1763052010/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
@@ -642,7 +635,7 @@ http://188.190.222.53/Evrokino/index.m3u8
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
-https://river-3-369.rtbcdn.ru/stream/genetta-517.ost.rutube.ru/h-T-cRmNsJSnZe4j8oqvAw/1762767098/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-3-369.rtbcdn.ru/stream/genetta-517.ost.rutube.ru/ueZHrF3SjqKjvJPcVbEqRA/1763052061/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
