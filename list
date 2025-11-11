@@ -216,8 +216,6 @@ https://edge50.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 ,ОНТ
 https://edge50.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 ,Беларусь 1
-http://194.158.222.36:6101
-#EXTINF:-1 ,Беларусь 1
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 ,Беларусь 2
 http://50.7.28.226/8302/index.m3u8
@@ -347,11 +345,11 @@ http://95.66.188.74/Drive/mono.m3u8
 #EXTINF:-1 ,Мужской
 http://91.194.191.241:8081/chid120/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,RT Doc
+http://194.143.148.28:8080/RTD_HD/mpegts
+#EXTINF:-1 ,RT Doc
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 ,RT Doc
 https://streaming.goodstream.cyou/live/554-req_offset_28000000-req_window_0-4k_v5.m3u8
-#EXTINF:-1 ,RT Doc
-http://217.25.80.16/rtd_hd/mono.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
@@ -541,11 +539,11 @@ http://vod.splay.uz/live_splay/original/Viasat_History/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://195.49.206.244:90/Nature/mono.m3u8?token=xnatx
 #EXTINF:-1 ,Viasat Nature
-http://217.25.80.16/Viasat_Nature/mono.m3u8
+http://91.194.191.241:8081/chid428/mono.m3u8
 #EXTINF:-1 ,Viasat Explore
 http://195.49.206.244:90/Explorer/mono.m3u8?token=xexpx
 #EXTINF:-1 ,Viasat Explore
-http://217.25.80.16/Viasat_Explorer/mono.m3u8
+http://188.190.222.53/Viasat_Explore/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Наша Тема
 http://188.190.222.53/Nasha_tema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -563,7 +561,7 @@ http://194.32.242.245/DikayaokhotaHD/index.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
 http://194.32.242.245/DikayarybalkaHD/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
-http://217.25.80.16/Dialogi_o_ribalke/mono.m3u8
+http://178.217.72.72/Dialogi_O_Rybalke/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Prosto Fishing
 http://31.43.48.248:7000/ch344/video.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
@@ -802,8 +800,6 @@ http://91.192.80.90/eurosport2/mpegts?token=exximpiw
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Беларусь 5
-http://194.158.222.36:6109
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 #EXTINF:-1 ,Конный мир
@@ -819,7 +815,7 @@ http://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! Боец
 http://195.49.206.244:90/Boets/mono.m3u8?token=xboyx
 #EXTINF:-1 ,Extreme Sports
-http://217.25.80.16/Extreme_Sport/mono.m3u8
+http://178.217.72.72/Extreme_Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Матч!
 http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 ,Матч!
