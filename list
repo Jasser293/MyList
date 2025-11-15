@@ -331,9 +331,11 @@ http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1 ,Сарафан
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=xsarx
 #EXTINF:-1 ,Сарафан
-http://91.194.191.241:8081/chid39/tracks-v1a1/mono.m3u8
+http://91.194.191.241:8081/chid39/tracks-v1a1/monф
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=xautx
+#EXTINF:-1 ,АВТО 24
+http://185.223.125.136:8005/a24
 #EXTINF:-1 ,АВТО 24
 http://195.158.223.132:8005/Avto_24
 #EXTINF:-1 ,Авто плюс
@@ -669,6 +671,8 @@ http://50.7.28.226/8807/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
+http://185.223.125.136:8005/kx
+#EXTINF:-1 ,Кинохит
 http://46.8.46.14/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=xknhx
@@ -775,7 +779,7 @@ http://91.192.80.90/eurosport/mpegts?token=exximpiw
 #EXTINF:-1 ,Eurosport 1
 http://87.76.32.36:8001/eurosport1hd
 #EXTINF:-1 ,Eurosport 2
-http://185.223.125.136:7000/eurosport2
+http://185.223.125.136:8005/eurosport2
 #EXTINF:-1 ,Eurosport 2
 http://91.192.80.90/eurosport2/mpegts?token=exximpiw
 #EXTINF:-1 ,Setanta Sports 1
