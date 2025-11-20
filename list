@@ -39,6 +39,8 @@ https://streaming.goodstream.cyou/live/213.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Зал суда
+http://31.130.203.6:9787
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -141,6 +143,8 @@ http://158.101.222.193:88/georgia_play.php?id=perec
 http://178.124.153.123:44400/peretz
 #EXTINF:-1 ,КВН ТВ
 http://91.194.191.241:8081/chid472/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КВН ТВ
+http://93.170.254.17/KVN/index.m3u8
 #EXTINF:-1 ,Gags Network
 http://95.67.12.82:9069
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
@@ -360,6 +364,8 @@ http://river-5-554.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/WIbBa1BCCKgqskf73G
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://195.49.206.244:90/Usadba/mono.m3u8?token=xusax
+#EXTINF:-1 ,Усадьба
+http://93.170.254.17/Usadba/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://95.66.188.74/Usadba/index.m3u8
 #EXTINF:-1 ,Бобёр
