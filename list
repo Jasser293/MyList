@@ -412,8 +412,10 @@ http://46.8.46.14/zhivi/index.m3u8
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
 http://91.194.191.241:8081/chid415/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
+http://77.232.131.211/FoodTimeHD/index.m3u8
 #EXTINF:-1 ,Еда
-#http://91.194.191.241:8081/chid418/tracks-v1a1/mono.m3u8
+http://77.232.131.211/Eda/index.m3u8
 #EXTINF:-1 ,Кухня
 http://95.66.188.74/Kuhnya/mono.m3u8
 #EXTINF:-1 ,Кухня
@@ -544,6 +546,8 @@ http://195.49.206.244:90/Explorer/mono.m3u8?token=xexpx
 http://188.190.222.53/Viasat_Explore/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Наша Тема
 http://188.190.222.53/Nasha_tema/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,Охота и рыбалка
+http://139.28.255.188:8080/ohotaribalka/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://213.169.39.30:5262
 #EXTINF:-1 ,Охотник и рыболов
@@ -776,6 +780,8 @@ http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
+#EXTINF:-1 ,Eurosport 1
+http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://50.7.28.226/8013/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
