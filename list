@@ -662,6 +662,8 @@ http://195.49.206.244:90/TV21/mono.m3u8?token=x21xx
 http://195.49.206.244:90/A-1/mono.m3u8?token=xblcx
 #EXTINF:-1 ,VHS-ка
 http://95.66.188.74/VHS/index.m3u8
+#EXTINF:-1 ,VHS-ka
+http://31.130.203.6:9514
 #EXTINF:-1 ,CineMan VHS
 http://50.7.28.226/8807/index.m3u8
 #EXTINF:-1 ,Кинохит
@@ -744,6 +746,8 @@ http://195.49.206.244:90/Mosfilm/mono.m3u8?token=xmosx
 http://188.190.222.53/Mosfilm/mono.m3u8
 #EXTINF:-1 ,Советская Киноклассика
 http://50.7.28.226/9461/index.m3u8
+#EXTINF:-1 ,Советская Киноклассика
+http://93.123.162.34:4042
 #EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=x100x
 #EXTINF:-1 ,Viju TV1000 Русское
