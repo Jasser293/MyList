@@ -102,7 +102,7 @@ http://95.66.188.74/5kanal/mono.m3u8
 #EXTINF:-1 ,Пятый канал
 http://95.47.156.60:8000/play/5/index.m3u8
 #EXTINF:-1 ,Пятый канал
-http://95.66.188.74/5kanal/mono.m3u8
+http://93.170.254.17/5Channel/index.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -667,7 +667,7 @@ http://195.49.206.244:90/TV21/mono.m3u8?token=x21xx
 http://195.49.206.244:90/A-1/mono.m3u8?token=xblcx
 #EXTINF:-1 ,VHS-ка
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:-1 ,VHS-ka
+#EXTINF:-1 ,VHS-ка
 http://31.130.203.6:9514
 #EXTINF:-1 ,Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
@@ -692,9 +692,7 @@ http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 ,HollywooD
 http://46.8.46.14/amc/index.m3u8
 #EXTINF:-1 ,HollywooD
-http://157.90.0.245:8070/HOLLYWOOD_HD/index.m3u8
-#EXTINF:-1 ,Trash
-http://157.90.0.245:8070/Trash_HD/index.m3u8
+http://193.25.8.59:8000/interaz
 #EXTINF:-1 ,Kinowood
 http://193.27.209.122/kinowood/index.m3u8
 #EXTINF:-1 ,BollywooD
@@ -761,6 +759,8 @@ http://85.192.10.173/Kino24Ru/video.m3u8
 http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-id="STARTWorld.ru" tvg-logo="https://i.imgur.com/TXtY5eM.png" ,START World
 http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 ,ФИЛЬМ
+http://185.57.68.33:8091/237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дорама
 http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
