@@ -554,10 +554,8 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
 http://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикая Охота HD
-http://217.21.34.160:38007/dikayaohotahd/index.m3u8
 #http://194.32.242.245/DikayaokhotaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
-http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
 #http://194.32.242.245/DikayarybalkaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://195.64.140.147:10117/117
