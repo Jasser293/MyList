@@ -48,7 +48,7 @@ http://cdn2.ntv.ru/th_hit/mono.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия 1
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 ,Россия 1 (+1)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 #EXTINF:-1 ,Россия 1 (+2)
@@ -70,7 +70,11 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF:-1 ,Россия РТР
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363/index.m3u8
 #EXTINF:-1 ,РОССИЯ 24
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1 ,РОССИЯ 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
+#EXTINF:-1 ,Россия К
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 #EXTINF:-1 ,Россия К
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К (+2)
@@ -493,9 +497,13 @@ http://94.232.127.28:8080/animalplanethd/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Animal Planet
 http://91.192.80.90/animal-planet/mpegts?token=exximpiw
 #EXTINF:-1 ,National Geographic
+http://94.232.127.28:8080/natgeo/tracks-v1a2/mono.m3u8
+#EXTINF:-1 ,National Geographic
 http://91.192.80.90/nat-geo/mpegts?token=exximpiw
 #EXTINF:-1 ,National Geographic
 http://46.8.46.14/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
+http://94.232.127.28:8080/natgeowildhd/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://91.192.80.90/nat-geo-wild/mpegts?token=exximpiw
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
