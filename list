@@ -87,6 +87,8 @@ http://195.49.206.244:90/REN_TV/mono.m3u8?token=xrenx
 http://95.66.188.74/RenTV/mono.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
+#EXTINF:-1 ,Рен ТВ (+3)
+http://193.25.8.59:8000/ren
 #EXTINF:-1 ,Рен ТВ International
 http://112.72.4.71/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -95,6 +97,8 @@ http://195.49.206.244:90/TVC/mono.m3u8?token=xtvcx
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 http://185.71.81.6:8080/10/index.m3u8
+#EXTINF:-1 ,ТВЦ (+3)
+http://193.25.8.59:8000/tvc
 #EXTINF:-1 ,Пятый канал
 http://95.66.188.74/5kanal/mono.m3u8
 #EXTINF:-1 ,Пятый канал
