@@ -440,6 +440,8 @@ http://brodilo.tv/channel.php
 #EXTINF:-1 ,Кто куда
 #
 #EXTINF:-1 ,Кто есть кто
+http://31.130.203.6:8698
+#EXTINF:-1 ,Кто есть кто
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:-1 ,Совершенно секретно
 http://217.21.34.160:38007/sovsek/index.m3u8
@@ -653,6 +655,8 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 http://195.49.206.244:90/Illuzion+/mono.m3u8?token=xilpx
 #EXTINF:-1 ,Кинопремьера
 http://195.49.206.244:90/Kinopremiera/mono.m3u8?token=xprex
+#EXTINF:-1 ,Кинопремьера
+http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 ,Киносвидание
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 ,Mужское Кино
@@ -720,6 +724,8 @@ http://95.66.188.74/NasheNovoeKino/index.m3u8
 #EXTINF:-1 ,Наше любимое кино
 http://195.158.223.132:8008/Lubimoe_Kino
 #EXTINF:-1 ,Русский бестселлер
+http://139.28.255.188:8080/bestseller/index.m3u8
+#EXTINF:-1 ,Русский бестселлер
 http://195.64.140.147:10075/75
 #EXTINF:-1 ,Русский бестселлер
 http://195.158.223.132:8008/Russkiy_Bestseller
@@ -729,6 +735,8 @@ http://185.46.16.239:8000/Russkiy_Illyuzion
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:-1 ,Русский детектив
 https://streamer1.connectto.com/467/mono.m3u8
+#EXTINF:-1 ,Русский роман
+http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://95.66.188.74/RusRoman/mono.m3u8
 #EXTINF:-1 ,Русский роман
