@@ -200,7 +200,7 @@ http://95.47.156.60:8000/play/16/index.m3u8
 #EXTINF:-1 ,Пятница (+2)
 http://94.230.128.107:8080/Friday/index.m3u8
 #EXTINF:-1 ,Пятница (+4)
-http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
+http://94.230.250.140/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятница! International
 http://112.72.4.71/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 ,Суббота!
@@ -314,7 +314,8 @@ http://95.66.188.74/Arsenal_HD/index.m3u8
 #EXTINF:-1 ,Оружие
 http://95.66.188.74/Oruzhie/index.m3u8
 #EXTINF:-1 ,Оружие
-http://195.158.223.132:8002/Oruzhie
+http://31.130.203.6:8343
+#http://195.158.223.132:8002/Oruzhie
 #EXTINF:-1 ,Оружие
 http://91.192.80.90/oruzhie/mpegts?token=exximpiw
 #EXTINF:-1 ,Победа
@@ -532,7 +533,7 @@ http://95.67.12.82:9088
 #EXTINF:-1 ,Continent E
 http://95.67.12.82:9083
 #EXTINF:-1 ,Наука
-http://vod.tuva.ru/nauka2/index.m3u8
+http://94.230.250.140/nauka2/index.m3u8
 #EXTINF:-1 ,Viasat History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 ,Viasat History
@@ -644,7 +645,7 @@ http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
 #EXTINF:-1 ,Еврокино
 http://195.49.206.244:90/Evrokino/mono.m3u8?token=xeukx
 #EXTINF:-1 ,Еврокино
-http://87.120.142.11:18000/STSLove
+http://94.230.250.140/eurokino/index.m3u8
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
@@ -692,7 +693,7 @@ http://195.49.206.244:90/kinohit/mono.m3u8?token=xknhx
 #EXTINF:-1 ,Кино ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 ,Кино ТВ
-http://vod.tuva.ru/kinotv/mono.m3u8
+http://94.230.250.140/kinotv/mono.m3u8
 #EXTINF:-1 ,FilmBox
 http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" ,Cinema
