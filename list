@@ -647,7 +647,7 @@ http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 ,Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Театр
-http://193.25.8.59:8000/teatr
+http://93.123.162.34:4060
 #EXTINF:-1 ,Театр
 http://195.49.206.244:90/Teatr/mono.m3u8?token=xteax
 #EXTINF:-1 tvg-id="Kvarc.ru" tvg-name="кварц" tvg-logo="https://i.imgur.com/90vSdul.png" ,Кварц ТВ
