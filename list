@@ -81,14 +81,14 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 ,Россия К (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 ,Рен ТВ
+http://95.66.188.74/RenTV/mono.m3u8
+#EXTINF:-1 ,Рен ТВ
 http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://139.28.255.188:8080/rentv/index.m3u8
 #http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 ,Рен ТВ
 http://195.49.206.244:90/REN_TV/mono.m3u8?token=xrenx
-#EXTINF:-1 ,Рен ТВ
-http://95.66.188.74/RenTV/mono.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+3)
