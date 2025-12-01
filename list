@@ -631,7 +631,7 @@ http://31.130.203.6:9514
 #EXTINF:-1 ,Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
-http://176.108.255.114:56374/kinohit/video.m3u8
+https://bigteisti2.kfc.lifeyosso.fun:56374/kinohit/video.m3u8
 #EXTINF:-1 ,Кинохит
 http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 ,Кинохит
@@ -695,7 +695,7 @@ http://95.85.109.219:7000/play/a00y
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://95.66.188.74/MosfilmHD/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-https://176.108.255.114:9304/mosfilmhd/video.m3u8
+https://bigteisti2.streaming-elbrus.su:9304/mosfilmhd/video.m3u8
 #EXTINF:-1 ,Советская Киноклассика
 http://93.123.162.34:4042
 #EXTINF:-1 ,Viju TV1000 Русское
