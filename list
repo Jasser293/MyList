@@ -326,6 +326,8 @@ http://195.158.223.132:8006/Sarafan
 http://195.158.223.132:8005/Avto_24
 #EXTINF:-1 ,АВТО 24
 http://195.64.140.147:10118/118
+#EXTINF:-1 ,АВТО 24
+http://bigteisti2.cdn.lifeyosso.fun:32144/AVTO24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Авто плюс
 http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 ,Драйв
@@ -364,6 +366,8 @@ http://185.57.68.33/40/mpegts
 http://95.66.188.74/Zagorodniy/mono.m3u8
 #EXTINF:-1 ,Загородный Int
 http://river-4-421.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/h4x_wx3Gf8nLw8lGFGwRig/1765043117/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+#EXTINF:-1 ,Мир вокруг
+http://185.78.112.57:8077/MirVokrugHD/index.m3u8
 #EXTINF:-1 ,Лапки Live
 #http://45.145.32.13:20440/unikum/index.m3u8?token=test
 #EXTINF:-1 ,Rutube
@@ -588,6 +592,8 @@ http://93.123.162.34:4060
 http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 ,TV4 HD
 http://95.217.234.86/TV4HD/index.m3u8
+#EXTINF:-1 ,Сапфир
+http://185.78.112.57:8077/fox_life_hd/index.m3u8
 #EXTINF:-1 ,Сапфир
 http://195.64.140.147:10056/56
 #EXTINF:-1 ,2x2
@@ -826,5 +832,25 @@ http://213.230.65.254:8000/play/a027
 http://85.192.10.173/PingvinRu/mono.m3u8
 #EXTINF:-1 ,Мамонтенок ТВ
 http://85.192.10.173/MamontRu/mono.m3u8
+#EXTINF:-1 ,Супергерои
+http://185.78.112.57:8077/malish/index.m3u8
+#EXTINF:-1 ,JimJam
+http://185.78.112.57:8077/JimJam/index.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://185.78.112.57:8077/nickelodeon/index.m3u8
+#EXTINF:-1 ,TiJi
+http://185.78.112.57:8077/TiJi/index.m3u8
+#EXTINF:-1 ,О!
+http://185.78.112.57:8077/o_/index.m3u8
+#EXTINF:-1 ,Карусель
+http://185.78.112.57:8077/karusel/index.m3u8
+#EXTINF:-1 ,Детский мир
+http://185.78.112.57:8077/Detskiy_Mir/index.m3u8
+#EXTINF:-1 ,Boomerang
+http://185.78.112.57:8077/Boomerang/index.m3u8
+#EXTINF:-1 ,Cartoon network
+http://185.78.112.57:8077/cartoon-net/index.m3u8
+#EXTINF:-1 ,Da Vinci
+http://185.78.112.57:8077/DaVinci_Learning/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=xtntx
