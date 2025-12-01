@@ -451,9 +451,13 @@ http://195.158.223.132:8011/Uspeh
 #EXTINF:-1 ,Discovery Channel
 http://91.192.80.90/discovery/mpegts?token=exximpiw
 #EXTINF:-1 ,Discovery Channel
+http://185.78.112.57:8077/DiscoveryChannelHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Discovery Channel
 http://109.75.59.241:8017/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TLC
 http://91.192.80.90/tlc/mpegts?token=exximpiw
+#EXTINF:-1 ,History
+http://185.78.112.57:8077/History-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,DocuBox
 http://193.25.8.59:8000/24Doc
 #EXTINF:-1 ,Приключения
@@ -466,6 +470,8 @@ http://91.192.80.90/animal-planet/mpegts?token=exximpiw
 http://91.192.80.90/nat-geo/mpegts?token=exximpiw
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://91.192.80.90/nat-geo-wild/mpegts?token=exximpiw
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
+http://185.78.112.57:8077/natgeo_wild_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://86.57.209.210/Ocean/index.m3u8
 #EXTINF:-1 ,История
@@ -513,11 +519,13 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
 http://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикая Охота HD
-#http://194.32.242.245/DikayaokhotaHD/tracks-v1a1/mono.m3u8
+http://185.78.112.57:8077/DikayaOxotaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
-#http://194.32.242.245/DikayarybalkaHD/tracks-v1a1/mono.m3u8
+http://185.78.112.57:8077/DikayaRybalkaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://195.64.140.147:10117/117
+#EXTINF:-1 ,Рыболов
+http://185.78.112.57:8077/ohotnik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Prosto Fishing
 http://31.43.48.248:7000/ch344/video.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
@@ -623,6 +631,8 @@ http://31.130.203.6:9514
 #EXTINF:-1 ,Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
+http://176.108.255.114:56374/kinohit/video.m3u8
+#EXTINF:-1 ,Кинохит
 http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 ,Кинохит
 http://195.26.83.96:7005/play/a00m/index.m3u8
@@ -656,6 +666,8 @@ http://185.46.16.239:8000/Nickelodeon
 http://95.66.188.74/NasheNovoeKino/index.m3u8
 #EXTINF:-1 ,Наше любимое кино
 http://195.158.223.132:8008/Lubimoe_Kino
+#EXTINF:-1 ,Мужское кино HD
+http://185.78.112.57:8077/muzhskoe-kino_hd/index.m3u8
 #EXTINF:-1 ,Новый Русский
 http://95.217.234.86/NEWRUSSIAHD/index.m3u8
 #EXTINF:-1 ,Русский бестселлер
@@ -682,6 +694,8 @@ http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 http://95.85.109.219:7000/play/a00y
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://95.66.188.74/MosfilmHD/mono.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+https://176.108.255.114:9304/mosfilmhd/video.m3u8
 #EXTINF:-1 ,Советская Киноклассика
 http://93.123.162.34:4042
 #EXTINF:-1 ,Viju TV1000 Русское
@@ -705,9 +719,13 @@ http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
+http://185.78.112.57:8077/Eurosport1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 1
 http://91.192.80.90/eurosport/mpegts?token=exximpiw
 #EXTINF:-1 ,Eurosport 1
 http://91.90.216.117/1439/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://185.78.112.57:8077/Eurosport2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://91.192.80.90/eurosport2/mpegts?token=exximpiw
 #EXTINF:-1 ,Setanta Sports 1
@@ -750,12 +768,16 @@ http://95.66.188.74/MatchIgra/mono.m3u8
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://193.25.8.59:8000/fut
+#EXTINF:-1 ,Матч! Футбол 1
+http://185.78.112.57:8077/football1_hd/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 2
 http://193.25.8.59:8000/fut2
 #EXTINF:-1 ,Матч! Футбол 2
-http://43a94a5e.amazzin.pw/iptv/ECGM77FWEMMA46/10027/index.m3u8
+http://185.78.112.57:8077/football2_hd/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
 http://185.57.68.33/110/mpegts
+#EXTINF:-1 ,Матч! Футбол 3
+http://185.78.112.57:8077/football3_hd/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
 http://193.25.8.59:8000/fut3
 #EXTINF:-1 ,KHL Prime
