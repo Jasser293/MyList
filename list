@@ -19,7 +19,6 @@ http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
-#http://95.47.156.60:8000/play/4/index.m3u8
 #EXTINF:-1 ,НТВ (+1)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/ntv1/mono.m3u8
@@ -101,6 +100,8 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 http://95.66.188.74/TVCenter/mono.m3u8
 #EXTINF:-1 ,ТВЦ (+3)
 http://193.25.8.59:8000/tvc
+#EXTINF:-1 ,ТВЦ International
+http://85.192.10.173/tvci/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -233,6 +234,8 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 #EXTINF:-1 tvg-name="смотрим" ,Смотрим
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v4a1/mono.m3u8
 #EXTINF:-1 ,Москва. Доверие
+http://93.123.162.34:4040
+#EXTINF:-1 ,Москва. Доверие
 http://195.191.208.11:8087/udp/238.2.1.65:1234
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-name="открытый мир. здоровье" tvg-logo="https://i.imgur.com/7orZOJA.png" ,Открытый мир
 http://212.233.98.62/0mir/index.m3u8
@@ -303,7 +306,8 @@ http://95.66.188.74/Arsenal_HD/index.m3u8
 http://95.66.188.74/Oruzhie/index.m3u8
 #EXTINF:-1 ,Оружие
 http://31.130.203.6:8343
-#http://195.158.223.132:8002/Oruzhie
+#EXTINF:-1 ,Оружие
+http://195.158.223.132:8002/Oruzhie
 #EXTINF:-1 ,Оружие
 http://91.192.80.90/oruzhie/mpegts?token=exximpiw
 #EXTINF:-1 ,Победа
@@ -423,7 +427,7 @@ http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:-1 ,Совершенно секретно
 http://217.21.34.160:38007/sovsek/index.m3u8
 #EXTINF:-1 ,Вопросы и ответы
-#
+http://93.123.162.34:4076
 #EXTINF:-1 ,Спас
 http://185.46.16.239:8000/Spas
 #EXTINF:-1 ,Союз
@@ -506,8 +510,6 @@ http://vod.splay.uz/live_splay/original/Viasat_History/tracks-v1a1/mono.m3u8
 http://195.64.140.147:10146/146
 #EXTINF:-1 ,Viasat Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 ,viju+ Planet
-http://195.64.140.147:10147/147
 #EXTINF:-1 ,Наша Тема
 http://217.21.34.160:38003/nashatema/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -548,6 +550,14 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 ,Bridge TV
 http://95.66.188.74/BridgeTV/mono.m3u8
+#EXTINF:-1 ,BRIDGE TV
+http://93.123.162.34:4054
+#EXTINF:-1 ,BRIDGE TV Ruhit
+http://93.123.162.34:4055
+#EXTINF:-1 ,BRIDGE TV Classic
+http://93.123.162.34:4056
+#EXTINF:-1 ,BRIDGE TV Hits
+http://93.123.162.34:4057
 #EXTINF:-1 ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 ,MTV Live
@@ -622,8 +632,12 @@ http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 http://31.130.203.6:9398
 #EXTINF:-1 ,Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 ,Amedia 1
+http://195.158.223.132:8009/A1
 #EXTINF:-1 ,Amedia 2
 http://158.160.149.81:8080/462/index.m3u8
+#EXTINF:-1 ,Amedia 2
+http://195.158.223.132:8009/A2
 #EXTINF:-1 ,Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 ,Amedia Premium
@@ -702,6 +716,8 @@ http://95.85.109.219:7000/play/a00y
 http://95.66.188.74/MosfilmHD/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 https://bigteisti2.streaming-elbrus.su:9304/mosfilmhd/video.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://93.123.162.34:4155
 #EXTINF:-1 ,Советская Киноклассика
 http://93.123.162.34:4042
 #EXTINF:-1 ,Viju TV1000 Русское
@@ -772,6 +788,8 @@ http://194.143.148.28:8080/MatchArena/mpegts
 http://95.66.188.74/MatchIgra/mono.m3u8
 #EXTINF:-1 ,МАТЧ! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
+#EXTINF:-1 ,Футбол
+https://91.192.80.90/futbol/mpegts?token=exximpiw
 #EXTINF:-1 ,Матч! Футбол 1
 http://193.25.8.59:8000/fut
 #EXTINF:-1 ,Матч! Футбол 1
