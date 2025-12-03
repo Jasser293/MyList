@@ -615,7 +615,7 @@ http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1 ,Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 ,Первый Музыкальный
-http://hz1.teleport.cc/HLS/HD.m3u8
+http://136.243.42.146/HLS/HD.m3u8
 #EXTINF:-1 ,Bridge TV
 http://95.66.188.74/BridgeTV/mono.m3u8
 #EXTINF:-1 ,BRIDGE TV
