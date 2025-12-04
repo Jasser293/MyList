@@ -16,9 +16,9 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#http://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
+http://50.7.28.226/8156/index.m3u8
 #EXTINF:-1 ,НТВ (+1)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/ntv1/mono.m3u8
@@ -32,9 +32,9 @@ http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Мир
-https://streaming.skynetconnect.online/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://50.7.28.226/8011/index.m3u8
 #EXTINF:-1 ,НТВ Мир
-https://streaming.goodstream.cyou/live/213.m3u8
+https://streaming.skynetconnect.online/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -528,6 +528,8 @@ http://185.78.112.57:8077/History-HD/tracks-v1a1/mono.m3u8
 http://193.25.8.59:8000/24Doc
 #EXTINF:-1 ,Приключения
 http://91.90.216.117/1420/index.m3u8
+#EXTINF:-1 ,Глазами туриста
+http://50.7.28.226/8904/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -597,7 +599,7 @@ http://50.7.28.226/8316/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
 http://185.78.112.57:8077/DikayaRybalkaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
-#
+http://50.7.28.226/8324/index.m3u8
 #EXTINF:-1 ,Рыболов
 http://185.78.112.57:8077/ohotnik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -751,6 +753,8 @@ http://195.26.83.96:7005/play/a00m/index.m3u8
 #EXTINF:-1 ,Блокбастер HD
 http://50.7.28.226/8939/index.m3u8
 #EXTINF:-1 ,Кино ТВ
+http://50.7.28.226/8207/index.m3u8
+#EXTINF:-1 ,Кино ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 ,Кино ТВ
 http://94.230.250.140/kinotv/mono.m3u8
@@ -774,14 +778,20 @@ http://158.101.222.193:88/georgia_play.php?id=zeetv
 http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 ,Комедия
 http://195.49.206.244:90/Komediya/mono.m3u8?token=xkomx
+#EXTINF:-1 ,Комедийное
+http://50.7.28.226/8323/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://185.46.16.239:8000/Fox_HD
 #EXTINF:-1 ,Наше новое кино
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 ,Наше новое кино
 http://95.66.188.74/NasheNovoeKino/index.m3u8
-#EXTINF:-1 ,Наше любимое кино
+#EXTINF:-1 ,Наше любимое
+http://50.7.28.226/8310/index.m3u8
+#EXTINF:-1 ,Любимое кино
 http://195.158.223.132:8008/Lubimoe_Kino
+#EXTINF:-1 ,Наше Мужское
+http://50.7.28.226/8740/index.m3u8
 #EXTINF:-1 ,Мужское кино HD
 http://185.78.112.57:8077/muzhskoe-kino_hd/index.m3u8
 #EXTINF:-1 ,Новый Русский
@@ -809,7 +819,11 @@ http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 ,НСТ
 http://195.49.206.244:90/NST/mono.m3u8?token=xnstx
 #EXTINF:-1 ,Киноужас
+http://50.7.28.226/8357/index.m3u8
+#EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 ,Шокирующее
+http://50.7.28.226/8322/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://95.66.188.74/MosfilmHD/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -818,6 +832,8 @@ http://195.49.206.244:90/Mosfilm/mono.m3u8?token=xmosx
 http://93.123.162.34:4155
 #EXTINF:-1 ,Советская Киноклассика
 http://93.123.162.34:4042
+#EXTINF:-1 ,Советская киноклассика
+http://50.7.28.226/9461/index.m3u8
 #EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=x100x
 #EXTINF:-1 ,Viju TV1000 Русское
