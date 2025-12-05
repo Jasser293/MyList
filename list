@@ -104,8 +104,6 @@ http://195.49.206.244:90/TVC/mono.m3u8?token=xtvcx
 http://95.66.188.74/TVCenter/mono.m3u8
 #EXTINF:-1 ,ТВЦ (+3)
 http://193.25.8.59:8000/tvc
-#EXTINF:-1 ,ТВЦ International
-http://85.192.10.173/tvci/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -263,8 +261,6 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v4
 http://93.123.162.34:4040
 #EXTINF:-1 ,Москва. Доверие
 http://195.49.206.244:90/Doverie/mono.m3u8?token=xdovx
-#EXTINF:-1 ,Москва. Доверие
-http://195.191.208.11:8087/udp/238.2.1.65:1234
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-name="открытый мир. здоровье" tvg-logo="https://i.imgur.com/7orZOJA.png" ,Открытый мир
 http://212.233.98.62/0mir/index.m3u8
 #EXTINF:-1 tvg-name="о!кино" ,О!Кино
@@ -391,7 +387,7 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 ,Соловьев.Live
 http://195.26.83.96:7029/play/a003
 #EXTINF:-1 ,Соловьев.Live
-http://river-5-537.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/VD3kAyBrLxSm9RSP2tytCg/1765391311/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
+http://river-5-554.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/Bd3H1Wz0O1fGOQsXtT7gzQ/1765531415/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 #EXTINF:-1 ,Усадьба
@@ -413,17 +409,17 @@ http://195.49.206.244:90/zagorodnaya_zhizn/mono.m3u8?token=xzazx
 #EXTINF:-1 ,Загородный
 http://95.66.188.74/Zagorodniy/mono.m3u8
 #EXTINF:-1 ,Загородный Int
-http://river-4-421.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/20smw4yId4xbhQ7j4ClHdg/1765391364/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+http://river-4-421.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/47vsV7Ccy1IG-Aj38rF_kA/1765531454/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
 #EXTINF:-1 ,Мир вокруг
 http://185.78.112.57:8077/MirVokrugHD/index.m3u8
 #EXTINF:-1 ,Лапки Live
 http://50.7.28.226/8551/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Rutube
-http://river-3-327.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/_7OqLjf5sP4zNqQapsQs1w/1765391405/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+http://river-3-327.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/jkLZ4yR7whA2s3f0rdfvIA/1765531490/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
 http://95.47.156.60:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл ТВ
-http://river-5-523.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/goRpgV0kLkWvk_N6auVevA/1765391447/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-523.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/I86uMV8JAC4uPohKXQsa0w/1765531523/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -439,7 +435,7 @@ http://91.90.216.117/1419/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
-http://195.191.208.11:8087/udp/238.2.48.141:1234
+#
 #EXTINF:-1 ,Еда
 http://50.7.28.226/8140/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кухня
@@ -473,7 +469,7 @@ http://31.130.203.6:8698
 #EXTINF:-1 ,Кто есть кто
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:-1 ,Совершенно секретно
-http://217.21.34.160:38007/sovsek/index.m3u8
+#
 #EXTINF:-1 ,Вопросы и ответы
 http://50.7.28.226/8053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
@@ -516,8 +512,6 @@ http://195.158.223.132:8011/Uspeh
 http://91.192.80.90/discovery/mpegts?token=exximpiw
 #EXTINF:-1 ,Discovery Channel
 http://185.78.112.57:8077/DiscoveryChannelHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Discovery Channel
-http://109.75.59.241:8017/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TLC
 http://91.192.80.90/tlc/mpegts?token=exximpiw
 #EXTINF:-1 ,History
@@ -555,11 +549,9 @@ http://91.90.216.117/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Домашние животные
 http://195.49.206.244:90/domashnie_zhivotnye/mono.m3u8?token=xdxzx
 #EXTINF:-1 ,В мире животных
-https://streamer1.connectto.com/513/mono.m3u8
+http://91.90.216.117/1404/index.m3u8
 #EXTINF:-1 ,Zooпарк
 http://193.25.8.59:8000/zoo
-#EXTINF:-1 ,Zooпарк
-http://217.21.34.160:38003/zoopark/index.m3u8
 #EXTINF:-1 ,One planet
 http://95.67.12.82:9088
 #EXTINF:-1 ,Continent E
@@ -579,7 +571,7 @@ http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 ,Viasat Explore
 http://195.49.206.244:90/Explorer/mono.m3u8?token=xexpx
 #EXTINF:-1 ,Наша Тема
-http://217.21.34.160:38003/nashatema/index.m3u8
+http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://139.28.255.188:8080/ohotaribalka/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
@@ -587,7 +579,7 @@ http://213.169.39.30:5262
 #EXTINF:-1 ,Охотник и рыболов
 http://91.90.216.117/1413/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-354.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/EzwskII_bkE9A-iokbHheA/1765391483/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+http://river-3-346.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/S9j8Hf3NF-PZGusOUVrVLg/1765531561/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
@@ -699,7 +691,7 @@ http://31.130.203.6:8589
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
-http://river-3-369.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/iLOcUxMCr9PcHfsxCKmhOA/1765391521/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-3-369.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/_xZXn0IQ-SlhJXUJ_awzAA/1765531611/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
