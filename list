@@ -561,7 +561,7 @@ http://94.230.250.140/nauka2/index.m3u8
 #EXTINF:-1 ,Viasat History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 ,Viasat History
-http://vod.splay.uz/live_splay/original/Viasat_History/tracks-v1a1/mono.m3u8
+http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://195.49.206.244:90/Nature/mono.m3u8?token=xnatx
 #EXTINF:-1 ,Viasat Nature
@@ -583,7 +583,7 @@ http://river-3-346.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/S9j8Hf3NF-PZGusOUV
 #EXTINF:-1 ,Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
-http://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
+http://185.78.112.57:8077/Dikiy/index.m3u8
 #EXTINF:-1 ,Дикая Охота HD
 http://185.78.112.57:8077/DikayaOxotaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
@@ -883,6 +883,8 @@ http://185.46.16.239:8000/Eurosport_1
 #EXTINF:-1 ,Удар
 http://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 ,MMA-TV
+http://93.170.254.17/MMATV/index.m3u8
+#EXTINF:-1 ,MMA-TV
 http://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! Боец
 http://95.66.188.74/MatchBoec/mono.m3u8
@@ -964,7 +966,7 @@ http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 ,Солнце
 http://195.49.206.244:90/Disney/mono.m3u8?token=xsunx
 #EXTINF:-1 ,Nickelodeon
-http://vod.splay.uz/live_splay/original/Nickelodeon/tracks-v1a1/mono.m3u8
+http://185.78.112.57:8077/nickelodeon/index.m3u8
 #EXTINF:-1 ,Мультимания
 http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Супер Герои
