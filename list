@@ -97,6 +97,8 @@ http://193.25.8.59:8000/ren
 #EXTINF:-1 ,Рен ТВ International
 http://112.72.4.71/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 ,ТВЦ
+http://50.7.28.226/8006/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
 http://195.49.206.244:90/TVC/mono.m3u8?token=xtvcx
@@ -387,9 +389,11 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 ,Соловьев.Live
 http://195.26.83.96:7029/play/a003
 #EXTINF:-1 ,Соловьев.Live
-http://river-5-554.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/Bd3H1Wz0O1fGOQsXtT7gzQ/1765531415/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
+http://river-5-554.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/H-lJCWjTFRgV6wgnKZOvLQ/1765649857/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
+#EXTINF:-1 ,Усадьба
+http://50.7.28.226/8017/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Усадьба
 http://93.170.254.17/Usadba/index.m3u8
 #EXTINF:-1 ,Усадьба
@@ -409,23 +413,25 @@ http://195.49.206.244:90/zagorodnaya_zhizn/mono.m3u8?token=xzazx
 #EXTINF:-1 ,Загородный
 http://95.66.188.74/Zagorodniy/mono.m3u8
 #EXTINF:-1 ,Загородный Int
-http://river-4-421.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/47vsV7Ccy1IG-Aj38rF_kA/1765531454/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+http://river-4-421.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/RVcwUHqoMQeweswL9Uh7Ew/1765649896/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
 #EXTINF:-1 ,Мир вокруг
 http://185.78.112.57:8077/MirVokrugHD/index.m3u8
 #EXTINF:-1 ,Лапки Live
 http://50.7.28.226/8551/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Rutube
-http://river-3-327.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/jkLZ4yR7whA2s3f0rdfvIA/1765531490/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+http://river-3-327.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/8Y3h59EjHhObhwdOy-WCTg/1765649927/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
 http://95.47.156.60:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл ТВ
-http://river-5-523.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/I86uMV8JAC4uPohKXQsa0w/1765531523/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-523.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/bnUpdGHbLk514Iifwf4SrA/1765649950/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+#EXTINF:-1 ,Доктор
+http://50.7.28.226/8214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 ,Доктор
-http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
-#EXTINF:-1 ,Доктор
 http://185.46.16.239:8000/Doktor
+#EXTINF:-1 ,Доктор
+#http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
 #EXTINF:-1 ,Здоровое ТВ
 http://95.66.188.74/ZdorovoeTV/mono.m3u8
 #EXTINF:-1 ,Живи
@@ -579,7 +585,7 @@ http://213.169.39.30:5262
 #EXTINF:-1 ,Охотник и рыболов
 http://91.90.216.117/1413/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-346.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/S9j8Hf3NF-PZGusOUVrVLg/1765531561/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+http://river-3-346.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/3oNEeZ0wiXZNM1OBlIwHoQ/1765649988/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
@@ -691,7 +697,7 @@ http://31.130.203.6:8589
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
-http://river-3-369.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/_xZXn0IQ-SlhJXUJ_awzAA/1765531611/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-3-369.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/hM2zHJ_ibNVNodL7LoLoug/1765650024/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
@@ -734,6 +740,8 @@ http://195.49.206.244:90/A-1/mono.m3u8?token=xblcx
 http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 ,VHS-ка
 http://31.130.203.6:9514
+#EXTINF:-1 ,Кинохит
+http://50.7.28.226/8039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
