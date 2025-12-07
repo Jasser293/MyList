@@ -364,6 +364,8 @@ http://195.158.223.132:8006/Sarafan
 http://195.158.223.132:8005/Avto_24
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=xautx
+#EXTINF:-1 ,АВТО 24
+http://185.223.125.136:8005/a24?token=auto
 #EXTINF:-1 ,Авто плюс
 http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 ,Авто плюс
@@ -447,7 +449,7 @@ http://95.66.188.74/Kuhnya/mono.m3u8
 #EXTINF:-1 ,Кухня
 http://195.158.223.132:8009/Kuhnya_TV
 #EXTINF:-1 ,Аппетитный
-#http://185.223.125.136:7000/HDL
+http://185.223.125.136:8005/HDL?token=appet
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,UNIVER TV
@@ -863,7 +865,7 @@ http://50.7.28.226/8178/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://50.7.28.226/8013/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-#http://91.192.80.90/eurosport/mpegts?token=exximpiw
+http://185.223.125.136:8005/eurosport?token=esp1
 #EXTINF:-1 ,Eurosport 1
 http://91.90.216.117/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
@@ -871,7 +873,7 @@ http://50.7.28.226/8163/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://50.7.28.226/8014/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
-#http://91.192.80.90/eurosport2/mpegts?token=exximpiw
+http://185.223.125.136:8005/eurosport2?token=esp2
 #EXTINF:-1 ,Setanta Sports 1
 http://50.7.28.226/8379/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
