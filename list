@@ -886,10 +886,14 @@ http://50.7.28.226/8676/tracks-v1a1/mono.m3u8
 #http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Okko Прайм Спорт
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Беларусь 5
+http://50.7.28.226/8694/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Trace Sport Stars
 http://95.67.12.82:9067
 #EXTINF:-1 ,Конный мир
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
+#EXTINF:-1 ,BILLIARD TV
+http://tinyurl.com/wbsc45h3
 #EXTINF:-1 ,Viasat Sport
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=xvspx
 #EXTINF:-1 ,Бокс ТВ
