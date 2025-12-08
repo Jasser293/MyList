@@ -441,7 +441,7 @@ http://91.90.216.117/1419/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
-#
+http://50.7.28.226/8650/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Еда
 http://50.7.28.226/8140/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кухня
