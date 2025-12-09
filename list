@@ -750,10 +750,18 @@ http://193.27.209.122/dizi/index.m3u8
 http://195.49.206.244:90/Komediya/mono.m3u8?token=xkomx
 #EXTINF:-1 ,Кинокомедия
 http://185.46.16.239:8000/Fox_HD
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="vip comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" ,viju+ Comedy
+http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 ,Наше новое кино
 http://95.66.188.74/NasheNovoeKino/index.m3u8
+#EXTINF:-1 ,Наше
+http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
+#EXTINF:-1 ,Кинопоказ
+http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
+#EXTINF:-1 ,Кинопоказ
+http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,Любимое кино
 http://195.158.223.132:8008/Lubimoe_Kino
 #EXTINF:-1 ,Мужское кино HD
@@ -778,6 +786,10 @@ http://139.28.255.188:8080/rusroman/index.m3u8
 http://95.66.188.74/RusRoman/mono.m3u8
 #EXTINF:-1 ,Русский роман
 http://85.208.223.249:8888/play/a007
+#EXTINF:-1 ,Про любовь
+http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
+#EXTINF:-1 ,Про любовь
+http://vod.stb.tvime.ru/Pro_Lubov_HD/video.m3u8
 #EXTINF:-1 ,НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 ,НСТ
@@ -786,6 +798,8 @@ http://195.49.206.244:90/NST/mono.m3u8?token=xnstx
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://95.66.188.74/MosfilmHD/mono.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=xmosx
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -840,6 +854,8 @@ http://tinyurl.com/wbsc45h3
 http://195.49.206.244:90/Viasat_Sport/mono.m3u8?token=xvspx
 #EXTINF:-1 ,Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
+#EXTINF:-1 ,Бокс ТВ
+http://5.8.11.96:8099/ort/index.m3u8
 #EXTINF:-1 ,Удар
 http://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 ,MMA-TV
