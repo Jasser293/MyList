@@ -505,9 +505,9 @@ http://185.151.240.225/Investigation_Discovery_HD_CEE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://109.75.59.241:8017/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TLC
-http://109.75.59.241:8017/TLC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TLC
 http://5.188.159.128:8070/TLC/index.m3u8
+#EXTINF:-1 ,TLC
+http://109.75.59.241:8017/TLC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,DocuBox
 http://193.25.8.59:8000/24Doc
 #EXTINF:-1 ,Приключения
