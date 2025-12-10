@@ -379,7 +379,7 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 ,Соловьев.Live
 http://195.26.83.96:7029/play/a003
 #EXTINF:-1 ,Соловьев.Live
-http://river-5-554.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/t8bppiZAh3UU2nrc0byKdA/1765790392/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
+http://river-5-554.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/rvdN4IoHMHW30E4HJL64rQ/1765991682/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 #EXTINF:-1 ,Усадьба
@@ -401,15 +401,15 @@ http://195.49.206.244:90/zagorodnaya_zhizn/mono.m3u8?token=xzazx
 #EXTINF:-1 ,Загородный
 http://95.66.188.74/Zagorodniy/mono.m3u8
 #EXTINF:-1 ,Загородный Int
-http://river-4-421.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/QwccHAoFECzVNegbx_ZGhQ/1765790416/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+http://river-4-421.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/dWfUR3BiDgZ0fjStLWYn-Q/1765991727/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
 #
 #EXTINF:-1 ,Rutube
-http://river-3-327.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/ubZ6kcUmq34FN12BHk6YOA/1765790462/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+http://river-3-327.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/Gt0_BtaCr2QGtj9-4HvXZw/1765991764/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
 http://95.47.156.60:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл ТВ
-http://river-5-523.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/0FnWMU834eEfSVzIu0t1Sg/1765790489/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-523.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/UkIK40Bec4ACMw30tcSqAQ/1765991792/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -525,7 +525,7 @@ http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 #http://91.192.80.90/nat-geo-wild/mpegts?token=exximpiw
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
-http://86.57.209.210/Ocean/index.m3u8
+http://195.158.223.132:8009/Ocean_HD
 #EXTINF:-1 ,История
 http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 ,Точка РФ
@@ -569,7 +569,7 @@ http://213.169.39.30:5262
 #EXTINF:-1 ,Охотник и рыболов
 http://91.90.216.117/1413/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-346.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/7flBgS0LJ7ZwjCw0USkWnw/1765790537/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+http://river-3-346.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/cXtizX5y2d_-3jgVPM1Uog/1765991833/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
@@ -675,7 +675,7 @@ http://31.130.203.6:8589
 #EXTINF:-1 ,Техно 24
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,Тайна
-http://river-3-369.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/93e1SPwLzg3HbGev8F4M9A/1765790579/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-3-369.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/Fg4ymUOm0DdCZPVTuwxBOQ/1765991868/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
