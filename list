@@ -17,8 +17,10 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
+http://139.28.255.188:8080/ntvhd/index.m3u8
+#EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
+#http://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ (+1)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/ntv1/mono.m3u8
@@ -94,6 +96,8 @@ http://94.230.128.107:8080/PEH_TB/index.m3u8
 http://193.25.8.59:8000/ren
 #EXTINF:-1 ,Рен ТВ International
 http://112.72.4.71/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1 ,ТВЦ
+http://139.28.255.188:8080/tvcentr/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -213,9 +217,13 @@ http://95.66.188.74/Subbota/index.m3u8
 #EXTINF:-1 ,Суббота!
 http://195.49.206.244:90/Super/mono.m3u8?token=xsubx
 #EXTINF:-1 ,Че!
+http://139.28.255.188:8080/4e/index.m3u8
+#EXTINF:-1 ,Че!
 http://95.66.188.74/Che/index.m3u8
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
+#EXTINF:-1 ,Ю
+http://139.28.255.188:8080/yutv/index.m3u8
 #EXTINF:-1 ,Ю
 http://95.66.188.74/U/index.m3u8
 #EXTINF:-1 ,Ю
@@ -545,15 +553,15 @@ http://95.67.12.82:9083
 #EXTINF:-1 ,Наука
 http://94.230.250.140/nauka2/index.m3u8
 #EXTINF:-1 ,Viasat History
-http://158.101.222.193:88/georgia_play.php?id=viasathist
+http://139.28.255.188:8080/ViasatHistory/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viasat History
 http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Viasat Nature
-http://195.49.206.244:90/Nature/mono.m3u8?token=xnatx
+http://139.28.255.188:8080/ViasatNature/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viasat Nature
 http://195.49.206.244:90/Nature/mono.m3u8?token=xnatx
 #EXTINF:-1 ,Viasat Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
+http://139.28.255.188:8080/ViasatExplorer/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Viasat Explore
 http://195.49.206.244:90/Explorer/mono.m3u8?token=xexpx
 #EXTINF:-1 ,Наша Тема
