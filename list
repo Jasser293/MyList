@@ -512,6 +512,8 @@ http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 http://vod.splay.uz/live_splay/original/Discovery_Channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://185.151.240.225/Investigation_Discovery_HD_CEE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Travel+Adventure HD
+http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 ,Epic
 http://193.25.8.59:8000/dtx
 #EXTINF:-1 ,TLC
