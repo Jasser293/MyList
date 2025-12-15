@@ -145,7 +145,7 @@ http://95.66.188.74/THT4/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=xtn4x
 #EXTINF:-1 ,ТНТ4
-http://91.90.253.78/CH71/tracks-v1a1/mono.m3u8
+http://195.158.223.132:8000/TNT_4
 #EXTINF:-1 ,ТНТ4 International
 http://112.72.4.71/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 ,Перец
@@ -355,19 +355,15 @@ http://195.49.206.244:90/Telekafe/mono.m3u8?token=xkafx
 #EXTINF:-1 ,Телекафе
 http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1 ,Сарафан
-http://91.90.253.78/CH199/tracks-v1a1/mono.m3u8
+http://195.49.206.244:90/Sarafan/mono.m3u8?token=xsarx
+#EXTINF:-1 ,Сарафан
+http://46.53.208.5/live/84-req_5k_v5.m3u8
 #EXTINF:-1 ,Сарафан
 http://2.57.217.85:8000/play/a08l/index.m3u8
-#EXTINF:-1 ,Сарафан
-http://195.49.206.244:90/Sarafan/mono.m3u8?token=xsarx
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=xautx
 #EXTINF:-1 ,Авто плюс
-http://91.90.253.78/CH49/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Авто плюс
 http://158.101.222.193:88/georgia_play.php?id=autoplus
-#EXTINF:-1 ,Драйв
-http://91.90.216.117/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=drive
 #EXTINF:-1 ,Драйв
@@ -426,20 +422,18 @@ http://178.134.1.158:8081/doktor/index.m3u8
 http://95.66.188.74/ZdorovoeTV/mono.m3u8
 #EXTINF:-1 ,Живи
 http://158.101.222.193:88/georgia_play.php?id=jivi
-#EXTINF:-1 ,Живи
-http://91.90.216.117/1419/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
-http://91.90.253.78/CH235/tracks-v1a1/mono.m3u8
+#
 #EXTINF:-1 ,Еда
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 ,Кухня
 http://95.66.188.74/Kuhnya/mono.m3u8
 #EXTINF:-1 ,Кухня
-http://91.90.253.78/CH65/tracks-v1a1/mono.m3u8
+http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
 #EXTINF:-1 ,Аппетитный
-#http://185.223.125.136:8005/HDL?token=appet
+#http://185.223.125.136:8005/HDL
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,UNIVER TV
@@ -516,22 +510,16 @@ http://193.25.8.59:8000/dtx
 http://5.188.159.128:8070/TLC/index.m3u8
 #EXTINF:-1 ,DocuBox
 http://193.25.8.59:8000/24Doc
-#EXTINF:-1 ,Приключения
-http://91.90.216.117/1420/index.m3u8
 #EXTINF:-1 ,Глазами туриста
-http://stream11.itv.uz/1423/index.m3u8
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://95.66.188.74/Poehali/index.m3u8
-#EXTINF:-1 ,Animal Planet
-http://91.90.253.78/CH33/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Animal Planet
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 ,National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 ,National Geographic
 http://31.47.199.45:1402/nationalgeographic/index.m3u8
-#EXTINF:-1 ,National Geographic
-http://91.90.253.78/CH53/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
@@ -551,11 +539,7 @@ http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 ,Живая природа
 http://195.49.206.244:90/Zhivaya_Priroda_HD/mono.m3u8?token=xzivx
 #EXTINF:-1 ,Домашние животные
-http://91.90.216.117/1426/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Домашние животные
 http://195.49.206.244:90/domashnie_zhivotnye/mono.m3u8?token=xdxzx
-#EXTINF:-1 ,В мире животных
-http://91.90.216.117/1404/index.m3u8
 #EXTINF:-1 ,Zooпарк
 http://193.25.8.59:8000/zoo
 #EXTINF:-1 ,One planet
@@ -583,7 +567,7 @@ http://139.28.255.188:8080/ohotaribalka/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://213.169.39.30:5262
 #EXTINF:-1 ,Охотник и рыболов
-http://91.90.216.117/1413/index.m3u8
+http://2.57.217.85:8000/play/a09w/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
 http://river-3-346.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/WUh716NN6fMgFPM8P8sBdg/1766295867/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
@@ -863,13 +847,17 @@ http://95.67.12.82:9046
 #EXTINF:-1 ,Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://91.90.253.78/CH29/tracks-v1a1/mono.m3u8
+http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://91.90.216.117/1439/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://91.90.253.78/CH75/tracks-v1a1/mono.m3u8
+http://178.134.1.158:8081/eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://213.169.39.30:5211
 #EXTINF:-1 ,Eurosport 2
 http://flussonic.salomtv.uz/eurosport_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 2
+https://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://5.188.159.128:8070/eurosport2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 ,Setanta Sports 2
@@ -965,8 +953,8 @@ http://195.49.206.244:90/Detskiy/mono.m3u8?token=xunix
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 ,Солнце
 http://195.49.206.244:90/Disney/mono.m3u8?token=xsunx
-#EXTINF:-1 ,Nickelodeon
-http://91.90.253.78/CH37/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Nicktoons
+http://88.99.215.227/NicktoonsHD/index.m3u8
 #EXTINF:-1 ,Мультимания
 http://83.99.226.23/Multimania_Mpeg4/video.m3u8
 #EXTINF:-1 ,Супер Герои
