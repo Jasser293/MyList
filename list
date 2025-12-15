@@ -432,6 +432,8 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 http://95.66.188.74/Kuhnya/mono.m3u8
 #EXTINF:-1 ,Кухня
 http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
+#EXTINF:-1 ,Кухня
+http://31.130.203.6:8754
 #EXTINF:-1 ,Аппетитный
 #http://185.223.125.136:8005/HDL
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
@@ -540,6 +542,8 @@ http://185.46.16.239:8000/Zhivaya_Planeta
 http://195.49.206.244:90/Zhivaya_Priroda_HD/mono.m3u8?token=xzivx
 #EXTINF:-1 ,Домашние животные
 http://195.49.206.244:90/domashnie_zhivotnye/mono.m3u8?token=xdxzx
+#EXTINF:-1 ,В мире животных
+http://93.123.162.34:4089
 #EXTINF:-1 ,Zooпарк
 http://193.25.8.59:8000/zoo
 #EXTINF:-1 ,One planet
@@ -567,7 +571,7 @@ http://139.28.255.188:8080/ohotaribalka/index.m3u8
 #EXTINF:-1 ,Охота и рыбалка
 http://213.169.39.30:5262
 #EXTINF:-1 ,Охотник и рыболов
-http://2.57.217.85:8000/play/a09w/index.m3u8
+http://93.123.162.34:4087
 #EXTINF:-1 ,Охотник и рыболов Int
 http://river-3-346.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/WUh716NN6fMgFPM8P8sBdg/1766295867/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
