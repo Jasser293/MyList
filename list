@@ -129,7 +129,7 @@ http://94.230.128.107:8080/OTP/index.m3u8
 #EXTINF:-1 ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
-http://46.53.208.5/live/754-req_5k_v5.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,ТНТ
 http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 ,ТНТ
@@ -501,7 +501,7 @@ http://195.158.223.132:8011/Uspeh
 #EXTINF:-1 ,Discovery Channel
 http://vod.splay.uz/live_splay/original/Discovery_Channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://139.28.255.188:8080/Discovery/index.m3u8
+http://cdn.admuspeh.my/8180/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Investigation Discovery
 http://185.151.240.225/Investigation_Discovery_HD_CEE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Travel+Adventure HD
@@ -511,7 +511,7 @@ http://193.25.8.59:8000/dtx
 #EXTINF:-1 ,TLC
 http://5.188.159.128:8070/TLC/index.m3u8
 #EXTINF:-1 ,TLC
-http://139.28.255.188:8080/TLCHD/index.m3u8
+http://cdn.admuspeh.my/8060/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,DocuBox
 http://193.25.8.59:8000/24Doc
 #EXTINF:-1 ,Глазами туриста
