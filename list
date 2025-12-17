@@ -163,9 +163,9 @@ http://87.228.57.152:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
 http://87.228.57.152:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k62yvqx6/alphamoretimehd.png",alpha Moretime
-http://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
+#http://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB1NPyM6/alphafunnyhd.png",alpha Funny
-http://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
+#http://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
 #EXTINF:-1 ,СТС
 http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,СТС
@@ -607,7 +607,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 ,Первый Музыкальный
 http://136.243.42.146/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgJPp94D/15plusmusichd.png",15+ Music
-http://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
+#http://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
 #EXTINF:-1 ,Bridge TV
 http://95.66.188.74/BridgeTV/mono.m3u8
 #EXTINF:-1 ,BRIDGE TV
@@ -689,11 +689,11 @@ http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,43 канал
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbRDGTB9/tv4hd.png",TV4
-http://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
+#http://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dwdXtmV5/alphacinemahd.png",alpha Cinema
-http://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
+#http://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3y89szkh/newrussianhd.png",Новый Русский
-http://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
+#http://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
 #EXTINF:-1 ,Тайна
 http://river-3-369.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/76Qxn7WHUsVPxRV8pq944A/1766478677/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
