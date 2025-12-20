@@ -501,6 +501,8 @@ http://195.158.223.132:8011/Uspeh
 #EXTINF:-1 ,Discovery Channel
 http://vod.splay.uz/live_splay/original/Discovery_Channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
+http://88.99.215.227/DiscoveryChannel/index.m3u8?token=Home
+#EXTINF:-1 ,Discovery Channel
 http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://185.151.240.225/Investigation_Discovery_HD_CEE/tracks-v1a1/mono.m3u8
@@ -579,9 +581,9 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
-#
+http://88.99.215.227/DikayaRibalka/index.m3u8?token=Home
 #EXTINF:-1 ,Дикая охота
-#
+http://88.99.215.227/DikayaOxota/index.m3u8?token=Home
 #EXTINF:-1 ,Диалоги о рыбалке
 #
 #EXTINF:-1 ,Рыболов
@@ -849,11 +851,15 @@ http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
+http://88.99.215.227/Eurosport1/index.m3u8?token=Home
+#EXTINF:-1 ,Eurosport 1
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://178.134.1.158:8081/eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://213.169.39.30:5211
+#EXTINF:-1 ,Eurosport 2
+http://88.99.215.227/Eurosport2/index.m3u8?token=Home
 #EXTINF:-1 ,Eurosport 2
 http://flussonic.salomtv.uz/eurosport_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
