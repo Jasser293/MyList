@@ -585,9 +585,9 @@ http://88.99.215.227/DikayaRibalka/index.m3u8?token=Home
 #EXTINF:-1 ,Дикая охота
 http://88.99.215.227/DikayaOxota/index.m3u8?token=Home
 #EXTINF:-1 ,Диалоги о рыбалке
-#
+http://88.99.215.227/DialogiORibalke/index.m3u8?token=Home
 #EXTINF:-1 ,Рыболов
-#
+http://88.99.215.227/Ribolov/index.m3u8?token=Home
 #EXTINF:-1 ,Prosto Fishing
 http://31.43.48.248:7000/ch344/video.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
