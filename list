@@ -504,6 +504,8 @@ http://vod.splay.uz/live_splay/original/Discovery_Channel/tracks-v1a1/mono.m3u8
 http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://185.151.240.225/Investigation_Discovery_HD_CEE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Investigation Discovery
+http://88.99.215.227/InvestigationDiscovery/index.m3u8?token=Home
 #EXTINF:-1 ,Travel+Adventure HD
 http://46.53.208.5/live/964-req_5k_v5.m3u8
 #EXTINF:-1 ,Epic
@@ -521,9 +523,13 @@ http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
+http://88.99.215.227/NationalGeographic/index.m3u8?token=Home
+#EXTINF:-1 ,National Geographic
 http://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://188.237.47.212:6005
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
+http://88.99.215.227/NatGeoWild/index.m3u8?token=Home
 #EXTINF:-1 ,History
 #
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
