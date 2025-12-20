@@ -381,7 +381,7 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 ,Соловьев.Live
 http://195.26.83.96:7029/play/a003
 #EXTINF:-1 ,Соловьев.Live
-http://river-3-344.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/bSoXjQ9VZUFbH6yl1I7UYg/1766654428/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
+http://river-4-421.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/O09urlWJslHHOH4-LMEBHQ/1766827946/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 #EXTINF:-1 ,Усадьба
@@ -403,15 +403,15 @@ http://195.49.206.244:90/zagorodnaya_zhizn/mono.m3u8?token=xzazx
 #EXTINF:-1 ,Загородный
 http://95.66.188.74/Zagorodniy/mono.m3u8
 #EXTINF:-1 ,Загородный Int
-http://river-4-427.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/8qBWzFafqdjcar16xpX8wQ/1766654473/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+http://river-4-427.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/AJRQcXYPiedQJ_YX09Ueag/1766828007/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
 #
 #EXTINF:-1 ,Rutube
-http://river-3-327.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/b9OPRfLXzA66RVpFxN75QA/1766654502/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+http://river-4-401.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/7w-brfOaxNW0Uh9NSC6SuQ/1766828033/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
 http://95.47.156.60:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл ТВ
-http://river-4-420.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/MGwS0Sk_S7xc6iRywxjtqw/1766654526/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-528.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/9w__gL1ijfSrKvavjz3N5Q/1766828063/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -521,13 +521,9 @@ http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
-http://31.47.199.45:1402/nationalgeographic/index.m3u8
+http://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
 http://188.237.47.212:6005
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
-http://31.47.199.45:1402/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
-#
 #EXTINF:-1 ,History
 #
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
@@ -571,7 +567,7 @@ http://31.130.203.6:8962
 #EXTINF:-1 ,Охотник и рыболов
 http://93.123.162.34:4087
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-314.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/Jj4vHtEzhzJYM1AXS-7bcg/1766654563/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+http://river-3-345.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/L3UrUllpaApw5jrLlsegzg/1766828099/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
@@ -689,7 +685,7 @@ http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3y89szkh/newrussianhd.png",Новый Русский
 #http://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
 #EXTINF:-1 ,Тайна
-http://river-m9-pitix-d3105.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/DmkyjkXIcilSdq6FboT0XQ/1766654611/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-3-369.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/V75wXh70PPkG9_wCJE-zHw/1766828133/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
