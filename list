@@ -837,17 +837,11 @@ http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Eurosport 1
-http://178.134.1.158:8081/eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Eurosport 1
-http://213.169.39.30:5211
+http://84.54.128.52:9090/play/4003/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://flussonic.salomtv.uz/eurosport_2/tracks-v1a1/mono.m3u8
+http://cdn.admuspeh.my/8014/video.m3u8?token=UC6cUc4xhjmGmD3v
 #EXTINF:-1 ,Eurosport 2
-https://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://5.188.159.128:8070/eurosport2/index.m3u8
+http://84.54.128.52:9090/play/4004/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://cdn.admuspeh.my/8565/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Setanta Sports 1
