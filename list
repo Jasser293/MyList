@@ -425,7 +425,7 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
 #
 #EXTINF:-1 ,Еда
-#
+http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 ,Кухня
 http://95.66.188.74/Kuhnya/mono.m3u8
 #EXTINF:-1 ,Кухня
@@ -517,7 +517,7 @@ http://gr.seetv.cc/play/189/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,DocuBox
 http://193.25.8.59:8000/24Doc
 #EXTINF:-1 ,Глазами туриста
-#
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -582,6 +582,8 @@ http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 http://cdn.admuspeh.my/9206/video.m3u8?token=UC6cUc4xhjmGmD3v
 #EXTINF:-1 ,Дикая Рыбалка HD
 http://cdn.admuspeh.my/8316/video.m3u8?token=UC6cUc4xhjmGmD3v
+#EXTINF:-1 ,Диалоги о рыбалке
+http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
 http://31.43.48.248:7000/ch344/video.m3u8
 #EXTINF:-1 ,555 Hunt Fishing TV
