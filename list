@@ -497,11 +497,13 @@ http://195.49.206.244:90/Galaxy/mono.m3u8?token=xgalx
 #EXTINF:-1 ,Успех
 http://195.158.223.132:8011/Uspeh
 #EXTINF:-1 ,Discovery Channel
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1 ,Discovery Channel
 http://vod.splay.uz/live_splay/original/Discovery_Channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://cdn.admuspeh.my/8180/video.m3u8?token=vGHDbEKZ6uPL7BBA
+#http://cdn.admuspeh.my/8180/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Investigation Discovery
 http://185.151.240.225/Investigation_Discovery_HD_CEE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Travel+Adventure HD
@@ -519,11 +521,17 @@ http://193.25.8.59:8000/24Doc
 #EXTINF:-1 ,Поехали!
 http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
+http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:-1 ,Animal Planet
 http://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:-1 ,National Geographic
 http://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="nat geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
+#EXTINF:-1 ,National Geographic Wild
 http://188.237.47.212:6005
+#EXTINF:-1 ,National Geographic Wild
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://195.158.223.132:8009/Ocean_HD
 #EXTINF:-1 ,История
@@ -642,6 +650,8 @@ http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 http://93.123.162.34:4060
 #EXTINF:-1 ,Театр
 http://195.49.206.244:90/Teatr/mono.m3u8?token=xteax
+#EXTINF:-1 ,Сапфир
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 tvg-id="Kvarc.ru" tvg-name="кварц" tvg-logo="https://i.imgur.com/90vSdul.png" ,Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 ,2x2
