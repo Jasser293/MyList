@@ -162,10 +162,6 @@ http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 http://87.228.57.152:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
 http://87.228.57.152:8987/CH_TVOETV_HUMOR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k62yvqx6/alphamoretimehd.png",alpha Moretime
-#http://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TB1NPyM6/alphafunnyhd.png",alpha Funny
-#http://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
 #EXTINF:-1 ,СТС
 http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,СТС
@@ -381,7 +377,7 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 ,Соловьев.Live
 http://195.26.83.96:7029/play/a003
 #EXTINF:-1 ,Соловьев.Live
-http://river-5-558.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/RLernisV05OnLogChjylIQ/1767000578/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
+http://river-5-558.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/wqvZcRtp8e1f2nOiYqjoag/1767119126/c9b87c0b00cfff9b37f95b9c8e4eed42/720p_stream.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 #EXTINF:-1 ,Усадьба
@@ -401,15 +397,15 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородная жизнь
 http://195.49.206.244:90/zagorodnaya_zhizn/mono.m3u8?token=xzazx
 #EXTINF:-1 ,Загородный Int
-http://river-3-348.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/eWXxZHWL3fBsQP49rYI0EQ/1767000641/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
+http://river-4-417.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/DLmaSSkBG2l4gUR16fax2Q/1767119179/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
 #
 #EXTINF:-1 ,Rutube
-http://river-3-327.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/ZBsLbOxs5yvgbzNy3xhOYg/1767000669/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
+http://river-5-540.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/yKmYrB6tNRRcCr4_CxcoMw/1767119207/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 ,Резонанс ТВ
 http://95.47.156.60:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл ТВ
-http://river-3-345.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/eEbLYe_1oVryfqnUwrvl4A/1767000695/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-3-345.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/qW746RUEYjLedeWBlNMs1g/1767119233/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -573,7 +569,7 @@ http://31.130.203.6:8962
 #EXTINF:-1 ,Охотник и рыболов
 http://93.123.162.34:4087
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-344.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/1ZO3GR-z6OZ5MgHNfhd4OA/1767000738/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
+http://river-4-425.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/C1ijXBSnaLcDQTLzJ4Dnjg/1767119270/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
@@ -682,14 +678,8 @@ http://31.130.203.6:8589
 http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,43 канал
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FbRDGTB9/tv4hd.png",TV4
-#http://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dwdXtmV5/alphacinemahd.png",alpha Cinema
-#http://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3y89szkh/newrussianhd.png",Новый Русский
-#http://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
 #EXTINF:-1 ,Тайна
-http://river-3-314.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/zHywD2ZHuPENVkpfgAffqw/1767000774/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-3-349.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/b4VuB1jkmYipnRE7QyKNVA/1767119314/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
@@ -830,6 +820,8 @@ http://193.25.8.59:8000/TV1000RU
 http://213.169.39.30:5006
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=xactx
+#EXTINF:-1 ,Viju TV1000 Action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 #EXTINF:-1 ,Кино 1 International
 http://5.9.44.106/content/38617/index.m3u8
 #EXTINF:-1 ,Pro100 TV
