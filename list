@@ -492,10 +492,8 @@ http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 http://vod.splay.uz/live_splay/original/Discovery_Channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 ,Discovery Channel
-#http://cdn.admuspeh.my/8180/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Investigation Discovery
-#
+http://cdn.admuspeh.my/8074/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Travel+Adventure HD
 http://46.53.208.5/live/964-req_5k_v5.m3u8
 #EXTINF:-1 ,Epic
