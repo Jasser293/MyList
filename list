@@ -4,8 +4,6 @@ http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал
 http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,Первый канал
-http://93.123.162.34:4001
-#EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://95.66.188.74/PerviyHD/mono.m3u8
@@ -260,8 +258,6 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 #EXTINF:-1 tvg-name="смотрим" ,Смотрим
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v4a1/mono.m3u8
 #EXTINF:-1 ,Москва. Доверие
-http://93.123.162.34:4040
-#EXTINF:-1 ,Москва. Доверие
 http://195.49.206.244:90/Doverie/mono.m3u8?token=xdovx
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-name="открытый мир. здоровье" tvg-logo="https://i.imgur.com/7orZOJA.png" ,Открытый мир
 http://212.233.98.62/0mir/index.m3u8
@@ -458,8 +454,6 @@ http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
 #EXTINF:-1 ,Вопросы и ответы
 http://195.49.206.244:90/Voprosy_i_otvety/mono.m3u8?token=xvopx
-#EXTINF:-1 ,Вопросы и ответы
-http://93.123.162.34:4076
 #EXTINF:-1 ,Спас
 http://185.46.16.239:8000/Spas
 #EXTINF:-1 ,Спас
@@ -501,7 +495,7 @@ http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,Discovery Channel
 #http://cdn.admuspeh.my/8180/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Investigation Discovery
-http://185.151.240.225/Investigation_Discovery_HD_CEE/tracks-v1a1/mono.m3u8
+#
 #EXTINF:-1 ,Travel+Adventure HD
 http://46.53.208.5/live/964-req_5k_v5.m3u8
 #EXTINF:-1 ,Epic
@@ -541,7 +535,7 @@ http://195.49.206.244:90/Zhivaya_Priroda_HD/mono.m3u8?token=xzivx
 #EXTINF:-1 ,Домашние животные
 http://195.49.206.244:90/domashnie_zhivotnye/mono.m3u8?token=xdxzx
 #EXTINF:-1 ,В мире животных
-http://93.123.162.34:4089
+#
 #EXTINF:-1 ,Zooпарк
 http://193.25.8.59:8000/zoo
 #EXTINF:-1 ,Наука
@@ -567,7 +561,7 @@ http://213.169.39.30:5262
 #EXTINF:-1 ,Рыбалка и охота
 http://31.130.203.6:8962
 #EXTINF:-1 ,Охотник и рыболов
-http://93.123.162.34:4087
+#
 #EXTINF:-1 ,Охотник и рыболов Int
 http://river-4-425.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/C1ijXBSnaLcDQTLzJ4Dnjg/1767119270/1da5d92af8c55b16241f1eb12a27f00c/720p_stream.m3u8
 #EXTINF:-1 ,Дикий
@@ -602,14 +596,6 @@ http://136.243.42.146/HLS/HD.m3u8
 #http://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
 #EXTINF:-1 ,Bridge TV
 http://95.66.188.74/BridgeTV/mono.m3u8
-#EXTINF:-1 ,BRIDGE TV
-http://93.123.162.34:4054
-#EXTINF:-1 ,BRIDGE TV Ruhit
-http://93.123.162.34:4055
-#EXTINF:-1 ,BRIDGE TV Classic
-http://93.123.162.34:4056
-#EXTINF:-1 ,BRIDGE TV Hits
-http://93.123.162.34:4057
 #EXTINF:-1 ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 ,MTV Live
@@ -644,8 +630,6 @@ https://online.tvimpact.live/hls/impact_tv.m3u8
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 ,Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 ,Театр
-http://93.123.162.34:4060
 #EXTINF:-1 ,Театр
 http://195.49.206.244:90/Teatr/mono.m3u8?token=xteax
 #EXTINF:-1 ,Сапфир
@@ -739,8 +723,6 @@ http://213.169.39.30:5009
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" ,Cinema
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 ,HollywooD
-http://93.123.162.34:4058
-#EXTINF:-1 ,HollywooD
 http://193.25.8.59:8000/interaz
 #EXTINF:-1 ,Kinowood
 http://193.27.209.122/kinowood/index.m3u8
@@ -807,11 +789,7 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=xmosx
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://93.123.162.34:4155
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
-#EXTINF:-1 ,Советская Киноклассика
-http://93.123.162.34:4042
 #EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=x100x
 #EXTINF:-1 ,Viju TV1000 Русское
@@ -882,8 +860,6 @@ http://195.49.206.244:90/Boets/mono.m3u8?token=xboyx
 http://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 ,Extreme Sports
 http://45.11.139.43:8555/extsport/index.m3u8
-#EXTINF:-1 ,Extreme sports HD
-http://185.151.240.225/Extreme_Sports/video.m3u8
 #EXTINF:-1 ,Матч!
 http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 ,Матч!
