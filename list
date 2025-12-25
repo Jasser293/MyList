@@ -493,11 +493,15 @@ http://vod.splay.uz/live_splay/original/Discovery_Channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,Investigation Discovery
+http://109.75.59.241:8017/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Investigation Discovery
 http://cdn.admuspeh.my/8074/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Travel+Adventure HD
 http://46.53.208.5/live/964-req_5k_v5.m3u8
 #EXTINF:-1 ,Epic
 http://193.25.8.59:8000/dtx
+#EXTINF:-1 ,TLC
+http://109.75.59.241:8017/TLC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TLC
 http://5.188.159.128:8070/TLC/index.m3u8
 #EXTINF:-1 ,TLC
