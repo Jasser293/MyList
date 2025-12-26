@@ -786,8 +786,6 @@ http://95.66.188.74/RusRoman/mono.m3u8
 http://85.208.223.249:8888/play/a007
 #EXTINF:-1 ,Про любовь
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
-#EXTINF:-1 ,Про любовь
-http://vod.stb.tvime.ru/Pro_Lubov_HD/video.m3u8
 #EXTINF:-1 ,НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 ,НСТ
