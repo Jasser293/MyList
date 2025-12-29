@@ -337,7 +337,7 @@ https://streaming.televizor-24-tochka.ru/live/43.m3u8
 #EXTINF:-1 ,Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 ,ЦТВ
-#
+http://178.212.71.253:8000/play/41/index.m3u8
 #EXTINF:-1 ,Телекафе
 http://88.135.128.30:8090/telecafe/index.m3u8
 #EXTINF:-1 ,Телекафе
@@ -445,7 +445,7 @@ http://95.66.188.74/RTGHD/mono.m3u8
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
-http://brodilo.tv/channel.php
+#http://brodilo.tv/channel.php
 #EXTINF:-1 ,Кто куда
 #
 #EXTINF:-1 ,Кто есть кто
@@ -527,7 +527,7 @@ http://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u
 #EXTINF:-1 ,National Geographic Wild
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 ,National Geographic Wild
-#
+http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://195.158.223.132:8009/Ocean_HD
 #EXTINF:-1 ,История
@@ -831,17 +831,27 @@ http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
+http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 1
 http://84.54.128.52:9090/play/4003/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://cdn.admuspeh.my/8014/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Eurosport 2
+http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 2
 http://84.54.128.52:9090/play/4004/index.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://41.205.93.154/EUROSPORT2/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://cdn.admuspeh.my/8565/video.m3u8?token=vGHDbEKZ6uPL7BBA
+#EXTINF:-1 ,Setanta Sports 1
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 ,Setanta Sports 2
 http://cdn.admuspeh.my/8676/video.m3u8?token=UC6cUc4xhjmGmD3v
+#EXTINF:-1 ,Setanta Sports 2
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2
 http://2.57.217.85:8000/play/a09f/index.m3u8
 #EXTINF:-1 ,Беларусь 5
