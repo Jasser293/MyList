@@ -6,7 +6,7 @@ http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
-http://95.66.188.74/PerviyHD/mono.m3u8
+http://95.66.188.74/PerviyKanal/mono.m3u8
 #EXTINF:-1 ,Первый канал Европа
 http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png" ,ТАСС
@@ -130,19 +130,19 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,ТНТ
-http://95.66.188.74/TNT_HD/mono.m3u8
+http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://195.49.206.244:90/TNT/mono.m3u8?token=xtntx
 #EXTINF:-1 ,ТНТ
-http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
+http://95.66.188.74/TNT/mono.m3u8
 #EXTINF:-1 ,ТНТ
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ4
-http://95.66.188.74/THT4/index.m3u8
-#EXTINF:-1 ,ТНТ4
 http://195.49.206.244:90/TNT4/mono.m3u8?token=xtn4x
+#EXTINF:-1 ,ТНТ4
+http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://195.158.223.132:8000/TNT_4
 #EXTINF:-1 ,ТНТ4 International
@@ -168,7 +168,7 @@ http://195.49.206.244:90/STS/mono.m3u8?token=xstsx
 #EXTINF:-1 ,СТС
 http://185.46.16.239:8000/STS
 #EXTINF:-1 ,СТС
-http://95.66.188.74/CTC_HD/mono.m3u8
+http://95.66.188.74/STS/mono.m3u8
 #EXTINF:-1 ,СТС (+2)
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС (+4)
@@ -176,13 +176,13 @@ http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС International
 http://112.72.4.71/live/disk1/STS/HLSv3-FTA/STS.m3u8
 #EXTINF:-1 ,СТС Love
-http://95.66.188.74/CTC_Love/mono.m3u8
-#EXTINF:-1 ,СТС Love
 http://195.49.206.244:90/STS_Love/mono.m3u8?token=xlovx
-#EXTINF:-1 ,ТВ3
-http://95.66.188.74/TV3/mono.m3u8
+#EXTINF:-1 ,СТС Love
+http://95.66.188.74/CTC_Love/mono.m3u8
 #EXTINF:-1 ,ТВ3
 http://195.49.206.244:90/TV_3/mono.m3u8?token=xtv3x
+#EXTINF:-1 ,ТВ3
+http://95.66.188.74/TV3/mono.m3u8
 #EXTINF:-1 ,ТВ3
 http://185.46.16.239:8000/TV3
 #EXTINF:-1 ,ТВ3
@@ -324,7 +324,7 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PervyyTulskiy.ru" tvg-name="первый тульский" tvg-logo="https://i.imgur.com/QdKKHXb.png" ,Первый Тульский
 http://1tvtula.ru/tula/1tv_hi/index.m3u8
 #EXTINF:-1 ,Арсенал
-http://95.66.188.74/Arsenal_HD/index.m3u8
+http://95.66.188.74/Arsenal_HD/mono.m3u8
 #EXTINF:-1 ,Оружие
 http://95.66.188.74/Oruzhie/index.m3u8
 #EXTINF:-1 ,Оружие
@@ -444,7 +444,7 @@ http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 ,RTG
-http://95.66.188.74/RTGHD/mono.m3u8
+http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
 #EXTINF:-1 ,Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Brodilo TV HD
@@ -535,6 +535,8 @@ http://188.237.47.212:6005
 http://195.158.223.132:8009/Ocean_HD
 #EXTINF:-1 ,История
 http://185.46.16.239:8000/Istoriya
+#EXTINF:-1 ,Точка РФ
+https://vod.splay.uz/live_splay/original/HDL_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Точка РФ
 http://95.66.188.74/HD_Life/mono.m3u8
 #EXTINF:-1 ,Живая планета
@@ -722,9 +724,9 @@ http://31.130.203.6:9415
 #EXTINF:-1 ,.black
 http://195.49.206.244:90/A-1/mono.m3u8?token=xblcx
 #EXTINF:-1 ,VHS-ка
-http://95.66.188.74/VHS/index.m3u8
-#EXTINF:-1 ,VHS-ка
 http://31.130.203.6:9514
+#EXTINF:-1 ,VHS-ка
+http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
@@ -800,13 +802,13 @@ http://195.49.206.244:90/NST/mono.m3u8?token=xnstx
 #EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://95.66.188.74/MosfilmHD/mono.m3u8
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.49.206.244:90/Mosfilm/mono.m3u8?token=xmosx
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://193.25.8.59:8000/tnv
 #EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=x100x
 #EXTINF:-1 ,Viju TV1000 Русское
