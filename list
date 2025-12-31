@@ -431,6 +431,8 @@ http://31.130.203.6:8754
 #http://185.223.125.136:8005/HDL
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:-1 ,Первый вегетарианский
+http://ua.online24.pm/play/335/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,UNIVER TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 ,Точка Отрыва
