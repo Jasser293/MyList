@@ -507,6 +507,8 @@ http://46.53.208.5/live/964-req_5k_v5.m3u8
 #EXTINF:-1 ,Epic
 http://193.25.8.59:8000/dtx
 #EXTINF:-1 ,TLC
+http://176.118.197.125/TLC-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TLC
 http://91.207.115.228:5000/c151
 #EXTINF:-1 ,TLC
 http://109.75.59.241:8017/TLC/tracks-v1a1/mono.m3u8
