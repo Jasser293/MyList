@@ -513,8 +513,6 @@ http://91.207.115.228:5000/c151
 #EXTINF:-1 ,TLC
 http://109.75.59.241:8017/TLC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TLC
-http://5.188.159.128:8070/TLC/index.m3u8
-#EXTINF:-1 ,TLC
 #http://gr.seetv.cc/play/189/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,DocuBox
 http://193.25.8.59:8000/24Doc
