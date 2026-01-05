@@ -400,7 +400,7 @@ http://185.46.16.239:8000/Doktor
 #EXTINF:-1 ,Доктор
 http://178.134.1.158:8081/doktor/index.m3u8
 #EXTINF:-1 ,Доктор
-http://45.11.139.43:8555/doctor/index.m3u8
+http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
 #EXTINF:-1 ,Здоровое ТВ
 http://95.66.188.74/ZdorovoeTV/mono.m3u8
 #EXTINF:-1 ,Живи
