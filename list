@@ -482,11 +482,11 @@ http://vod.splay.uz/live_splay/original/Discovery_Channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,Investigation Discovery
-http://109.75.59.241:8017/ID/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Investigation Discovery
-#http://cdn.admuspeh.my/8074/video.m3u8?token=vGHDbEKZ6uPL7BBA
+http://cdn.admuspeh.my/8074/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,History
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
+#EXTINF:-1 ,Travel+Adventure HD
+http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 ,Travel+Adventure HD
 http://46.53.208.5/live/964-req_5k_v5.m3u8
 #EXTINF:-1 ,Epic
@@ -593,6 +593,8 @@ http://136.243.42.146/HLS/HD.m3u8
 http://95.66.188.74/BridgeTV/mono.m3u8
 #EXTINF:-1 ,Bridge TV Русский Хит
 http://193.25.8.59:8000/rusong
+#EXTINF:-1 ,O2TV
+http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 ,Bridge TV Шлягер
 http://193.25.8.59:8000/mtv
 #EXTINF:-1 ,MIXM TV
@@ -719,8 +721,8 @@ http://94.230.250.140/kinotv/mono.m3u8
 http://213.137.87.198:9025/kinomiks_hd/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 ,Киносемья HD
 http://213.137.87.198:9025/kinosemya_hd/index.m3u8?token=Happy_new_year2026
-#EXTINF:-1 ,FilmBox
-#
+#EXTINF:-1 ,Viasat Kino Comedy
+http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" ,Cinema
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 ,HollywooD
