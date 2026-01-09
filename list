@@ -599,6 +599,14 @@ http://77.232.131.211/O2TV/index.m3u8
 http://193.25.8.59:8000/mtv
 #EXTINF:-1 ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
+#EXTINF:-1 ,Vevo '70s & '80s
+http://jmp2.uk/stvp-GBBD1900009UD
+#EXTINF:-1 ,Vevo '90s & '00s
+http://jmp2.uk/stvp-ITBC210000200
+#EXTINF:-1 ,Vevo Rock
+http://jmp2.uk/stvp-USBD3000145P
+#EXTINF:-1 ,Vevo Rétro
+http://jmp2.uk/stvp-FRBD1900013CB
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-name="now 70`s" tvg-logo="https://i.imgur.com/qiCCX5X.png" ,Now 70`s
 http://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-name="now 80`s" tvg-logo="https://i.imgur.com/YyPnMeB.png" ,Now 80`s
