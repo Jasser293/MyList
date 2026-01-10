@@ -1,12 +1,14 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 ,Первый канал
-http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://95.66.188.74/PerviyKanal/mono.m3u8
+#EXTINF:-1 ,Первый канал
+#http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал Европа
 http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png" ,ТАСС
