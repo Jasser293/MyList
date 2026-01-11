@@ -234,11 +234,13 @@ http://iptv.crimea.net:8787
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg",Tv Brics
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,СТВ
-https://edge50.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+http://edge59.dc.beltelecom.by/ctv/_definst_/ctv.stream/playlist.m3u8
 #EXTINF:-1 ,ОНТ
-https://edge50.dc.beltelecom.by/ont/ont/playlist.m3u8
+https://edge51.dc.beltelecom.by/ont/_definst_/smil:ont/chunklist.m3u8
 #EXTINF:-1 ,Беларусь 1
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 ,Беларусь 1
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w635211647_b5160000_sleng.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://178.124.179.122:8080/Belarus24/index.m3u8
 #EXTINF:-1 ,Беларусь 24
@@ -347,8 +349,6 @@ http://195.49.206.244:90/Avto24/mono.m3u8?token=xautx
 http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:-1 ,Авто плюс
 http://158.101.222.193:88/georgia_play.php?id=autoplus
-#EXTINF:-1 ,Авто плюс
-http://146.120.14.239:3001/play/a07n
 #EXTINF:-1 ,Драйв
 http://195.49.206.244:90/Drive/mono.m3u8?token=drive
 #EXTINF:-1 ,Драйв
