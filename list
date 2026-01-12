@@ -508,9 +508,9 @@ http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
-http://176.96.241.40/AnimalPlanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Animal Planet
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:-1 ,Animal Planet
+http://176.96.241.40/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Animal Planet
 #http://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
@@ -520,11 +520,11 @@ http://176.96.241.40/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
 #http://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic Wild
-http://176.96.241.40/NatGeoWildHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,National Geographic Wild
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 ,National Geographic Wild
 http://188.237.47.212:6005
+#EXTINF:-1 ,National Geographic Wild
+http://176.96.241.40/NatGeoWildHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://86.57.209.210/Ocean/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,История
@@ -532,9 +532,9 @@ http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 ,История
 http://176.96.241.40/History/index.m3u8
 #EXTINF:-1 ,Точка РФ
-http://176.96.241.40/HDL_HD/index.m3u8
-#EXTINF:-1 ,Точка РФ
 http://95.66.188.74/HD_Life/mono.m3u8
+#EXTINF:-1 ,Точка РФ
+http://176.96.241.40/HDL_HD/index.m3u8
 #EXTINF:-1 ,Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 ,Живая природа
@@ -573,8 +573,6 @@ http://31.130.203.6:8962
 http://river-3-349.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/_7q8i-IJuhHSdB1R0111Kg/1768839078/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
-#EXTINF:-1 ,Дикий
-http://176.96.241.40/Dikiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 ,Дикая охота HD
@@ -796,7 +794,7 @@ http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 ,Русский детектив
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:-1 ,Русский детектив
-http://176.96.241.40/RusskiyDetektiv/index.m3u8
+#http://176.96.241.40/RusskiyDetektiv/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 ,Русский роман
