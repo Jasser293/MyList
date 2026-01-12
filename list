@@ -516,7 +516,9 @@ http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 ,National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 ,National Geographic
-http://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
+http://176.96.241.40/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,National Geographic
+#http://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic Wild
 http://176.96.241.40/NatGeoWildHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic Wild
@@ -527,8 +529,10 @@ http://188.237.47.212:6005
 http://86.57.209.210/Ocean/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,История
 http://185.46.16.239:8000/Istoriya
+#EXTINF:-1 ,История
+http://176.96.241.40/History/index.m3u8
 #EXTINF:-1 ,Точка РФ
-https://vod.splay.uz/live_splay/original/HDL_HD/tracks-v1a1/mono.m3u8
+http://176.96.241.40/HDL_HD/index.m3u8
 #EXTINF:-1 ,Точка РФ
 http://95.66.188.74/HD_Life/mono.m3u8
 #EXTINF:-1 ,Живая планета
@@ -791,6 +795,8 @@ http://139.28.255.188:8080/bestseller/index.m3u8
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 ,Русский детектив
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
+#EXTINF:-1 ,Русский детектив
+http://176.96.241.40/RusskiyDetektiv/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 ,Русский роман
