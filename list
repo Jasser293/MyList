@@ -508,19 +508,23 @@ http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://95.66.188.74/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
+http://176.96.241.40/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Animal Planet
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 ,Animal Planet
-http://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
+#http://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 ,National Geographic
 http://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic Wild
+http://176.96.241.40/NatGeoWildHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,National Geographic Wild
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 ,National Geographic Wild
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
-#
+http://86.57.209.210/Ocean/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,История
 http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 ,Точка РФ
@@ -566,9 +570,15 @@ http://river-3-347.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/Kwik-dfYDVkkc_re8I
 #EXTINF:-1 ,Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
+http://176.96.241.40/Dikiy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 ,Дикая охота HD
+http://176.96.241.40/DikayaOxota/index.m3u8
+#EXTINF:-1 ,Дикая охота HD
 http://cdn.admuspeh.my/9206/video.m3u8?token=hz91VxaPZjCos8Vh
+#EXTINF:-1 ,Дикая Рыбалка HD
+http://176.96.241.40/DikayaRibalka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикая Рыбалка HD
 http://cdn.admuspeh.my/8316/video.m3u8?token=UC6cUc4xhjmGmD3v
 #EXTINF:-1 ,Диалоги о рыбалке
@@ -830,7 +840,11 @@ http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
+http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 1
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://176.96.241.40/Eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://cdn.admuspeh.my/8014/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Eurosport 2
