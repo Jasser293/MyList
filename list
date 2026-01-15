@@ -366,7 +366,7 @@ http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf
 #EXTINF:-1 ,Соловьев.Live
 http://195.26.83.96:7029/play/a003
 #EXTINF:-1 ,Соловьев.Live
-http://river-4-422.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/T0end2Z-nbKhN5GYusyITQ/1768838942/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+http://river-4-416.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/s9k8CrLIUgXmNP5FJTj8Zg/1769073457/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-id="OSN.ru" tvg-name="осн тв" ,ОСН ТВ
@@ -388,13 +388,13 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородная жизнь
 http://195.49.206.244:90/zagorodnaya_zhizn/mono.m3u8?token=xzazx
 #EXTINF:-1 ,Загородный Int
-http://river-3-342.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/_h-bj0aMBzmDXHxTdDHASw/1768838972/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+http://river-3-342.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/2Sh1C2GQfTzB3xJhPXRPag/1769073511/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
 #
 #EXTINF:-1 ,Rutube
-http://river-3-340.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/6Lt-0aowgXxtjS7sdxQIUw/1768839001/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+http://river-5-557.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/gvJYT0lPbqe102sYHtiY8A/1769073532/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл
-http://river-5-523.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/MxWVf3nb4_6LO83k1j7GVQ/1768839020/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-3-317.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/WoDUrmZmxGzEtI6ATG-J6w/1769073562/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://185.46.16.239:8000/Doktor
 #EXTINF:-1 ,Доктор
@@ -664,7 +664,7 @@ http://195.49.206.244:90/2x2/mono.m3u8?token=x2x2x
 #EXTINF:-1 ,Дом кино премиум
 http://88.135.128.30:8090/domkinopremium/index.m3u8
 #EXTINF:-1 ,Дом кино премиум
-http://85.11.144.6:6060/play/a07v/index.m3u8
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
 #EXTINF:-1 ,Дом кино
 http://88.135.128.30:8090/domkino/index.m3u8
 #EXTINF:-1 ,Дом кино
@@ -684,7 +684,7 @@ http://195.49.206.244:90/T-24/mono.m3u8?token=xt24x
 #EXTINF:-1 ,43 канал
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:-1 ,Тайна
-http://river-5-532.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/uI9RIJS-nf6tgcQuwaiMfg/1768839127/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-3-369.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/WarvmAC45hacdbclB0Q8RA/1769073664/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,Иллюзион+
@@ -891,10 +891,8 @@ http://93.170.254.17/MMATV/index.m3u8
 http://95.66.188.74/MatchBoec/mono.m3u8
 #EXTINF:-1 ,МАТЧ! Боец
 http://195.49.206.244:90/Boets/mono.m3u8?token=xboyx
-#EXTINF:-1 ,Бокс ТВ
-http://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 ,Extreme Sports
-http://45.11.139.43:8555/extsport/index.m3u8
+#
 #EXTINF:-1 ,Матч!
 http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 ,Матч!
