@@ -197,8 +197,6 @@ http://195.49.206.244:90/Super/mono.m3u8?token=xsubx
 http://139.28.255.188:8080/4e/index.m3u8
 #EXTINF:-1 ,Че!
 http://195.26.83.96:7009/play/89/index.m3u8
-#EXTINF:-1 ,Че!
-http://217.113.16.23/chetv/index.m3u8
 #EXTINF:-1 ,Ю
 http://139.28.255.188:8080/yutv/index.m3u8
 #EXTINF:-1 ,Ю
@@ -572,7 +570,7 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,ТНТ Music
-http://tntm.mediacdn.ru/cdn/tntmusic/playlist_hdhigh.m3u8
+http://195.26.83.96:7029/play/9
 #EXTINF:-1 ,ТНТ Music
 http://185.46.16.239:8000/Nashe_TV
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="муз-тв" tvg-logo="https://i.imgur.com/BtqrHmz.png" ,Муз-ТВ
@@ -864,8 +862,6 @@ http://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playl
 #EXTINF:-1 ,MMA-TV
 http://93.170.254.17/MMATV/index.m3u8
 #EXTINF:-1 ,МАТЧ! Боец
-http://s1.merlive.am/match-boec/index.m3u8
-#EXTINF:-1 ,МАТЧ! Боец
 http://195.49.206.244:90/Boets/mono.m3u8?token=xboyx
 #EXTINF:-1 ,Extreme Sports
 http://cdn.voka.tv/live/3009-req_5k_v5.m3u8
@@ -938,7 +934,7 @@ http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 ,Советские мультфильмы
 http://31.130.203.6:8475
 #EXTINF:-1 ,Gulli Girl
-http://213.230.65.254:8000/play/a027
+http://176.118.197.125/Gulli-Girl/index.m3u8
 #EXTINF:-1 ,Ani
 http://195.49.206.244:90/Ani/mono.m3u8?token=xanix
 #EXTINF:-1 ,Пингвин ТВ
