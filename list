@@ -310,7 +310,7 @@ http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
 #EXTINF:-1 ,Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 ,ЦТВ
-#
+http://cdn-bal.srv4you.net/0451/mpegts
 #EXTINF:-1 ,Телекафе
 http://88.135.128.30:8090/telecafe/index.m3u8
 #EXTINF:-1 ,Телекафе
@@ -370,7 +370,7 @@ http://195.49.206.244:90/zagorodnaya_zhizn/mono.m3u8?token=xzazx
 #EXTINF:-1 ,Загородный Int
 http://river-4-416.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/LWpfjVI6h0vJZDIMbDoOlA/1769249236/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
-#
+http://cdn-bal.srv4you.net/rj17/mpegts
 #EXTINF:-1 ,Rutube
 http://river-3-340.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/XZkw_3qtWA1vkYPl2FHMWg/1769249285/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл
@@ -382,11 +382,13 @@ http://178.134.1.158:8081/doktor/index.m3u8
 #EXTINF:-1 ,Доктор
 http://195.49.206.244:90/Doktor/mono.m3u8?token=xdocx
 #EXTINF:-1 ,Здоровое ТВ
-#
+http://cdn-bal.srv4you.net/0422/mpegts
 #EXTINF:-1 ,Живи
 http://158.101.222.193:88/georgia_play.php?id=jivi
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
+http://cdn-bal.srv4you.net/0137/mpegts
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
 http://cdn.admuspeh.my/8650/video.m3u8?token=hz91VxaPZjCos8Vh
 #EXTINF:-1 ,Еда
@@ -458,15 +460,23 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 ,Успех
 http://158.101.222.193:88/georgia_play.php?id=uspeh
 #EXTINF:-1 ,Discovery Channel
+http://cdn-bal.srv4you.net/0267/mpegts
+#EXTINF:-1 ,Discovery Channel
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://vod.splay.uz/live_splay/original/Discovery_Channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
+#http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 ,Investigation Discovery
+http://cdn-bal.srv4you.net/0149/mpegts
 #EXTINF:-1 ,Investigation Discovery
 http://cdn.admuspeh.my/8074/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,History
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
+#EXTINF:-1 ,History
+http://cdn-bal.srv4you.net/0259/mpegts
+#EXTINF:-1 ,H2
+http://cdn-bal.srv4you.net/0205/mpegts
 #EXTINF:-1 ,Travel+Adventure HD
 http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 ,Travel+Adventure HD
@@ -476,9 +486,11 @@ http://193.25.8.59:8000/dtx
 #EXTINF:-1 ,Epic
 http://31.130.203.6:9644
 #EXTINF:-1 ,TLC
+http://cdn-bal.srv4you.net/0260/mpegts
+#EXTINF:-1 ,TLC
 http://176.118.197.125/TLC-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TLC
-http://gr.seetv.cc/play/189/D70CC021CA87DF2/video.m3u8
+#http://gr.seetv.cc/play/189/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,DocuBox
 http://193.25.8.59:8000/24Doc
 #EXTINF:-1 ,Глазами туриста
@@ -488,21 +500,27 @@ http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 ,Animal Planet
-http://176.96.241.40/AnimalPlanet/tracks-v1a1/mono.m3u8
+http://cdn-bal.srv4you.net/0219/mpegts
+#EXTINF:-1 ,Animal Planet
+#http://176.96.241.40/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Animal Planet
 #http://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 ,National Geographic
-http://176.96.241.40/NationalGeographic/tracks-v1a1/mono.m3u8
+http://cdn-bal.srv4you.net/0203/mpegts
+#EXTINF:-1 ,National Geographic
+#http://176.96.241.40/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
 #http://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic Wild
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 ,National Geographic Wild
+http://cdn-bal.srv4you.net/0124/mpegts
+#EXTINF:-1 ,National Geographic Wild
 http://188.237.47.212:6005
 #EXTINF:-1 ,National Geographic Wild
-http://176.96.241.40/NatGeoWildHD/tracks-v1a1/mono.m3u8
+#http://176.96.241.40/NatGeoWildHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://86.57.209.210/Ocean/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,История
@@ -552,13 +570,17 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 ,Дикая охота HD
+http://cdn-bal.srv4you.net/0327/mpegts
+#EXTINF:-1 ,Дикая охота HD
 http://176.96.241.40/DikayaOxota/index.m3u8
 #EXTINF:-1 ,Дикая охота HD
-http://cdn.admuspeh.my/9206/video.m3u8?token=hz91VxaPZjCos8Vh
+#http://cdn.admuspeh.my/9206/video.m3u8?token=hz91VxaPZjCos8Vh
+#EXTINF:-1 ,Дикая Рыбалка HD
+http://cdn-bal.srv4you.net/0326/mpegts
 #EXTINF:-1 ,Дикая Рыбалка HD
 http://176.96.241.40/DikayaRibalka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дикая Рыбалка HD
-http://cdn.admuspeh.my/8316/video.m3u8?token=UC6cUc4xhjmGmD3v
+#http://cdn.admuspeh.my/8316/video.m3u8?token=UC6cUc4xhjmGmD3v
 #EXTINF:-1 ,Диалоги о рыбалке
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -666,13 +688,13 @@ http://195.49.206.244:90/Illuzion+/mono.m3u8?token=xilpx
 #EXTINF:-1 ,Кинопремьера
 http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 ,Кинопремьера HD
-http://213.137.87.198:9025/kinopremera_hd/index.m3u8?token=Happy_new_year2026 
+http://cdn-bal.srv4you.net/0209/mpegts
 #EXTINF:-1 ,Кинопремьера
 http://195.49.206.244:90/Kinopremiera/mono.m3u8?token=xprex
 #EXTINF:-1 ,Киносвидание
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 ,Киносвидание HD
-http://213.137.87.198:9025/kinosvidanie_hd/index.m3u8?token=Happy_new_year2026
+http://cdn-bal.srv4you.net/0271/mpegts
 #EXTINF:-1 ,Mужское Кино
 http://195.49.206.244:90/Muzhskoe_Kino/mono.m3u8?token=xmujx
 #EXTINF:-1 ,Kиносемья
@@ -706,7 +728,7 @@ http://cdn.voka.tv/live/1123-req_5k_v5.m3u8
 #EXTINF:-1 ,Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит HD
-http://213.137.87.198:9025/kinohit/index.m3u8?token=Happy_new_year2026
+http://cdn-bal.srv4you.net/0272/mpegts
 #EXTINF:-1 ,Кинохит
 http://195.49.206.244:90/kinohit/mono.m3u8?token=xknhx
 #EXTINF:-1 ,Кинохит
@@ -716,7 +738,7 @@ http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 ,Кино ТВ
 http://94.230.250.140/kinotv/mono.m3u8
 #EXTINF:-1 ,Киномикс HD
-http://213.137.87.198:9025/kinomiks/index.m3u8?token=Happy_new_year2026
+http://cdn-bal.srv4you.net/0273/mpegts
 #EXTINF:-1 ,Киносемья HD
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 ,Viasat Kino Comedy
@@ -742,7 +764,7 @@ http://195.49.206.244:90/Komediya/mono.m3u8?token=xkomx
 #EXTINF:-1 ,Кинокомедия
 http://185.46.16.239:8000/Fox_HD
 #EXTINF:-1 ,Кинокомедия HD
-http://213.137.87.198:9025/kinokomediya_hd/index.m3u8?token=Happy_new_year2026
+http://cdn-bal.srv4you.net/0281/mpegts
 #EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="vip comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" ,viju+ Comedy
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Наше новое кино
@@ -760,15 +782,15 @@ http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:-1 ,Мужское кино HD
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 ,Мужское кино HD
-http://213.137.87.198:9025/muzhskoe_kino_hd/index.m3u8?token=Happy_new_year2026
+http://cdn-bal.srv4you.net/0287/mpegts
 #EXTINF:-1 ,Русский бестселлер
 http://139.28.255.188:8080/bestseller/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 ,Русский детектив
-http://176.96.241.40/RusskiyDetektiv/index.m3u8
+http://cdn-bal.srv4you.net/0277/mpegts
 #EXTINF:-1 ,Русский детектив
-https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
+http://176.96.241.40/RusskiyDetektiv/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 ,Русский роман
@@ -779,8 +801,10 @@ http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 ,НСТ
 http://195.49.206.244:90/NST/mono.m3u8?token=xnstx
+#EXTINF:-1 ,Наше крутое HD
+http://cdn-bal.srv4you.net/0123/mpegts
 #EXTINF:-1 ,Киноужас HD
-http://213.137.87.198:9025/kinouzhas_hd/index.m3u8?token=Happy_new_year2026
+http://cdn-bal.srv4you.net/0239/mpegts
 #EXTINF:-1 ,Киноужас
 http://109.75.59.241:8017/Kinouzhas/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -818,25 +842,25 @@ http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://nl.m3u.life:9025/eurosport_1_hd_ce/tracks-v1a2/mono.m3u8?token=Happy_new_year2026
+http://cdn-bal.srv4you.net/0264/mpegts
 #EXTINF:-1 ,Eurosport 1
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://nl.m3u.life:9025/eurosport_2_hd_ce/tracks-v1a2/mono.m3u8?token=Happy_new_year2026
+http://cdn-bal.srv4you.net/0265/mpegts
 #EXTINF:-1 ,Eurosport 2
 http://176.96.241.40/Eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://cdn.admuspeh.my/8014/video.m3u8?token=vGHDbEKZ6uPL7BBA
+#http://cdn.admuspeh.my/8014/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Eurosport 2
-#http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
-http://nl.m3u.life:9025/setanta_sport_1_hd/index.m3u8?token=Happy_new_year2026
+http://cdn-bal.srv4you.net/0933/mpegts
 #EXTINF:-1 ,Setanta Sports 1
 http://cdn.admuspeh.my/8565/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Setanta Sports 1
 #http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2
-http://nl.m3u.life:9025/setanta_sport_2_hd/index.m3u8?token=Happy_new_year2026
+http://cdn-bal.srv4you.net/0934/mpegts
 #EXTINF:-1 ,Setanta Sports 2
 http://cdn.admuspeh.my/8676/video.m3u8?token=UC6cUc4xhjmGmD3v
 #EXTINF:-1 ,Setanta Sports 2
