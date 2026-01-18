@@ -32,7 +32,7 @@ http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Мир
-#
+http://109.248.236.51/ntv_mir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
@@ -86,11 +86,12 @@ http://195.49.206.244:90/REN_TV/mono.m3u8?token=xrenx
 http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://139.28.255.188:8080/rentv/index.m3u8
-#http://185.46.16.239:8000/REN_TV
+#EXTINF:-1 ,Рен ТВ
+http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
-#EXTINF:-1 ,Рен ТВ (+3)
-http://193.25.8.59:8000/ren
+#EXTINF:-1 ,Рен ТВ International
+http://109.248.236.51/ren/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ТВЦ
 http://139.28.255.188:8080/tvcentr/index.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -303,6 +304,8 @@ http://31.130.203.6:8343
 http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 ,Оружие
 http://cdn.voka.tv/live/168-req_5k_v5.m3u8
+#EXTINF:-1 ,Оружие
+http://109.248.236.51/oruzhie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Победа
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
 #EXTINF:-1 ,Победа
@@ -836,9 +839,13 @@ http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://cdn-bal.srv4you.net/0264/mpegts
 #EXTINF:-1 ,Eurosport 1
+http://109.248.236.51/eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 1
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://cdn-bal.srv4you.net/0265/mpegts
+#EXTINF:-1 ,Eurosport 2
+http://109.248.236.51/eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 #http://cdn.admuspeh.my/8014/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Eurosport 2
