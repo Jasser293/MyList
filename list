@@ -416,6 +416,8 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
 #EXTINF:-1 ,Точка Отрыва
 http://195.49.206.244:90/tochka_otryva/mono.m3u8?token=xtocx
+#EXTINF:-1 ,Точка отрыва
+http://109.248.236.51/tochka_otriva/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
 http://109.248.236.51/moya_planeta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МОЯ ПЛАНЕТА
@@ -469,6 +471,8 @@ http://158.101.222.193:88/georgia_play.php?id=uspeh
 #EXTINF:-1 ,Discovery Channel
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 ,Discovery Channel
+http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Discovery Channel
 http://vod.splay.uz/live_splay/original/Discovery_Channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
@@ -509,7 +513,9 @@ http://86.57.209.210/Ocean/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,История
 http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 ,Точка РФ
-http://158.101.222.193:88/georgia_play.php?id=hdlife
+https://vod.splay.uz/live_splay/original/HDL_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Точка РФ
+#http://158.101.222.193:88/georgia_play.php?id=hdlife
 #EXTINF:-1 ,Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 ,Живая природа
@@ -549,9 +555,13 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 ,Дикая охота HD
+http://cdn.voka.tv/live/2325-req_5k_v5.m3u8
+#EXTINF:-1 ,Дикая охота HD
 http://cdn.admuspeh.my/9206/video.m3u8?token=hz91VxaPZjCos8Vh
 #EXTINF:-1 ,Дикая Рыбалка HD
-#http://cdn.admuspeh.my/8316/video.m3u8?token=UC6cUc4xhjmGmD3v
+http://cdn.voka.tv/live/2324-req_5k_v5.m3u8
+#EXTINF:-1 ,Дикая Рыбалка HD
+http://cdn.admuspeh.my/8316/video.m3u8?token=UC6cUc4xhjmGmD3v
 #EXTINF:-1 ,Диалоги о рыбалке
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
