@@ -12,10 +12,10 @@ http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png" ,ТАСС
 http://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 ,НТВ
-http://139.28.255.188:8080/ntvhd/index.m3u8
-#EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ
+http://139.28.255.188:8080/ntvhd/index.m3u8
 #EXTINF:-1 ,НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 #http://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
@@ -105,9 +105,9 @@ http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://95.47.156.60:8000/play/5/index.m3u8
 #EXTINF:-1 ,Пятый канал
-http://cdn.voka.tv/live/5121-req_5k_v5.m3u8
+http://85.192.10.131/hls/5kanal/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
-http://93.170.254.17/5Channel/index.m3u8
+http://cdn.voka.tv/live/5121-req_5k_v5.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -130,6 +130,8 @@ http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
 http://195.49.206.244:90/TNT/mono.m3u8?token=xtntx
 #EXTINF:-1 ,ТНТ
 http://185.46.16.239:8000/TNT
+#EXTINF:-1 ,ТНТ
+http://85.192.10.131/hls/tnt/playlist.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ4
@@ -145,7 +147,7 @@ http://178.124.153.123:44400/peretz
 #EXTINF:-1 ,КВН ТВ
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 ,КВН ТВ
-http://93.170.254.17/KVN/index.m3u8
+http://109.248.236.51/kvn_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
@@ -309,8 +311,6 @@ http://109.248.236.51/oruzhie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
 http://river-3-374.rtbcdn.ru/stream/genetta-512.ost.rutube.ru/HnW3-wC7R_5rMCTnnBZxSw/1769432168/13b0320238d7938a2deffb4065068986/1080p_stream.m3u8
 #EXTINF:-1 ,Победа
-https://streaming.televizor-24-tochka.ru/live/43.m3u8
-#EXTINF:-1 ,Победа
 http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
 #EXTINF:-1 ,Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
@@ -358,8 +358,6 @@ http://river-3-358.rtbcdn.ru/stream/genetta-504.ost.rutube.ru/Jq1t0MYzRYqSscNYsI
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-id="OSN.ru" tvg-name="осн тв" ,ОСН ТВ
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 ,Усадьба
-http://93.170.254.17/Usadba/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://195.49.206.244:90/Usadba/mono.m3u8?token=xusax
 #EXTINF:-1 ,Усадьба
@@ -409,7 +407,7 @@ http://31.130.203.6:8754
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 ,Первый вегетарианский
-http://ua.online24.pm/play/335/D70CC021CA87DF2/video.m3u8
+#
 #EXTINF:-1 ,UNIVER TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 ,Точка Отрыва
@@ -758,6 +756,8 @@ http://139.28.255.188:8080/bestseller/index.m3u8
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 ,Русский детектив
 #
+#EXTINF:-1 ,Честный детектив
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Русский роман
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 ,Русский роман
@@ -839,7 +839,7 @@ http://5.8.11.96:8099/ort/index.m3u8
 #EXTINF:-1 ,Удар
 http://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 ,MMA-TV
-http://93.170.254.17/MMATV/index.m3u8
+http://cdn.voka.tv/live/2100-req_5k_v5.m3u8
 #EXTINF:-1 ,МАТЧ! Боец
 http://195.49.206.244:90/Boets/mono.m3u8?token=xboyx
 #EXTINF:-1 ,Extreme Sports
@@ -858,8 +858,6 @@ http://185.46.16.239:8000/Match_Arena
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 ,МАТЧ! Игра
 http://195.49.206.244:90/Igra/mono.m3u8?token=xigrx
-#EXTINF:-1 ,МАТЧ! Страна
-http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 ,МАТЧ! Страна
 http://195.49.206.244:90/Strana/mono.m3u8?token=xstrx
 #EXTINF:-1 ,Футбол
