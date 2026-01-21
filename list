@@ -106,8 +106,6 @@ http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
 http://95.47.156.60:8000/play/5/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://85.192.10.131/hls/5kanal/playlist.m3u8
-#EXTINF:-1 ,Пятый канал
-http://cdn.voka.tv/live/5121-req_5k_v5.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -140,8 +138,6 @@ http://195.49.206.244:90/TNT4/mono.m3u8?token=xtn4x
 http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 ,Перец
 http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
-#EXTINF:-1 ,Перец
-http://cdn.voka.tv/live/971-req_5k_v5.m3u8
 #EXTINF:-1 ,Перец
 http://178.124.153.123:44400/peretz
 #EXTINF:-1 ,КВН ТВ
@@ -181,7 +177,7 @@ http://195.49.206.244:90/Domashni/mono.m3u8?token=xdomx
 #EXTINF:-1 ,Домашний
 http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 ,Домашний
-http://cdn.voka.tv/live/961-req_5k_v5.m3u8
+http://176.96.241.40/Domashniy/index.m3u8
 #EXTINF:-1 ,Пятница
 http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,Пятница
@@ -307,8 +303,6 @@ http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 ,Оружие
 http://194.158.222.36:6093
 #EXTINF:-1 ,Оружие
-http://cdn.voka.tv/live/168-req_5k_v5.m3u8
-#EXTINF:-1 ,Оружие
 http://109.248.236.51/oruzhie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ратник
 http://river-5-514.rtbcdn.ru/stream/genetta-512.ost.rutube.ru/ROzM23jCvZFFaOM3kAFpUg/1769591877/13b0320238d7938a2deffb4065068986/1080p_stream.m3u8
@@ -327,7 +321,7 @@ http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
 #EXTINF:-1 ,Сарафан
 http://195.49.206.244:90/Sarafan/mono.m3u8?token=xsarx
 #EXTINF:-1 ,Сарафан
-http://46.53.208.5/live/84-req_5k_v5.m3u8
+http://176.118.197.125/Sarafan/index.m3u8
 #EXTINF:-1 ,АВТО 24
 http://195.49.206.244:90/Avto24/mono.m3u8?token=xautx
 #EXTINF:-1 ,АВТО 24
@@ -340,8 +334,6 @@ http://158.101.222.193:88/georgia_play.php?id=autoplus
 http://195.49.206.244:90/Drive/mono.m3u8?token=drive
 #EXTINF:-1 ,Драйв
 http://176.118.197.125/Draiv/index.m3u8
-#EXTINF:-1 ,Драйв
-http://cdn.voka.tv/live/336-req_5k_v5.m3u8
 #EXTINF:-1 ,Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1 ,Мужской
@@ -363,7 +355,7 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 ,Усадьба
 http://195.49.206.244:90/Usadba/mono.m3u8?token=xusax
 #EXTINF:-1 ,Усадьба
-http://cdn.voka.tv/live/341-req_5k_v5.m3u8
+http://193.25.8.59:8000/usadba
 #EXTINF:-1 ,Бобёр
 http://88.135.128.30:8090/bober/index.m3u8
 #EXTINF:-1 ,Бобёр
@@ -480,8 +472,6 @@ http://cdn.admuspeh.my/8074/video.m3u8?token=vGHDbEKZ6uPL7BBA
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 ,Travel+Adventure HD
 http://77.232.131.211/TravelAdventureHD/index.m3u8
-#EXTINF:-1 ,Travel+Adventure HD
-http://46.53.208.5/live/964-req_5k_v5.m3u8
 #EXTINF:-1 ,Epic
 http://31.130.203.6:9644
 #EXTINF:-1 ,TLC
@@ -523,7 +513,7 @@ http://195.49.206.244:90/domashnie_zhivotnye/mono.m3u8?token=xdxzx
 #EXTINF:-1 ,В мире животных
 http://109.248.236.51/nat_geo_wild_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Zooпарк
-http://cdn.voka.tv/live/996-req_5k_v5.m3u8
+http://109.248.236.51/zoopark/mono.m3u8
 #EXTINF:-1 ,Наука
 http://94.230.250.140/nauka2/index.m3u8
 #EXTINF:-1 ,Viasat History
@@ -544,8 +534,6 @@ http://live-3.otcnet.ru/nashatema/index.m3u8
 http://139.28.255.188:8080/ohotaribalka/index.m3u8
 #EXTINF:-1 ,Рыбалка и охота
 http://31.130.203.6:8962
-#EXTINF:-1 ,Охотник и рыболов
-#
 #EXTINF:-1 ,Охотник и рыболов Int
 http://river-4-435.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/ALbtwBvC_8_g-OXR3z9UbA/1769592041/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
@@ -553,11 +541,7 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 ,Дикая охота HD
-http://cdn.voka.tv/live/2325-req_5k_v5.m3u8
-#EXTINF:-1 ,Дикая охота HD
 http://cdn.admuspeh.my/9206/video.m3u8?token=hz91VxaPZjCos8Vh
-#EXTINF:-1 ,Дикая Рыбалка HD
-http://cdn.voka.tv/live/2324-req_5k_v5.m3u8
 #EXTINF:-1 ,Дикая Рыбалка HD
 http://cdn.admuspeh.my/8316/video.m3u8?token=UC6cUc4xhjmGmD3v
 #EXTINF:-1 ,Диалоги о рыбалке
@@ -584,8 +568,6 @@ http://136.243.42.146/HLS/HD.m3u8
 #http://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
 #EXTINF:-1 ,Bridge TV
 http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
-#EXTINF:-1 ,Bridge TV Deluxe
-http://cdn.voka.tv/live/110-req_5k_v5.m3u8
 #EXTINF:-1 ,Bridge TV Шлягер
 http://193.25.8.59:8000/mtv
 #EXTINF:-1 ,O2TV
@@ -700,8 +682,6 @@ http://31.130.203.6:9415
 http://195.49.206.244:90/A-1/mono.m3u8?token=xblcx
 #EXTINF:-1 ,VHS-ка
 http://31.130.203.6:9514
-#EXTINF:-1 ,VHS-ка
-http://cdn.voka.tv/live/1123-req_5k_v5.m3u8
 #EXTINF:-1 ,Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
@@ -831,7 +811,7 @@ http://cdn.admuspeh.my/8676/video.m3u8?token=UC6cUc4xhjmGmD3v
 #EXTINF:-1 ,Setanta Sports 2
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Беларусь 5
-http://46.53.208.5/live/9-req_5k_v5.m3u8
+http://194.158.222.36:6109
 #EXTINF:-1 ,Trace Sport Stars
 http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 ,Extreme Sports
@@ -849,11 +829,11 @@ http://5.8.11.96:8099/ort/index.m3u8
 #EXTINF:-1 ,Удар
 http://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 ,MMA-TV
-http://cdn.voka.tv/live/2100-req_5k_v5.m3u8
+http://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,МАТЧ! Боец
 http://195.49.206.244:90/Boets/mono.m3u8?token=xboyx
 #EXTINF:-1 ,Extreme Sports
-http://cdn.voka.tv/live/3009-req_5k_v5.m3u8
+#
 #EXTINF:-1 ,Матч!
 http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 ,Матч!
