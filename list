@@ -4,7 +4,7 @@ http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,Первый канал
-http://river-m9-ttk-d373.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/GJSYcp6dsSx2pAX2AHa-Ug/1769679159/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://river-3-342.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/cDW2LoLIG42CYGcPOaqtKg/1769784342/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 ,Первый канал
 http://31.130.203.6:8402
 #EXTINF:-1 ,Первый канал Европа
@@ -137,7 +137,7 @@ http://195.49.206.244:90/TNT4/mono.m3u8?token=xtn4x
 #EXTINF:-1 ,ТНТ4
 http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 ,ТНТ4
-http://river-m9-ttk-d373.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/5NryNi_o1squkWbOZu9WfA/1769679104/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+httз://river-3-349.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/PiqLhS_KD0hid0CN1D3gaA/1769784511/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 #EXTINF:-1 ,Перец
 http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
 #EXTINF:-1 ,Перец
