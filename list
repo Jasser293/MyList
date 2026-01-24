@@ -396,9 +396,10 @@ http://176.118.197.125/Zdorovoe-TV/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=jivi
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#EXTINF:-1 , Food Network
+http://ua.online24.pm/play/1551/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
-#
-#EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
+http://ua.online24.pm/play/141/D70CC021CA87DF2/video.m3u8
 #http://cdn.admuspeh.my/8650/video.m3u8?token=hz91VxaPZjCos8Vh
 #EXTINF:-1 ,Еда
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
@@ -473,7 +474,7 @@ http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery Channel
-http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
+#http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,Investigation Discovery
 http://cdn.admuspeh.my/8074/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,History
