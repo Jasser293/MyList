@@ -798,29 +798,29 @@ http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://ronaldo.tvfor.pro/EurosportHD/tht6v98456np1k198n81n2t8?/tracks-v1a2/mono.m3u8
-#EXTINF:-1 ,Eurosport 1
 http://109.248.236.51/eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://ronaldo.tvfor.pro/EurosportHD/tht6v98456np1k198n81n2t8?/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://ronaldo.tvfor.pro/Eurosport2HDRussia/tht6v98456np1k198n81n2t8?/tracks-v1a2/mono.m3u8
+http://109.248.236.51/eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://cdn.admuspeh.my/8014/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Eurosport 2
-http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+http://ronaldo.tvfor.pro/Eurosport2HDRussia/tht6v98456np1k198n81n2t8?/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://109.248.236.51/eurosport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Setanta Sports 1
-http://ronaldo.tvfor.pro/SetantaSportHD/tht6v98456np1k198n81n2t8?/tracks-v1a1/mono.m3u8
+http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://cdn.admuspeh.my/8565/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Setanta Sports 1
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Setanta Sports 1
+http://ronaldo.tvfor.pro/SetantaSportHD/tht6v98456np1k198n81n2t8?/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Setanta Sports 2
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2
 http://ronaldo.tvfor.pro/SetantaEurasiaplus/tht6v98456np1k198n81n2t8?/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2
-#http://cdn.admuspeh.my/8676/video.m3u8?token=UC6cUc4xhjmGmD3v
-#EXTINF:-1 ,Setanta Sports 2
-http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+http://cdn.admuspeh.my/8676/video.m3u8?token=UC6cUc4xhjmGmD3v
 #EXTINF:-1 ,Беларусь 5
 http://194.158.222.36:6109
 #EXTINF:-1 ,Trace Sport Stars
