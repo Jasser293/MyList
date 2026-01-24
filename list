@@ -548,9 +548,13 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 ,Дикая охота HD
-#http://cdn.admuspeh.my/9206/video.m3u8?token=hz91VxaPZjCos8Vh
+http://cdn.admuspeh.my/9206/video.m3u8?token=hz91VxaPZjCos8Vh
+#EXTINF:-1 ,Дикая охота HD
+http://176.96.241.40/DikayaOxota/index.m3u8
 #EXTINF:-1 ,Дикая Рыбалка HD
-#http://cdn.admuspeh.my/8316/video.m3u8?token=UC6cUc4xhjmGmD3v
+#http://cdn.admuspeh.my/8316/video.m3u8?token=hz91VxaPZjCos8Vh
+#EXTINF:-1 ,Дикая Рыбалка HD
+http://176.96.241.40/DikayaRibalka/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -767,18 +771,12 @@ http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 http://31.130.203.6:8477
 #EXTINF:-1 ,Viju TV1000
 http://195.49.206.244:90/TV1000/mono.m3u8?token=x100x
-#EXTINF:-1 ,viju TV1000
-http://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=veDX78NSNI3S-6X9qC5x5A&e=1769270078&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 ,Viju TV1000 Русское
 http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
-#EXTINF:-1 ,viju TV1000 Romantica
-http://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=qJulrfftrRp68zHrIpt67w&e=1769270065&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 ,Viju TV1000 Action
 http://195.49.206.244:90/TV1000_Action/mono.m3u8?token=xactx
 #EXTINF:-1 ,Viju TV1000 Action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 ,viju TV1000 Action
-http://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=1BBK_NS4CaH2d5DEVzNEHg&e=1769270098&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 ,Кино 1 International
 http://5.9.44.106/content/38617/index.m3u8
 #EXTINF:-1 ,Pro100 TV
@@ -802,15 +800,15 @@ http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://109.248.236.51/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
+http://ronaldo.tvfor.pro/EurosportHD/tht6v98456np1k198n81n2t8?/tracks-v1a2/mono.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://cdn.admuspeh.my/8014/video.m3u8?token=vGHDbEKZ6uPL7BBA
+#EXTINF:-1 ,Eurosport 2
+http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://109.248.236.51/eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://176.96.241.40/Eurosport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Eurosport 2
-#http://cdn.admuspeh.my/8014/video.m3u8?token=vGHDbEKZ6uPL7BBA
-#EXTINF:-1 ,Eurosport 2
-#http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+http://ronaldo.tvfor.pro/Eurosport2HDRussia/tht6v98456np1k198n81n2t8?/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://cdn.admuspeh.my/8565/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Setanta Sports 1
