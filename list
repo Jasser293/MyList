@@ -304,6 +304,10 @@ http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
 http://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PervyyTulskiy.ru" tvg-name="первый тульский" tvg-logo="https://i.imgur.com/QdKKHXb.png" ,Первый Тульский
 http://1tvtula.ru/tula/1tv_hi/index.m3u8
+#EXTINF:-1 tvg-name="next tv (нефтекамск)" ,Next TV
+http://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="тв-ин (магнитогорск)" ,ТВ-ИН
+https://live.tv-in.ru/hls/stream/index.m3u8
 #EXTINF:-1 ,Арсенал
 #
 #EXTINF:-1 ,Оружие
