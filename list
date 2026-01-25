@@ -381,7 +381,7 @@ http://195.49.206.244:90/zagorodnaya_zhizn/mono.m3u8?token=xzazx
 #EXTINF:-1 ,Загородный Int
 http://river-m9-pitix-d3105.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/M-0PvGtj08XbHSUm70O25w/1769847943/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
-#
+http://cdn.admuspeh.my/8551/video.m3u8?token=UC6cUc4xhjmGmD3v
 #EXTINF:-1 ,Rutube
 http://river-3-340.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/rBtkwS0ffyzSbzC2SFpjgQ/1769847978/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл
