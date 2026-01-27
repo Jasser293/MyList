@@ -550,12 +550,22 @@ http://136.243.42.146/HLS/HD.m3u8
 #http://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
 #EXTINF:-1 ,Bridge TV
 http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
+#EXTINF:-1 ,Bridge TV
+http://195.158.223.132:8009/Bridge
 #EXTINF:-1 ,Bridge TV Шлягер
 http://193.25.8.59:8000/mtv
+#EXTINF:-1 ,Bridge TV Classic
+http://195.158.223.132:8004/Bridge_Classic
+#EXTINF:-1 ,Bridge TV Hits
+http://195.158.223.132:8004/Bridge_Hits
+#EXTINF:-1 ,Bridge TV Фрэш
+http://195.158.223.132:8004/Bridge_Fresh
 #EXTINF:-1 ,O2TV
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
+#EXTINF:-1 tvg-id="RitsaTV.ru" tvg-name="ritsa" tvg-logo="https://i.imgur.com/GOsAtg3.png" ,Ritsa
+http://185.221.213.254:8080/Ritsa/index.m3u8
 #EXTINF:-1 ,Vevo '70s & '80s
 http://jmp2.uk/stvp-GBBD1900009UD
 #EXTINF:-1 ,Vevo '90s & '00s
