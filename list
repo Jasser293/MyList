@@ -737,7 +737,7 @@ http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 ,НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 ,Киноужас
-http://109.75.59.241:8017/Kinouzhas/index.m3u8
+http://91.207.115.228:5000/c43
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
