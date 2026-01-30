@@ -805,7 +805,9 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 ,Футбол
 http://hls127.freeott.top:8080/Football/mono.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
-http://85.88.175.48:2020/udp/239.4.10.105:2020
+http://ronaldo.tvfor.pro/MatchFootball1/tht6v98456np1k198n81n2t8?
+#EXTINF:-1 ,Матч! Футбол 2
+http://ronaldo.tvfor.pro/MatchFootball2/tht6v98456np1k198n81n2t8?
 #EXTINF:-1 ,Матч! Футбол 3
 http://185.57.68.14/110/mpegts
 #EXTINF:-1 ,KHL Prime
