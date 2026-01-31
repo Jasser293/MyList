@@ -9,6 +9,8 @@ http://31.131.141.195:8000/play/1010/index.m3u8
 http://31.130.203.6:8402
 #EXTINF:-1 ,Первый канал Европа
 http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,Первый канал Евразия
+http://87.76.32.36:8001/evrasia
 #EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png" ,ТАСС
 http://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 ,НТВ
@@ -663,7 +665,7 @@ http://139.28.255.188:8080/bestseller/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 ,Русский детектив
-#
+http://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
 #EXTINF:-1 ,Честный детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Русский роман
@@ -675,7 +677,7 @@ http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 ,НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 ,Киноужас
-#
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -715,6 +717,8 @@ http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
+http://87.76.32.36:8001/eurosport1hd
+#EXTINF:-1 ,Eurosport 1
 http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
@@ -744,6 +748,8 @@ http://185.46.16.239:8000/Eurosport_1
 http://5.8.11.96:8099/ort/index.m3u8
 #EXTINF:-1 ,Удар
 http://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 ,MMA-TV
+http://87.76.32.36:8001/m1global
 #EXTINF:-1 ,MMA-TV
 http://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Матч!
