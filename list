@@ -735,7 +735,7 @@ http://ronaldo.tvfor.pro/SetantaEurasiaplus/tht6v98456np1k198n81n2t8?/tracks-v1a
 #EXTINF:-1 ,Беларусь 5
 http://194.158.222.36:6109
 #EXTINF:-1 ,Trace Sport Stars
-http://87.120.142.11:18000/Rossiya1
+#
 #EXTINF:-1 ,Extreme Sports
 http://31.130.203.6:8508
 #EXTINF:-1 ,Конный мир
@@ -759,11 +759,11 @@ http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,Матч! Премьер
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
-http://87.120.142.11:18000/Match!Arena
-#EXTINF:-1 ,МАТЧ! Арена
 http://185.46.16.239:8000/Match_Arena
-#EXTINF:-1 ,МАТЧ! Игра
-http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 ,МАТЧ! Арена
+http://139.28.255.188:8080/matcharena/index.m3u8
+#EXTINF:-1 ,МАТЧ! Боец
+http://139.28.255.188:8080/matchboec/index.m3u8
 #EXTINF:-1 ,Матч! Планета
 http://194.158.222.36:6089
 #EXTINF:-1 ,Матч! Планета
