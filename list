@@ -99,6 +99,8 @@ http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://139.28.255.188:8080/tvcentr/index.m3u8
 #EXTINF:-1 ,ТВЦ
+http://194.32.242.245/tvc/index.m3u8
+#EXTINF:-1 ,ТВЦ
 http://95.47.156.60:8000/play/10/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://185.71.81.6:8080/10/index.m3u8
@@ -159,6 +161,8 @@ http://87.228.57.152:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 ,СТС
 http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,СТС
+http://194.32.242.245/sts/index.m3u8
+#EXTINF:-1 ,СТС
 http://185.46.16.239:8000/STS
 #EXTINF:-1 ,СТС
 http://185.91.177.13/sts/index.m3u8
@@ -171,6 +175,8 @@ http://194.32.242.245/stslove/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,ТВ3
+http://194.32.242.245/TV3/index.m3u8
+#EXTINF:-1 ,ТВ3
 http://185.46.16.239:8000/TV3
 #EXTINF:-1 ,ТВ3
 http://31.131.141.195:8000/play/a002/index.m3u8
@@ -179,11 +185,15 @@ http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 ,Домашний
 http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 ,Домашний
+http://194.32.242.245/domashniy/index.m3u8
+#EXTINF:-1 ,Домашний
 http://176.96.241.40/Domashniy/index.m3u8
 #EXTINF:-1 ,Домашний
 http://31.131.141.195:8000/play/a001/index.m3u8
 #EXTINF:-1 ,Пятница
 http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
+#EXTINF:-1 ,Пятница
+http://194.32.242.245/pyatnitsa/index.m3u8
 #EXTINF:-1 ,Пятница
 http://185.46.16.239:8000/Pyatnitsa
 #EXTINF:-1 ,Пятница
@@ -504,6 +514,8 @@ http://river-3-311.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/1CHrgVvVsaGY1GnIiu
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
+#EXTINF:-1 ,Дикий
+http://194.32.242.245/dikiy/index.m3u8
 #EXTINF:-1 ,Дикая охота HD
 http://194.32.242.245/DikayaokhotaHD/index.m3u8
 #EXTINF:-1 ,Дикая Рыбалка HD
@@ -804,6 +816,8 @@ http://185.46.16.239:8000/Match_Arena
 http://194.32.242.245/2x2/index.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
 http://139.28.255.188:8080/matcharena/index.m3u8
+#EXTINF:-1 ,МАТЧ! Арена
+http://194.32.242.245/matcharena/index.m3u8
 #EXTINF:-1 ,МАТЧ! Боец
 http://139.28.255.188:8080/matchboec/index.m3u8
 #EXTINF:-1 ,Матч! Планета
