@@ -742,7 +742,7 @@ http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
 http://185.57.68.33:8091/237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Дорама
 http://193.27.209.122/dorama/index.m3u8
-#EXTINF:-1 ,Eurosport 1
+#EXTINF:-1 , 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://87.76.32.36:8001/eurosport1hd
@@ -750,6 +750,8 @@ http://87.76.32.36:8001/eurosport1hd
 http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://176.96.241.40/Eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
