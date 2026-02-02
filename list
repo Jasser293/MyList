@@ -90,6 +90,8 @@ http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
 http://95.47.156.60:8000/play/11/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://185.46.16.239:8000/REN_TV
+#EXTINF:-1 ,Рен ТВ
+http://194.32.242.245/rentv/index.m3u8
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,Рен ТВ International
@@ -129,11 +131,15 @@ http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,ТНТ
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 ,ТНТ
+http://194.32.242.245/tnt/index.m3u8
+#EXTINF:-1 ,ТНТ
 http://95.47.156.60:8000/play/19/index.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
+#EXTINF:-1 ,ТНТ4
+http://194.32.242.245/tnt4/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 ,Перец
@@ -161,7 +167,7 @@ http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС (+4)
 http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
-#
+http://194.32.242.245/stslove/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -495,7 +501,9 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 ,Дикая охота HD
-#
+http://194.32.242.245/DikayaokhotaHD/index.m3u8
+#EXTINF:-1 ,Дикая Рыбалка HD
+http://194.32.242.245/DikayarybalkaHD/index.m3u8
 #EXTINF:-1 ,Дикая Рыбалка HD
 http://cdn.admuspeh.my/8316/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Диалоги о рыбалке
@@ -618,6 +626,8 @@ http://31.130.203.6:9514
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 ,Кинохит
+http://194.32.242.245/kinohit/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 ,Кино ТВ
@@ -630,6 +640,8 @@ http://158.101.222.193:88/georgia_play.php?id=kinosemya
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 ,HollywooD
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:-1 ,HollywooD
+http://194.32.242.245/hollywood/index.m3u8
 #EXTINF:-1 ,Kinowood
 http://193.27.209.122/kinowood/index.m3u8
 #EXTINF:-1 ,BollywooD
@@ -642,8 +654,18 @@ http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://185.46.16.239:8000/Fox_HD
-#EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="vip comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" ,viju+ Comedy
+#EXTINF:-1 ,viju+ Comedy
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,viju+ Comedy
+http://194.32.242.245/vipcomedy/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
+http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
+http://194.32.242.245/vipmegahit/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-name="vip premiere" tvg-logo="https://i.imgur.com/klRvhR5.png" ,viju+ Premiere
+http://194.32.242.245/vippremiere/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-name="vip premiere" tvg-logo="https://i.imgur.com/klRvhR5.png" ,viju+ Premiere
+http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 ,Наше новое кино
@@ -663,6 +685,8 @@ http://139.28.255.188:8080/bestseller/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 ,Русский детектив
+http://194.32.242.245/russkiydetektiv/index.m3u8
+#EXTINF:-1 ,Русский детектив
 http://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
 #EXTINF:-1 ,Честный детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -676,6 +700,8 @@ http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 ,Киноужас
+http://194.32.242.245/kinouzhas/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -686,6 +712,8 @@ http://31.130.203.6:8477
 http://31.130.203.6:8858
 #EXTINF:-1 ,Viju TV1000
 http://139.28.255.188:8080/tv1000/index.m3u8
+#EXTINF:-1 ,Viju TV1000
+http://194.32.242.245/tv1000/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://139.28.255.188:8080/tv1000ruskino/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
@@ -694,6 +722,8 @@ http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 http://139.28.255.188:8080/tv1000action/index.m3u8
 #EXTINF:-1 ,Viju TV1000 Action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 ,Viju TV1000 Action
+http://194.32.242.245/tv1000action/index.m3u8
 #EXTINF:-1 ,Кино 1 International
 http://5.9.44.106/content/38617/index.m3u8
 #EXTINF:-1 ,Pro100 TV
