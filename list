@@ -338,6 +338,8 @@ http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 ,Усадьба
 http://139.28.255.188:8080/usadba/index.m3u8
+#EXTINF:-1 ,Усадьба
+http://87.76.32.36:8001/usadba
 #EXTINF:-1 ,Бобёр
 http://88.135.128.30:8090/bober/index.m3u8
 #EXTINF:-1 ,Бобёр
