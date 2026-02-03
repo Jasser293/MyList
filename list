@@ -307,7 +307,7 @@ http://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="тв-ин (магнитогорск)" ,ТВ-ИН
 https://live.tv-in.ru/hls/stream/index.m3u8
 #EXTINF:-1 ,Арсенал
-https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+http://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Оружие
 http://31.130.203.6:8343
 #EXTINF:-1 ,Оружие
@@ -785,7 +785,7 @@ http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 #http://ronaldo.tvfor.pro/SetantaSportHD/tht6v98456np1k198n81n2t8?/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+http://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 2
