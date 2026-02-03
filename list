@@ -364,6 +364,8 @@ http://88.135.128.30:8090/bober/index.m3u8
 http://hls127.freeott.top:8080/Bober/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://185.57.68.33/40/mpegts
+#EXTINF:-1 ,Загородный
+http://178.218.204.217/1410/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Загородный Int
 http://river-4-421.rtbcdn.ru/stream/genetta-516.ost.rutube.ru/j-TQ9GrdYWcTltfHtzFm0w/1770631078/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
@@ -376,6 +378,8 @@ http://river-4-437.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/Ib74N5V1tJ2LZ25HVBv
 http://185.46.16.239:8000/Doktor
 #EXTINF:-1 ,Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
+#EXTINF:-1 ,Доктор
+http://178.218.204.217/1409/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://176.118.197.125/Zdorovoe-TV/index.m3u8
 #EXTINF:-1 ,Живи
@@ -476,6 +480,8 @@ http://176.96.241.40/AnimalPlanet/tracks-v1a1/mono.m3u8
 #http://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:-1 ,National Geographic
+http://178.218.204.217/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
 http://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic Wild
