@@ -223,7 +223,9 @@ http://edge59.dc.beltelecom.by/ctv/_definst_/ctv.stream/playlist.m3u8
 #EXTINF:-1 ,ОНТ
 https://edge51.dc.beltelecom.by/ont/_definst_/smil:ont/chunklist.m3u8
 #EXTINF:-1 ,Беларусь 1
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+http://194.158.222.36:6101
+#EXTINF:-1 ,Беларусь 1
+#https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 ,Беларусь 1
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w635211647_b5160000_sleng.m3u8
 #EXTINF:-1 ,Беларусь 24
@@ -600,6 +602,8 @@ http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
 http://139.28.255.188:8080/eurokin/index.m3u8
 #EXTINF:-1 ,Еврокино
 http://94.230.250.140/eurokino/index.m3u8
+#EXTINF:-1 ,Еврокино
+http://87.120.142.11:18000/STSLove
 #EXTINF:-1 ,Техно 24
 http://31.130.203.6:8589
 #EXTINF:-1 ,43 канал
@@ -612,6 +616,8 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 ,Киносвидание
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 ,Киносвидание
+http://93.170.254.17/Kinosvidanie/index.m3u8
 #EXTINF:-1 ,Kиносемья
 http://31.130.203.6:9398
 #EXTINF:-1 ,Amedia 1
@@ -628,6 +634,10 @@ http://139.28.255.188:8080/Amedia/index.m3u8
 http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:-1 ,.black
 http://31.130.203.6:9415
+#EXTINF:-1 ,.black
+http://188.237.47.212:6007
+#EXTINF:-1 ,.sci-fi
+http://188.237.47.212:6001
 #EXTINF:-1 ,VHS-ка
 http://31.130.203.6:9514
 #EXTINF:-1 ,Кинохит
@@ -642,6 +652,8 @@ http://185.46.16.239:8000/Kino_TV
 http://94.230.250.140/kinotv/mono.m3u8
 #EXTINF:-1 ,Киномикс
 http://139.28.255.188:8080/kinomiks/index.m3u8
+#EXTINF:-1 ,Киномикс
+http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 ,Киносемья HD
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" ,Cinema
@@ -654,6 +666,8 @@ http://178.218.204.217/1443/tracks-v1a1/mono.m3u8
 http://193.27.209.122/kinowood/index.m3u8
 #EXTINF:-1 ,BollywooD
 http://193.27.209.122/bollywood/index.m3u8
+#EXTINF:-1 ,Kinosweet HD
+http://193.27.209.122/kinosweet/index.m3u8
 #EXTINF:-1 ,Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
@@ -762,6 +776,8 @@ http://178.218.204.217/1264/tracks-v1a1/mono.m3u8
 http://194.158.222.36:6109
 #EXTINF:-1 ,Trace Sport Stars
 http://178.218.204.217/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Trace Sport Stars
+http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 ,Extreme Sports
 http://31.130.203.6:8508
 #EXTINF:-1 ,Конный мир
@@ -794,6 +810,8 @@ http://139.28.255.188:8080/matchboec/index.m3u8
 http://194.158.222.36:6089
 #EXTINF:-1 ,Матч! Планета
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+#EXTINF:-1 ,Матч! Игра
+http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 ,Футбол
 http://hls127.freeott.top:8080/Football/mono.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
