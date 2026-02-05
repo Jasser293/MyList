@@ -227,9 +227,13 @@ https://edge51.dc.beltelecom.by/ont/_definst_/smil:ont/chunklist.m3u8
 #EXTINF:-1 ,Беларусь 1
 http://194.158.222.36:6101
 #EXTINF:-1 ,Беларусь 1
+http://178.124.182.25:7001/play/a002_dvbt
+#EXTINF:-1 ,НТВ Беларусь
+http://178.124.182.25:7001/play/a007_dvbt
+#EXTINF:-1 ,Беларусь 1
 #https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 ,Беларусь 1
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w635211647_b5160000_sleng.m3u8
+#https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w635211647_b5160000_sleng.m3u8
 #EXTINF:-1 ,Беларусь 24
 http://178.124.179.122:8080/Belarus24/index.m3u8
 #EXTINF:-1 ,БелРос
