@@ -767,6 +767,10 @@ http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://176.96.241.40/Eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
+http://s7.merlive.am/eurosport2/index.m3u8
+#EXTINF:-1 ,Eurosport 2
+http://ronaldo.tvfor.pro/Eurosport2HDRussia/tht6v98456np1k198n81n2t8?/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 2
 http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://178.218.204.217/1263/tracks-v1a1/mono.m3u8
