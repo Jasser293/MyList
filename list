@@ -167,9 +167,11 @@ http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС (+4)
 http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://tinyurl.com/3r5ez6t8
+http://s7.merlive.am/stslove/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://cdn.admuspeh.my/8174/video.m3u8?token=UC6cUc4xhjmGmD3v
+http://tinyurl.com/2ne5acyb
+#EXTINF:-1 ,СТС Love
+https://tinyurl.com/3yv9kdev
 #EXTINF:-1 ,ТВ3
 http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -392,12 +394,12 @@ http://ua.online24.pm/play/9942/D70CC021CA87DF2/tracks-v1a1/mono.m3u8
 http://ua.online24.pm/play/141/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,Еда
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
+#EXTINF:-1 ,Аппетитный
+http://s7.merlive.am/FoodNetwork/index.m3u8
 #EXTINF:-1 ,Кухня
 http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
 #EXTINF:-1 ,Кухня
 http://31.130.203.6:8754
-#EXTINF:-1 ,Аппетитный
-#http://185.223.125.136:8005/HDL
 #EXTINF:-1 ,Первый вегетарианский
 http://ua.online24.pm/play/335/011DA7D495A486A/video.m3u8
 #EXTINF:-1 ,СВЕТЛОЕ ТВ
@@ -522,8 +524,12 @@ http://river-m9-pitix-d3105.rtbcdn.ru/stream/genetta-502.ost.rutube.ru/-bpXr25aP
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
+#EXTINF:-1 ,Дикая Охота
+http://s7.merlive.am/dikayaoxota/index.m3u8
 #EXTINF:-1 ,Дикая Рыбалка HD
-http://cdn.admuspeh.my/8316/video.m3u8?token=vGHDbEKZ6uPL7BBA
+http://s7.merlive.am/dikayaribalka/index.m3u8
+#EXTINF:-1 ,Дикая Рыбалка HD
+#http://cdn.admuspeh.my/8316/video.m3u8?token=vGHDbEKZ6uPL7BBA
 #EXTINF:-1 ,Диалоги о рыбалке
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -709,7 +715,7 @@ http://139.28.255.188:8080/bestseller/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 ,Русский детектив
-http://tinyurl.com/36vara7u
+http://tinyurl.com/5ak8jv8c
 #EXTINF:-1 ,Честный детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoDetektiv.ru" tvg-name="сити эдем кинодетектив" ,Сити Эдем - Кино Детектив
