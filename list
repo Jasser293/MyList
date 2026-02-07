@@ -163,6 +163,8 @@ http://162.249.126.236/TvoeTVHumor/index.m3u8?token=TvoeTV
 #EXTINF:-1 ,СТС
 http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,СТС
+http://87.246.54.249:8080/CTC/index.m3u8
+#EXTINF:-1 ,СТС
 http://185.46.16.239:8000/STS
 #EXTINF:-1 ,СТС
 http://185.91.177.13/sts/index.m3u8
