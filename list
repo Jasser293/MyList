@@ -864,13 +864,13 @@ http://ronaldo.tvfor.pro/MatchFootball1/tht6v98456np1k198n81n2t8?
 http://ronaldo.tvfor.pro/MatchFootball2/tht6v98456np1k198n81n2t8?
 #EXTINF:-1 ,Матч! Футбол 3
 http://185.57.68.14/110/mpegts
-#EXTINF:-1 ,Sport 1
+#EXTINF:-1 ,Арена Спорт 1
 http://87.246.54.249:8080/ArenaSport1/index.m3u8
-#EXTINF:-1 ,Sport 2
+#EXTINF:-1 ,Арена Спорт 2
 http://87.246.54.249:8080/ArenaSport2/index.m3u8
-#EXTINF:-1 ,Sport 3
+#EXTINF:-1 ,Арена Спорт 3
 http://87.246.54.249:8080/ArenaSport3/index.m3u8
-#EXTINF:-1 ,Sport 4
+#EXTINF:-1 ,Арена Спорт 4
 http://87.246.54.249:8080/ArenaSport4/index.m3u8
 #EXTINF:-1 ,KHL Prime
 http://158.101.222.193:88/georgia_play.php?id=khlprime
