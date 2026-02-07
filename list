@@ -163,9 +163,9 @@ http://162.249.126.236/TvoeTVHumor/index.m3u8?token=TvoeTV
 #EXTINF:-1 ,СТС
 http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,СТС
-http://87.246.54.249:8080/CTC/index.m3u8
-#EXTINF:-1 ,СТС
 http://185.46.16.239:8000/STS
+#EXTINF:-1 ,СТС
+http://87.246.54.249:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС
 http://185.91.177.13/sts/index.m3u8
 #EXTINF:-1 ,СТС (+2)
@@ -173,9 +173,9 @@ http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС (+4)
 http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://s7.merlive.am/stslove/index.m3u8
+http://185.78.112.17/sts-love/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://tinyurl.com/4y7u8xvk
+http://s7.merlive.am/stslove/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://tinyurl.com/ycyyv5vj
 #EXTINF:-1 ,ТВ3
@@ -188,6 +188,8 @@ http://95.47.156.60:8000/play/15/index.m3u8
 http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 ,Домашний
 http://185.46.16.239:8000/Domashniy
+#EXTINF:-1 ,Домашний
+http://185.78.112.17/domashniy_hd/index.m3u8
 #EXTINF:-1 ,Домашний
 http://95.47.156.60:8000/play/14/index.m3u8
 #EXTINF:-1 ,Домашний
@@ -315,6 +317,8 @@ http://178.218.204.217/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Оружие
 http://31.130.203.6:8343
 #EXTINF:-1 ,Оружие
+http://185.78.112.17/oruzhie/index.m3u8
+#EXTINF:-1 ,Оружие
 http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 ,Оружие
 http://194.158.222.36:6093
@@ -395,7 +399,9 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 ,Food Network
 http://ua.online24.pm/play/9942/D70CC021CA87DF2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
-http://ua.online24.pm/play/141/D70CC021CA87DF2/video.m3u8
+http://185.78.112.17/eda_hd/index.m3u8
+#EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="еда премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" ,Food time
+#http://ua.online24.pm/play/141/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,Еда
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -524,6 +530,8 @@ http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
 http://139.28.255.188:8080/ohotaribalka/index.m3u8
 #EXTINF:-1 ,Рыбалка и охота
 http://31.130.203.6:8962
+#EXTINF:-1 ,Рыболов
+http://185.78.112.17/ohotnik/index.m3u8
 #EXTINF:-1 ,Охотник и рыболов
 http://178.218.204.217/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
@@ -643,15 +651,19 @@ http://31.130.203.6:9398
 #EXTINF:-1 ,Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 ,Amedia 1
-http://tv.lamro.workers.dev/?ID=4920
+http://185.78.112.17/amedia/index.m3u8
+#EXTINF:-1 ,Amedia 1
+#http://tv.lamro.workers.dev/?ID=4920
 #EXTINF:-1 ,Amedia 2
-http://tv.lamro.workers.dev/?ID=4927
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 ,Amedia 2
+#http://tv.lamro.workers.dev/?ID=4927
 #EXTINF:-1 ,Amedia 2
 http://158.160.149.81:8080/462/index.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
 #EXTINF:-1 ,Amedia Hit
-http://tv.lamro.workers.dev/?ID=4921
+http://185.78.112.17/amedia_hit_hd/index.m3u8
 #EXTINF:-1 ,Amedia Premium
 http://139.28.255.188:8080/Amedia/index.m3u8
 #EXTINF:-1 ,Amedia Premium
@@ -667,7 +679,7 @@ http://31.130.203.6:9514
 #EXTINF:-1 ,Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
-http://tv.lamro.workers.dev/?ID=5089
+http://185.78.112.17/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
 http://87.246.54.249:8080/KinoHit/index.m3u8
 #EXTINF:-1 ,Кинохит
@@ -700,10 +712,6 @@ http://193.27.209.122/kinosweet/index.m3u8
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF:-1 tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
-http://tv.lamro.workers.dev/?ID=4853
-#EXTINF:-1 tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
-http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 #EXTINF:-1 tvg-id="TimelessDiziChannel.ru" tvg-name="timeless dizi channel" tvg-logo="https://i.imgur.com/s3Sqd4L.png" ,Dizi
 http://193.27.209.122/dizi/index.m3u8
 #EXTINF:-1 ,Кинокомедия
@@ -711,7 +719,7 @@ http://185.46.16.239:8000/Fox_HD
 #EXTINF:-1 ,viju+ Comedy
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
-http://tv.lamro.workers.dev/?ID=4051
+http://87.246.54.249:8080/Viju_Megahit/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 #EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-name="vip premiere" tvg-logo="https://i.imgur.com/klRvhR5.png" ,viju+ Premiere
@@ -721,11 +729,11 @@ http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 ,Наше новое кино
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 #EXTINF:-1 ,Наше
-http://tv.lamro.workers.dev/?ID=4970
-#EXTINF:-1 ,Наше
 http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
+#EXTINF:-1 ,Наше
+http://tv.lamro.workers.dev/?ID=4970
 #EXTINF:-1 ,Кинопоказ
-http://tv.lamro.workers.dev/?ID=4053
+http://185.78.112.17/kinopokaz/index.m3u8
 #EXTINF:-1 ,Кинопоказ
 http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 #EXTINF:-1 ,Кинопоказ
@@ -739,6 +747,8 @@ http://139.28.255.188:8080/bestseller/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 ,Русский детектив
+http://185.78.112.17/rus-detective/index.m3u8
+#EXTINF:-1 ,Русский детектив
 http://tv.lamro.workers.dev/?ID=4122
 #EXTINF:-1 ,Честный детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -749,9 +759,9 @@ http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 ,Про любовь
-http://tv.lamro.workers.dev/?ID=4973
-#EXTINF:-1 ,Про любовь
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
+#EXTINF:-1 ,Про любовь
+http://tv.lamro.workers.dev/?ID=4973
 #EXTINF:-1 ,НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 ,Киноужас
@@ -759,7 +769,11 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://tv.lamro.workers.dev/?ID=4968
+http://185.78.112.17/mosfilm/index.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
+#EXTINF:-1 ,Москва. Доверие
+http://185.78.112.17/russia-today/index.m3u8
 #EXTINF:-1 ,Советское кино
 http://31.130.203.6:8477
 #EXTINF:-1 ,Movie Classic
@@ -861,11 +875,17 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 ,Матч! Игра
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 ,Футбол
-#
+http://185.78.112.17/football/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 1
+http://185.78.112.17/football1_hd/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://ronaldo.tvfor.pro/MatchFootball1/tht6v98456np1k198n81n2t8?
 #EXTINF:-1 ,Матч! Футбол 2
+http://185.78.112.17/football2_hd/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 2
 http://ronaldo.tvfor.pro/MatchFootball2/tht6v98456np1k198n81n2t8?
+#EXTINF:-1 ,Матч! Футбол 3
+http://185.78.112.17/football3_hd/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
 http://185.57.68.14/110/mpegts
 #EXTINF:-1 ,Arena Sport 1
