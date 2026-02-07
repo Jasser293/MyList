@@ -795,7 +795,9 @@ http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://87.76.32.36:8001/eurosport1hd
+http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://ronaldo.tvfor.pro/EurosportHD/tht6v98456np1k198n81n2t8?/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1 ,Eurosport 2
