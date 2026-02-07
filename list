@@ -169,9 +169,9 @@ http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://s7.merlive.am/stslove/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://tinyurl.com/2ne5acyb
+http://tinyurl.com/5n8hedre
 #EXTINF:-1 ,СТС Love
-https://tinyurl.com/3yv9kdev
+http://tinyurl.com/y6w5bccv
 #EXTINF:-1 ,ТВ3
 http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -657,6 +657,8 @@ http://31.130.203.6:9514
 #EXTINF:-1 ,Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
+http://tv.lamro.workers.dev/?ID=5089
+#EXTINF:-1 ,Кинохит
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 ,Кинохит
 http://178.218.204.217/1055/tracks-v1a1/mono.m3u8
@@ -725,7 +727,7 @@ http://139.28.255.188:8080/bestseller/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 ,Русский детектив
-http://tinyurl.com/5ak8jv8c
+http://tv.lamro.workers.dev/?ID=4122
 #EXTINF:-1 ,Честный детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoDetektiv.ru" tvg-name="сити эдем кинодетектив" ,Сити Эдем - Кино Детектив
