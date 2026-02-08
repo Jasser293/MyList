@@ -604,6 +604,14 @@ http://89.179.247.144/hls/mixm.m3u8
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-name="impact tv manele [ro]" tvg-logo="https://i.imgur.com/G5mNdpE.png" ,Impact TV Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 ,Fresh HD
+http://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 ,Hind Hits
+http://thksmom.shop/bbso1vod24/7/index.m3u8
+#EXTINF:-1 ,City TV
+https://tv.city.bg/play/tshls/citytv/2.m3u8
+#EXTINF:-1 ,7X MUSIC
+https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 ,RU.TV
 http://77.232.131.211/RUTV/index.m3u8
 #EXTINF:-1 ,Теледом ТВ
