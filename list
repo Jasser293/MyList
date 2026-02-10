@@ -331,7 +331,7 @@ http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
 #EXTINF:-1 ,Сарафан
 http://176.118.197.125/Sarafan/index.m3u8
 #EXTINF:-1 ,АВТО 24
-http://87.246.54.249:8080/avto24/index.m3u8
+http://178.218.204.217/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,АВТО 24
 http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1 ,АВТО 24
@@ -543,7 +543,8 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,1HD
-http://91.247.68.229:8000/play/eee/index.m3u8
+https://178.218.204.217/1267/tracks-v1a1/mono.m3u8
+#http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,ТНТ Music
@@ -833,7 +834,7 @@ http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 ,Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,Матч! Премьер
-http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
+#
 #EXTINF:-1 ,МАТЧ! Арена
 http://185.46.16.239:8000/Match_Arena
 #EXTINF:-1 ,МАТЧ! Арена
