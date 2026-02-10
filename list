@@ -739,7 +739,7 @@ http://vod.tuva.ru/rusroman/index.m3u8
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 ,НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
-#EXTINF:-1 ,БОЛТ
+#EXTINF:-1 ,Bolt
 http://88.135.128.20:8090/Bolt/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
