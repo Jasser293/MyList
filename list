@@ -173,6 +173,8 @@ http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС (+4)
 http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
+http://s7.merlive.am/stslove/index.m3u8
+#EXTINF:-1 ,СТС Love
 http://ua.online24.pm/play/284/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,СТС Love
 http://ott.server-iptv.live/125/video.m3u8?token=Ceba8e4412
@@ -340,6 +342,8 @@ http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 ,Авто плюс
 http://178.218.204.217/1036/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Авто плюс
+http://87.246.54.249:8080/AvtoPlus/index.m3u8
 #EXTINF:-1 ,Драйв
 http://176.118.197.125/Draiv/index.m3u8
 #EXTINF:-1 ,Мужской
@@ -393,7 +397,7 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 ,Еда
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 ,Аппетитный
-#http://s7.merlive.am/FoodNetwork/index.m3u8
+http://s7.merlive.am/FoodNetwork/index.m3u8
 #EXTINF:-1 ,Кухня
 http://31.130.203.6:8754
 #EXTINF:-1 ,Кухня
@@ -741,9 +745,9 @@ http://88.135.128.20:8090/Bolt/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 ,Москва. Доверие
 #
 #EXTINF:-1 ,Советское кино
@@ -831,7 +835,7 @@ http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 ,Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,Матч! Премьер
-#
+http://s7.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
 http://185.46.16.239:8000/Match_Arena
 #EXTINF:-1 ,МАТЧ! Арена
@@ -852,13 +856,13 @@ http://ronaldo.tvfor.pro/MatchFootball1/tht6v98456np1k198n81n2t8?
 http://ronaldo.tvfor.pro/MatchFootball2/tht6v98456np1k198n81n2t8?
 #EXTINF:-1 ,Матч! Футбол 3
 http://185.57.68.14/110/mpegts
-#EXTINF:-1 ,Arena Sport 1
+#EXTINF:-1 ,Матч! Sport 1
 http://87.246.54.249:8080/ArenaSport1/index.m3u8
-#EXTINF:-1 ,Arena Sport 2
+#EXTINF:-1 ,Матч! Sport 2
 http://87.246.54.249:8080/ArenaSport2/index.m3u8
-#EXTINF:-1 ,Arena Sport 3
+#EXTINF:-1 ,Матч! Sport 3
 http://87.246.54.249:8080/ArenaSport3/index.m3u8
-#EXTINF:-1 ,Arena Sport 4
+#EXTINF:-1 ,Матч! Sport 4
 http://87.246.54.249:8080/ArenaSport4/index.m3u8
 #EXTINF:-1 ,KHL Prime
 http://158.101.222.193:88/georgia_play.php?id=khlprime
