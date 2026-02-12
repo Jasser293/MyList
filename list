@@ -2,8 +2,6 @@
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
-http://87.246.54.249:8080/Pervii/index.m3u8
-#EXTINF:-1 ,Первый канал
 http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://31.130.203.6:8402
@@ -53,8 +51,6 @@ http://cdn2.ntv.ru/th_hit/mono.m3u8
 http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 ,Россия 1
-http://87.246.54.249:8080/Rossia1/index.m3u8
 #EXTINF:-1 ,Россия 1 (+1)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 #EXTINF:-1 ,Россия 1 (+2)
@@ -129,8 +125,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,ТНТ
 http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,ТНТ
-http://87.246.54.249:8080/THT/index.m3u8
-#EXTINF:-1 ,ТНТ
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 ,ТНТ
 http://95.47.156.60:8000/play/19/index.m3u8
@@ -138,8 +132,6 @@ http://95.47.156.60:8000/play/19/index.m3u8
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
-#EXTINF:-1 ,ТНТ4
-http://87.246.54.249:8080/THT4/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 ,Перец
@@ -164,8 +156,6 @@ http://162.249.126.236/TvoeTVHumor/index.m3u8?token=TvoeTV
 http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,СТС
 http://185.46.16.239:8000/STS
-#EXTINF:-1 ,СТС
-http://87.246.54.249:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС
 http://185.91.177.13/sts/index.m3u8
 #EXTINF:-1 ,СТС (+2)
@@ -342,8 +332,6 @@ http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 ,Авто плюс
 http://178.218.204.217/1036/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Авто плюс
-http://87.246.54.249:8080/AvtoPlus/index.m3u8
 #EXTINF:-1 ,Драйв
 http://176.118.197.125/Draiv/index.m3u8
 #EXTINF:-1 ,Мужской
@@ -679,8 +667,6 @@ http://31.130.203.6:9514
 #EXTINF:-1 ,Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
-http://87.246.54.249:8080/KinoHit/index.m3u8
-#EXTINF:-1 ,Кинохит
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 ,Кинохит
 http://178.218.204.217/1055/tracks-v1a1/mono.m3u8
@@ -710,8 +696,6 @@ http://158.101.222.193:88/georgia_play.php?id=zeetv
 http://185.46.16.239:8000/Fox_HD
 #EXTINF:-1 ,viju+ Comedy
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
-http://87.246.54.249:8080/Viju_Megahit/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 #EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-name="vip premiere" tvg-logo="https://i.imgur.com/klRvhR5.png" ,viju+ Premiere
@@ -864,18 +848,8 @@ http://ronaldo.tvfor.pro/MatchFootball1/tht6v98456np1k198n81n2t8?
 http://ronaldo.tvfor.pro/MatchFootball2/tht6v98456np1k198n81n2t8?
 #EXTINF:-1 ,Матч! Футбол 3
 http://185.57.68.14/110/mpegts
-#EXTINF:-1 ,Матч! Sport 1
-http://87.246.54.249:8080/ArenaSport1/index.m3u8
-#EXTINF:-1 ,Матч! Sport 2
-http://87.246.54.249:8080/ArenaSport2/index.m3u8
-#EXTINF:-1 ,Матч! Sport 3
-http://87.246.54.249:8080/ArenaSport3/index.m3u8
-#EXTINF:-1 ,Матч! Sport 4
-http://87.246.54.249:8080/ArenaSport4/index.m3u8
 #EXTINF:-1 ,KHL Prime
 http://158.101.222.193:88/georgia_play.php?id=khlprime
-#EXTINF:-1 ,KHL Prime
-http://87.246.54.249:8080/KHL/index.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="астрахань спорт" tvg-logo="https://i.imgur.com/BKaEtqL.png" ,Астрахань Спорт
 http://213.108.175.226/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel
