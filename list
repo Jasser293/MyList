@@ -2,6 +2,8 @@
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
+http://iptv46.mcx-ix.ru:8077/ort_hd/index.m3u8
+#EXTINF:-1 ,Первый канал
 http://188.143.128.88:30312/play/p312/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
@@ -141,6 +143,8 @@ http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
 #EXTINF:-1 ,ТНТ4
+http://iptv46.mcx-ix.ru:8077/tnt-4/index.m3u8
+#EXTINF:-1 ,ТНТ4
 http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 ,Перец
 http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
@@ -153,11 +157,7 @@ http://31.130.203.6:8715
 #EXTINF:-1 ,Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
-#
-#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
 http://162.249.126.236/TvoeTV/index.m3u8?token=TvoeTV
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
-#
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
 http://162.249.126.236/TvoeTVHumor/index.m3u8?token=TvoeTV
 #EXTINF:-1 ,СТС
@@ -171,11 +171,13 @@ http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС (+4)
 http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
+http://iptv46.mcx-ix.ru:8077/sts-love/index.m3u8
+#EXTINF:-1 ,СТС Love
 http://s7.merlive.am/stslove/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://ua.online24.pm/play/284/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,СТС Love
-http://ott.server-iptv.live/125/video.m3u8?token=Ceba8e4412
+#http://ott.server-iptv.live/125/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 ,ТВ3
 http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -184,6 +186,8 @@ http://185.46.16.239:8000/TV3
 http://95.47.156.60:8000/play/15/index.m3u8
 #EXTINF:-1 ,ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
+#EXTINF:-1 ,Домашний
+http://iptv46.mcx-ix.ru:8077/domashniy_hd/index.m3u8
 #EXTINF:-1 ,Домашний
 http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 ,Домашний
@@ -349,6 +353,8 @@ http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 ,RT Doc
 https://streaming.televizor-24-tochka.ru/live/554.m3u8
 #EXTINF:-1 ,RT Doc
+http://iptv46.mcx-ix.ru:8077/rtdoc_hd/index.m3u8
+#EXTINF:-1 ,RT Doc
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
@@ -375,7 +381,7 @@ http://178.218.204.217/1410/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Загородный Int
 http://river-5-544.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/UrbfJmDjh7Q5KrtCVGP-Zw/1771579482/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
-#
+http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
 #EXTINF:-1 ,Rutube
 http://river-3-340.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/A7UD-9ax7BByxXHrM9eU2w/1771579501/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл
@@ -392,6 +398,8 @@ http://176.118.197.125/Zdorovoe-TV/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=jivi
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#EXTINF:-1 ,Food Time
+http://iptv46.mcx-ix.ru:8077/eda_hd/index.m3u8
 #EXTINF:-1 ,Еда
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -530,6 +538,8 @@ http://river-3-311.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/8ndIz_VFzbn1WZqvC3R
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
 http://176.96.241.40/Dikiy/index.m3u8
+#EXTINF:-1 ,Рыболов
+http://iptv46.mcx-ix.ru:8077/ohotnik/index.m3u8
 #EXTINF:-1 ,Дикая Охота
 #http://s7.merlive.am/dikayaoxota/index.m3u8
 #EXTINF:-1 ,Дикая Рыбалка HD
@@ -543,7 +553,7 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,1HD
-#
+http://iptv46.mcx-ix.ru:8077/1hd/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,ТНТ Music
@@ -608,6 +618,8 @@ https://stream.e2is.in/hls/7xMusic.m3u8
 http://77.232.131.211/RUTV/index.m3u8
 #EXTINF:-1 ,Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 ,Сапфир
+http://iptv46.mcx-ix.ru:8077/fox_life_hd/index.m3u8
 #EXTINF:-1 ,Сапфир
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 tvg-id="Kvarc.ru" tvg-name="кварц" tvg-logo="https://i.imgur.com/90vSdul.png" ,Кварц ТВ
@@ -727,6 +739,8 @@ http://139.28.255.188:8080/bestseller/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 ,Русский детектив
+http://iptv46.mcx-ix.ru:8077/rus-detective/index.m3u8
+#EXTINF:-1 ,Русский детектив
 http://tv.lamro.workers.dev/?ID=4122
 #EXTINF:-1 ,Честный детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -738,6 +752,8 @@ http://139.28.255.188:8080/rusroman/index.m3u8
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 ,Про любовь
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
+#EXTINF:-1 ,Про любовь
+http://iptv46.mcx-ix.ru:8077/pro_lubov_hd/index.m3u8
 #EXTINF:-1 ,НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 ,Bolt
@@ -748,8 +764,10 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://iptv46.mcx-ix.ru:8077/mosfilm/index.m3u8
 #EXTINF:-1 ,Москва. Доверие
-#
+http://iptv46.mcx-ix.ru:8077/russia-today/index.m3u8
 #EXTINF:-1 ,Советское кино
 http://31.130.203.6:8477
 #EXTINF:-1 ,Movie Classic
@@ -851,9 +869,15 @@ http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 ,Футбол
 http://hls127.freeott.top:8080/Football/mono.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
+http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 1
 http://ronaldo.tvfor.pro/MatchFootball1/tht6v98456np1k198n81n2t8?
 #EXTINF:-1 ,Матч! Футбол 2
+http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 2
 http://ronaldo.tvfor.pro/MatchFootball2/tht6v98456np1k198n81n2t8?
+#EXTINF:-1 ,Матч! Футбол 3
+http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
 http://185.57.68.14/110/mpegts
 #EXTINF:-1 ,Arena Sport 1
