@@ -387,6 +387,8 @@ http://178.218.204.217/1410/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Загородный Int
 http://river-5-540.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/WWJtabl5swbdPrPRCcFnBw/1771655979/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
+http://91.226.120.120/chid514/mpegts
+#EXTINF:-1 ,Лапки Live
 http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
 #EXTINF:-1 ,Rutube
 http://river-5-540.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/oP_y1hCT1A2I80QXkq6tFg/1771655995/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
@@ -408,6 +410,8 @@ http://158.101.222.193:88/georgia_play.php?id=jivi
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 ,Food Time
 http://iptv46.mcx-ix.ru:8077/eda_hd/index.m3u8
+#EXTINF:-1 ,Food Time
+http://91.226.120.120/chid415/mpegts
 #EXTINF:-1 ,Еда
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -778,6 +782,8 @@ http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 http://iptv46.mcx-ix.ru:8077/mosfilm/index.m3u8
 #EXTINF:-1 ,Москва. Доверие
 http://iptv46.mcx-ix.ru:8077/russia-today/index.m3u8
+#EXTINF:-1 ,Советская Киноклассика
+http://91.226.120.120/chid276/mpegts
 #EXTINF:-1 ,Советское кино
 http://31.130.203.6:8477
 #EXTINF:-1 ,Movie Classic
