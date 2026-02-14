@@ -411,6 +411,8 @@ http://iptv46.mcx-ix.ru:8077/eda_hd/index.m3u8
 #EXTINF:-1 ,Еда
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 ,Аппетитный
+http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
+#EXTINF:-1 ,Аппетитный
 http://s7.merlive.am/FoodNetwork/index.m3u8
 #EXTINF:-1 ,Кухня
 http://31.130.203.6:8754
@@ -549,9 +551,9 @@ http://176.96.241.40/Dikiy/index.m3u8
 #EXTINF:-1 ,Рыболов
 http://iptv46.mcx-ix.ru:8077/ohotnik/index.m3u8
 #EXTINF:-1 ,Дикая Охота
-#http://s7.merlive.am/dikayaoxota/index.m3u8
+http://s7.merlive.am/dikayaoxota/index.m3u8
 #EXTINF:-1 ,Дикая Рыбалка HD
-#http://s7.merlive.am/dikayaribalka/index.m3u8
+http://s7.merlive.am/dikayaribalka/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
