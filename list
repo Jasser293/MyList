@@ -790,6 +790,8 @@ http://iptv46.mcx-ix.ru:8077/russia-today/index.m3u8
 http://91.226.120.120/chid276/mpegts
 #EXTINF:-1 ,Советское кино
 http://31.130.203.6:8477
+#EXTINF:-1 ,Ретро
+http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 ,Movie Classic
 http://31.130.203.6:8858
 #EXTINF:-1 ,Viju TV1000
