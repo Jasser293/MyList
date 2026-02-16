@@ -175,7 +175,7 @@ http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://iptv46.mcx-ix.ru:8077/sts-love/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://s7.merlive.am/stslove/index.m3u8
+#http://s7.merlive.am/stslove/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://ua.online24.pm/play/284/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,СТС Love
@@ -335,7 +335,7 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 ,ЦТВ
 http://87.76.32.36:8001/ctv
 #EXTINF:-1 ,Телекафе
-http://88.135.128.30:8090/telecafe/index.m3u8
+http://178.218.204.217/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Телекафе
 http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
 #EXTINF:-1 ,Сарафан
@@ -375,7 +375,7 @@ http://139.28.255.188:8080/usadba/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://87.76.32.36:8001/usadba
 #EXTINF:-1 ,Бобёр
-http://88.135.128.30:8090/bober/index.m3u8
+http://hls127.freeott.top:8080/Bober/mono.m3u8
 #EXTINF:-1 ,Бобёр
 http://176.118.197.125/Bober/index.m3u8
 #EXTINF:-1 ,Бобёр
@@ -417,7 +417,7 @@ http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 ,Аппетитный
 http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 ,Аппетитный
-http://s7.merlive.am/FoodNetwork/index.m3u8
+#http://s7.merlive.am/FoodNetwork/index.m3u8
 #EXTINF:-1 ,Кухня
 http://31.130.203.6:8754
 #EXTINF:-1 ,Кухня
@@ -501,7 +501,7 @@ http://178.218.204.217/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Поехали!
 http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 ,Поехали!
-http://88.135.128.20:8090/poehali/index.m3u8
+http://iptv46.mcx-ix.ru:8077/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 ,Animal Planet
@@ -557,9 +557,9 @@ http://176.96.241.40/Dikiy/index.m3u8
 #EXTINF:-1 ,Рыболов
 http://iptv46.mcx-ix.ru:8077/ohotnik/index.m3u8
 #EXTINF:-1 ,Дикая Охота
-http://s7.merlive.am/dikayaoxota/index.m3u8
+#http://s7.merlive.am/dikayaoxota/index.m3u8
 #EXTINF:-1 ,Дикая Рыбалка HD
-http://s7.merlive.am/dikayaribalka/index.m3u8
+#ttp://s7.merlive.am/dikayaribalka/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -643,13 +643,9 @@ http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 ,2x2
 http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
 #EXTINF:-1 ,Дом кино премиум
-http://88.135.128.30:8090/domkinopremium/index.m3u8
-#EXTINF:-1 ,Дом кино премиум
 http://212.102.38.45/live/test_dom_kino_premium/playlist.m3u8
 #EXTINF:-1 ,Дом кино премиум
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
-#EXTINF:-1 ,Дом кино
-http://88.135.128.30:8090/domkino/index.m3u8
 #EXTINF:-1 ,Дом Кино
 http://139.28.255.252:8080/domkino/index.m3u8
 #EXTINF:-1 ,Дом Кино
@@ -775,7 +771,7 @@ http://iptv46.mcx-ix.ru:8077/pro_lubov_hd/index.m3u8
 #EXTINF:-1 ,НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 ,Bolt
-http://88.135.128.20:8090/Bolt/tracks-v1a2/mono.m3u8
+http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -792,6 +788,8 @@ http://91.226.120.120/chid276/mpegts
 http://31.130.203.6:8477
 #EXTINF:-1 ,Ретро
 http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 ,Ретро
+http://176.96.241.40/Retro/index.m3u8
 #EXTINF:-1 ,Movie Classic
 http://31.130.203.6:8858
 #EXTINF:-1 ,Viju TV1000
@@ -875,7 +873,9 @@ http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 ,Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,Матч! Премьер
-http://s7.merlive.am/matchpremier/index.m3u8
+http://iptv46.mcx-ix.ru:8077/nash_football_hd/index.m3u8
+#EXTINF:-1 ,Матч! Премьер
+#http://s7.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
 http://185.46.16.239:8000/Match_Arena
 #EXTINF:-1 ,МАТЧ! Арена
@@ -936,7 +936,7 @@ http://31.130.203.6:9513
 #EXTINF:-1 ,Мама
 http://178.218.204.217/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Карусель
-http://88.135.128.20:8090/karusel/index.m3u8
+http://176.118.197.125/Karusel/index.m3u8
 #EXTINF:-1 ,TiJi
 http://178.218.204.217/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Детский Мир
