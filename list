@@ -231,7 +231,11 @@ http://iptv.crimea.net:8787
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg",Tv Brics
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,СТВ
+http://194.158.222.36:6103
+#EXTINF:-1 ,СТВ
 http://edge59.dc.beltelecom.by/ctv/_definst_/ctv.stream/playlist.m3u8
+#EXTINF:-1 ,ОНТ
+http://194.158.222.36:6102
 #EXTINF:-1 ,ОНТ
 https://edge51.dc.beltelecom.by/ont/_definst_/smil:ont/chunklist.m3u8
 #EXTINF:-1 ,Беларусь 1
