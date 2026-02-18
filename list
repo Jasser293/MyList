@@ -197,8 +197,6 @@ http://158.101.222.193:88/georgia_play.php?id=domashni
 #EXTINF:-1 ,Пятница
 http://iptv46.mcx-ix.ru:8077/pyatnica_hd/index.m3u8
 #EXTINF:-1 ,Пятница
-http://87.246.54.249:8080/piatnica/index.m3u8
-#EXTINF:-1 ,Пятница
 http://185.46.16.239:8000/Pyatnitsa
 #EXTINF:-1 ,Пятница
 http://95.47.156.60:8000/play/16/index.m3u8
@@ -236,8 +234,6 @@ http://194.158.222.36:6103
 http://edge59.dc.beltelecom.by/ctv/_definst_/ctv.stream/playlist.m3u8
 #EXTINF:-1 ,ОНТ
 http://194.158.222.36:6102
-#EXTINF:-1 ,ОНТ
-https://edge51.dc.beltelecom.by/ont/_definst_/smil:ont/chunklist.m3u8
 #EXTINF:-1 ,Беларусь 1
 http://194.158.222.36:6101
 #EXTINF:-1 ,Беларусь 1
@@ -255,8 +251,6 @@ http://87.252.229.200:8083/pinsk
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="смотрим" ,Смотрим
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-name="открытый мир. здоровье" tvg-logo="https://i.imgur.com/7orZOJA.png" ,Открытый мир
 http://212.233.98.62/0mir/index.m3u8
 #EXTINF:-1 tvg-name="о!кино" ,О!Кино
@@ -365,7 +359,7 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
-http://river-5-540.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/kcMwOkZj2fHMHJvMtknWrQ/1771855101/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+http://river-4-429.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/VXD5mAakt6DpfEx4K4wGYw/1771998405/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-id="OSN.ru" tvg-name="осн тв" ,ОСН ТВ
@@ -385,15 +379,15 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородный
 http://178.218.204.217/1410/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Загородный Int
-http://river-5-549.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/nTFzgqa-bDpDreJvur5CCw/1771855117/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+http://river-6-601.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/Ygn7Vg7P89Ti78_LVB1wBA/1771998442/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.226.120.120/chid514/mpegts
 #EXTINF:-1 ,Лапки Live
 http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
 #EXTINF:-1 ,Rutube
-http://river-3-343.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/wW9EBrLdB-hiDCM_ZCcCIw/1771855149/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+http://river-m9-pitix-d3105.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/qJX69jRQeDe2zTCkQJFC1A/1771998480/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл
-http://river-3-345.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/W-B1bEgmdpkhgu8D2HGcKA/1771855170/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-523.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/UXNK-ATkZ5haxsKdncpOPQ/1771998494/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://iptv46.mcx-ix.ru:8077/doctor/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -469,7 +463,7 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ee" tvg-name="life tv estonia" tvg-logo="https://i.imgur.com/JhrTB82.png" ,Life TV
 http://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 ,Жар Птица
-http://river-3-348.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/q00-eXs7k8I1on0rpKctaw/1771855187/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
+http://river-3-316.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/7OWNuN-qHqDrjyxJnHBBfA/1771998525/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
 #EXTINF:-1 ,TERRA
 http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1 ,Galaxy
@@ -549,7 +543,7 @@ http://31.130.203.6:8962
 #EXTINF:-1 ,Охотник и рыболов
 http://178.218.204.217/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-346.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/JYoboQ_MGLariikvkeD_pw/1771855225/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://river-m9-pitix-d3105.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/j-TSGVm9NtSg2-sUERmLvA/1771998564/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
@@ -628,8 +622,6 @@ http://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 http://thksmom.shop/bbso1vod24/7/index.m3u8
 #EXTINF:-1 ,City TV
 https://tv.city.bg/play/tshls/citytv/2.m3u8
-#EXTINF:-1 ,7X MUSIC
-https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 ,RU.TV
 http://77.232.131.211/RUTV/index.m3u8
 #EXTINF:-1 ,Теледом ТВ
@@ -663,7 +655,7 @@ http://31.130.203.6:8589
 #EXTINF:-1 ,43 канал
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:-1 ,Тайна
-http://river-5-540.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/FK0PXZgJ2wr01rI_TaVdKQ/1771855275/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-m9-pitix-d3105.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/OxX94ehw-quVWXegKqecOA/1771998604/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 ,Киносвидание
@@ -757,7 +749,7 @@ http://iptv46.mcx-ix.ru:8077/rus-detective/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://tv.lamro.workers.dev/?ID=4122
 #EXTINF:-1 ,Честный детектив
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Время
 http://212.102.38.45/live/test_vremya/playlist.m3u8
 #EXTINF:-1 ,Русский роман
@@ -831,15 +823,15 @@ http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 #http://ronaldo.tvfor.pro/EurosportHD/tht6v98456np1k198n81n2t8?/tracks-v1a2/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
-http://169.150.223.25/Eurosport1HD/index.m3u8
+http://87.246.54.249:8080/Eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://176.96.241.40/Eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-#http://ronaldo.tvfor.pro/Eurosport2HDRussia/tht6v98456np1k198n81n2t8?/tracks-v1a1/mono.m3u8
+http://87.246.54.249:8080/Eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
-http://169.150.223.25/Eurosport2HD/index.m3u8
+#http://ronaldo.tvfor.pro/Eurosport2HDRussia/tht6v98456np1k198n81n2t8?/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
 http://178.218.204.217/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
@@ -863,7 +855,7 @@ http://tinyurl.com/wbsc45h3
 #EXTINF:-1 ,Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
 #EXTINF:-1 ,Бокс ТВ
-http://5.8.11.96:8099/ort/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 ,Удар
 http://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 ,MMA-TV
