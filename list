@@ -101,6 +101,8 @@ http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://139.28.255.188:8080/tvcentr/index.m3u8
 #EXTINF:-1 ,ТВЦ
+http://stream-tv.ew21.ru/010/video.m3u8?hash=TN66TE4YB
+#EXTINF:-1 ,ТВЦ
 http://188.143.128.88:30010/play/p10/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://95.47.156.60:8000/play/10/index.m3u8
@@ -110,6 +112,8 @@ http://185.71.81.6:8080/10/index.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,Пятый канал
 http://139.28.255.188:8080/5tv/index.m3u8
+#EXTINF:-1 ,Пятый канал
+http://stream-tv.ew21.ru/005/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 ,Пятый канал
 http://188.143.128.88:30005/play/p5/index.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -130,6 +134,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,ТНТ
 http://iptv46.mcx-ix.ru:8077/tnt_hd/index.m3u8
+#EXTINF:-1 ,ТНТ
+http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 ,ТНТ
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 ,ТНТ
@@ -158,6 +164,8 @@ http://162.249.126.236/TvoeTV/index.m3u8?token=TvoeTV
 http://162.249.126.236/TvoeTVHumor/index.m3u8?token=TvoeTV
 #EXTINF:-1 ,СТС
 http://iptv46.mcx-ix.ru:8077/sts_hd/index.m3u8
+#EXTINF:-1 ,СТС
+http://stream-tv.ew21.ru/013/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 ,СТС
 http://87.246.54.249:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС
@@ -189,6 +197,8 @@ http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 ,Домашний
 http://iptv46.mcx-ix.ru:8077/domashniy_hd/index.m3u8
 #EXTINF:-1 ,Домашний
+http://stream-tv.ew21.ru/014/video.m3u8?hash=TN66TE4YB
+#EXTINF:-1 ,Домашний
 http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 ,Домашний
 http://95.47.156.60:8000/play/14/index.m3u8
@@ -198,6 +208,8 @@ http://176.96.241.40/Domashniy/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=domashni
 #EXTINF:-1 ,Пятница
 http://iptv46.mcx-ix.ru:8077/pyatnica_hd/index.m3u8
+#EXTINF:-1 ,Пятница
+http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 ,Пятница
 http://185.46.16.239:8000/Pyatnitsa
 #EXTINF:-1 ,Пятница
@@ -218,6 +230,8 @@ http://195.26.83.96:7009/play/89/index.m3u8
 http://176.118.197.101/Che/index.m3u8
 #EXTINF:-1 ,Ю
 http://139.28.255.188:8080/yutv/index.m3u8
+#EXTINF:-1 ,Ю
+http://stream-tv.ew21.ru/022/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 ,Ю
 http://87.76.32.36:8001/u
 #EXTINF:-1 ,Ю
@@ -696,6 +710,8 @@ http://139.28.255.252:8080/kinohit/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 ,Кинохит
 http://178.218.204.217/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Кинохит
+http://87.246.54.249:8080/KinoHit/mpegts
 #EXTINF:-1 ,Кино ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 ,Кино ТВ
@@ -752,8 +768,6 @@ http://iptv46.mcx-ix.ru:8077/rus-detective/index.m3u8
 http://tv.lamro.workers.dev/?ID=4122
 #EXTINF:-1 ,Честный детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Кино и сериалы HD (СМОТРИМ)
-http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 ,Время
 http://212.102.38.45/live/test_vremya/playlist.m3u8
 #EXTINF:-1 ,Русский роман
