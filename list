@@ -179,7 +179,7 @@ http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://iptv46.mcx-ix.ru:8077/sts-love/index.m3u8
 #EXTINF:-1 ,СТС Love
-#http://s7.merlive.am/stslove/index.m3u8
+http://s7.merlive.am/stslove/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://ua.online24.pm/play/284/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,СТС Love
@@ -427,7 +427,7 @@ http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 ,Аппетитный
 http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 ,Аппетитный
-#http://s7.merlive.am/FoodNetwork/index.m3u8
+http://s7.merlive.am/FoodNetwork/index.m3u8
 #EXTINF:-1 ,Кухня
 http://31.130.203.6:8754
 #EXTINF:-1 ,Кухня
@@ -493,7 +493,7 @@ http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 #http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,Investigation Discovery
-http://109.75.59.241:8017/ID/index.m3u8
+#
 #EXTINF:-1 ,History
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 ,Travel+Adventure HD
@@ -502,6 +502,8 @@ http://77.232.131.211/TravelAdventureHD/index.m3u8
 http://31.130.203.6:9644
 #EXTINF:-1 ,TLC
 http://176.118.197.125/TLC-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TLC
+http://s7.merlive.am/tlc/index.m3u8
 #EXTINF:-1 ,TLC
 #http://gr.seetv.cc/play/189/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,Глазами туриста
@@ -567,9 +569,9 @@ http://176.96.241.40/Dikiy/index.m3u8
 #EXTINF:-1 ,Рыболов
 http://iptv46.mcx-ix.ru:8077/ohotnik/index.m3u8
 #EXTINF:-1 ,Дикая Охота
-#http://s7.merlive.am/dikayaoxota/index.m3u8
+http://s7.merlive.am/dikayaoxota/index.m3u8
 #EXTINF:-1 ,Дикая Рыбалка HD
-#ttp://s7.merlive.am/dikayaribalka/index.m3u8
+http://s7.merlive.am/dikayaribalka/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -887,7 +889,7 @@ http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,Матч! Премьер
 http://iptv46.mcx-ix.ru:8077/nash_football_hd/index.m3u8
 #EXTINF:-1 ,Матч! Премьер
-#http://s7.merlive.am/matchpremier/index.m3u8
+http://s7.merlive.am/matchpremier/index.m3u8
 #EXTINF:-1 ,МАТЧ! Арена
 http://185.46.16.239:8000/Match_Arena
 #EXTINF:-1 ,МАТЧ! Арена
