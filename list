@@ -181,7 +181,7 @@ http://iptv46.mcx-ix.ru:8077/sts-love/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://s7.merlive.am/stslove/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://ua.online24.pm/play/284/D70CC021CA87DF2/video.m3u8
+#http://ua.online24.pm/play/284/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,СТС Love
 #http://ott.server-iptv.live/125/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 ,ТВ3
@@ -842,14 +842,10 @@ http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 1
 #http://ronaldo.tvfor.pro/EurosportHD/tht6v98456np1k198n81n2t8?/tracks-v1a2/mono.m3u8
-#EXTINF:-1 ,Eurosport 1
-http://87.246.54.249:8080/Eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://176.96.241.40/Eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Eurosport 2
 http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://87.246.54.249:8080/Eurosport2/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 #http://ronaldo.tvfor.pro/Eurosport2HDRussia/tht6v98456np1k198n81n2t8?/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1
