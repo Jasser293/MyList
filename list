@@ -153,9 +153,9 @@ http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
 #EXTINF:-1 ,Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 ,КВН ТВ
-http://158.101.222.193:88/georgia_play.php?id=kvntv
-#EXTINF:-1 ,КВН ТВ
 http://31.130.203.6:8715
+#EXTINF:-1 ,КВН ТВ
+http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 ,Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
@@ -272,9 +272,11 @@ http://212.233.98.62/0mir/index.m3u8
 #EXTINF:-1 tvg-name="о!кино" ,О!Кино
 http://212.233.98.62/okino-tv/index.m3u8
 #EXTINF:-1 ,Ностальгия
-http://158.101.222.193:88/georgia_play.php?id=nostalgy
+http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
 #EXTINF:-1 ,Ностальгия
 http://87.76.32.36:8001/nostalgiya
+#EXTINF:-1 ,Ностальгия
+http://158.101.222.193:88/georgia_play.php?id=nostalgy
 #EXTINF:-1 ,Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 ,Неизвестная Россия
@@ -351,21 +353,23 @@ http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
 #EXTINF:-1 ,Сарафан
 http://176.118.197.125/Sarafan/index.m3u8
 #EXTINF:-1 ,АВТО 24
+http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
+#EXTINF:-1 ,АВТО 24
 http://178.218.204.217/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,АВТО 24
 http://158.101.222.193:88/georgia_play.php?id=auto24
-#EXTINF:-1 ,АВТО 24
-http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
-#EXTINF:-1 ,Авто плюс
-http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 ,Авто плюс
 http://178.218.204.217/1036/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Авто плюс
+http://s7.merlive.am/Avtoplus/index.m3u8
+#EXTINF:-1 ,Авто плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 ,Драйв
 http://176.118.197.125/Draiv/index.m3u8
 #EXTINF:-1 ,Мужской
-http://158.101.222.193:88/georgia_play.php?id=muzhskoy
-#EXTINF:-1 ,Мужской
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:-1 ,Мужской
+http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 ,RT Doc
 https://streaming.televizor-24-tochka.ru/live/554.m3u8
 #EXTINF:-1 ,RT Doc
@@ -375,7 +379,7 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
-http://river-5-514.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/s1jSoyRV3MEJQWJ9izP0qw/1772171888/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+http://river-3-317.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/hEw4eP47k6xa5Gid8_nE6A/1772309556/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-id="OSN.ru" tvg-name="осн тв" ,ОСН ТВ
@@ -395,15 +399,15 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородный
 http://178.218.204.217/1410/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Загородный Int
-http://river-3-311.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/V00FEV-tTMOzFsWIVBz8Yw/1772171911/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+http://river-3-349.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/9oBvk6Ge1nLLevQ_lv-vLg/1772309574/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.226.120.120/chid514/mpegts
 #EXTINF:-1 ,Лапки Live
 http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
 #EXTINF:-1 ,Rutube
-http://river-3-347.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/FYNz2pALWJznXwebzN7hXQ/1772171954/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+http://river-4-424.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/r684miTHsmjsmPTv6CLRFA/1772309604/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл
-http://river-5-523.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/U8_cwxa0Oouw-Ag3GoBhsA/1772171970/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-549.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/BHDs1qhVhwFNAkUEWvk01g/1772309623/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://iptv46.mcx-ix.ru:8077/doctor/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -414,6 +418,8 @@ http://45.11.139.43:8555/doctor/index.m3u8
 http://178.218.204.217/1409/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://176.118.197.125/Zdorovoe-TV/index.m3u8
+#EXTINF:-1 ,Живи
+http://iptv46.mcx-ix.ru:8077/jivi/index.m3u8
 #EXTINF:-1 ,Живи
 http://158.101.222.193:88/georgia_play.php?id=jivi
 #EXTINF:-1 ,World Fashion Channel
@@ -479,7 +485,7 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ee" tvg-name="life tv estonia" tvg-logo="https://i.imgur.com/JhrTB82.png" ,Life TV
 http://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 ,Жар Птица
-http://river-3-329.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/sv2kYdFqRqnEj6LhtKm34w/1772171989/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
+http://river-5-540.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/qejj_Jng3Vw5fCSfAO5QBA/1772309655/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
 #EXTINF:-1 ,TERRA
 http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1 ,Galaxy
@@ -535,11 +541,15 @@ http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 ,Точка РФ
 http://91.226.120.120/chid431/mpegts
 #EXTINF:-1 ,Точка РФ
+http://178.218.204.217/1222/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Точка РФ
 http://158.101.222.193:88/georgia_play.php?id=hdlife
 #EXTINF:-1 ,Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 ,В мире животных
 http://178.218.204.217/1404/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Zooпарк
+http://178.218.204.217/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Zooпарк
 http://158.101.222.193:88/georgia_play.php?id=zoo
 #EXTINF:-1 ,Наука
@@ -561,7 +571,7 @@ http://31.130.203.6:8962
 #EXTINF:-1 ,Охотник и рыболов
 http://178.218.204.217/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-311.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/9TYrHe0TA7Wz4C6ezRgGig/1772172021/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://river-5-558.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/Ou8ffJxzMFjSLC7F8nQb6A/1772309691/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
@@ -673,25 +683,33 @@ http://31.130.203.6:8589
 #EXTINF:-1 ,43 канал
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:-1 ,Тайна
-http://river-5-540.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/4azsFNHkw20J2knRLvLbtA/1772172051/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-3-369.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/LAysRJIrYcAHmSa26P0TUA/1772309719/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 ,Киносвидание
-http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+http://iptv46.mcx-ix.ru:8077/kinosvidanie/index.m3u8
 #EXTINF:-1 ,Киносвидание
 http://178.218.204.217/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Киносвидание
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 ,Kиносемья
 http://31.130.203.6:9398
 #EXTINF:-1 ,Amedia 1
-http://158.101.222.193:88/georgia_play.php?id=amedia
+http://iptv46.mcx-ix.ru:8077/amedia/index.m3u8
 #EXTINF:-1 ,Amedia 1
 http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
+#EXTINF:-1 ,Amedia 1
+http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 ,Amedia 2
-http://158.101.222.193:88/georgia_play.php?id=amedia2
+http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
 #EXTINF:-1 ,Amedia 2
 http://158.160.149.81:8080/462/index.m3u8
+#EXTINF:-1 ,Amedia 2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 ,Amedia Hit
 http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
+#EXTINF:-1 ,Amedia Hit
+http://iptv46.mcx-ix.ru:8077/amedia_hit_hd/index.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 ,Amedia Premium
@@ -709,11 +727,11 @@ http://31.130.203.6:9514
 #EXTINF:-1 ,Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 ,Кинохит
-http://158.101.222.193:88/georgia_play.php?id=kinokomediya
-#EXTINF:-1 ,Кинохит
 http://178.218.204.217/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Кинохит
 http://87.246.54.249:8080/KinoHit/mpegts
+#EXTINF:-1 ,Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 ,Кино ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 ,Кино ТВ
@@ -722,6 +740,8 @@ http://94.230.250.140/kinotv/mono.m3u8
 http://139.28.255.188:8080/kinomiks/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 ,Киносемья HD
+http://iptv46.mcx-ix.ru:8077/kinosemya/index.m3u8
 #EXTINF:-1 ,Киносемья HD
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" ,Cinema
@@ -736,6 +756,8 @@ http://91.226.120.120/chid420/mpegts
 http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
 #EXTINF:-1 ,Индийское кино
 http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
+http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
 #EXTINF:-1 ,Кинокомедия
@@ -758,6 +780,8 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 http://iptv46.mcx-ix.ru:8077/kinopokaz/index.m3u8
 #EXTINF:-1 ,Любимое кино
 http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:-1 ,Мужское кино HD
+http://iptv46.mcx-ix.ru:8077/muzhskoe-kino_hd/index.m3u8
 #EXTINF:-1 ,Мужское кино HD
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 ,Русский бестселлер
@@ -784,6 +808,8 @@ http://iptv46.mcx-ix.ru:8077/pro_lubov_hd/index.m3u8
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 ,Bolt
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
+#EXTINF:-1 ,Киноужас
+http://iptv46.mcx-ix.ru:8077/kinoujas/index.m3u8
 #EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -922,6 +948,8 @@ http://87.246.54.249:8080/ArenaSport2/index.m3u8
 http://87.246.54.249:8080/ArenaSport3/index.m3u8
 #EXTINF:-1 ,Arena Sport 4
 http://87.246.54.249:8080/ArenaSport4/index.m3u8
+#EXTINF:-1 ,KHL Prime
+http://iptv46.mcx-ix.ru:8077/khl_hd/index.m3u8
 #EXTINF:-1 ,KHL Prime
 http://158.101.222.193:88/georgia_play.php?id=khlprime
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="астрахань спорт" tvg-logo="https://i.imgur.com/BKaEtqL.png" ,Астрахань Спорт
