@@ -253,7 +253,7 @@ http://194.158.222.36:6102
 #EXTINF:-1 ,Беларусь 1
 http://194.158.222.36:6101
 #EXTINF:-1 ,Беларусь 1
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 ,Беларусь 1
 #https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1/chunklist_w635211647_b5160000_sleng.m3u8
 #EXTINF:-1 ,Беларусь 24
@@ -379,7 +379,7 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
-http://river-3-317.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/hEw4eP47k6xa5Gid8_nE6A/1772309556/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+http://river-4-429.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/hwLLb8h6SIzX5nUwV1qA8g/1772525653/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-id="OSN.ru" tvg-name="осн тв" ,ОСН ТВ
@@ -399,15 +399,15 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородный
 http://178.218.204.217/1410/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Загородный Int
-http://river-3-349.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/9oBvk6Ge1nLLevQ_lv-vLg/1772309574/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+http://river-3-350.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/6yMZ_uSafJ3uKrwBMmAbOw/1772525685/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.226.120.120/chid514/mpegts
 #EXTINF:-1 ,Лапки Live
 http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
 #EXTINF:-1 ,Rutube
-http://river-4-424.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/r684miTHsmjsmPTv6CLRFA/1772309604/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+http://river-3-340.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/po_A3myiQ4INRBDjCOT0ng/1772525709/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл
-http://river-5-549.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/BHDs1qhVhwFNAkUEWvk01g/1772309623/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-523.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/P-KwSbJVLZ3Tx7AW4iwsVQ/1772525735/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://iptv46.mcx-ix.ru:8077/doctor/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -485,7 +485,7 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ee" tvg-name="life tv estonia" tvg-logo="https://i.imgur.com/JhrTB82.png" ,Life TV
 http://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 ,Жар Птица
-http://river-5-540.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/qejj_Jng3Vw5fCSfAO5QBA/1772309655/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
+http://river-m9-pitix-d3105.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/02HA5WNUEB90gYOP_Efmmg/1772525752/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
 #EXTINF:-1 ,TERRA
 http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1 ,Galaxy
@@ -569,7 +569,7 @@ http://31.130.203.6:8962
 #EXTINF:-1 ,Охотник и рыболов
 http://178.218.204.217/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-5-558.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/Ou8ffJxzMFjSLC7F8nQb6A/1772309691/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://river-3-342.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/7aw8rlsrVMiOJnLvB-aZeA/1772525781/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
@@ -681,7 +681,7 @@ http://31.130.203.6:8589
 #EXTINF:-1 ,43 канал
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:-1 ,Тайна
-http://river-3-369.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/LAysRJIrYcAHmSa26P0TUA/1772309719/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-m9-pitix-d3105.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/Lk5AGCMshTEeFdbFL6DW4Q/1772525811/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 ,Киносвидание
