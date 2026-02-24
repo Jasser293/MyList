@@ -368,6 +368,10 @@ http://s7.merlive.am/Avtoplus/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 ,Драйв
 http://176.118.197.125/Draiv/index.m3u8
+#EXTINF:-1 ,Драйв
+http://185.46.16.239:8000/Drayv
+#EXTINF:-1 ,Мото Драйв
+http://stitch.teletarget.ru/vintera/motodrive/index.m3u8
 #EXTINF:-1 ,Мужской
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 ,Мужской
