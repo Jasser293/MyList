@@ -41,6 +41,8 @@ http://188.225.31.197/bpk-tv/000000079/tve/index.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Зал суда
+http://188.225.31.197/bpk-tv/000006638/tve/index.m3u8
+#EXTINF:-1 ,Зал суда
 http://31.130.203.6:9787
 #EXTINF:-1 ,НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -577,8 +579,12 @@ http://176.96.241.40/Dikiy/index.m3u8
 #EXTINF:-1 ,Рыболов
 http://iptv46.mcx-ix.ru:8077/ohotnik/index.m3u8
 #EXTINF:-1 ,Дикая Охота
+http://minsk-cache07t.voka.tv/live/2325-req_5k_v5.m3u8
+#EXTINF:-1 ,Дикая Охота
 http://s7.merlive.am/dikayaoxota/index.m3u8
-#EXTINF:-1 ,Дикая Рыбалка HD
+#EXTINF:-1 ,Дикая Рыбалка
+http://minsk-cache07t.voka.tv/live/2324-req_5k_v5.m3u8
+#EXTINF:-1 ,Дикая Рыбалка
 http://s7.merlive.am/dikayaribalka/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
@@ -822,6 +828,8 @@ http://iptv46.mcx-ix.ru:8077/russia-today/index.m3u8
 http://91.226.120.120/chid276/mpegts
 #EXTINF:-1 ,Советское кино
 http://31.130.203.6:8477
+#EXTINF:-1 ,Советское кино
+http://minsk-cache07t.voka.tv/live/3018-req_5k_v5.m3u8
 #EXTINF:-1 ,Ретро
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 ,Ретро
