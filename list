@@ -386,6 +386,8 @@ http://87.76.32.36:8001/usadba
 http://176.96.241.40/Bober/index.m3u8
 #EXTINF:-1 ,Бобёр
 http://176.118.197.125/Bober/index.m3u8
+#EXTINF:-1 ,Бобёр
+http://hls127.freeott.top:8080/Bober/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородный Int
@@ -449,7 +451,7 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 ,Кто есть кто
 http://31.130.203.6:8698
 #EXTINF:-1 ,Совершенно секретно
-#
+http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
 #EXTINF:-1 ,Спас
 http://185.46.16.239:8000/Spas
 #EXTINF:-1 ,Союз
@@ -735,6 +737,8 @@ http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 ,Наше новое кино
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 #EXTINF:-1 ,Наше
+http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
+#EXTINF:-1 ,Наше
 http://iptv46.mcx-ix.ru:8077/nashe/index.m3u8
 #EXTINF:-1 ,Кинопоказ
 http://iptv46.mcx-ix.ru:8077/kinopokaz/index.m3u8
@@ -764,8 +768,12 @@ http://139.28.255.188:8080/rusroman/index.m3u8
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 ,Про любовь
 http://iptv46.mcx-ix.ru:8077/pro_lubov_hd/index.m3u8
+#EXTINF:-1 ,Про любовь
+http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 ,НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 ,Bolt
+http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 ,Киноужас
 http://iptv46.mcx-ix.ru:8077/kinoujas/index.m3u8
 #EXTINF:-1 ,Киноужас
