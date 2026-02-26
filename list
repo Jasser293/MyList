@@ -886,24 +886,12 @@ http://87.120.142.11:18000/Match!Igra
 http://iptv46.mcx-ix.ru:8077/football/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 1
 http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8
-#EXTINF:-1 ,Матч! Футбол 1
-http://ronaldo.tvfor.pro/MatchFootball1/tht6v98456np1k198n81n2t8?
 #EXTINF:-1 ,Матч! Футбол 2
 http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
-#EXTINF:-1 ,Матч! Футбол 2
-http://ronaldo.tvfor.pro/MatchFootball2/tht6v98456np1k198n81n2t8?
 #EXTINF:-1 ,Матч! Футбол 3
 http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8
 #EXTINF:-1 ,Матч! Футбол 3
 http://185.57.68.14/110/mpegts
-#EXTINF:-1 ,Arena Sport 1
-#http://87.246.54.249:8080/ArenaSport1/index.m3u8
-#EXTINF:-1 ,Arena Sport 2
-http://87.246.54.249:8080/ArenaSport2/index.m3u8
-#EXTINF:-1 ,Arena Sport 3
-http://87.246.54.249:8080/ArenaSport3/index.m3u8
-#EXTINF:-1 ,Arena Sport 4
-http://87.246.54.249:8080/ArenaSport4/index.m3u8
 #EXTINF:-1 ,KHL Prime
 http://iptv46.mcx-ix.ru:8077/khl_hd/index.m3u8
 #EXTINF:-1 ,KHL Prime
