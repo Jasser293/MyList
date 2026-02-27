@@ -486,8 +486,6 @@ http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 #http://176.96.241.40/DiscoveryChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Discovery Channel
-#http://gr.seetv.cc/play/147/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 ,Investigation Discovery
 #
 #EXTINF:-1 ,History
