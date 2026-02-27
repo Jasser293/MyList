@@ -185,6 +185,8 @@ http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://iptv46.mcx-ix.ru:8077/sts-love/index.m3u8
 #EXTINF:-1 ,СТС Love
+#http://185.234.59.200:8080/sts_love/index.m3u8
+#EXTINF:-1 ,СТС Love
 http://ott.server-iptv.live/125/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 ,ТВ3
 http://176.96.241.40/Tv3/index.m3u8
@@ -394,6 +396,8 @@ http://176.118.197.125/Bober/index.m3u8
 http://hls127.freeott.top:8080/Bober/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://185.57.68.33/40/mpegts
+#EXTINF:-1 ,Загородный
+http://185.234.59.200:8080/zagorodniy/index.m3u8
 #EXTINF:-1 ,Загородный Int
 http://river-5-537.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/08LT-oVQqch67XmAjvXdNg/1772789640/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
@@ -421,9 +425,13 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 ,Food Time
 http://iptv46.mcx-ix.ru:8077/eda_hd/index.m3u8
 #EXTINF:-1 ,Food Time
+http://185.234.59.200:8080/foodtime/index.m3u8
+#EXTINF:-1 ,Food Time
 http://91.226.120.120/chid415/mpegts
 #EXTINF:-1 ,Еда
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
+#EXTINF:-1 ,Еда
+http://185.234.59.200:8080/eda/index.m3u8
 #EXTINF:-1 ,Аппетитный
 http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 ,Аппетитный
@@ -557,11 +565,11 @@ http://iptv46.mcx-ix.ru:8077/ohotnik/index.m3u8
 #EXTINF:-1 ,Дикая Охота
 http://minsk-cache07t.voka.tv/live/2325-req_5k_v5.m3u8
 #EXTINF:-1 ,Дикая Охота
-#http://s7.merlive.am/dikayaoxota/index.m3u8
+http://185.234.59.200:8080/dikaya_ohota_hd/index.m3u8
 #EXTINF:-1 ,Дикая Рыбалка
 http://minsk-cache07t.voka.tv/live/2324-req_5k_v5.m3u8
 #EXTINF:-1 ,Дикая Рыбалка
-#http://s7.merlive.am/dikayaribalka/index.m3u8
+http://185.234.59.200:8080/dikaya_rybalka_hd/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
