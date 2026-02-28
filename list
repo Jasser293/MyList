@@ -379,7 +379,7 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 ,Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 ,Соловьев.Live
-http://river-3-346.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/ZA4MZ_BnLTsWLojXVqCMFQ/1772789610/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+http://river-3-317.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/KxdI5-gvJL8UbJWw-IIfmA/1772911219/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 #EXTINF:-1 tvg-id="OSN.ru" tvg-name="осн тв" ,ОСН ТВ
@@ -399,15 +399,15 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 ,Загородный
 http://185.234.59.200:8080/zagorodniy/index.m3u8
 #EXTINF:-1 ,Загородный Int
-http://river-5-537.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/08LT-oVQqch67XmAjvXdNg/1772789640/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+http://river-3-342.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/WrOEnXffE0naJYfuj55d-A/1772911266/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 ,Лапки Live
 http://91.226.120.120/chid514/mpegts
 #EXTINF:-1 ,Лапки Live
 http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
 #EXTINF:-1 ,Rutube
-http://river-3-347.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/AnM4JGfUoyI7p20ScBDhIQ/1772789652/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+http://river-3-343.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/S2w1yEYYsXXj2zzr0-IzgQ/1772911281/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл
-http://river-4-408.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/zv5kXaJuJ4LOdWQf45PgOA/1772789675/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-5-523.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/tRZv3a9kCzCXrgdKFmvvuQ/1772911301/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
 http://iptv46.mcx-ix.ru:8077/doctor/index.m3u8
 #EXTINF:-1 ,Доктор
@@ -485,7 +485,7 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ee" tvg-name="life tv estonia" tvg-logo="https://i.imgur.com/JhrTB82.png" ,Life TV
 http://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 ,Жар Птица
-http://river-5-540.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/umujKX9y0qoQWMrZvdfIHQ/1772789699/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
+http://river-3-316.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/4gCCTFU0ye_Z6ZFOldDLDA/1772911321/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
 #EXTINF:-1 ,TERRA
 http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1 ,Galaxy
@@ -555,7 +555,7 @@ http://139.28.255.188:8080/ohotaribalka/index.m3u8
 #EXTINF:-1 ,Рыбалка и охота
 http://31.130.203.6:8962
 #EXTINF:-1 ,Охотник и рыболов Int
-http://river-3-346.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/r_ikVA-0MRiP1HJ9Jk2fjw/1772789740/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://river-3-349.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/cd3Xt1qsOzpJDlcbbDBMBA/1772911350/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 ,Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
@@ -667,7 +667,7 @@ http://31.130.203.6:8589
 #EXTINF:-1 ,43 канал
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:-1 ,Тайна
-http://river-3-329.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/5DRE1Q3p5_8KcirZ9AskSw/1772789790/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-5-558.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/IqMucOHn7_qt38RNvR_y-Q/1772911385/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 ,Кинопремьера
 http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 ,Киносвидание
@@ -766,8 +766,6 @@ http://139.28.255.188:8080/bestseller/index.m3u8
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 ,Русский детектив
 http://iptv46.mcx-ix.ru:8077/rus-detective/index.m3u8
-#EXTINF:-1 ,Русский детектив
-http://tv.lamro.workers.dev/?ID=4122
 #EXTINF:-1 ,Честный детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Время
