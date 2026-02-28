@@ -7,6 +7,8 @@ http://iptv46.mcx-ix.ru:8077/ort_hd/index.m3u8
 http://188.143.128.88:30312/play/p312/index.m3u8
 #EXTINF:-1 ,Первый канал
 http://31.130.203.6:8402
+#EXTINF:-1 ,Первый канал (+4)
+http://91.226.120.120/chid299/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал Европа
 http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Первый канал Евразия
@@ -96,6 +98,8 @@ http://185.46.16.239:8000/REN_TV
 http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
+#EXTINF:-1 ,Рен ТВ (+4)
+http://91.226.120.120/chid217/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Рен ТВ International
 #
 #EXTINF:-1 ,ТВЦ
@@ -110,6 +114,8 @@ http://31.131.141.195:8000/play/1100/index.m3u8
 http://185.71.81.6:8080/10/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 ,ТВЦ (+2)
+http://91.226.120.120/chid444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятый канал
 http://139.28.255.188:8080/5tv/index.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -434,8 +440,6 @@ http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 http://185.234.59.200:8080/eda/index.m3u8
 #EXTINF:-1 ,Аппетитный
 http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
-#EXTINF:-1 ,Аппетитный
-#http://s7.merlive.am/FoodNetwork/index.m3u8
 #EXTINF:-1 ,Кухня
 http://31.130.203.6:8754
 #EXTINF:-1 ,Кухня
@@ -766,6 +770,8 @@ http://139.28.255.188:8080/bestseller/index.m3u8
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 ,Русский детектив
 http://iptv46.mcx-ix.ru:8077/rus-detective/index.m3u8
+#EXTINF:-1 ,Русский детектив
+http://91.226.120.120/chid82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Честный детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Время
