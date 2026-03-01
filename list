@@ -126,6 +126,8 @@ http://188.143.128.88:30005/play/p5/index.m3u8
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
+#EXTINF:-1 ,5 Канал International
+http://178.124.153.123:44400/5kanal
 #EXTINF:-1 ,Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 ,ЗВЕЗДА HD
@@ -156,6 +158,8 @@ http://iptv46.mcx-ix.ru:8077/tnt-4/index.m3u8
 http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 ,Перец
 http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
+#EXTINF:-1 ,Перец
+http://178.124.153.123:44400/peretz
 #EXTINF:-1 ,Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 ,Перец
