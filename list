@@ -191,7 +191,7 @@ http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://iptv46.mcx-ix.ru:8077/sts-love/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://185.234.59.200:8080/sts_love/index.m3u8
+#http://185.234.59.200:8080/sts_love/index.m3u8
 #EXTINF:-1 ,СТС Love
 #http://ott.server-iptv.live/125/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 ,ТВ3
@@ -377,8 +377,6 @@ http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 ,Мужской
 http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 ,RT Doc
-https://streaming.televizor-24-tochka.ru/live/554.m3u8
-#EXTINF:-1 ,RT Doc
 http://iptv46.mcx-ix.ru:8077/rtdoc_hd/index.m3u8
 #EXTINF:-1 ,RT Doc
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
@@ -518,8 +516,6 @@ http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
 http://iptv46.mcx-ix.ru:8077/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
-#EXTINF:-1 ,Animal Planet
-http://176.96.241.40/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 ,National Geographic Wild
@@ -918,7 +914,7 @@ http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://185.105.117.51/content/37909/index.m3u8
 #EXTINF:-1 ,Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 ,СТС Kids
