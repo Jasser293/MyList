@@ -4,9 +4,9 @@ http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 http://iptv46.mcx-ix.ru:8077/ort_hd/index.m3u8
 #EXTINF:-1 ,Первый канал
-http://188.143.128.88:30312/play/p312/index.m3u8
-#EXTINF:-1 ,Первый канал
 http://31.130.203.6:8402
+#EXTINF:-1 ,Первый канал
+#http://188.143.128.88:30312/play/p312/index.m3u8
 #EXTINF:-1 ,Первый канал (+4)
 http://91.226.120.120/chid299/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал Европа
