@@ -195,9 +195,7 @@ http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
 http://iptv46.mcx-ix.ru:8077/sts-love/index.m3u8
 #EXTINF:-1 ,СТС Love
-#http://185.234.59.200:8080/sts_love/index.m3u8
-#EXTINF:-1 ,СТС Love
-#http://ott.server-iptv.live/125/video.m3u8?token=Ceba8e4412
+http://s7.merlive.am/stslove/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://176.96.241.40/Tv3/index.m3u8
 #EXTINF:-1 ,ТВ3
@@ -341,7 +339,7 @@ http://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="тв-ин (магнитогорск)" ,ТВ-ИН
 https://live.tv-in.ru/hls/stream/index.m3u8
 #EXTINF:-1 ,Арсенал
-#
+http://iptv46.mcx-ix.ru:8077/arsenal_hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,Оружие
 http://iptv46.mcx-ix.ru:8077/oruzhie/index.m3u8
 #EXTINF:-1 ,Оружие
@@ -749,7 +747,9 @@ http://iptv46.mcx-ix.ru:8077/nashe/index.m3u8
 #EXTINF:-1 ,Кинопоказ
 http://iptv46.mcx-ix.ru:8077/kinopokaz/index.m3u8
 #EXTINF:-1 ,Кинопоказ
-http://iptv46.mcx-ix.ru:8077/kinopokaz/index.m3u8
+http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
+#EXTINF:-1 ,Кинопоказ
+http://185.234.59.200:8080/kinopokaz/index.m3u8
 #EXTINF:-1 ,Любимое кино
 http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:-1 ,Мужское кино HD
