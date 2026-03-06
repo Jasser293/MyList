@@ -2,8 +2,6 @@
 #EXTINF:-1 ,Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 ,Первый канал
-http://iptv46.mcx-ix.ru:8077/ort_hd/index.m3u8
-#EXTINF:-1 ,Первый канал
 http://31.130.203.6:8402
 #EXTINF:-1 ,Первый канал
 #http://188.143.128.88:30312/play/p312/index.m3u8
@@ -141,8 +139,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 ,ТНТ
-http://iptv46.mcx-ix.ru:8077/tnt_hd/index.m3u8
-#EXTINF:-1 ,ТНТ
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 ,ТНТ
 http://185.46.16.239:8000/TNT
@@ -152,8 +148,6 @@ http://31.131.141.195:8000/play/2090/index.m3u8
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
-#EXTINF:-1 ,ТНТ4
-http://iptv46.mcx-ix.ru:8077/tnt-4/index.m3u8
 #EXTINF:-1 ,ТНТ4
 http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 ,Перец
@@ -179,8 +173,6 @@ http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
 https://tvoetv.space/tvoetv_humor/video.m3u8
 #EXTINF:-1 ,СТС
-http://iptv46.mcx-ix.ru:8077/sts_hd/index.m3u8
-#EXTINF:-1 ,СТС
 http://stream-tv.ew21.ru/013/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 ,СТС
 http://87.246.54.249:8080/CTC/index.m3u8
@@ -193,23 +185,17 @@ http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС (+4)
 http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
-http://iptv46.mcx-ix.ru:8077/sts-love/index.m3u8
-#EXTINF:-1 ,СТС Love
 http://cdn.kubteltv.workers.dev/?ID=35
 #EXTINF:-1 ,СТС Love
 http://s7.merlive.am/stslove/index.m3u8
 #EXTINF:-1 ,ТВ3
 http://176.96.241.40/Tv3/index.m3u8
 #EXTINF:-1 ,ТВ3
-http://iptv46.mcx-ix.ru:8077/tv3_hd/index.m3u8
-#EXTINF:-1 ,ТВ3
 http://185.46.16.239:8000/TV3
 #EXTINF:-1 ,ТВ3
 http://31.131.141.195:8000/play/a002/index.m3u8
 #EXTINF:-1 ,ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
-#EXTINF:-1 ,Домашний
-http://iptv46.mcx-ix.ru:8077/domashniy_hd/index.m3u8
 #EXTINF:-1 ,Домашний
 http://stream-tv.ew21.ru/014/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 ,Домашний
@@ -220,8 +206,6 @@ http://31.131.141.195:8000/play/a001/index.m3u8
 http://176.96.241.40/Domashniy/index.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://158.101.222.193:88/georgia_play.php?id=domashni
-#EXTINF:-1 ,Пятница
-http://iptv46.mcx-ix.ru:8077/pyatnica_hd/index.m3u8
 #EXTINF:-1 ,Пятница
 http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 ,Пятница
@@ -234,12 +218,8 @@ http://94.230.128.107:8080/Friday/index.m3u8
 http://94.230.250.140/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Суббота!
 http://217.114.191.150/Subbota/index.m3u8
-#EXTINF:-1 ,Суббота!
-http://iptv46.mcx-ix.ru:8077/super/index.m3u8
 #EXTINF:-1 ,Че!
 http://139.28.255.188:8080/4e/index.m3u8
-#EXTINF:-1 ,Че!
-http://iptv46.mcx-ix.ru:8077/che/index.m3u8
 #EXTINF:-1 ,Че!
 http://176.118.197.101/Che/index.m3u8
 #EXTINF:-1 ,Ю
@@ -341,9 +321,7 @@ http://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="тв-ин (магнитогорск)" ,ТВ-ИН
 https://live.tv-in.ru/hls/stream/index.m3u8
 #EXTINF:-1 ,Арсенал
-http://iptv46.mcx-ix.ru:8077/arsenal_hd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,Оружие
-http://iptv46.mcx-ix.ru:8077/oruzhie/index.m3u8
+#
 #EXTINF:-1 ,Оружие
 http://31.130.203.6:8343
 #EXTINF:-1 ,Оружие
@@ -351,7 +329,7 @@ http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 ,Оружие
 http://194.158.222.36:6093
 #EXTINF:-1 ,Ратник
-http://iptv46.mcx-ix.ru:8077/ratnik_hd/index.m3u8
+#
 #EXTINF:-1 ,Победа
 http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
 #EXTINF:-1 ,Патриот
@@ -380,8 +358,6 @@ http://stitch.teletarget.ru/vintera/motodrive/index.m3u8
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 ,Мужской
 http://158.101.222.193:88/georgia_play.php?id=muzhskoy
-#EXTINF:-1 ,RT Doc
-http://iptv46.mcx-ix.ru:8077/rtdoc_hd/index.m3u8
 #EXTINF:-1 ,RT Doc
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 ,Соловьев.Live
@@ -415,21 +391,15 @@ http://river-5-514.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/w9GMNp5bzWRCEESyJkd
 #EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл
 http://river-5-540.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/GZVJYpAfm9DhXCZSXllZrA/1773306910/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 ,Доктор
-http://iptv46.mcx-ix.ru:8077/doctor/index.m3u8
-#EXTINF:-1 ,Доктор
 http://185.46.16.239:8000/Doktor
 #EXTINF:-1 ,Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 http://176.118.197.125/Zdorovoe-TV/index.m3u8
 #EXTINF:-1 ,Живи
-http://iptv46.mcx-ix.ru:8077/jivi/index.m3u8
-#EXTINF:-1 ,Живи
 http://158.101.222.193:88/georgia_play.php?id=jivi
 #EXTINF:-1 ,World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
-#EXTINF:-1 ,Food Time
-http://iptv46.mcx-ix.ru:8077/eda_hd/index.m3u8
 #EXTINF:-1 ,Food Time
 http://91.226.120.120/chid415/mpegts
 #EXTINF:-1 ,Еда
@@ -508,8 +478,6 @@ http://176.118.197.125/TLC-HD/tracks-v1a1/mono.m3u8
 http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 ,Поехали!
 http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
-#EXTINF:-1 ,Поехали!
-http://iptv46.mcx-ix.ru:8077/Poehali/index.m3u8
 #EXTINF:-1 ,Animal Planet
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1 ,National Geographic
@@ -557,7 +525,7 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
 http://176.96.241.40/Dikiy/index.m3u8
 #EXTINF:-1 ,Рыболов
-http://iptv46.mcx-ix.ru:8077/ohotnik/index.m3u8
+#
 #EXTINF:-1 ,Дикая Охота
 http://minsk-cache07t.voka.tv/live/2325-req_5k_v5.m3u8
 #EXTINF:-1 ,Дикая Рыбалка
@@ -571,7 +539,7 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,1HD
-http://iptv46.mcx-ix.ru:8077/1hd/index.m3u8
+#
 #EXTINF:-1 ,ТНТ Music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,ТНТ Music
@@ -585,7 +553,7 @@ http://136.243.42.146/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgJPp94D/15plusmusichd.png",15+ Music
 #http://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
 #EXTINF:-1 ,Bridge TV
-http://iptv46.mcx-ix.ru:8077/bridge-tv/video.m3u8
+#
 #EXTINF:-1 ,O2TV
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 ,MIXM TV
@@ -635,13 +603,11 @@ http://77.232.131.211/RUTV/index.m3u8
 #EXTINF:-1 ,Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Сапфир
-http://iptv46.mcx-ix.ru:8077/fox_life_hd/index.m3u8
-#EXTINF:-1 ,Сапфир
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 tvg-id="Kvarc.ru" tvg-name="кварц" tvg-logo="https://i.imgur.com/90vSdul.png" ,Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 ,2x2
-http://iptv46.mcx-ix.ru:8077/2x2/index.m3u8
+#
 #EXTINF:-1 ,Дом кино премиум
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 ,Дом Кино Премиум
@@ -667,13 +633,9 @@ http://river-3-329.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/wsfgDxsGCGQMRCQJ7Lr
 #EXTINF:-1 ,Кинопремьера
 http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 ,Киносвидание
-http://iptv46.mcx-ix.ru:8077/kinosvidanie/index.m3u8
-#EXTINF:-1 ,Киносвидание
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 ,Kиносемья
 http://31.130.203.6:9398
-#EXTINF:-1 ,Amedia 1
-http://iptv46.mcx-ix.ru:8077/amedia/index.m3u8
 #EXTINF:-1 ,Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 ,Amedia 2
@@ -682,8 +644,6 @@ http://158.160.149.81:8080/462/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 ,Amedia Hit
 http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
-#EXTINF:-1 ,Amedia Hit
-http://iptv46.mcx-ix.ru:8077/amedia_hit_hd/index.m3u8
 #EXTINF:-1 ,Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
 #EXTINF:-1 ,Amedia Premium
@@ -712,8 +672,6 @@ http://94.230.250.140/kinotv/mono.m3u8
 http://139.28.255.188:8080/kinomiks/index.m3u8
 #EXTINF:-1 ,Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 ,Киносемья HD
-http://iptv46.mcx-ix.ru:8077/kinosemya/index.m3u8
 #EXTINF:-1 ,Киносемья HD
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" ,Cinema
@@ -744,10 +702,6 @@ http://185.46.16.239:8000/Nickelodeon
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 #EXTINF:-1 ,Наше
 http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
-#EXTINF:-1 ,Наше
-http://iptv46.mcx-ix.ru:8077/nashe/index.m3u8
-#EXTINF:-1 ,Кинопоказ
-http://iptv46.mcx-ix.ru:8077/kinopokaz/index.m3u8
 #EXTINF:-1 ,Кинопоказ
 http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 #EXTINF:-1 ,Кинопоказ
@@ -755,15 +709,11 @@ http://185.234.59.200:8080/kinopokaz/index.m3u8
 #EXTINF:-1 ,Любимое кино
 http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:-1 ,Мужское кино HD
-http://iptv46.mcx-ix.ru:8077/muzhskoe-kino_hd/index.m3u8
-#EXTINF:-1 ,Мужское кино HD
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 ,Русский бестселлер
 http://139.28.255.188:8080/bestseller/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
-#EXTINF:-1 ,Русский детектив
-http://iptv46.mcx-ix.ru:8077/rus-detective/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://91.226.120.120/chid82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Честный детектив
@@ -775,25 +725,19 @@ http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 ,Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 ,Про любовь
-http://iptv46.mcx-ix.ru:8077/pro_lubov_hd/index.m3u8
-#EXTINF:-1 ,Про любовь
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 ,НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 ,Bolt
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 ,Киноужас
-http://iptv46.mcx-ix.ru:8077/kinoujas/index.m3u8
-#EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://iptv46.mcx-ix.ru:8077/mosfilm/index.m3u8
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://telluri.ru/video/1124.m3u8
 #EXTINF:-1 ,Москва. Доверие
-http://iptv46.mcx-ix.ru:8077/russia-today/index.m3u8
+#
 #EXTINF:-1 ,Советская Киноклассика
 http://91.226.120.120/chid276/mpegts
 #EXTINF:-1 ,Советское кино
@@ -871,7 +815,7 @@ http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 ,Extreme Sports
 http://31.130.203.6:8508
 #EXTINF:-1 ,Конный мир
-http://iptv46.mcx-ix.ru:8077/konniy_mir/index.m3u8
+#
 #EXTINF:-1 ,BILLIARD TV
 http://tinyurl.com/wbsc45h3
 #EXTINF:-1 ,Бокс ТВ
@@ -887,7 +831,7 @@ http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 ,Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,Матч! Премьер
-http://iptv46.mcx-ix.ru:8077/nash_football_hd/index.m3u8
+#
 #EXTINF:-1 ,МАТЧ! Арена
 http://185.46.16.239:8000/Match_Arena
 #EXTINF:-1 ,МАТЧ! Арена
@@ -901,17 +845,15 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 ,Матч! Игра
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 ,Футбол
-http://iptv46.mcx-ix.ru:8077/football/index.m3u8
+#
 #EXTINF:-1 ,Матч! Футбол 1
-http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8
+#
 #EXTINF:-1 ,Матч! Футбол 2
-http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
+#
 #EXTINF:-1 ,Матч! Футбол 3
-http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8
+#
 #EXTINF:-1 ,Матч! Футбол 3
 http://185.57.68.14/110/mpegts
-#EXTINF:-1 ,KHL Prime
-http://iptv46.mcx-ix.ru:8077/khl_hd/index.m3u8
 #EXTINF:-1 ,KHL Prime
 http://158.101.222.193:88/georgia_play.php?id=khlprime
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="астрахань спорт" tvg-logo="https://i.imgur.com/BKaEtqL.png" ,Астрахань Спорт
@@ -926,7 +868,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 ,СТС Kids
-http://iptv46.mcx-ix.ru:8077/sts_kids/index.m3u8
+#
 #EXTINF:-1 ,Солнце
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 ,Мультимания
@@ -936,7 +878,7 @@ http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 ,Cartoon Classics
 http://31.130.203.6:9513
 #EXTINF:-1 ,Мама
-http://iptv46.mcx-ix.ru:8077/mama/index.m3u8
+#
 #EXTINF:-1 ,Карусель
 http://176.118.197.125/Karusel/index.m3u8
 #EXTINF:-1 ,TiJi
