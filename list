@@ -185,6 +185,8 @@ http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 ,СТС (+4)
 http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 ,СТС Love
+http://194.32.242.245/stslove/index.m3u8
+#EXTINF:-1 ,СТС Love
 http://cdn.kubteltv.workers.dev/?ID=35
 #EXTINF:-1 ,СТС Love
 http://s7.merlive.am/stslove/index.m3u8
@@ -321,7 +323,7 @@ http://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="тв-ин (магнитогорск)" ,ТВ-ИН
 https://live.tv-in.ru/hls/stream/index.m3u8
 #EXTINF:-1 ,Арсенал
-#
+http://178.218.204.217/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Оружие
 http://31.130.203.6:8343
 #EXTINF:-1 ,Оружие
@@ -329,7 +331,7 @@ http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 ,Оружие
 http://194.158.222.36:6093
 #EXTINF:-1 ,Ратник
-#
+http://river-3-342.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/pjvYLFTL0p6-ZCMOOyOO7g/1773406181/13b0320238d7938a2deffb4065068986/1080p_stream.m3u8
 #EXTINF:-1 ,Победа
 http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
 #EXTINF:-1 ,Патриот
@@ -524,12 +526,14 @@ http://river-6-601.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/DOnZ1bdK7XNgcO7N_ff
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 ,Дикий
 http://176.96.241.40/Dikiy/index.m3u8
-#EXTINF:-1 ,Рыболов
-#
 #EXTINF:-1 ,Дикая Охота
 http://minsk-cache07t.voka.tv/live/2325-req_5k_v5.m3u8
+#EXTINF:-1 ,Дикая Охота
+http://194.32.242.245/DikayaokhotaHD/index.m3u8
 #EXTINF:-1 ,Дикая Рыбалка
 http://minsk-cache07t.voka.tv/live/2324-req_5k_v5.m3u8
+#EXTINF:-1 ,Дикая Рыбалка
+http://194.32.242.245/DikayarybalkaHD/index.m3u8
 #EXTINF:-1 ,Диалоги о рыбалке
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 ,Prosto Fishing
@@ -539,7 +543,7 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 ,Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 ,1HD
-#
+http://185.234.59.200:8080/1hd/index.m3u8
 #EXTINF:-1 ,ТНТ Music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,ТНТ Music
@@ -553,7 +557,7 @@ http://136.243.42.146/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgJPp94D/15plusmusichd.png",15+ Music
 #http://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
 #EXTINF:-1 ,Bridge TV
-#
+http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
 #EXTINF:-1 ,O2TV
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 ,MIXM TV
@@ -604,10 +608,12 @@ http://77.232.131.211/RUTV/index.m3u8
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 ,Сапфир
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
+#EXTINF:-1 ,Сапфир
+http://minsk-cache07t.voka.tv/live/3978-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="Kvarc.ru" tvg-name="кварц" tvg-logo="https://i.imgur.com/90vSdul.png" ,Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 ,2x2
-#
+http://s7.merlive.am/2x2/index.m3u8
 #EXTINF:-1 ,Дом кино премиум
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 ,Дом Кино Премиум
@@ -636,6 +642,8 @@ http://139.28.255.188:8080/kinoprem/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 ,Kиносемья
 http://31.130.203.6:9398
+#EXTINF:-1 ,Amedia 1
+http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
 #EXTINF:-1 ,Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 ,Amedia 2
@@ -732,8 +740,12 @@ http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 ,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 ,Киноужас
+http://194.32.242.245/kinouzhas/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://telluri.ru/video/1124.m3u8
 #EXTINF:-1 ,Москва. Доверие
@@ -831,7 +843,9 @@ http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 ,Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 ,Матч! Премьер
-#
+http://s7.merlive.am/matchpremier/index.m3u8
+#EXTINF:-1 ,Матч! Премьер
+http://ronaldo.tvfor.pro/NTVPlusNashFutbol/tht6v98456np1k198n81n2t8?
 #EXTINF:-1 ,МАТЧ! Арена
 http://185.46.16.239:8000/Match_Arena
 #EXTINF:-1 ,МАТЧ! Арена
@@ -847,11 +861,9 @@ http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 ,Футбол
 #
 #EXTINF:-1 ,Матч! Футбол 1
-#
+http://ronaldo.tvfor.pro/MatchFootball1/tht6v98456np1k198n81n2t8?
 #EXTINF:-1 ,Матч! Футбол 2
-#
-#EXTINF:-1 ,Матч! Футбол 3
-#
+http://ronaldo.tvfor.pro/MatchFootball2/tht6v98456np1k198n81n2t8?
 #EXTINF:-1 ,Матч! Футбол 3
 http://185.57.68.14/110/mpegts
 #EXTINF:-1 ,KHL Prime
@@ -868,7 +880,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 ,СТС Kids
-#
+http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
 #EXTINF:-1 ,Солнце
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 ,Мультимания
@@ -878,7 +890,7 @@ http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 ,Cartoon Classics
 http://31.130.203.6:9513
 #EXTINF:-1 ,Мама
-#
+http://178.218.204.217/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Карусель
 http://176.118.197.125/Karusel/index.m3u8
 #EXTINF:-1 ,TiJi
