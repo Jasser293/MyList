@@ -93,6 +93,8 @@ http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 ,Рен ТВ
 http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 ,Рен ТВ
+http://85.192.10.131/hls/rentv/playlist.m3u8
+#EXTINF:-1 ,Рен ТВ
 http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 ,Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
@@ -112,6 +114,8 @@ http://31.131.141.195:8000/play/1100/index.m3u8
 http://185.71.81.6:8080/10/index.m3u8
 #EXTINF:-1 ,ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 ,ТВЦ
+http://85.192.10.131/hls/TvciRu/playlist.m3u8
 #EXTINF:-1 ,ТВЦ (+2)
 http://91.226.120.120/chid444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -122,6 +126,8 @@ http://stream-tv.ew21.ru/005/video.m3u8?hash=TN66TE4YB
 http://188.143.128.88:30005/play/p5/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 ,Пятый канал
+http://85.192.10.131/hls/5kanal/playlist.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -138,6 +144,8 @@ http://94.230.128.107:8080/OTP/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 ,ТНТ
+http://85.192.10.131/hls/tnt/playlist.m3u8
 #EXTINF:-1 ,ТНТ
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 ,ТНТ
@@ -193,6 +201,8 @@ http://cdn.kubteltv.workers.dev/?ID=35
 #EXTINF:-1 ,ТВ3
 http://176.96.241.40/Tv3/index.m3u8
 #EXTINF:-1 ,ТВ3
+http://85.192.10.131/hls/tv3/playlist.m3u8
+#EXTINF:-1 ,ТВ3
 http://185.46.16.239:8000/TV3
 #EXTINF:-1 ,ТВ3
 http://31.131.141.195:8000/play/a002/index.m3u8
@@ -208,6 +218,8 @@ http://31.131.141.195:8000/play/a001/index.m3u8
 http://176.96.241.40/Domashniy/index.m3u8
 #EXTINF:-1 tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://158.101.222.193:88/georgia_play.php?id=domashni
+#EXTINF:-1 ,Пятница
+http://85.192.10.131/hls/pjatnica/playlist.m3u8
 #EXTINF:-1 ,Пятница
 http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 ,Пятница
@@ -464,6 +476,8 @@ http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1 ,Discovery Channel
+http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Investigation Discovery
 #
 #EXTINF:-1 ,History
