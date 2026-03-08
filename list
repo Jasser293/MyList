@@ -608,8 +608,6 @@ https://online.tvimpact.live/hls/impact_tv.m3u8
 http://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 ,Hind Hits
 http://thksmom.shop/bbso1vod24/7/index.m3u8
-#EXTINF:-1 ,City TV
-https://tv.city.bg/play/tshls/citytv/2.m3u8
 #EXTINF:-1 ,RU.TV
 http://77.232.131.211/RUTV/index.m3u8
 #EXTINF:-1 ,Теледом ТВ
@@ -670,9 +668,9 @@ http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:-1 ,.black
 http://31.130.203.6:9415
 #EXTINF:-1 ,.black
-http://188.237.47.212:6007
+http://194.32.242.245/a1/index.m3u8
 #EXTINF:-1 ,.sci-fi
-http://188.237.47.212:6001
+http://194.32.242.245/a2/index.m3u8
 #EXTINF:-1 ,VHS-ка
 http://31.130.203.6:9514
 #EXTINF:-1 ,Кинохит
