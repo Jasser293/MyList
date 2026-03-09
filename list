@@ -859,6 +859,8 @@ http://87.76.32.36:8001/m1global
 #EXTINF:-1 group-title="Спорт",Матч!
 http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
+http://stream-tv.ew21.ru/003/video.m3u8?hash=TN66TE4YB
+#EXTINF:-1 group-title="Спорт",Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 #http://s7.merlive.am/matchpremier/index.m3u8
