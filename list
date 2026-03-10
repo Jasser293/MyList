@@ -390,6 +390,8 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 http://139.28.255.188:8080/usadba/index.m3u8
 #EXTINF:-1 group-title="Досуг",Усадьба
 http://87.76.32.36:8001/usadba
+#EXTINF:-1 group-title="Досуг",Усадьба
+http://telluri.ru/video/vod/341.m3u8
 #EXTINF:-1 group-title="Досуг",Бобёр
 http://176.96.241.40/Bober/index.m3u8
 #EXTINF:-1 group-title="Досуг",Бобёр
@@ -777,6 +779,8 @@ http://91.226.120.120/chid276/mpegts
 #EXTINF:-1 group-title="Кино",Советское кино
 http://31.130.203.6:8477
 #EXTINF:-1 group-title="Кино",Советское кино
+http://telluri.ru/video/vod/3018.m3u8
+#EXTINF:-1 group-title="Кино",Советское кино
 http://minsk-cache07t.voka.tv/live/3018-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
 http://176.118.197.101/Retro/index.m3u8
@@ -867,7 +871,7 @@ http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://194.32.242.245/matchstrana/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
-#http://s7.merlive.am/matchpremier/index.m3u8
+#
 #EXTINF:-1 group-title="Спорт",МАТЧ! Арена
 http://185.46.16.239:8000/Match_Arena
 #EXTINF:-1 group-title="Спорт",МАТЧ! Арена
