@@ -399,8 +399,6 @@ http://telluri.ru/video/vod/341.m3u8
 #EXTINF:-1 group-title="Досуг",Бобёр
 http://176.96.241.40/Bober/index.m3u8
 #EXTINF:-1 group-title="Досуг",Бобёр
-http://hls127.freeott.top:8080/Bober/mono.m3u8
-#EXTINF:-1 group-title="Досуг",Бобёр
 http://188.225.31.197/bpk-tv/000001478/tve/index.m3u8
 #EXTINF:-1 group-title="Досуг",Загородная жизнь
 http://185.57.68.33/40/mpegts
@@ -455,7 +453,7 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Кто есть кто
 http://31.130.203.6:8698
 #EXTINF:-1 group-title="Познавательные",Совершенно секретно
-http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
+#
 #EXTINF:-1 group-title="Религия",Спас
 http://185.46.16.239:8000/Spas
 #EXTINF:-1 group-title="Религия",Союз
@@ -585,7 +583,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный
 http://136.243.42.146/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge TV
-http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
+http://cdn.kubteltv.workers.dev/?ID=67
 #EXTINF:-1 group-title="Музыка",O2TV
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыка",MIXM TV
@@ -669,7 +667,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 group-title="Кино",Kиносемья
 http://31.130.203.6:9398
 #EXTINF:-1 group-title="Кино",Amedia 1
-http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
+http://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино",Amedia 2
@@ -734,10 +732,8 @@ http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 group-title="Кино",Наше новое кино
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
-#EXTINF:-1 group-title="Кино",Наше
-http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кинопоказ
-http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
+http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинопоказ
 http://178.218.204.217/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Любимое кино
@@ -759,19 +755,15 @@ http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Про любовь
-http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
+#
 #EXTINF:-1 group-title="Кино",НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
-#EXTINF:-1 group-title="Кино",Bolt
-http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="Кино",Киноужас
 http://194.32.242.245/kinouzhas/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
-#EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
-http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://telluri.ru/video/1124.m3u8
 #EXTINF:-1 group-title="Кино",Москва. Доверие
@@ -887,7 +879,7 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт",Матч! Игра
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 group-title="Спорт",Футбол
-http://hls127.freeott.top:8080/Football/mono.m3u8
+#
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 #
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
@@ -910,7 +902,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Спорт",CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="Детям",СТС Kids
-http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
+http://minsk-cache07t.voka.tv/live/1448-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Детям",Солнце
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 group-title="Детям",Мультимания
