@@ -185,11 +185,11 @@ https://tvoetv.space/tvoetv_humor/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
 http://stream-tv.ew21.ru/013/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Развлекательные",СТС
-http://87.246.54.249:8080/CTC/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС
 http://185.46.16.239:8000/STS
 #EXTINF:-1 group-title="Развлекательные",СТС
 http://185.91.177.13/sts/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС
+http://87.246.54.249:8080/CTC/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС (+2)
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС (+4)
@@ -318,8 +318,6 @@ https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 https://stream.almaz-media.tv:8080/hls/720.m3u8
 #EXTINF:-1 group-title="Регионы" tvg-name="ртк забайкалье" ,РТК Забайкалье
 http://stream.zrtk.ru/zrtk.m3u8
-#EXTINF:-1 group-title="Регионы" tvg-id="NovyVek.ru" tvg-name="новый век" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novy-vek-ru.png" ,Новый Век
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist.m3u8
 #EXTINF:-1 group-title="Регионы" tvg-logo="http://epg.it999.ru/img2/6025.png" ,Ника ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Регионы" tvg-id="TVLuch.ru" tvg-name="тв луч" tvg-logo="https://i.imgur.com/ajGMLnd.png" ,ТВ Луч
@@ -359,7 +357,7 @@ http://176.118.197.101/Telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
 http://194.32.242.245/sarafan/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
-http://176.118.197.125/Sarafan/index.m3u8
+http://minsk-cache07t.voka.tv/live/84-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
 http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
