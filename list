@@ -9,8 +9,6 @@ http://91.226.120.120/chid164/mpegts
 http://91.226.120.120/chid299/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал Европа
 http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал Евразия
-#
 #EXTINF:-1 group-title="Новости" tvg-id="no_epg_news" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png" ,ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
@@ -93,9 +91,9 @@ http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
-http://85.192.10.131/hls/rentv/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
+#http://85.192.10.131/hls/rentv/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ (+4)
@@ -115,7 +113,7 @@ http://185.71.81.6:8080/10/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВЦ
-http://85.192.10.131/hls/TvciRu/playlist.m3u8
+#http://85.192.10.131/hls/TvciRu/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВЦ (+2)
 http://91.226.120.120/chid444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -127,7 +125,7 @@ http://188.143.128.88:30005/play/p5/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
-http://85.192.10.131/hls/5kanal/playlist.m3u8
+#http://85.192.10.131/hls/5kanal/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -145,13 +143,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Новости",МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
-http://85.192.10.131/hls/tnt/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://31.131.141.195:8000/play/2090/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+#http://85.192.10.131/hls/tnt/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
@@ -205,11 +203,11 @@ http://cdn.kubteltv.workers.dev/?ID=35
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://176.96.241.40/Tv3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3
-http://85.192.10.131/hls/tv3/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТВ3
 http://185.46.16.239:8000/TV3
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://31.131.141.195:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТВ3
+#http://85.192.10.131/hls/tv3/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
@@ -222,8 +220,6 @@ http://31.131.141.195:8000/play/a001/index.m3u8
 http://176.96.241.40/Domashniy/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 http://158.101.222.193:88/georgia_play.php?id=domashni
-#EXTINF:-1 group-title="Развлекательные",Пятница
-http://85.192.10.131/hls/pjatnica/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница
 http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Развлекательные",Пятница
@@ -429,11 +425,13 @@ http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 group-title="Досуг",Кухня
 http://31.130.203.6:8754
 #EXTINF:-1 group-title="Досуг",Кухня
+http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
+#EXTINF:-1 group-title="Досуг",Кухня
 http://178.218.204.217/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Первый вегетарианский
 #
 #EXTINF:-1 group-title="Досуг",СВЕТЛОЕ ТВ
-#http://176.107.219.20:9000/play/a009/index.m3u8
+http://minsk-cache07t.voka.tv/live/973-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Познавательные",UNIVER TV
 http://cdn.universmotri.ru/live/lq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",UNIVER TV
@@ -753,7 +751,7 @@ http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Про любовь
-#
+http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="Кино",НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
@@ -879,7 +877,7 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт",Матч! Игра
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 group-title="Спорт",Футбол
-#
+http://hls127.freeott.top:8080/Football/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 #
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
@@ -914,7 +912,7 @@ http://31.130.203.6:9513
 #EXTINF:-1 group-title="Детям",Мама
 http://178.218.204.217/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям",Карусель
-http://85.192.10.131/hls/Karusel/playlist.m3u8
+http://77.232.131.211/Karusel/index.m3u8
 #EXTINF:-1 group-title="Детям",TiJi
 http://188.225.31.197/bpk-tv/000000174/tve/index.m3u8
 #EXTINF:-1 group-title="Детям",Детский Мир
