@@ -480,6 +480,8 @@ http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
+http://213.230.65.254:8000/play/a03o
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 #
 #EXTINF:-1 group-title="Познавательные",History
@@ -498,14 +500,20 @@ http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Planet
+http://213.230.65.254:8000/play/a03p
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://213.230.65.254:8000/play/a02r
 #EXTINF:-1 group-title="Познавательные",National Geographic Wild
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic Wild
 http://176.96.241.40/NatGeoWildHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic Wild
+http://213.230.65.254:8000/play/a02z
 #EXTINF:-1 group-title="Познавательные",History
 http://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",H2
@@ -741,6 +749,8 @@ http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 group-title="Кино",Русский детектив
 http://91.226.120.120/chid82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Русский детектив
+http://213.230.65.254:8000/play/a03z
+#EXTINF:-1 group-title="Кино",Русский детектив
 http://cdn.kubteltv.workers.dev/?ID=357
 #EXTINF:-1 group-title="Кино",Честный детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -822,6 +832,8 @@ http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
 http://91.226.120.120/chid516/mpegts
 #EXTINF:-1 group-title="Спорт",Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+http://213.230.65.254:8000/play/a03m
 #EXTINF:-1 group-title="Спорт",Eurosport 1
 http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
