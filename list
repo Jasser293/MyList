@@ -198,8 +198,6 @@ http://81.161.126.82/1230/index.m3u8
 http://194.32.242.245/stslove/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС Love
 http://cdn.kubteltv.workers.dev/?ID=35
-#EXTINF:-1 group-title="Развлекательные",СТС Love
-http://tv.padarok.workers.dev/?ID=563
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://176.96.241.40/Tv3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3
