@@ -167,7 +167,7 @@ http://178.124.153.123:44400/peretz
 #EXTINF:-1 group-title="Развлекательные",Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="Развлекательные",Перец
-http://46.53.208.4/live/971.m3u8
+http://46.53.208.6/live/971.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://31.130.203.6:8715
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
@@ -351,7 +351,7 @@ http://a3569457567-s70378.cdn.ngenix.net/telecafe/2/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
 http://194.32.242.245/sarafan/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
-http://46.53.208.4/live/84.m3u8
+http://46.53.208.6/live/84.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
 http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
@@ -385,7 +385,7 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 group-title="Досуг",Усадьба
 http://139.28.255.188:8080/usadba/index.m3u8
 #EXTINF:-1 group-title="Досуг",Усадьба
-http://46.53.208.4/live/341.m3u8
+http://46.53.208.6/live/341.m3u8
 #EXTINF:-1 group-title="Досуг",Усадьба
 http://178.218.204.217/1427/index.m3u8
 #EXTINF:-1 group-title="Досуг",Бобёр
@@ -429,7 +429,7 @@ http://178.218.204.217/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Первый вегетарианский
 #
 #EXTINF:-1 group-title="Досуг",СВЕТЛОЕ ТВ
-http://46.53.208.4/live/973.m3u8
+http://46.53.208.6/live/973.m3u8
 #EXTINF:-1 group-title="Познавательные",Вопросы и ответы
 http://46.53.208.6:80/live/1515.m3u8
 #EXTINF:-1 group-title="Познавательные",UNIVER TV
@@ -551,11 +551,11 @@ http://176.96.241.40/Dikiy/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
 http://194.32.242.245/DikayaokhotaHD/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
-http://46.53.208.4/live/2325.m3u8
+http://46.53.208.6/live/2325.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Рыбалка
 http://194.32.242.245/DikayarybalkaHD/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Рыбалка
-http://46.53.208.4/live/2324.m3u8
+http://46.53.208.6/live/2324.m3u8
 #EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 group-title="Мужские",Prosto Fishing
@@ -765,7 +765,7 @@ http://194.32.242.245/kinouzhas/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
-http://46.53.208.4/live/1124.m3u8
+http://46.53.208.6/live/1124.m3u8
 #EXTINF:-1 group-title="Кино",Москва. Доверие
 #
 #EXTINF:-1 group-title="Кино",Советская Киноклассика
@@ -845,7 +845,7 @@ http://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playl
 #EXTINF:-1 group-title="Спорт",MMA-TV
 http://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
 #EXTINF:-1 group-title="Спорт",MMA-TV
-https://46.53.208.4/live/2100.m3u8
+https://46.53.208.6/live/2100.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
 http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
@@ -892,7 +892,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Спорт",CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="Детям",СТС Kids
-https://46.53.208.4/live/1448.m3u8
+https://46.53.208.6/live/1448.m3u8
 #EXTINF:-1 group-title="Детям",Солнце
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 group-title="Детям",Мультимания
