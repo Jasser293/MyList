@@ -4,6 +4,8 @@ http://91.226.120.120/chid164/mpegts
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
+http://stream-tv.ew21.ru/001/video.m3u8?hash=TN66TE4YB
+#EXTINF:-1 group-title="Федеральные",Первый канал
 http://31.130.203.6:8402
 #EXTINF:-1 group-title="Федеральные",Первый канал (+4)
 http://91.226.120.120/chid299/tracks-v1a1/mono.m3u8
