@@ -153,9 +153,9 @@ http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
-http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
+http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/_ETaGJnmR5by_kjmkdNgmQ/1775092726/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
-http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/nclGXfVkVsAKxIa7pMkNUQ/1774541930/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Перец
 http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Перец
@@ -619,11 +619,13 @@ http://cdn.kubteltv.workers.dev/?ID=132
 #EXTINF:-1 group-title="Досуг" tvg-id="Kvarc.ru" tvg-name="кварц" tvg-logo="https://i.imgur.com/90vSdul.png" ,Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",2x2
-http://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/rgBBMKRyg7vF8G1fFtntnQ/1774541936/392b4686b770bae2da6bf5ac4574add5/1080p_stream.m3u8
-#EXTINF:-1 group-title="Развлекательные",2x2
 http://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=v_TVYy-rWTNcFkuEK6l8_g&e=2066303672&scheme=https
 #EXTINF:-1 group-title="Развлекательные",2x2
+http://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/6fKMLs3CxNpzp1RvJIJ2Qw/1775092732/392b4686b770bae2da6bf5ac4574add5/1080p_stream.m3u8
+#EXTINF:-1 group-title="Развлекательные",2x2
 http://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
+#EXTINF:-1 group-title="Развлекательные",2x2
+http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино премиум
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум
