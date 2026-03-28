@@ -189,8 +189,6 @@ http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС (+4)
 http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС Love
-http://194.32.242.245/stslove/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС Love
 http://cdn.kubteltv.workers.dev/?ID=35
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://176.96.241.40/Tv3/index.m3u8
@@ -339,7 +337,7 @@ http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://a3569457567-s70378.cdn.ngenix.net/telecafe/2/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
-http://194.32.242.245/sarafan/index.m3u8
+http://178.218.204.217/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
 http://46.53.208.6/live/84.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
@@ -347,7 +345,7 @@ http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
 http://46.53.208.6/live/588.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
-http://87.246.54.249:8080/AvtoPlus/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 group-title="Мужские",Авто плюс
 http://178.218.204.217/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
@@ -537,11 +535,7 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикий
 http://176.96.241.40/Dikiy/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
-http://194.32.242.245/DikayaokhotaHD/index.m3u8
-#EXTINF:-1 group-title="Мужские",Дикая Охота
 http://46.53.208.6/live/2325.m3u8
-#EXTINF:-1 group-title="Мужские",Дикая Рыбалка
-http://194.32.242.245/DikayarybalkaHD/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Рыбалка
 http://46.53.208.6/live/2324.m3u8
 #EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
@@ -673,15 +667,15 @@ http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",.black
 http://31.130.203.6:9415
 #EXTINF:-1 group-title="Кино",.black
-http://194.32.242.245/a1/index.m3u8
+http://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
 #EXTINF:-1 group-title="Кино",.sci-fi
-http://194.32.242.245/a2/index.m3u8
+http://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
 #EXTINF:-1 group-title="Кино",VHS-ка
 http://31.130.203.6:9514
 #EXTINF:-1 group-title="Кино",Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
-http://194.32.242.245/kinohit/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 group-title="Кино",Кинохит
 http://178.218.204.217/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
@@ -695,7 +689,7 @@ http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
 http://178.218.204.217/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
-http://194.32.242.245/kinosemya/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="Кино",Мир сериала
 http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" ,Cinema
@@ -721,7 +715,7 @@ http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
-http://194.32.242.245/vipmegahit/index.m3u8
+http://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuPlusPremiere.ru" tvg-name="vip premiere" tvg-logo="https://i.imgur.com/klRvhR5.png" ,viju+ Premiere
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Наше новое кино
@@ -761,7 +755,7 @@ http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
 http://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
-http://194.32.242.245/kinouzhas/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
@@ -781,7 +775,7 @@ http://31.130.203.6:8858
 #EXTINF:-1 group-title="Кино",Viju TV1000
 http://139.28.255.188:8080/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000
-http://194.32.242.245/tv1000/index.m3u8
+http://46.53.208.6/live/5107.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000 Русское
 http://139.28.255.188:8080/tv1000ruskino/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000 Русское
@@ -804,8 +798,6 @@ http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="STARTWorld.ru" tvg-logo="https://i.imgur.com/TXtY5eM.png" ,START World
 #http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-#EXTINF:-1 group-title="Кино",ФИЛЬМ
-http://185.57.68.33:8091/237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
 http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
@@ -831,7 +823,7 @@ http://46.53.208.6/live/9.m3u8
 #EXTINF:-1 group-title="Спорт",Trace Sport Stars
 http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 group-title="Спорт",Extreme Sports
-http://31.130.203.6:8508
+http://46.53.208.6/live/3009.m3u8
 #EXTINF:-1 group-title="Спорт",H&C
 http://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Спорт",BILLIARD TV
@@ -853,7 +845,7 @@ http://stream-tv.ew21.ru/003/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Спорт",Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
-http://194.32.242.245/matchstrana/index.m3u8
+http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 #
 #EXTINF:-1 group-title="Спорт",МАТЧ! Арена
