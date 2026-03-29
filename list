@@ -189,8 +189,6 @@ http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС (+4)
 http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС Love
-http://tinyurl.com/4w2tu7xj
-#EXTINF:-1 group-title="Развлекательные",СТС Love
 http://cdn.kubteltv.workers.dev/?ID=35
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://176.96.241.40/Tv3/index.m3u8
@@ -866,8 +864,6 @@ http://hls127.freeott.top:8080/Football/video.m3u8
 #
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://185.57.68.14/110/mpegts
-#EXTINF:-1 tvg-id="Sportivnyy.ru" tvg-name="спортивный" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="Спорт",Спортивный
-http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Спорт",KHL
 http://178.218.204.217/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="AstrahanRuSport.ru" tvg-name="астрахань спорт" tvg-logo="https://i.imgur.com/BKaEtqL.png" ,Астрахань Спорт
