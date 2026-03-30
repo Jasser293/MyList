@@ -657,7 +657,7 @@ http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Amedia 2
 http://158.160.149.81:8080/462/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia 2
-http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+http://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
 http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
@@ -809,11 +809,11 @@ http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
 http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
-http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 2
 http://176.96.241.40/Eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
 http://169.150.223.25/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2
+#http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
 http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
