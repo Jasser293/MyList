@@ -1,16 +1,12 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 group-title="Федеральные",Первый канал
-http://91.226.120.120/chid164/mpegts
+http://178.218.204.217/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://river-3-370.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/WQf36UL7olabYrXMEIURfA/1775319919/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://stream-tv.ew21.ru/001/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1 group-title="Федеральные",Первый канал
-#http://31.130.203.6:8402
-#EXTINF:-1 group-title="Федеральные",Первый канал (+4)
-http://91.226.120.120/chid299/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал Европа
 http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="no_epg_news" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png" ,ТАСС
@@ -97,8 +93,6 @@ http://185.46.16.239:8000/REN_TV
 http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Федеральные",Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Рен ТВ (+4)
-http://91.226.120.120/chid217/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ International
 http://a3569457567-s70378.cdn.ngenix.net/ren_tv/1/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ International
@@ -115,8 +109,6 @@ http://31.131.141.195:8000/play/1100/index.m3u8
 http://185.71.81.6:8080/10/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВЦ (+2)
-http://91.226.120.120/chid444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://139.28.255.188:8080/5tv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -206,7 +198,7 @@ http://31.131.141.195:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://176.96.241.40/Domashniy/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
-http://91.226.120.120/chid296/tracks-v1a1/mono.m3u8
+http://46.53.208.6/live/961.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="DomashniyInternational.ru" tvg-name="dомашний international" tvg-logo="https://i.imgur.com/nf7GRXb.png" ,Домашний International
 #
 #EXTINF:-1 group-title="Развлекательные",Пятница
@@ -358,7 +350,7 @@ http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 group-title="Новости",RT Doc
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 group-title="Новости",RT Doc
-http://91.226.120.120/chid284/mpegts
+https://streaming.televizor-24-tochka.ru/live/554.m3u8
 #EXTINF:-1 group-title="Новости",Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 group-title="Новости",Соловьев.Live
@@ -382,8 +374,6 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 group-title="Досуг",Загородный Int
 http://river-4-421.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/dt2zyU_tiRWNmS4R5G6FvA/1775320092/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 group-title="Досуг",Лапки Live
-http://91.226.120.120/chid514/mpegts
-#EXTINF:-1 group-title="Досуг",Лапки Live
 http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
 #EXTINF:-1 group-title="Досуг",Rutube
 http://river-6-601.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/jVeNNFqqVVhUZ8ATdqjN-A/1775320125/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
@@ -396,11 +386,13 @@ http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 group-title="Досуг",Здоровое ТВ
 http://178.218.204.217/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Живи
-http://91.226.120.120/chid275/mpegts
+http://a3569457567-s70378.cdn.ngenix.net/jivi/1/index.m3u8
+#EXTINF:-1 group-title="Досуг",Живи
+http://158.101.222.193:88/georgia_play.php?id=jivi
 #EXTINF:-1 group-title="Досуг",World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 group-title="Досуг",Food Time
-http://91.226.120.120/chid415/mpegts
+http://cdn.kubteltv.workers.dev/?ID=457
 #EXTINF:-1 group-title="Досуг",Еда
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 group-title="Досуг",Аппетитный
@@ -503,13 +495,13 @@ https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",История
 http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 group-title="Познавательные",Точка РФ
-http://91.226.120.120/chid431/mpegts
+http://178.218.204.217/1222/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка РФ
 https://a3569457567-s70378.cdn.ngenix.net/hd_life/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 group-title="Познавательные",В мире животных
-http://91.226.120.120/chid209/mpegts
+http://178.218.204.217/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Zooпарк
 http://46.53.208.6/live/996.m3u8
 #EXTINF:-1 group-title="Познавательные",Наука
@@ -517,7 +509,7 @@ http://94.230.250.140/nauka2/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat History
 http://139.28.255.188:8080/ViasatHistory/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat History
-http://91.226.120.120/chid105/mono.m3u8
+http://46.53.208.6/live/541.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature
 http://139.28.255.188:8080/ViasatNature/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
@@ -643,7 +635,7 @@ http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
-http://91.226.120.120/chid521/mpegts
+http://a3569457567-s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
 #EXTINF:-1 group-title="Кино",Kиносемья
 http://31.130.203.6:9398
 #EXTINF:-1 group-title="Кино",Amedia 1
@@ -697,13 +689,13 @@ http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
 #EXTINF:-1 group-title="Кино",HollywooD
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",BollywooD
-http://91.226.120.120/chid420/mpegts
+http://178.218.204.217/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",BollywooD
 http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
-http://91.226.120.120/chid139/mpegts
+http://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
 http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
@@ -733,7 +725,7 @@ http://139.28.255.188:8080/bestseller/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 group-title="Кино",Русский детектив
-http://91.226.120.120/chid82/tracks-v1a1/mono.m3u8
+http://cdn.kubteltv.workers.dev/?ID=357
 #EXTINF:-1 group-title="Кино",Честный детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Время
@@ -759,7 +751,7 @@ http://46.53.208.6/live/1124.m3u8
 #EXTINF:-1 group-title="Кино",Москва. Доверие
 #
 #EXTINF:-1 group-title="Кино",Советская Киноклассика
-http://91.226.120.120/chid276/mpegts
+#
 #EXTINF:-1 group-title="Кино",Советское кино
 http://31.130.203.6:8477
 #EXTINF:-1 group-title="Кино",Ретро
@@ -797,7 +789,7 @@ http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
 http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
-http://91.226.120.120/chid516/mpegts
+http://178.218.204.217/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
