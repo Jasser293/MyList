@@ -109,6 +109,8 @@ http://31.131.141.195:8000/play/1100/index.m3u8
 http://185.71.81.6:8080/10/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВЦ
+http://85.192.43.85/vintera/tvcsd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://139.28.255.188:8080/5tv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -344,7 +346,7 @@ http://178.218.204.217/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
 http://185.46.16.239:8000/Drayv
 #EXTINF:-1 group-title="Мужские",Мото Драйв
-http://stitch.teletarget.ru/vintera/motodrive/index.m3u8
+http://85.192.43.85/vintera/motodrive/index.m3u8
 #EXTINF:-1 group-title="Мужские",Мужской
 http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 group-title="Новости",RT Doc
