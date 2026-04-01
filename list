@@ -180,7 +180,7 @@ http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС Love
 http://cdn.kubteltv.workers.dev/?ID=35
 #EXTINF:-1 group-title="Развлекательные",СТС Love
-http://cdntv.online/high/ierw63qgf1/178.m3u8
+http://188.233.55.105:81/udp/225.0.55.5:1234
 #EXTINF:-1 group-title="Развлекательные",СТС Love
 http://213.141.224.226:4022/udp/238.1.1.100:1234
 #EXTINF:-1 group-title="Развлекательные",ТВ3
@@ -728,6 +728,8 @@ http://139.28.255.188:8080/bestseller/index.m3u8
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 group-title="Кино",Русский детектив
 http://cdn.kubteltv.workers.dev/?ID=357
+#EXTINF:-1 group-title="Кино",Русский детектив
+http://188.233.55.105:81/udp/225.0.55.179:1234
 #EXTINF:-1 group-title="Кино",Честный детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Время
