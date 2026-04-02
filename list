@@ -607,7 +607,7 @@ http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",2x2
 http://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=v_TVYy-rWTNcFkuEK6l8_g&e=2066303672&scheme=https
 #EXTINF:-1 group-title="Развлекательные",2x2
-http://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/6fKMLs3CxNpzp1RvJIJ2Qw/1775092732/392b4686b770bae2da6bf5ac4574add5/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/KG5rMV5soElacGeMR1Vb8A/1775672447/392b4686b770bae2da6bf5ac4574add5/1080p_stream.m3u8
 #EXTINF:-1 group-title="Развлекательные",2x2
 http://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
 #EXTINF:-1 group-title="Развлекательные",2x2
@@ -730,7 +730,7 @@ http://185.46.16.239:8000/Russkiy_Illyuzion
 http://cdn.kubteltv.workers.dev/?ID=357
 #EXTINF:-1 group-title="Кино",Русский детектив
 http://188.233.55.105:81/udp/225.0.55.179:1234
-#EXTINF:-1 group-title="Кино",Честный детектив
+#EXTINF:-1 tvg-name="смотрим частный детектив" group-title="Кино",Смотрим Частный Детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Время
 http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
