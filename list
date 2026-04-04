@@ -570,6 +570,12 @@ http://jmp2.uk/stvp-ITBC210000200
 http://jmp2.uk/stvp-USBD3000145P
 #EXTINF:-1 group-title="Музыка",Vevo Rétro
 http://jmp2.uk/stvp-FRBD1900013CB
+#EXTINF:-1 group-title="Музыка",Óčko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыка",Óčko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыка",ÓČKO HITY
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="Now70s.uk" tvg-name="now 70`s" tvg-logo="https://i.imgur.com/qiCCX5X.png" ,Now 70`s
 http://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="Now80s.uk" tvg-name="now 80`s" tvg-logo="https://i.imgur.com/YyPnMeB.png" ,Now 80`s
