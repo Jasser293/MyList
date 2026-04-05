@@ -146,7 +146,9 @@ http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
-http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/_KzZiDtw8j_Iq2b-Xmj_sQ/1775416252/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/7-Sf7D6zOHDGlqgMRk4tng/1776008036/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Перец
 http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Перец
