@@ -98,7 +98,7 @@ http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Федеральные",Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ (+2)
-http://31.133.46.225:8003/play/a0b8
+#http://31.133.46.225:8003/play/a0b8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ (+4)
 http://31.133.46.225:8003/play/a0b9
 #EXTINF:-1 group-title="Федеральные",Рен ТВ International
@@ -485,6 +485,8 @@ http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://31.133.46.225:8003/play/a06j
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
+http://5.134.87.12:8005/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 http://31.133.46.225:8003/play/a06l
 #EXTINF:-1 group-title="Познавательные",History
@@ -509,14 +511,20 @@ http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Planet
+http://5.134.87.12:8005/play/a01r/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://5.134.87.12:8005/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic Wild
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic Wild
 http://176.96.241.40/NatGeoWildHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic Wild
+http://5.134.87.12:8005/play/a01q/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
@@ -836,9 +844,13 @@ http://178.218.204.217/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
+http://5.134.87.12:8005/play/a023/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1
 http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
 http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2
+http://5.134.87.12:8005/play/a024/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
 http://176.96.241.40/Eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
@@ -899,8 +911,12 @@ http://87.120.142.11:18000/Match!Igra
 http://hls127.freeott.top:8080/Football/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://31.133.46.225:8003/play/a03e
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+http://5.134.87.12:8005/play/a02e/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://31.133.46.225:8003/play/a03g
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
+http://5.134.87.12:8005/play/a02f/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://185.57.68.14/110/mpegts
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
