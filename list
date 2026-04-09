@@ -480,7 +480,7 @@ http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://5.134.87.12:8005/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
-#
+http://89.33.29.116/ID_Xtra_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",History
 http://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",History
@@ -497,6 +497,8 @@ http://31.130.203.6:9644
 http://188.225.31.197/bpk-tv/000001498/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC
 http://77.245.98.18:8000/play/a01k
+#EXTINF:-1 group-title="Развлекательные",TLC
+http://89.33.29.116/TLC_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами туриста
 http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Поехали!
@@ -793,14 +795,22 @@ http://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="Кино",Шокирующее
 http://51.159.108.7:83/play/27041-Shokiruyushchee/index.m3u8
+#EXTINF:-1 group-title="Кино",Шокирующее
+http://89.33.29.116/Kinopokaz_HD1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Комедийное
 http://51.159.108.7:83/play/27042-Komedijnoe/index.m3u8
 #EXTINF:-1 group-title="Кино",Остросюжетное
 http://51.159.108.7:83/play/27043-Ostrosuzhetnoe/index.m3u8
+#EXTINF:-1 group-title="Кино",Остросюжетное
+http://89.33.29.116/Ostrosyuzhetnoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Премиальное
 http://51.159.108.7:83/play/27036-PremialnoeHD/index.m3u8
+#EXTINF:-1 group-title="Кино",Премиальное
+http://89.33.29.116/Kino_premium_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Романтичное
 http://51.159.108.7:83/play/27004-Romantichnoe/index.m3u8
+#EXTINF:-1 group-title="Кино",Романтичное
+http://89.33.29.116/Semeynoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",CineMan VHS
 http://51.159.108.7:83/play/27049-CineMan-VHS/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
@@ -854,15 +864,19 @@ http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
 http://5.134.87.12:8005/play/a023/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
-http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
+http://89.33.29.116/Eurosport_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
-http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+#http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+#http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
 http://5.134.87.12:8005/play/a024/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
+http://89.33.29.116/Evrosport_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2
 http://176.96.241.40/Eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
-http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
+#http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
 http://178.218.204.217/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
@@ -899,6 +913,8 @@ http://stream-tv.ew21.ru/003/video.m3u8?hash=TN66TE4YB
 http://94.230.250.141:8080/machtv/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
+http://89.33.29.116/Nash_futbol_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Арена
