@@ -4,6 +4,8 @@ http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://river-3-370.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/RP_AniBf8IiQOcFcSXpnfw/1776320756/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
+http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал
 http://stream-tv.ew21.ru/001/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Федеральные",Первый канал Европа
 http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8
@@ -789,6 +791,18 @@ http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 http://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 group-title="Кино",Шокирующее
+http://51.159.108.7:83/play/27041-Shokiruyushchee/index.m3u8
+#EXTINF:-1 group-title="Кино",Комедийное
+http://51.159.108.7:83/play/27042-Komedijnoe/index.m3u8
+#EXTINF:-1 group-title="Кино",Остросюжетное
+http://51.159.108.7:83/play/27043-Ostrosuzhetnoe/index.m3u8
+#EXTINF:-1 group-title="Кино",Премиальное
+http://51.159.108.7:83/play/27036-PremialnoeHD/index.m3u8
+#EXTINF:-1 group-title="Кино",Романтичное
+http://51.159.108.7:83/play/27004-Romantichnoe/index.m3u8
+#EXTINF:-1 group-title="Кино",CineMan VHS
+http://51.159.108.7:83/play/27049-CineMan-VHS/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
