@@ -186,8 +186,6 @@ http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС Love
 http://89.218.32.179:18000/play/a01m
 #EXTINF:-1 group-title="Развлекательные",СТС Love
-http://5.134.87.12:8005/play/a047/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС Love
 http://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС Love
 http://213.141.224.226:4022/udp/238.1.1.100:1234
@@ -477,8 +475,6 @@ http://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Discovery Channel
-http://5.134.87.12:8005/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 http://89.33.29.116/ID_Xtra_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",History
@@ -505,20 +501,14 @@ http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Animal Planet
-http://5.134.87.12:8005/play/a01r/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic
-http://5.134.87.12:8005/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic Wild
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic Wild
 http://176.96.241.40/NatGeoWildHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic Wild
-#http://5.134.87.12:8005/play/a01q/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
@@ -559,12 +549,8 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 http://176.96.241.40/Dikiy/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
 http://46.53.208.6/live/2325.m3u8
-#EXTINF:-1 group-title="Мужские",Дикая Охота
-http://5.134.87.12:8005/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Рыбалка
 http://46.53.208.6/live/2324.m3u8
-#EXTINF:-1 group-title="Мужские",Дикая Рыбалка
-http://5.134.87.12:8005/play/a01z/index.m3u8
 #EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:-1 group-title="Мужские",Prosto Fishing
@@ -728,7 +714,7 @@ http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" ,Cinema
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино",HollywooD
-http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
+http://37.46.49.14:18010/play/a09n/index.m3u8
 #EXTINF:-1 group-title="Кино",HollywooD
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",BollywooD
@@ -768,7 +754,7 @@ http://139.28.255.188:8080/bestseller/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 group-title="Кино",Русский детектив
-http://5.134.87.12:8005/play/a02w/index.m3u8
+http://89.33.29.116/Russkiy_detektiv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Русский детектив
 http://cdn.kubteltv.workers.dev/?ID=357
 #EXTINF:-1 group-title="Кино",Русский детектив
@@ -862,15 +848,11 @@ http://178.218.204.217/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
-http://5.134.87.12:8005/play/a023/index.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 1
 http://89.33.29.116/Eurosport_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
-#http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
+http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
 #http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 2
-http://5.134.87.12:8005/play/a024/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
 http://89.33.29.116/Evrosport_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
@@ -932,13 +914,13 @@ http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 group-title="Спорт",Футбол
 http://hls127.freeott.top:8080/Football/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
-http://5.134.87.12:8005/play/a02e/index.m3u8
+http://89.33.29.116/Match_Futbol_1_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
-http://5.134.87.12:8005/play/a02f/index.m3u8
+http://89.33.29.116/Match_Futbol_2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://185.57.68.14/110/mpegts
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
-http://5.134.87.12:8005/play/a02g/index.m3u8
+http://89.33.29.116/Match_Futbol_3_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",KHL
 http://178.218.204.217/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="AstrahanRuSport.ru" tvg-name="астрахань спорт" tvg-logo="https://i.imgur.com/BKaEtqL.png" ,Астрахань Спорт
