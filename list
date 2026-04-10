@@ -773,12 +773,16 @@ http://185.46.16.239:8000/Russkiy_roman
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Про любовь
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
+#EXTINF:-1 group-title="Кино",Про любовь
+http://89.33.29.116/pro_lyubov/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
 http://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 group-title="Кино",СТРАХ HD
+http://89.33.29.116/strah_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Шокирующее
 http://51.159.108.7:83/play/27041-Shokiruyushchee/index.m3u8
 #EXTINF:-1 group-title="Кино",Шокирующее
