@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
-http://river-3-370.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/RP_AniBf8IiQOcFcSXpnfw/1776320756/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
@@ -10,7 +10,9 @@ http://stream-tv.ew21.ru/001/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Федеральные",Первый канал Европа
 http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал Евразия
-http://37.46.49.14:18010/play/a08p/index.m3u8
+http://188.225.31.197/bpk-tv/000000669/tve/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал Евразия
+http://89.218.32.179:18000/play/a046
 #EXTINF:-1 group-title="Новости" tvg-id="no_epg_news" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png" ,ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
@@ -324,13 +326,13 @@ http://194.158.222.36:6093
 #EXTINF:-1 group-title="Мужские",Оружие
 http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
 #EXTINF:-1 group-title="Мужские",Ратник
-http://river-5-535.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/Illu9AwTaYCafSALniLaWA/1776321252/13b0320238d7938a2deffb4065068986/1080p_stream.m3u8
+http://river-3-312.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/einYd7bDDvl1Uvt5mU9l6g/1776494283/13b0320238d7938a2deffb4065068986/1080p_stream.m3u8
 #EXTINF:-1 group-title="Мужские",Победа
 http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
 #EXTINF:-1 group-title="Мужские",Патриот
 http://catchup.videoline.ru/asvtv/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",ЦТВ
-#
+http://188.225.31.197/bpk-tv/000001880/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://46.53.208.6/live/2812.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
@@ -366,7 +368,7 @@ http://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
 #EXTINF:-1 group-title="Новости",Соловьев.Live
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 group-title="Новости",Соловьев.Live
-http://river-4-429.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/nLYz6cQ9mfiVk_aMAWDDtg/1776321267/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+http://river-6-601.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/OIvJl6bTDgtbtRVRabAPpQ/1776494303/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="OSN.ru" tvg-name="осн тв" ,ОСН ТВ
@@ -384,13 +386,13 @@ http://hls127.freeott.top:8080/Bober/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Загородная жизнь
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 group-title="Досуг",Загородный Int
-http://river-4-421.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/biLTH6_0utZUGXxoQWjsDg/1776321320/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+http://river-3-358.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/_SSsVC5DJCM2CnSDOmjh2A/1776494374/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 group-title="Досуг",Лапки Live
 http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
 #EXTINF:-1 group-title="Досуг",Rutube
-http://river-3-340.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/vmihDMj5KNewWp0ipDxmdA/1776321356/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+http://river-3-340.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/eDIzS-GUwv0tMjDXBqk9OA/1776494429/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл
-http://river-5-523.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/OZ31n1dHFGW8vkzUvCrZlg/1776321376/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-3-3103.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/rfQTmpGnaj462--7IzQgIQ/1776494448/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 group-title="Досуг",Доктор
 http://185.46.16.239:8000/Doktor
 #EXTINF:-1 group-title="Досуг",Доктор
@@ -464,7 +466,7 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Религия" tvg-id="LifeTV.ee" tvg-name="life tv estonia" tvg-logo="https://i.imgur.com/JhrTB82.png" ,Life TV
 http://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 group-title="Развлекательные",Жар Птица
-http://river-3-316.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/Q_SZXAtYNtfViOpp4d2nxQ/1776321394/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
+http://river-3-316.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/gBUI6RVXvHu2gqPu2tPxCQ/1776494450/c93be53cba8a4ba6ac311b395a00f4d5/360p_stream.m3u8
 #EXTINF:-1 tvg-name="сок тв" group-title="Развлекательные",Сок ТВ
 http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
 #EXTINF:-1 group-title="Познавательные",TERRA
@@ -542,7 +544,7 @@ http://139.28.255.188:8080/ohotaribalka/index.m3u8
 #EXTINF:-1 group-title="Мужские",Рыбалка и охота
 http://31.130.203.6:8962
 #EXTINF:-1 group-title="Мужские",Охотник и рыболов Int
-http://river-3-346.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/jDAsH5yzVsuKp7t5yufkkQ/1776321418/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://river-3-346.rtbcdn.ru/stream/genetta-325.m9.rutube.ru/Y7HOqWGqr_V-vt8WPrQpZA/1776494494/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 group-title="Мужские",Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикий
@@ -654,7 +656,7 @@ http://178.218.204.217/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Техно 24
 http://158.101.222.193:88/georgia_play.php?id=24techno
 #EXTINF:-1 group-title="Развлекательные",Тайна
-http://river-4-437.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/YVTUMWE4VeN0ufJo1r9PoQ/1776321469/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-6-601.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/vmqwOrIXx3RDNJKIP8wmiw/1776494522/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 group-title="Кино",Кинопремьера
 http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
@@ -714,7 +716,7 @@ http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" ,Cinema
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино",HollywooD
-http://37.46.49.14:18010/play/a09n/index.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
 #EXTINF:-1 group-title="Кино",HollywooD
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",BollywooD
