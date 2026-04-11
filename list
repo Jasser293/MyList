@@ -763,8 +763,18 @@ http://cdn.kubteltv.workers.dev/?ID=357
 http://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 tvg-name="смотрим частный детектив" group-title="Кино",Смотрим Частный Детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-name="смотрим (кино и сериалы)" group-title="Кино",Смотрим (кино и сериалы)
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Смотрим 100% Любовь
+http://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+#EXTINF:-1 group-title="Кино",Смотрим 100% Мужское
+http://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 group-title="Кино",Смотрим 100% Классика
+http://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 group-title="Кино",Смотрим 100% Праздник
+http://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 group-title="Кино",Смотрим 100% Детское
+http://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="Кино",Смотрим 100% Факты
+http://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Время
 http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
