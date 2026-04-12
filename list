@@ -761,6 +761,9 @@ http://89.33.29.116/Russkiy_detektiv/tracks-v1a1/mono.m3u8
 http://cdn.kubteltv.workers.dev/?ID=357
 #EXTINF:-1 group-title="Кино",Русский детектив
 http://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2018/20180703/sledstvie_veli.jpg" group-title="Кино",Следствие вели...
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-name="смотрим честный детектив" group-title="Кино",Смотрим Честный Детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Смотрим 100% Любовь
