@@ -796,25 +796,13 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="Кино",СТРАХ HD
 http://89.33.29.116/strah_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Шокирующее
-http://51.159.108.7:83/play/27041-Shokiruyushchee/index.m3u8
-#EXTINF:-1 group-title="Кино",Шокирующее
 http://89.33.29.116/Kinopokaz_HD1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Комедийное
-http://51.159.108.7:83/play/27042-Komedijnoe/index.m3u8
-#EXTINF:-1 group-title="Кино",Остросюжетное
-http://51.159.108.7:83/play/27043-Ostrosuzhetnoe/index.m3u8
 #EXTINF:-1 group-title="Кино",Остросюжетное
 http://89.33.29.116/Ostrosyuzhetnoe_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Премиальное
-http://51.159.108.7:83/play/27036-PremialnoeHD/index.m3u8
-#EXTINF:-1 group-title="Кино",Премиальное
 http://89.33.29.116/Kino_premium_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Романтичное
-http://51.159.108.7:83/play/27004-Romantichnoe/index.m3u8
-#EXTINF:-1 group-title="Кино",Романтичное
+#EXTINF:-1 group-title="Кино",Семейное
 http://89.33.29.116/Semeynoe_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",CineMan VHS
-http://51.159.108.7:83/play/27049-CineMan-VHS/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
