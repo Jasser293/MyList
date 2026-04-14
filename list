@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 #EXTINF:-1 group-title="Федеральные",Первый канал
-http://194.8.128.38:8080/ort/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="Федеральные",Первый канал
+http://river-3-370.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/elYvQK41D4MaWPJH1YHA0A/1776754919/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
@@ -56,7 +56,7 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
-http://188.143.128.88:30002/play/p2/index.m3u8
+http://109.207.243.18/2/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+1)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+2)
@@ -106,8 +106,6 @@ http://139.28.255.188:8080/tvcentr/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВЦ
 http://stream-tv.ew21.ru/010/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Федеральные",ТВЦ
-http://188.143.128.88:30010/play/p10/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВЦ
 http://31.131.141.195:8000/play/1100/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВЦ
 http://185.71.81.6:8080/10/index.m3u8
@@ -119,8 +117,6 @@ http://85.192.43.85/vintera/tvcsd/index.m3u8
 http://139.28.255.188:8080/5tv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://stream-tv.ew21.ru/005/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1 group-title="Федеральные",Пятый канал
-http://188.143.128.88:30005/play/p5/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал (+2)
@@ -150,7 +146,7 @@ http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
-http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/7-Sf7D6zOHDGlqgMRk4tng/1776008036/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/5Ft57kcQ6WCxiT2NTZJukw/1776698915/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Перец
