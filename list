@@ -10,7 +10,7 @@ http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://stream-tv.ew21.ru/001/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Федеральные",Первый канал Европа
-http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8
+#http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал Евразия
 http://188.225.31.197/bpk-tv/000000669/tve/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал Евразия
