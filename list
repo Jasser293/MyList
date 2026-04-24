@@ -9,10 +9,6 @@ http://46.32.176.50/perviy/index.m3u8
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://stream-tv.ew21.ru/001/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1 group-title="Федеральные",Первый канал Европа
-#http://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал Евразия
-http://188.225.31.197/bpk-tv/000000669/tve/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал Евразия
 http://89.218.32.179:18000/play/a046
 #EXTINF:-1 group-title="Новости" tvg-id="no_epg_news" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png" ,ТАСС
@@ -37,13 +33,9 @@ http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ (+7)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ Мир
-http://188.225.31.197/bpk-tv/000000079/tve/index.m3u8
 #EXTINF:-1 group-title="Досуг",НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Досуг",Зал суда
-http://188.225.31.197/bpk-tv/000006638/tve/index.m3u8
 #EXTINF:-1 group-title="Досуг",Зал суда
 http://31.130.203.6:9787
 #EXTINF:-1 group-title="Досуг",НТВ СТИЛЬ
@@ -154,8 +146,6 @@ http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/OM-REUF-eDzTFT38GTcO0A/
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://46.32.176.50/tnt/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Перец
-http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Перец
 http://46.53.208.6/live/971.m3u8
 #EXTINF:-1 group-title="Развлекательные",Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
@@ -163,8 +153,6 @@ http://158.101.222.193:88/georgia_play.php?id=perec
 http://31.130.203.6:8715
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://a3569457567-s70378.cdn.ngenix.net/kvn_tv/2/index.m3u8
-#EXTINF:-1 tvg-id="AnekdotTV.ru" tvg-name="анекдот тв" tvg-logo="https://i.imgur.com/wKfB79s.png" group-title="Развлекательные",Анекдот ТВ
-http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ
@@ -183,8 +171,6 @@ http://185.46.16.239:8000/STS
 http://185.91.177.13/sts/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС (+2)
 http://94.230.128.107:8080/CTC/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС (+4)
-http://81.161.126.82/1230/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС Love
 http://89.218.32.179:18000/play/a01m
 #EXTINF:-1 group-title="Развлекательные",СТС Love
@@ -322,21 +308,17 @@ https://live.tv-in.ru/hls/stream/index.m3u8
 #EXTINF:-1 group-title="Мужские",Арсенал
 http://178.218.204.217/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Оружие
-http://31.130.203.6:8343
+http://46.53.208.6/live/168.m3u8
 #EXTINF:-1 group-title="Мужские",Оружие
 http://194.158.222.36:6093
 #EXTINF:-1 group-title="Мужские",Оружие
-http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
+#http://31.130.203.6:8343
 #EXTINF:-1 group-title="Мужские",Ратник
 http://river-3-312.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/ND7l7-7Qw0etD4nnhH_W0g/1777277233/13b0320238d7938a2deffb4065068986/1080p_stream.m3u8
-#EXTINF:-1 group-title="Мужские",Победа
-http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
 #EXTINF:-1 group-title="Мужские",Патриот
 http://catchup.videoline.ru/asvtv/mono.m3u8
 #EXTINF:-1 group-title="Мужские",ВоенТВ
 http://46.53.208.6/live/101.m3u8
-#EXTINF:-1 group-title="Развлекательные",ЦТВ
-http://188.225.31.197/bpk-tv/000001880/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://46.53.208.6/live/2812.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
@@ -363,8 +345,6 @@ http://178.218.204.217/1421/tracks-v1a1/mono.m3u8
 http://185.46.16.239:8000/Drayv
 #EXTINF:-1 group-title="Мужские",Мото Драйв
 http://85.192.43.85/vintera/motodrive/index.m3u8
-#EXTINF:-1 group-title="Мужские",Мужской
-http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 group-title="Мужские",Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Мужские",Мужской
@@ -395,8 +375,6 @@ http://hls127.freeott.top:8080/Bober/mono.m3u8
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 group-title="Досуг",Загородный Int
 http://river-3-358.rtbcdn.ru/stream/genetta-314.m9.rutube.ru/-qmk7nNJgzsGhAKAGywMrA/1777277290/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
-#EXTINF:-1 group-title="Досуг",Лапки Live
-http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
 #EXTINF:-1 group-title="Досуг",Rutube
 http://river-3-340.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/oLs8MhN5GVO3u51DqaT_7w/1777277319/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл
@@ -417,10 +395,6 @@ http://158.101.222.193:88/georgia_play.php?id=jivi
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 group-title="Досуг",Food Time
 http://cdn.kubteltv.workers.dev/?ID=457
-#EXTINF:-1 group-title="Досуг",Еда
-http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
-#EXTINF:-1 group-title="Досуг",Аппетитный
-http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
 #EXTINF:-1 group-title="Досуг",Вкус
 http://89.218.32.179:18000/play/a027
 #EXTINF:-1 group-title="Досуг",Кухня
@@ -433,10 +407,10 @@ http://178.218.204.217/1236/tracks-v1a1/mono.m3u8
 #
 #EXTINF:-1 group-title="Досуг",СВЕТЛОЕ ТВ
 http://46.53.208.6/live/973.m3u8
+#EXTINF:-1 group-title="Досуг",Лапки Live
+http://cdn.kubteltv.workers.dev/?ID=321
 #EXTINF:-1 group-title="Познавательные",Вопросы и ответы
 http://46.53.208.6:80/live/1515.m3u8
-#EXTINF:-1 group-title="Познавательные",Вопросы и ответы
-http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",UNIVER TV
 http://cdn.universmotri.ru/live/lq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",UNIVER TV
@@ -452,7 +426,7 @@ http://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Кто есть кто
-http://31.130.203.6:8698
+http://46.32.176.50/ktoestkto/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Совершенно секретно
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
 #EXTINF:-1 group-title="Религия",Спас
@@ -485,14 +459,10 @@ https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
 http://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Discovery Channel
-http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 #
 #EXTINF:-1 group-title="Познавательные",History
 http://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные",History
-http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",H2
 http://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure HD
@@ -502,23 +472,13 @@ http://a3569457567-s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Epic
 http://31.130.203.6:9644
 #EXTINF:-1 group-title="Развлекательные",TLC
-http://188.225.31.197/bpk-tv/000001498/tve/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",TLC
 http://46.32.176.50/tlc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC
 http://77.245.98.18:8000/play/a01k
-#EXTINF:-1 group-title="Познавательные",Глазами туриста
-http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Поехали!
-http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
-http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic
-http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+#
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic Wild
-http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic Wild
 http://176.96.241.40/NatGeoWildHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
@@ -548,7 +508,7 @@ http://139.28.255.188:8080/ViasatNature/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
 http://139.28.255.188:8080/ViasatExplorer/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Наша Тема
-http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
+#
 #EXTINF:-1 group-title="Мужские",Охота и рыбалка
 http://139.28.255.188:8080/ohotaribalka/index.m3u8
 #EXTINF:-1 group-title="Мужские",Рыбалка и охота
@@ -564,7 +524,7 @@ http://46.53.208.6/live/2325.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Рыбалка
 http://46.53.208.6/live/2324.m3u8
 #EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
-http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
+#
 #EXTINF:-1 group-title="Мужские",Prosto Fishing
 http://31.43.48.248:7000/ch344/video.m3u8
 #EXTINF:-1 group-title="Мужские",555 Hunt Fishing TV
@@ -572,7 +532,7 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",1HD
-http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
+http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="Музыка",ТНТ Music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Музыка",ТНТ Music
@@ -632,8 +592,6 @@ http://178.218.204.217/1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Кино",Сапфир
-http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
-#EXTINF:-1 group-title="Кино",Сапфир
 http://46.32.176.50/foxlife/index.m3u8
 #EXTINF:-1 group-title="Кино",Сапфир
 http://46.53.208.6/live/3978.m3u8
@@ -646,13 +604,13 @@ http://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwy
 #EXTINF:-1 group-title="Развлекательные",2x2
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино премиум
-http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
+http://46.32.176.50/DomKinoPremiumHD/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум
 http://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом Кино
 http://139.28.255.252:8080/domkino/index.m3u8
 #EXTINF:-1 group-title="Кино",КИНЕКО
-http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
+http://46.53.208.6/live/1812.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://139.28.255.188:8080/eurokin/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
@@ -674,7 +632,7 @@ http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
 http://a3569457567-s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
 #EXTINF:-1 group-title="Кино",Kиносемья
-http://31.130.203.6:9398
+#
 #EXTINF:-1 group-title="Кино",Amedia 1
 http://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia 1
@@ -684,15 +642,15 @@ http://158.160.149.81:8080/462/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia 2
 http://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
-http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
+http://85.117.37.41/amediahit/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
 http://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Premium
 http://139.28.255.188:8080/Amedia/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Premium
-http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
+http://46.32.176.50/AmediaPremium/index.m3u8
 #EXTINF:-1 group-title="Кино",.black
-http://31.130.203.6:9415
+http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1 group-title="Кино",.black
 http://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
 #EXTINF:-1 group-title="Кино",.sci-fi
@@ -728,11 +686,11 @@ http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино",HollywooD
 https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
 #EXTINF:-1 group-title="Кино",HollywooD
-http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
+http://46.32.176.50/HollywoodHD/index.m3u8
 #EXTINF:-1 group-title="Кино",BollywooD
 http://178.218.204.217/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",BollywooD
-http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
+http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино",Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
@@ -742,13 +700,13 @@ http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
 http://185.46.16.239:8000/Fox_HD
 #EXTINF:-1 group-title="Кино",viju+ Comedy
-http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+http://46.53.208.6/live/6003.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
 http://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuPlusPremiere.ru" tvg-name="vip premiere" tvg-logo="https://i.imgur.com/klRvhR5.png" ,viju+ Premiere
-http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
+http://46.32.176.50/VIPPremiereHD/index.m3u8
 #EXTINF:-1 group-title="Кино",Наше новое кино
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 group-title="Кино",Наше новое кино
@@ -758,7 +716,7 @@ http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинопоказ
 http://178.218.204.217/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Любимое кино
-http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
+http://46.32.176.50/lubimoekino/index.m3u8
 #EXTINF:-1 group-title="Кино",Мужское кино HD
 http://178.218.204.217/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Русский бестселлер
@@ -787,7 +745,7 @@ http://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Смотрим 100% Факты
 http://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Время
-http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
+http://46.53.208.6/live/1405.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
@@ -803,7 +761,7 @@ http://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
-http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
+http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://46.53.208.6/live/1124.m3u8
 #EXTINF:-1 group-title="Кино",Москва. Доверие
@@ -827,7 +785,7 @@ http://46.53.208.6/live/5107.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000 Русское
 http://139.28.255.188:8080/tv1000ruskino/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000 Русское
-http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
+http://46.53.208.6/live/5109.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000 Action
 http://139.28.255.188:8080/tv1000action/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000 Action
@@ -839,15 +797,9 @@ http://85.192.10.173/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Кино",Kino 24
 http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="STARTAir.ru" tvg-logo="https://i.imgur.com/4bACa7x.png" ,START Air
-http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="STARTAir.ru" tvg-logo="https://i.imgur.com/4bACa7x.png" ,START Air
-#http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+http://46.53.208.6/live/1804.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="STARTWorld.ru" tvg-logo="https://i.imgur.com/TXtY5eM.png" ,START World
-http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="STARTWorld.ru" tvg-logo="https://i.imgur.com/TXtY5eM.png" ,START World
-#http://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-#EXTINF:-1 group-title="Кино",Дорама
-http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
+http://46.53.208.6/live/9011.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
 http://178.218.204.217/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
@@ -870,12 +822,8 @@ http://176.96.241.40/Eurosport2/tracks-v1a1/mono.m3u8
 #http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
 http://178.218.204.217/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports 1
-http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
 http://178.218.204.217/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports 2
-http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт",Беларусь 5
 http://46.53.208.6/live/9.m3u8
 #EXTINF:-1 group-title="Спорт",Trace Sport Stars
@@ -987,6 +935,7 @@ http://85.192.10.173/MamontRu/mono.m3u8
 http://46.53.208.6/live/157.m3u8
 #EXTINF:-1 group-title="Детям",КиноМульт
 #http://31.130.203.6:9781
+http://46.53.208.6/live/9488.m3u8
 #EXTINF:-1 group-title="Детям",Умка
 http://31.130.203.6:9844
 #EXTINF:-1 group-title="Детям",Лёва
