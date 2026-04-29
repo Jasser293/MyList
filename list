@@ -268,7 +268,7 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 group-title="Регионы",Миллет
 http://109.94.220.42/milletlive.m3u8
 #EXTINF:-1 group-title="Новости",360 HD
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+http://river-1.rutube.ru/stream/genetta-325.m9.rutube.ru/bd5xZ7Y9fDiyK11xbnx71g/1777874201/07beff61e617797db550cc3a5f6ad92b/1080p_stream.m3u8
 #EXTINF:-1 group-title="Регионы" tvg-id="555.ru" tvg-name="телерадиокомания 555" tvg-logo="https://i.imgur.com/JQZkxeA.png" ,555
 http://91.207.106.1:8888/live
 #EXTINF:-1 group-title="Регионы" tvg-id="Sever.ru" tvg-name="север" tvg-logo="https://i.imgur.com/sTOQLYl.png" ,Север
