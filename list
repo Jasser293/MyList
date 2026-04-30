@@ -828,6 +828,8 @@ http://217.113.16.23/match-igra/index.m3u8
 http://hls127.freeott.top:8080/Football/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://37.46.49.14:18010/play/a09d/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+http://217.113.16.23/matchfutbol1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://37.46.49.14:18010/play/a09e/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
