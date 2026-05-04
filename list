@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Федеральные",Первый канал
-http://tinyurl.com/kp4fyyz2
+http://91.90.253.78/CH125/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
@@ -82,6 +82,8 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://139.28.255.188:8080/rentv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
+http://91.90.253.78/CH13/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://185.46.16.239:8000/REN_TV
@@ -108,6 +110,8 @@ http://85.192.43.85/vintera/tvcsd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://139.28.255.188:8080/5tv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
+http://91.90.253.78/CH283/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятый канал
 http://stream-tv.ew21.ru/005/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://31.131.141.195:8000/play/1050/index.m3u8
@@ -127,6 +131,8 @@ http://94.230.128.107:8080/OTP/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Новости",МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://91.90.253.78/CH11/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Развлекательные",ТНТ
@@ -162,6 +168,8 @@ http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ Юмор
 https://tvoetv.space/tvoetv_humor/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
+http://91.90.253.78/CH15/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС
 http://stream-tv.ew21.ru/013/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Развлекательные",СТС
 http://185.46.16.239:8000/STS
@@ -193,6 +201,8 @@ http://185.46.16.239:8000/Domashniy
 http://31.131.141.195:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://176.96.241.40/Domashniy/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница
+http://91.90.253.78/CH17/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница
 http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Развлекательные",Пятница
@@ -642,6 +652,8 @@ http://91.90.253.78/CH5505/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
+http://91.90.253.78/CH3881/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит
 http://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOHITHD//video_800x450_avc1/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://158.101.222.193:88/georgia_play.php?id=kinohit
@@ -653,6 +665,12 @@ http://185.46.16.239:8000/Kino_TV
 http://94.230.250.140/kinotv/mono.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
 http://139.28.255.188:8080/kinomiks/index.m3u8
+#EXTINF:-1 group-title="Кино",Остросюжетное
+http://91.90.253.78/CH547/index.m3u8
+#EXTINF:-1 group-title="Кино",Премиальное
+http://91.90.253.78/CH545/index.m3u8
+#EXTINF:-1 group-title="Кино",Шокирующее
+http://91.90.253.78/CH229/index.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
