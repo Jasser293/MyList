@@ -380,6 +380,8 @@ http://river-5-557.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/4-bUMgx_pgMa53p4JIB
 #EXTINF:-1 group-title="Детям" tvg-id="SmaylikTV.ru" tvg-logo="https://i.imgur.com/CBj8XCT.png" ,Смайл
 http://river-5-557.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/9Hh5rXlJLuWjVJBxc76X5Q/1778567462/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 group-title="Досуг",Доктор
+http://91.90.253.78/CH101/index.m3u8
+#EXTINF:-1 group-title="Досуг",Доктор
 http://185.46.16.239:8000/Doktor
 #EXTINF:-1 group-title="Досуг",Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
