@@ -152,7 +152,9 @@ http://tinyurl.com/2m5pvkv5
 #EXTINF:-1 group-title="Развлекательные",Перец
 http://109.248.236.51/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Перец
-http://api.dommir.top/ch/Perets_RU/playlist.m3u8
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 group-title="Развлекательные",Перец
+http://213.169.39.30:5261
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://api.dommir.top/ch/KVN_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
@@ -384,7 +386,9 @@ http://91.90.253.78/CH101/index.m3u8
 #EXTINF:-1 group-title="Досуг",Доктор
 http://185.46.16.239:8000/Doktor
 #EXTINF:-1 group-title="Досуг",Доктор
-http://45.11.139.43:8555/doctor/index.m3u8
+http://178.218.204.217/1409/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Досуг",Доктор
+#http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 group-title="Досуг",Здоровое ТВ
 http://178.218.204.217/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Живи
@@ -663,22 +667,20 @@ http://91.90.253.78/CH3881/index.m3u8
 http://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOHITHD//video_800x450_avc1/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://158.101.222.193:88/georgia_play.php?id=kinohit
-#EXTINF:-1 group-title="Кино",Кинохит
-http://178.218.204.217/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://94.230.250.140/kinotv/mono.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
 http://139.28.255.188:8080/kinomiks/index.m3u8
+#EXTINF:-1 group-title="Кино",Киномикс
+http://46.32.176.50/kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино",Остросюжетное
 http://91.90.253.78/CH547/index.m3u8
 #EXTINF:-1 group-title="Кино",Премиальное
 http://91.90.253.78/CH545/index.m3u8
 #EXTINF:-1 group-title="Кино",Шокирующее
 http://91.90.253.78/CH229/index.m3u8
-#EXTINF:-1 group-title="Кино",Киномикс
-http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
 http://178.218.204.217/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
