@@ -307,8 +307,6 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c
 http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Регионы" ,ТОЛК
 http://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Регионы" tvg-id="PervyyTulskiy.ru" tvg-name="первый тульский" tvg-logo="https://i.imgur.com/QdKKHXb.png" ,Первый Тульский
-http://1tvtula.ru/tula/1tv_hi/index.m3u8
 #EXTINF:-1 group-title="Регионы" tvg-name="next tv (нефтекамск)" ,Next TV
 http://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Регионы" tvg-name="тв-ин (магнитогорск)" ,ТВ-ИН
