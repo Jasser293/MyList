@@ -196,13 +196,15 @@ http://31.131.141.195:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
+http://46.32.176.50/domashniy/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Домашний
+http://185.78.112.47:8077/domashniy/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Домашний
 http://stream-tv.ew21.ru/014/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://31.131.141.195:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Домашний
-http://176.96.241.40/Domashniy/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница
 http://tinyurl.com/yc5mcpfb
 #EXTINF:-1 group-title="Развлекательные",Пятница
@@ -416,7 +418,7 @@ http://178.218.204.217/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Кухня
 http://93.84.115.174:10181/kuhnia
 #EXTINF:-1 group-title="Досуг",Аппетитный
-http://tv.woobl.ru/appetitniy_hd/video.m3u8?token=test55555
+#
 #EXTINF:-1 group-title="Досуг",Лапки Live
 http://cdn.kubteltv.workers.dev/?ID=321
 #EXTINF:-1 group-title="Познавательные",Вопросы и ответы
