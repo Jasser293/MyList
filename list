@@ -793,9 +793,9 @@ http://85.192.10.173/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Кино",Kino 24
 http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="STARTAir.ru" tvg-logo="https://i.imgur.com/4bACa7x.png" ,START Air
-#
+http://185.78.112.47:8077/start_air/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="STARTWorld.ru" tvg-logo="https://i.imgur.com/TXtY5eM.png" ,START World
-#
+http://185.78.112.47:8077/start_world/index.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
 http://178.218.204.217/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
@@ -803,13 +803,13 @@ http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
 http://46.32.176.50/eurosport/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
-http://185.78.112.47:8077/Eurosport1HD/index.m3u8
+#http://185.78.112.47:8077/Eurosport1HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
 http://109.248.236.51/eurosport2/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Спорт",Eurosport 2
 http://46.32.176.50/eurosport2/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
-http://185.78.112.47:8077/Eurosport2HD/index.m3u8
+#http://185.78.112.47:8077/Eurosport2HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
 http://178.218.204.217/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
