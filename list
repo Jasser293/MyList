@@ -524,7 +524,7 @@ http://139.28.255.188:8080/ViasatNature/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
 http://139.28.255.188:8080/ViasatExplorer/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Наша Тема
-http://live-3.otcnet.ru/nashatema/index.m3u8
+http://185.78.112.47:8077/nasha_tema_hd/index.m3u8
 #EXTINF:-1 group-title="Мужские",Охота и рыбалка
 http://139.28.255.188:8080/ohotaribalka/index.m3u8
 #EXTINF:-1 group-title="Мужские",Рыбалка и охота
