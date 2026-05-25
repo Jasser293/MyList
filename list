@@ -94,7 +94,7 @@ http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Федеральные",Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ International
-http://a3569457567-s70378.cdn.ngenix.net/ren_tv/1/index.m3u8
+http://94.43.1.138:8081/RENTV/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ International
 http://178.134.1.158:8081/RENTV/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВЦ
@@ -158,7 +158,7 @@ http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://api.dommir.top/ch/KVN_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
-http://a3569457567-s70378.cdn.ngenix.net/kvn_tv/2/index.m3u8
+http://185.78.112.47:8077/kvn_tv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
@@ -263,9 +263,9 @@ http://212.233.98.62/0mir/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-name="о!кино" ,О!Кино
 http://212.233.98.62/okino-tv/index.m3u8
 #EXTINF:-1 group-title="Досуг",Ностальгия
-http://a3569457567-s70378.cdn.ngenix.net/nostalgia/1/index.m3u8
+http://185.78.112.47:8077/nostalgia/index.m3u8
 #EXTINF:-1 group-title="Досуг",Ностальгия
-#http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
+http://46.32.176.50/nostalgiya/index.m3u8
 #EXTINF:-1 group-title="Регионы",Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Неизвестная Россия
@@ -328,7 +328,7 @@ http://catchup.videoline.ru/asvtv/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://109.248.236.51/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Телекафе
-http://a3569457567-s70378.cdn.ngenix.net/telecafe/2/index.m3u8
+http://46.32.176.50/telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
 http://178.218.204.217/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
@@ -394,7 +394,7 @@ http://94.43.1.138:8081/doktor/index.m3u8
 #EXTINF:-1 group-title="Досуг",Здоровое ТВ
 http://178.218.204.217/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Живи
-http://a3569457567-s70378.cdn.ngenix.net/jivi/1/index.m3u8
+http://46.32.176.50/jivi/index.m3u8
 #EXTINF:-1 group-title="Досуг",Живи
 http://178.218.204.217/1419/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",World Fashion Channel
@@ -436,7 +436,7 @@ http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="Познавательные",МОЯ ПЛАНЕТА
 http://94.230.250.140/myplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательные",RTG
-http://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
+http://hls127.freeott.top:8080/RTG_TV/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Кто есть кто
@@ -468,9 +468,9 @@ http://river-6-603.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/fvR1ppbT1drfZfdRQUP
 #EXTINF:-1 tvg-name="сок тв" group-title="Развлекательные",Сок ТВ
 http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
 #EXTINF:-1 group-title="Познавательные",TERRA
-https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
+http://176.100.46.245:90/TERRA/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Galaxy
-http://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
+http://176.100.46.245:90/galaxy/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
@@ -480,13 +480,13 @@ http://176.100.46.245:90/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 #
 #EXTINF:-1 group-title="Познавательные",History
-http://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные",History
 http://185.78.112.47:8077/History-HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",H2
-http://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Travel+Adventure HD
-http://a3569457567-s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
+#
+#EXTINF:-1 group-title="Познавательные",Travel+Adventure
+http://62.89.17.130:4451/play/a009/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel+Adventure
+http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC
 http://46.32.176.50/tlc/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
@@ -494,27 +494,25 @@ http://93.84.115.174:10181/animalplanethd
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://185.78.112.47:8077/AnimalPlanetRussiaHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
-http://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
+http://46.32.176.50/nationalgeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic Wild
 http://178.218.204.217/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic Wild
 http://185.78.112.47:8077/natgeo_wild_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
-http://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
+http://185.78.112.47:8077/OceanTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://hls127.freeott.top:8080/Ocean_TV/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",История
 http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 group-title="Познавательные",Точка РФ
 http://178.218.204.217/1222/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Точка РФ
-http://a3569457567-s70378.cdn.ngenix.net/hd_life/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 group-title="Познавательные",В мире животных
 http://178.218.204.217/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Zooпарк
-https://a3569457567-s70378.cdn.ngenix.net/zoopark/2/index.m3u8
+http://46.32.176.50/zoopark/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Zooпарк
 http://158.101.222.193:88/georgia_play.php?id=zoo
 #EXTINF:-1 group-title="Познавательные",Наука
@@ -620,7 +618,7 @@ http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино премиум
 http://109.248.236.51/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум
-http://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
+http://176.100.46.245:90/domkinopremium/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом Кино
 http://139.28.255.252:8080/domkino/index.m3u8
 #EXTINF:-1 group-title="Кино",КИНЕКО
@@ -642,27 +640,27 @@ http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
-http://a3569457567-s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
+http://185.78.112.47:8077/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia 1
-http://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
+http://46.32.176.50/amedia1/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia 1
 http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Amedia 2
 http://158.160.149.81:8080/462/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia 2
-http://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
+http://46.32.176.50/amedia2/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
 http://85.117.37.41/amediahit/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
-http://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
+http://46.32.176.50/amediahit/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Premium
 http://139.28.255.188:8080/Amedia/index.m3u8
 #EXTINF:-1 group-title="Кино",.black
 http://46.32.176.50/sonyturbo/index.m3u8
 #EXTINF:-1 group-title="Кино",.black
-http://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
+http://176.100.46.245:90/black/index.m3u8
 #EXTINF:-1 group-title="Кино",.sci-fi
-http://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
+http://217.174.229.136:8000/play/a00q
 #EXTINF:-1 tvg-id="VHSka.ru" tvg-name="vhs-ка" tvg-logo="https://i.imgur.com/C2377w9.png" group-title="Кино",VHS-ка
 #
 #EXTINF:-1 group-title="Кино",Кинохит
@@ -670,7 +668,7 @@ http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://46.32.176.50/kinoxit/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
-http://a3285272783-s80718.cdn.ngenix.net//hls//CH_KINOHITHD//video_800x450_avc1/playlist.m3u8
+http://185.78.112.47:8077/kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 group-title="Кино",Кино ТВ
@@ -690,7 +688,7 @@ http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="Cinema.ru" tvg-name="cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" ,Cinema
 http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино",HollywooD
-https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
+http://46.32.176.50/HollywoodHD/index.m3u8
 #EXTINF:-1 group-title="Кино",BollywooD
 http://178.218.204.217/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",BollywooD
@@ -698,23 +696,23 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино",Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
-http://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
+http://176.100.46.245:90/india/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="India.ru" tvg-name="индия" tvg-logo="https://i.imgur.com/xDVcDOc.png" ,Индия
 http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
 http://185.46.16.239:8000/Fox_HD
 #EXTINF:-1 group-title="Кино",viju+ Comedy
-http://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
+http://176.100.46.245:90/ViasatKinoComedy/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
-http://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
+http://46.32.176.50/VIPMegahitHD/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuPlusPremiere.ru" tvg-name="vip premiere" tvg-logo="https://i.imgur.com/klRvhR5.png" ,viju+ Premiere
-http://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
+http://46.32.176.50/VIPPremiereHD/index.m3u8
 #EXTINF:-1 group-title="Кино",Наше новое кино
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 group-title="Кино",Наше новое кино
-http://a3569457567-s70378.cdn.ngenix.net/nashe_novoe_kino/1/index.m3u8
+http://178.218.204.217/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кинопоказ
 http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинопоказ
@@ -753,7 +751,7 @@ http://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Смотрим 100% Факты
 http://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Время
-http://a3569457567-s70378.cdn.ngenix.net/vremia/2/index.m3u8
+http://193.25.8.59:8000/vremya
 #EXTINF:-1 group-title="Кино",Русский роман
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
@@ -765,7 +763,7 @@ http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="Кино",НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
-http://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
+http://176.100.46.245:90/kinoujas/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
 http://185.78.112.47:8077/kinoujas/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
@@ -835,11 +833,11 @@ http://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Спорт",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
 #EXTINF:-1 group-title="Спорт",Бокс ТВ
-http://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8
+http://46.32.176.50/bokstv/index.m3u8
 #EXTINF:-1 group-title="Спорт",Удар
 http://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",MMA-TV
-http://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
+http://46.32.176.50/mmatv/index.m3u8
 #EXTINF:-1 group-title="Спорт",MMA-TV
 http://176.100.46.245:90/MMATV/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
@@ -913,9 +911,9 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детям",Мама
 http://178.218.204.217/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям",Карусель
-http://a3569457567-s70378.cdn.ngenix.net/karusel/1/index.m3u8
+http://89.218.32.179:18000/play/a02r
 #EXTINF:-1 group-title="Детям",TiJi
-http://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
+http://176.100.46.245:90/TiJi/index.m3u8
 #EXTINF:-1 group-title="Детям",Советские мультфильмы
 #
 #EXTINF:-1 group-title="Детям",Детский Мир
