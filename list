@@ -7,6 +7,8 @@ http://46.32.176.50/perviy/index.m3u8
 http://tinyurl.com/34x3jfzp
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал
+http://46.32.64.39:10001
 #EXTINF:-1 group-title="Федеральные",Первый канал Евразия
 http://89.218.32.179:18000/play/a046
 #EXTINF:-1 group-title="Новости" tvg-id="no_epg_news" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png" ,ТАСС
@@ -87,6 +89,8 @@ http://46.32.176.50/rentv/index.m3u8
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://185.46.16.239:8000/REN_TV
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
+http://46.32.64.39:10011
 #EXTINF:-1 group-title="Федеральные",Рен ТВ (+2)
 http://94.230.128.107:8080/PEH_TB/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ International
@@ -109,6 +113,8 @@ http://139.28.255.188:8080/5tv/index.m3u8
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://95.47.155.244:8001/play/a005
+#EXTINF:-1 group-title="Федеральные",Пятый канал
+http://46.32.64.39:10005
 #EXTINF:-1 group-title="Федеральные",Пятый канал (+2)
 http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-id="Channel5International.ru" tvg-name="пятый international" tvg-logo="https://i.imgur.com/KPXMa3U.png" ,5 Канал International
@@ -131,6 +137,8 @@ http://tinyurl.com/5dw484zu
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://31.131.141.195:8000/play/2090/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://46.32.64.39:10019
 #EXTINF:-1 group-title="Развлекательные",ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
@@ -143,8 +151,6 @@ http://tinyurl.com/2m5pvkv5
 http://109.248.236.51/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Перец
 http://213.169.39.30:5261
-#EXTINF:-1 group-title="Развлекательные",Перец
-http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://api.dommir.top/ch/KVN_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
@@ -167,6 +173,8 @@ http://176.118.197.101/CTC/index.m3u8
 http://185.46.16.239:8000/STS
 #EXTINF:-1 group-title="Развлекательные",СТС
 http://185.91.177.13/sts/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС
+http://46.32.64.39:10013
 #EXTINF:-1 group-title="Развлекательные",СТС (+2)
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС Love
@@ -183,6 +191,8 @@ http://46.32.176.50/tv3/index.m3u8
 http://185.46.16.239:8000/TV3
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://31.131.141.195:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТВ3
+http://46.32.64.39:10015
 #EXTINF:-1 group-title="Развлекательные",ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
@@ -193,12 +203,16 @@ http://185.78.112.47:8077/domashniy/index.m3u8
 http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://31.131.141.195:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Домашний
+http://46.32.64.39:10014
 #EXTINF:-1 group-title="Развлекательные",Пятница
 http://tinyurl.com/yc5mcpfb
 #EXTINF:-1 group-title="Развлекательные",Пятница
 http://185.46.16.239:8000/Pyatnitsa
 #EXTINF:-1 group-title="Развлекательные",Пятница
 http://31.131.141.195:8000/play/2060/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница
+http://46.32.64.39:10016
 #EXTINF:-1 group-title="Развлекательные",Пятница (+2)
 http://94.230.128.107:8080/Friday/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница (+4)
