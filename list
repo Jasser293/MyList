@@ -334,7 +334,7 @@ http://185.46.16.239:8000/Drayv
 #EXTINF:-1 group-title="Мужские",Мото Драйв
 http://85.192.43.85/vintera/motodrive/index.m3u8
 #EXTINF:-1 group-title="Мужские",Мужской
-http://158.101.222.193:88/georgia_play.php?id=muzhskoy
+http://217.174.229.136:8000/play/a081
 #EXTINF:-1 group-title="Мужские",Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Новости",RT Doc
@@ -649,8 +649,6 @@ http://139.28.255.252:8080/kinohit/index.m3u8
 http://46.32.176.50/kinoxit/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://185.78.112.47:8077/kinohit/index.m3u8
-#EXTINF:-1 group-title="Кино",Кинохит
-http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 group-title="Кино",Кино ТВ
