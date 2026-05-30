@@ -310,7 +310,7 @@ http://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Арсенал
 http://93.84.115.174:10181/arsenal_hd
 #EXTINF:-1 group-title="Мужские",Арсенал
-http://178.218.204.217/1414/tracks-v1a1/mono.m3u8
+http://185.78.112.47:8077/arsenal_hd/index.m3u8
 #EXTINF:-1 group-title="Мужские",Оружие
 http://93.84.115.174:10181/orujie
 #EXTINF:-1 group-title="Мужские",Оружие
@@ -328,23 +328,21 @@ http://109.248.236.51/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://46.32.176.50/telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
-http://178.218.204.217/1249/tracks-v1a1/mono.m3u8
+http://185.78.112.47:8077/sarafan/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
 http://93.84.115.174:10181/sarafan
 #EXTINF:-1 group-title="Мужские",АВТО 24
-http://178.218.204.217/1430/tracks-v1a1/mono.m3u8
+http://185.78.112.47:8077/avto24/index.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
 http://46.32.176.50/avto24/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
-http://178.218.204.217/1036/tracks-v1a1/mono.m3u8
+http://46.32.176.50/avtoplyus/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
 http://185.78.112.47:8077/avto_plus/index.m3u8
-#EXTINF:-1 group-title="Мужские",Авто плюс
-http://46.32.176.50/avtoplyus/index.m3u8
-#EXTINF:-1 group-title="Мужские",Драйв
-http://178.218.204.217/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
 http://185.46.16.239:8000/Drayv
+#EXTINF:-1 group-title="Мужские",Драйв
+http://193.25.8.59:8000/drive
 #EXTINF:-1 group-title="Мужские",Мото Драйв
 http://85.192.43.85/vintera/motodrive/index.m3u8
 #EXTINF:-1 group-title="Мужские",Мужской
@@ -366,7 +364,7 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 group-title="Досуг",Усадьба
 http://139.28.255.188:8080/usadba/index.m3u8
 #EXTINF:-1 group-title="Досуг",Усадьба
-http://178.218.204.217/1427/index.m3u8
+http://91.221.252.12:82/tv58
 #EXTINF:-1 group-title="Досуг",Бобёр
 http://46.32.176.50/bobertv/index.m3u8
 #EXTINF:-1 group-title="Досуг",Бобёр
@@ -386,15 +384,13 @@ http://185.78.112.47:8077/doctor/index.m3u8
 #EXTINF:-1 group-title="Досуг",Доктор
 http://185.46.16.239:8000/Doktor
 #EXTINF:-1 group-title="Досуг",Доктор
-http://178.218.204.217/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Досуг",Доктор
 http://94.43.1.138:8081/doktor/index.m3u8
 #EXTINF:-1 group-title="Досуг",Здоровое ТВ
-http://178.218.204.217/1428/tracks-v1a1/mono.m3u8
+#
 #EXTINF:-1 group-title="Досуг",Живи
 http://46.32.176.50/jivi/index.m3u8
 #EXTINF:-1 group-title="Досуг",Живи
-http://178.218.204.217/1419/tracks-v1a1/mono.m3u8
+http://185.78.112.47:8077/jivi/index.m3u8
 #EXTINF:-1 group-title="Досуг",World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 group-title="Досуг",Food Time
@@ -412,8 +408,6 @@ http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
 #EXTINF:-1 group-title="Досуг",Кухня
 http://185.78.112.47:8077/kuhnya/index.m3u8
 #EXTINF:-1 group-title="Досуг",Кухня
-http://178.218.204.217/1236/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Досуг",Кухня
 http://93.84.115.174:10181/kuhnia
 #EXTINF:-1 group-title="Досуг",Аппетитный
 #
@@ -422,13 +416,13 @@ http://217.174.229.136:8000/play/a08y
 #EXTINF:-1 group-title="Досуг",Лапки Live
 http://cdn.kubteltv.workers.dev/?ID=321
 #EXTINF:-1 group-title="Познавательные",Вопросы и ответы
-http://178.218.204.217/1429/tracks-v1a1/mono.m3u8
+#
 #EXTINF:-1 group-title="Познавательные",UNIVER TV
 http://cdn.universmotri.ru/live/lq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",UNIVER TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка Отрыва
-http://178.218.204.217/1031/tracks-v1a1/mono.m3u8
+http://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
 #EXTINF:-1 group-title="Познавательные",МОЯ ПЛАНЕТА
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="Познавательные",МОЯ ПЛАНЕТА
@@ -494,8 +488,6 @@ http://91.221.252.12:82/tv41
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://46.32.176.50/nationalgeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic Wild
-http://178.218.204.217/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic Wild
 http://185.78.112.47:8077/natgeo_wild_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://185.78.112.47:8077/OceanTV/index.m3u8
@@ -504,11 +496,11 @@ http://hls127.freeott.top:8080/Ocean_TV/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",История
 http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 group-title="Познавательные",Точка РФ
-http://178.218.204.217/1222/tracks-v1a1/mono.m3u8
+#
 #EXTINF:-1 group-title="Познавательные",Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 group-title="Познавательные",В мире животных
-http://178.218.204.217/1404/tracks-v1a1/mono.m3u8
+#
 #EXTINF:-1 group-title="Познавательные",Zooпарк
 http://46.32.176.50/zoopark/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Zooпарк
@@ -525,8 +517,6 @@ http://139.28.255.188:8080/ViasatExplorer/tracks-v1a1/mono.m3u8
 http://185.78.112.47:8077/nasha_tema_hd/index.m3u8
 #EXTINF:-1 group-title="Мужские",Охота и рыбалка
 http://139.28.255.188:8080/ohotaribalka/index.m3u8
-#EXTINF:-1 group-title="Мужские",Рыбалка и охота
-http://178.218.204.217/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Рыболов
 http://185.78.112.47:8077/ohotnik/index.m3u8
 #EXTINF:-1 group-title="Мужские",Охотник и рыболов Int
@@ -606,7 +596,7 @@ https://online.tvimpact.live/hls/impact_tv.m3u8
 #EXTINF:-1 group-title="Музыка",Fresh HD
 http://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 group-title="Музыка",RU.TV
-http://178.218.204.217/1202/tracks-v1a1/mono.m3u8
+http://46.32.176.50/rutv/index.m3u8
 #EXTINF:-1 group-title="Досуг",Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Кино",Сапфир
@@ -632,7 +622,7 @@ http://139.28.255.188:8080/eurokin/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://94.230.250.140/eurokino/index.m3u8
 #EXTINF:-1 group-title="Кино",Техно 24
-http://178.218.204.217/1037/tracks-v1a1/mono.m3u8
+http://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Техно 24
 http://185.78.112.47:8077/t24/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Тайна
@@ -680,7 +670,7 @@ http://139.28.255.188:8080/kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
 http://46.32.176.50/kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
-http://178.218.204.217/1234/tracks-v1a1/mono.m3u8
+http://185.78.112.47:8077/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
 http://46.32.176.50/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Кино",Мир сериала
@@ -690,7 +680,7 @@ http://185.46.48.18/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино",HollywooD
 http://46.32.176.50/HollywoodHD/index.m3u8
 #EXTINF:-1 group-title="Кино",BollywooD
-http://178.218.204.217/1444/tracks-v1a1/mono.m3u8
+http://185.78.112.47:8077/BollywoodHD/index.m3u8
 #EXTINF:-1 group-title="Кино",BollywooD
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино",Индийское кино
@@ -712,15 +702,15 @@ http://46.32.176.50/VIPPremiereHD/index.m3u8
 #EXTINF:-1 group-title="Кино",Наше новое кино
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 group-title="Кино",Наше новое кино
-http://178.218.204.217/1051/tracks-v1a1/mono.m3u8
+http://fs.uplink.kz/nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Кинопоказ
 http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинопоказ
-http://178.218.204.217/1057/tracks-v1a1/mono.m3u8
+http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 #EXTINF:-1 group-title="Кино",Любимое кино
 http://46.32.176.50/lubimoekino/index.m3u8
 #EXTINF:-1 group-title="Кино",Мужское кино HD
-http://178.218.204.217/1237/tracks-v1a1/mono.m3u8
+http://46.32.176.50/MujskoeKinoHD/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский бестселлер
 http://139.28.255.188:8080/bestseller/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский иллюзион
@@ -781,7 +771,7 @@ http://93.84.115.174:10181/retro
 #EXTINF:-1 group-title="Кино",Viju TV1000
 http://139.28.255.188:8080/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000
-http://178.218.204.217/1058/tracks-v1a1/mono.m3u8
+http://46.32.176.50/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000 Русское
 http://139.28.255.188:8080/tv1000ruskino/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000 Action
@@ -799,7 +789,7 @@ http://185.78.112.47:8077/start_air/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="STARTWorld.ru" tvg-logo="https://i.imgur.com/TXtY5eM.png" ,START World
 http://185.78.112.47:8077/start_world/index.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
-http://178.218.204.217/1273/tracks-v1a1/mono.m3u8
+http://185.78.112.47:8077/Dorama/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1
@@ -813,13 +803,13 @@ http://46.32.176.50/eurosport2/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2
 http://185.78.112.47:8077/Eurosport2HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
-http://178.218.204.217/1263/tracks-v1a1/mono.m3u8
+#
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
-http://178.218.204.217/1264/tracks-v1a1/mono.m3u8
+#
 #EXTINF:-1 group-title="Спорт",Беларусь 5
 http://194.158.222.36:6109
 #EXTINF:-1 group-title="Спорт",Trace Sport Stars
-http://178.218.204.217/1274/tracks-v1a1/mono.m3u8
+#
 #EXTINF:-1 group-title="Спорт",Extreme Sports
 http://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="Спорт",H&C
@@ -832,8 +822,6 @@ http://46.32.176.50/bokstv/index.m3u8
 http://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",MMA-TV
 http://46.32.176.50/mmatv/index.m3u8
-#EXTINF:-1 group-title="Спорт",MMA-TV
-http://178.218.204.217/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
 http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
@@ -855,7 +843,7 @@ http://139.28.255.188:8080/matchboec/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Планета
 http://194.158.222.36:6089
 #EXTINF:-1 group-title="Спорт",Матч! Планета
-http://178.218.204.217/1243/tracks-v1a1/mono.m3u8
+http://fs.uplink.kz/match_planeta/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Спорт",Матч! Игра
 http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 group-title="Спорт",Матч! Игра
@@ -879,7 +867,7 @@ http://185.78.112.47:8077/football3_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://193.25.8.59:8000/fut3
 #EXTINF:-1 group-title="Спорт",KHL
-http://178.218.204.217/1028/tracks-v1a1/mono.m3u8
+http://46.32.176.50/kxltv/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="AstrahanRuSport.ru" tvg-name="астрахань спорт" tvg-logo="https://i.imgur.com/BKaEtqL.png" ,Астрахань Спорт
 http://213.108.175.226/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Tennis Channel
@@ -899,7 +887,7 @@ http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детям",Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детям",Мама
-http://178.218.204.217/1244/tracks-v1a1/mono.m3u8
+http://46.32.176.50/mama/index.m3u8
 #EXTINF:-1 group-title="Детям",Карусель
 http://89.218.32.179:18000/play/a02r
 #EXTINF:-1 group-title="Детям",TiJi
@@ -907,7 +895,7 @@ http://185.78.112.47:8077/TiJi/index.m3u8
 #EXTINF:-1 group-title="Детям",Детский Мир
 http://185.78.112.47:8077/Detskiy_Mir/index.m3u8
 #EXTINF:-1 group-title="Детям",Gulli Girl
-http://178.218.204.217/1445/tracks-v1a1/mono.m3u8
+http://194.152.35.17/gulli_girl/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="Pingvin.ru" tvg-name="пингвин" ,Пингвин
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям",Мамонтенок ТВ
