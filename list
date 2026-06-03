@@ -380,11 +380,13 @@ http://185.78.112.47:8077/doctor/index.m3u8
 #EXTINF:-1 group-title="Досуг",Доктор
 http://185.46.16.239:8000/Doktor
 #EXTINF:-1 group-title="Досуг",Здоровое ТВ
-#
+http://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
 #EXTINF:-1 group-title="Досуг",Живи
 http://46.32.176.50/jivi/index.m3u8
 #EXTINF:-1 group-title="Досуг",Живи
 http://185.78.112.47:8077/jivi/index.m3u8
+#EXTINF:-1 group-title="Досуг",Живи Активно
+http://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
 #EXTINF:-1 group-title="Досуг",World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 group-title="Досуг",Food Time
@@ -620,7 +622,7 @@ http://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Техно 24
 http://185.78.112.47:8077/t24/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Тайна
-http://river-6-602.rtbcdn.ru/stream/genetta-420.ntv.rutube.ru/4wX7Yi5W1EpBUbXSr4KA3Q/1780906619/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://185.78.112.47:8077/taina/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинопремьера
 http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
@@ -758,6 +760,8 @@ http://185.78.112.47:8077/mosfilm/index.m3u8
 http://109.248.236.51/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Советское кино
 http://79.137.213.47/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 group-title="Кино",Москва доверие
+http://185.78.112.47:8077/moskva_doverie/index.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
