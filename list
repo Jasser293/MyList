@@ -348,7 +348,7 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 group-title="Новости",RT Doc
 http://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
 #EXTINF:-1 group-title="Новости",Соловьев.Live
-http://stream.smotrim.ru/hls/solovievlive/playlist_3.m3u8
+http://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
 #EXTINF:-1 group-title="Новости",Соловьев.Live
 http://river-6-601.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/NHxum6PBlgaVhDIlWqZGaQ/1781333578/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
@@ -481,6 +481,8 @@ http://91.221.252.12:82/tv41
 http://46.32.176.50/nationalgeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic Wild
 http://185.78.112.47:8077/natgeo_wild_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic Wild
+http://46.32.176.50/NatGeoWildHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://185.78.112.47:8077/OceanTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
@@ -488,11 +490,11 @@ http://hls127.freeott.top:8080/Ocean_TV/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",История
 http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 group-title="Познавательные",Точка РФ
-#
+http://stream8.cinerama.uz/1222/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:-1 group-title="Познавательные",В мире животных
-#
+http://stream8.cinerama.uz/1404/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Zooпарк
 http://46.32.176.50/zoopark/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Zooпарк
@@ -582,7 +584,7 @@ https://xite-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",OneBY HD
 http://rtmp.one.by:2300
 #EXTINF:-1 group-title="Музыка",MIXM TV
-#
+http://cdamix.streaming.ws/mixmusic/live/.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="ImpactTVDance.ro" tvg-name="impact tv dance [ro]" tvg-logo="https://i.imgur.com/G5mNdpE.png" ,Impact TV Dance
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="ImpactTVManele.ro" tvg-name="impact tv manele [ro]" tvg-logo="https://i.imgur.com/G5mNdpE.png" ,Impact TV Manele
@@ -686,7 +688,7 @@ http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
 http://185.46.16.239:8000/Fox_HD
 #EXTINF:-1 group-title="Кино",viju+ Comedy
-#
+http://46.32.176.50/VIPComedyHD/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" ,viju+ Megahit
