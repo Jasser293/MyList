@@ -213,9 +213,9 @@ http://94.230.128.107:8080/Friday/index.m3u8
 http://94.230.250.140/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Суббота!
 http://217.114.191.150/Subbota/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Че!
+#EXTINF:-1 group-title="Развлекательные",Че
 http://139.28.255.188:8080/4e/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Че!
+#EXTINF:-1 group-title="Развлекательные",Че
 http://176.118.197.101/Che/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю
 http://139.28.255.188:8080/yutv/index.m3u8
@@ -465,9 +465,9 @@ http://185.78.112.47:8077/History-HD/index.m3u8
 #
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure
 https://s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",TLC
+#EXTINF:-1 group-title="Развлекательные",TLC HD
 http://46.32.176.50/tlc/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",TLC
+#EXTINF:-1 group-title="Развлекательные",TLC HD
 http://91.221.252.12:82/tv45
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://93.84.115.174:10181/animalplanethd
@@ -477,9 +477,9 @@ http://185.78.112.47:8077/AnimalPlanetRussiaHD/index.m3u8
 http://91.221.252.12:82/tv41
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://46.32.176.50/nationalgeographic/index.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic Wild
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://185.78.112.47:8077/natgeo_wild_hd/index.m3u8
-#EXTINF:-1 group-title="Познавательные",National Geographic Wild
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://46.32.176.50/NatGeoWildHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
 http://185.78.112.47:8077/OceanTV/index.m3u8
