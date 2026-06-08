@@ -221,7 +221,7 @@ http://176.118.197.101/Che/index.m3u8
 http://139.28.255.188:8080/yutv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю
 http://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=jStKtNZhgdkv4yHiXLrkrw&e=2076673069&scheme=http
-#EXTINF:-1 group-title="Развлекательные",ЦТВ
+#EXTINF:-1 group-title="Развлекательные",Центральное телевидение
 http://185.78.112.47:8077/ctv/index.m3u8
 #EXTINF:-1 group-title="Регионы",Москва 24
 https://stream.smotrim.ru/hls/moscow_24/playlist_2.m3u8
