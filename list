@@ -143,9 +143,9 @@ http://139.28.255.188:8080/tnt4/index.m3u8
 http://46.32.176.50/tnt/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://tinyurl.com/2m5pvkv5
-#EXTINF:-1 group-title="Развлекательные",Перец
+#EXTINF:-1 group-title="Развлекательные",Перец International
 http://109.248.236.51/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Развлекательные",Перец
+#EXTINF:-1 group-title="Развлекательные",Перец International
 http://213.169.39.30:5261
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://api.dommir.top/ch/KVN_TV/playlist.m3u8
@@ -173,11 +173,11 @@ http://185.91.177.13/sts/index.m3u8
 http://46.32.64.39:10013
 #EXTINF:-1 group-title="Развлекательные",СТС (+2)
 http://94.230.128.107:8080/CTC/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС Love
+#EXTINF:-1 group-title="Развлекательные",СТС love
 http://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС Love
+#EXTINF:-1 group-title="Развлекательные",СТС love
 http://fs.uplink.kz/sts_love/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Развлекательные",СТС Love
+#EXTINF:-1 group-title="Развлекательные",СТС love
 http://185.78.112.47:8077/sts-love/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://46.32.176.50/tv3/index.m3u8
@@ -199,17 +199,17 @@ http://185.46.16.239:8000/Domashniy
 http://31.131.141.195:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://46.32.64.39:10014
-#EXTINF:-1 group-title="Развлекательные",Пятница
+#EXTINF:-1 group-title="Развлекательные",Пятница!
 http://tinyurl.com/yc5mcpfb
-#EXTINF:-1 group-title="Развлекательные",Пятница
+#EXTINF:-1 group-title="Развлекательные",Пятница!
 http://185.46.16.239:8000/Pyatnitsa
-#EXTINF:-1 group-title="Развлекательные",Пятница
+#EXTINF:-1 group-title="Развлекательные",Пятница!
 http://31.131.141.195:8000/play/2060/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Пятница
+#EXTINF:-1 group-title="Развлекательные",Пятница!
 http://46.32.64.39:10016
-#EXTINF:-1 group-title="Развлекательные",Пятница (+2)
+#EXTINF:-1 group-title="Развлекательные",Пятница! (+2)
 http://94.230.128.107:8080/Friday/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Пятница (+4)
+#EXTINF:-1 group-title="Развлекательные",Пятница! (+4)
 http://94.230.250.140/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Суббота!
 http://217.114.191.150/Subbota/index.m3u8
@@ -345,9 +345,9 @@ http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 group-title="Новости",RT Doc
 http://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
-#EXTINF:-1 group-title="Новости",Соловьев.Live
+#EXTINF:-1 group-title="Новости",Соловьёв LIVE
 http://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
-#EXTINF:-1 group-title="Новости",Соловьев.Live
+#EXTINF:-1 group-title="Новости",Соловьёв LIVE
 http://river-6-601.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/zPA15AQNLac-_ao3gdh-bQ/1781511810/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="KrikTV.ru" tvg-name="крик-тв" tvg-logo="https://i.imgur.com/rtuChZR.png" ,Крик ТВ
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
@@ -786,17 +786,17 @@ http://185.78.112.47:8077/start_air/index.m3u8
 http://185.78.112.47:8077/start_world/index.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
 http://185.78.112.47:8077/Dorama/index.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 1
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 1
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://46.32.176.50/eurosport/index.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 1
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://185.78.112.47:8077/Eurosport1HD/index.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 2
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://109.248.236.51/eurosport2/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Спорт",Eurosport 2
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://46.32.176.50/eurosport2/index.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 2
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://185.78.112.47:8077/Eurosport2HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
