@@ -6,7 +6,7 @@ http://46.32.176.50/perviy/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://tinyurl.com/34x3jfzp
 #EXTINF:-1 group-title="Федеральные",Первый канал
-http://31.131.141.195:8000/play/1010/index.m3u8
+http://185.78.112.47:8077/ort_msk/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="no_epg_news" tvg-logo="https://cdn.ruwiki.ru/commonswiki/files/thumb/6/61/TASS_Logo_Cyrillic.svg/150px-TASS_Logo_Cyrillic.svg.png" ,ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
@@ -32,8 +32,6 @@ http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",НТВ Право
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Досуг",Зал суда
-http://217.174.229.136:8000/play/a09b
 #EXTINF:-1 group-title="Досуг",НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -82,7 +80,7 @@ http://139.28.255.188:8080/rentv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://46.32.176.50/rentv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
-http://31.131.141.195:8000/play/2010/index.m3u8
+http://85.25.46.88:8000/play/26/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
@@ -94,7 +92,7 @@ http://s70378.cdn.ngenix.net/ren_tv/2/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
 http://139.28.255.188:8080/tvcentr/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
-http://31.131.141.195:8000/play/1100/index.m3u8
+http://46.32.176.50/tvc/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
 http://185.71.81.6:8080/10/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
@@ -103,8 +101,6 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 http://85.192.43.85/vintera/tvcsd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://139.28.255.188:8080/5tv/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятый канал
-http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://95.47.155.244:8001/play/a005
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -131,8 +127,6 @@ http://185.78.112.47:8080/tnt_hd/index.m3u8
 http://tinyurl.com/5dw484zu
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://185.46.16.239:8000/TNT
-#EXTINF:-1 group-title="Развлекательные",ТНТ
-http://31.131.141.195:8000/play/2090/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://46.32.64.39:10019
 #EXTINF:-1 group-title="Развлекательные",ТНТ (+2)
@@ -184,8 +178,6 @@ http://46.32.176.50/tv3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://185.46.16.239:8000/TV3
 #EXTINF:-1 group-title="Развлекательные",ТВ3
-http://31.131.141.195:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТВ3
 http://46.32.64.39:10015
 #EXTINF:-1 group-title="Развлекательные",ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
@@ -196,15 +188,11 @@ http://185.78.112.47:8077/domashniy/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 group-title="Развлекательные",Домашний
-http://31.131.141.195:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Домашний
 http://46.32.64.39:10014
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://tinyurl.com/yc5mcpfb
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://185.46.16.239:8000/Pyatnitsa
-#EXTINF:-1 group-title="Развлекательные",Пятница!
-http://31.131.141.195:8000/play/2060/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://46.32.64.39:10016
 #EXTINF:-1 group-title="Развлекательные",Пятница! (+2)
@@ -302,11 +290,11 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Регионы" tvg-name="next tv (нефтекамск)" ,Next TV
 http://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Арсенал
-http://93.84.115.174:10181/arsenal_hd
+http://37.186.70.39:40/play/48/index.m3u8
 #EXTINF:-1 group-title="Мужские",Арсенал
 http://185.78.112.47:8077/arsenal_hd/index.m3u8
 #EXTINF:-1 group-title="Мужские",Оружие
-http://93.84.115.174:10181/orujie
+http://37.186.70.39:40/play/47/index.m3u8
 #EXTINF:-1 group-title="Мужские",Оружие
 http://109.248.236.51/oruzhie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Мужские",Оружие
@@ -322,7 +310,7 @@ http://46.32.176.50/telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
 http://185.78.112.47:8077/sarafan/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
-http://93.84.115.174:10181/sarafan
+https://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
 http://185.78.112.47:8077/avto24/index.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
@@ -338,7 +326,7 @@ http://193.25.8.59:8000/drive
 #EXTINF:-1 group-title="Мужские",Мото Драйв
 http://85.192.43.85/vintera/motodrive/index.m3u8
 #EXTINF:-1 group-title="Мужские",Мужской
-http://217.174.229.136:8000/play/a081
+http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 group-title="Мужские",Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Новости",RT Doc
@@ -390,19 +378,17 @@ http://185.78.112.47:8077/eda_hd/index.m3u8
 #EXTINF:-1 group-title="Досуг",Food Time
 http://cdn.kubteltv.workers.dev/?ID=457
 #EXTINF:-1 tvg-id="Eda.ru" tvg-name="еда" tvg-logo="https://i.imgur.com/htmbgOX.png" group-title="Досуг",Еда
-http://93.84.115.174:10181/edahd
-#EXTINF:-1 group-title="Досуг",Вкус
-http://217.174.229.136:8000/play/a023
+#
 #EXTINF:-1 group-title="Досуг",Кухня
 http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
 #EXTINF:-1 group-title="Досуг",Кухня
 http://185.78.112.47:8077/kuhnya/index.m3u8
 #EXTINF:-1 group-title="Досуг",Кухня
-http://93.84.115.174:10181/kuhnia
+http://46.32.176.50/kuxnyatv/index.m3u8
 #EXTINF:-1 group-title="Досуг",Аппетитный
-#http://tv.woobl.ru/appetitniy_hd/video.m3u8?token=woobliptvz
+#
 #EXTINF:-1 group-title="Досуг",Первый Вегетарианский
-http://217.174.229.136:8000/play/a08y
+#
 #EXTINF:-1 group-title="Досуг",Лапки Live
 http://cdn.kubteltv.workers.dev/?ID=321
 #EXTINF:-1 group-title="Познавательные",Вопросы и ответы
@@ -452,7 +438,7 @@ http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
 #EXTINF:-1 group-title="Познавательные",TERRA
 http://185.78.112.47:8077/natgeo_hd/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Galaxy
-http://93.84.115.174:10181/galaxy
+https://s70378.cdn.ngenix.net/galaxy/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
@@ -467,18 +453,14 @@ http://185.78.112.47:8077/History-HD/index.m3u8
 https://s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC HD
 http://46.32.176.50/tlc/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",TLC HD
-http://91.221.252.12:82/tv45
 #EXTINF:-1 group-title="Познавательные",Animal Planet
-http://93.84.115.174:10181/animalplanethd
+http://37.186.70.39:40/play/113/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://185.78.112.47:8077/AnimalPlanetRussiaHD/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Animal Planet
-http://91.221.252.12:82/tv41
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://46.32.176.50/nationalgeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
-http://185.78.112.47:8077/natgeo_wild_hd/index.m3u8
+http://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://46.32.176.50/NatGeoWildHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="OceanTV.ru" tvg-name="ocean-tv" tvg-logo="https://i.imgur.com/zswzDZS.png" ,Океан ТВ
@@ -526,7 +508,7 @@ http://185.78.112.47:8077/DikayaRybalkaHD/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Рыбалка
 http://91.221.252.12:82/tv50
 #EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
-http://217.174.229.136:8000/play/a08w
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&amp
 #EXTINF:-1 group-title="Мужские",Prosto Fishing
 http://31.43.48.248:7000/ch344/video.m3u8
 #EXTINF:-1 group-title="Мужские",555 Hunt Fishing TV
@@ -644,7 +626,7 @@ http://46.32.176.50/sonyturbo/index.m3u8
 #EXTINF:-1 group-title="Кино",.black
 http://185.78.112.47:8077/black_hd/index.m3u8
 #EXTINF:-1 group-title="Кино",.sci-fi
-http://217.174.229.136:8000/play/a00q
+https://s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
 #EXTINF:-1 tvg-id="VHSka.ru" tvg-name="vhs-ка" tvg-logo="https://i.imgur.com/C2377w9.png" group-title="Кино",VHS-ка
 #
 #EXTINF:-1 group-title="Кино",Кинохит
@@ -749,7 +731,7 @@ http://46.32.176.50/nst/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
 http://185.78.112.47:8077/kinoujas/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
-http://91.221.252.12:82/tv81
+http://37.186.70.39:40/play/78/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
@@ -763,7 +745,7 @@ http://185.78.112.47:8077/moskva_doverie/index.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
-http://93.84.115.174:10181/retro
+http://37.186.70.39:40/play/46/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000
 http://139.28.255.188:8080/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000
@@ -829,8 +811,6 @@ http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://185.78.112.47:8077/nash_football_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
-http://91.221.252.12:82/tv114
-#EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Арена
 http://185.46.16.239:8000/Match_Arena
@@ -853,11 +833,11 @@ http://185.78.112.47:8077/football/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://185.78.112.47:8077/football1_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
-http://217.174.229.136:8000/play/a010
+http://37.186.70.39:40/play/81/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://185.78.112.47:8077/football2_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
-http://217.174.229.136:8000/play/a011
+http://37.186.70.39:40/play/82/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://185.57.68.14/110/mpegts
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
