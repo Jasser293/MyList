@@ -773,6 +773,8 @@ http://185.78.112.16:8077/start_air/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="STARTWorld.ru" tvg-logo="https://i.imgur.com/TXtY5eM.png",START World
 http://185.78.112.16:8077/start_world/index.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
+https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Кино",Дорама
 https://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
@@ -801,7 +803,7 @@ http://185.46.16.239:8000/Eurosport_1
 #EXTINF:-1 group-title="Спорт",Бокс ТВ
 http://46.32.176.50/bokstv/index.m3u8
 #EXTINF:-1 group-title="Спорт",Удар
-http://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
+https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
 #EXTINF:-1 group-title="Спорт",MMA-TV
 http://46.32.176.50/mmatv/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
