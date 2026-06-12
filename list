@@ -63,8 +63,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+9)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия РТР
-http://37.186.70.39:40/play/25/index.m3u8
 #EXTINF:-1 group-title="Федеральные",РОССИЯ 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 group-title="Федеральные",РОССИЯ 24
@@ -168,7 +166,7 @@ http://46.32.64.39:10013
 #EXTINF:-1 group-title="Развлекательные",СТС (+2)
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС love
-http://37.186.70.39:40/play/117/index.m3u8
+http://91.221.252.12:82/tv56
 #EXTINF:-1 group-title="Развлекательные",СТС love
 http://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС love
@@ -184,7 +182,7 @@ http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://46.32.176.50/domashniy/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
-http://37.186.70.39:40/play/42/index.m3u8
+http://91.221.252.12:82/tv9
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 group-title="Развлекательные",Домашний
@@ -290,8 +288,6 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Регионы" tvg-name="next tv (нефтекамск)" ,Next TV
 http://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Арсенал
-http://37.186.70.39:40/play/48/index.m3u8
-#EXTINF:-1 group-title="Мужские",Арсенал
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Оружие
 http://37.186.70.39:40/play/47/index.m3u8
@@ -319,6 +315,8 @@ http://46.32.176.50/avto24/index.m3u8
 http://46.32.176.50/avtoplyus/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
 http://stream8.cinerama.uz/1036/mono.m3u8
+#EXTINF:-1 group-title="Мужские",Авто плюс
+http://109.248.236.51/eurosport2/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Мужские",Драйв
 http://185.46.16.239:8000/Drayv
 #EXTINF:-1 group-title="Мужские",Драйв
@@ -781,9 +779,9 @@ http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://46.32.176.50/eurosport/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
-http://109.248.236.51/eurosport2/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://46.32.176.50/eurosport2/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
+http://37.186.70.39:40/play/112/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
@@ -810,6 +808,8 @@ http://46.32.176.50/mmatv/index.m3u8
 http://185.46.48.18/match/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
 http://94.230.250.141:8080/machtv/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч!
+http://91.221.252.12:82/tv109
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
@@ -835,11 +835,11 @@ http://hls127.freeott.top:8080/Football/video.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол
 http://hls127.freeott.top:8080/Football/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
-http://37.186.70.39:40/play/81/index.m3u8
+http://91.221.252.12:82/tv111
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://185.78.112.16:8077/football1_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
-http://37.186.70.39:40/play/82/index.m3u8
+http://91.221.252.12:82/tv112
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://185.78.112.16:8077/football2_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
