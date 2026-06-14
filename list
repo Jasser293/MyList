@@ -208,7 +208,7 @@ http://139.28.255.188:8080/yutv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю
 http://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=jStKtNZhgdkv4yHiXLrkrw&e=2076673069&scheme=http
 #EXTINF:-1 group-title="Развлекательные",Центральное телевидение
-#
+http://api.dommir.top/ch/ZTV/playlist.m3u8
 #EXTINF:-1 group-title="Регионы",Москва 24
 https://stream.smotrim.ru/hls/moscow_24/playlist_2.m3u8
 #EXTINF:-1 group-title="Регионы",Запад 24
@@ -746,6 +746,8 @@ http://109.248.236.51/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://79.137.213.47/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино",Москва доверие
 http://185.78.112.16:8077/moskva_doverie/index.m3u8
+#EXTINF:-1 group-title="Кино",Москва доверие
+https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
