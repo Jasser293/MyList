@@ -287,8 +287,6 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c
 http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Регионы" ,ТОЛК
 http://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Регионы" tvg-name="next tv (нефтекамск)" ,Next TV
-http://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Арсенал
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Оружие
