@@ -138,7 +138,7 @@ http://tinyurl.com/2m5pvkv5
 #EXTINF:-1 group-title="Развлекательные",Перец International
 http://109.248.236.51/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Перец International
-http://213.169.39.30:5261
+http://37.186.70.39:40/play/43/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://api.dommir.top/ch/KVN_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
@@ -773,9 +773,9 @@ http://46.32.176.50/eurosport2/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://37.186.70.39:40/play/112/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Беларусь 5
 http://194.158.222.36:6109
 #EXTINF:-1 group-title="Спорт",Trace Sport Stars
