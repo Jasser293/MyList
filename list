@@ -803,6 +803,8 @@ http://stream-tv.ew21.ru/003/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
+http://185.78.112.16:8077/nash_football_hd/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Арена
 http://91.204.123.202/163/index.m3u8
