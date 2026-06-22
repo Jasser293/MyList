@@ -509,6 +509,8 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыка",1HD
 http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1 group-title="Музыка",RU.TV
+http://46.32.176.50/rutv/index.m3u8
 #EXTINF:-1 group-title="Музыка",ТНТ Music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="MuzTV.ru" tvg-name="муз-тв" tvg-logo="https://i.imgur.com/BtqrHmz.png" ,Муз-ТВ
@@ -555,8 +557,12 @@ http://cdamix.streaming.ws/mixmusic/live/.m3u8
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="ImpactTVManele.ro" tvg-name="impact tv manele [ro]" tvg-logo="https://i.imgur.com/G5mNdpE.png" ,Impact TV Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
-#EXTINF:-1 group-title="Музыка",RU.TV
-http://46.32.176.50/rutv/index.m3u8
+#EXTINF:-1 tvg-id="PowerDance.tr" tvg-name="power dance [tr]" tvg-logo="https://i.imgur.com/QpPteBO.png" group-title="Музыка",Power Dance
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerLove.tr" tvg-name="power love [tr]" tvg-logo="https://i.imgur.com/0RzUswR.png" group-title="Музыка",Power Love
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="punjabi hits [in]" tvg-logo="https://i.imgur.com/i9xE87K.png" group-title="Музыка",Punjabi Hits
+http://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Кино",Сапфир
