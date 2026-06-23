@@ -732,7 +732,7 @@ http://31.222.235.15/mosfilm/index.m3u8
 http://109.248.236.51/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Советское кино
 http://79.137.213.47/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 group-title="Кино",Москва доверие
+#EXTINF:-1 group-title="Кино",Москва. Доверие
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
 http://176.118.197.101/Retro/index.m3u8
