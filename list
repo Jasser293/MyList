@@ -367,7 +367,7 @@ https://s70378.cdn.ngenix.net/jivi/2/index.m3u8
 http://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
 #EXTINF:-1 group-title="Досуг",World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
-#EXTINF:-1 group-title="Досуг",Food Time
+#EXTINF:-1 group-title="Досуг",FoodTime
 http://185.78.112.16:8077/eda_hd/index.m3u8
 #EXTINF:-1 group-title="Досуг",Еда HD
 #
