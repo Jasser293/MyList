@@ -367,8 +367,10 @@ https://s70378.cdn.ngenix.net/jivi/2/index.m3u8
 http://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
 #EXTINF:-1 group-title="Досуг",World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#EXTINF:-1 group-title="Досуг",Foodman.club
+http://stitch.teletarget.ru/vintera/joycook/index.m3u8
 #EXTINF:-1 group-title="Досуг",FoodTime
-http://185.78.112.16:8077/eda_hd/index.m3u8
+#
 #EXTINF:-1 group-title="Досуг",Еда HD
 #
 #EXTINF:-1 group-title="Досуг",Кухня
@@ -630,7 +632,7 @@ http://37.186.70.39:40/play/70/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://stream8.cinerama.uz/1055/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
-http://185.78.112.16:8077/kino_tv_hd/index.m3u8
+http://94.230.250.140/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://194.152.35.17/kino-tv/index.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
@@ -711,7 +713,7 @@ http://193.25.8.59:8000/vremya
 #EXTINF:-1 group-title="Кино",Русский роман
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
-http://185.78.112.16:8077/russki_roman_hd/index.m3u8
+http://91.204.123.202/266/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://37.186.70.39:40/play/119/index.m3u8
 #EXTINF:-1 group-title="Кино",Про любовь
@@ -757,7 +759,7 @@ http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино",START Air
 http://91.204.123.202/128/index.m3u8
 #EXTINF:-1 group-title="Кино",Start World HD
-http://185.78.112.16:8077/start_world/index.m3u8
+#http://185.78.112.16:8077/start_world/index.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
 https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
@@ -803,8 +805,6 @@ http://stream-tv.ew21.ru/003/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
-http://185.78.112.16:8077/nash_football_hd/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Арена
 http://91.204.123.202/163/index.m3u8
@@ -827,11 +827,11 @@ http://radio.tvs.by:8088/Setanta1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://37.186.70.39:40/play/81/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
-http://185.78.112.16:8077/football1_hd/index.m3u8
+#
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://37.186.70.39:40/play/82/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
-http://185.78.112.16:8077/football2_hd/index.m3u8
+#
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://37.186.70.39:40/play/92/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
