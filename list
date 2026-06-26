@@ -187,6 +187,8 @@ http://s70378.cdn.ngenix.net/tv_3/2/index.m3u8
 http://46.32.64.39:10015
 #EXTINF:-1 group-title="Развлекательные",ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 International
+http://dmi3y-tv.online/hls/T2/CH_TV3_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://46.32.176.50/domashniy/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
@@ -436,13 +438,13 @@ http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://37.186.70.39:40/play/118/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
-#http://46.32.176.50/discoverychannel/index.m3u8
+http://dmi3y-tv.online/hls/CH_DISCOVERY_CHANNEL.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 #
 #EXTINF:-1 group-title="Познавательные",History
-#
+http://dmi3y-tv.online/hls/CH_HISTORY.m3u8
 #EXTINF:-1 group-title="Познавательные",H2
-#
+http://dmi3y-tv.online/hls/CH_HISTORY_2.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure
 https://s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC HD
