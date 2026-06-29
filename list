@@ -284,7 +284,7 @@ http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
 #EXTINF:-1 group-title="Регионы",Ника ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Регионы",ТВ Луч
-https://luch.iptv2022.com/tracks-v1a1/mono.m3u8
+https://mow-3-fd.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8
 #EXTINF:-1 group-title="Регионы",ОТС
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="Регионы",Мегаполис ТВ
@@ -401,12 +401,16 @@ http://46.32.176.50/moyaplaneta/index.m3u8
 http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",RTG
 http://hls127.freeott.top:8080/RTG_TV/video.m3u8
+#EXTINF:-1 group-title="Познавательные",RTG
+https://s70378.cdn.ngenix.net/rtg_hd/3/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Кто есть кто
 http://46.32.176.50/ktoestkto/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Совершенно секретно
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
+#EXTINF:-1 group-title="Религия",Спас
+http://tvspas.mediacdn.ru/cdn/spas/index.m3u8
 #EXTINF:-1 group-title="Религия",Спас
 http://hls127.freeott.top:8080/Spas/mono.m3u8
 #EXTINF:-1 group-title="Религия",Союз
@@ -431,6 +435,8 @@ http://lifetv.bitflip.ee/live/stream1.m3u8
 http://river-3-316.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/xbTeO-2M62LQ5FQM51M2Pg/1782722804/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
 #EXTINF:-1 group-title="Познавательные",TERRA
 https://s70378.cdn.ngenix.net/terra/2/index.m3u8
+#EXTINF:-1 group-title="Познавательные",TERRA
+http://46.32.176.50/nationalgeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Galaxy
 https://s70378.cdn.ngenix.net/galaxy/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
