@@ -347,8 +347,6 @@ http://185.57.68.33/40/mpegts
 http://river-6-605.rtbcdn.ru/stream/genetta-417.ntv.rutube.ru/CGJPqtUPIWvOg7CTfUkZzg/1783412234/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 group-title="Досуг",Rutube
 http://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=NxJKGDd-y01zodLIr3ZDOw&e=2082717394&scheme=http
-#EXTINF:-1 group-title="Детям",Смайлик ТВ
-http://river-3-3103.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/7ZmfW3MeGPnWi1Il1fmHnQ/1783412292/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 group-title="Досуг",Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 group-title="Досуг",Доктор
@@ -840,6 +838,10 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="Детям",СТС Kids
 http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
+#EXTINF:-1 group-title="Детям",Смайлик ТВ
+http://river-3-3103.rtbcdn.ru/stream/genetta-323.m9.rutube.ru/7ZmfW3MeGPnWi1Il1fmHnQ/1783412292/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+#EXTINF:-1 group-title="Детям",Смайлик ТВ
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детям",Солнце
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 group-title="Детям",Мультимания
