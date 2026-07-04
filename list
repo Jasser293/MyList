@@ -123,6 +123,8 @@ http://tinyurl.com/5dw484zu
 http://85.25.46.88:8000/play/31/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ (+2)
+http://94.230.129.31:8080/THT/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
@@ -189,6 +191,8 @@ http://tinyurl.com/bd52kbpp
 http://194.152.35.17/Pyatnica/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница! (+2)
 http://94.230.128.107:8080/Friday/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница! (+2)
+http://94.230.129.31:8080/Friday/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница! (+4)
 http://94.230.250.140/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Суббота!
