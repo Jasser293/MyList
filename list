@@ -144,13 +144,13 @@ http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
 http://api.dommir.top/ch/Anekdot_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
-http://lime-pi2.tlgx.ru:8987/CH_TVOETV/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Твоё ТВ
 https://tvoetv.space/tvoetv/mpegts
-#EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
-http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Твоё ТВ
+#http://lime-pi2.tlgx.ru:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
 https://tvoetv.space/tvoetv_humor/video.m3u8
+#EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
+#http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
 http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
@@ -747,9 +747,9 @@ http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино 1 International
 http://5.9.44.106/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино",Pro100 TV
-http://85.192.10.173/Pro100tvRu/video.m3u8
+#http://85.192.10.173/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Кино",Kino 24
-http://85.192.10.173/Kino24Ru/video.m3u8
+#http://85.192.10.173/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кино",START Air
 #
 #EXTINF:-1 group-title="Кино",Start World HD
@@ -860,10 +860,6 @@ https://s70378.cdn.ngenix.net/tiji/2/index.m3u8
 http://46.32.176.50/detskiymir/index.m3u8
 #EXTINF:-1 group-title="Детям",Gulli Girl
 https://s70378.cdn.ngenix.net/gulli/2/index.m3u8
-#EXTINF:-1 group-title="Детям" tvg-id="Pingvin.ru" tvg-name="пингвин" ,Пингвин
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детям",Мамонтенок ТВ
-http://85.192.10.173/MamontRu/mono.m3u8
 #EXTINF:-1 group-title="Детям",Мультиландия
 http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
 #EXTINF:-1 group-title="Детям",Рыжий
