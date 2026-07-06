@@ -327,6 +327,8 @@ http://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
 http://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
 #EXTINF:-1 group-title="Новости",Соловьёв LIVE
 http://river-6-601.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/bnDy51o_B5-OBPaOyR51Bg/1783412179/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+#EXTINF:-1 group-title="Новости",Царьград ТВ
+http://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=http
 #EXTINF:-1 group-title="Новости",Крик ТВ
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 #EXTINF:-1 group-title="Новости",ОСН ТВ
