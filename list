@@ -148,9 +148,9 @@ http://lime-pi2.tlgx.ru:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
 https://tvoetv.space/tvoetv/mpegts
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
-https://tvoetv.space/tvoetv_humor/video.m3u8
+http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
-#http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
+https://tvoetv.space/tvoetv_humor/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
 http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
