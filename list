@@ -853,7 +853,7 @@ https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 #EXTINF:-1 group-title="Детям",Солнце
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 group-title="Детям",Мультимания
-http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
+#
 #EXTINF:-1 group-title="Детям",Супер Герои
 http://109.94.1.3:8080/132/index.m3u8
 #EXTINF:-1 group-title="Детям",Cartoon Classics
