@@ -136,9 +136,9 @@ http://109.248.236.51/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Перец International
 http://37.186.70.39:40/play/43/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
-http://api.dommir.top/ch/KVN_TV/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://radio.tvs.by:8080/KVN-TV/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ
+http://api.dommir.top/ch/KVN_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
@@ -228,7 +228,7 @@ http://194.158.222.36:6101
 #EXTINF:-1 group-title="Беларусь",Беларусь 24
 http://178.124.179.122:8080/Belarus24/index.m3u8
 #EXTINF:-1 group-title="Беларусь",БелРос
-#
+http://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 group-title="Беларусь"tvg-name="пинск тв" ,Пинск ТВ
 http://87.252.229.200:8083/pinsk
 #EXTINF:-1 group-title="Новости",Красная линия
