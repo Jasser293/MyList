@@ -521,6 +521,8 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="Музыка",RU.TV
 http://46.32.176.50/rutv/index.m3u8
+#EXTINF:-1 group-title="Музыка",О2ТВ
+http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыка",ТНТ Music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Музыка",Муз ТВ HD
