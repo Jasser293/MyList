@@ -142,11 +142,11 @@ http://37.186.70.39:40/play/43/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://radio.tvs.by:8080/KVN-TV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
-http://api.dommir.top/ch/KVN_TV/playlist.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="Развлекательные",Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
-http://api.dommir.top/ch/Anekdot_TV/playlist.m3u8
+#
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
 http://lime-pi2.tlgx.ru:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
@@ -212,7 +212,7 @@ http://139.28.255.188:8080/yutv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю
 http://tinyurl.com/mr2yha9m
 #EXTINF:-1 group-title="Развлекательные",Центральное телевидение
-http://api.dommir.top/ch/ZTV/playlist.m3u8
+#
 #EXTINF:-1 group-title="Регионы",Москва 24
 https://stream.smotrim.ru/hls/moscow_24/playlist_2.m3u8
 #EXTINF:-1 group-title="Регионы",Запад 24
