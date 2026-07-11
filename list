@@ -5,6 +5,10 @@ http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 http://46.32.176.50/perviy/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://tinyurl.com/44mbzfwu
+#EXTINF:-1 group-title="Федеральные",Первый канал
+http://176.118.130.21/tv-4f9598ab5f91dca4/video.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал Европа
+https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 group-title="Новости",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
@@ -454,11 +458,17 @@ http://37.186.70.39:40/play/113/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://46.32.176.50/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
-http://46.32.176.50/nationalgeographic/index.m3u8
+http://37.186.70.39:40/play/105/index.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://stream1.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic
+https://s70378.cdn.ngenix.net/national_geographic/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://46.32.176.50/NatGeoWildHD/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
+http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Океан ТВ
 https://s70378.cdn.ngenix.net/ocean_tv/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Океан ТВ
