@@ -219,6 +219,20 @@ https://stream.smotrim.ru/hls/moscow_24/playlist_2.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 group-title="Регионы",Крым 24
 http://iptv.crimea.net:8787
+#EXTINF:-1 group-title="Регионы",Волга (Н. Новгород)
+http://dmi3y-tv.online/hls/region/CH_VOLGA_NN.m3u8
+#EXTINF:-1 group-title="Регионы",12 канал (Омск)
+http://dmi3y-tv.online/hls/region/CH_12CHANNEL_OMSK.m3u8
+#EXTINF:-1 group-title="Регионы",Наш дом (Пенза)
+http://dmi3y-tv.online/hls/region/CH_NASHDOM_PENZA.m3u8
+#EXTINF:-1 group-title="Регионы",Ветта-24 (Пермь)
+http://dmi3y-tv.online/hls/region/CH_VETTA24_PERM.m3u8
+#EXTINF:-1 group-title="Регионы",Губерния (Самара)
+http://dmi3y-tv.online/hls/region/CH_GUBERNIA_SAMARA.m3u8
+#EXTINF:-1 group-title="Регионы",Санкт-Петербург
+http://dmi3y-tv.online/hls/smotrim/region/CH_SANKTPETERBURGHD_SPB.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Лен ТВ
+http://dmi3y-tv.online/hls/smotrim/region/CH_LENTV24HD_SPB.m3u8
 #EXTINF:-1 group-title="Новости",Tv Brics
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Беларусь",СТВ
