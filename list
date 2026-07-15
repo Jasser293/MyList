@@ -830,8 +830,6 @@ http://109.248.236.51/match/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://94.230.250.141/machtv/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
 http://45.132.87.69:8080/match/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч!
-http://46.32.176.50/MatchTVHD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
