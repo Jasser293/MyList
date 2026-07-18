@@ -797,13 +797,13 @@ http://46.32.176.50/eurosport2/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://stream.mcquack.net/192/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
-http://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports 1
 http://stream.mcquack.net/234/index.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports 2
-http://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1
+http://stream1.cinerama.uz/1263/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
 http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports 2
+http://stream1.cinerama.uz/1264/tracks-v1a2/mono.m3u8
 #EXTINF:-1,Sport 1 Baltic
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 group-title="Спорт",Беларусь 5
