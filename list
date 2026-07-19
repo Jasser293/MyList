@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="http://epg.vipl.one/lite.xml.gz"
 #EXTINF:-1 group-title="Федеральные",Первый канал
+http://api.dommir.top/ch/NTV_PERWI_HD_hi/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://46.32.176.50/perviy/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал
-http://tinyurl.com/44mbzfwu
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://176.118.130.21/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="Новости",ТАСС
@@ -14,9 +14,6 @@ http://139.28.255.188:8080/ntvhd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://tinyurl.com/36styaxk
 #EXTINF:-1 group-title="Федеральные",НТВ (+1)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/ntv1/mono.m3u8
@@ -122,7 +119,7 @@ http://194.152.35.17/tnt/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://139.28.255.188:8080/tht/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
-http://tinyurl.com/5dw484zu
+http://api.dommir.top/ch/TNT_SD/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://85.25.46.88:8000/play/31/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ (+2)
@@ -133,12 +130,12 @@ http://94.230.129.31:8080/THT/index.m3u8
 http://139.28.255.188:8080/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://46.32.176.50/tnt/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ4
-http://tinyurl.com/2m5pvkv5
 #EXTINF:-1 group-title="Развлекательные",Перец International
 http://109.248.236.51/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Перец International
 http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 group-title="Развлекательные",Перец International
+http://api.dommir.top/ch/Perets_RU/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://radio.tvs.by:8080/KVN-TV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
@@ -167,10 +164,10 @@ http://hls127.freeott.top:8080/CTC-LOVE/manifest.m3u8
 http://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС love
 http://fs.uplink.kz/sts_love/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Развлекательные",СТС love
+http://api.dommir.top/ch/STS_Love_RU/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://46.32.176.50/tv3/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТВ3
-http://tinyurl.com/3vek8aub
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://139.28.255.188:8080/tv3ru/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3
@@ -186,11 +183,13 @@ http://api.dommir.top/ch/Domashniy_RU_hi/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
+http://api.dommir.top/ch/Pyatniza_HD/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница!
+http://194.152.35.17/Pyatnica/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница!
 http://tinyurl.com/yc5mcpfb
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://tinyurl.com/bd52kbpp
-#EXTINF:-1 group-title="Развлекательные",Пятница!
-http://194.152.35.17/Pyatnica/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница! (+2)
 http://94.230.128.107:8080/Friday/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница! (+2)
@@ -198,19 +197,23 @@ http://94.230.129.31:8080/Friday/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница! (+4)
 http://94.230.250.140/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Суббота!
-http://tinyurl.com/3kdb4bhp
+http://46.32.176.50/subbota/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Суббота!
 http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Че
 http://139.28.255.188:8080/4e/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Че
+http://api.dommir.top/ch/CHE/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Че
 http://176.118.197.101/Che/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю
 http://139.28.255.188:8080/yutv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю
+http://api.dommir.top/ch/Yu_pl_0_RU/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ю
 http://tinyurl.com/mr2yha9m
 #EXTINF:-1 group-title="Развлекательные",Центральное телевидение
-#
+http://api.dommir.top/ch/ZTV/playlist.m3u8
 #EXTINF:-1 group-title="Регионы",Москва 24
 https://stream.smotrim.ru/hls/moscow_24/playlist_2.m3u8
 #EXTINF:-1 group-title="Регионы",Запад 24
@@ -309,6 +312,8 @@ http://45.11.139.43:8555/orujie/index.m3u8
 http://river-3-312.rtbcdn.ru/stream/genetta-402.ntv.rutube.ru/4gzhwoY2Gj22cbmvpakQ3A/1785053727/13b0320238d7938a2deffb4065068986/720p_stream.m3u8
 #EXTINF:-1 group-title="Мужские",Патриот
 #
+#EXTINF:-1 group-title="Мужские",Победа
+http://api.dommir.top/ch/POBEDA_HD/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://109.248.236.51/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Телекафе
@@ -359,6 +364,8 @@ http://hls127.freeott.top:8080/Bober/mono.m3u8
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 group-title="Досуг",Загородный Int
 http://river-6-605.rtbcdn.ru/stream/genetta-417.ntv.rutube.ru/X2ZzVIDlHWPIBxv4K8I-Cw/1785053815/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+#EXTINF:-1 group-title="Досуг",Rutube
+http://river-3-349.rtbcdn.ru/stream/genetta-324.m9.rutube.ru/Q0YR2I6UzvJfoJ8oX3FZAQ/1785095603/9ae8e8a6dc58bdad66190475f9872ecd/720p_stream.m3u8
 #EXTINF:-1 group-title="Досуг",Rutube
 http://tinyurl.com/2d84c2e3
 #EXTINF:-1 group-title="Досуг",Доктор
@@ -824,6 +831,8 @@ http://46.32.176.50/bokstv/index.m3u8
 https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
 #EXTINF:-1 group-title="Спорт",MMA-TV
 http://46.32.176.50/mmatv/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч!
+http://109.248.236.51/match/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Спорт",Матч!
 http://tinyurl.com/3njtcw3c
 #EXTINF:-1 group-title="Спорт",Матч!
