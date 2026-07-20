@@ -185,6 +185,8 @@ http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://api.dommir.top/ch/Pyatniza_HD/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
+http://river-m9-mskix-d3113.rutube.ru/stream/genetta-407.ntv.rutube.ru/14KfBR66r-mcGqZ_1TdQUA/1785139170/9f87a9a0cecbe773be6fddcbd93585ac/720p_stream.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница!
 http://194.152.35.17/Pyatnica/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://tinyurl.com/yc5mcpfb
@@ -831,6 +833,8 @@ http://46.32.176.50/bokstv/index.m3u8
 https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
 #EXTINF:-1 group-title="Спорт",MMA-TV
 http://46.32.176.50/mmatv/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч!
+http://river-m9-mskix-d3100.rutube.ru/stream/genetta-302.m9.rutube.ru/3sFfDcBepfQ2xvN3BePaCg/1785139081/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
 http://109.248.236.51/match/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Спорт",Матч!
