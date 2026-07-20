@@ -75,6 +75,8 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://139.28.255.188:8080/rentv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
+http://api.dommir.top/ch/Ren_TV_HD_RU_hi/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://46.32.176.50/rentv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://85.25.46.88:8000/play/26/index.m3u8
@@ -84,6 +86,8 @@ http://194.152.35.17/ren_tv/index.m3u8
 http://s70378.cdn.ngenix.net/ren_tv/2/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
 http://139.28.255.188:8080/tvcentr/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ Центр
+http://api.dommir.top/ch/tvc/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
 http://46.32.176.50/tvc/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
@@ -96,6 +100,8 @@ http://85.192.43.85/vintera/tvcsd/index.m3u8
 http://dmi3y-tv.online/hls/T2/CH_TVC_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://139.28.255.188:8080/5tv/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятый канал
+http://api.dommir.top/ch/5_Kanal_RU/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://85.25.46.88:8000/play/19190/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -488,6 +494,8 @@ http://hls127.freeott.top:8080/Ocean_TV/mono.m3u8
 http://46.32.176.50/istoriya/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка РФ
 http://stream8.cinerama.uz/1222/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Поехали!
+http://api.dommir.top/ch/poehali/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая планета
 http://46.32.176.50/jivayaplaneta/index.m3u8
 #EXTINF:-1 group-title="Познавательные",В мире животных
