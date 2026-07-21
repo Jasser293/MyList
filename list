@@ -96,6 +96,8 @@ http://185.71.81.6:8080/10/index.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
 http://85.192.43.85/vintera/tvcsd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ Центр
+#http://85.25.46.88:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВЦ International
 http://dmi3y-tv.online/hls/T2/CH_TVC_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -190,8 +192,6 @@ http://api.dommir.top/ch/Domashniy_RU_hi/playlist.m3u8
 http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://api.dommir.top/ch/Pyatniza_HD/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",Пятница!
-http://river-m9-mskix-d3113.rutube.ru/stream/genetta-407.ntv.rutube.ru/14KfBR66r-mcGqZ_1TdQUA/1785139170/9f87a9a0cecbe773be6fddcbd93585ac/720p_stream.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://194.152.35.17/Pyatnica/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
@@ -507,11 +507,11 @@ http://stream8.cinerama.uz/1417/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Наука
 http://hls127.freeott.top:8080/NAUKA/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat History
-http://139.28.255.188:8080/ViasatHistory/tracks-v1a1/mono.m3u8
+http://139.28.255.188:8080/ViasatHistory/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature
-http://139.28.255.188:8080/ViasatNature/tracks-v1a1/mono.m3u8
+http://139.28.255.188:8080/ViasatNature/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
-http://139.28.255.188:8080/ViasatExplorer/tracks-v1a1/mono.m3u8
+http://139.28.255.188:8080/ViasatExplorer/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Наша Тема
 http://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8
 #EXTINF:-1 group-title="Мужские",Охота и рыбалка
