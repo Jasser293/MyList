@@ -311,11 +311,11 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Арсенал
 http://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Оружие
-http://109.248.236.51/oruzhie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Мужские",Оружие
 http://194.158.222.36:6093
 #EXTINF:-1 group-title="Мужские",Оружие
 http://45.11.139.43:8555/orujie/index.m3u8
+#EXTINF:-1 group-title="Мужские",Оружие
+http://fs.uplink.kz/oruzhie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Мужские",Ратник
 http://river-3-312.rtbcdn.ru/stream/genetta-402.ntv.rutube.ru/4gzhwoY2Gj22cbmvpakQ3A/1785053727/13b0320238d7938a2deffb4065068986/720p_stream.m3u8
 #EXTINF:-1 group-title="Мужские",Патриот
@@ -339,13 +339,13 @@ http://stream8.cinerama.uz/1036/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
 http://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
-http://193.25.8.59:8000/drive
+http://185.46.16.239:8000/Drayv
 #EXTINF:-1 group-title="Мужские",Мото Драйв
 http://85.192.43.85/vintera/motodrive/index.m3u8
 #EXTINF:-1 group-title="Мужские",Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Мужские",Мужской
-http://193.25.8.59:8000/muzhskoy
+http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 group-title="Новости",RT Doc
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 group-title="Новости",RT Doc
@@ -723,9 +723,9 @@ http://fs.uplink.kz/rodnoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Русский бестселлер
 http://139.28.255.188:8080/bestseller/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский иллюзион
-http://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Кино",Русский иллюзион
 http://158.101.222.193:88/georgia_play.php?id=rusilluzion
+#EXTINF:-1 group-title="Кино",Русский иллюзион
+http://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Русский детектив
 http://46.32.176.50/russkiydetektiv/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский детектив
@@ -748,7 +748,7 @@ http://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Смотрим 100% Факты
 http://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Время
-http://193.25.8.59:8000/vremya
+http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
@@ -868,15 +868,13 @@ http://185.37.150.38/test/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Игра
 http://46.32.176.50/matchiqra/index.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол
-http://hls127.freeott.top:8080/Football/video.m3u8
-#EXTINF:-1 group-title="Спорт",Футбол
 http://radio.tvs.by:8088/Setanta1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 #
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 #
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
-http://193.25.8.59:8000/fut3
+http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://176.100.46.245:90/matchfootball3/index.m3u8
 #EXTINF:-1 group-title="Спорт",KHL
