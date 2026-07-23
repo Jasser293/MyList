@@ -139,7 +139,7 @@ http://139.28.255.188:8080/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://46.32.176.50/tnt/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Перец International
-http://109.248.236.51/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Перец International
 http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="Развлекательные",Перец International
@@ -323,7 +323,7 @@ http://river-3-312.rtbcdn.ru/stream/genetta-402.ntv.rutube.ru/4gzhwoY2Gj22cbmvpa
 #EXTINF:-1 group-title="Мужские",Победа
 http://api.dommir.top/ch/POBEDA_HD/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
-http://109.248.236.51/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://46.32.176.50/telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
@@ -463,7 +463,7 @@ https://s70378.cdn.ngenix.net/galaxy/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
-http://dmi3y-tv.online/hls/CH_DISCOVERY_CHANNEL.m3u8
+#http://dmi3y-tv.online/hls/CH_DISCOVERY_CHANNEL.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 #
 #EXTINF:-1 group-title="Познавательные",History
@@ -609,7 +609,7 @@ http://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=v_T
 #EXTINF:-1 group-title="Развлекательные",2x2
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино премиум
-http://109.248.236.51/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум
 http://46.32.176.50/DomKinoPremiumHD/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом Кино
@@ -766,7 +766,7 @@ http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм
 http://31.222.235.15/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм
-http://109.248.236.51/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Советское кино
 http://79.137.213.47/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино",Классика Кино
@@ -788,7 +788,7 @@ http://139.28.255.188:8080/tv1000ruskino/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Action
 http://139.28.255.188:8080/tv1000action/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Action
-http://109.248.236.51/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Кино 1 International
 http://5.9.44.106/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино",Pro100 TV
@@ -842,7 +842,7 @@ https://s70378.cdn.ngenix.net/ufc/2/index.m3u8
 #EXTINF:-1 group-title="Спорт",MMA-TV
 http://46.32.176.50/mmatv/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
-http://109.248.236.51/match/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/match/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Спорт",Матч!
 http://tinyurl.com/3njtcw3c
 #EXTINF:-1 group-title="Спорт",Матч!
