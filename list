@@ -885,6 +885,8 @@ http://213.108.175.226/astrakhanrusporthd/playlist.m3u8
 http://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 #EXTINF:-1 group-title="Спорт",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Спорт",Rally TV
+http://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 #EXTINF:-1 group-title="Спорт",CANAL MOTOR
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="Детям",СТС Kids
