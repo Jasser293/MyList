@@ -393,7 +393,7 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 group-title="Досуг",Foodman.club
 http://stitch.teletarget.ru/vintera/joycook/index.m3u8
 #EXTINF:-1 group-title="Досуг",FoodTime
-#
+http://stream.mcquack.net/216/index.m3u8
 #EXTINF:-1 group-title="Досуг",Еда HD
 #
 #EXTINF:-1 group-title="Досуг",Кухня
