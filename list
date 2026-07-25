@@ -527,9 +527,9 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
-#
+http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Рыбалка
-#
+http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
 http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&amp
 #EXTINF:-1 group-title="Мужские",Prosto Fishing
@@ -853,6 +853,8 @@ http://45.132.87.69:8080/match/index.m3u8
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
+http://stream.mcquack.net/193/index.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Арена
 http://46.32.176.50/MatchArenaHD/index.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Арена
