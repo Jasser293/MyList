@@ -465,7 +465,7 @@ http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://dmi3y-tv.online/hls/CH_DISCOVERY_CHANNEL.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
-#
+http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Познавательные",History
 http://dmi3y-tv.online/hls/CH_HISTORY.m3u8
 #EXTINF:-1 group-title="Познавательные",H2
