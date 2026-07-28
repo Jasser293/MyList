@@ -301,7 +301,7 @@ http://fs.uplink.kz/oruzhie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Мужские",Ратник
 http://river-3-312.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/DeotWBpNPLyQyJiJB3RpFA/1785761906/13b0320238d7938a2deffb4065068986/1080p_stream.m3u8
 #EXTINF:-1 group-title="Мужские",Патриот
-#
+http://starcius-cinema.com/10244/index.m3u8
 #EXTINF:-1 group-title="Мужские",Победа
 http://api.dommir.top/ch/POBEDA_HD/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
