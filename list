@@ -177,6 +177,8 @@ http://194.152.35.17/tv-3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://s70378.cdn.ngenix.net/tv_3/2/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3 (+2)
+http://94.230.129.31:8080/TB3/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТВ3 (+2)
 http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3 International
 http://dmi3y-tv.online/hls/T2/CH_TV3_INTERNATIONAL.m3u8
@@ -184,6 +186,8 @@ http://dmi3y-tv.online/hls/T2/CH_TV3_INTERNATIONAL.m3u8
 http://api.dommir.top/ch/Domashniy_RU_hi/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
+#EXTINF:-1 group-title="Развлекательные",Домашний (+2)
+http://94.230.129.31:8080/Domashnii/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://api.dommir.top/ch/Pyatniza_HD/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
