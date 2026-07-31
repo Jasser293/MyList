@@ -137,13 +137,11 @@ http://194.152.35.17/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Перец International
 http://fs.uplink.kz/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Перец International
-http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:-1 group-title="Развлекательные",Перец International
 http://api.dommir.top/ch/Perets_RU/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://radio.tvs.by:8080/KVN-TV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
-http://158.101.222.193:88/georgia_play.php?id=kvntv
+http://api.dommir.top/ch/KVN_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
@@ -332,8 +330,6 @@ http://185.46.16.239:8000/Drayv
 http://85.192.43.85/vintera/motodrive/index.m3u8
 #EXTINF:-1 group-title="Мужские",Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
-#EXTINF:-1 group-title="Мужские",Мужской
-http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 group-title="Новости",RT Doc
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 group-title="Новости",RT Doc
@@ -374,7 +370,7 @@ https://s70378.cdn.ngenix.net/jivi/2/index.m3u8
 http://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
 #EXTINF:-1 group-title="Досуг",World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
-#EXTINF:-1 group-title="Досуг",Foodman.club
+#EXTINF:-1 group-title="Досуг",Foodman club
 http://stitch.teletarget.ru/vintera/joycook/index.m3u8
 #EXTINF:-1 group-title="Досуг",FoodTime
 http://stream.mcquack.net/216/index.m3u8
@@ -397,7 +393,7 @@ http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Univer TV
 http://cdn.universmotri.ru/live/lq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Кто есть кто
-http://158.101.222.193:88/georgia_play.php?id=ktoestkto
+#
 #EXTINF:-1 group-title="Познавательные",Точка Отрыва
 http://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
 #EXTINF:-1 group-title="Познавательные",МОЯ ПЛАНЕТА
@@ -609,25 +605,23 @@ http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
-http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+http://stream1.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",A1
-http://158.101.222.193:88/georgia_play.php?id=amedia
+http://s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
 #EXTINF:-1 group-title="Кино",A1
 http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
 #EXTINF:-1 group-title="Кино",А2
 http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
 #EXTINF:-1 group-title="Кино",А2
-http://158.101.222.193:88/georgia_play.php?id=amedia2
+http://s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
 #EXTINF:-1 group-title="Кино",А2
 http://dmi3y-tv.online/hls/CH_AMEDIAII.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
 http://194.152.35.17/amedia-hit/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
-http://158.101.222.193:88/georgia_play.php?id=amediahit
+http://s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Premium
 http://139.28.255.188:8080/Amedia/index.m3u8
-#EXTINF:-1 group-title="Кино",.black
-http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:-1 group-title="Кино",.black
 https://s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
 #EXTINF:-1 group-title="Кино",Sony Sci-Fi
@@ -636,6 +630,8 @@ https://s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://stream8.cinerama.uz/1055/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит
+http://fs.uplink.kz/kinohit/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://94.230.250.140/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
@@ -645,7 +641,7 @@ http://139.28.255.188:8080/kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
 http://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
+http://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Мир сериала
 https://s70378.cdn.ngenix.net/mir_seriala/2/index.m3u8
 #EXTINF:-1 group-title="Кино",Cinema
@@ -663,11 +659,9 @@ http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 ,Индия
 http://s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
 #EXTINF:-1 ,Индия
-http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF:-1 ,Индия
 http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
-http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+http://fs.uplink.kz/kinokomedia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",ViP Comedy HD
 http://s70378.cdn.ngenix.net/vip_comedy/1/index.m3u8
 #EXTINF:-1 group-title="Кино",ViP Comedy HD
@@ -689,7 +683,7 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 #EXTINF:-1 group-title="Кино",Любимое кино
 http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 #EXTINF:-1 group-title="Кино",Мужское кино HD
-http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+http://fs.uplink.kz/muzhskoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Мужское кино HD
 http://stream1.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Родное кино
@@ -698,8 +692,6 @@ http://stream1.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 http://fs.uplink.kz/rodnoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Русский бестселлер
 http://139.28.255.188:8080/bestseller/index.m3u8
-#EXTINF:-1 group-title="Кино",Русский иллюзион
-http://158.101.222.193:88/georgia_play.php?id=rusilluzion
 #EXTINF:-1 group-title="Кино",Русский иллюзион
 http://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Русский детектив
@@ -734,7 +726,7 @@ http://hls127.freeott.top:8080/HCTV/mono.m3u8
 #EXTINF:-1 group-title="Кино",Настоящее страшное ТВ
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#
 #EXTINF:-1 group-title="Кино",Видеокассета
 http://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм
@@ -801,8 +793,6 @@ http://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 http://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="Спорт",H&C
 http://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="Спорт",Бокс ТВ
-http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Спорт",Бокс ТВ
 https://s70378.cdn.ngenix.net/boks_tv/2/index.m3u8
 #EXTINF:-1 group-title="Спорт",Удар
