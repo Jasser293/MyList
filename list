@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://epg.vipl.one/lite.xml.gz"
 #EXTINF:-1 group-title="Федеральные",Первый канал
-http://api.dommir.top/ch/NTV_PERWI_HD_hi/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://85.25.46.88:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://176.118.130.21/tv-4f9598ab5f91dca4/video.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый канал
+http://api.dommir.top/ch/NTV_PERWI_HD_hi/playlist.m3u8
 #EXTINF:-1 group-title="Новости",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
