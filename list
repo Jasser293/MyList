@@ -904,7 +904,9 @@ http://176.100.46.245:90/matchfootball3/index.m3u8
 #EXTINF:-1 group-title="Спорт",KHL
 http://stream1.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",KHL
-http://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
+https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
+#EXTINF:-1 group-title="Спорт",KHL Prime
+https://fs.uplink.kz/khl_prime/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Спорт",Астрахань Спорт
 http://213.108.175.226/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Tennis Channel
