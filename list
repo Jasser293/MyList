@@ -163,6 +163,8 @@ http://176.118.197.101/CTC/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС love
 http://hls127.freeott.top:8080/CTC-LOVE/manifest.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС love
+http://185.18.207.170/STS_Love/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС love
 http://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС love
 http://fs.uplink.kz/sts_love/tracks-v1a1/mono.ts.m3u8?token=onlinetv
@@ -181,7 +183,11 @@ http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3 International
 http://dmi3y-tv.online/hls/T2/CH_TV3_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
+http://89.33.29.118/Domashniy/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Домашний
 http://api.dommir.top/ch/Domashniy_RU_hi/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Домашний
+http://89.33.28.74/Domashniy/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний (+2)
@@ -214,6 +220,8 @@ http://176.118.197.101/Che/index.m3u8
 http://139.28.255.188:8080/yutv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю
 http://api.dommir.top/ch/Yu_pl_0_RU/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ю
+http://89.33.29.118/UTV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю
 http://tinyurl.com/mr2yha9m
 #EXTINF:-1 group-title="Развлекательные",Центральное телевидение
@@ -248,6 +256,10 @@ http://edge59.dc.beltelecom.by/ctv/_definst_/ctv.stream/playlist.m3u8
 http://194.158.222.36:6102
 #EXTINF:-1 group-title="Беларусь",Беларусь 1
 http://194.158.222.36:6101
+#EXTINF:-1 group-title="Беларусь",Беларусь 1
+http://185.18.207.170/Belarus_1/index.m3u8
+#EXTINF:-1 group-title="Беларусь",Беларусь 24
+http://185.18.207.170/Belarus_24/index.m3u8
 #EXTINF:-1 group-title="Беларусь",Беларусь 24
 http://178.124.179.122:8080/Belarus24/index.m3u8
 #EXTINF:-1 group-title="Беларусь",БелРос
@@ -318,8 +330,14 @@ http://river-3-367.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/fZF5MTgfY2_AlTTExR
 http://starcius-cinema.com/10244/index.m3u8
 #EXTINF:-1 group-title="Мужские",Победа
 http://api.dommir.top/ch/POBEDA_HD/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Победа
+http://89.33.29.118/Pobeda/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Телекафе
+http://89.33.29.118/Telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://fs.uplink.kz/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Развлекательные",Сарафан
+http://89.33.29.115:8080/Sarafan/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
 http://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Сарафан
@@ -358,6 +376,8 @@ http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 group-title="Досуг",Усадьба
 http://139.28.255.188:8080/usadba/index.m3u8
+#EXTINF:-1 group-title="Досуг",Усадьба
+http://89.33.29.115:8080/Usadba/index.m3u8
 #EXTINF:-1 group-title="Досуг",Усадьба
 http://stream8.cinerama.uz/1427/index.m3u8
 #EXTINF:-1 group-title="Досуг",Усадьба
@@ -470,6 +490,8 @@ http://dmi3y-tv.online/hls/CH_DISCOVERY_CHANNEL.m3u8
 http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Познавательные",History
 http://dmi3y-tv.online/hls/CH_HISTORY.m3u8
+#EXTINF:-1 group-title="Познавательные",History
+http://89.33.29.118/History_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",H2
 http://dmi3y-tv.online/hls/CH_HISTORY_2.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure
@@ -683,15 +705,23 @@ https://s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
+http://89.33.29.118/Kinohit/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит
 http://stream8.cinerama.uz/1055/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://stream1.cinerama.uz/1055/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://fs.uplink.kz/kinohit/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Кино ТВ
+http://185.18.207.170:8080/Kino_TV_HD/index.m3u8
+#EXTINF:-1 group-title="Кино",Кино ТВ
 http://94.230.250.140/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://194.152.35.17/kino-tv/index.m3u8
+#EXTINF:-1 group-title="Кино",Блокбастер
+http://81.218.219.220/blokbaster_hd/index.m3u8
+#EXTINF:-1 group-title="Кино",Блокбастер
+http://185.18.207.170:8080/blokbaster_hd/index.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
 http://139.28.255.188:8080/kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
@@ -783,6 +813,8 @@ http://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 http://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Время
 http://45.11.139.43:8555/vremya/index.m3u8
+#EXTINF:-1 group-title="Кино",Время
+http://89.33.29.118/Vremya/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
