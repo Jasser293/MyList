@@ -391,7 +391,7 @@ http://stream1.cinerama.uz/1427/index.m3u8
 #EXTINF:-1 group-title="Досуг",Бобёр
 http://hls127.freeott.top:8080/Bober/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Бобёр
-http://smotrim.org/000001478.m3u8
+http://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 group-title="Досуг",Загородная жизнь
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 group-title="Досуг",Загородный Int
@@ -420,8 +420,6 @@ http://stitch.teletarget.ru/vintera/joycook/index.m3u8
 http://89.33.29.115:8080/Eda/index.m3u8
 #EXTINF:-1 group-title="Досуг",FoodTime
 http://stream.mcquack.net/216/index.m3u8
-#EXTINF:-1 group-title="Досуг",Еда HD
-http://smotrim.org/000000588.m3u8
 #EXTINF:-1 group-title="Досуг",Кухня
 http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
 #EXTINF:-1 group-title="Досуг",Кухня
@@ -923,14 +921,10 @@ http://stream.mcquack.net/192/index.m3u8
 http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
 http://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports 1
-http://smotrim.org/000004498.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
 http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
 http://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports 2
-http://smotrim.org/000004499.m3u8
 #EXTINF:-1,Sport 1 Baltic
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 group-title="Спорт",Беларусь 5
