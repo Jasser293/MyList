@@ -4,7 +4,7 @@ http://api.dommir.top/ch/NTV_PERWI_HD_hi/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Федеральные",Первый канал
-http://85.25.46.88:8000/play/1/index.m3u8
+http://river-6-606.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/YTTk6smAE5YEXMrQkpOc1Q/1786443298/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://176.118.130.21/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="Новости",ТАСС
@@ -75,8 +75,6 @@ http://139.28.255.188:8080/rentv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://api.dommir.top/ch/Ren_TV_HD_RU_hi/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
-http://85.25.46.88:8000/play/26/index.m3u8
-#EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://194.152.35.17/ren_tv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ International
 http://s70378.cdn.ngenix.net/ren_tv/2/index.m3u8
@@ -90,8 +88,6 @@ http://185.71.81.6:8080/10/index.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
 http://85.192.43.85/vintera/tvcsd/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ Центр
-#http://85.25.46.88:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВЦ International
 http://dmi3y-tv.online/hls/T2/CH_TVC_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -101,7 +97,7 @@ http://api.dommir.top/ch/5_Kanal_RU/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://river-6-605.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/iAkF9BP86DX02feTKZKPEQ/1786435623/ac99df0130b4620480528efc6aa22ad6/1080p_stream.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
-http://85.25.46.88:8000/play/19190/index.m3u8
+http://185.18.207.170:8080/5_kanal/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://95.47.155.244:8001/play/a005
 #EXTINF:-1 group-title="Федеральные",5 Канал International
@@ -112,8 +108,6 @@ http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Федеральные",Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
-#EXTINF:-1 group-title="Федеральные",ОТР
-http://85.25.46.88:8000/play/29/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ОТР
 http://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1 group-title="Новости",Мир 24
@@ -127,7 +121,7 @@ http://139.28.255.188:8080/tht/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://api.dommir.top/ch/TNT_SD/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
-http://85.25.46.88:8000/play/31/index.m3u8
+http://81.218.219.220:8080/TNT/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ (+2)
 http://94.230.128.107:8080/THT/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ (+2)
@@ -829,8 +823,6 @@ http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Москва. Доверие
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
-#EXTINF:-1 group-title="Кино",Москва. Доверие
-http://85.25.46.88:8000/play/30/index.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000
