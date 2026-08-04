@@ -837,14 +837,6 @@ http://139.28.255.188:8080/tv1000action/index.m3u8
 http://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Кино 1 International
 http://5.9.44.106/content/38617/index.m3u8
-#EXTINF:-1 group-title="Кино",Pro100 TV
-#http://85.192.10.173/Pro100tvRu/video.m3u8
-#EXTINF:-1 group-title="Кино",Kino 24
-#http://85.192.10.173/Kino24Ru/video.m3u8
-#EXTINF:-1 group-title="Кино",START Air
-#
-#EXTINF:-1 group-title="Кино",Start World HD
-#
 #EXTINF:-1 group-title="Кино",Дорама
 https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
@@ -879,6 +871,8 @@ http://194.158.222.36:6109
 http://stream1.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Extreme Sports
 http://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
+#EXTINF:-1 group-title="Спорт",Extreme Sports
+http://81.218.219.220/Extreme_Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",H&C
 http://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Спорт",Бокс ТВ
