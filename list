@@ -123,9 +123,9 @@ http://api.dommir.top/ch/TNT_SD/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://81.218.219.220:8080/TNT/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ (+2)
-http://94.230.128.107:8080/THT/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ (+2)
-http://94.230.129.31:8080/THT/index.m3u8
+http://176.118.197.101/THT/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ (+4)
+http://95.47.155.244:8001/play/a019
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
@@ -176,10 +176,6 @@ http://139.28.255.188:8080/tv3ru/index.m3u8
 http://194.152.35.17/tv-3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://s70378.cdn.ngenix.net/tv_3/2/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТВ3 (+2)
-http://94.230.129.31:8080/TB3/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТВ3 (+2)
-http://94.230.128.107:8080/TB3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3 International
 http://dmi3y-tv.online/hls/T2/CH_TV3_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
@@ -190,8 +186,8 @@ http://api.dommir.top/ch/Domashniy_RU_hi/playlist.m3u8
 http://89.33.28.74/Domashniy/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
-#EXTINF:-1 group-title="Развлекательные",Домашний (+2)
-http://94.230.129.31:8080/Domashnii/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Домашний (+4)
+http://95.47.155.244:8001/play/a014
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://api.dommir.top/ch/Pyatniza_HD/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
@@ -200,10 +196,6 @@ http://194.152.35.17/Pyatnica/index.m3u8
 http://tinyurl.com/yc5mcpfb
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://tinyurl.com/bd52kbpp
-#EXTINF:-1 group-title="Развлекательные",Пятница! (+2)
-http://94.230.128.107:8080/Friday/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Пятница! (+2)
-http://94.230.129.31:8080/Friday/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница! (+4)
 http://94.230.250.140/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Суббота!
@@ -514,8 +506,6 @@ http://hls127.freeott.top:8080/Istoriya/mono.m3u8
 http://stream1.cinerama.uz/1222/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Поехали!
 http://fs.uplink.kz/poehali/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Познавательные",Поехали!
-http://api.dommir.top/ch/poehali/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая планета
 http://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",В мире животных
