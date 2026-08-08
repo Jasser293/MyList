@@ -4,7 +4,7 @@ http://api.dommir.top/ch/NTV_PERWI_HD_hi/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://81.211.33.84/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Федеральные",Первый канал
-http://river-6-606.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/YTTk6smAE5YEXMrQkpOc1Q/1786443298/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://river-6-601.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/HJ8uD-1bfBmEXKUhd9V4YQ/1786803128/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://176.118.130.21/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="Новости",ТАСС
@@ -182,6 +182,8 @@ http://89.33.29.118/Domashniy/index.m3u8
 http://api.dommir.top/ch/Domashniy_RU_hi/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
+#EXTINF:-1 group-title="Развлекательные",Домашний
+http://89.33.29.115:8080/Domashniy/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний (+4)
 http://95.47.155.244:8001/play/a014
 #EXTINF:-1 group-title="Развлекательные",Пятница!
@@ -437,13 +439,15 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Религия",Life TV
 http://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 group-title="Развлекательные",Жар Птица
-#
+http://river-3-354.rtbcdn.ru/stream/genetta-402.ntv.rutube.ru/LEkHMlxhoczwTX4mdigJ8Q/1786803082/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
 #EXTINF:-1 group-title="Познавательные",TERRA
 http://s70378.cdn.ngenix.net/terra/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Galaxy
 http://s70378.cdn.ngenix.net/galaxy/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
+http://89.33.29.115:8080/Discovery_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
@@ -667,7 +671,7 @@ http://94.230.250.140/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://194.152.35.17/kino-tv/index.m3u8
 #EXTINF:-1 group-title="Кино",Блокбастер
-#
+http://89.33.29.118/blokbaster_hd/index.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
 http://139.28.255.188:8080/kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
