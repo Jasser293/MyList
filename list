@@ -293,7 +293,9 @@ http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
 #EXTINF:-1 group-title="Регионы",Ника ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Регионы",ОТС
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
+http://river-3-399.rtbcdn.ru/stream/genetta-305.m9.rutube.ru/LYeT9dcG4Q-OsF8L8SFBkQ/1786549819/39c5bfe012402990e6402eded8bdc761/1080p_stream.m3u8
+#EXTINF:-1 group-title="Регионы",ОТС
+#http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ap1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="Регионы",Мегаполис ТВ
 http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Регионы" ,ТОЛК
@@ -613,13 +615,11 @@ http://s70378.cdn.ngenix.net/dom_kino_premium_hd/4/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом Кино
 http://139.28.255.252:8080/domkino/index.m3u8
 #EXTINF:-1 group-title="Кино",КИНЕКО
-#
+http://178.134.1.158:8081/kineko/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://139.28.255.188:8080/eurokin/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://s70378.cdn.ngenix.net/evrokino/2/index.m3u8
-#EXTINF:-1 group-title="Кино",Техно 24
-http://45.153.24.78/T-24/index.m3u8
 #EXTINF:-1 group-title="Кино",Техно 24
 http://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Техно 24
