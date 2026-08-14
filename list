@@ -409,7 +409,7 @@ http://stream1.cinerama.uz/1236/index.m3u8
 #EXTINF:-1 group-title="Досуг",Первый Вегетарианский
 #
 #EXTINF:-1 group-title="Досуг",Лапки Live
-#
+http://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Познавательные",Вопросы и ответы
 http://stream1.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Univer TV
