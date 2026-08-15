@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.vipl.one/lite.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE,http://epg.vipl.one/lite.xml.gz"
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://api.dommir.top/ch/NTV_PERWI_HD_hi/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
