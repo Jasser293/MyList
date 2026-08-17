@@ -183,7 +183,7 @@ http://s70378.cdn.ngenix.net/tv_3/2/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3 International
 http://dmi3y-tv.online/hls/T2/CH_TV3_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
-http://89.33.29.118/Domashniy/index.m3u8
+http://89.33.29.115:8080/Domashniy/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://api.dommir.top/ch/Domashniy_RU_hi/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
@@ -217,7 +217,7 @@ http://139.28.255.188:8080/yutv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю
 http://api.dommir.top/ch/Yu_pl_0_RU/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю
-http://89.33.29.118/UTV/index.m3u8
+http://89.33.29.115:8080/UTV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю
 http://tinyurl.com/mr2yha9m
 #EXTINF:-1 group-title="Развлекательные",Центральное телевидение
@@ -319,9 +319,9 @@ http://river-3-370.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/bEuZAWdsImY8zzRv2Q
 #EXTINF:-1 group-title="Мужские",Победа
 http://api.dommir.top/ch/POBEDA_HD/playlist.m3u8
 #EXTINF:-1 group-title="Мужские",Победа
-http://89.33.29.118/Pobeda/index.m3u8
+http://89.33.29.115:8080/Pobeda/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
-http://89.33.29.118/Telekafe/index.m3u8
+http://89.33.29.115:8080/Telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://fs.uplink.kz/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Сарафан
@@ -457,7 +457,7 @@ http://s70378.cdn.ngenix.net/terra/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Galaxy
 http://s70378.cdn.ngenix.net/galaxy/2/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами туриста
-http://89.33.29.118/Glazami_turista_HD/index.m3u8
+http://89.33.29.115:8080/Glazami_turista_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами туриста
 http://s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
@@ -474,8 +474,6 @@ http://stream.mcquack.net/205/index.m3u8
 http://s70378.cdn.ngenix.net/history/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",History
 http://dmi3y-tv.online/hls/CH_HISTORY.m3u8
-#EXTINF:-1 group-title="Познавательные",History
-http://89.33.29.118/History_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",H2
 http://s70378.cdn.ngenix.net/history_2/1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",H2
@@ -483,7 +481,7 @@ http://dmi3y-tv.online/hls/CH_HISTORY_2.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure
 http://s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC HD
-http://89.33.29.118/TLC_HD/tracks-v1a1/mono.m3u8
+http://89.33.29.115:8080/TLC_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC HD
 http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
@@ -675,7 +673,7 @@ http://s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
-http://89.33.29.118/Kinohit/index.m3u8
+http://89.33.29.115:8080/Kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://stream1.cinerama.uz/1055/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
@@ -684,8 +682,6 @@ http://fs.uplink.kz/kinohit/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://94.230.250.140/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://194.152.35.17/kino-tv/index.m3u8
-#EXTINF:-1 group-title="Кино",Блокбастер
-http://89.33.29.118/blokbaster_hd/index.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
 http://139.28.255.188:8080/kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
@@ -776,7 +772,7 @@ http://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Время
 http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 group-title="Кино",Время
-http://89.33.29.118/Vremya/index.m3u8
+http://89.33.29.115:8080/Vremya/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
