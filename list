@@ -181,7 +181,11 @@ http://dmi3y-tv.online/hls/T2/CH_TV3_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://api.dommir.top/ch/Domashniy_RU_hi/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
+http://stream3.cinerama.uz/1436/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Домашний
 http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
+#EXTINF:-1 group-title="Развлекательные",Домашний
+https://stream1.cinerama.uz/1436/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний (+4)
 http://95.47.155.244:8001/play/a014
 #EXTINF:-1 group-title="Развлекательные",Пятница!
@@ -314,6 +318,8 @@ http://api.dommir.top/ch/Sarafan_RU/playlist.m3u8
 http://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
 http://stream1.cinerama.uz/1430/mono.m3u8
+#EXTINF:-1 group-title="Мужские",АВТО 24
+http://185.121.1.163:8083/Avto24/index.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
 http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1 group-title="Мужские",Авто плюс
@@ -458,8 +464,6 @@ http://s70378.cdn.ngenix.net/history_2/1/index.m3u8
 http://dmi3y-tv.online/hls/CH_HISTORY_2.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure
 http://s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",TLC HD
-http://river-4-409.rtbcdn.ru/stream/genetta-420.ntv.rutube.ru/KIHXeHfuBZzGGX_qiwXpzQ/1787632890/7c3d1a4cc0b4dff1176aa2dbb0b90000/1080p_stream.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC HD
 http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
@@ -789,10 +793,14 @@ https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8
 http://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://188.138.29.131/eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
+https://stream3.cinerama.uz/1452/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
+http://188.138.29.131/eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://89.33.29.115:8080/Eurosport_2_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
-http://stream.mcquack.net/192/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
 http://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
@@ -830,9 +838,11 @@ http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
-http://stream.mcquack.net/193/index.m3u8
+http://188.138.29.131/nashfootball/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
+http://stream.mcquack.net/193/index.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Арена
 http://139.28.255.188:8080/matcharena/index.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Боец
@@ -848,9 +858,15 @@ http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 group-title="Спорт",Футбол
 http://radio.tvs.by:8088/Setanta1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+http://188.138.29.131/football1/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://stream.mcquack.net/130/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
+http://188.138.29.131/football2/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://stream.mcquack.net/142/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
+http://188.138.29.131/football3/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
