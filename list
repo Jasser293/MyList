@@ -177,8 +177,6 @@ http://dmi3y-tv.online/hls/T2/CH_TV3_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://api.dommir.top/ch/Domashniy_RU_hi/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
-http://stream3.cinerama.uz/1436/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Домашний
 http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://stream1.cinerama.uz/1436/tracks-v1a1/mono.m3u8
@@ -318,8 +316,6 @@ http://stream1.cinerama.uz/1430/mono.m3u8
 http://185.121.1.163:8083/Avto24/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
 http://stream1.cinerama.uz/1036/mono.m3u8
-#EXTINF:-1 group-title="Мужские",Авто плюс
-http://stream3.cinerama.uz/1036/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
 http://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
@@ -348,8 +344,6 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 http://139.28.255.188:8080/usadba/index.m3u8
 #EXTINF:-1 group-title="Досуг",Усадьба
 http://stream1.cinerama.uz/1427/index.m3u8
-#EXTINF:-1 group-title="Досуг",Усадьба
-http://stream3.cinerama.uz/1427/index.m3u8
 #EXTINF:-1 group-title="Досуг",Бобёр
 http://hls127.freeott.top:8080/Bober/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Бобёр
@@ -357,7 +351,7 @@ http://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
 #EXTINF:-1 group-title="Досуг",Загородная жизнь
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 group-title="Досуг",Загородный
-http://stream3.cinerama.uz/1410/tracks-v1a1/mono.m3u8
+http://stream1.cinerama.uz/1410/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Загородный Int
 http://river-6-603.rtbcdn.ru/stream/genetta-417.ntv.rutube.ru/d_vEVpDN0S2rT3SQusYnlg/1787743283/406973c72e9d0449feef05ef7811ad01/720p_stream.m3u8
 #EXTINF:-1 group-title="Досуг",Rutube
@@ -505,7 +499,7 @@ http://139.28.255.188:8080/ohotaribalka/index.m3u8
 #EXTINF:-1 group-title="Мужские",Охота и рыбалка
 http://185.121.1.163:8083/OhotaRybalka/index.m3u8
 #EXTINF:-1 group-title="Мужские",Инсайт
-http://stream3.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+http://stream1.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Рыболов
 #
 #EXTINF:-1 group-title="Мужские",Охотник и рыболов
@@ -517,7 +511,7 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
-http://stream3.cinerama.uz/1412/tracks-v1a1/mono.m3u8
+http://stream1.cinerama.uz/1412/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
 http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Рыбалка
@@ -786,7 +780,7 @@ http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://188.138.29.131/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
-http://stream3.cinerama.uz/1452/tracks-v1a1/mono.m3u8
+http://stream1.cinerama.uz/1452/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://188.138.29.131/eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
