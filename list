@@ -43,7 +43,7 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+1)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+2)
@@ -63,11 +63,9 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1 (+9)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",РОССИЯ 24
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",РОССИЯ 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Досуг",Россия К
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 #EXTINF:-1 group-title="Досуг",Россия К
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Досуг",Россия К (+2)
@@ -120,8 +118,6 @@ http://194.152.35.17/tnt/index.m3u8
 http://139.28.255.188:8080/tht/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://api.dommir.top/ch/TNT_SD/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ
-http://45.153.24.78/TNT/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ (+4)
 http://95.47.155.244:8001/play/a019
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
@@ -778,7 +774,7 @@ http://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1 HD
-http://188.138.29.131/eurosport1/tracks-v1a1/mono.m3u8
+http://89.33.29.115:8080/Eurosport_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://stream1.cinerama.uz/1452/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
@@ -838,11 +834,7 @@ http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 group-title="Спорт",Футбол
 http://radio.tvs.by:8088/Setanta1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
-http://188.138.29.131/football1/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://stream.mcquack.net/130/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
-http://188.138.29.131/football2/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
