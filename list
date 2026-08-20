@@ -73,6 +73,8 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://139.28.255.188:8080/rentv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
+http://85.192.10.131/hls/rentv/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://api.dommir.top/ch/Ren_TV_HD_RU_hi/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://194.152.35.17/ren_tv/index.m3u8
@@ -88,10 +90,14 @@ http://185.71.81.6:8080/10/index.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
 http://stitch.teletarget.ru/vintera/tvcsd/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ Центр
+#http://85.192.10.131/hls/TvciRu/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВЦ International
 http://dmi3y-tv.online/hls/T2/CH_TVC_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://139.28.255.188:8080/5tv/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятый канал
+http://85.192.10.131/hls/5kanal/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://api.dommir.top/ch/5_Kanal_RU/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -107,15 +113,19 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Федеральные",Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 group-title="Федеральные",ОТР
+http://85.192.10.131/hls/OTR/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",ОТР
 http://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1 group-title="Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Новости",МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
+http://139.28.255.188:8080/tht/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ
 http://194.152.35.17/tnt/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
-http://139.28.255.188:8080/tht/index.m3u8
+http://85.192.10.131/hls/tnt/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://api.dommir.top/ch/TNT_SD/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ (+4)
@@ -178,6 +188,8 @@ http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 http://stream1.cinerama.uz/1436/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний (+4)
 http://95.47.155.244:8001/play/a014
+#EXTINF:-1 group-title="Развлекательные",Пятница!
+http://85.192.10.131/hls/pjatnica/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://api.dommir.top/ch/Pyatniza_HD/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
@@ -767,6 +779,10 @@ http://139.28.255.188:8080/tv1000action/index.m3u8
 http://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Кино 1 International
 http://5.9.44.106/content/38617/index.m3u8
+#EXTINF:-1 group-title="Кино",Pro100 TV
+http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Кино 24
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
 https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
@@ -813,6 +829,8 @@ http://tinyurl.com/3njtcw3c
 http://94.230.250.141/machtv/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
 http://45.132.87.69:8080/match/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч!
+http://85.192.10.131/hls/matchtvrum9/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
@@ -893,3 +911,7 @@ http://185.46.16.239:8000/Ani
 http://stream1.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям",СМОТРИМ 100% ДЕТСКОЕ
 http://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="Детям",Мамонтёнок
+http://85.192.10.131/hls/MamonRu/playlist.m3u8
+#EXTINF:-1 group-title="Детям",Мультимания
+http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
