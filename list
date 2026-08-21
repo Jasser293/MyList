@@ -478,8 +478,6 @@ http://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Океан ТВ
 http://s70378.cdn.ngenix.net/ocean_tv/2/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Океан ТВ
-http://hls127.freeott.top:8080/Ocean_TV/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",История
 http://hls127.freeott.top:8080/Istoriya/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка РФ
@@ -697,7 +695,7 @@ http://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Наше новое кино
 http://fs.uplink.kz/nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Кинопоказ
-https://stream1.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+http://stream1.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кинопоказ
 http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 #EXTINF:-1 group-title="Кино",Любимое кино
@@ -765,6 +763,8 @@ http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Москва. Доверие
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
+#EXTINF:-1 group-title="Кино",Кино и жизнь
+http://river-1.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/xibntAZgEsM4zb5B4doA9g/1787905262/09e51eefa939595a4ac67182c6fb3e4e/720p_stream.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
 http://89.33.29.115:8080/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000
