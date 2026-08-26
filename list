@@ -129,15 +129,11 @@ http://api.dommir.top/ch/Anekdot_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
 http://de.vivamax.pro/TvoeTV/index.m3u8?token=TvoeTV
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
-http://tvoetv.space:8080/tvoetv/mpegts?token=MkP9_m4vd1
-#EXTINF:-1 group-title="Развлекательные",Твоё ТВ
-#http://lime-pi2.tlgx.ru:8987/CH_TVOETV/index.m3u8
+http://lime-pi2.tlgx.ru:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
 http://de.vivamax.pro/TvoeTVHumor/index.m3u8?token=TvoeTV
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
-https://tvoetv.space/tvoetv_humor/video.m3u8
-#EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
-#http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
+http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
 http://194.152.35.17/sts/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
