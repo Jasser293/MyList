@@ -44,8 +44,6 @@ http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 http://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="Федеральные",Россия 1 (+4)
-http://46.8.46.14/ros1/index.m3u8
 #EXTINF:-1 group-title="Федеральные",РОССИЯ 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 group-title="Досуг",Россия К
@@ -275,15 +273,13 @@ http://194.158.222.36:6093
 #EXTINF:-1 group-title="Мужские",Оружие
 http://45.11.139.43:8555/orujie/index.m3u8
 #EXTINF:-1 group-title="Мужские",Оружие
-http://46.8.46.14/Oruzhie/index.m3u8
-#EXTINF:-1 group-title="Мужские",Оружие
 http://fs.uplink.kz/oruzhie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Мужские",Ратник
 http://river-3-370.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/uOl9_yyHJCQpvDu5vpQ-iw/1788350229/13b0320238d7938a2deffb4065068986/720p_stream.m3u8
 #EXTINF:-1 group-title="Мужские",Победа
 http://api.dommir.top/ch/POBEDA_HD/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
-http://46.8.46.14/telecafe/index.m3u8
+http://stream1.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
 http://fs.uplink.kz/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Сарафан
@@ -295,9 +291,9 @@ http://stream1.cinerama.uz/1430/mono.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
 http://185.121.1.163:8083/Avto24/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
-http://46.8.46.14/avtoplus/index.m3u8
-#EXTINF:-1 group-title="Мужские",Авто плюс
 http://stream1.cinerama.uz/1036/mono.m3u8
+#EXTINF:-1 group-title="Мужские",Авто плюс
+http://46.8.46.14/avtoplus/index.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
 http://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
@@ -349,7 +345,7 @@ http://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
 #EXTINF:-1 group-title="Досуг",Здоровое ТВ
 http://stream1.cinerama.uz/1428/index.m3u8
 #EXTINF:-1 group-title="Досуг",Живи
-http://46.8.46.14/zhivi/index.m3u8
+http://stream1.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Живи Активно
 http://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
 #EXTINF:-1 group-title="Досуг",World Fashion Channel
@@ -582,8 +578,6 @@ http://139.28.255.252:8080/domkino/index.m3u8
 http://185.121.1.163:8083/Kineko/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://139.28.255.188:8080/eurokin/index.m3u8
-#EXTINF:-1 group-title="Кино",Еврокино
-http://46.8.46.14/eurokino/index.m3u8
 #EXTINF:-1 group-title="Кино",Техно 24
 http://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Техно 24
@@ -633,13 +627,11 @@ http://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
 http://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Мир сериала
-http://46.8.46.14/MirSeriala/index.m3u8
+http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 group-title="Кино",Cinema
 http://194.152.35.17/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино",HollywooD
 http://stream1.cinerama.uz/1443/index.m3u8
-#EXTINF:-1 group-title="Кино",HollywooD
-http://46.8.46.14/amc/index.m3u8
 #EXTINF:-1 group-title="Кино",BollywooD
 http://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",BollywooD
@@ -660,8 +652,6 @@ http://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 http://185.46.16.239:8000/VIP_Comedy
 #EXTINF:-1 group-title="Кино",ViP Megahit HD
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
-#EXTINF:-1 group-title="Кино",ViP Megahit HD
-http://46.8.46.14/vipmegahit/index.m3u8
 #EXTINF:-1 group-title="Кино",ViP Premiere HD
 http://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 group-title="Кино",ViP Premiere HD
@@ -743,8 +733,6 @@ http://river-6-605.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/Y6JpGe0CIyz6JqzlVr
 http://89.33.29.115:8080/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000
 http://139.28.255.188:8080/tv1000/index.m3u8
-#EXTINF:-1 group-title="Кино",TV1000
-http://46.8.46.14/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское кино
 http://139.28.255.188:8080/tv1000ruskino/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Action
@@ -808,8 +796,6 @@ http://85.192.10.131/hls/matchtvrum9/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
-http://46.8.46.14/premier/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://stream.mcquack.net/193/index.m3u8
@@ -872,7 +858,7 @@ http://89.33.29.115:8080/TiJi/index.m3u8
 #EXTINF:-1 group-title="Детям",Детский Мир
 http://stream1.cinerama.uz/1032/index.m3u8
 #EXTINF:-1 group-title="Детям",Gulli Girl
-http://46.8.46.14/Gulli/index.m3u8
+http://stream1.cinerama.uz/1445/index.m3u8
 #EXTINF:-1 group-title="Детям",Мультиландия
 http://stream1.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям",Рыжий
