@@ -275,6 +275,8 @@ http://194.158.222.36:6093
 #EXTINF:-1 group-title="Мужские",Оружие
 http://45.11.139.43:8555/orujie/index.m3u8
 #EXTINF:-1 group-title="Мужские",Оружие
+http://46.8.46.14/Oruzhie/index.m3u8
+#EXTINF:-1 group-title="Мужские",Оружие
 http://fs.uplink.kz/oruzhie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Мужские",Ратник
 http://river-3-370.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/uOl9_yyHJCQpvDu5vpQ-iw/1788350229/13b0320238d7938a2deffb4065068986/720p_stream.m3u8
@@ -292,6 +294,8 @@ http://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 http://stream1.cinerama.uz/1430/mono.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
 http://185.121.1.163:8083/Avto24/index.m3u8
+#EXTINF:-1 group-title="Мужские",Авто плюс
+http://46.8.46.14/avtoplus/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
 http://stream1.cinerama.uz/1036/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
@@ -424,6 +428,8 @@ http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 http://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 #http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Investigation Discovery
+http://46.8.46.14/InvestigationDiscovery/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Познавательные",History
@@ -801,6 +807,8 @@ http://45.132.87.69:8080/match/index.m3u8
 http://85.192.10.131/hls/matchtvrum9/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
+http://46.8.46.14/premier/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
