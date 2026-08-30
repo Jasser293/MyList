@@ -269,7 +269,9 @@ http://194.158.222.36:6093
 #EXTINF:-1 group-title="Мужские",Оружие
 http://45.11.139.43:8555/orujie/index.m3u8
 #EXTINF:-1 group-title="Мужские",Оружие
-http://fs.uplink.kz/oruzhie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://89.33.29.115:8080/Oruzhie/index.m3u8
+#EXTINF:-1 group-title="Мужские",Оружие
+#http://fs.uplink.kz/oruzhie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Мужские",Ратник
 http://river-3-370.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/uOl9_yyHJCQpvDu5vpQ-iw/1788350229/13b0320238d7938a2deffb4065068986/720p_stream.m3u8
 #EXTINF:-1 group-title="Мужские",Победа
@@ -738,9 +740,9 @@ http://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Кино 1 International
 http://5.9.44.106/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино",Pro100 TV
-http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
+#http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Кино 24
-http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
 https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
@@ -865,9 +867,11 @@ http://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 http://185.46.16.239:8000/Ani
 #EXTINF:-1 group-title="Детям",Мульт
 http://stream1.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детям",JimJam
+http://89.33.29.115:8080/JimJam/index.m3u8
 #EXTINF:-1 group-title="Детям",СМОТРИМ 100% ДЕТСКОЕ
 http://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 group-title="Детям",Мамонтёнок
-http://85.192.10.131/hls/MamonRu/playlist.m3u8
+#http://85.192.10.131/hls/MamonRu/playlist.m3u8
 #EXTINF:-1 group-title="Детям",Мультимания
-http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
+#http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
