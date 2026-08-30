@@ -423,9 +423,11 @@ http://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 #http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
+http://195.64.140.147:10152/152
+#EXTINF:-1 group-title="Познавательные",Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
-http://stream.mcquack.net/205/index.m3u8
+#http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Познавательные",History
 #
 #EXTINF:-1 group-title="Познавательные",H2
@@ -435,13 +437,19 @@ http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC HD
 http://89.33.29.115:8080/TLC_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC HD
-http://stream.mcquack.net/168/index.m3u8
+http://195.64.140.147:10137/137
+#EXTINF:-1 group-title="Развлекательные",TLC HD
+#http://stream.mcquack.net/168/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Planet
+http://195.64.140.147:10032/32
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://stream1.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://stream1.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://89.33.29.115:8080/National_Geo_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
+http://195.64.140.147:10149/149
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
@@ -603,7 +611,7 @@ http://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Premium
 http://139.28.255.188:8080/Amedia/index.m3u8
 #EXTINF:-1 group-title="Кино",.black
-#
+http://195.64.140.147:10087/87
 #EXTINF:-1 group-title="Кино",.Red
 http://89.33.29.115:8080/SET/index.m3u8
 #EXTINF:-1 group-title="Кино",Sony Sci-Fi
@@ -792,6 +800,8 @@ http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
+http://195.64.140.147:10103/99103
+#EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://stream.mcquack.net/193/index.m3u8
@@ -810,7 +820,11 @@ http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 group-title="Спорт",Футбол
 http://radio.tvs.by:8088/Setanta1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+http://195.64.140.147:10100/100
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://stream.mcquack.net/130/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
+http://195.64.140.147:10101/101
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
