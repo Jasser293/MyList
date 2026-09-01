@@ -360,10 +360,6 @@ http://stream.mcquack.net/216/index.m3u8
 http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
 #EXTINF:-1 group-title="Досуг",Кухня
 http://stream1.cinerama.uz/1236/index.m3u8
-#EXTINF:-1 group-title="Досуг",Аппетитный
-#
-#EXTINF:-1 group-title="Досуг",Первый Вегетарианский
-#
 #EXTINF:-1 group-title="Досуг",Лапки Live
 http://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Познавательные",Вопросы и ответы
@@ -461,13 +457,15 @@ http://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Океан ТВ
-#
+http://217.11.177.57/streams/media/teatr_720x576/index.m3u8
 #EXTINF:-1 group-title="Познавательные",История
 http://hls127.freeott.top:8080/Istoriya/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка РФ
 http://stream1.cinerama.uz/1222/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Поехали!
 http://fs.uplink.kz/poehali/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Познавательные",Поехали!
+http://api.dommir.top/ch/poehali/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Живая планета
 http://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",В мире животных
@@ -519,7 +517,7 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыка",RU.TV
 http://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
 #EXTINF:-1 group-title="Музыка",О2ТВ
-#
+http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыка",ТНТ Music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Музыка",Муз ТВ HD
@@ -575,7 +573,7 @@ http://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Кино",Сапфир
-#
+http://77.232.131.211/Sapfir/index.m3u8
 #EXTINF:-1 group-title="Досуг",Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",2x2
