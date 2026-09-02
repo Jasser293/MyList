@@ -99,6 +99,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://139.28.255.188:8080/tht/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
+http://tinyurl.com/em5xy689
+#EXTINF:-1 group-title="Развлекательные",ТНТ
 http://194.152.35.17/tnt/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://api.dommir.top/ch/TNT_SD/playlist.m3u8
@@ -106,6 +108,8 @@ http://api.dommir.top/ch/TNT_SD/playlist.m3u8
 http://95.47.155.244:8001/play/a019
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://tinyurl.com/yhbzdspv
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://194.152.35.17/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Перец International
@@ -145,6 +149,8 @@ http://api.dommir.top/ch/STS_Love_RU/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://139.28.255.188:8080/tv3ru/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3
+http://tinyurl.com/5n726tjr
+#EXTINF:-1 group-title="Развлекательные",ТВ3
 http://194.152.35.17/tv-3/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТВ3
 http://89.33.29.115:8080/TV_3/index.m3u8
@@ -158,8 +164,6 @@ http://89.33.29.115:8080/Domashniy/index.m3u8
 http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://31.131.141.195:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Домашний
-http://stream1.cinerama.uz/1436/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний (+4)
 http://95.47.155.244:8001/play/a014
 #EXTINF:-1 group-title="Развлекательные",Пятница!
@@ -293,7 +297,7 @@ http://185.121.1.163:8083/Avto24/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
 http://stream1.cinerama.uz/1036/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
-http://46.8.46.14/avtoplus/index.m3u8
+http://195.64.140.147:10029/29
 #EXTINF:-1 group-title="Мужские",Драйв
 http://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
@@ -425,9 +429,7 @@ http://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 http://195.64.140.147:10152/152
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
-http://46.8.46.14/InvestigationDiscovery/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Investigation Discovery
-#http://stream.mcquack.net/205/index.m3u8
+http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Познавательные",History
 #
 #EXTINF:-1 group-title="Познавательные",H2
@@ -446,6 +448,8 @@ http://195.64.140.147:10137/137
 http://195.64.140.147:10032/32
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://stream1.cinerama.uz/1043/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://tinyurl.com/3dpzcy4h
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://stream1.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
@@ -739,6 +743,10 @@ https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Кино и жизнь
 http://river-6-605.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/OGNk7Yzub_LHAdCdYAhdMw/1788598820/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+#EXTINF:-1 group-title="Кино",Кино и жизнь
+http://tinyurl.com/yjx76zcb
+#EXTINF:-1 group-title="Кино",Киножелезо
+http://tinyurl.com/mryyamet
 #EXTINF:-1 group-title="Кино",Ретро
 http://89.33.29.115:8080/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000
