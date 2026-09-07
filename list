@@ -415,9 +415,11 @@ http://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://tinyurl.com/4j2shkyf
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
+http://dtv.vol.net.ua/Discovery_Channel_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
-http://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+#http://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 #http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
@@ -425,7 +427,7 @@ http://195.64.140.147:10152/152
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Познавательные",History
-#
+http://dtv.vol.net.ua/History_HD/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",H2
 #
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure
@@ -434,6 +436,8 @@ http://77.232.131.211/TravelAdventureHD/index.m3u8
 http://tinyurl.com/32zjbkkr
 #EXTINF:-1 group-title="Развлекательные",TLC HD
 http://89.33.29.115:8080/TLC_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",TLC HD
+http://dtv.vol.net.ua/TLC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC HD
 http://195.64.140.147:10137/137
 #EXTINF:-1 group-title="Развлекательные",TLC HD
