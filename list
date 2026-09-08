@@ -887,3 +887,6 @@ http://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #http://85.192.10.131/hls/MamonRu/playlist.m3u8
 #EXTINF:-1 group-title="Детям",Мультимания
 #http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
+#EXTINF:-1 group-title="Детям",Channel 5 International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
