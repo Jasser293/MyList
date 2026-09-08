@@ -63,13 +63,9 @@ http://139.28.255.188:8080/tvcentr/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
 http://api.dommir.top/ch/tvc/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
-http://185.71.81.6:8080/10/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ Центр
 http://stitch.teletarget.ru/vintera/tvcsd/index.m3u8
-#EXTINF:-1 group-title="Федеральные",ТВ Центр
-#http://85.192.10.131/hls/TvciRu/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВЦ International
 http://dmi3y-tv.online/hls/T2/CH_TVC_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -117,9 +113,9 @@ http://fs.uplink.kz/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Перец International
 http://api.dommir.top/ch/Perets_RU/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
-http://radio.tvs.by:8080/KVN-TV/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://api.dommir.top/ch/KVN_TV/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ
+https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Развлекательные",Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
@@ -127,11 +123,11 @@ http://api.dommir.top/ch/Anekdot_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
 http://de.vivamax.pro/TvoeTV/index.m3u8?token=TvoeTV
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
-http://lime-pi2.tlgx.ru:8987/CH_TVOETV/index.m3u8
+#http://lime-pi2.tlgx.ru:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
 http://de.vivamax.pro/TvoeTVHumor/index.m3u8?token=TvoeTV
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
-http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
+#http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
 http://194.152.35.17/sts/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
@@ -217,9 +213,7 @@ http://194.158.222.36:6102
 #EXTINF:-1 group-title="Беларусь",Беларусь 1
 http://194.158.222.36:6101
 #EXTINF:-1 group-title="Беларусь",Беларусь 24
-http://178.124.179.122:8080/Belarus24/index.m3u8
-#EXTINF:-1 group-title="Беларусь",Союзный
-http://radio.tvs.by:8088/TRO/index.m3u8
+http://78.30.254.212:8080/belarus24/index.m3u8
 #EXTINF:-1 group-title="Беларусь",Союзный
 http://souzny.mediacdn.ru/cdn/souzny/mono.m3u8
 #EXTINF:-1 group-title="Беларусь"tvg-name="пинск тв" ,Пинск ТВ
@@ -521,7 +515,7 @@ http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыка",ТНТ Music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Музыка",Муз ТВ HD
-http://185.71.81.6:8080/20/index.m3u8
+#
 #EXTINF:-1 group-title="Музыка",Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный
@@ -826,7 +820,7 @@ http://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Игра
 http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 group-title="Спорт",Футбол
-http://radio.tvs.by:8088/Setanta1/index.m3u8
+http://hls127.freeott.top:8080/Football/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://stream.mcquack.net/130/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
