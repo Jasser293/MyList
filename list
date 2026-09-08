@@ -515,7 +515,7 @@ http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыка",ТНТ Music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Музыка",Муз ТВ HD
-#
+http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
 #EXTINF:-1 group-title="Музыка",Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный
