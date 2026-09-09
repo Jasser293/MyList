@@ -826,6 +826,8 @@ http://185.46.16.239:8000/Match_Igra
 http://hls127.freeott.top:8080/Football/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://stream.mcquack.net/130/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+http://s1.merlive.am/matchfutbol1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
