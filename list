@@ -18,13 +18,13 @@ http://139.28.255.188:8080/ntvhd/index.m3u8
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ (+1)
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn.ntv.ru/ntv1/mono.m3u8
+#http://cdn2.ntv.ru/ntv1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ (+2)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ (+4)
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
+#http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ (+7)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
@@ -72,8 +72,6 @@ http://dmi3y-tv.online/hls/T2/CH_TVC_INTERNATIONAL.m3u8
 http://139.28.255.188:8080/5tv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://api.dommir.top/ch/5_Kanal_RU/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные",Пятый канал
-http://river-6-603.rtbcdn.ru/stream/genetta-302.m9.rutube.ru/zWyhhgVfBBVPOGpMYh5Gag/1789546572/ac99df0130b4620480528efc6aa22ad6/1080p_stream.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://95.47.155.244:8001/play/a005
 #EXTINF:-1 group-title="Федеральные",5 Канал International
@@ -136,7 +134,9 @@ http://194.152.35.17/sts/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
 http://185.91.177.13/sts/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
-http://45.153.24.78/STS/index.m3u8
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС
+http://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС love
 http://hls127.freeott.top:8080/CTC-LOVE/manifest.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС love
