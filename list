@@ -418,9 +418,11 @@ http://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 #http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
+http://95.52.174.179:81/play/a03b
+#EXTINF:-1 group-title="Познавательные",Investigation Discovery
 http://195.64.140.147:10152/152
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
-http://stream.mcquack.net/205/index.m3u8
+#http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Познавательные",History
 #
 #EXTINF:-1 group-title="Познавательные",H2
@@ -494,9 +496,15 @@ http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
 http://stream1.cinerama.uz/1412/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
-http://stream.mcquack.net/274/index.m3u8
+http://95.52.174.179:81/play/a01k
+#EXTINF:-1 group-title="Мужские",Дикая Охота
+#http://stream.mcquack.net/274/index.m3u8
+#EXTINF:-1 group-title="Мужские",Дикая Рыбалка
+http://95.52.174.179:81/play/a01j
 #EXTINF:-1 group-title="Мужские",Дикая Рыбалка
 http://stream.mcquack.net/275/index.m3u8
+#EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
+http://195.64.140.147:10117/117
 #EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 group-title="Мужские",Prosto Fishing
@@ -567,12 +575,18 @@ http://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Кино",Сапфир
 http://77.232.131.211/Sapfir/index.m3u8
+#EXTINF:-1 group-title="Кино",Сапфир
+http://46.32.176.50/foxlife/index.m3u8
 #EXTINF:-1 group-title="Досуг",Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",2x2
 http://tinyurl.com/bdcu8nx9
 #EXTINF:-1 group-title="Развлекательные",2x2
 http://194.152.35.17/2x2/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Театр
+http://hls127.freeott.top:8080/Teatr/video.m3u8
+#EXTINF:-1 group-title="Развлекательные",Театр
+http://95.52.174.179:81/play/a01x
 #EXTINF:-1 group-title="Кино",Дом кино премиум
 http://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Дом Кино
@@ -679,10 +693,16 @@ http://stream1.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 http://fs.uplink.kz/rodnoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Русский бестселлер
 http://139.28.255.188:8080/bestseller/index.m3u8
+#EXTINF:-1 group-title="Кино",Русский бестселлер
+http://95.52.174.179:81/play/a006
 #EXTINF:-1 group-title="Кино",Русский иллюзион
 http://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
+#EXTINF:-1 group-title="Кино",Русский иллюзион
+http://95.52.174.179:81/play/a01o
+#EXTINF:-1 group-title="Кино",Русский детектив
+http://95.52.174.179:81/play/a003
 #EXTINF:-1 group-title="Кино",Русский детектив
 http://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 group-title="Кино",Следствие вели...
@@ -706,6 +726,8 @@ http://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://139.28.255.188:8080/rusroman/index.m3u8
+#EXTINF:-1 group-title="Кино",Русский Роман
+http://95.52.174.179:81/play/a002
 #EXTINF:-1 group-title="Кино",Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Про любовь
