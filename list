@@ -70,6 +70,7 @@ http://stitch.teletarget.ru/vintera/tvcsd/index.m3u8
 http://dmi3y-tv.online/hls/T2/CH_TVC_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://139.28.255.188:8080/5tv/index.m3u8
+http://river-6-603.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/ZBjm_gnbW3SIdpojsGrvrg/1789893243/ac99df0130b4620480528efc6aa22ad6/1080p_stream.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://api.dommir.top/ch/5_Kanal_RU/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -77,7 +78,7 @@ http://95.47.155.244:8001/play/a005
 #EXTINF:-1 group-title="Федеральные",5 Канал International
 http://178.124.153.123:44400/5kanal
 #EXTINF:-1 group-title="Федеральные",5 Канал International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Donate BTC
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 #EXTINF:-1 group-title="Федеральные",Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
@@ -288,6 +289,8 @@ http://stream1.cinerama.uz/1430/mono.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
 http://185.121.1.163:8083/Avto24/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
+http://46.32.176.50/avtoplyus/index.m3u8
+#EXTINF:-1 group-title="Мужские",Авто плюс
 http://stream1.cinerama.uz/1036/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
 http://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8
@@ -365,6 +368,8 @@ http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 http://cdn.universmotri.ru/live/lq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Кто есть кто
 http://89.33.29.115:8080/kto_est_kto/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Кто есть кто
+http://46.32.176.50/ktoestkto/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка Отрыва
 http://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
 #EXTINF:-1 group-title="Познавательные",МОЯ ПЛАНЕТА
@@ -418,8 +423,6 @@ http://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 #http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
-http://195.64.140.147:10152/152
-#EXTINF:-1 group-title="Познавательные",Investigation Discovery
 http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Познавательные",History
 #
@@ -430,13 +433,13 @@ http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC HD
 http://tinyurl.com/32zjbkkr
 #EXTINF:-1 group-title="Развлекательные",TLC HD
-http://89.33.29.115:8080/TLC_HD/tracks-v1a1/mono.m3u8
+http://46.32.176.50/tlc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC HD
-http://195.64.140.147:10137/137
+http://89.33.29.115:8080/TLC_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",TLC HD
 #http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
-http://195.64.140.147:10032/32
+http://46.32.176.50/AnimalPlanetHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://stream1.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
@@ -446,9 +449,9 @@ http://stream1.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://89.33.29.115:8080/National_Geo_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
-http://195.64.140.147:10149/149
-#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
+http://46.32.176.50/NatGeoWildHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Океан ТВ
@@ -497,8 +500,6 @@ http://stream1.cinerama.uz/1412/tracks-v1a1/mono.m3u8
 #http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Рыбалка
 http://stream.mcquack.net/275/index.m3u8
-#EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
-http://195.64.140.147:10117/117
 #EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 group-title="Мужские",Prosto Fishing
@@ -765,7 +766,11 @@ http://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://139.28.255.188:8080/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://46.32.176.50/eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://89.33.29.115:8080/Eurosport_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
+http://46.32.176.50/eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://stream1.cinerama.uz/1452/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
@@ -807,8 +812,6 @@ http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
-http://195.64.140.147:10103/99103
-#EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://stream.mcquack.net/193/index.m3u8
@@ -828,8 +831,6 @@ http://185.46.16.239:8000/Match_Igra
 http://hls127.freeott.top:8080/Football/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://stream.mcquack.net/130/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
-http://s1.merlive.am/matchfutbol1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
@@ -855,7 +856,7 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="Детям",СТС Kids
 http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
 #EXTINF:-1 group-title="Детям",Смайлик ТВ
-http://river-6-605.rtbcdn.ru/stream/genetta-326.m9.rutube.ru/Lbc5G3YvTgcd4E-z-9nvvQ/1789201961/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-6-605.rtbcdn.ru/stream/genetta-326.m9.rutube.ru/FGM4tqAEfH8LYbxFm_-Utg/1789893141/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 group-title="Детям",Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детям",Солнце
