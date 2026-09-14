@@ -4,7 +4,7 @@ http://api.dommir.top/ch/NTV_PERWI_HD_hi/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://tinyurl.com/bddd7kj8
 #EXTINF:-1 group-title="Федеральные",Первый канал
-http://river-6-604.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/4rHSn8OTmD9IDwJNc7Vkcg/1789546416/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://river-6-603.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/lKMZIXtPQEyREHnV6sChjA/1789978845/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://176.118.130.21/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="Федеральные",Первый канал
@@ -70,6 +70,7 @@ http://stitch.teletarget.ru/vintera/tvcsd/index.m3u8
 http://dmi3y-tv.online/hls/T2/CH_TVC_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://139.28.255.188:8080/5tv/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятый канал
 http://river-6-603.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/ZBjm_gnbW3SIdpojsGrvrg/1789893243/ac99df0130b4620480528efc6aa22ad6/1080p_stream.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://api.dommir.top/ch/5_Kanal_RU/playlist.m3u8
@@ -273,7 +274,7 @@ http://89.33.29.115:8080/Oruzhie/index.m3u8
 #EXTINF:-1 group-title="Мужские",Оружие
 #http://fs.uplink.kz/oruzhie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Мужские",Ратник
-http://river-6-603.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/a43E8jn_oR-iBr01GoRnBA/1789546626/13b0320238d7938a2deffb4065068986/1080p_stream.m3u8
+http://river-6-603.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/Xsi9BoNR3SH0jUUVtsGswQ/1789978902/13b0320238d7938a2deffb4065068986/1080p_stream.m3u8
 #EXTINF:-1 group-title="Мужские",Победа
 http://api.dommir.top/ch/POBEDA_HD/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Телекафе
@@ -309,7 +310,7 @@ http://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
 #EXTINF:-1 group-title="Новости",Соловьёв LIVE
 http://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
 #EXTINF:-1 group-title="Новости",Соловьёв LIVE
-http://river-6-601.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/xbGeIQzOCrRKLLYhCIo3LA/1789511158/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
+http://river-6-602.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/UvxlWnxZpr6rhecbkpuiaA/1789978942/c9b87c0b00cfff9b37f95b9c8e4eed42/1080p_stream.m3u8
 #EXTINF:-1 group-title="Новости",Царьград ТВ
 http://tinyurl.com/525xuju7
 #EXTINF:-1 group-title="Новости",Крик ТВ
@@ -329,9 +330,9 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 group-title="Досуг",Загородный
 http://stream1.cinerama.uz/1410/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Загородный Int
-http://river-3-355.rtbcdn.ru/stream/genetta-417.ntv.rutube.ru/WGE1lmehm2Ozc0_Oa82qPg/1789546676/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
+http://river-3-355.rtbcdn.ru/stream/genetta-417.ntv.rutube.ru/-IkM0KTVmzajT382MCaJyA/1789978959/406973c72e9d0449feef05ef7811ad01/1080p_stream.m3u8
 #EXTINF:-1 group-title="Досуг",Rutube
-http://river-6-601.rtbcdn.ru/stream/genetta-418.ntv.rutube.ru/7CT5kRYRYzpEWz4S4tGScg/1789546723/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
+http://river-6-601.rtbcdn.ru/stream/genetta-418.ntv.rutube.ru/LgGEh6RinhrXKkknfCBZww/1789978995/9ae8e8a6dc58bdad66190475f9872ecd/1080p_stream.m3u8
 #EXTINF:-1 group-title="Досуг",Rutube
 http://tinyurl.com/2d84c2e3
 #EXTINF:-1 group-title="Досуг",Доктор
@@ -405,7 +406,7 @@ http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Религия",Life TV
 http://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 group-title="Развлекательные",Жар Птица
-http://river-6-603.rtbcdn.ru/stream/genetta-402.ntv.rutube.ru/6SNwf44BU1bTfO6ASu-DAg/1789546749/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
+http://river-3-311.rtbcdn.ru/stream/genetta-402.ntv.rutube.ru/kndkoZSQftmP6-l1ih6Vzw/1789979014/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная планета
 http://stitch.teletarget.ru/peerstv/terra/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Galaxy
@@ -455,7 +456,7 @@ http://46.32.176.50/NatGeoWildHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Океан ТВ
-http://217.11.177.57/streams/media/teatr_720x576/index.m3u8
+http://85.192.24.253:8080/AA2126W/video.m3u8
 #EXTINF:-1 group-title="Познавательные",История
 http://hls127.freeott.top:8080/Istoriya/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка РФ
@@ -489,7 +490,7 @@ http://stream1.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Охотник и рыболов
 http://stream1.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Охотник и рыболов Int
-http://river-6-601.rtbcdn.ru/stream/genetta-401.ntv.rutube.ru/XiSOfIvTVRYaelFJrqYIJA/1789546801/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+http://river-6-603.rtbcdn.ru/stream/genetta-401.ntv.rutube.ru/UNiaJvKpZfvAxLOrUbtnrQ/1789979043/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
 #EXTINF:-1 group-title="Мужские",Дикий
 http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикий
@@ -593,7 +594,7 @@ http://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Техно 24
 http://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Тайна
-http://river-6-603.rtbcdn.ru/stream/genetta-417.ntv.rutube.ru/B9IM2kdG-frO1L8ANs7EFQ/1789546857/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
+http://river-6-603.rtbcdn.ru/stream/genetta-417.ntv.rutube.ru/ifIcAIMM4R7EdFSuKFCUKQ/1789979159/a11c890a0ec0730ad33bdaaf2d244e1a/576p_stream.m3u8
 #EXTINF:-1 group-title="Кино",Кинопремьера
 http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
@@ -637,7 +638,7 @@ http://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
 http://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Мир сериала
-http://176.118.197.101/MirSeriala/index.m3u8
+http://46.32.176.50/mirseriala/index.m3u8
 #EXTINF:-1 group-title="Кино",Cinema
 http://194.152.35.17/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино",HollywooD
@@ -653,7 +654,7 @@ http://89.33.29.115:8080/ZeeTV/index.m3u8
 #EXTINF:-1 ,Индия
 http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
-http://176.118.197.101/Kinokomediya/mono.m3u8
+http://46.32.176.50/kinokomedia/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
 http://fs.uplink.kz/kinokomedia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",ViP Comedy HD
@@ -738,7 +739,7 @@ https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Москва. Доверие
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Кино и жизнь
-http://river-6-603.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/nJWsL0FLkAqKtWznjfWlLg/1789546911/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+http://river-6-603.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/5G_-XN-f6JlIwEZr67UJbQ/1789979191/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 group-title="Кино",Кино и жизнь
 http://tinyurl.com/yjx76zcb
 #EXTINF:-1 group-title="Кино",Киножелезо
@@ -845,8 +846,6 @@ https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 https://fs.uplink.kz/khl_prime/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Спорт",Астрахань Спорт
 http://213.108.175.226/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",SuperTennis
-http://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 group-title="Спорт",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Спорт",Rally TV
@@ -856,7 +855,7 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 group-title="Детям",СТС Kids
 http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
 #EXTINF:-1 group-title="Детям",Смайлик ТВ
-http://river-6-605.rtbcdn.ru/stream/genetta-326.m9.rutube.ru/FGM4tqAEfH8LYbxFm_-Utg/1789893141/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
+http://river-3-360.rtbcdn.ru/stream/genetta-326.m9.rutube.ru/Fzbyqu05sC8u8ibCkRSzTw/1789979260/2f052691c75d72b3ed7f3c33ea956a41/720p_stream.m3u8
 #EXTINF:-1 group-title="Детям",Смайлик ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детям",Солнце
