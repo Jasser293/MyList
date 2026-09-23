@@ -197,6 +197,8 @@ http://iptv.crimea.net:8787
 http://dmi3y-tv.online/hls/region/CH_VOLGA_NN.m3u8
 #EXTINF:-1 group-title="Регионы",12 канал (Омск)
 http://dmi3y-tv.online/hls/region/CH_12CHANNEL_OMSK.m3u8
+#EXTINF:-1 group-title="Регионы",С1 (Сургут)
+http://sitv.ru/hls/stv.m3u8
 #EXTINF:-1 group-title="Регионы",Наш дом (Пенза)
 http://dmi3y-tv.online/hls/region/CH_NASHDOM_PENZA.m3u8
 #EXTINF:-1 group-title="Регионы",Ветта-24 (Пермь)
@@ -745,7 +747,7 @@ https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Москва. Доверие
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Кино и жизнь
-http://river-6-603.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/5G_-XN-f6JlIwEZr67UJbQ/1789979191/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
+http://river-6-605.rtbcdn.ru/stream/genetta-406.ntv.rutube.ru/Yt4ldvjSmQ4vQwaiue3axw/1790755917/09e51eefa939595a4ac67182c6fb3e4e/1080p_stream.m3u8
 #EXTINF:-1 group-title="Кино",Кино и жизнь
 http://tinyurl.com/yjx76zcb
 #EXTINF:-1 group-title="Кино",Киножелезо
