@@ -413,8 +413,8 @@ http://lifetv.bitflip.ee/live/stream1.m3u8
 http://river-3-311.rtbcdn.ru/stream/genetta-402.ntv.rutube.ru/r6caIgsfxRB-f3CUC0BT6Q/1790497614/c93be53cba8a4ba6ac311b395a00f4d5/576p_stream.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная планета
 http://stitch.teletarget.ru/peerstv/terra/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Galaxy
-#
+#EXTINF:-1 group-title="Познавательные",TERRA
+http://46.32.176.50/nationalgeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами туриста
 http://89.33.29.115:8080/Glazami_turista_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами туриста
@@ -597,6 +597,8 @@ http://139.28.255.252:8080/domkino/index.m3u8
 http://185.121.1.163:8083/Kineko/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://139.28.255.188:8080/eurokin/index.m3u8
+#EXTINF:-1 group-title="Кино",Еврокино
+http://5.9.11.197:57419/chu-113/mpegts
 #EXTINF:-1 group-title="Кино",Техно 24
 http://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Техно 24
@@ -624,17 +626,21 @@ http://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Premium
 http://139.28.255.188:8080/Amedia/index.m3u8
 #EXTINF:-1 group-title="Кино",.black
-#
+http://46.32.176.50/sonyturbo/index.m3u8
 #EXTINF:-1 group-title="Кино",.Red
 http://89.33.29.115:8080/SET/index.m3u8
 #EXTINF:-1 group-title="Кино",Sony Sci-Fi
-#
+http://46.32.176.50/sonyscifi/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
+http://5.9.11.197:57419/chu-118/mpegts
+#EXTINF:-1 group-title="Кино",Кинохит
+http://46.32.176.50/kinoxit/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит
 http://stream1.cinerama.uz/1055/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
-http://fs.uplink.kz/kinohit/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#http://fs.uplink.kz/kinohit/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://94.230.250.140/kinotv/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
@@ -700,6 +706,8 @@ http://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 group-title="Кино",Русский детектив
+http://46.32.176.50/russkiydetektiv/index.m3u8
+#EXTINF:-1 group-title="Кино",Русский детектив
 http://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 group-title="Кино",Следствие вели...
 #EXTVLCOPT:http-user-agent=Donate BTC
@@ -723,6 +731,8 @@ http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
+http://46.32.176.50/russkiyroman/index.m3u8
+#EXTINF:-1 group-title="Кино",Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Про любовь
 #
@@ -738,6 +748,8 @@ http://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
 http://185.121.1.163:8083/Mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм
 http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Кино",Советское кино
+http://5.9.11.197:57419/chu-139/mpegts
 #EXTINF:-1 group-title="Кино",Советское кино
 http://79.137.213.47/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино",Классика Кино
@@ -768,6 +780,10 @@ http://5.9.44.106/content/38617/index.m3u8
 #http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Кино 24
 #http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Start Air
+http://5.9.11.197:57419/chu-1641/mpegts
+#EXTINF:-1 group-title="Кино",Start World
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Дорама
 https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
