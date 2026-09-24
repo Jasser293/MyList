@@ -75,7 +75,7 @@ http://river-6-603.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/Y7-tWkjD058j3-Rdu3A
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://api.dommir.top/ch/5_Kanal_RU/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
-http://95.47.155.244:8001/play/a005
+http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 group-title="Федеральные",5 Канал International
 http://178.124.153.123:44400/5kanal
 #EXTINF:-1 group-title="Федеральные",5 Канал International
@@ -88,7 +88,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Федеральные",Звезда плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 group-title="Федеральные",ОТР
-http://95.47.155.244:8001/play/a009
+http://46.32.176.50/OTR/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ОТР
 http://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1 group-title="Новости",Мир 24
@@ -103,8 +103,6 @@ http://tinyurl.com/em5xy689
 http://194.152.35.17/tnt/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 http://api.dommir.top/ch/TNT_SD/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ (+4)
-http://95.47.155.244:8001/play/a019
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
@@ -161,8 +159,6 @@ http://89.33.29.115:8080/Domashniy/index.m3u8
 http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://31.131.141.195:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Домашний (+4)
-http://95.47.155.244:8001/play/a014
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://tinyurl.com/bd52kbpp
 #EXTINF:-1 group-title="Развлекательные",Пятница!
@@ -171,8 +167,6 @@ http://api.dommir.top/ch/Pyatniza_HD/playlist.m3u8
 http://194.152.35.17/Pyatnica/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://tinyurl.com/yc5mcpfb
-#EXTINF:-1 group-title="Развлекательные",Пятница! (+4)
-http://94.230.250.140/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Суббота!
 http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Че
@@ -242,13 +236,13 @@ http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/unknown_russia/mono.m3u8
 #EXTINF:-1 group-title="Новости",Продвижение
-http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+http://dvhome.ru/hls/tv.m3u8
 #EXTINF:-1 group-title="Новости",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Новости",РБК
-http://92.50.128.180/utv/1358/index.m3u8
+http://online-video.rbc.ru/spb/3/chunklist.m3u8
 #EXTINF:-1 group-title="Досуг",8 канал
-http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
+http://tshift-1.telecoma.tv/8channel/index.m3u8
 #EXTINF:-1 group-title="Новости",Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Регионы",Прима
@@ -256,7 +250,7 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 group-title="Новости",360 HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
 #EXTINF:-1 group-title="Регионы",Север
-http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+http://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 #EXTINF:-1 group-title="Регионы" ,Белгород 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-name="сампо тв" group-title="Регионы",Сампо ТВ
@@ -308,9 +302,11 @@ http://89.33.29.115:8080/Muzhskoy/index.m3u8
 #EXTINF:-1 group-title="Мужские",Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Новости",RT Doc
+http://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
+#EXTINF:-1 group-title="Новости",RT Doc
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 group-title="Новости",RT Doc
-http://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
+https://streaming.televizor-24-tochka.ru/live/554.m3u8
 #EXTINF:-1 group-title="Новости",Соловьёв LIVE
 http://stream.smotrim.ru/hls/solovievlive/playlist_4.m3u8
 #EXTINF:-1 group-title="Новости",Соловьёв LIVE
@@ -318,7 +314,7 @@ http://river-6-603.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/JKiTPkV7B54pg64m1Sb
 #EXTINF:-1 group-title="Новости",Царьград ТВ
 http://tinyurl.com/525xuju7
 #EXTINF:-1 group-title="Новости",Крик ТВ
-http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 group-title="Новости",ОСН ТВ
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 group-title="Досуг",Усадьба
@@ -378,7 +374,7 @@ http://46.32.176.50/ktoestkto/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка Отрыва
 http://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
 #EXTINF:-1 group-title="Познавательные",МОЯ ПЛАНЕТА
-http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
+http://46.32.176.50/moyaplaneta/index.m3u8
 #EXTINF:-1 group-title="Познавательные",RTG
 http://194.158.222.36:6039/
 #EXTINF:-1 group-title="Познавательные",RTG
@@ -642,9 +638,11 @@ http://stream1.cinerama.uz/1055/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 #http://fs.uplink.kz/kinohit/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Кино ТВ
-http://94.230.250.140/kinotv/index.m3u8
+http://5.9.11.197:57419/chu-117/mpegts
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://194.152.35.17/kino-tv/index.m3u8
+#EXTINF:-1 group-title="Кино",Кино ТВ
+http://flussonic.linkintel.ru/kino-tv/index.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
 http://139.28.255.188:8080/kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
@@ -733,13 +731,13 @@ http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://46.32.176.50/russkiyroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
-http://vod.tuva.ru/rusroman/index.m3u8
+http://5.9.11.197:57419/chu-136/mpegts
 #EXTINF:-1 group-title="Кино",Про любовь
 #
 #EXTINF:-1 group-title="Кино",Настоящее страшное ТВ
 http://46.32.176.50/nst/index.m3u8
 #EXTINF:-1 group-title="Кино",Настоящее страшное ТВ
-http://vod.tuva.ru/nst/index.m3u8
+http://89.33.29.115:8080/NST/index.m3u8
 #EXTINF:-1 group-title="Кино",Киноужас
 http://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Видеокассета
@@ -831,7 +829,7 @@ http://139.28.255.188:8080/match/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
 http://tinyurl.com/3njtcw3c
 #EXTINF:-1 group-title="Спорт",Матч!
-http://94.230.250.141/machtv/index.m3u8
+http://46.32.176.50/MatchTVHD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
 http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
@@ -891,7 +889,7 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детям",Мама
 http://194.152.35.17/mama/index.m3u8
 #EXTINF:-1 group-title="Детям",Карусель
-http://95.47.155.244:8001/play/a008
+http://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
 #EXTINF:-1 group-title="Детям",TiJi
 http://89.33.29.115:8080/TiJi/index.m3u8
 #EXTINF:-1 group-title="Детям",Детский Мир
