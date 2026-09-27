@@ -29,19 +29,25 @@ http://cdn2.ntv.ru/ntv4/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",НТВ Право
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
-http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+http://api.dommir.top/ch/NTV_Pravo_RU/playlist.m3u8
+#EXTINF:-1 group-title="Досуг",НТВ Право
+#EXTVLCOPT:http-user-agent=Donate BTC
+https://cdn.ntv.ru/th_pravo/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Зал суда
 #
 #EXTINF:-1 group-title="Досуг",НТВ СТИЛЬ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
-http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Donate BTC
+http://cdn.ntv.ru/th_style/mono.m3u8
+#EXTINF:-1 group-title="Досуг",НТВ ХИТ
+http://5.9.11.197:57419/chu-130/mpegts
 #EXTINF:-1 group-title="Досуг",НТВ ХИТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
-http://cdn2.ntv.ru/th_hit/mono.m3u8
+https://cdn.ntv.ru/th_hit/mono.m3u8
+#EXTINF:-1 group-title="Досуг",НТВ СЕРИАЛ
+http://5.9.11.197:57419/chu-129/mpegts
 #EXTINF:-1 group-title="Досуг",НТВ СЕРИАЛ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
-http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+https://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
