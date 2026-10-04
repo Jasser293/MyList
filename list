@@ -288,6 +288,8 @@ http://stream1.cinerama.uz/1430/mono.m3u8
 #EXTINF:-1 group-title="Мужские",АВТО 24
 http://185.121.1.163:8083/Avto24/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
+http://178.76.68.60:7442/110/index.m3u8
+#EXTINF:-1 group-title="Мужские",Авто плюс
 http://stream1.cinerama.uz/1036/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
 http://195.64.140.147:10029/29
@@ -626,6 +628,8 @@ http://5.9.11.197:57419/chu-99/mpegts
 #EXTINF:-1 group-title="Кино",Кинохит
 http://139.28.255.252:8080/kinohit/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
+http://178.76.68.60:7442/134/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит
 http://5.9.11.197:57419/chu-118/mpegts
 #EXTINF:-1 group-title="Кино",Кинохит
 http://stream1.cinerama.uz/1055/index.m3u8
@@ -721,9 +725,13 @@ http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
+http://178.76.68.60:7442/245/index.m3u8
+#EXTINF:-1 group-title="Кино",Русский роман
 http://5.9.11.197:57419/chu-136/mpegts
 #EXTINF:-1 group-title="Кино",Про любовь
 #
+#EXTINF:-1 group-title="Кино",Настоящее страшное ТВ
+http://178.76.68.60:7442/249/index.m3u8
 #EXTINF:-1 group-title="Кино",Настоящее страшное ТВ
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="Кино",Настоящее страшное ТВ
@@ -734,6 +742,8 @@ http://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
 #http://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм
 http://185.121.1.163:8083/Mosfilm/index.m3u8
+#EXTINF:-1 group-title="Кино",Мосфильм
+http://178.76.68.60:7442/224/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм
 http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино",Советское кино
@@ -791,9 +801,13 @@ http://stream3.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
 http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
-http://stream3.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+http://178.76.68.60:7442/151/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
-http://stream.mcquack.net/235/index.m3u8
+http://stream3.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports UA
+http://178.76.68.60:7442/149/index.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports 2
+#http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1,Sport 1 Baltic
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 group-title="Спорт",Беларусь 5
@@ -847,11 +861,15 @@ http://radio.tvs.by:8088/Setanta1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://31.148.5.241/Match_Football_1_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
-http://stream.mcquack.net/130/index.m3u8
+http://178.76.68.60:7442/146/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+#http://stream.mcquack.net/130/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://31.148.5.241/Match_Football_2_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
-http://stream.mcquack.net/142/index.m3u8
+http://178.76.68.60:7442/147/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
+#http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
