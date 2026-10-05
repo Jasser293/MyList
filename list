@@ -79,7 +79,7 @@ http://river-6-603.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/OK-QIVwTmRuzY3aiboh
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://api.dommir.top/ch/5_Kanal_RU/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
-http://31.131.141.195:8000/play/1050/index.m3u8
+http://194.152.35.17/5-kanal/index.m3u8
 #EXTINF:-1 group-title="Федеральные",5 Канал International
 http://178.124.153.123:44400/5kanal
 #EXTINF:-1 group-title="Федеральные",5 Канал International
@@ -138,9 +138,9 @@ http://194.152.35.17/sts/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
 http://185.91.177.13/sts/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
-http://31.131.141.195:8000/play/2030/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС
 http://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС (+1)
+http://tshift-1.telecoma.tv/sts/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС love
 http://api.dommir.top/ch/STS_Love_RU/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС love
@@ -160,7 +160,7 @@ http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 group-title="Развлекательные",Домашний
-http://31.131.141.195:8000/play/a001/index.m3u8
+http://195.64.140.147:10018/18
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://tinyurl.com/bd52kbpp
 #EXTINF:-1 group-title="Развлекательные",Пятница!
@@ -338,7 +338,7 @@ http://tinyurl.com/2d84c2e3
 #EXTINF:-1 group-title="Досуг",Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 group-title="Досуг",Доктор
-http://185.195.184.30:8000/play/a00q/index.m3u8
+http://178.134.1.158:8081/doktor/index.m3u8
 #EXTINF:-1 group-title="Досуг",Доктор
 http://stream1.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Здоровое ТВ
@@ -360,7 +360,7 @@ http://stream1.cinerama.uz/1236/index.m3u8
 #EXTINF:-1 group-title="Досуг",Кухня
 http://195.64.140.147:10037/37
 #EXTINF:-1 group-title="Досуг",Первый Вегетарианский
-http://185.195.184.30:8000/play/a0ks/index.m3u8
+#
 #EXTINF:-1 group-title="Досуг",Лапки Live
 http://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Познавательные",Вопросы и ответы
@@ -372,7 +372,7 @@ http://cdn.universmotri.ru/live/lq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Кто есть кто
 http://195.64.140.147:10165/165
 #EXTINF:-1 group-title="Познавательные",Совершенно секретно
-http://185.195.184.30:8000/play/a0km/index.m3u8
+#
 #EXTINF:-1 group-title="Познавательные",Точка Отрыва
 http://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
 #EXTINF:-1 group-title="Познавательные",МОЯ ПЛАНЕТА
@@ -438,7 +438,7 @@ http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://stream1.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
-http://185.195.184.30:8000/play/a1aj/index.m3u8
+http://river-3-373.rtbcdn.ru/stream/genetta-408.ntv.rutube.ru/hxBa4ssdoSjoyXquzdPinw/1791739276/4004c8f6817b9ae1bd0d418905ae2b02/1080p_stream.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://tinyurl.com/3dpzcy4h
 #EXTINF:-1 group-title="Познавательные",National Geographic
@@ -490,17 +490,13 @@ http://139.28.255.252:8080/Dikij/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикий
 http://stream1.cinerama.uz/1230/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
-http://185.195.184.30:8000/play/a0ke/index.m3u8
-#EXTINF:-1 group-title="Мужские",Дикая Охота
 http://stream1.cinerama.uz/1412/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
-#http://stream.mcquack.net/274/index.m3u8
-#EXTINF:-1 group-title="Мужские",Дикая Рыбалка
-http://185.195.184.30:8000/play/a0kd/index.m3u8
+http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Рыбалка
 http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
-http://185.195.184.30:8000/play/a0kr/index.m3u8
+http://195.64.140.147:10117/117
 #EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 group-title="Мужские",Prosto Fishing
@@ -819,8 +815,6 @@ http://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="Спорт",H&C
 http://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Спорт",Бокс ТВ
-http://185.195.184.30:8000/play/a0lp/index.m3u8
-#EXTINF:-1 group-title="Спорт",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
 #EXTINF:-1 group-title="Спорт",Удар
 http://5.188.159.128:8070/udar/index.m3u8
@@ -835,11 +829,9 @@ http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
 http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
-http://185.195.184.30:8000/play/a0h9/index.m3u8
+http://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://195.64.140.147:10099/99
-#EXTINF:-1 group-title="Спорт",Матч! Премьер
-http://185.195.184.30:8000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
