@@ -292,13 +292,13 @@ http://185.121.1.163:8083/Avto24/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
 http://178.76.68.60:7442/110/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
-http://stream1.cinerama.uz/1036/mono.m3u8
+http://80.245.95.243:8888/play/a003/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
-http://195.64.140.147:10029/29
+http://stream1.cinerama.uz/1036/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
 http://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
-http://185.46.16.239:8000/Drayv
+http://185.46.16.2a9:8000/Drayv
 #EXTINF:-1 group-title="Мужские",Мото Драйв
 http://stitch.teletarget.ru/vintera/motodrive/index.m3u8
 #EXTINF:-1 group-title="Мужские",Мужской
@@ -432,11 +432,13 @@ http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Познавательные",H2
 #
 #EXTINF:-1 group-title="Познавательные",Travel+Adventure
-http://77.232.131.211/TravelAdventureHD/index.m3u8
+#
 #EXTINF:-1 group-title="Развлекательные",TLC HD
 http://tinyurl.com/32zjbkkr
 #EXTINF:-1 group-title="Развлекательные",TLC HD
-http://stream.mcquack.net/168/index.m3u8
+http://80.245.95.243:8888/play/a017/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",TLC HD
+#http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://stream1.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
@@ -515,8 +517,6 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыка",RU.TV
 http://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
-#EXTINF:-1 group-title="Музыка",О2ТВ
-http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыка",ТНТ Music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Музыка",Муз ТВ HD
@@ -576,9 +576,9 @@ http://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Кино",Сапфир
-http://77.232.131.211/Sapfir/index.m3u8
+http://178.76.68.60:7442/139/index.m3u8
 #EXTINF:-1 group-title="Кино",Сапфир
-http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
+http://80.245.95.243:8888/play/a020/index.m3u8
 #EXTINF:-1 group-title="Досуг",Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",2x2
