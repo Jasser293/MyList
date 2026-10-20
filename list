@@ -189,6 +189,8 @@ http://dmi3y-tv.online/hls/region/CH_VOLGA_NN.m3u8
 http://dmi3y-tv.online/hls/region/CH_12CHANNEL_OMSK.m3u8
 #EXTINF:-1 group-title="Регионы",С1 (Сургут)
 http://sitv.ru/hls/stv.m3u8
+#EXTINF:-1 group-title="Регионы",Овертайм ТВ
+http://live.overtime26.ru/app/potok/playlist.m3u8
 #EXTINF:-1 group-title="Регионы",Наш дом (Пенза)
 http://dmi3y-tv.online/hls/region/CH_NASHDOM_PENZA.m3u8
 #EXTINF:-1 group-title="Регионы",Ветта-24 (Пермь)
@@ -667,17 +669,17 @@ http://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 ,Смотрим Честный Детектив
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Смотрим 100% Любовь
-http://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+https://stream.smotrim.ru/hls3/fasttv01/playlist_2.m3u8
 #EXTINF:-1 group-title="Кино",Смотрим 100% Мужское
-http://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+http://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Смотрим 100% Классика
-http://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+http://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Смотрим 100% Праздник
-http://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+http://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Смотрим 100% Детское
-http://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+http://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Смотрим 100% Факты
-http://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+http://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Время
 http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
