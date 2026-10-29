@@ -14,8 +14,6 @@ http://139.28.255.188:8080/ntvhd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Федеральные",НТВ
-http://api.dommir.top/ch/NTV_HD_hi/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",НТВ (+1)
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/ntv1/mono.m3u8
@@ -37,7 +35,9 @@ http://api.dommir.top/ch/NTV_Pravo_RU/playlist.m3u8
 #
 #EXTINF:-1 group-title="Досуг",НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn2.ntv.ru/th_style/index.m3u8
+http://cdn.ntv.ru/th_style/index.m3u8
+#EXTINF:-1 group-title="Досуг",НТВ СТИЛЬ
+http://195.64.140.147:10173/173
 #EXTINF:-1 group-title="Досуг",НТВ ХИТ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_hit/mono.m3u8
