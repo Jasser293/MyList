@@ -35,8 +35,9 @@ http://api.dommir.top/ch/NTV_Pravo_RU/playlist.m3u8
 #
 #EXTINF:-1 group-title="Досуг",НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn2.ntv.ru/th_style/mono.m3u8
+https://cdn2.ntv.ru/th_style/index.m3u8
 #EXTINF:-1 group-title="Досуг",НТВ ХИТ
+#EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_hit/mono.m3u8
 #EXTINF:-1 group-title="Досуг",НТВ СЕРИАЛ
 #EXTVLCOPT:http-user-agent=Donate BTC
