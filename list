@@ -38,21 +38,12 @@ http://api.dommir.top/ch/NTV_Pravo_RU/playlist.m3u8
 #EXTINF:-1 group-title="Досуг",НТВ СТИЛЬ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_style/index.m3u8
-#EXTINF:-1 group-title="Досуг",НТВ СТИЛЬ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn.ntv.ru/th_style/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",НТВ ХИТ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_hit/mono.m3u8
-#EXTINF:-1 group-title="Досуг",НТВ ХИТ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn.ntv.ru/th_hit/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",НТВ СЕРИАЛ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn2.ntv.ru/th_serial/mono.m3u8
-#EXTINF:-1 group-title="Досуг",НТВ СЕРИАЛ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn.ntv.ru/th_serial/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
@@ -876,14 +867,11 @@ http://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
 #EXTINF:-1 group-title="Детям",Мультимания
 #http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
 #EXTINF:-1 group-title="Тест",НТВ СЕРИАЛ
-#EXTVLCOPT:http-user-agent=Donate BTC
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37 android 14
+http://cdn.ntv.ru/th_serial/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Тест",НТВ СЕРИАЛ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://cdn.ntv.ru/th_serial/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Тест",НТВ СТИЛЬ
-#EXTVLCOPT:http-user-agent=Donate BTC
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.1.0","version_code":"388","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
 http://cdn.ntv.ru/th_style/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Досуг",НТВ ХИТ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn.ntv.ru/th_hit/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Досуг",НТВ СЕРИАЛ
-#EXTVLCOPT:http-user-agent=Donate BTC
-http://cdn.ntv.ru/th_serial/tracks-v2a1/mono.m3u8
