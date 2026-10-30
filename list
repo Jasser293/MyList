@@ -132,7 +132,7 @@ http://api.dommir.top/ch/Anekdot_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
 http://cdn-ed-04.tlgx.ru:8987/CH_TVOETV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
-http://de.vivamax.pro/TvoeTV/index.m3u8?token=TvoeTV
+#http://de.vivamax.pro/TvoeTV/index.m3u8?token=TvoeTV
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
 http://cdn-ed-04.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
