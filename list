@@ -54,6 +54,8 @@ http://cdn2.ntv.ru/th_serial/mono.m3u8
 #EXTINF:-1 group-title="Досуг",НТВ СЕРИАЛ
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/th_serial/mono.m3u8
+#EXTINF:-1 group-title="Досуг",НТВ СЕРИАЛ
+http://stream.mcquack.net/301/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
@@ -81,7 +83,7 @@ http://dmi3y-tv.online/hls/T2/CH_TVC_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://139.28.255.188:8080/5tv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
-http://river-3-372.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/SLXQfZA0EhD1Xi-dwgZUCw/1794077009/ac99df0130b4620480528efc6aa22ad6/1080p_stream.m3u8
+http://river-3-3120.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/8mNtFaLXrWmovIgmpMt7sQ/1794129340/ac99df0130b4620480528efc6aa22ad6/1080p_stream.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://api.dommir.top/ch/5_Kanal_RU/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -478,11 +480,11 @@ http://stream1.cinerama.uz/1230/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
 http://stream1.cinerama.uz/1412/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
-http://stream.mcquack.net/274/index.m3u8
+http://stream.mcquack.net/274/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Мужские",Дикая Рыбалка
-http://stream.mcquack.net/275/index.m3u8
+http://stream.mcquack.net/275/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
-http://stream.mcquack.net/264/index.m3u8
+http://stream.mcquack.net/264/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Мужские",Prosto Fishing
 http://31.43.48.248:7000/ch344/video.m3u8
 #EXTINF:-1 group-title="Мужские",555 Hunt Fishing TV
@@ -696,6 +698,8 @@ http://45.11.139.43:8555/vremya/index.m3u8
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="Кино",Душевное
+http://stream.mcquack.net/213/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Кино",Про любовь
 #
 #EXTINF:-1 group-title="Кино",Настоящее страшное ТВ
