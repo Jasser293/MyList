@@ -289,6 +289,8 @@ http://stream1.cinerama.uz/1430/mono.m3u8
 http://185.121.1.163:8083/Avto24/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
 http://stream1.cinerama.uz/1036/mono.m3u8
+#EXTINF:-1 group-title="Мужские",Авто плюс
+http://87.246.54.108/AvtoPlus/index.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
 http://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
@@ -585,12 +587,14 @@ http://stream1.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/117/index.m3u8
 #EXTINF:-1 group-title="Кино",А2
 http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
+#EXTINF:-1 group-title="Кино",А2
+http://85.117.61.84/amedia2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Hit
 http://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 group-title="Кино",Amedia Premium
 http://139.28.255.188:8080/Amedia/index.m3u8
 #EXTINF:-1 group-title="Кино",.black
-#
+http://85.117.61.84/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",.Red
 http://176.100.46.245:90/red/index.m3u8
 #EXTINF:-1 group-title="Кино",.Red
@@ -710,6 +714,8 @@ http://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8
 http://185.121.1.163:8083/Mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм
 http://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv2
+#EXTINF:-1 group-title="Кино",Мосфильм
+http://85.117.61.84/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино",Советское кино
 https://serv30.vintera.tv/dai/sovietmovs_dai_scte35/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Советское кино
