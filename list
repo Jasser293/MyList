@@ -781,7 +781,7 @@ http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Страна
 http://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
-http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
