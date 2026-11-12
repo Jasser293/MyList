@@ -124,7 +124,11 @@ http://api.dommir.top/ch/KVN_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
 http://api.dommir.top/ch/Anekdot_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
+http://tvoetv.space:8080/tvoetv/video.m3u8
+#EXTINF:-1 group-title="Развлекательные",Твоё ТВ
 http://cdn-ed-04.tlgx.ru:8987/CH_TVOETV/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
 http://cdn-ed-04.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
