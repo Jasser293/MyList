@@ -123,6 +123,8 @@ http://178.124.153.123:44400/peretz
 http://api.dommir.top/ch/KVN_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
 http://api.dommir.top/ch/Anekdot_TV/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Gags Network
+http://stream.mcquack.net/458/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
@@ -151,6 +153,8 @@ http://api.dommir.top/ch/Domashniy_RU_hi/playlist.m3u8
 http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://185.46.16.239:8000/Domashniy
+#EXTINF:-1 group-title="Развлекательные",Домашний
+http://stream.mcquack.net/227/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://tinyurl.com/bd52kbpp
 #EXTINF:-1 group-title="Развлекательные",Пятница!
@@ -277,6 +281,8 @@ http://185.121.1.163:8083/Avto24/index.m3u8
 http://stream1.cinerama.uz/1036/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
 http://87.246.54.108/AvtoPlus/index.m3u8
+#EXTINF:-1 group-title="Мужские",Авто плюс
+http://stream.mcquack.net/186/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Мужские",Драйв
 http://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
@@ -336,7 +342,7 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 group-title="Досуг",Foodman club
 http://stitch.teletarget.ru/vintera/joycook/index.m3u8
 #EXTINF:-1 group-title="Досуг",FoodTime
-http://stream.mcquack.net/216/index.m3u8
+http://stream.mcquack.net/216/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Досуг",Кухня
 http://stream1.cinerama.uz/1236/index.m3u8
 #EXTINF:-1 group-title="Досуг",Кухня
@@ -570,7 +576,7 @@ http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
 https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
-http://s1.merlive.am/kinosvidanie/index.m3u8
+http://stream.mcquack.net/171/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Кино",A1
 http://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Кино",A1
@@ -588,7 +594,7 @@ http://85.117.61.84/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",.Red
 http://176.100.46.245:90/red/index.m3u8
 #EXTINF:-1 group-title="Кино",.Red
-http://s1.merlive.am/redhd/index.m3u8
+http://stream.mcquack.net/69/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Кино",Sony Sci-Fi
 http://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
