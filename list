@@ -329,6 +329,8 @@ http://45.11.139.43:8555/doctor/index.m3u8
 http://185.46.16.239:8000/Doktor
 #EXTINF:-1 group-title="Досуг",Доктор
 http://stream1.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Досуг",Доктор
+http://stream.mcquack.net/80/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Досуг",Здоровое ТВ
 http://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
 #EXTINF:-1 group-title="Досуг",Здоровое ТВ
@@ -343,6 +345,8 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 http://stitch.teletarget.ru/vintera/joycook/index.m3u8
 #EXTINF:-1 group-title="Досуг",FoodTime
 http://stream.mcquack.net/216/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Досуг",Food Network
+http://stream.mcquack.net/298/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Досуг",Кухня
 http://stream1.cinerama.uz/1236/index.m3u8
 #EXTINF:-1 group-title="Досуг",Кухня
@@ -499,8 +503,16 @@ http://stream1.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный
 http://136.243.42.146/HLS/HD.m3u8
-#EXTINF:-1 group-title="Музыка",Bridge TV
+#EXTINF:-1 group-title="Музыка",BRIDGE
 http://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
+#EXTINF:-1 group-title="Музыка",BRIDGE
+http://stream.mcquack.net/318/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Музыка",BRIDGE DELUXE HD
+http://stream.mcquack.net/92/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Музыка",BRIDGE CLASSIC
+http://stream.mcquack.net/272/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Музыка",BRIDGE Русский ХИТ
+http://stream.mcquack.net/320/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Музыка",Vevo '70s & '80s
 http://jmp2.uk/stvp-GBBD1900009UD
 #EXTINF:-1 group-title="Музыка",Vevo '90s & '00s
@@ -566,7 +578,7 @@ http://185.121.1.163:8083/Kineko/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://139.28.255.188:8080/eurokin/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
-http://vod.tuva.ru/eurokino/index.m3u8
+http://stream.mcquack.net/385/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Кино",Техно 24
 http://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Тайна
@@ -605,6 +617,8 @@ https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
 http://stream1.cinerama.uz/1055/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://stream.mcquack.net/126/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Кино",Блокбастер
+http://stream.mcquack.net/364/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://185.121.1.163:8083/KinoTV/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
