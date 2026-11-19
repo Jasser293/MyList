@@ -55,7 +55,7 @@ http://cdn2.ntv.ru/th_serial/mono.m3u8
 #EXTVLCOPT:http-user-agent=Donate BTC
 http://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTINF:-1 group-title="Досуг",НТВ СЕРИАЛ
-http://stream.mcquack.net/301/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://s7.merlive.am/NTVSerial/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
 http://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 1
@@ -124,7 +124,7 @@ http://api.dommir.top/ch/KVN_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
 http://api.dommir.top/ch/Anekdot_TV/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Gags Network
-http://stream.mcquack.net/458/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://s7.merlive.am/gagsnetwork/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
 http://tvoetv.space:8080/tvoetv/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
@@ -154,7 +154,7 @@ http://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1 group-title="Развлекательные",Домашний
 http://185.46.16.239:8000/Domashniy
 #EXTINF:-1 group-title="Развлекательные",Домашний
-http://stream.mcquack.net/227/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://31.148.5.241/kanal_14/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница!
 http://tinyurl.com/bd52kbpp
 #EXTINF:-1 group-title="Развлекательные",Пятница!
@@ -282,7 +282,7 @@ http://stream1.cinerama.uz/1036/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
 http://87.246.54.108/AvtoPlus/index.m3u8
 #EXTINF:-1 group-title="Мужские",Авто плюс
-http://stream.mcquack.net/186/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://s7.merlive.am/Avtoplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
 http://stream1.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Драйв
@@ -329,8 +329,6 @@ http://45.11.139.43:8555/doctor/index.m3u8
 http://185.46.16.239:8000/Doktor
 #EXTINF:-1 group-title="Досуг",Доктор
 http://stream1.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Досуг",Доктор
-http://stream.mcquack.net/80/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Досуг",Здоровое ТВ
 http://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
 #EXTINF:-1 group-title="Досуг",Здоровое ТВ
@@ -344,13 +342,11 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 group-title="Досуг",Foodman club
 http://stitch.teletarget.ru/vintera/joycook/index.m3u8
 #EXTINF:-1 group-title="Досуг",FoodTime
-http://stream.mcquack.net/216/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Досуг",Food Network
-http://stream.mcquack.net/298/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#
+#EXTINF:-1 group-title="Досуг",Аппетитный
+http://s7.merlive.am/FoodNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Кухня
 http://stream1.cinerama.uz/1236/index.m3u8
-#EXTINF:-1 group-title="Досуг",Кухня
-http://stream.mcquack.net/179/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Досуг",Кухня
 http://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Жар птица
@@ -407,26 +403,18 @@ http://stitch.teletarget.ru/peerstv/terra/index.m3u8
 http://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Discovery Channel
-http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Познавательные",Discovery Channel
-#http://tinyurl.com/4j2shkyf
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
-http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#
 #EXTINF:-1 group-title="Развлекательные",TLC HD
-http://stream.mcquack.net/168/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Развлекательные",TLC HD
-#http://tinyurl.com/32zjbkkr
+http://s7.merlive.am/tlc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://stream1.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
-http://stream.mcquack.net/114/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://s7.merlive.am/animalplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
-http://stream.mcquack.net/116/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Познавательные",National Geographic
-#http://tinyurl.com/3dpzcy4h
+http://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Океан ТВ
@@ -472,11 +460,11 @@ http://stream1.cinerama.uz/1230/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
 http://stream1.cinerama.uz/1412/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Охота
-http://stream.mcquack.net/274/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://s7.merlive.am/dikayaoxota/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Дикая Рыбалка
-http://stream.mcquack.net/275/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://s7.merlive.am/dikayaribalka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
-http://stream.mcquack.net/264/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#
 #EXTINF:-1 group-title="Мужские",Prosto Fishing
 http://31.43.48.248:7000/ch344/video.m3u8
 #EXTINF:-1 group-title="Мужские",555 Hunt Fishing TV
@@ -501,14 +489,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://136.243.42.146/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыка",BRIDGE
 http://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
-#EXTINF:-1 group-title="Музыка",BRIDGE
-http://stream.mcquack.net/318/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Музыка",BRIDGE DELUXE HD
-http://stream.mcquack.net/92/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Музыка",BRIDGE CLASSIC
-http://stream.mcquack.net/272/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Музыка",BRIDGE Русский ХИТ
-http://stream.mcquack.net/320/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Музыка",Vevo '70s & '80s
 http://jmp2.uk/stvp-GBBD1900009UD
 #EXTINF:-1 group-title="Музыка",Vevo '90s & '00s
@@ -574,7 +554,7 @@ http://185.121.1.163:8083/Kineko/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://139.28.255.188:8080/eurokin/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
-http://stream.mcquack.net/385/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://185.46.16.239:8000/Yevrokino
 #EXTINF:-1 group-title="Кино",Техно 24
 http://stream1.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Тайна
@@ -584,11 +564,11 @@ http://139.28.255.188:8080/kinoprem/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
 https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
 #EXTINF:-1 group-title="Кино",Киносвидание
-http://stream.mcquack.net/171/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Кино",A1
 http://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Кино",A1
-http://stream.mcquack.net/117/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://s7.merlive.am/Amedia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",А2
 http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 #EXTINF:-1 group-title="Кино",А2
@@ -602,7 +582,7 @@ http://85.117.61.84/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",.Red
 http://176.100.46.245:90/red/index.m3u8
 #EXTINF:-1 group-title="Кино",.Red
-http://stream.mcquack.net/69/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://85.117.37.43/red/index.m3u8
 #EXTINF:-1 group-title="Кино",Sony Sci-Fi
 http://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
@@ -612,9 +592,7 @@ https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
 http://stream1.cinerama.uz/1055/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
-http://stream.mcquack.net/126/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Кино",Блокбастер
-http://stream.mcquack.net/364/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://s7.merlive.am/Kinoxit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://185.121.1.163:8083/KinoTV/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ
@@ -639,14 +617,12 @@ http://185.121.1.163:8083/Bollywood/index.m3u8
 http://185.121.1.163:8083/IndiyskoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино",Индийское кино
 http://188.113.190.12/329/mono.m3u8
-#EXTINF:-1 group-title="Кино",Индийское кино
-http://stream.mcquack.net/104/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 ,Индия
-#
+#EXTINF:-1 group-title="Кино",Индия
+http://fs.uplink.kz/india/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Кино",Кинокомедия
 http://stream1.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Кинокомедия
-http://stream.mcquack.net/265/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://flussonic.mkpnet.ru/tv-937f4570528e773b/video.m3u8
 #EXTINF:-1 group-title="Кино",ViP Comedy HD
 http://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 group-title="Кино",ViP Comedy HD
@@ -676,7 +652,7 @@ http://stream1.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Родное кино
 http://stream1.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Родное кино
-http://stream.mcquack.net/242/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский бестселлер
 http://139.28.255.188:8080/bestseller/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский иллюзион
@@ -706,20 +682,12 @@ http://45.11.139.43:8555/vremya/index.m3u8
 http://139.28.255.188:8080/rusroman/index.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 group-title="Кино",Душевное
-http://stream.mcquack.net/213/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Кино",Про любовь
-#
 #EXTINF:-1 group-title="Кино",Настоящее страшное ТВ
 http://176.118.197.101/HCT/mono.m3u8
 #EXTINF:-1 group-title="Кино",Настоящее страшное ТВ
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="Кино",Видеокассета
 #http://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8
-#EXTINF:-1 group-title="Кино",Cineman VHS HD
-http://stream.mcquack.net/474/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Кино",Fresh VHS HD
-http://stream.mcquack.net/428/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Кино",Мосфильм
 http://185.121.1.163:8083/Mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм
@@ -774,17 +742,6 @@ http://31.148.5.241/Eurosport_1_HD/tracks-v1a1/mono.m3u8
 http://stream1.cinerama.uz/1452/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://31.148.5.241/Eurosport_2_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports 1
-http://stream.mcquack.net/234/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Спорт",Setanta Sports 1
-#http://stream3.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports 2
-http://stream.mcquack.net/235/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Спорт",Setanta Sports 2
-#http://stream3.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sport 1 Baltic
-http://stream.mcquack.net/461/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Спорт",Беларусь 5
 http://194.158.222.36:6109
 #EXTINF:-1 group-title="Спорт",Trace Sport Stars
 http://stream1.cinerama.uz/1274/tracks-v1a1/mono.m3u8
@@ -794,8 +751,6 @@ http://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 http://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Спорт",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
-#EXTINF:-1 group-title="Спорт",Удар
-http://stream.mcquack.net/279/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Спорт",MMA-TV
 http://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч!
@@ -812,8 +767,6 @@ http://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
 http://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Премьер
-http://stream.mcquack.net/193/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Спорт",МАТЧ! Арена
 http://139.28.255.188:8080/matcharena/index.m3u8
 #EXTINF:-1 group-title="Спорт",МАТЧ! Боец
@@ -830,12 +783,8 @@ http://radio.tvs.by:8088/Setanta1/index.m3u8
 http://195.64.140.147:10107/107
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://31.148.5.241/Match_Football_1_HD/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
-http://stream.mcquack.net/130/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://31.148.5.241/Match_Football_2_HD/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
-http://stream.mcquack.net/142/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
@@ -845,7 +794,7 @@ http://stream1.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",KHL
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 group-title="Спорт",KHL Prime
-http://stream.mcquack.net/178/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Спорт",Астрахань Спорт
 http://213.108.175.226/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Red Bull TV
