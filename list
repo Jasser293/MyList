@@ -406,31 +406,27 @@ http://stitch.teletarget.ru/peerstv/terra/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами туриста
 http://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
-http://tinyurl.com/4j2shkyf
-#EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
+#http://tinyurl.com/4j2shkyf
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Познавательные",History
-#
-#EXTINF:-1 group-title="Познавательные",H2
-#
-#EXTINF:-1 group-title="Познавательные",Travel+Adventure
-#
-#EXTINF:-1 group-title="Развлекательные",TLC HD
-http://tinyurl.com/32zjbkkr
 #EXTINF:-1 group-title="Развлекательные",TLC HD
 http://stream.mcquack.net/168/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Развлекательные",TLC HD
+#http://tinyurl.com/32zjbkkr
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://stream1.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://stream.mcquack.net/114/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 #EXTINF:-1 group-title="Познавательные",National Geographic
-http://tinyurl.com/3dpzcy4h
-#EXTINF:-1 group-title="Познавательные",National Geographic
 http://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://stream.mcquack.net/116/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Познавательные",National Geographic
+#http://tinyurl.com/3dpzcy4h
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
 http://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Океан ТВ
@@ -830,6 +826,8 @@ http://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 group-title="Спорт",Футбол
 http://radio.tvs.by:8088/Setanta1/index.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол
+http://195.64.140.147:10107/107
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://31.148.5.241/Match_Football_1_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
