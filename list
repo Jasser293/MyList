@@ -405,16 +405,22 @@ http://stitch.teletarget.ru/peerstv/terra/index.m3u8
 http://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://stream1.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
+http://tinyurl.com/4w888r28
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 #
 #EXTINF:-1 group-title="Развлекательные",TLC HD
 http://45.133.106.36/tlc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",TLC HD
+http://tinyurl.com/3eaza32a
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://stream1.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Animal Planet
 http://45.133.106.36/animalplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic
+https://tinyurl.com/ykksxsbw
 #EXTINF:-1 group-title="Познавательные",National Geographic
 http://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild
