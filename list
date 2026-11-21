@@ -791,9 +791,7 @@ http://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Игра
 http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 group-title="Спорт",Футбол
-http://radio.tvs.by:8088/Setanta1/index.m3u8
-#EXTINF:-1 group-title="Спорт",Футбол
-http://195.64.140.147:10107/107
+#
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://31.148.5.241/Match_Football_1_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
