@@ -85,7 +85,7 @@ http://dmi3y-tv.online/hls/T2/CH_TVC_INTERNATIONAL.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://139.28.255.188:8080/5tv/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
-http://river-3-342.rtbcdn.ru/stream/genetta-301.m9.rutube.ru/cNbFhGlxAlQeVYOTx5JN0g/1796117371/ac99df0130b4620480528efc6aa22ad6/1080p_stream.m3u8
+http://river-3-342.rtbcdn.ru/stream/genetta-317.m9.rutube.ru/cfaadzrzvDxoZVzXWyL8Gw/1796301474/ac99df0130b4620480528efc6aa22ad6/720p_stream.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 http://api.dommir.top/ch/5_Kanal_RU/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
@@ -398,7 +398,7 @@ http://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 #EXTINF:-1 group-title="Религия",Бог Благ ТВ
 http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Религия",Life TV
-http://lifetv.bitflip.ee/live/stream8.m3u8
+http://lifetv.bitflip.ee/live/stream2.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная планета
 http://stitch.teletarget.ru/peerstv/terra/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Глазами туриста
@@ -479,8 +479,6 @@ http://31.43.48.248:7000/ch344/video.m3u8
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Шансон ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Шансон ТВ
-http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
 #EXTINF:-1 group-title="Музыка",1HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыка",Муз ТВ
@@ -542,7 +540,7 @@ http://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Досуг",Теледом ТВ
 http://95.213.129.138/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Кино",Сапфир
-http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
+#
 #EXTINF:-1 group-title="Досуг",Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",2x2
@@ -636,9 +634,9 @@ http://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 group-title="Кино",ViP Comedy HD
 http://185.46.16.239:8000/VIP_Comedy
 #EXTINF:-1 group-title="Кино",ViP Megahit HD
-http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
-#EXTINF:-1 group-title="Кино",ViP Megahit HD
 http://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
+#EXTINF:-1 group-title="Кино",ViP Megahit HD
+http://85.117.61.97:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Кино",ViP Premiere HD
 http://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 group-title="Кино",ViP Premiere HD
@@ -723,19 +721,17 @@ http://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",TV1000
 http://139.28.255.188:8080/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000
-http://46.53.200.153:7777/play/TV_1000/index.m3u8
+http://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Кино",TV1000 Русское кино
 http://139.28.255.188:8080/tv1000ruskino/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское кино
-http://46.53.200.153:7777/play/a01g/index.m3u8
+http://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Кино",TV1000 Action
 http://139.28.255.188:8080/tv1000action/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Action
-http://46.53.200.153:7777/play/a01h/index.m3u8
+http://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Action
 http://185.121.1.163:8083/TV1000/index.m3u8
-#EXTINF:-1 group-title="Кино",TV1000 Novella
-http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
 #EXTINF:-1 group-title="Кино",Кино 1 International
 http://5.9.44.106/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино",Дорама
